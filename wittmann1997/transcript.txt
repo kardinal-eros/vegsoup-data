@@ -1,0 +1,59 @@
+BEGIN HEAD
+plot                                     00000000011
+                                         12345678901
+accuracy                                 22222222222
+                                         55555555555
+                                         00000000000
+                                                    
+richness                                   11  11111
+                                         49459911397
+                                                    
+END HEAD
+BEGIN TABLE
+Limosella aquatica                    hl 2111212...+
+Agrostis stolonifera s.str.              13+21313412
+Cyperus fuscus                           32...23+..1
+Alisma plantago-aquatica s.str.          +.2.+..1...
+Juncus bufonius s.str.                   .+22+21.+.3
+Alopecurus aequalis                      .2.2.......
+Chara sp.                                .12.+......
+Eleocharis palustris ssp. palustris      .+......+..
+Juncus effusus ssp. effusus              .+.........
+Poa annua ssp. annua                     .+.........
+Ranunculus sceleratus                    ..+........
+Glyceria notata                          ..1........
+Gnaphalium uliginosum                    ..+........
+Rorippa palustris                        ..++......+
+Bidens tripartita                        ..+.+..+..+
+Juncus articulatus                       ..+++1+1+1.
+Juncus inflexus                          ..+....1.1.
+Lolium perenne                           ..++.......
+Phleum pratense s.str.                   ..++.......
+Trifolium hybridum s.lat.                ...1...++++
+Ranunculus repens                        ...+.+...++
+Tripleurospermum inodorum                ...+....+1.
+Persicaria maculosa                      ...+.....+.
+Rumex crispus                            ...+.......
+Lotus corniculatus s.str.                ...+.....+.
+Festuca pratensis s.str.                 ...+.......
+Lythrum hyssopifolia                     ....+++333.
+Eleocharis mamillata ssp. austriaca      ....3......
+Prunella vulgaris                        .....+.++++
+Veronica beccabunga                      .....+....+
+Plantago major ssp. major                ......+.+++
+Polygonum aviculare s.lat.               ......+..++
+Erigeron annuus ssp. septentrionalis     ......+.+.+
+Deschampsia cespitosa                    ......+...+
+Anagallis arvensis                       ......+....
+Centaurium pulchellum                    .......+++.
+Plantago lanceolata                      .......+.+.
+Persicaria hydropiper                    ........+.+
+Lycopus europaeus ssp. europaeus         ........+..
+Epilobium tetragonum s.lat.              .........+.
+Juncus compressus s.str.                 .........+.
+Salix purpurea                           .........+.
+Matricaria discoidea                     .........+.
+Microrrhinum minus s.str.                .........+.
+Echinochloa crus-galli s.lat.            ..........+
+Scorzoneroides autumnalis                ..........+
+END TABLE

@@ -1,0 +1,12 @@
+116: 1 Gentiana pannonica, 1 Polygala chamaebuxus, 1 Potentilla erecta, + Soldanella alpina, r Valeriana saxatilis, r Biscutelia laevigata
+117: r Larix decidua, r Leontodon hispidus, r Picea abies, r Trifolium pratense, r Thymus pulegioides, r Sorbus aucuparia
+118: + Anthoxanthum alpinum, + Trifolium pratense
+118A: r Parnassia palustris, r Juniperus nana, r Hieracium bifidum, r Gentianella aspera, r Cerastium fontanum
+119:  + Leontodon hispidus, + Tofieldia calyculata, r Trifolium pratense, r Prunella vulgaris, r Orchis ustulata, r Linum catharticum, r Gentiana nivalis, r Carex lepidocarpa, r Cardaminopsis arenosa, r Arenaria serpyllifolia, r Anthoxanthum alpinum
+120: + Athamantha cretensis, r Coeloglossum viride
+121: + Hieracium bifidum, + Potentilla erecta, r Valeriana saxatilis, r Carex mucronata, r Gentiana pannonica, r Gymnadenia odoratissima
+122: + Soldanella austriaca, r Gentiana verna
+125: 1 Saxifraga aizoides, + Crepis terglouensis, + Tofieldia calyculata, r Bartsia alpina, r Tortella tortuosa
+126: + Saxifraga moschata, + Festuca rupicaprina
+127: 3 Ligusticum mutellina, 3 Soldanella alpina, 1 Luzula glabrata
+128: r Cerastium arvense ssp. strictum

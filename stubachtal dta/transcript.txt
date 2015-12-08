@@ -1,0 +1,50 @@
+taxon                                  layer cov
+Achillea millefolium agg.              hl    +  
+Allium lusitanicum                           2a 
+Anthyllis vulneraria s.lat.                  +  
+Arabidopsis arenosa                          +  
+Arrhenatherum elatius                        +  
+Artemisia campestris                         +  
+Asplenium ruta-muraria                       +  
+Asplenium trichomanes s.lat.                 +  
+Asplenium viride                             +  
+Briza media                                  1  
+Calamagrostis varia                          1  
+Carduus defloratus ssp. viridis              1  
+Carex caryophyllea                           2m 
+Carex flacca ssp. flacca                     1  
+Carex ornithopoda ssp. ornithopoda           1  
+Clinopodium alpinum ssp. alpinum             +  
+Echium vulgare ssp. vulgare                  +  
+Euphrasia salisburgensis s.str.              r  
+Festuca rubra agg.                           1  
+Festuca stricta ssp. sulcata                 2a 
+Fragaria vesca                               +  
+Galium album s.str.                          +  
+Gentiana verna ssp. verna                    r  
+Geranium robertianum s.str.                  r  
+Gypsophila repens                            2b 
+Hippocrepis comosa                           +  
+Knautia arvensis ssp. arvensis               +  
+Laserpitium latifolium ssp. latifolium       1  
+Leontodon hispidus s.lat.                    +  
+Lotus corniculatus s.str.                    +  
+Melica nutans s.str.                         +  
+Molinia caerulea agg.                        2a 
+Phyteuma orbiculare s.str.                   +  
+Plantago media                               +  
+Potentilla crantzii                          +  
+Potentilla erecta                            +  
+Prunella vulgaris                            1  
+Ranunculus acris ssp. acris                  +  
+Saxifraga paniculata                         2a 
+Scabiosa columbaria s.str.                   1  
+Sedum album                                  1  
+Sesleria caerulea s.str.                     2b 
+Thymus praecox ssp. polytrichus              2b 
+Trifolium montanum ssp. montanum             1  
+Trifolium pratense ssp. pratense             +  
+Vincetoxicum hirundinaria                    +  
+Viola rupestris                              +  
+ 
+x: 12.5888, y: 47.22713, accuracy: 5, bare: 0, comment: NA, cov: 40, date: 2012-06-19, description: Trockenrasenfragment an Felsen neben der Straße, expo: SW, hcov: 35, hhl1: 0,3, hhl2: 0,5, hsl: 0, htl1: 0, htl2: 0, mcov: 20, plsx: 4, plsy: 4, rock: 60, scov: 0, slope: 65, soil: 0, syntaxon: unclassified, t1cov: 0, t2cov: 0, richness: 47

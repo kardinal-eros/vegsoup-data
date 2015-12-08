@@ -1,0 +1,129 @@
+BEGIN HEAD
+plot                                    eeeeeeeeeeeeeeeeee
+                                        wwwwwwwwwwwwwwwwww
+                                        000000000111111111
+                                        123456789012345678
+accuracy                                      1           
+                                        555596055878996377
+                                                          
+altitude                                555555555555555555
+                                        553434333642432424
+                                        920517799298355126
+                                                          
+bare                                    000000000000000000
+                                                          
+cov                                                      1
+                                        999999999999999890
+                                        989988998855589580
+                                                          
+hcov                                      357765 7544 9691
+                                        110050557000520055
+                                                          
+hsl                                     102444443445444403
+                                                          
+htl1                                    1122333313331122 1
+                                        562800005000557703
+                                                          
+htl2                                        1    111      
+                                        000700880022888808
+                                                          
+mcov                                    999999999987628191
+                                        128006925505500005
+                                                          
+plsx                                    111111111111111111
+                                        666666666666666666
+                                                          
+plsy                                    111111111111111111
+                                        666666666666666666
+                                                          
+rock                                    000000000000000000
+                                                          
+scov                                        1 11   6112 72
+                                        102326052835500800
+                                                          
+slope                                                    1
+                                        000500000035333330
+                                                          
+stones                                  000000000000000000
+                                                          
+tcov1                                   999989999898993453
+                                        520082132505250000
+                                                          
+tcov2                                       1 23 222321 66
+                                        000700050580055205
+                                                          
+richness                                111111111211112211
+                                        147894666098883057
+                                                          
+END HEAD
+BEGIN TABLE
+Picea abies                         tl1 55543443422233..13
+Abies alba                              ...34232.323.2+..+
+Pinus sylvestris                        ......132232212211
+Betula pendula                          .......1....221...
+Viscum laxum ssp. abietis               ..........++......
+Abies grandis                           .............2...3
+Tsuga canadensis                        .............2....
+Fagus sylvatica                         ...............3..
+Abies nordmanniana                      ................3.
+Frangula alnus                          .................1
+Abies alba                          tl2 ...22.23.2323.2+..
+Picea abies                             ....1....1.+2.+..1
+Quercus robur                           .......1.........+
+Abies grandis                           .............2...1
+Fagus sylvatica                         .............2....
+Thuja plicata                           .............1....
+Sorbus aucuparia ssp. aucuparia         ..............+...
+Abies nordmanniana                      ................3.
+Betula pendula                          ................2.
+Tsuga canadensis                        .................1
+Abies alba                           sl +.+1121212132121.+
+Frangula alnus                          ..+12+...1.2.1+11.
+Sorbus aucuparia ssp. aucuparia         ..r...........+...
+Picea abies                             ...1112...++.11++1
+Betula pendula                          ...........1..212.
+Abies grandis                           .............1...+
+Fagus sylvatica                         .............1.+..
+Pseudotsuga menziesii                   ..............+...
+Larix decidua                           ...............+..
+Abies nordmanniana                      ................3.
+Quercus robur                           .................+
+Prunus sp.                              .................+
+Vaccinium myrtillus                  hl ++23434314323+r352
+Dryopteris carthusiana s.str.           +.1111..r+++.+.+..
+Abies alba                              .+2+23+2+2232.21..
+Frangula alnus                          .r.+++.+++..+.2+1.
+Carex pilulifera ssp. pilulifera        .rr...........+...
+Avenella flexuosa                       .+1.+1..1..++.5.++
+Quercus robur                           ..rrr.....rrr.+...
+Rubus sect. Rubus                       ..r............+..
+Betula pendula                          ...+.....+.++..11.
+Sorbus aucuparia ssp. aucuparia         ...+++r+..........
+Picea abies                             ....2+1..++....+..
+Taraxacum sect. Ruderalia               ........+.........
+Dryopteris dilatata                     .........++....+..
+Juncus effusus ssp. effusus             ..............++..
+Calluna vulgaris                        ..............+11.
+Carex canescens ssp. canescens          ..............++..
+Fagus sylvatica                         ...............+..
+Pinus sylvestris                        ...............++.
+Carex echinata                          ...............+..
+Larix decidua                           .................1
+Hylocomium splendens                 ml 54232313221221+.++
+Bazzania trilobata                      11.2213++11.++..1.
+Dicranodontium denudatum                ++.11++.1.++++++.+
+Pleurozium schreberi                    1.313213.233213.4.
+Dicranum scoparium                      ++21+1+++21+1.+++1
+Polytrichum formosum                    ++221211121+2+++.+
+Hypnum cupressiforme                    +...+.11.++++.....
+Brachythecium rutabulum                 .2................
+Leucobryum glaucum                      .++1+.+.122211+.+1
+Scleropodium purum                      .+................
+Dicranum sp.                            ..1...............
+undetermined bryophyte(s)               ..2...............
+Sphagnum girgensohnii                   ...12..1+21.....+.
+Polytrichum commune                     ...++.+..++.+.....
+Plagiothecium laetum var. secundum      ...112.2311+131112
+Sphagnum capillifolium                  ......3..+....2...
+Cladonia sp.                            ......+..+....++..
+END TABLE

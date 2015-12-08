@@ -1,0 +1,49 @@
+plot;date;location;observer;x;y;film number;moisture;cobble;sand
+ch59;2004-02-01;Cape Hallet;Adam Green;115;5;8/27;dry;79,5;0,5
+ch60;2004-02-01;Cape Hallet;Adam Green;115;10;8/28;dry;87,5;0
+ch61;2004-02-01;Cape Hallet;Adam Green;115;15;8/29;dry;51;0
+ch62;2004-02-01;Cape Hallet;Adam Green;115;20;8/30;dry;74;0
+ch63;2004-02-01;Cape Hallet;Adam Green;115;25;8/31;dry;75,5;0
+ch64;2004-02-01;Cape Hallet;Adam Green;115;30;8/32;dry;77;0
+ch21;2004-01-28;Cape Hallet;Adam Green;0,1;0;6/14;wet;64,5;0
+ch22;2004-01-28;Cape Hallet;Adam Green;5;0;6/15;wet;82,5;0
+ch23;2004-01-28;Cape Hallet;Adam Green;10,2;0;6/16;wet;19;9,5
+ch24;2004-01-28;Cape Hallet;Adam Green;14,9;0;6/17;wet;1,5;0
+ch25;2004-01-28;Cape Hallet;Adam Green;21;0;6/18;wet;43;0
+ch26;2004-01-28;Cape Hallet;Adam Green;25;3;6/19;dry;15,5;0
+ch27;2004-01-29;Cape Hallet;Adam Green;25;0;6/20;wet;47;2,5
+ch28;2004-01-29;Cape Hallet;Adam Green;30;0;6/21;wet;49,5;14,5
+ch29;2004-01-29;Cape Hallet;Adam Green;35;0;6/22;wet;69;0
+ch30;2004-01-29;Cape Hallet;Adam Green;40;0;6/23;wet;60;0
+ch31;2004-01-29;Cape Hallet;Adam Green;45;0;6/24/25;wet;40;0
+ch32;2004-01-29;Cape Hallet;Adam Green;50;0;6/26;wet;74;6,5
+ch33;2004-01-29;Cape Hallet;Adam Green;55;0;6/27;wet;72;15,5
+ch34;2004-01-29;Cape Hallet;Adam Green;60;0;6/28;wet;49;0
+ch35;2004-01-29;Cape Hallet;Adam Green;65;0;6/29;wet;62,5;0
+ch36;2004-01-29;Cape Hallet;Adam Green;70;0;6/30;wet;42;0
+ch37;2004-01-29;Cape Hallet;Adam Green;75;0;6/31;wet;9;0
+ch38;2004-01-29;Cape Hallet;Adam Green;80;0;6/32;wet;46,5;0
+ch39;2004-01-29;Cape Hallet;Adam Green;85;0;6/33;dry;43;0
+ch40;2004-01-29;Cape Hallet;Adam Green;90;0;6/34;dry;73;0
+ch41;2004-01-29;Cape Hallet;Adam Green;95;0;6/35;dry;78,5;0
+ch42;2004-01-29;Cape Hallet;Adam Green;100;0;7/8;dry;73;0
+ch43;2004-01-29;Cape Hallet;Adam Green;105;0;7/9;dry;67;0
+ch44;2004-01-29;Cape Hallet;Adam Green;110;0;7/10;dry;55,5;0
+ch45;2004-01-29;Cape Hallet;Adam Green;115;0;7/12;dry;67,5;0
+ch46;2004-01-29;Cape Hallet;Adam Green;120;0;7/14;dry;86;0
+ch68;2004-01-21;Cape Hallet;Rod;28;0;0/0;wet;36;25
+ch69;2004-01-21;Cape Hallet;Rod;28,13333;0;0/0;wet;48,5;10,5
+ch70;2004-01-21;Cape Hallet;Rod;28,26667;0;0/0;wet;36,5;7,5
+ch71;2004-01-21;Cape Hallet;Rod;28,4;0;0/0;wet;52;6,5
+ch72;2004-01-21;Cape Hallet;Rod;28,53333;0;0/0;wet;51;27
+ch73;2004-01-21;Cape Hallet;Rod;28,66667;0;0/0;wet;52;26,5
+ch74;2004-01-21;Cape Hallet;Rod;28,8;0;0/0;wet;60;23
+ch75;2004-01-21;Cape Hallet;Rod;28,93333;0;0/0;wet;47,5;35,5
+ch76;2004-01-21;Cape Hallet;Rod;29,06667;0;0/0;wet;50,5;22
+ch77;2004-01-21;Cape Hallet;Rod;29,2;0;0/0;wet;45;37,5
+ch78;2004-01-21;Cape Hallet;Rod;29,33333;0;0/0;wet;32;61
+ch79;2004-01-21;Cape Hallet;Rod;29,46667;0;0/0;wet;41,5;48,5
+ch80;2004-01-21;Cape Hallet;Rod;29,6;0;0/0;wet;61;29
+ch81;2004-01-21;Cape Hallet;Rod;29,73333;0;0/0;wet;62,5;12
+ch82;2004-01-21;Cape Hallet;Rod;29,86667;0;0/0;wet;70;10,5
+ch83;2004-01-21;Cape Hallet;Rod;30;0;0/0;wet;67,5;12,5

@@ -1,0 +1,113 @@
+BEGIN HEAD
+plot                                   ss
+                                       ww
+                                       00
+                                       12
+accuracy                               55
+                                         
+bare                                   00
+                                         
+cov                                    99
+                                       58
+                                         
+hcov                                   12
+                                       00
+                                         
+hsl                                    55
+                                         
+htl1                                   00
+                                         
+mcov                                   35
+                                         
+plsx                                   55
+                                       00
+                                         
+plsy                                   33
+                                         
+rock                                   00
+                                         
+scov                                   67
+                                       50
+                                         
+slope                                  00
+                                         
+soil                                   00
+                                         
+stones                                 00
+                                         
+tcov1                                  00
+                                         
+tcov2                                  79
+                                       00
+                                         
+richness                               33
+                                       31
+                                         
+END HEAD
+BEGIN TABLE
+Corylus avellana                   tl2 12
+Sorbus aucuparia ssp. aucuparia        +.
+Ulmus glabra                           22
+Pyrus communis                         12
+Carpinus betulus                       32
+Prunus avium s.lat.                    22
+Acer pseudoplatanus                    1.
+Acer platanoides                       .3
+Cornus sanguinea s.lat.             sl 22
+Corylus avellana                       22
+Ligustrum vulgare                      22
+Mespilus germanica                     11
+Sorbus aucuparia ssp. aucuparia        ++
+Acer platanoides                       +1
+Viburnum opulus                        12
+Ulmus glabra                           +.
+Prunus spinosa                         11
+Crataegus monogyna                     22
+Cornus mas                             22
+Carpinus betulus                       11
+Viburnum lantana                       11
+Malus sylvestris                       1.
+Rosa canina s.str.                     1+
+Acer campestre                         +.
+Cotoneaster sp.                        +1
+Amelanchier sp.                        +.
+Rhamnus cathartica                     1.
+Pyrus communis                         .1
+Euonymus europaeus                     .2
+Lonicera caerulea ssp. caerulea        .1
+Lonicera xylosteum                     .1
+Prunus avium s.lat.                    .+
+Cornus sanguinea s.lat.             hl 12
+Ligustrum vulgare                      12
+Acer platanoides                       ++
+Viburnum opulus                        +1
+Prunus spinosa                         +1
+Cornus mas                             11
+Rubus idaeus                           1.
+Dactylis glomerata ssp. glomerata      22
+Crepis biennis                         +.
+Geum urbanum                           21
+Epilobium ciliatum ssp. ciliatum       ++
+Rosa arvensis                          +.
+Glechoma hederacea                     11
+Hedera helix                           +.
+Acer campestre                         +.
+Poa pratensis                          +.
+Acer pseudoplatanus                    ++
+Agrostis capillaris                    12
+Equisetum arvense                      ++
+Cotoneaster sp.                        +.
+Pyrus communis                         .+
+Viburnum lantana                       .+
+Corylus avellana                       .+
+Crataegus monogyna                     .1
+Euonymus europaeus                     .1
+Lonicera caerulea ssp. caerulea        .+
+Sorbus aucuparia ssp. aucuparia        .+
+Lonicera xylosteum                     .+
+Rosa canina s.str.                     .+
+Equisetum sylvaticum                   .+
+Festuca rubra agg.                     .1
+Poa trivialis                          .+
+Urtica dioica ssp. dioica              .+
+END TABLE

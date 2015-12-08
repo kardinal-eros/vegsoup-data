@@ -1,0 +1,55 @@
+plot;observer;date;location;latitude;longitude;accuracy;elevation;expo;slope;geomorphology;soil;photo;managed;pls;cov;htl1;t1cov;hsl;scov;hhl;hcov;mcov;comment
+1;E. Stadler;2011-09-17;Forststraße Traunstein ;47.867423;13.815733;20;465;SW;15;Hang;;;yes;64;98;25;80;6;30;0,5;5;5;Forstweg bei 1. Buchenforst nach Quelle, dichter Bu-Wa. auf Hang mit Totholz und wenigen Stein, viel abgestorbenes Laub
+2;E. Stadler;2011-09-17;Forststraße Traunstein ;47.867768;13.816261;20;473;W;20;Hang;;202-203;yes;64;70;20;60;6;10;0,5;20;10;Steine und viel Buchenlaub
+3;E. Stadler;2011-09-17;Forststraße Traunstein ;47.875501;13.81624;20;485;W;30;Hang;;204;yes;64;100;20;5;6;10;1;85;10;Lichtung mit hohen Gräsern bewachsen
+4;E. Stadler;2011-09-17;Forststraße Traunstein ;47.867437;13.816399;20;492;SW;35;Hang;;205;yes;64;75;25;40;6;10;1;75;10;Hang mit vereinzelten Felsen, Schotter eingestreut und abgestrobenen Gras
+5;E. Stadler;2011-09-17;Forststraße Traunstein ;47.867192;13.816077;20;501;W;10;;;;rarely;64;70;30;60;6;20;1;50;10;Föhrenwald mit vereinzelten Steinen
+6;E. Stadler;2011-09-17;Forststraße Traunstein ;47.866897;13.816122;20;486;SW;25;;;;no;64;65;15;30;3;10;0,5;25;30;Rand von großer Schotterfläche mit vielen Steinen von 1 cm- 15 cm
+7;E. Stadler;2011-09-17;Forststraße Traunstein ;47.866739;13.816018;20;464;SW;25;;;;no;64;60;20;20;4;10;0,5;50;10;15 % Fels
+8;E. Stadler;2011-09-17;Miesweg;47.860432;13.814637;20;435;W;45;Steilhang;;;no;64;70;0;0;3;30;1;70;0;viel Schottermaterial 10 % loser Schotter
+9;E. Stadler;2011-09-17;Naturfreundesteig Traunstein;47.858864;13.815597;20;477;SW;60;Fels;Fels;;no;1;85;0;0;2;5;0,5;85;0;
+10;E. Stadler;2011-09-17;Naturfreundesteig Traunstein;47.858904;13.815637;20;485;SW;85;Fels;Fels;;no;1;20;0;0;0;0;0,5;20;0;
+11;E. Stadler;2011-09-17;Naturfreundesteig Traunstein;47.858951;13.815675;20;496;SW;70;Fels;Fels;;no;1;20;0;0;2;5;0,5;15;0;
+12;E. Stadler;2011-09-17;Naturfreundesteig Traunstein;47.858997;13.815736;20;505;SW;40;Fels;Fels;;no;1;50;0;0;0;0;0,5;50;0;
+13;E. Stadler;2011-09-17;Naturfreundesteig Traunstein;47.859087;13.815833;20;513;SW;70;Fels;Fels;;no;1;50;0;0;0;0;0,5;50;0;
+14;E. Stadler;2011-09-17;Miesweg;47.860232;13.814662;300;;W;45;Steilhang;;;no;64;95;20;20;6;60;1;90;5;loser Schotter 5%
+15;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.867009;13.814776;20;438;W;15;;;191 - 194;no;32;80;25;15;6;25;1;50;10;
+16;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.866771;13.814921;20;442;W;15;;;195 - 198;no;32;85;15;10;6;35;1;40;5;
+17;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.866318;13.814974;20;428;W;40;Steilhang;;199;no;32;95;20;15;6;10;1;75;10;
+18;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.866152;13.815087;20;421;SW;30;Hang;;200 - 201;no;32;75;20;15;6;10;1;65;5;
+19;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.865443;13.815757;20;426;SW;10;;;;rarely;32;90;20;20;6;10;1;85;5; 
+20;E. Stadler;12.07.11;Ostuferweg Traunsee;47.865213;13.815838;20;440;W;25;Hang;;154;maybe;32;80;15;0,4;2,5;0,1;1;0,6;0,15;Ostuferweg am Ende, Aufgang Forststraße
+21;E. Stadler;12.07.11;Miesweg;47.859519;13.814838;20;401;W;20;Hang;Fels;146;no;3;;;;;;;15;; 
+22;E. Stadler;2011-07-20;Miesweg;47.859534;13.814873;20;410;NW;45;;Fels;;no;3;35;;;1,5;5;;30;;Ende Miesweg, Stein oben
+23;E. Stadler;2011-07-20;Miesweg;47.85905;13.814701;20;418;NW;45;;Fels;;no;3;40;;;1,5;5;30;10;;Ende Miesweg, abseits des Steiges direkt am See
+24;E. Stadler;2011-07-20;Miesweg;47.859888;13.814701;20;423;W;35;;;;;32;80;20;15;6;35;;80;15;
+25;E. Stadler;2011-07-20;Miesweg;47.86003;13.814693;20;426;NW;80;;Fels;;no;6;40;;;;;0,5;40;2;
+26;E. Stadler;2011-07-20;Miesweg;47.86264;13.815285;20;431;W;20;;;;;32;80;15;20;6;50;1;70;;Anfang Miesweg nach Kurve u. vor Kurve (Wand) vor Schotterfläche
+27;E. Stadler;2011-07-20;Miesweg;47.862244;13.814873;20;437;NW;40;;;;;12;50;;;1,5;10;50;;;
+28;E. Stadler;2011-07-20;Miesweg;47.861348;13.814403;20;428;W;40;;Fels;;no;2a;20;;;;;;20;;
+29;E. Stadler;2011-09-21;Ostufer nach Karbach;47.865695;13.815328;50;430;SW;35;;;;;32;85;25;60;6;25;1;75;5;
+30;E. Stadler;2011-09-21;Ostufer nach Karbach;47.865465;13.815669;20;437;W;40;;;;;32;70;15m;50;6;20;1;60;10;
+31;E. Stadler;2011-09-21;Ostufer nach Karbach;47.865465;13.81557;20;446;W;15;;;;;32;85;25;15;6;10;1;80;5;
+32;E. Stadler;2011-09-21;Ostufer nach Karbach;47.864896;13.815954;20;430;SW;35;;;;;32;100;25;80;6;40;1;40;10;
+33;E. Stadler;2011-09-21;Ostufer nach Karbach;47.864954;13.816101;20;396;W;30;;;;;32;70;10;15;6;25;1;70;10;
+34;E. Stadler;2011-09-21;Forststraße Traunstein ;47.86657;13.816085;20;442;SW;30;;;;rarely;64;90;25;15;4m;15;1;80;10;
+35;E. Stadler;2011-09-21;Forststraße Traunstein ;47.866271;13.815924;20;532;SW;15;;;;rarely;64;95;20;20;6;20;1;90;5;
+36;E. Stadler;2011-09-21;Forststraße Traunstein ;47.866939;13.816917;20;540;SW;40;;;;no;32;25;20;5;6;5;1;20;5;
+37;E. Stadler;2011-09-21;Forststraße Traunstein ;47.867725;13.817394;20;523;SW;20;;;;no;32;60;20;10;6;20;1;60;5;
+38;E. Stadler;2011-09-21;Forststraße Traunstein ;47.869549;13.816251;20;457;W;30;;;;no;64;90;20;60;6;25;1;80;10;
+39;E. Stadler;2011-01-01;Lainaubach;47.858087;13.815704;20;431;SW;55;;;;no;6;45;;;1;5;0,5;40;1;
+40;E. Stadler;2011-01-01;Lainaubach;47.858087;13.815704;20;407;SW;20;;;;no;6;75;;;1;5;0,5;70;10;
+41;E. Stadler;2011-01-01;Lainaustiege;47.858594;13.814529;20;411;W;50;;;;no;6;35;;;;;0,5;25;10;
+42;E. Stadler;2011-01-01;Miesweg;47.859652;13.81476;20;414;SW;80;;;;no;6;50;;;;;0,5;50;;
+43;E. Stadler;2011-01-01;Miesweg;47.859735;13.814688;20;419;SW;80;;;;no;6;40;;;;;0,5;40;;
+44;E. Stadler;2011-01-01;Miesweg;47.860322;13.814637;20;430;W;40;;;;;32;80;20;25;6;25;0,5;70;20;
+45;E. Stadler;2011-01-01;Miesweg;47.860919;13.81436;20;435;W;40;;;;;32;80;8;10;6;50;0,5;80;;
+46;E. Stadler;2011-09-25;Ostufer nach Karbach;47.865148;13.816073;500;;W;30;;;;no;256;70;10;70;6;40;0,5;7;5;
+47;E. Stadler;2011-09-25;Ostufer nach Karbach;47.865148;13.816073;500;;W;40;;;;no;256;90;10;10;6;80;0,5;5;5;
+48;E. Stadler;2011-09-25;Ostufer nach Karbach;47.865148;13.816073;500;;W;60;;;;no;256;90;15;60;6;30;0,5;80;15;
+49;E. Stadler;2011-09-25;Ostufer nach Karbach;47.865148;13.816073;500;;W;30;;;;no;256;90;20;80;6;30;0,5;70;30; 
+50;E. Stadler;2011-09-25;Miesweg;47.860232;13.814662;300;462;W;40;;;;no;8;90;;50;;20;;80;5;am Ende des Miesweges, nach erster Abbiegung des Weges vom Mieswegufer rauf zur Forststraße (wird oft als Klo missbraucht), 30 m über See
+51;E. Stadler;2011-09-25;Miesweg;47.860232;13.814662;300;427;W;50;;;;no;8;95;;15;;15;;85;;15 m über See
+52;E. Stadler;2011-09-25;Miesweg;47.860232;13.814662;300;442;W;45;;;;;8;95;;20;;30;;90;10;feuchtere, baumbeschattete Stelle, mit flacher Mulde ca. 10 m weiter südlich von 51, 10 m über See
+53;E. Stadler;2011-09-25;Miesweg;47.860232;13.814662;300;482;W;30;;;;;64;70;;60;;60;;40;1;freier Fels: 15 %, 50 m über See
+54;E. Stadler;2011-09-24;Forststraße Traunstein ;47.87105;13.817235;500;;;;;;;;64;40;8;15;6;10;;35;; 

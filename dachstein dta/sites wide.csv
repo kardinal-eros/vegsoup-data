@@ -1,0 +1,21 @@
+plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;ropez;expo;slope;rock;bare;stones;soil;date;comment;location;longitude;latitude;elevation;accuracy;description;observer
+ds01;48;0;0;0;40;10;0;0;0;0,15;0,03;4;4;;N;5;40;2;10;Rendzina;2011-08-31;;Dachstein, Gjaidsteingrube;13.658399E;47.495422N;2086;3;;R. Kaiser
+ds02;90;0;0;0;80;15;0;0;0;0,2;0,03;4;4;;NE;5;3;3;4;Rendzina;2011-08-31;;Dachstein, Gjaidsteingrube;13.657310E;47.496372N;2083;6;;R. Kaiser
+ds03;90;0;0;0;88;3;0;0;0;0,1;0,03;4;4;;N;10;5;2;3;Rendzina;2011-08-31;;Dachstein, Gjaidsteingrube;13.657411E;47.497101N;2087;7;;R. Kaiser
+ds04;79;0;0;0;77;3;0;0;0;0,2;0,05;4;4;;N;3;15;2;4;Rendzina;2011-08-31;;Dachstein, Gjaidsteingrube;13.657188E;47.497196N;2077;6;;R. Kaiser
+ds05;92;0;0;0;80;15;0;0;0;0,15;0,03;4;4;;NE;5;4;3;1;Rendzina;2011-08-31;;Dachstein, Gjaidsteingrube;13.656323E;47.498145N;2064;8;;R. Kaiser
+ds06;80;0;35;50;40;3;0;5;2,5;1;0,25;8;8;0;E;10;0;0;45;Syrosem, Rendzina;2012-07-31;;Dachstein, Hinterer Gosausee;13.547307E;47.500314N;;8;;R. Kaiser
+ds07;22;0;0;0;20;2;0;0;0;0,07;0,02;4;4;;F;0;1;0;77;;2011-08-01;;Dachstein, Gjaidstein;13.637658E;47.483434N;;8;initiles Firmetum (Polsterflur);R. Kaiser
+ds08;25;0;0;0;22;3;0;0;0;0,05;0,01;4;4;;NW;10;25;0;50;;2011-08-01;;Dachstein, Gjaidstein;13.642202E;47.485026N;;8;initiles Firmetum;R. Kaiser
+ds09;20;0;0;0;19;1;0;0;0;0,15;0,01;4;4;;NN;3;5;0;75;;2011-08-01;;Dachstein, Gjaidstein;13.646646E;47.486446N;;8;;R. Kaiser
+ds10;20;0;0;0;19;1;0;0;0;0,1;0,02;4;4;;W;10;0;0;80;;2011-08-01;;Dachstein, Gjaidstein;13.647705E;47.487107N;;8;initilaes Firmetum mit Silene acaulis;R. Kaiser
+ds11;75;0;0;0;60;15;0;0;0;0,1;0,01;4;4;;W;10;0;5;20;Augensteine;2011-08-01;;Dachstein, Gjaidstein;13.649827E;47.487573N;;8;schneereiches Firmetum (Schneeboden) auf Augensteinvorkommen;R. Kaiser
+ds12;18;0;0;0;15;3;0;0;0;0,05;0,01;4;4;;N;10;0;0;82;;2011-08-01;keine Augensteine, keine Flechten;Dachstein, Gjaidstein;13.649798E;47.487322N;;8;schneereiches Firmetum (Schneeboden) auf Augensteinvorkommen;R. Kaiser
+ds13;60;0;0;0;57;3;0;0;0;0,07;0,01;4;4;;W;10;0;5;40;Augensteine;2011-08-01;Deflationsanrisse;Dachstein, Gjaidstein;13.650236E;47.487436N;;8;;R. Kaiser
+ds14;30;0;0;0;29;1;0;0;0;0,04;0,01;4;4;;N;10;0;4;66;Augensteine;2011-08-01;keine Flechten;Dachstein, Gjaidstein;13.650715E;47.487179N;;8;schneereiches Firmetum (Schneeboden) auf Augensteinvorkommen;R. Kaiser
+ds15;53;0;0;0;50;3;0;0;0;0,05;0,02;4;4;;N;10;2;0;45;;2011-08-01;;Dachstein, Gjaidstein;13.650716E;47.487444N;;8;;R. Kaiser
+ds16;50;0;0;0;40;10;0;0;0;0,03;0,01;4;4;;N;10;0;3;47;Augensteine;2011-08-01;;Dachstein, Gjaidstein;13.649503E;47.487610N;;8;;R. Kaiser
+ds17;70;0;0;0;55;15;0;0;0;0,1;0,04;4;4;;S;10;20;0;10;;2011-08-01;;Dachstein, Gjaidstein;13.641164E;47.492985N;;8;;R. Kaiser
+ds18;25;0;0;0;24;1;0;0;0;0,07;0,02;4;4;;F;0;5;0;70;;2011-08-01;;Dachstein, Taubenkogel;13.644679E;47.493703N;;8;;R. Kaiser
+ds19;98;0;0;0;85;15;0;0;0;0,2;0,02;4;4;;SE;3;1;1;0;;2011-08-01;;Dachstein, Taubenkogel;13.646908E;47.500653N;;8;;R. Kaiser
+ds20;94;0;0;0;65;30;0;0;0;0,1;0,02;4;4;;F;0;3;1;2;;2011-08-01;Windgasse in Latschengebüsch;Dachstein, Wasserboden;13.683628E;47.493623N;;8;;R. Kaiser

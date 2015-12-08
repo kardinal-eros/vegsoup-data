@@ -1,0 +1,218 @@
+taxon;abbr;layer;comment;1-W-Ma;2-W-Ma;8-Wi-D;9-Wa-D;10-Wi-D;11-Wi-D;12-Wi-D;13-Wi-D;14-Wi-D;15-Wi-D;16-Wi-D;17-Wi-D;18-Wi-D;32-W-D;33-W-D;34-W-D;35-W-D;36-H-D;37-Wi-D;48-D-W;49-D-G;50-M-W;51-M-W;53-M-G;54-W-M;54a-W-M;54b-W-M;79-G-D;81-W-D;84-W-D;85-Wi-D
+Leucanthemum vulgare agg;leuc vulg aggr;hl;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Acer campestre;acer camp;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;2a;2a;;;2a;2a;
+Acer campestre;acer camp;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;
+Acer pseudoplatanus;acer pseu;tl1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Acer pseudoplatanus;acer pseu;tl2;;;;;;;;;;;;;;;2a;3;2b;2b;;;2a;;;;;3;;2a;2a;2b;;2a
+Acer pseudoplatanus;acer pseu;hl;;;;;r;;;;;;;;;;;;;2a;;;;;;;;;;;;2a;;
+Achillea millefolium;achi mill aggr;hl;;+;;+;;+;+;2a;+;;+;2a;+;2a;;;;;2a;2a;;;;;;;;+;;;;+
+Aegopodium podagraria;aego poda;hl;;+;;2a;2b;;;;+;2a;2a;;;;;3;2b;4;;3;;;;2a;2b;2a;;+;;2a;2a;
+Agrimonia procera;agri proc;hl;;;;;;;;;;;2a;;;;;;;;;;;;;;;;;;;;;
+Agrostis stolonifera;agro stol;hl;;;;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;
+Ajuga reptans;ajug rept;hl;;;;+;;;;;;;;;;;;;+;;;;;;;;;;;;;;;
+Allium ursinum;alli ursi ursi;hl;;;;;2a;;;;;;;;;;+;2b;;;;;;;;;;;;;;;;
+Anacamptis pyramidalis;anac pyra;hl;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Anagallis arvensis;anag arve;hl;;;;;r;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Anemone ranunculoides;anem ranu;hl;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;;
+Anthoxanthum odoratum;anth odor;hl;;;;;;;;;;;;;;;;;;;2m;;;;;;;;;;;;;
+Anthriscus sylvestris;anth sylv;hl;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;r
+Anthyllis vulneraria;anth vuln slat;hl;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Aquilegia vulgaris;aqui vulg;hl;;;;;;;;;;;;;;;;r;;;;;;;;;;;;;;+;;
+Arctium lappa;arct lapp;hl;;+;;;;;;;;;;;;;;;;;;;;;;;2a;;;;;;;
+Arrhenatherum elatius;arrh elat;hl;;3;;3;2a;3;3;2a;;2a;3;3;3;3;;;2m;;1;2b;2a;2a;;;2m;2a;;+;;;;3
+Artemisia vulgaris;arte vulg;hl;;+;;;+;;;;;;;;;;;;;;;;;;;;+;;+;+;;;;r
+Asarum europaeum;asar euro slat;hl;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;;
+Asperula cynanchica;aspe cyna;hl;;;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;
+Astrantia major;astr majo majo;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;;
+Bellis perennis;bell pere;hl;;+;;+;;+;+;+;+;;+;+;;;;;;;;+;;;;;;;;;;;;
+Brachypodium pinnatum;brac pinn;hl;;;;;;2b;1;;;;;;2a;1;;;;+;2m;;;;;;;;;;;;;2a
+Brachypodium sylvaticum;brac sylv;hl;;;;;2a;;;;;;;;;;;2m;2m;1;;;;;;;;2b;2m;+;;3;2a;
+Briza media;briz medi;hl;;+;;+;;+;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Bromus erectus;brom erec;hl;;;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bromus hordeaceus;brom hord slat;hl;;;;;;;;;2a;;;;;;;;;;;;;;;;;;;;;;;
+Bromus inermis;brom iner;hl;;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;
+Bromus sterilis;brom ster;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+
+Calystegia sepium;caly sepi;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;;+;
+Campanula patula;camp patu;hl;;+;;;;;+;;;;;+;;;;;;;+;+;;;;;;;;;;;;
+Campanula trachelium;camp trac;hl;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;;;;
+Capsella bursa-pastoris;caps burs;hl;;;;+;;;;;;+;;;;;;;;;;+;;;;;;;;;;;;
+Carduus spec;card spec ies;hl;;;;;;;;;;;;;;;;;r;;;;;;;;;;;;;;;
+Carex alba;care alba;hl;;;;;2b;;;;;;;;;;;2b;2b;;;;;;;;;;;;;;;
+Carex flacca;care flac;hl;;;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;
+Carex sylvatica;care sylv;hl;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;;;
+Centaurea jacea;cent jace slat;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+
+Centaurea scabiosa scabiosa;cent scab scab;hl;;;;;;+;;;;;+;;;;;;;;;;;;;;;;;;;;;
+Centaurea spec;cent spec ies;hl;;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;
+Prunus avium;prun aviu slat;tl2;;;;;;;;;;;;;;;;;;;;;;;2b;;;;;;;;;
+Cerastium holostoides;cera holo;hl;;+;;;;;+;;;+;;+;;r;;;;;+;;;;;;;;;;;;+;
+Cichorium intubus;cich inty;hl;;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;;r
+Cirsium arvense;cirs arve;hl;;;;;;;;;;;;;;;+;;;;;;;;;;;;;;;;;
+Clematis vitalba;clem vita;hl;;;;;r;;;;;;;;;;+;+;2a;+;;;;;;;;;+;;;+;+;3
+Clinopodium vulgare;clin vulg vulg;hl;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;;;;
+Colchium autumnale;colc autu;hl;;;;+;2a;;;;;;;;;r;;+;;;;;;;;;;;;;;;;
+Convallaria majalis;conv maja maja;hl;;;;;2a;;;;;;;;;;;2a;2a;2a;;;;;;;;;;;;2b;;
+Convolvulus arvensis;conv arve;hl;;;;;;;;;;;;;+;;;;;;;;;;;+;;;;;;;;
+Conyza canadensis;erig cana;hl;;;;;;;r;;;;;;;;;;;;;;;;;;;;;+;;;;
+Cornus sanguinea;corn sang slat;sl;;;;;2a;;;;;;;;;;;2a;2a;2a;;;4;;2a;;;2a;;;;2b;3;3
+Cornus sanguinea;corn sang slat;hl;;;;;;;;;;;;;;;;+;2b;+;;;2b;;;;;2a;;;;;+;
+Corydalis spec.;cory spec ies;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Corylus avellana;cory avel;sl;;;;;;;;;;;;;;;;;;2a;2a;;;;;;;;;;;;;
+Crataegus monogyna;crat mono;sl;;;;;2a;;;;;;;;;;;2a;2b;2b;;;;;;;;;2a;;;2a;2a;2b
+Crataegus monogyna;crat mono;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;+
+Crepis bienne;crep bien;hl;;+;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;;
+Cruciata glabra;cruc glab;hl;;;;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;
+Cyclamen purpurea;cycl purp;hl;;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cynosurus cristatus;cyno cris;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Dactylis glomerata;dact glom glom;hl;;3;3;;2a;3;3;2a;2a;2a;4;2b;2m;2m;;;2a;;;2m;2a;2m;;;;;;;;;;2b
+Dactylis polygama;dact poly;hl;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;;;
+Dianthus carthusianorum;dian cart slat;hl;;;;;;+;;;;;;+;;;;;;;1;;;;;;;;;;;;;
+Echium vulgare;echi vulg;hl;;;;;;2a;;;;;;;;;;;;;+;;;;;;;;;;;;;+
+Erigeron annuus;erig annu slat;hl;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;;;
+Erysimum diffusum;erys diff;hl;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Euonymus europaea;euon euro;sl;;;;;;;;;;;;;;;;;;;;;;;2a;2a;;;;;;2a;2a;
+Euphorbia cyparissias;euph cypa;hl;;;;;;2a;;;;;;+;;;;;;;2b;;;;;;;;;;;;;+
+Euphorbia stricta;euph stri cta;hl;;;;;;;;;;;;;;;;+;+;;;;;;;;;;;;;;;
+Fallopia japonica;fall japo;sl;;;;;;;;;;;;;;;;;;;;;;;;2b;;;;;2a;;;
+Festuca altissima;fest alti;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;
+Festuca pratensis;fest prat prat;hl;;2m;;;;;1;;;;2a;;;2m;;;;;;;;2a;;;;;;;;;;
+Festuca rubra       ;fest rubr slat;hl;;;;;;;;;;;2a;;;;;;;;;;;;;;;;;;;;;
+Fesuca ovovina;fest ovin;hl;;;;;;;;;;;;;;;;;;;3;;;;;;;;;;;;;
+Fraxinus excelsior;frax exce;tl1;;;;;2a;;;;;;;;;;;2b;3;;;;3;;2b;3;;2a;2a;2a;2a;;2b;
+Fraxinus excelsior;frax exce;tl2;;;;;2b;;;;;;;;;;;;2a;;;;3;;2b;2b;;2b;;;;;2b;
+Fraxinus excelsior;frax exce;hl;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;+;
+Galium album;gali albu;hl;;2a;;+;;+;+;+;;2a;2a;+;r;1;;;+;;+;2m;;;;;;;;+;;;;
+Galium aparine;gali apar;hl;;;;;r;;;;;;;;;;;;;;;;;;+;;;;;;;;+;
+Galium verum        ;gali veru;hl;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;2b
+Geranium molle;gera moll;hl;;;;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;
+Geranium pratense;gera prat;hl;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Geranium pyrenaicum;gera pyre;hl;;;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;
+Geranium robertianum;gera robe;hl;;;;;r;;;;;;;;;;;;;;;;;;;;;+;;;;;;
+Geum urbanum;geum urba;hl;;;;;r;;;;;;;;;;;+;;+;;;;;+;;2a;2b;;;;;;
+Glechoma hederacea;glec hede;hl;;+;;;r;;;;2a;;+;;;r;;;;;;+;+;;;;;;;;;;;
+Gymnapedia conopsea;gymn cono slat;hl;;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;
+Hedera helix;hede heli;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;+;
+Helianthemum ovatum;heli numm obsc;hl;;;;;;+;;;;;;;;;;;;;+;;;;;;;;;;;;;r
+Hepatica nobilis;hepa nobi;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Heracleum sphondylium;hera spho spho;hl;;2a;2b;+;;;;;+;;;;;;;;;;;+;;;;;;;;;;;;
+Hieracium spec;hier spec ies;hl;;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;
+Holcus lanatus;holc lana;hl;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Humulus lupulus;humu lupu;hl;;;;;;;;;;;;;;;1;;;;;;2a;;;2a;;;;;;;+;
+Hypericum perforatum;hype perf;hl;;+;;;;;;;;;;;;;;;;;;;;;;;;;+;;;r;;+
+Impatiens glandulifera;impa glan;hl;;;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;
+Impatiens noli-tangere;impa noli;hl;;;;;2a;;;;;;;;;;;;;2b;;;+;;;;;;;;;+;;
+Impatiens parviflora;impa parv;hl;;;;;2a;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Inula hirta;inul hirt;hl;;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;
+Juncus spec.;junc spec ies;hl;;+;;;;2a;;+;;;+;;;;;;;;2a;;;;;;;;;;;;;r
+Knautia arvensis    ;knau arve slat;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Lamium maculatum;lami macu;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Lathyrus pratensis;lath prat prat;hl;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Leontodon hispidus;leon hisp slat;hl;;;;;;;;;;;+;;+;;;;;;+;;;;;;;;;;;;;
+Ligustrum vulgare;ligu vulg;sl;;;;;;;;;;;;;;;;2a;3;;;;;;;;;;;2a;;;;2a
+Ligustrum vulgare;ligu vulg;hl;;;;;;;;;;;;;;;;;;2b;2a;;;;;;;;;;;;;
+Lilium bulbiferum;lili bulb bulb;hl;;;;;+;;;;;;;;;;;;2a;;2a;;;;;;;;;;;;;
+Listera ovata;list ovat;hl;;;;;+;;;;;;;;;;;;+;;;;;;;;;;;;;+;;
+Lolium perenne;loli pere;hl;;+;3;;;;2m;2a;5;4;;+;;2a;;;;;;3;;;;;;;;;;;;
+Lonicera xylosteum;loni xylo;sl;;;;;2a;;;;;;;;;;2a;2a;2a;2a;;;;;;;;;;;;2a;2b;
+Lonicera xylosteum;loni xylo;hl;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;+;
+Lotus corniculatus;lotu corn;hl;;+;;;;;+;;;;;;r;;;;;;+;;;;;;;;;;;;;
+Lysimachia nummularia;lysi numm;hl;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Lythrum salicaria;lyth sali;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Matricaria recta;matr cham;hl;;;;;;;;;;+;;;r;;;;;;;;;;;;;;;;;;;
+Medicago × varia;medi vari;hl;;;;+;;2a;2a;;;;;+;;;;;;;+;;;;;;;;;;;;;+
+Medicago falcata;medi falc;hl;;;;;;;;;;;;;+;;;;;;2a;;;;;;;;;;;;;
+Medicago lupulina;medi lupu;hl;;;;;;+;;;;;+;+;+;r;;;r;;+;;;;;;;;;;;;;
+Melampyrum nemorosum;mela nemo;hl;;;;;2a;;;;;;;;;;;2a;2a;;;;;;;;;;;;;2a;;
+Melica nutans;meli nuta;hl;;;;;2a;;;;;;;;;;;;+;2m;;;;;;;;;;;;;;
+Orchis militaris;orch mili;hl;;;;;;;;;;;;;;;;;+;;+;;;;;;;;;;;;;
+Orchis tridentata;orch trid;hl;;;;;;;;;;;;;;;;;r;;;;;;;;;;;;;;;
+Origanum vulgare;orig vulg;hl;;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;
+Orobanche cf grazilis;orob grac;hl;cf.;;;;;;r;;;;;;;;;;;;;;;;;;;;;;;;;
+Padus avium;prun padu slat;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Paris quadrifolia;pari quad;hl;;;;;2a;;;;;;;;;;;+;+;;;;;;;;;;;;;;;
+Pastinaca sativa;past sati sati;hl;;+;;+;;;;;;;3;;;;;;;;;;;;;;;;;;;;;
+Phalaris arundinacea;phal arun;hl;;;;;;;;;;;;;;;;;;;;;;;2b;4;;;;;3;;;
+Phleum pratense;phle prat;hl;;;;;;;2m;;;;;;;1;;;;;;;;;;;;;;;;;;
+Phyteuma spicatum;phyt spic spic;hl;;;;;r;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Picea abies;pice abie;tl1;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;;;;
+Picea abies;pice abie;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;;;;
+Pimpinella saxifraga;pimp saxi slat;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pinus sylvestris;pinu sylv;tl1;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;;;;;
+Pinus sylvestris;pinu sylv;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;;3;;;;;
+Plantago lanceolata;plan lanc;hl;;2a;;2a;;2a;;2a;2a;;2a;2a;2a;2a;;+;;;;;;;;;;;;;;+;;+
+Plantago major;plan majo slat;hl;;;;;;;2a;;2a;;;;;;;;;;;;;;;;;;;;;;;
+Plantago media;plan medi;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;;
+Poa annua;poa annu;hl;;;;+;;;+;;;2a;;+;;;;1;;;;;;;;;;;;;;;+;
+Poa compressa;poa comp;hl;;;;;;;+;;;;;;1;;;;;;;;;;;;;;;;;;;
+Poa nemoralis;poa nemo;hl;;;;;;;;;;;;;;;;1;;1;;;;;;;;;+;;;1;2a;
+Poa pratensis;poa prat;hl;;2m;;2b;;;;;2a;2a;3;2m;;;;;2m;;;;;;;;;;;;;;;
+Poa trivialis;poa triv;hl;;;;;1;3;1;3;;;;2a;2m;;;;;;;;;;;;;;;;;;;+
+Polygonatum multiflorum;poly mult;hl;;;;;r;;;;;;;;;;;+;;;;;;;;;;;;;;;;
+Polygonum arviculare;poly avic slat;hl;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;;;
+Populus alba;popu alba;tl1;;;;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;
+Populus balsamifera;popu bals;tl1;;;;;;;;;;;;;;;;;;;;;;;;2b;;2a;;;;;;
+Populus canadensis;popu cana;tl1;;;;;;;;;;;;;;;;;;;;;;;;2b;2b;;;;;;;
+Populus canadensis;popu cana;tl2;;;;;;;;;;;;;;;2b;;;;;;;;;;;;;;;;;
+Populus nigra;popu nigr;tl1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;
+Populus nigra;popu nigr;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;2a
+Populus spec.;popu spec ies;tl2;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;;;
+Potentilla spec;pote spec ies;hl;;;;;;2a;;;;;;;;;;;;;;;;;;;;;;;;;;
+Prunella grandiflora;prun gran;hl;;;;;;;;;;;;;;;;;;;r;;;;;;;;;;;;;
+Prunus padus;prun padu slat;tl2;;;;;;;;;;;;;;;;;;;;;;;2b;;;;;;;2a;2a;
+Pulmonaria officinalis;pulm offi;hl;;;;;r;;;;;;;;;;;;;2a;;;;;;;;;;;;;;
+Quercus robur;quer robu;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;;
+Quercus robur;quer robu;hl;;;;;;;;;;;;;;;;;;+;+;;;;;;;;;;;r;;
+Ranunculus acris;ranu acri acri;hl;;+;;;;+;+;+;+;;+;+;;+;;;;;+;2a;;;;;;;;;;;;
+Ranunculus repens;ranu repe;hl;;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;
+Ranunculus spec;ranu spec ies;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Resedea lutea;rese lute;hl;;;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;
+Rhinanthus alectorolophus;rhin alec alec;hl;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Robinia pseudoacacia;robi pseu;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;3;;;;;;
+Rubus caesisus;rubu caes;hl;;;;;2a;;;;;;;;;;;4;2a;;;;2b;;2b;;;3;2a;;;3;3;2a
+Rumex obtusifolium;rume obtu slat;hl;;;;2a;;;+;;2a;2a;;+;;r;;;;;;2a;;;;;;;;;;;;
+Salix alba;sali alba;tl1;;;;;;;;;;;;;;;;;;;;;;;;;4;;;;;;;
+Salix alba;sali alba;tl2;;;;;;;;;;;;;;;;;;;;;;2b;;;;;;;;;;
+Salix alba;sali alba;sl;;;;;;;;;;;;;;;;;;;;;;2b;;;;;;;;;;
+Salix eleagnos;sali elea elea;tl2;;;;;;;;;;;;;;;;;;;;;;;2b;;;;;;;;;
+Salix eleagnos;sali elea elea;sl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4;;;
+Salix fragilis;sali frag;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2b;;;
+Salix fragilis;sali frag;sl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2a;
+Salix purpurea;sali purp;tl1;;;;;;;;;;;;;;;;;;;;;;;;;2a;;;;;;;
+Salix purpurea;sali purp;tl2;;;;;;;;;;;;;;;;;;;;;2b;;2b;;;;;;;;;2a
+Salix purpurea;sali purp;sl;;;;;;;;;;;;;;;;;;;;;;2a;;;;;;;4;;;
+Salix viminalis;sali vimi;tl2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2b;;;
+Salvia glutinosa;salv glut;hl;;;;;;;;;;;;;;;+;2a;2a;;;;;;;;;;+;;;+;2a;
+Salvia pratensis;salv prat prat;hl;;+;;+;;;+;;;;2a;+;+;;;;;;2a;;;;;;;;;;;;;+
+Sambucus nigra;samb nigr;sl;;;;;;;;;;;;;;;;;;;;;;;;4;;;;;;;2a;
+Sambucus nigra;samb nigr;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Sanguisorba minor;sang mino slat;hl;;+;;;;;;;;;;;+;;;;;;+;;;;;;;;;;;;;
+Scrophularia nodosa;scro nodo;hl;;;;;;;;;;;;;;;r;;;;;;;;;;;;;;;;;
+Securigera varia;secu vari;hl;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Sedum sexanulare;sedu sexa;hl;;;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;
+Silene vulgaris;sile vulg vulg;hl;;;;+;;+;+;;;;;+;r;;;;;;+;;;;;;;;;;;;;
+Solidago gigantea;soli giga;hl;;;;;;;;;;;;;;;5;+;3;;;;;2b;;;;;;;;;3;2b
+Stachys sylvatica;stac sylv;hl;;;;;2a;;;;;;;;;;;;2a;;;;;;;;;;+;;;+;2a;
+Stellaria media;stel medi;hl;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;;;
+Symphytum officinale;symp offi;hl;;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;
+Taraxacum officinale agg;tara sect rude;hl;;2a;2b;2b;r;+;2a;2a;2a;2a;3;2a;2a;2a;;;;;;2a;;;;;;;;;;;;
+Tilia cordata;tili cord;tl1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4;;
+Tilia cordata;tili cord;tl2;;;;;;;;;;;;;;;;;;;;;;;2a;;;;;;;2b;;2a
+Tilia platyphyllos;tili plat;tl1;;;;;;;;;;;;;;;;3;;4;;;;;;;;;;;;;;
+Tilia platyphyllos;tili plat;tl2;;;;;;;;;;;;;;;;2a;2a;3;;;;;;;;;;;;;2a;
+Tragopogon pratensis;trag prat slat;hl;;+;;;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;
+Trifolium medium;trif medi medi;hl;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Trifolium montanum;trif mont mont;hl;;;;;;;;;;;;;;;;;;;r;;;;;;;;;;;;;
+Trifolium pratense;trif prat prat;hl;;2a;;+;;;2a;3;;2a;;2a;2a;2a;;+;;;;2a;;;;;;;;;;;;
+Trifolium repens;trif repe repe;hl;;2a;;2b;;+;2a;;2a;3;2a;2a;2a;2a;;+;;;;2a;;;;;;;;;;;;
+Trisetum flavescens;tris flav flav;hl;;;;;;2m;3;2a;;;3;2b;3;2m;;;;;;2m;;;;;;;;;;;;
+Tussilago farfara;tuss farf;hl;;;;;;;;;;;;;;;;2a;;;;;;;;;;;;;;;;
+Ulmus glabra;ulmu glab;tl2;;;;;;;;;;;;;;;;;;2a;;;2a;;2a;;;;;;;2a;2a;
+Ulmus laevis;ulmu laev;hl;;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Urtica dioica;urti dioi dioi;hl;;+;;+;;;;;;;;;;;2a;;;;;;2a;2a;2b;2a;;3;;;;;;
+Valeriana officinalis;vale offi slat;hl;;;;+;;;;;;;;;;;;;;;;;;;;;;+;;;;;;
+Veronica chamaedrys;vero cham cham;hl;;;;;;;+;+;;;;;;;;;;;;;;;;;;;;;;;;
+Viburnum lantana;vibu lant;sl;;;;;;;;;;;;;;;;2a;2b;;;;;;2a;;;;;;;2a;2a;
+Viburnum lantana;vibu lant;hl;;;;;+;;;;;;;;;;;;;;+;;;;;;;;;;;;;
+Vicia cracca;vici crac;hl;;+;;;;;;+;;;;+;;;;;;;+;;;;;;;;;;;;;r
+Vicia spec;vici spec ies;hl;;;;+;;;;;;;+;;;;;;;;;;;;;;;;;;;;;
+Viola reichenbachiana;viol reic;hl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;+;
+Viola spec;viol spec ies;hl;;;;;+;;;;;;;;;;;+;;+;;;;;;;;;;;;;;

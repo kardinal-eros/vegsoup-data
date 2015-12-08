@@ -1,0 +1,17 @@
+plot;location;longitude;latitude;accuracy;elevation
+ST_A;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Hangfuß des Krügerzinkens;"E13°42'09.7""";"N47°21'17.4""";3;1010
+ST_B;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Hangfuß des Krügerzinkens;"E13°42'11.3""";"N47°21'17.4""";3;1010
+ST_C;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Hangfuß des Krügerzinkens;"E13°42'17""";"N47°21'17.2""";3;1002
+ST_D-R;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Abhang des Krügerzinkens;"E13°42'08""";"N47°21'16.1""";4;1065
+ST_E-R;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Abhang des Krügerzinkens;"E13°42'04.1""";"N47°21'14""";;1085
+ST_F;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Abhang des Krügerzinkens;"E13°42'23.3""";"N47°21'10.1""";4;1116
+ST_G;Niedere Tauern, Schladminger Tauern, Untertal, nordöstlicher Abhang des Krügerzinkens;"E13°42'09""";"N47°21'16.4""";3;1046
+BR_K;Niedere Tauern, Schladminger Tauern, WNW-exponierter Hangfuß des Mitterecks, 870 m SW von St. Nikolai im Sölktal, 20 m SEder Forststraße entlang des Bräualmbachs;"E14°02'22.8""";"N47°18'46.2""";;1153
+BR_R-R;Niedere Tauern, Schladminger Tauern, NW-exponierte Flanke des Mitterecks, 870 m SW von St. Nikolai im Sölktal, 60 m SEder Forststraße entlang des Bräualmbachs;"E14°02'23.4""";"N47°18'44.8""";;1183
+KR_K;Niedere Tauern, Schladminger Tauern, 3,2 km SW von St. Nikolai im Sölktal, Kreuzsteg;"E14°01'29.4""";"N47°17'42.1""";;1215
+KL_K2a;Nördliche Kalkalpen, Hochschwabmassiv, 275 m SSW der Klammhöhe Nvon Oberort-Tragöß;"E15°04'15.8""";"N47°32'52.1""";;945
+KL_K1;Nördliche Kalkalpen, Hochschwabmassiv, 275 m SSW der Klammhöhe Nvon Oberort-Tragöß;"E15°04'17""";"N47°32'52""";;955
+KL_R_R;Nördliche Kalkalpen, Hochschwabmassiv, 275 m SSW der Klammhöhe Nvon Oberort-Tragöß;"E15°04'14.6""";"N47°32'50.7""";;965
+PF_Ka;Nördliche Kalkalpen, Hochschwabmassiv, Laminggraben zwischen Trenchtling und Pribitz, Blockhalde an der NE-Flanke des Trenchtlings, SW der Pfarrerlacke auf Forststra- ßenniveau;"E15°02'02""";"N47°32'52""";;880
+PF-Kb;Nördliche Kalkalpen, Hochschwabmassiv, Laminggraben zwischen Trenchtling und Pribitz, Blockhalde an der NNE-Flanke des Trenchtlings, 470 m NW der Pfarrerlacke, Forststraßenniveau;"E15°01'48.9""";"N47°33'02.9""";;900
+PF_Kc;Nördliche Kalkalpen, Hochschwabmassiv, Laminggraben zwischen Trenchtling und Pribitz, Blockhalde an der NNE-Flanke des Trenchtlings, 350 m NW der Pfarrerlacke, Forststraßenniveau;"E15°01'54""";"N47°33'01""";;888

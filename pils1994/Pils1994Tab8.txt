@@ -1,0 +1,189 @@
+Aufnahmenummer                 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+                               1 1 1 1 1 2 2 2 2 2 2 2 2 2 2
+                               6 7 8 8 9 0 1 2 3 4 5 6 7 8 9
+                               . . . A . . . . . . . . . . .
+Seehöhe in 10 m                1 1 1 1 1 1 1 2 2 2 2 2 1 2 2
+                               6 4 9 9 6 8 8 2 2 0 0 3 9 2 2
+                               2 6 2 2 5 8 3 0 0 1 3 2 0 0 2
+                               . . . . . . . . . . . . . . .
+Neigung in Grad                1 1 1 5 2 2 2 0 0 5 2 0 5 0 0
+                               0 5 0 . 5 0 5 . . . . . . . .
+                               . . . . . . . . . . . . . . .
+Exposition                     E S W S W S S F F E N F N F F
+                               N E . W . . . . . . . . . . .
+                               E . . . . . . . . . . . . . .
+                               . . . . . . . . . . . . . . .
+Aufnahmefläche in 10 qm        2 3 1 1 2 2 5 2 2 2 1 1 1 1 1
+                               0 0 . . 0 . . . . . 0 . . . .
+                               . . . . . . . . . . . . . . .
+Deckung in %                   9 9 9 9 8 9 9 9 8 9 7 8 5 6 8
+                               5 9 5 0 5 0 0 0 5 0 5 5 0 0 5
+Ausbildung                     a a b b c c c d d d d d e e f
+                               . . . . . . . . . . . . . . .
+
+Festuca norica                 . . 5 3 . 1 2 . . . . . . . .
+Achillea clavenae              . . . + . 1 . . . . . . . . .
+Acinos alpinus                 . r . + + + . . . . . . . . .
+Alchemilla anisiaca            . r . . 2 . . . . . . . . . .
+Anemone narcissiflora          . + . . . . + . . . . . . . .
+Aster bellidiastrum            r r . . r + . . . . . . . . +
+Betonica alectorolophus        . 2 . . + . 1 . . . . . . . .
+Campanula scheuchzeri          r + . 1 r . . . r . . . . . .
+Carduus defloratus             + r . 2 + + . . . . . . . . .
+Carlina acaulis                . . . 3 r . . . . . . . . . .
+Crepis alpestris               . . . . . . r . . . . . . . .
+Dianthus alpinus               . r . . r . r . . . . . . . .
+Erica carnea                   + . . 1 . 2 . . . . . . . . .
+Erigeron polymorphus           . . . . r . . . . . . . . . .
+Euphrasia picta                . . 1 1 . . . . . . . . . . .
+Galium anisophyllum            . + + 1 + + . . . . . r . . .
+Helianthemum grandiflora       + + r 3 3 3 . . . . . . . . .
+Heracleum austriacum           1 1 r r . . + . . . . . . . .
+Hieracium villosum             . . . + . . . . . . . . . . .
+Hippocrepis comosa             . r . . 1 . . . . . . . . . .
+Leucanthemum atratum           . + . . + . + . . . . . . . .
+Linum perenne ssp. alpinum     . + . . . . . . . . . . . . .
+Lotus corniculatus agg         + 2 . . + + . . . . . . . . .
+Myosotis alpestris             . . r . . . . r . . . . . . .
+Nigritella miniata             . . . . . r . . . . . . . . .
+Nigritella nigra               . . . . r . . . . . . . . . .
+Pedicularis verticilata        . . . . r . r r . . . . . . .
+Phleum hirsutum                . + + . + . . . . . . . . . .
+Phyteuma orbiculare            r + . + + r . . . . . . . . .
+Polygata amara brachyptera     . r . + . r . . . . . . . . .
+Ranunculus hybridus            + . . . . . . . . . . . . . .
+Ranunculus montanus            1 . . . . 1 . r . . . . . . .
+Ranunculus nemorosus           . + . . . . 2 . . . . . . . .
+Scabiosa lucida                . + . 2 r . r . . . . . . . .
+Tephroseris longifolia         . . . . . . r . . . . . . . .
+Silene vulgaris                . + . . . . + . . . . . . . .
+Thesium alpinum                . . . . r r . . . . . . . . .
+Thlaspi alpestre               . . . . . + . . . . . . . . .
+Thymus praecox potytrichus     . . . . r + . . . . r . . . .
+
+Carex ferruginea               4 3 . 1 1 . . . . . . . . . .
+Buphthalmum salicifolium       . 2 . . . . r . . . . . . . .
+Crepis blattarioides           . + . . . . . . . . . . . . .
+Daphne mezereum                . r . . . . . . . . . . . . .
+Geranium sylvaticum            r r . . . . . . . . . . . . .
+Globularia nudicaulis          . r . 2 . . . . . . . . . . .
+Gymnadenia conopsea            r + . . . . . . . . . . . . .
+Helleborus niger               . 2 . . . . . . . . . . . . .
+Hypericum maculatum            . r . 1 . . . . . . . . . . .
+Laserpitium latifolium         . r . . . . . . . . . . . . .
+Lilium martagon                + r . . . . . . . . . . . . .
+Luzula sylvatica               + . . . . . . . . . . . . . .
+Melica nutans                  . r . . . . . . . . . . . . .
+
+Mercuriais perennis            r 2 . . . . . . . . . . . . .
+Meum athamanticum              . 3 . . . . . . . . . . . . .
+Myosotis sylvatica             . r . r . . . . . . . . . . .
+Phyteuma spicatum              r . . . . . . . . . . . . . .
+Pinus mugo                     r + + . . . . . . . . . . . .
+Pulsatilla alpina              + . . . . . . . . . . . . . .
+Ranunculus lanuginosus         . r . . . . . . . . . . . . .
+Rosa pendulina                 r . . . . . . . . . . . . . .
+Rubus saxatilis                r . . . . . . . . . . . . . .
+Salix alpina                   r . . . . . . . . . . . . . .
+Pimpinella major               + 2 . . . . . . . . . . . . .
+Salix appendiculata            . r . . . . . . . . . . . . .
+Salix glabra                   + . . . . . . . . . . . . . .
+Solidago virgaurea minuta      r r . r . . . . . . . . . . .
+Sorbus chamaemespilus          . r . . . . . . . . . . . . .
+Thalictrum aquilegiifolium     r r . . . . . . . . . . . . .
+Traunsteinera globosa          . r . . . . . . . . . . . . .
+Trollius europaeus             3 . . . . . . . . . . + . . .
+Vaccinium myrtillus            2 . . . . . . . . . . . . . .
+Valeriana officinalis          . r . . . . . . . . . . . . .
+Valeriana tripteris            r . . . . . . . . . . . . . .
+Veratrum album                 r r r . . . + . . . . . . . .
+Verbascum alpinum              . + . . . . . . . . . . . . .
+Viola biflora                  + . . . . . . . . . . . . . .
+                               . . . . . . . . . . . . . . .
+Briza media                    . . . . + . . . . . . . . . .
+Carex flacca                   . . . . 1 . . . . . . . . . .
+Crepis aurea                   . . r . r . . . . . . . . . .
+Deschampsia cespitosa          . + . . + . . . . . . . . . 1
+Festuca rubra                  . . . . 1 . . . . . . . . . .
+
+Carex sempervirens             . . + . 2 3 3 . . . . . . . .
+Helictotrichon parlatorei      + + . . . 3 4 . . . . . . . .
+Sesleria varia                 + . . . 1 2 1 . r + . . . . .
+                               . . . . . . . . . . . . . . .
+Anthyllis vulneraria alpestris + + . 2 2 r . . . r r . . . .
+Pedicularis rostrato-capitata  r . . . r . r + . r + . . . .
+
+Carex firma                    . . . . . . . 1 2 4 4 4 . . .
+Dryas octopetala               . . . . . . . 4 2 3 3 1 . . .
+Festuca pumila                 . . . . . . . 3 + + + 1 . . .
+Silene acaulis                 . . . . + . . 1 2 + 1 1 . . .
+Carex atrata s.str.            . . . . . . . 2 1 . r r . . .
+Agrostis alpina                . . . . . . . . 1 2 + . . . .
+Androsace chamaejasme          . . . . . . . . . + . . . . .
+Arenaria ciliata               . . . . . . . r . . r + . . .
+Armeria alpina                 . . . . . . . . . . r r . . .
+Carex capillaris               . . . . + . . 1 + + r . . . .
+Carex parviflora               . . . . . . . . r . . r + . .
+Cerastium alpinum              . . . . . . . r . . . . . . .
+Chamorchis alpina              . . . . . . . . . + . . . . .
+Doronicum glaciale s. str.     . . . . . . . r . . . . . . .
+Cetraria islandica             . . . . . . . . . r . r . . .
+Thamnolia vermicularis         . . . . . . . r . r + . . . .
+Gentiana clusii                . . . . . . . . . r r . . . .
+Gentiana pumila                . . . . . . . . . . + 1 . . .
+Hedysarum hedysaroides         . . . . . . . + . . r . . . .
+Helianthemum alpestre          . . . . . . . + . . + . . . .
+Homogyne discolor              1 . . . . . . + 1 . + 1 . . .
+Kobresia simpliciuscula        . . . . . . . . r 1 + . . . .
+Ligusticum mutellinoides       . . . . . . . . + . . . . r .
+Oxytropis jacquinii            . . . . . . . . . 1 + . . . .
+Pinguicula alpina              . . . . . . . . . . + . . . .
+Polygonum viviparum            . . . . + . . 1 + + + + 1 + .
+Primula clusiana               + . . . . . . . . 1 1 1 . . .
+Salix serpyliifolia            . . . . . . . . 1 . . 4 . . .
+Saxifraga paniculata           . . . . . + . . . . + . . . .
+Saussurea pygmaea              . . . . . . . . . . + . . . .
+Selaginella selaginoides       . . . . . . . . r r r r . . .
+
+Antennaria carpatica           . . . . . . . . r . r . . . .
+Campanuta barbata              . . . . . . . . . . + . . . .
+Empetrum hermaphroditum        . . . . . . . . . . + . . . .
+
+Carex fuliginosa               . . . . . . . . . . + . . . .
+Euphrasia minima               . . . . . . . r + . r + . . .
+Huperzia selago                . . . . . . . . . . r . . . .
+Loiseleuria procumbens         . . . . . . . 2 1 + 2 . . . .
+Dicranum scoparium             . . . . . . . r . . . . . . .
+Polytrichum alpinum            . . . . . . . + . . . . . . .
+Primula minima                 . . . . . . . . 3 1 . . . . .
+Senecio carniolicus            . . . . . . . . . . . r . . .
+Vaccinium gaultherioides       . . . . . . . . + . . . . . .
+Vaccinium vitis-idaea          . . . . . . . . . r . . . . .
+Paraleucobryum enerve          . . . . . . . + . . . . . . .
+Valeriana celtica              . . . . . . . 2 . . 1 4 . . .
+
+Achillea atrata                . . . . . . . . . . . . r 1 .
+Arabis caerulea                . . . . . . . . . . . . . + .
+Epilobium anagallidifolium     . . . . . . . . . . . . . r .
+Galium noricum                 . . . . . . . . . . . . + r .
+Gentiana bavarica              . . . . . . . . . . . . r + .
+Gnaphalium supinum             . . . . . . . . . . . . . 3 .
+Hutchinsia alpina              . . . . . . . . . . . . . r .
+Potentilla brauneana           . . . . . . . . . . . . . r .
+Ranunculus alpestris           . . . . . . . r + . . r 2 1 .
+Sagina saginoides              . . . . . . . . . . . . . r .
+Salix herbacea                 . . . . . . . . . . . . . 2 .
+Salix retusa                   . . . . . . . 1 . . . . 2 1 .
+Saxifraga androsacea           . . . . . . . . . . . . 1 + .
+Sibbaldia procumbens           . . . . . . . . . . . . . 2 .
+
+Alchemilla crinita             . . . . . . . . . . . . . . 2
+Alchemilla fissa               . . . . . . . . . . . . r + 2
+Cirsium spinosissimum          . . . . . . . . . . . . . . 4
+Phleum rhaeticum               . . . . . . . . . . . . . . r
+Taraxacum alpinum agg.         . . . . . . . . . . . . . + 2
+Veronica alpina                . . . . . . . . . . . . + 1 1
+
+Minuartia gerardii             . . . . 1 . . r . . . r . . .
+Poa alpina                     . . + r + . . r r . . r r + 3
+Rhododendron hirsutum          1 . . . . . + . . + 1 . . . .

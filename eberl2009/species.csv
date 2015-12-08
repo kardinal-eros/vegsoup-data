@@ -1,0 +1,462 @@
+plot;abbr;layer;cov;comment;history
+ga01;nard stri;hl;1;;
+ga01;luzu luzu rube;hl;1;;
+ga01;arni mont;hl;1;;
+ga01;agro agro;hl;1;; | Changed agro schr To agro agro 2012-11-26 22:33:43
+ga01;rhod ferr;hl;3;;
+ga01;vacc gaul;hl;3;;
+ga01;pote erec;hl;+;;
+ga01;junc trif;hl;+;;
+ga01;camp barb barb;hl;+;; | Changed camp barb To camp barb barb 2012-11-26 22:33:43
+ga01;geum mont;hl;+;;
+ga01;pote aure;hl;+;;
+ga01;hier alpi;hl;+;;
+ga01;loni caer caer;hl;+;; | Changed loni caer To loni caer caer 2012-11-26 22:33:43
+ga01;scor helv;hl;+;; | Changed leon helv To scor helv 2012-11-26 22:33:43
+ga01;semp stir;hl;+;;
+ga01;phyt pers;hl;+;;
+ga01;gent punc;hl;+;;
+ga01;homo alpi;hl;+;;
+ga01;juni comm nana;hl;+;; | Changed juni alpi To juni comm nana 2012-11-26 22:33:43
+ga01;camp sche;hl;+;;
+ga01;aven vers;hl;+;;
+ga01;soli virg minu;hl;+;; | Changed soli minu To soli virg minu 2012-11-26 22:33:43
+ga01;sile vulg vulg;hl;+;; | Changed sile vulg To sile vulg vulg 2012-11-26 22:33:43
+ga01;cala vill;hl;+;;
+ga01;vacc viti;hl;2a;;
+ga01;aven flex flex;hl;2a;;
+ga01;call vulg;hl;2b;;
+ga01;vacc myrt;hl;2b;;
+ga01;cetr isla isla;ll;+;cf.; | Changed cetr isla To cetr isla isla 2012-11-26 22:33:43
+ga01;clad spec ies;ll;+;;
+ga01;rhyt triq;ml;1;;
+ga01;dicr denu;ml;1;;
+ga01;hylo sple;ml;1;;
+ga01;grim hart;ml;1;;
+ga01;pleu squa;ml;3;;
+ga01;dicr scop;ml;2a;;
+ga02;vacc viti;hl;1;;
+ga02;phyt pers;hl;1;;
+ga02;call vulg;hl;1;;
+ga02;puls alpi alba;hl;1;; | Changed puls alba To puls alpi alba 2012-11-26 22:33:43
+ga02;geum mont;hl;1;;
+ga02;homo alpi;hl;1;;
+ga02;soli virg minu;hl;1;; | Changed soli minu To soli virg minu 2012-11-26 22:33:43
+ga02;chae vill;hl;1;;
+ga02;pote aure;hl;1;;
+ga02;aven flex flex;hl;1;;
+ga02;rhod ferr;hl;3;;
+ga02;carl acau acau;hl;+;; | Changed carl acau To carl acau acau 2012-11-26 22:33:43
+ga02;rhin glac;hl;+;;
+ga02;care semp semp;hl;+;; | Changed care semp To care semp semp 2012-11-26 22:33:43
+ga02;sene caca;hl;+;;
+ga02;juni comm nana;hl;+;; | Changed juni alpi To juni comm nana 2012-11-26 22:33:43
+ga02;camp barb barb;hl;+;; | Changed camp barb To camp barb barb 2012-11-26 22:33:43
+ga02;gent punc;hl;+;;
+ga02;hype macu;hl;+;;
+ga02;vera albu slat;hl;+;; | Changed vera albu To vera albu slat 2012-11-26 22:33:43
+ga02;peuc ostr;hl;+;;
+ga02;camp sche;hl;+;;
+ga02;arni mont;hl;+;;
+ga02;junc trif;hl;+;;
+ga02;lotu corn;hl;+;;
+ga02;trif prat niva;hl;+;;
+ga02;aven vers;hl;+;;
+ga02;lact alpi;hl;+;; | Changed cice alpi To lact alpi 2012-11-26 22:33:43
+ga02;scor helv;hl;+;; | Changed leon helv To scor helv 2012-11-26 22:33:43
+ga02;doro aust;hl;+;;
+ga02;leon hisp slat;hl;+;; | Changed leon hisp To leon hisp slat 2012-11-26 22:33:43
+ga02;trol euro;hl;+;;
+ga02;gera sylv;hl;+;;
+ga02;hier aura;hl;+;;
+ga02;hier lach;hl;2a;cf.;
+ga02;fest rubr rubr;hl;2a;;
+ga02;sile vulg vulg;hl;2a;; | Changed sile vulg To sile vulg vulg 2012-11-26 22:33:43
+ga02;crep cony;hl;2a;;
+ga02;vacc gaul;hl;2a;;
+ga02;agro agro;hl;2a;; | Changed agro schr To agro agro 2012-11-26 22:33:43
+ga02;anth alpi;hl;2a;;
+ga02;nard stri;hl;2b;;
+ga02;luzu luzu rube;hl;2b;;
+ga02;vacc myrt;hl;2b;;
+ga02;rume alpe;hl;2b;;
+ga02;dact macu slat;hl;r;; | Changed dact macu To dact macu slat 2012-11-26 22:33:43
+ga02;aden alli;hl;r;;
+ga02;clad spec ies;ll;+;;
+ga02;schi spec ies;ml;+;; | Changed schi spec To schi spec ies 2012-11-26 22:33:43
+ga02;hete dimo;ml;+;;
+ga02;dicr scop;ml;+;;
+ga02;pseu incu;ml;+;;
+ga02;sciu refl;ml;+;; | Changed scio refl To sciu refl 2012-11-26 22:33:43
+ga02;alnu alno alno;sl;1;; | Changed alnu viri To alnu alno alno 2012-11-26 22:33:43
+ga03;cala vill;hl;1;;
+ga03;aven flex flex;hl;1;;
+ga03;call vulg;hl;1;;
+ga03;anth alpi;hl;1;;
+ga03;juni comm nana;hl;3;; | Changed juni alpi To juni comm nana 2012-11-26 22:33:43
+ga03;rhod ferr;hl;4;;
+ga03;arni mont;hl;+;;
+ga03;semp stir;hl;+;;
+ga03;phyt hemi;hl;+;;
+ga03;peuc ostr;hl;+;;
+ga03;luzu luzu rube;hl;+;;
+ga03;lyco anno;hl;+;;
+ga03;sile vulg vulg;hl;+;; | Changed sile vulg To sile vulg vulg 2012-11-26 22:33:43
+ga03;soli virg minu;hl;+;; | Changed soli minu To soli virg minu 2012-11-26 22:33:43
+ga03;homo alpi;hl;+;;
+ga03;loni caer caer;hl;+;; | Changed loni caer To loni caer caer 2012-11-26 22:33:43
+ga03;dryo dila;hl;+;;
+ga03;camp sche;hl;+;;
+ga03;agro alpi;hl;+;;
+ga03;vacc viti;hl;2a;;
+ga03;vacc myrt;hl;2a;;
+ga03;junc trif;hl;2b;;
+ga03;dicr scop;ml;1;;
+ga03;dicr mont;ml;+;;
+ga03;rhyt rugo;ml;+;;
+ga03;grim hart;ml;+;;
+ga03;raco sude;ml;2a;;
+ga03;hylo sple;ml;2a;;
+ga03;pleu schr;ml;2b;;
+ga04;vacc gaul;hl;1;;
+ga04;junc trif;hl;1;;
+ga04;care nigr;hl;1;;
+ga04;care semp semp;hl;1;; | Changed care semp To care semp semp 2012-11-26 22:33:43
+ga04;phyt hemi;hl;1;;
+ga04;vacc viti;hl;1;;
+ga04;call vulg;hl;4;;
+ga04;scor helv;hl;+;; | Changed leon helv To scor helv 2012-11-26 22:33:43
+ga04;aven flex flex;hl;+;;
+ga04;puls alpi alba;hl;+;; | Changed puls alba To puls alpi alba 2012-11-26 22:33:43
+ga04;pseu albi slat;hl;+;; | Changed pseu albi To pseu albi slat 2012-11-26 22:33:43
+ga04;prim mini;hl;+;;
+ga04;rhod ferr;hl;+;;
+ga04;arni mont;hl;+;;
+ga04;lois proc;hl;+;;
+ga04;care curv curv;hl;2a;;
+ga04;raco cane cane;ml;+;; | Changed raco cane To raco cane cane 2012-11-26 22:33:43
+ga04;raco lanu;ml;+;;
+ga04;ptil cili;ml;+;; | Changed ptili cili To ptil cili 2012-11-26 22:33:43
+ga04;raco sude;ml;+;;
+ga05;care semp semp;hl;1;; | Changed care semp To care semp semp 2012-11-26 22:33:43
+ga05;agro agro;hl;1;; | Changed agro schr To agro agro 2012-11-26 22:33:43
+ga05;mute adon;hl;1;; | Changed ligu mute To mute adon 2012-11-26 22:33:43
+ga05;desc cesp;hl;1;;
+ga05;leon hisp slat;hl;1;; | Changed leon hisp To leon hisp slat 2012-11-26 22:33:43
+ga05;camp sche;hl;1;;
+ga05;sesl caer;hl;1;; | Changed sesl albi To sesl caer 2012-11-26 22:33:43
+ga05;viol bifl;hl;1;;
+ga05;parn palu;hl;1;;
+ga05;tofi caly;hl;1;;
+ga05;carl acau acau;hl;1;; | Changed carl acau To carl acau acau 2012-11-26 22:33:43
+ga05;saxi aizo;hl;1;;
+ga05;sali reti;hl;1;;
+ga05;care ferr;hl;4;;
+ga05;rhod ferr;hl;+;;
+ga05;agro alpi;hl;+;;
+ga05;sold pusi alpi;hl;+;cf. Soldanella alpina; | Changed sold pusi To sold pusi alpi 2012-11-26 22:33:43
+ga05;sali wald;hl;+;;
+ga05;sela sela;hl;+;;
+ga05;gali anis;hl;+;;
+ga05;bell mich;hl;+;; | Changed aste bell To bell mich 2012-11-26 22:33:43
+ga05;alch spec ies;hl;+;; | Changed alch vulg agg To alch spec ies 2012-11-26 22:33:43
+ga05;will stip stip;hl;+;; | Changed caly stip To will stip 2012-11-26 22:33:43 | Changed will stip To will stip stip 2012-11-26 22:38:01
+ga05;vacc gaul;hl;+;;
+ga05;pers vivi;hl;+;;
+ga05;ranu mont;hl;+;;
+ga05;trol euro;hl;+;;
+ga05;junc jacq;hl;+;; | Changed junc jaqu To junc jacq 2012-11-26 22:38:01
+ga05;pote aure;hl;+;;
+ga05;homo alpi;hl;+;;
+ga05;vera albu slat;hl;+;; | Changed vera albu To vera albu slat 2012-11-26 22:33:43
+ga05;puls alpi alba;hl;+;; | Changed puls alba To puls alpi alba 2012-11-26 22:33:43
+ga05;bart alpi;hl;+;;
+ga05;dact macu slat;hl;+;; | Changed dact macu To dact macu slat 2012-11-26 22:33:43
+ga05;thym pule pule;hl;+;;
+ga05;rhin glac;hl;+;;
+ga05;cirs spin;hl;+;;
+ga05;aven vers;hl;+;;
+ga05;junc fili;hl;2a;;
+ga05;gera sylv;hl;2b;;
+ga05;phil font;ml;+;;
+ga05;aneu ping;ml;+;;
+ga05;bryu pseu slat;ml;+;; | Changed bryu pseu To bryu pseu slat 2012-11-26 22:33:43
+ga05;tort tort;ml;+;;
+ga05;camp stel;ml;+;;
+ga05;sani unci;ml;+;;
+ga06;puls alpi alba;hl;1;; | Changed puls alba To puls alpi alba 2012-11-26 22:33:43
+ga06;leon hisp slat;hl;1;; | Changed leon hisp To leon hisp slat 2012-11-26 22:33:43
+ga06;parn palu;hl;1;;
+ga06;viol bifl;hl;1;;
+ga06;ranu mont;hl;1;;
+ga06;mute adon;hl;1;; | Changed ligu mute To mute adon 2012-11-26 22:33:43
+ga06;thes pyre alpe;hl;1;; | Changed thes pyre To thes pyre alpe 2012-11-26 22:33:43
+ga06;care ferr;hl;5;;
+ga06;nard stri;hl;+;;
+ga06;homo alpi;hl;+;;
+ga06;gali anis;hl;+;;
+ga06;saxi aizo;hl;+;;
+ga06;peuc ostr;hl;+;;
+ga06;call vulg;hl;+;;
+ga06;hype macu;hl;+;;
+ga06;agro alpi;hl;+;;
+ga06;cirs spin;hl;+;;
+ga06;pers vivi;hl;+;;
+ga06;cala vill;hl;+;;
+ga06;chae vill;hl;+;;
+ga06;bell mich;hl;+;; | Changed aste bell To bell mich 2012-11-26 22:33:43
+ga06;will stip stip;hl;+;; | Changed caly stip To will stip 2012-11-26 22:33:43 | Changed will stip To will stip stip 2012-11-26 22:38:01
+ga06;rhod ferr;hl;+;;
+ga06;junc trif;hl;+;;
+ga06;pote aure;hl;+;;
+ga06;vera albu slat;hl;+;; | Changed vera albu To vera albu slat 2012-11-26 22:33:43
+ga06;thym pule pule;hl;+;cf.;
+ga06;pedi recu;hl;+;;
+ga06;euph offi pict;hl;+;;
+ga06;desc cesp;hl;+;;
+ga06;sile vulg vulg;hl;+;; | Changed sile vulg To sile vulg vulg 2012-11-26 22:33:43
+ga06;phyt orbi;hl;+;;
+ga06;arni mont;hl;+;;
+ga06;alch spec ies;hl;+;agg.; | Changed alch vulg agg To alch spec ies 2012-11-26 22:33:43
+ga06;rhin glac;hl;+;;
+ga06;sela sela;hl;+;;
+ga06;tofi caly;hl;+;;
+ga06;junc jacq;hl;+;; | Changed junc jaqu To junc jacq 2012-11-26 22:38:01
+ga06;dact macu slat;hl;+;; | Changed dact macu To dact macu slat 2012-11-26 22:33:43
+ga06;agro agro;hl;+;; | Changed agro schr To agro agro 2012-11-26 22:33:43
+ga06;sold alpi;hl;+;;
+ga06;trol euro;hl;2a;;
+ga06;carl acau acau;hl;2a;; | Changed carl acau To carl acau acau 2012-11-26 22:33:43
+ga06;camp sche;hl;2m;;
+ga06;camp stel;ml;+;;
+ga06;phil font;ml;+;;
+ga06;sani unci;ml;+;;
+ga06;bryu pseu slat;ml;+;; | Changed bryu pseu To bryu pseu slat 2012-11-26 22:33:43
+ga06;tort tort;ml;+;;
+ga06;aneu ping;ml;+;;
+ga07;rume alpe;hl;1;;
+ga07;viol bifl;hl;1;;
+ga07;care ferr;hl;1;;
+ga07;fest rubr rubr;hl;1;;
+ga07;carl acau acau;hl;1;; | Changed carl acau To carl acau acau 2012-11-26 22:33:43
+ga07;luzu luzu rube;hl;1;;
+ga07;chae vill;hl;1;;
+ga07;camp sche;hl;1;;
+ga07;rhod ferr;hl;1;;
+ga07;geum mont;hl;1;;
+ga07;agro agro;hl;5;; | Changed agro schr To agro agro 2012-11-26 22:33:43
+ga07;vacc viti;hl;+;;
+ga07;myos alpe;hl;+;;
+ga07;poa alpi;hl;+;;
+ga07;thym pule pule;hl;+;cf.;
+ga07;pote aure;hl;+;;
+ga07;fest pulc pulc;hl;+;;
+ga07;gent acau;hl;+;;
+ga07;sold alpi;hl;+;;
+ga07;junc trif;hl;+;;
+ga07;nard stri;hl;+;;
+ga07;crep cony;hl;+;;
+ga07;bell mich;hl;+;; | Changed aste bell To bell mich 2012-11-26 22:33:43
+ga07;knau maxi;hl;+;;
+ga07;semp stir;hl;+;;
+ga07;peuc ostr;hl;+;;
+ga07;anth alpi;hl;+;;
+ga07;thal aqui;hl;+;;
+ga07;dact macu slat;hl;+;; | Changed dact macu To dact macu slat 2012-11-26 22:33:43
+ga07;aven flex flex;hl;+;;
+ga07;hype macu;hl;+;;
+ga07;euph offi pict;hl;+;;
+ga07;rhin glac;hl;+;;
+ga07;thes pyre alpe;hl;+;; | Changed thes pyre To thes pyre alpe 2012-11-26 22:33:43
+ga07;botr luna;hl;+;;
+ga07;sile vulg vulg;hl;2a;; | Changed sile vulg To sile vulg vulg 2012-11-26 22:33:43
+ga07;gera sylv;hl;2a;;
+ga07;leon hisp slat;hl;2a;; | Changed leon hisp To leon hisp slat 2012-11-26 22:33:43
+ga07;fest nori;hl;2b;;
+ga07;pter fili maju;ml;1;; | Changed pter cili To pter fili maju 2012-11-26 22:33:43
+ga07;blep trich;ml;+;;
+ga07;grim hart;ml;+;;
+ga07;pseu incu;ml;+;;
+ga07;sciu refl;ml;+;; | Changed scio refl To sciu refl 2012-11-26 22:33:43
+ga07;jung grac;ml;+;;
+ga07;raco cane cane;ml;+;; | Changed raco cane To raco cane cane 2012-11-26 22:33:43
+ga07;bryu spec ies;ml;+;; | Changed bryu spec To bryu spec ies 2012-11-26 22:33:43
+ga07;ceph bicu;ml;+;; | Changed ceph bisc To ceph bicu 2012-11-26 22:38:01
+ga08;erio angu;hl;5;;
+ga08;care rost;hl;+;;
+ga08;warn exan;ml;5;;
+ga09;desc cesp;hl;1;;
+ga09;care rost;hl;5;;
+ga09;calt palu;hl;+;;
+ga09;care cane cane;hl;+;; | Changed care cane To care cane cane 2012-11-26 22:33:44
+ga09;erio angu;hl;+;;
+ga09;scap palu;ml;1;;
+ga09;stra stra;ml;1;;
+ga09;warn exan;ml;5;;
+ga09;scap undu;ml;2a;;
+ga10;epil nuta;hl;1;;
+ga10;care cane cane;hl;1;; | Changed care cane To care cane cane 2012-11-26 22:33:44
+ga10;desc cesp;hl;1;;
+ga10;equi fluv;hl;5;;
+ga10;parn palu;hl;+;;
+ga10;anth alpi;hl;+;;
+ga10;erio angu;hl;+;;
+ga10;junc jacq;hl;+;; | Changed junc jaqu To junc jacq 2012-11-26 22:38:01
+ga10;trif badi;hl;+;;
+ga10;phle rhae;hl;+;; | Changed phle alpi To phle rhae 2012-11-26 22:33:44
+ga10;care frig;hl;+;;
+ga10;gent bava;hl;+;;
+ga10;viol palu;hl;+;;
+ga10;calt palu;hl;2a;;
+ga10;care nigr;hl;2a;;
+ga10;equi vari;hl;2b;;
+ga10;warn exan;ml;3;;
+ga10;bryu pseu slat;ml;2a;; | Changed bryu pseu To bryu pseu slat 2012-11-26 22:33:43
+ga10;phil font;ml;2b;;
+ga11;care nigr;hl;1;;
+ga11;care rost;hl;1;;
+ga11;tric cesp cesp;hl;5;; | Changed tric cesp To tric cesp cesp 2012-11-26 22:33:44
+ga11;desc cesp;hl;+;;
+ga11;care echi;hl;+;;
+ga11;ping vulg;hl;+;;
+ga11;erio angu;hl;2a;;
+ga11;poly juni;ml;1;;
+ga11;spla spha;ml;+;;
+ga11;scap palu;ml;2a;;
+ga11;warn exan;ml;2b;;
+ga12;call vulg;hl;1;;
+ga12;tric cesp cesp;hl;1;; | Changed tric cesp To tric cesp cesp 2012-11-26 22:33:44
+ga12;care curv curv;hl;1;;
+ga12;oreo dist;hl;1;;
+ga12;rhod ferr;hl;+;;
+ga12;scor helv;hl;+;; | Changed leon helv To scor helv 2012-11-26 22:33:43
+ga12;agro rupe rupe;hl;+;; | Changed agro rupe To agro rupe rupe 2012-11-26 22:33:44
+ga12;hupe sela;hl;+;;
+ga12;care nigr;hl;+;;
+ga12;phyt hemi;hl;+;;
+ga12;hier spec ies;hl;+;voucher; | Changed hier spec To hier spec ies 2012-11-26 22:33:44
+ga12;prim mini;hl;2a;;
+ga12;lois proc;hl;2b;;
+ga12;vacc gaul;hl;2b;;
+ga12;tham verm verm;ll;1;; | Changed tham verm To tham verm verm 2012-11-26 22:33:44
+ga12;cetr isla isla;ll;1;; | Changed cetr isla To cetr isla isla 2012-11-26 22:33:43
+ga12;dicr denu;ml;1;;
+ga12;raco lanu;ml;1;;
+ga12;poly juni;ml;1;;
+ga12;dicr scop;ml;+;;
+ga12;raco sude;ml;+;;
+ga12;dicr elon;ml;+;;
+ga12;kiae star;ml;+;;
+ga12;anas mini;ml;+;;
+ga12;ptil cili;ml;+;; | Changed ptili cili To ptil cili 2012-11-26 22:33:43
+ga13;vacc viti;hl;1;;
+ga13;empe herm;hl;1;;
+ga13;rhod ferr;hl;4;;
+ga13;arni mont;hl;+;;
+ga13;sile vulg vulg;hl;+;; | Changed sile vulg To sile vulg vulg 2012-11-26 22:33:43
+ga13;homo alpi;hl;+;;
+ga13;camp barb barb;hl;+;; | Changed camp barb To camp barb barb 2012-11-26 22:33:43
+ga13;scor helv;hl;+;; | Changed leon helv To scor helv 2012-11-26 22:33:43
+ga13;loni caer caer;hl;+;; | Changed loni caer To loni caer caer 2012-11-26 22:33:43
+ga13;lois proc;hl;+;;
+ga13;cala vill;hl;+;;
+ga13;aven flex flex;hl;+;;
+ga13;nard stri;hl;+;;
+ga13;puls alpi alba;hl;+;; | Changed puls alba To puls alpi alba 2012-11-26 22:33:43
+ga13;junc trif;hl;+;;
+ga13;soli virg minu;hl;+;; | Changed soli minu To soli virg minu 2012-11-26 22:33:43
+ga13;call vulg;hl;2a;;
+ga13;vacc myrt;hl;2b;;
+ga13;vacc gaul;hl;2b;;
+ga13;clad rang;ll;2a;Cladonia rangiferina;
+ga13;dicr flex;ml;1;;
+ga13;pleu schr;ml;4;;
+ga13;hylo sple;ml;2b;;
+ga14;gera sylv;hl;1;;
+ga14;lact alpi;hl;1;; | Changed cice alpi To lact alpi 2012-11-26 22:33:43
+ga14;doro aust;hl;1;;
+ga14;peuc ostr;hl;1;;
+ga14;viol bifl;hl;1;;
+ga14;dryo dila;hl;1;;
+ga14;aden alli;hl;4;;
+ga14;aven flex flex;hl;+;;
+ga14;loni caer caer;hl;+;; | Changed loni caer To loni caer caer 2012-11-26 22:33:43
+ga14;sene caca;hl;+;;
+ga14;rume alpe;hl;+;;
+ga14;thel limb;hl;+;;
+ga14;poly lonc;hl;+;;
+ga14;desc cesp;hl;+;;
+ga14;vera albu slat;hl;+;; | Changed vera albu To vera albu slat 2012-11-26 22:33:43
+ga14;stel nemo;hl;2a;;
+ga14;athy dist;hl;2b;;
+ga14;sani unci;ml;1;;
+ga14;grim hart;ml;1;;
+ga14;barb barb;ml;+;;
+ga14;ceph bicu;ml;+;;
+ga14;poly alpi;ml;+;;
+ga14;sciu refl;ml;+;; | Changed scio refl To sciu refl 2012-11-26 22:33:43
+ga14;barb lyco;ml;+;;
+ga14;pell spec ies;ml;+;;
+ga14;rhiz punc;ml;+;;
+ga14;dicr cris;ml;+;;
+ga14;pleu schr;ml;2a;;
+ga14;hypn cupr;ml;2b;;
+ga14;alnu alno alno;sl;5;; | Changed alnu viri To alnu alno alno 2012-11-26 22:33:43
+vsb0227;agro rupe rupe;hl;2a;;
+vsb0227;desc cesp;hl;+;;
+vsb0227;hupe sela;hl;+;;
+vsb0227;junc trif;hl;2b;;
+vsb0227;luzu glab;hl;+;;
+vsb0227;poa alpi;hl;+;;
+vsb0227;saxi stel slat;hl;+;;
+vsb0227;sold pusi alpi;hl;+;;
+vsb0228;agro rupe rupe;hl;+;;
+vsb0228;anth vuln alpi;hl;+;;
+vsb0228;desc cesp;hl;2a;;
+vsb0228;junc trif;hl;2b;;
+vsb0228;scor helv;hl;+;;
+vsb0228;luzu glab;hl;1;;
+vsb0228;oreo dist;hl;+;;
+vsb0228;sold pusi alpi;hl;1;;
+vsb0229;agro rupe rupe;hl;1;;
+vsb0229;desc cesp;hl;1;;
+vsb0229;junc jacq;hl;+;;
+vsb0229;junc trif;hl;2a;;
+vsb0229;scor helv;hl;+;;
+vsb0229;leuc alpi;hl;+;;
+vsb0229;luzu glab;hl;1;;
+vsb0229;oreo dist;hl;+;;
+vsb0229;phyt glob;hl;+;;
+vsb0229;poa alpi;hl;1;;
+vsb0229;prim glut;hl;1;;
+vsb0229;prim mini;hl;+;;
+vsb0229;rhod ferr;hl;+;;
+vsb0229;sali herb;hl;1;;
+vsb0229;sali retu;hl;+;;
+vsb0230;agro rupe rupe;hl;2a;;
+vsb0230;aven flex flex;hl;2a;;
+vsb0230;aven vers;hl;3;;
+vsb0230;camp sche;hl;+;;
+vsb0230;junc trif;hl;1;;
+vsb0230;scor helv;hl;+;;
+vsb0230;luzu glab;hl;1;;
+vsb0230;oreo dist;hl;+;;
+vsb0230;prim glut;hl;1;;
+vsb0230;prim mini;hl;2m;;
+vsb0230;puls alpi alba;hl;+;;
+vsb0230;rhod ferr;hl;+;;
+vsb0231;agro rupe rupe;hl;1;;
+vsb0231;care parv;hl;+;;
+vsb0231;cera unif;hl;+;;
+vsb0231;cirs spin;hl;+;;
+vsb0231;desc cesp;hl;2a;;
+vsb0231;dian glac;hl;+;;
+vsb0231;gnap supi;hl;+;;
+vsb0231;junc jacq;hl;+;;
+vsb0231;scor helv;hl;+;;
+vsb0231;leuc alpi;hl;+;;
+vsb0231;luzu glab;hl;+;;
+vsb0231;sali retu;hl;+;;
+vsb0231;saxi mosc;hl;+;;
+vsb0231;sile acau exsc;hl;2m;;
+vsb0231;vero alpi;hl;+;;

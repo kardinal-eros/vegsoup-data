@@ -1,0 +1,160 @@
+BEGIN HEAD
+plot                                            gg
+                                                oo
+                                                00
+                                                12
+accuracy                                        22
+                                                00
+                                                  
+bare                                            00
+                                                  
+cov                                             99
+                                                55
+                                                  
+hcov                                            75
+                                                05
+                                                  
+htl1                                            11
+                                                16
+                                                  
+htl2                                             1
+                                                92
+                                                  
+mcov                                            11
+                                                50
+                                                  
+plsx                                            13
+                                                62
+                                                  
+plsy                                            1 
+                                                68
+                                                  
+rock                                            35
+                                                00
+                                                  
+scov                                            86
+                                                00
+                                                  
+slope                                           43
+                                                50
+                                                  
+stones                                          00
+                                                  
+t1cov                                           67
+                                                05
+                                                  
+t2cov                                           52
+                                                05
+                                                  
+richness                                        65
+                                                97
+                                                  
+END HEAD
+BEGIN TABLE
+Acer platanoides                            tl1 22
+Fraxinus excelsior                              32
+Quercus robur                                   23
+Acer platanoides                            tl2 2.
+Carpinus betulus                                22
+Fraxinus excelsior                              21
+Ulmus glabra                                    +.
+Quercus robur                                   .2
+Acer platanoides                             sl +.
+Acer pseudoplatanus                             ++
+Berberis julianae                               r.
+Carpinus betulus                                ++
+Clematis vitalba                                ++
+Cornus sanguinea s.lat.                         1+
+Corylus avellana                                ++
+Cotoneaster horizontalis                        +r
+Crataegus monogyna                              21
+Euonymus europaeus                              1.
+Fraxinus excelsior                              1+
+Hedera helix                                    +.
+Ligustrum vulgare                               42
+Lonicera xylosteum                              21
+Quercus robur                                   ++
+Rhamnus cathartica                              +.
+Rosa arvensis                                   ++
+Ulmus glabra                                    1.
+Viburnum lantana                                11
+Fagus sylvatica                                 .+
+Prunus avium s.lat.                             .+
+Tilia platyphyllos                              .1
+Acer platanoides                             hl 11
+Acer pseudoplatanus                             ++
+Ajuga × hybrida (=A. genevensis × reptans)      r.
+Allium carinatum                                1.
+Allium oleraceum                                +.
+Anemone nemorosa                                +2
+Aposeris foetida                                ++
+Arabis hirsuta s.str.                           +.
+Asplenium ruta-muraria                          ++
+Asplenium trichomanes ssp. quadrivalens         1+
+Brachypodium pinnatum s.str.                    ++
+Brachypodium sylvaticum                         ++
+Bromus benekenii                                ++
+Calamagrostis varia                             11
+Campanula persicifolia                          r.
+Campanula rapunculoides ssp. rapunculoides      ++
+Campanula trachelium                            +.
+Carex alba                                      12
+Carex digitata                                  21
+Carex humilis                                   12
+Carex montana                                   12
+Carex ornithopodoides                           +.
+Carpinus betulus                                +1
+Clematis vitalba                                ++
+Clinopodium vulgare ssp. vulgare                +.
+Cornus sanguinea s.lat.                         ++
+Crataegus monogyna                              11
+Euonymus europaeus                              +.
+Euphorbia amygdaloides ssp. amygdaloides        +2
+Euphorbia cyparissias                           r.
+Euphorbia dulcis                                +.
+Fagus sylvatica                                 ++
+Fragaria moschata                               +.
+Fragaria vesca                                  11
+Fraxinus excelsior                              ++
+Galeobdolon montanum                            +.
+Geranium robertianum s.str.                     ++
+Hedera helix                                    21
+Hepatica nobilis                                22
+Lactuca muralis                                 ++
+Ligustrum vulgare                               21
+Lonicera xylosteum                              1+
+Melica nutans s.str.                            11
+Mercurialis perennis s.str.                     ++
+Orchis mascula ssp. speciosa                    r1
+Origanum vulgare ssp. vulgare                   +.
+Poa compressa                                   +.
+Polygala chamaebuxus                            +.
+Polygonatum multiflorum                         11
+Polygonatum odoratum                            r.
+Potentilla neumanniana                          r.
+Quercus robur                                   ++
+Rosa arvensis                                   11
+Rubus sect. Rubus                               1+
+Salvia glutinosa                                ++
+Sesleria caerulea s.str.                        +.
+Silene nutans ssp. nutans                       ++
+Solidago virgaurea ssp. virgaurea               ++
+Teucrium chamaedrys ssp. chamaedrys             r.
+Ulmus glabra                                    +.
+Viburnum lantana                                ++
+Vincetoxicum hirundinaria                       1+
+Viola alba s.lat.                               +.
+Viola collina                                   ++
+Viola riviniana                                 ++
+Ajuga reptans                                   .+
+Dactylis glomerata ssp. glomerata               .+
+Helleborus viridis                              .r
+Picea abies                                     .r
+Potentilla sterilis                             .+
+Prunus avium s.lat.                             .+
+Rhamnus cathartica                              .1
+Rosa pendulina                                  .+
+Sorbus aucuparia ssp. aucuparia                 .+
+Taraxacum sect. Ruderalia                       .r
+Viola hirta                                     .+
+END TABLE

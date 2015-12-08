@@ -1,0 +1,82 @@
+BEGIN HEAD
+plot                               pp
+                                   ss
+                                   00
+                                   12
+accuracy                           11
+                                   00
+                                     
+altitude                           66
+                                   67
+                                   84
+                                     
+bare                               00
+                                     
+cov                                87
+                                   00
+                                     
+debris                             00
+                                     
+hcov                               87
+                                   00
+                                     
+hhl1                               00
+                                     
+hhl2                               00
+                                     
+hsl                                00
+                                     
+htl                                00
+                                     
+mcov                               33
+                                     
+plsx                               34
+                                     
+plsy                               14
+                                     
+rock                               00
+                                     
+scov                               01
+                                     
+slope                              87
+                                   05
+                                     
+tcov                               00
+                                     
+richness                           12
+                                   54
+                                     
+END HEAD
+BEGIN TABLE
+Sesleria caerulea s.str.        hl 54
+Seseli austriacum                  +1
+Globularia cordifolia s.str.       1+
+Galium lucidum                     12
+Teucrium montanum                  ++
+Erica carnea                       1.
+Bupleurum falcatum                 +1
+Campanula cochleariifolia          ++
+Achillea clavennae                 +.
+Cyclamen purpurascens              +.
+Erysimum sylvestre s.str.          ++
+Asplenium trichomanes s.lat.       ++
+Asplenium ruta-muraria             +.
+Rhamnus cathartica                 +.
+Thesium alpinum                    +.
+Rosa canina s.str.                 .+
+Sedum album                        .+
+Jovibarba globifera ssp. hirta     .+
+Melica ciliata s.str.              .1
+Arabis ciliata                     .+
+Genista pilosa                     .+
+Pseudoturritis turrita             .+
+Geranium robertianum s.str.        .+
+Hieracium glaucum                  .+
+Thalictrum minus s.lat.            .+
+Scabiosa lucida ssp. lucida        .+
+Saxifraga paniculata               .+
+Amelanchier ovalis                 .+
+Polygala chamaebuxus               .+
+Euphorbia cyparissias              .+
+Rosa canina s.str.              sl .1
+END TABLE

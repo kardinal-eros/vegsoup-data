@@ -1,0 +1,3 @@
+391: Festuca picturata@hl +, Alchemilla vulgaris agg.@hl +, Leontodon hispidus@hl +, Poa alpina@hl +, Selaginella selaginoides@hl +, Thymus praecox@hl +, Ranunculus montanus@hl +, Carex atrata@hl +, Coeloglossum viride@hl +
+458: Avenella flexuosa@hl +
+449: Festuca pumila@hl +, Euphrasia salisburgensis@hl +

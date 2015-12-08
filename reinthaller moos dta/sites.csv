@@ -1,0 +1,27 @@
+plot;variable;value
+rm01;cov;97
+rm01;tcov;0
+rm01;scov;0
+rm01;hcov;95
+rm01;mcov;35
+rm01;rock;0
+rm01;bare;0
+rm01;debris;0
+rm01;htl;0
+rm01;hsl;0
+rm01;hhl1;0,45
+rm01;hhl2;0,3
+rm01;expo;S
+rm01;slope;35
+rm01;plsx;4
+rm01;plsy;4
+rm01;date;2012-08-16
+rm01;longitude;13.526112E
+rm01;latitude;47.915968N
+rm01;accuracy;5
+rm01;location;Attersee, reintahller Moos
+rm01;alliance;Caricion davallianae
+rm01;syntaxon;Junco obtusiflori-Schoenetum nigricantis Allorge 1921
+rm01;comment;Ausbildung mit Torfmoosen
+rm01;observer;R. Kaiser
+

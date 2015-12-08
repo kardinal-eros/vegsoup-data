@@ -1,0 +1,65 @@
+BEGIN HEAD
+plot                                           12345678
+richness                                       12121221
+                                               11213146
+                                                       
+END HEAD
+BEGIN TABLE
+Abies alba                                  hl 1...+r..
+Veronica officinalis                           +....+..
+Cyclamen purpurascens                          r..rr.+.
+Fagus sylvatica                                2...+...
+Festuca drymeia                                1...+2..
+Galium rotundifolium                           +....+..
+Hieracium murorum                              r..1r1r+
+Luzula luzuloides                              1..2+11r
+Mycelis muralis                                +....r..
+Quercus petraea ssp. petraea                   +1+r...r
+Serratula tinctoria                            .+......
+Silene vulgaris                                .+1...++
+Sorbus aria                                    .+.+..++
+Thlaspi goesingense                            .+++....
+Avenella flexuosa                              .2+.....
+Vincetoxicum hirundinaria                      .+......
+Calamagrostis arundinacea                      .2..1.11
+Campanula persicifolia                         .+...r..
+Campanula rotundifolia                         .+.+..+.
+Centaurea scabiosa                             .1......
+Dorycnium germanicum                           .2+2..+.
+Euphorbia cyparissias                          .r.+..+r
+Festuca guestfalica auct.                      .122.223
+Galium austriacum                              .+....++
+Genista pilosa                                 .+11.++.
+Jovibarba hirta ssp. hirta                     .+1+....
+Armeria elongata                               .1......
+Rumex acetosella s.lat.                        .r1.....
+Asplenium cuneifolium                          ..+.....
+Galium verum                                   ..r+....
+Pinus sylvestris                               ..+.+...
+Achillea millefolium agg.                      ...+.r+.
+Dianthus carthusianorum ssp. capillifrons      ...+..++
+Frangula alnus                                 ...+..++
+Anthericum ramosum                             ...+..++
+Polygala chamaebuxus                           ...+..22
+Polygonatum odoratum                           ...+..r.
+Asperula tinctoria                             ...r....
+Carex digitata                                 ....+1..
+Carex michelii                                 ....1...
+Carex montana                                  ....1...
+Hieracium racemosum                            ....rr..
+Sorbus aucuparia                               .....++r
+Stellaria holostea                             .....r..
+Tanacetum corymbosum                           .....+..
+Convallaria majalis                            .....+..
+Hypericum perforatum                           .....r..
+Senecio viscosus                               ......+.
+Solidago virgaurea                             ......++
+Genista tinctoria                              ......+.
+Fagus sylvatica                             sl 3...32..
+Pinus sylvestris                               24332144
+Quercus petraea ssp. petraea                   22333321
+Abies alba                                     ....1...
+Sorbus aria                                tl1 .1......
+Sorbus aucuparia                               .+......
+Fagus sylvatica                                ....+...
+END TABLE

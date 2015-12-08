@@ -1,0 +1,142 @@
+BEGIN HEAD
+plot                                              hhhhhhh
+                                                  sssssss
+                                                  0000000
+                                                  1234567
+accuracy                                          1112222
+                                                  0000000
+                                                         
+altitude                                          1111111
+                                                  1102111
+                                                  7491975
+                                                  0200000
+                                                         
+bare                                              1334111
+                                                         
+cov                                               6763655
+                                                  0000381
+                                                         
+hcov                                              5244555
+                                                  0555560
+                                                         
+mcov                                              454 1  
+                                                  0055033
+                                                         
+plsx                                              8888888
+                                                         
+plsy                                              8888888
+                                                         
+precision.vertical                                   1111
+                                                  5550000
+                                                         
+rock                                              4346345
+                                                  0002500
+                                                         
+scov                                               N 1111
+                                                  2A20000
+                                                         
+slope                                             8878888
+                                                  0000000
+                                                         
+stones                                            3114110
+                                                         
+htl1                                              NNN    
+                                                  AAA0008
+                                                         
+htl2                                              NNN    
+                                                  AAA0000
+                                                         
+tcov1                                             NNNNNN 
+                                                  AAAAAA5
+                                                         
+richness                                          1142323
+                                                  1842394
+                                                         
+END HEAD
+BEGIN TABLE
+Fraxinus excelsior                            tl1 ......2
+Rosa canina s.str.                             sl +......
+Rosa pseudoscabriuscula                           +..2...
+Cotoneaster integerrimus                          ..+....
+Rosa villosa s.str.                               ...1.1.
+Fraxinus excelsior                                ....+..
+Juniperus sabina                                  ....2..
+Rhamnus cathartica                                ....22.
+Rosa glauca                                       ....++.
+Sambucus racemosa                                 ....+..
+Juniperus communis ssp. communis                  ......+
+Aster alpinus                                  hl +2+.+.+
+Calamagrostis varia                               +.2+2.4
+Erysimum sylvestre s.str.                         ++1+++.
+Euphorbia cyparissias                             ++2++21
+Jovibarba globifera ssp. arenaria                 +111+..
+Juniperus sabina                                  4.+333.
+Sedum album                                       +++1++.
+Sempervivum arachnoideum                          +2121..
+Allium lusitanicum                                .11++.+
+Galium anisophyllon                               .++.+1.
+Gypsophila repens                                 .+...++
+Poa molinieri                                     .+++11.
+Rosa pseudoscabriuscula                           .++.1.+
+Saxifraga paniculata                              .11+++.
+Sedum dasyphyllum                                 .+.+...
+Sesleria caerulea s.str.                          .12..21
+Teucrium montanum                                 .++..++
+Thymus praecox ssp. polytrichus                   .11.+.+
+Vincetoxicum hirundinaria                         .+1.+12
+Achillea millefolium agg.                         ..+.++1
+Asplenium ruta-muraria                            ..+.+++
+Asplenium trichomanes ssp. quadrivalens           ..+....
+Botrychium lunaria                                ..+....
+Campanula rapunculoides ssp. rapunculoides        ..+....
+Carex ornithopoda ssp. elongata                   ..+....
+Clinopodium alpinum ssp. alpinum                  ..+....
+Cotoneaster integerrimus                          ..+....
+Dianthus carthusianorum ssp. latifolius           ..2++..
+Fragaria vesca                                    ..+..+.
+Galium album s.str.                               ..+....
+Helianthemum nummularium ssp. grandiflorum        ..+....
+Hieracium amplexicaule                            ..+....
+Hippocrepis comosa                                ..+..+.
+Hypericum perforatum                              ..+....
+Juniperus communis ssp. communis                  ..+...+
+Laserpitium latifolium ssp. latifolium            ..+..r2
+Lilium martagon                                   ..+....
+Lotus corniculatus s.str.                         ..+....
+Origanum vulgare ssp. vulgare                     ..+.121
+Poa nemoralis                                     ..+....
+Polygonatum odoratum                              ..+...1
+Polypodium vulgare s.str.                         ..++++.
+Rosa glauca                                       ..++...
+Rubus idaeus                                      ..+.1..
+Scabiosa lucida ssp. lucida                       ..+..11
+Silene nutans ssp. nutans                         ..+1+..
+Asplenium septentrionale ssp. septentrionale      ...r...
+Digitalis grandiflora                             ...r.++
+Echium vulgare ssp. vulgare                       ...+...
+Geranium robertianum s.str.                       ...r+..
+Rosa tomentosa                                    ...1..+
+Aconitum variegatum s.lat.                        ....+.+
+Carduus defloratus ssp. viridis                   ....+.+
+Galium mollugo s.str.                             ....1.1
+Verbascum chaixii ssp. austriacum                 ....+..
+Woodsia alpina                                    ....r..
+Campanula glomerata                               .....+.
+Carex ornithopoda ssp. ornithopoda                .....+.
+Clinopodium acinos                                .....++
+Clinopodium vulgare ssp. vulgare                  .....1+
+Fraxinus excelsior                                .....++
+Rosa villosa s.str.                               .....2.
+Valeriana officinalis ssp. tenuifolia             .....1.
+Acer pseudoplatanus                               ......+
+Daphne mezereum                                   ......1
+Helianthemum nummularium ssp. glabrum             ......1
+Lotus corniculatus s.lat.                         ......+
+Mercurialis perennis s.str.                       ......+
+Phyteuma orbiculare s.str.                        ......+
+Picea abies                                       ......+
+Pimpinella major s.lat.                           ......1
+Scabiosa columbaria s.str.                        ......+
+Leucodon sciuroides                            ml 2...2..
+undeterminded bryophytes                          .2.....
+END TABLE

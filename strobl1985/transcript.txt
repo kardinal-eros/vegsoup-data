@@ -1,0 +1,71 @@
+BEGIN HEAD
+plot                                  12
+accuracy                              22
+                                      00
+                                      00
+                                        
+cov                                   45
+                                      00
+                                        
+elevation                             77
+                                      67
+                                      00
+                                        
+hcov                                  45
+                                      00
+                                        
+hsl                                   02
+                                        
+htl1                                  00
+                                        
+htl2                                  00
+                                        
+mcov                                  00
+                                        
+plsx                                  12
+                                        
+plsy                                  23
+                                        
+scov                                  00
+                                        
+t1cov                                 00
+                                        
+t2cov                                 00
+                                        
+richness                              12
+                                      43
+                                        
+END HEAD
+BEGIN TABLE
+Berberis vulgaris                  sl .+
+Lonicera xylosteum                    .+
+Achnatherum calamagrostis          hl 22
+Carex ferruginea s.str.               1.
+Clematis vitalba                      +.
+Cyclamen purpurascens                 ++
+Eupatorium cannabinum                 1+
+Fragaria vesca                        +.
+Laserpitium siler ssp. siler          +.
+Phyteuma spicatum                     ++
+Polygala chamaebuxus                  +.
+Salvia glutinosa                      +2
+Sesleria caerulea s.str.              +.
+Sorbus aria s.str.                    +.
+Valeriana tripteris                   +.
+Vincetoxicum hirundinaria             ++
+Aposeris foetida                      .1
+Aquilegia atrata                      .+
+Atropa bella-donna                    .+
+Calamagrostis varia                   .1
+Campanula trachelium                  .+
+Carduus defloratus ssp. viridis       .+
+Carex alba                            .2
+Cirsium oleraceum                     .+
+Euphorbia cyparissias                 .+
+Lactuca muralis                       .+
+Melica nutans s.str.                  .+
+Mercurialis perennis s.str.           .+
+Solidago virgaurea ssp. virgaurea     .+
+Stachys sylvatica                     .+
+Urtica dioica ssp. dioica             .+
+END TABLE

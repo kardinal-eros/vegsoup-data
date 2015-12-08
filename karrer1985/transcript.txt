@@ -1,0 +1,59 @@
+BEGIN HEAD
+plot                                        1234
+cov                                           6 
+                                            5303
+                                                
+hcov                                          6 
+                                            5303
+                                                
+hhl2                                        0000
+                                                
+hsl                                         0000
+                                                
+htl                                         0000
+                                                
+mcov                                        0000
+                                                
+plsx                                        1111
+                                                
+plsy                                           1
+                                            5650
+                                                
+scov                                        0000
+                                                
+slope                                       7539
+                                            0000
+                                                
+tcov                                        0000
+                                                
+richness                                    1111
+                                            0140
+                                                
+END HEAD
+BEGIN TABLE
+Asplenium ruta-muraria                   hl +...
+Galium lucidum                              +1+1
+Teucrium montanum                           1++1
+Asplenium trichomanes ssp. quadrivalens     +...
+Sesleria caerulea s.str.                    r+31
+Seseli austriacum                           ++1r
+Erysimum sylvestre s.str.                   +..+
+Hieracium bupleuroides                      +..+
+Helianthemum canum                          +.+.
+Euphorbia cyparissias                       +...
+Globularia cordifolia s.str.                .++.
+Bupleurum falcatum                          .+++
+Melica ciliata s.str.                       .r+.
+Jovibarba globifera ssp. hirta              .+..
+Dorycnium germanicum                        .+..
+Rhamnus saxatilis ssp. saxatilis            .+..
+Potentilla incana                           .+..
+Achillea clavennae                          ..+.
+Campanula rotundifolia agg.                 ..+.
+Draba aizoides ssp. aizoides                ..1.
+Euphrasia salisburgensis s.str.             ..rr
+Clinopodium alpinum ssp. alpinum            ..r.
+Poa badensis                                ..r.
+Allium lusitanicum                          ...+
+Saxifraga paniculata                        ...+
+END TABLE

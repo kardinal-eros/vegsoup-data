@@ -1,0 +1,68 @@
+BEGIN HEAD
+plot                                 kkk
+                                     nnn
+                                     000
+                                     123
+accuracy                               1
+                                     952
+                                        
+cov                                   11
+                                     900
+                                     800
+                                        
+hcov                                 759
+                                     055
+                                        
+mcov                                 999
+                                     098
+                                        
+plsx                                 655
+                                        
+plsy                                 445
+                                        
+slope                                1 2
+                                     050
+                                        
+richness                             211
+                                     471
+                                        
+END HEAD
+BEGIN TABLE
+Calluna vulgaris                  hl +..
+Carex echinata                       ++.
+Carex nigra                          12.
+Carex pauciflora                     32.
+Carex pilulifera ssp. pilulifera     +..
+Drosera rotundifolia                 2..
+Eriophorum angustifolium             ++.
+Eriophorum vaginatum                 2..
+Homogyne alpina                      +.+
+Juncus filiformis                    ++.
+Lycopodiella inundata                2..
+Molinia caerulea agg.                +..
+Nardus stricta                       +3.
+Picea abies                          ++.
+Potentilla erecta                    +2.
+Vaccinium myrtillus                  ++.
+Vaccinium uliginosum s.str.          ++.
+Vaccinium vitis-idaea                1+3
+Melampyrum pratense                  .++
+Viola palustris                      .+.
+Avenella flexuosa                    ..2
+Blechnum spicant                     ..+
+Rhododendron ferrugineum             ..4
+Vaccinium gaultherioides             ..2
+Gymnocolea inflata var. inflata   ml 1..
+Polytrichum strictum                 1..
+Sphagnum cuspidatum                  5..
+Sphagnum magellanicum                21.
+Sphagnum tenellum                    2..
+Warnstorfia fluitans                 1..
+Polytrichum commune                  .2.
+Sphagnum angustifolium               .4.
+Sphagnum russowii                    .2.
+Plagiothecium undulatum              ..1
+Rhytidiadelphus loreus               ..1
+Sphagnum girgensohnii                ..4
+Sphagnum quinquefarium               ..2
+END TABLE

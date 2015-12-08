@@ -1,0 +1,8 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
+ba01;97;25;70;40;75;3;14;10;4;0,9;0,2;16;16;S;15;30;0;0;2015-10-24;47.717133;13.624663;10;Carpinion betuli;;Rendzina;;Bad Ischl, Jainzenberg;R. Kaiser
+ba02;97;50;70;7;97;1;20;13;4,5;0,7;0,2;16;16;S;20;3;0;0;2015-10-24;47.716788;13.624453;10;Carpinion betuli;;Rendzina, Braunlehm;;Bad Ischl, Jainzenberg;R. Kaiser
+ba03;95;30;40;30;95;1;18;10;4;0,8;0,25;16;16;S;40;7;0;0;2015-10-24;47.716690;13.625260;10;Carpinion betuli;;Rendzina, Braunlehm;;Bad Ischl, Jainzenberg;R. Kaiser
+ba04;97;15;40;15;95;3;17;11;4;0,7;0,3;16;16;S;35;5;0;0;2015-10-24;47.716810;13.625450;10;Carpinion betuli;;Rendzina, Braunlehm;;Bad Ischl, Jainzenberg;R. Kaiser
+ba05;70;0;40;55;65;1;0;10;4,5;1;0,15;26;10;S;50;40;0;0;2015-10-24;47.716850;13.625920;10;Tilenion platyphylli;;Rendzina;an Wand stufe des Felshanges;Bad Ischl, Jainzenberg;R. Kaiser
+ba06;99;75;30;10;75;3;15;9;4,5;0,7;0,2;16;16;S;10;20;0;0;2015-10-24;47.717236;13.626088;10;Carpinion betuli;;Rendzina;;Bad Ischl, Jainzenberg;R. Kaiser
+ba07;70;0;45;20;35;3;0;11;5,5;0,6;0,15;16;16;S;65;65;0;0;2015-10-24;47.717410;13.626500;10;Tilenion platyphylli;;Rendzina, Braunlehm;;Bad Ischl, Jainzenberg;R. Kaiser

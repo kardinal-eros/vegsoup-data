@@ -1,0 +1,196 @@
+BEGIN HEAD
+
+Releve number                                                        1
+                                 1   2   3   4   5   6   7   8   9   0
+
+END HEAD
+
+BEGIN TABLE
+kobr myos                        3   3   4   1   b   4   a   a   b   b
+camp tatr slat                   +   +   +   +   +   +   .   +   +   .
+allo madr                        1   +   +   +   +   .   a   .   +   1
+rhod rose a                      +   +   +   +   r   .   .   r   r   +
+oxyt hall slat                   +   .   b   b   .   .   a   1   +   +
+prim mini                        +   .   +   +   1   m   .   1   .   +
+pach mute                        r   1   1   +   +   +   .   .   .   +
+agro alpi                        .   .   .   .   b   1   b   a   1   1
+thym alpe                        .   .   +   1   +   1   +   1   .   .
+care fuli                        .   +   .   1   a   +   .   +   .   +
+poa alpi                         +   +   +   +   .   +   +   .   .   .
+oxyt carp                        .   +   +   +   .   +   .   .   .   +
+luzu spic cong                   .   .   +   +   +   +   .   .   .   .
+
+andr cham                        +   m   m   1   +   1   m   m   +   +
+cera erio                        .   +   a   a   1   1   +   1   +   +
+minu sedo                        1   +   1   a   +   +   +   1   .   .
+saxi pani                        +   .   1   b   .   +   b   b   b   1
+aren tene                        +   +   .   .   .   .   a   +   1   +
+ante carp                        .   .   1   +   .   +   .   r   .   +
+drab aizo zmud                   .   .   .   1   .   .   1   .   +   +
+
+care capi                        .   .   .   .   .   .   1   a   +   1
+saxi oppo slat                   m   +   .   1   .   +   .   .   .   .
+myos alpe                        .   +   +   +   .   .   .   .   .   .
+kobr simp                        +   1   .   .   .   .   .   .   .   .
+care atra                        .   +   .   .   .   .   .   .   .   .
+sedu atra slat                   .   .   .   .   .   .   +   .   .   .
+
+lloy sero                        1   1   m   m   1   1   1   m   .   +
+coma tene                        +   +   +   +   .   +   .   r   .   +
+pedi oede                        +   .   1   +   .   .   .   +   .   .
+minu gera                        +   .   +   1   .   +   .   .   .   .
+aste alpi                        .   .   .   .   .   .   1   b   1   1
+gent niva                        .   .   .   .   .   .   .   +   .   +
+drab flad                        .   .   .   +   .   .   .   +   .   .
+erig hung                        .   .   .   +   .   .   .   .   .   .
+saus alpi                        .   .   .   1   .   .   .   .   .   .
+astr alpi alpi                   .   .   .   .   .   a   .   .   .   .
+drya octo                        .   .   .   .   .   .   .   .   .   r
+
+pers vivi                        +   +   b   a   1   1   +   1   +   +
+sile acau slat                   b   a   a   3   b   b   a   .   a   1
+tham verm verm                   +   .   +   +   +   a   1   +   +   +
+heli alpe                        .   +   .   +   .   .   1   +   .   +
+vulp tubu                        +   .   +   +   +   .   .   .   .   +
+alec ochr                        +   .   .   .   +   1   .   .   .   .
+care firm                        +   +   .   .   .   .   .   .   .   .
+ranu alpe                        +   .   .   .   .   .   .   .   .   .
+saxi aizo                        +   .   .   .   .   .   .   .   .   .
+saus pygm                        .   .   .   .   r   .   .   .   .   .
+cham alpi                        .   .   .   .   .   .   .   .   .   +
+
+ranu brey                        +   b   +   1   +   +   1   1   1   +
+gali anis                        +   1   +   +   +   +   .   +   +   .
+tris alpe                        +   +   .   .   .   .   b   1   a   1
+bupl ranu                        .   +   .   1   .   .   1   1   .   1
+euph sali                        +   .   .   .   .   .   +   1   r   .
+astr aust alis                   .   .   .   .   .   .   1   1   1   .
+gent lute tatr                   .   .   .   .   .   .   .   r   r   +
+care semp tato                   1   .   .   +   .   .   .   .   .   .
+phyt orbi                        .   .   .   +   +   .   .   .   .   .
+teph inte capi                   .   .   r   +   .   .   .   .   .   .
+astr frig frig                   .   +   .   .   .   .   .   .   .   .
+sesl sadl tatr                   .   .   .   +   .   .   .   .   .   .
+sela sela                        .   .   .   .   .   .   .   .   .   r
+thmy pulc sude                   .   .   .   .   .   .   .   .   .   +
+
+fest vers pall                   b   a   b   a   1   a   a   b   a   a
+hedy hedy hedy                   +   +   .   +   .   1   .   .   .   .
+saxi mosc                        +   .   .   +   .   .   .   +   .   .
+bart alpi                        .   .   .   .   .   .   .   .   .   +
+scor pseu                        .   .   .   .   .   .   .   .   .   +
+
+fest supi                        .   1   1   .   +   1   .   .   .   .
+oreo dist                        .   .   +   .   .   1   .   .   .   .
+flav cucu                        .   .   +   .   .   .   .   +   .   .
+cetr isla isla                   .   .   .   +   .   +   .   .   .   .
+clad grac                        .   .   .   +   .   .   .   .   .   .
+junc trif                        .   .   .   +   .   .   .   .   .   .
+flav niva                        .   .   .   .   .   1   .   .   .   .
+aven vers                        .   .   .   .   .   +   .   .   .   .
+camp alpi                        .   .   .   .   .   +   .   .   .   .
+
+prim auri hung                   .   +   .   .   .   .   b   +   1   1
+arte eri                         .   .   +   +   +   .   .   .   1   .
+camp coch                        .   .   .   .   +   .   .   .   +   +
+leon alpi                        .   .   .   .   .   .   1   .   1   +
+andr lact                        +   .   .   .   .   .   .   .   r   .
+drab tome                        .   .   .   +   .   .   .   .   .   .
+
+tort tort                        1   +   +   +   .   +   +   +   +   .
+ditr flex                        b   +   1   +   .   .   .   .   .   +
+
+viol bifl                        .   +   .   .   1   .   .   .   .   .
+drab sili                        .   .   .   .   .   .   1   1   .   .
+drab dubi                        .   .   .   .   .   .   1   .   +   .
+saxi wahl                        +   .   .   .   .   .   .   .   .   .
+anth alpi                        .   .   .   +   .   .   .   .   .   .
+delp oxys                        .   .   .   +   .   .   .   .   .   .
+drab ×stu                        .   .   .   r   .   .   .   .   .   .
+poa laxa                         .   .   .   .   +   .   .   .   .   .
+poa carp                         .   .   .   .   .   +   .   .   .   .
+sali retu                        .   .   .   .   .   1   .   .   .   .
+saxi bryo                        .   .   .   .   .   1   .   .   .   .
+sali spec ies                    .   .   .   .   .   .   .   .   .   r
+
+clad pyxi                        1   +   +   1   1   1   1   +   +   .
+phys musc musci                  +   +   .   +   1   1   +   +   +   .
+myur jula                        .   .   +   .   +   +   +   +   .   .
+bili lobu                        +   .   .   .   .   .   +   +   +   +
+enca alpi                        +   .   .   .   .   .   +   +   1   +
+psor deci                        .   .   .   .   .   .   +   +   +   1
+ochr upsa                        +   +   +   .   .   .   .   +   .   .
+hypn proc                        +   +   .   1   .   .   .   .   .   +
+fulg brac brac                   +   .   .   .   .   .   .   +   +   +
+brac tomm                        1   .   .   .   .   .   1   .   +   +
+calo ammi                        +   .   .   .   1   +   +   .   .   .
+rhyt rugo                        1   1   .   +   .   .   .   .   .   .
+ento conc                        1   +   .   +   .   .   .   .   .   .
+hypn revo                        +   .   .   +   .   +   .   .   .   .
+mniu thom                        +   .   .   +   .   .   .   .   +   .
+dist incl                        +   .   .   .   .   +   +   .   .   .
+phae nimb                        +   .   .   .   .   .   +   .   +   .
+
+grim spec ies                    .   .   .   .   +   .   .   .   +   +
+squa gyps                        .   .   .   .   .   .   1   .   b   +
+enca cili                        .   .   +   +   +   .   .   .   .   .
+plag pore                        .   .   .   +   +   +   .   .   .   .
+cetr muri                        .   .   .   .   +   +   +   .   .   .
+camp stel                        +   +   .   .   .   .   .   .   .   .
+leca epib epib                   +   .   .   .   .   .   +   .   .   .
+solo spec ies                    +   .   .   .   .   .   .   .   +   .
+toni spec ies                    +   .   .   .   .   .   .   .   1   .
+clad cocc                        .   .   +   .   .   +   .   .   .   .
+calo spec ies                    .   .   .   +   .   .   .   +   .   .
+clad furc furc                   .   .   .   +   .   +   .   .   .   .
+anap bryo                        .   .   .   .   +   +   .   .   .   .
+hypo phys                        .   .   .   .   +   1   .   .   .   .
+poly alpi                        .   .   .   .   +   1   .   .   .   .
+pseu furf slat                   .   .   .   .   1   .   +   .   .   .
+grim funa                        .   .   .   .   +   .   .   1   .   .
+hypn cupr                        .   .   .   .   +   .   .   .   +   .
+anap spec ies                    .   .   .   .   .   .   a   +   .   .
+lept spec ies                    .   .   .   .   .   .   +   +   .   .
+mega verr                        .   .   .   .   .   .   +   .   .   +
+schi apoc                        .   .   .   .   .   .   .   +   .   +
+steg lati slat                   .   .   .   .   .   .   1   1   .   .
+cten moll slat                   +   .   .   .   .   .   .   .   .   .
+didy giga                        +   .   .   .   .   .   .   .   .   .
+hypo spec ies                    +   .   .   .   .   .   .   .   .   .
+romu luri                        +   .   .   .   .   .   .   .   .   .
+enca stre                        +   .   .   .   .   .   .   .   .   .
+raco cane slat                   +   .   .   .   .   .   .   .   .   .
+thel mela                        +   .   .   .   .   .   .   .   .   .
+hypn spec ies                    .   +   .   .   .   .   .   .   .   .
+leci demi                        .   .   +   .   .   .   .   .   .   .
+calo stil                        .   .   .   +   .   .   .   .   .   .
+pelt rufe                        .   .   .   +   .   .   .   .   .   .
+prot terr                        .   .   .   +   .   .   .   .   .   .
+pert glom                        .   .   .   .   +   .   .   .   .   .
+bryo bico                        .   .   .   .   .   1   .   .   .   .
+poly pili                        .   .   .   .   .   1   .   .   .   .
+bryo spec ies                    .   .   .   .   .   +   .   .   .   .
+clad bell                        .   .   .   .   .   +   .   .   .   .
+parm omph slat                   .   .   .   .   .   +   .   .   .   .
+spha frag                        .   .   .   .   .   +   .   .   .   .
+toni opun                        .   .   .   .   .   .   1   .   .   .
+calo xant                        .   .   .   .   .   .   +   .   .   .
+derm mini slat                   .   .   .   .   .   .   +   .   .   .
+dipl gyps                        .   .   .   .   .   .   +   .   .   .
+enca rhat                        .   .   .   .   .   .   +   .   .   .
+mars spec ies                    .   .   .   .   .   .   +   .   .   .
+schi atro                        .   .   .   .   .   .   +   .   .   .
+umbi cyli slat                   .   .   .   .   .   .   +   .   .   .
+xant sore                        .   .   .   .   .   .   +   .   .   .
+
+anoe spec ies                    .   .   .   .   .   .   .   +   .   .
+phys caes slat                   .   .   .   .   .   .   .   +   .   .
+plag demi                        .   .   .   .   .   .   .   +   .   .
+pseu cate                        .   .   .   .   .   .   .   +   .   .
+myur tene                        .   .   .   .   .   .   .   +   .   .
+coll spec ies                    .   .   .   .   .   .   .   .   +   .
+derm spec ies                    .   .   .   .   .   .   .   .   +   .
+clad poci                        .   .   .   .   .   .   .   .   .   1
+toni sedi                        .   .   .   .   .   .   .   .   .   +
+xant eleg eleg                   .   .   .   .   .   .   .   .   .   +
+END TABLE

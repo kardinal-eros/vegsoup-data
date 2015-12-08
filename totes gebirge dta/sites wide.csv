@@ -1,0 +1,16 @@
+plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;soil;date;altitude;accuracy;longitude;latitude;comment;location;description;alliance;observer
+tg01;96;0;0;0;92;5;0;0;0;0,15;0,05;4;4;N;5;3;0;1;Rendzina;2011-09-13;2010;5;13.839530E;47.719910N;;Totesgebirge, Rinnerkogl;bodensaurer Polsterseggenrasen;Caricion firmae;R. Kaiser
+tg02;94;0;0;0;91;4;0;0;0;0,07;0,01;4;4;NE;20;0;3;1;Pechrendzina;2012-08-18;2027;7;14.265364E;47.661335N;mit Deflationsanrissen;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg03;99;0;0;0;93;10;0;0;0;0,15;0,02;4;4;NE;10;0;1;1;;2012-08-18;2037;7;14.265213E;47.661111N;;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg04;55;0;0;0;54;1;0;0;0;0,06;0,03;4;4;NE;25;0;1;44;;2012-08-18;2041;5;14.264965E;47.661036N;;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg05;90;0;0;0;89;1;0;0;0;0,2;0,02;4;4;NE;25;0;2;8;;2012-08-18;2040;9;14.264851E;47.661136N;;Warscheneck, Speikwiese;;Caricion firmae;R. Kaiser
+tg06;98;0;0;0;96;15;0;0;0;0,15;0,02;4;4;NE;15;1;1;0;;2012-08-18;2039;11;14.264728E;47.660821N;;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg07;83;0;0;0;82;2;0;0;0;0,15;0,02;4;4;NW;25;1;1;15;;2012-08-19;2023;12;14.266587E;47.661739N;;Warscheneck, Speikwiese;;Caricion firmae;R. Kaiser
+tg08;93;0;0;0;87;10;0;0;0;0,17;0,02;4;4;NW;15;0;3;4;Pechrendzina;2012-08-19;2009;14;14.265644E;47.661466N;knapp oberhalb von Latschen;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg09;60;0;0;0;58;2;0;0;0;0,07;0,02;4;4;NW;20;0;0;40;;2012-08-19;2011;12;14.265871E;47.661482N;;Warscheneck, Speikwiese;;Caricion firmae;R. Kaiser
+tg10;97;0;0;0;95;4;0;0;0;0,12;0,02;4;4;NW;20;0;13;0;;2012-08-19;2025;12;14.266251E;47.661359N;;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg11;;0;0;0;;;0;0;0;;;4;4;;;;;;;2012-08-19;2029;6;14.266533E;47.661292N;;Warscheneck, Speikwiese;Kalk-Gämsheidespalier;Caricion firmae;R. Kaiser
+tg12;50;0;0;0;50;0;0;0;0;0,15;0,03;4;4;NW;35;0;0;50;;2012-08-19;2089;8;14.257477E;47.658339N;Streifen-Firmetum, Girlanden ca. 0,5m aufgewölbt;Warscheneck, Toter Mann;Schuttgirlanden-Polsterseggenrasen;Caricion firmae;R. Kaiser
+tg13;96;0;0;0;95;1;0;0;0;0,17;0,03;4;4;N;15;1;0;3;;2012-08-19;2116;3;14.257637E;47.657838N;;Warscheneck, Toter Mann;bodensaurer Polsterseggenrasen;Caricion firmae;R. Kaiser
+tg14;95;0;0;0;93;5;0;0;0;;;4;4;F;0;1;2;2;;2012-08-19;2273;7;14.245914E;47.657253N;;Warscheneck, Gipfelaufbau;;Caricion firmae;R. Kaiser
+tg15;55;0;0;0;54;1;0;0;0;0,07;0,02;4;4;N;5;1;0;45;;2012-08-19;2240;200;14.243535E;47.657793N;Frostschutt-Firmetum;Warscheneck, Gipfelaufbau;Frostschutt-Polsterseggenrasen über schluffreichem Boden;Caricion firmae;R. Kaiser

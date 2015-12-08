@@ -1,0 +1,35 @@
+BEGIN HEAD
+Aufnahmenummer                  050  053  045  043  028  030  054  038
+Flaeche (m2)                      3    5   10    4    7    4   10   10
+Exposition                        E  NNE    E    S  NNE    S    N    N
+Inklination (o)                   5   10   15   10   10   30   15   15
+Quellwasser: pH-Wert             60   55   60   60   60   70   60   60
+Haerte (dH)                       3    1    1    2    5    6    4    3
+Phanerogamen: Deckung (%)        10    5   40   20    5   20    .   10
+Phanerogamen: Artenzahl           7    5    5    7    7    9    .    2
+Moos: Deckung (%)                40   20   30   20   10   10   10   40
+Moos: Artenzahl                   7    8    8    9    9    4    7    6
+END HEAD
+
+BEGIN TABLE
+Saxifraga stellaris         @hl   +    +    3    3    +    .    .    .
+Deschampsia cespitosa       @hl   +    2    1    +    1    .    .    1
+Viola biflora               @hl   .    +    .    +    +    .    .    .
+Epilobium alsinifolium      @hl   .    .    +    +    .    .    .    4
+Poa alpina                  @hl   .    .    +    +    +    +    .    .
+Philonotis seriata          @ml   2    1    2    2    +    .    .    .
+Brachythecium rivulare      @ml   .    .    .    1    1    2    3    2
+Racomitrium aciculare       @ml   .    +    .    +    .    +    .    .
+
+Scapania undulata           @ml   1    2    .    +    .    .    .    .
+Kiaira starkei              @ml   .    +    .    .    .    .    +    .
+Bryum pallens agg.          @ml   .    .    1    +    .    .    .    .
+Plagiothecium ruthei        @ml   .    1    +    .    .    .    .    .
+Jungermannia obovata        @ml   .    .    +    +    .    .    .    .
+Jungermannia sp.            @ml   .    +    R    .    .    .    +    R
+Pellia epiphylla            @ml   .    .    .    .    .    .    .    .
+Bryum pseudotriquetrum      @ml   .    .    .    +    .    1    .    .
+
+Carex nigra                 @hl   +    .    +    .    .    .    .    .
+Cardamine amara             @hl   2    .    .    .    1    .    .    .
+END TABLE

@@ -1,0 +1,33 @@
+"plot";"table.order";"association";"variant";"pls";"expo";"slope";"cov";"tcov";"scov";"hcov";"htl";"hsl";"morpholgy";"treediameter";"date";"elevation";"locality";"longitude";"latitude";"accuracy"
+100;90;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";40;"W";15;90;;60;80;;4;"MH ";;"2007-08-09";740;"370m ONO Hofstetter";"13.107222";"47.787500";50
+97;91;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";80;"S";30;90;40;80;40;12;5;"MH ";40;"2007-08-07";690;"Oberhalb der Abzweigung von Vorderfager nach Oberwinkel; 390m NW Gasthof Schwaitlalm";"13.118056";"47.778611";50
+98;92;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";80;"S";30;90;20;60;80;14;5;"MH ";40;"2007-08-07";690;"Oberhalb der Abzweigung von Vorderfager nach Oberwinkel; 390m NW Gasthof Schwaitlalm";"13.118056";"47.778611";50
+108;93;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";74;"W";15;80;50;30;60;14;5;"MH ";30;"2007-08-15";870;"200m S der Ortschaft Langenberg";"13.165000";"47.720556";50
+109;94;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";37;"W";15;90;10;80;70;6;2;"MH ";20;"2007-08-15";920;"290m OSO der Ortschaft Langenberg";"13.168611";"47.721667";50
+110;95;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";60;"W";15;80;60;60;60;12;5;"MH ";70;"2007-08-15";890;"220m SO der Ortschaft Langenberg";"13.166111";"47.720278";50
+90;96;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";80;"W";10;70;20;40;40;12;4;"MH ";40;"2007-08-02";950;"80m S der Zufahrtsstraße nach Egg";"13.181944";"47.680278";50
+91;97;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";120;"W";10;80;50;60;40;12;4;"MH ";40;"2007-08-02";950;"80m S der Zufahrtsstraße nach Egg";"13.182222";"47.680278";50
+93;98;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";40;"NW";10;80;20;50;5;;5;"MH ";;"2007-08-05";650;"360m NW der Ortschaft Höhenwald";"13.111944";"47.765833";50
+94;99;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";140;"NW";20;70;;70;40;;1,5;"MH ";;"2007-08-05";670;"300m NNO der Ortschaft Höhenwald";"13.117222";"47.767500";50
+95;100;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";80;"NW";10;90;5;70;60;14;3;"MH ";80;"2007-08-06";650;"400m SW der Kapelle in Mittenholz";"13.141944";"47.776111";50
+96;101;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Vaccinium myrtillus & Fragaria moschata";40;"NW";20;80;30;60;60;14;2;"MH ";30;"2007-08-06";640;"460m SW der Kapelle in Mittenholz";"13.141667";"47.776944";50
+99;102;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";140;"O";10;80;10;70;40;12;5;"MH ";60;"2007-08-07";780;"Oberwinkel 430m NW Ramsengut";"13.126389";"47.791389";50
+119;103;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";120;"NO";15;85;30;60;60;12;5;"MH ";20;"2007-08-25";600;"410m SW vom Stürckengut";"13.123889";"47.725556";50
+120;104;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";80;"SO";2;95;20;85;40;8;5;"EB ";25;"2007-08-25";540;"540m SSO vom Stürckengut, neben Steindlbach";"13.130278";"47.723333";50
+101;105;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";60;"NW";15;80;;70;70;;5;"MH ";;"2007-08-13";670;"180m NO Steinwänder Gehöfte";"13.101389";"47.793611";50
+105;106;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";57;"W";15;80;;70;50;;4;"MH ";;"2007-08-14";655;"160m SO der Ortschaft Wimm";"13.153889";"47.716944";50
+106;107;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";37;"W";15;90;30;80;60;8;4;"MH ";25;"2007-08-14";660;"290m SO der Ortschaft Wimm";"13.154722";"47.716389";50
+107;108;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";80;"W";10;80;70;50;40;12;5;"MH ";40;"2007-08-14";650;"290m SSO der Ortschaft Wimm";"13.153333";"47.715278";50
+111;109;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";34;"W";10;80;50;60;50;10;5;"MH ";20;"2007-08-15";820;"180m SW der Ortschaft Langenberg";"13.162500";"47.721944";50
+112;110;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";80;"W";5;85;50;70;40;8;4;"MH ";15;"2007-08-15";820;"160m W der Ortschaft Langenberg";"13.162222";"47.722500";50
+113;111;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";40;"W";20;70;60;40;60;12;5;"MH ";30;"2007-08-16";690;"180m SW Hofgut";"13.150000";"47.726389";50
+114;112;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";38;"W";5;90;40;85;50;10;5;"MH ";35;"2007-08-16";640;"380m WSW Hofgut";"13.149444";"47.725556";50
+115;113;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";68;"W";25;90;30;80;50;10;5;"MH ";30;"2007-08-16";630;"420m WSW Hofgut";"13.149722";"47.726389";50
+118;114;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";40;;;90;40;40;80;12;5;"EB ";30;"2007-08-18";570;"230m S der Ortschaft Oberthurnberg";"13.101944";"47.732500";50
+116;115;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";40;"W";15;85;30;70;50;10;5;"MH ";25;"2007-08-16";590;"530m WSW Hofgut";"13.147778";"47.726389";50
+117;116;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";160;"SW";15;70;40;60;40;7;5;"MH ";15;"2007-08-18";530;"300m W der Ortschaft Oberthurnberg";"13.098889";"47.735278";50
+92;117;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";200;"NW";10;95;20;80;40;8;5;"MH ";35;"2007-08-05";650;"360m NW der Ortschaft Höhenwald";"13.111944";"47.765833";50
+121;118;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";120;"O";5;90;10;80;50;9;5;"MH ";40;"2007-08-25";600;"800m W Stürkengut";"13.140278";"47.727222";50
+102;119;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";40;"W";10;90;40;80;80;8;5;"MH ";30;"2007-08-13";680;"160m NO Steinwänder Gehöfte";"13.101944";"47.793889";50
+103;120;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";38;"S";20;95;;80;70;;5;"MH ";;"2007-08-13";850;"Oberwinkel 130m NW Hinterfeld";"13.126667";"47.797500";50
+104;121;"Ligustro-Prunetum R. Tx. 1952  ";"Ausb. mit Ligustrum vulgare";40;"S";20;90;;80;70;;5;"MH ";;"2007-08-13";860;"Oberwinkel 180m NW Hinterfeld";"13.126389";"47.798056";50

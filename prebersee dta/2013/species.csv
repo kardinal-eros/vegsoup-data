@@ -1,0 +1,450 @@
+"plot";"abbr";"layer";"cov"
+"f10";"andr poli";"hl";1
+"f10";"anth odor";"hl";1
+"f10";"card prat aggr";"hl";1
+"f10";"care dava";"hl";1
+"f10";"care echi";"hl";1
+"f10";"care nigr";"hl";1
+"f10";"care rost";"hl";1
+"f10";"cirs palu";"hl";1
+"f10";"dact lapp";"hl";1
+"f10";"dact macu slat";"hl";1
+"f10";"dact maja slat";"hl";1
+"f10";"desc cesp";"hl";1
+"f10";"equi sylv";"hl";1
+"f10";"erio angu";"hl";1
+"f10";"homo alpi";"hl";1
+"f10";"luzu sude";"hl";1
+"f10";"nard stri";"hl";1
+"f10";"pers bist";"hl";1
+"f10";"pote erec";"hl";1
+"f10";"ranu mont";"hl";1
+"f10";"swer pere";"hl";1
+"f10";"vacc myrt";"hl";1
+"f10";"vacc viti";"hl";1
+"f10";"will stip stip";"hl";1
+"f10";"spha spec ies";"ml";1
+"f10";"unde bryo";"ml";1
+"f10";"pice abie";"sl";1
+"f11";"andr poli";"hl";1
+"f11";"care dioi";"hl";1
+"f11";"care nigr";"hl";1
+"f11";"care rost";"hl";1
+"f11";"equi sylv";"hl";1
+"f11";"erio angu";"hl";1
+"f11";"erio vagi";"hl";1
+"f11";"homo alpi";"hl";1
+"f11";"juni comm comm";"hl";1
+"f11";"lari deci deci";"hl";1
+"f11";"luzu pilo";"hl";1
+"f11";"luzu sude";"hl";1
+"f11";"mela sylv";"hl";1
+"f11";"moli caer aggr";"hl";1
+"f11";"nard stri";"hl";1
+"f11";"parn palu";"hl";1
+"f11";"pers bist";"hl";1
+"f11";"pice abie";"hl";1
+"f11";"pote erec";"hl";1
+"f11";"ranu mont";"hl";1
+"f11";"vacc myrt";"hl";1
+"f11";"vacc ulig";"hl";1
+"f11";"vacc viti";"hl";1
+"f11";"vale dioi dioi";"hl";1
+"f11";"spha spec ies";"ml";1
+"f11";"unde bryo";"ml";1
+"f11";"lari deci deci";"sl";1
+"m01";"andr poli";"hl";1
+"m01";"anth odor";"hl";1
+"m01";"call vulg";"hl";1
+"m01";"card prat aggr";"hl";1
+"m01";"care nigr";"hl";1
+"m01";"cirs palu";"hl";1
+"m01";"equi sylv";"hl";1
+"m01";"erio angu";"hl";1
+"m01";"homo alpi";"hl";1
+"m01";"luzu sude";"hl";1
+"m01";"moli caer aggr";"hl";1
+"m01";"nard stri";"hl";1
+"m01";"parn palu";"hl";1
+"m01";"pice abie";"hl";1
+"m01";"pote erec";"hl";1
+"m01";"sela sela";"hl";1
+"m01";"tric cesp cesp";"hl";1
+"m01";"trif prat prat";"hl";1
+"m01";"vacc micr";"hl";1
+"m01";"viol palu";"hl";1
+"m01";"will stip stip";"hl";1
+"m01";"spha spec ies";"ml";1
+"m01";"unde bryo";"ml";1
+"m01";"pice abie";"sl";1
+"m02";"andr poli";"hl";1
+"m02";"anth odor";"hl";1
+"m02";"call vulg";"hl";1
+"m02";"care echi";"hl";1
+"m02";"care nigr";"hl";1
+"m02";"care rost";"hl";1
+"m02";"cirs palu";"hl";1
+"m02";"dros rotu";"hl";1
+"m02";"erio angu";"hl";1
+"m02";"pers bist";"hl";1
+"m02";"pote erec";"hl";1
+"m02";"tric cesp cesp";"hl";1
+"m02";"vacc micr";"hl";1
+"m02";"viol palu";"hl";1
+"m02";"will stip stip";"hl";1
+"m02";"spha spec ies";"ml";1
+"m02";"unde bryo";"ml";1
+"m03";"andr poli";"hl";1
+"m03";"anth odor";"hl";1
+"m03";"card prat aggr";"hl";1
+"m03";"care echi";"hl";1
+"m03";"care nigr";"hl";1
+"m03";"care rost";"hl";1
+"m03";"cirs palu";"hl";1
+"m03";"dact lapp";"hl";1
+"m03";"dros rotu";"hl";1
+"m03";"equi sylv";"hl";1
+"m03";"erio angu";"hl";1
+"m03";"erio lati";"hl";1
+"m03";"luzu sude";"hl";1
+"m03";"nard stri";"hl";1
+"m03";"pers bist";"hl";1
+"m03";"pote erec";"hl";1
+"m03";"swer pere";"hl";1
+"m03";"vacc micr";"hl";1
+"m03";"will stip stip";"hl";1
+"m03";"spha spec ies";"ml";1
+"m03";"unde bryo";"ml";1
+"m04";"andr poli";"hl";1
+"m04";"anth odor";"hl";1
+"m04";"call vulg";"hl";1
+"m04";"care dioi";"hl";1
+"m04";"care nigr";"hl";1
+"m04";"care rost";"hl";1
+"m04";"cirs palu";"hl";1
+"m04";"equi palu";"hl";1
+"m04";"equi sylv";"hl";1
+"m04";"erio angu";"hl";1
+"m04";"luzu sude";"hl";1
+"m04";"moli caer aggr";"hl";1
+"m04";"nard stri";"hl";1
+"m04";"pote erec";"hl";1
+"m04";"tric cesp cesp";"hl";1
+"m04";"vacc micr";"hl";1
+"m04";"spha spec ies";"ml";1
+"m05";"andr poli";"hl";1
+"m05";"anth odor";"hl";1
+"m05";"bart alpi";"hl";1
+"m05";"call vulg";"hl";1
+"m05";"care dioi";"hl";1
+"m05";"care nigr";"hl";1
+"m05";"care rost";"hl";1
+"m05";"cirs palu";"hl";1
+"m05";"dros rotu";"hl";1
+"m05";"equi sylv";"hl";1
+"m05";"erio angu";"hl";1
+"m05";"erio lati";"hl";1
+"m05";"homo alpi";"hl";1
+"m05";"moli caer aggr";"hl";1
+"m05";"parn palu";"hl";1
+"m05";"pote erec";"hl";1
+"m05";"tric cesp cesp";"hl";1
+"m05";"vacc micr";"hl";1
+"m05";"spha spec ies";"ml";1
+"m05";"unde bryo";"ml";1
+"m06";"andr poli";"hl";1
+"m06";"call vulg";"hl";1
+"m06";"care rost";"hl";1
+"m06";"dros rotu";"hl";1
+"m06";"erio angu";"hl";1
+"m06";"moli caer aggr";"hl";1
+"m06";"parn palu";"hl";1
+"m06";"pice abie";"hl";1
+"m06";"ping alpi";"hl";1
+"m06";"pote erec";"hl";1
+"m06";"sela sela";"hl";1
+"m06";"tofi caly";"hl";1
+"m06";"tric cesp cesp";"hl";1
+"m06";"spha spec ies";"ml";1
+"m06";"unde bryo";"ml";1
+"m07";"andr poli";"hl";1
+"m07";"care nigr";"hl";1
+"m07";"care rost";"hl";1
+"m07";"cirs palu";"hl";1
+"m07";"equi sylv";"hl";1
+"m07";"erio angu";"hl";1
+"m07";"homo alpi";"hl";1
+"m07";"juni comm comm";"hl";1
+"m07";"moli caer aggr";"hl";1
+"m07";"pote erec";"hl";1
+"m07";"tric cesp cesp";"hl";1
+"m07";"vacc micr";"hl";1
+"m07";"vale dioi dioi";"hl";1
+"m07";"spha spec ies";"ml";1
+"m08";"andr poli";"hl";1
+"m08";"anth odor";"hl";1
+"m08";"bart alpi";"hl";1
+"m08";"care nigr";"hl";1
+"m08";"care rost";"hl";1
+"m08";"cirs palu";"hl";1
+"m08";"equi sylv";"hl";1
+"m08";"erio angu";"hl";1
+"m08";"erio lati";"hl";1
+"m08";"erio vagi";"hl";1
+"m08";"luzu sude";"hl";1
+"m08";"meny trif";"hl";1
+"m08";"moli caer aggr";"hl";1
+"m08";"pers bist";"hl";1
+"m08";"pote erec";"hl";1
+"m08";"tric cesp cesp";"hl";1
+"m08";"vacc micr";"hl";1
+"m09";"andr poli";"hl";1
+"m09";"bart alpi";"hl";1
+"m09";"call vulg";"hl";1
+"m09";"care rost";"hl";1
+"m09";"cirs palu";"hl";1
+"m09";"dros rotu";"hl";1
+"m09";"equi sylv";"hl";1
+"m09";"erio angu";"hl";1
+"m09";"erio lati";"hl";1
+"m09";"juni comm comm";"hl";1
+"m09";"sela sela";"hl";1
+"m09";"meny trif";"hl";1
+"m09";"moli caer aggr";"hl";1
+"m09";"parn palu";"hl";1
+"m09";"ping alpi";"hl";1
+"m09";"pote erec";"hl";1
+"m09";"tofi caly";"hl";1
+"m09";"tric cesp cesp";"hl";1
+"m09";"unde bryo";"ml";1
+"m09";"vale dioi dioi";"hl";1
+"m09";"spha spec ies";"ml";1
+"m10";"andr poli";"hl";1
+"m10";"call vulg";"hl";1
+"m10";"care nigr";"hl";1
+"m10";"care rost";"hl";1
+"m10";"equi sylv";"hl";1
+"m10";"juni comm comm";"hl";1
+"m10";"moli caer aggr";"hl";1
+"m10";"pers bist";"hl";1
+"m10";"pote erec";"hl";1
+"m10";"rhod ferr";"hl";1
+"m10";"tric cesp cesp";"hl";1
+"m10";"vacc myrt";"hl";1
+"m10";"vacc micr";"hl";1
+"m10";"vacc ulig";"hl";1
+"m10";"vacc viti";"hl";1
+"m10";"spha spec ies";"ml";1
+"m10";"pice abie";"sl";1
+"m10";"pinu cemb";"sl";1
+"m11";"andr poli";"hl";1
+"m11";"dros rotu";"hl";1
+"m11";"erio angu";"hl";1
+"m11";"erio vagi";"hl";1
+"m11";"sela sela";"hl";1
+"m11";"moli caer aggr";"hl";1
+"m11";"parn palu";"hl";1
+"m11";"pice abie";"hl";1
+"m11";"pote erec";"hl";1
+"m11";"tofi caly";"hl";1
+"m11";"tric cesp cesp";"hl";1
+"m12";"andr poli";"hl";1
+"m12";"bart alpi";"hl";1
+"m12";"call vulg";"hl";1
+"m12";"care dioi";"hl";1
+"m12";"care nigr";"hl";1
+"m12";"care rost";"hl";1
+"m12";"dros rotu";"hl";1
+"m12";"erio angu";"hl";1
+"m12";"erio lati";"hl";1
+"m12";"moli caer aggr";"hl";1
+"m12";"parn palu";"hl";1
+"m12";"ping alpi";"hl";1
+"m12";"pote erec";"hl";1
+"m12";"tofi caly";"hl";1
+"m12";"tric cesp cesp";"hl";1
+"m13";"andr poli";"hl";1
+"m13";"call vulg";"hl";1
+"m13";"care rost";"hl";1
+"m13";"cirs palu";"hl";1
+"m13";"dros rotu";"hl";1
+"m13";"equi sylv";"hl";1
+"m13";"erio angu";"hl";1
+"m13";"erio lati";"hl";1
+"m13";"moli caer aggr";"hl";1
+"m13";"parn palu";"hl";1
+"m13";"pice abie";"hl";1
+"m13";"ping alpi";"hl";1
+"m13";"pote erec";"hl";1
+"m13";"tofi caly";"hl";1
+"m13";"tric cesp cesp";"hl";1
+"m13";"utri mino";"hl";1
+"m14";"andr poli";"hl";1
+"m14";"call vulg";"hl";1
+"m14";"care rost";"hl";1
+"m14";"dros rotu";"hl";1
+"m14";"erio angu";"hl";1
+"m14";"erio lati";"hl";1
+"m14";"sela sela";"hl";1
+"m14";"meny trif";"hl";1
+"m14";"moli caer aggr";"hl";1
+"m14";"parn palu";"hl";1
+"m14";"pice abie";"hl";1
+"m14";"ping alpi";"hl";1
+"m14";"pinu cemb";"hl";1
+"m14";"pote erec";"hl";1
+"m14";"tofi caly";"hl";1
+"m14";"tric cesp cesp";"hl";1
+"m14";"spha spec ies";"ml";1
+"m14";"unde bryo";"ml";1
+"m15";"andr poli";"hl";1
+"m15";"bart alpi";"hl";1
+"m15";"care dioi";"hl";1
+"m15";"care nigr";"hl";1
+"m15";"care rost";"hl";1
+"m15";"dros rotu";"hl";1
+"m15";"erio angu";"hl";1
+"m15";"erio lati";"hl";1
+"m15";"erio vagi";"hl";1
+"m15";"moli caer aggr";"hl";1
+"m15";"parn palu";"hl";1
+"m15";"pice abie";"hl";1
+"m15";"ping alpi";"hl";1
+"m15";"pote erec";"hl";1
+"m15";"tofi caly";"hl";1
+"m15";"tric cesp cesp";"hl";1
+"m15";"viol palu";"hl";1
+"m15";"will stip stip";"hl";1
+"m15";"spha spec ies";"ml";1
+"m15";"unde bryo";"ml";1
+"m15";"unde lich";"ml";1
+"m16";"andr poli";"hl";1
+"m16";"call vulg";"hl";1
+"m16";"care flav aggr";"hl";1
+"m16";"cirs palu";"hl";1
+"m16";"dros rotu";"hl";1
+"m16";"erio angu";"hl";1
+"m16";"lari deci deci";"hl";1
+"m16";"moli caer aggr";"hl";1
+"m16";"pice abie";"hl";1
+"m16";"pote erec";"hl";1
+"m16";"tric alpi";"hl";1
+"m16";"tric cesp cesp";"hl";1
+"m16";"will stip stip";"hl";1
+"m16";"spha spec ies";"ml";1
+"m16";"unde bryo";"ml";1
+"m17";"andr poli";"hl";1
+"m17";"care dioi";"hl";1
+"m17";"care nigr";"hl";1
+"m17";"care rost";"hl";1
+"m17";"cirs palu";"hl";1
+"m17";"erio angu";"hl";1
+"m17";"meny trif";"hl";1
+"m17";"moli caer aggr";"hl";1
+"m17";"pote erec";"hl";1
+"m17";"spha spec ies";"ml";1
+"m17";"tric cesp cesp";"hl";1
+"m17";"vacc micr";"hl";1
+"m18";"carl vulg slat";"hl";1
+"m18";"cirs palu";"hl";1
+"m18";"erio angu";"hl";1
+"m18";"erio lati";"hl";1
+"m18";"moli caer aggr";"hl";1
+"m18";"parn palu";"hl";1
+"m18";"pice abie";"hl";1
+"m18";"pote erec";"hl";1
+"m18";"tofi caly";"hl";1
+"m18";"tric alpi";"hl";1
+"m18";"tric cesp cesp";"hl";1
+"m19";"andr poli";"hl";1
+"m19";"call vulg";"hl";1
+"m19";"care dioi";"hl";1
+"m19";"care nigr";"hl";1
+"m19";"care rost";"hl";1
+"m19";"dros rotu";"hl";1
+"m19";"erio angu";"hl";1
+"m19";"meny trif";"hl";1
+"m19";"moli caer aggr";"hl";1
+"m19";"parn palu";"hl";1
+"m19";"ping alpi";"hl";1
+"m19";"pote erec";"hl";1
+"m19";"tric cesp cesp";"hl";1
+"m19";"vacc ulig";"hl";1
+"m19";"vale dioi dioi";"hl";1
+"m19";"spha spec ies";"ml";1
+"m19";"unde bryo";"ml";1
+"m20";"andr poli";"hl";1
+"m20";"call vulg";"hl";1
+"m20";"erio angu";"hl";1
+"m20";"moli caer aggr";"hl";1
+"m20";"parn palu";"hl";1
+"m20";"pice abie";"hl";1
+"m20";"pote erec";"hl";1
+"m20";"tofi caly";"hl";1
+"m20";"tric alpi";"hl";1
+"m20";"tric cesp cesp";"hl";1
+"m20";"spha spec ies";"ml";1
+"m20";"unde bryo";"ml";1
+"m21";"andr poli";"hl";1
+"m21";"care rost";"hl";1
+"m21";"dros rotu";"hl";1
+"m21";"erio angu";"hl";1
+"m21";"erio lati";"hl";1
+"m21";"meny trif";"hl";1
+"m21";"moli caer aggr";"hl";1
+"m21";"parn palu";"hl";1
+"m21";"ping alpi";"hl";1
+"m21";"pote erec";"hl";1
+"m21";"tofi caly";"hl";1
+"m21";"tric cesp cesp";"hl";1
+"m21";"spha spec ies";"ml";1
+"m21";"unde bryo";"ml";1
+"m22";"andr poli";"hl";1
+"m22";"care dioi";"hl";1
+"m22";"care limo";"hl";1
+"m22";"care nigr";"hl";1
+"m22";"erio angu";"hl";1
+"m22";"luzu sude";"hl";1
+"m22";"moli caer aggr";"hl";1
+"m22";"parn palu";"hl";1
+"m22";"pote erec";"hl";1
+"m22";"ping alpi";"hl";1
+"m22";"ping vulg";"hl";1
+"m22";"sela sela";"hl";1
+"m22";"tofi caly";"hl";1
+"m22";"tric alpi";"hl";1
+"m22";"tric cesp cesp";"hl";1
+"m22";"spha spec ies";"ml";1
+"m22";"unde bryo";"ml";1
+"m23";"care rost";"hl";1
+"m23";"dros rotu";"hl";1
+"m23";"equi sylv";"hl";1
+"m23";"erio angu";"hl";1
+"m23";"erio lati";"hl";1
+"m23";"luzu sude";"hl";1
+"m23";"sela sela";"hl";1
+"m23";"meny trif";"hl";1
+"m23";"moli caer aggr";"hl";1
+"m23";"parn palu";"hl";1
+"m23";"pote erec";"hl";1
+"m23";"tofi caly";"hl";1
+"m23";"tric alpi";"hl";1
+"m23";"tric cesp cesp";"hl";1
+"m24";"andr poli";"hl";1
+"m24";"call vulg";"hl";1
+"m24";"care rost";"hl";1
+"m24";"cirs palu";"hl";1
+"m24";"erio angu";"hl";1
+"m24";"luzu sude";"hl";1
+"m24";"meny trif";"hl";1
+"m24";"moli caer aggr";"hl";1
+"m24";"pice abie";"hl";1
+"m24";"ping alpi";"hl";1
+"m24";"ping vulg";"hl";1
+"m24";"pote erec";"hl";1
+"m24";"sela sela";"hl";1
+"m24";"tofi caly";"hl";1
+"m24";"tric alpi";"hl";1
+"m24";"tric cesp cesp";"hl";1
+"m24";"spha spec ies";"ml";1
+"m24";"unde bryo";"ml";1

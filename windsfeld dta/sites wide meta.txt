@@ -1,0 +1,5 @@
+snowmelt
+
+early	Schneedecke flächig abgeschmolzen
+intermediäre	Kleine Schnee-Flecken in Matrix aus Aperfläche oder kleine Aper-Flecken in Matrix aus Schneedecke oder Lage an scharfer Grenze zwischen Aper-Flächen und Schnee-Fläche
+late	Schneedecke flächig vorhanden

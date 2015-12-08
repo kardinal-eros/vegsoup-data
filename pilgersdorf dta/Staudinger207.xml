@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Plot_package UserName="Administrator" EmailAddress="" TurbovegVersion="2.92 (International single user version)" Dictionary="default" SpeciesList="austria" Description="" ShareWithMembersOnly="no" CreationDate="18/01/2015">
+	<Plots>
+		<Plot database="Datenbank_ms_avl" releve_nr="20042" guid="{68D563F0-15BA-4548-AAE6-75BC94FDB950}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20042" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="496" exposition="130" inclinatio="10" cov_trees="70" cov_herbs="20" remarks="Buchenwald beim Steinbruch Pilgersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.31516380"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43560270"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3151638"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4356027"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Galio odorati-Fagetum luzuletosum"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Carpino-Fagetea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="1" cover="1" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="3282" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4220" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="4220" cover="2a" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="4267" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4577" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5137" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6477" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6941" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="2a" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="2b" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="11833" cover="+" layer="6"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20043" guid="{D0ED521D-F0B0-4B83-ACA5-96D83112F8B4}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20043" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="505" exposition="135" inclinatio="10" cov_trees="55" cov_herbs="60" remarks="Serpentin-Föhrenwald beim Steinbruch Pilgersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.31435550"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43960830"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3143555"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4396083"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Festuco eggleri-Pinetum sylvestris"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Brachypodio pinnati-Betuletea pendulae"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="836" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="1174" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="1775" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2013" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2022" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2414" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3711" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4122" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4278" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4554" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4611" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="4" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="2a" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="1" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="9540" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10126" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10225" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10335" cover="1" layer="4"/>
+				</species>
+				<species>
+					<standard_record nr="10335" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="10337" cover="+" layer="4"/>
+				</species>
+				<species>
+					<standard_record nr="11233" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="12072" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="50121" cover="+" layer="6"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20044" guid="{A6370AE7-4B27-4006-91B0-C5AF578D42F2}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20044" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="528" exposition="180" inclinatio="20" cov_trees="60" cov_herbs="55" remarks="Serpentin-Föhrenwald beim Steinbruch Pilgersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.30931380"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.44058050"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3093138"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4405805"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Festuco eggleri-Pinetum sylvestris"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Festuco-Brometea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="1038" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="1174" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3711" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4278" cover="2b" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4592" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4611" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="9540" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10225" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="11233" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="50121" cover="1" layer="6"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20045" guid="{18BFC1B8-F648-4D81-8953-DA95431ABA17}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20045" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="590" exposition="135" inclinatio="8" cov_trees="60" cov_herbs="55" remarks="Serpentin-Föhrenwald SE Redlschlag"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.30491940"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43580000"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3049194"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4358000"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Festuco eggleri-Pinetum sylvestris"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Carpino-Fagetea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="106" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="705" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="984" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2022" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3282" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3498" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3711" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4122" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4278" cover="2b" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4426" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="4592" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4611" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5137" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6477" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8365" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8375" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="r" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="10335" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="11233" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="50121" cover="+" layer="6"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20046" guid="{E6964A26-C574-41DB-B312-57AB99A1B469}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20046" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="500" exposition="113" inclinatio="10" cov_trees="70" cov_shrubs="1" cov_herbs="5" remarks="Buchenwald über Serpentin beim Steinbruch Pillersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.31401940"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43534160"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3140194"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4353416"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Melampyro-Fagetum"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Carpino-Fagetea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="1" cover="1" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="1" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="1775" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2206" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2246" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2248" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3282" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4220" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="4220" cover="+" layer="4"/>
+				</species>
+				<species>
+					<standard_record nr="4220" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="4267" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5137" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5160" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6477" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="2a" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="3" layer="1"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20047" guid="{14D75493-0DC9-416A-AD5C-B012C364A6FB}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20047" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="518" exposition="45" inclinatio="8" cov_trees="60" cov_herbs="40" cov_mosses="20" remarks="Eichenwald über Serpentin beim Steinbruch Pillersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.31308880"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43552770"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3130888"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4355277"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Luzulo-Quercetum petraeae genistetosum t"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Carpino-Fagetea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="1" cover="r" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="106" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2013" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2206" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3067" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4220" cover="2b" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="4267" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4278" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4577" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4611" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5137" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5160" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5353" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6477" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6941" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="1" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="3" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="10337" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="10563" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10707" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="11833" cover="+" layer="6"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20048" guid="{579C3364-9EC4-4311-B0D8-97B4281F27F4}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20048" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="524" exposition="45" inclinatio="15" cov_trees="70" cov_herbs="40" remarks="Föhrenwald über Serpentin beim Steinbruch Pillersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.31068880"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43563050"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3106888"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4356305"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Festuco eggleri-Pinetum"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Erico-Pinetea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="106" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="705" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="1775" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="2022" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3282" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3498" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3711" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4122" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4278" cover="2b" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4426" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="4554" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4611" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4614" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5137" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6477" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="4" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8365" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8375" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="2b" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="10115" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10225" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10307" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10335" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="10337" cover="+" layer="7"/>
+				</species>
+			</species_data>
+		</Plot>
+		<Plot database="Datenbank_ms_avl" releve_nr="20049" guid="{90B97E89-0D79-40F7-91ED-ACB7E1F5B58D}" create_user="user1" create_date="08/10/2013" modify_user="Administrator" modify_date="17/01/2015" ndff_qual="0">
+			<header_data>
+				<standard_record releve_nr="20049" country="AT" coverscale="02" project="207" author="0001" date="20131007" surf_area="400.00" altitude="558" exposition="45" inclinatio="6" cov_trees="60" cov_herbs="60" remarks="Föhrenwald über Serpentin beim Steinbruch Pillersdorf"/>
+				<udf_record ispredefined="true" name="longitude" type="N" len="13" dec="8" value="16.30913610"/>
+				<udf_record ispredefined="true" name="latitude" type="N" len="13" dec="8" value="47.43504720"/>
+				<udf_record ispredefined="true" name="x_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="true" name="y_coord" type="N" len="11" dec="3" value="0.000"/>
+				<udf_record ispredefined="false" name="e_coord" type="C" len="20" dec="0" value="16.3091361"/>
+				<udf_record ispredefined="false" name="n_coord" type="C" len="20" dec="0" value="47.4350472"/>
+				<udf_record ispredefined="false" name="orig_diag" type="C" len="70" dec="0" value="Festuco eggleri-Pinetum"/>
+				<udf_record ispredefined="false" name="locality" type="C" len="50" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="region" type="C" len="25" dec="0" value="Mittelburgenland"/>
+				<udf_record ispredefined="false" name="quadrant" type="C" len="10" dec="0" value="8563/4"/>
+				<udf_record ispredefined="false" name="accuracy" type="C" len="10" dec="0" value="10"/>
+				<udf_record ispredefined="false" name="sp_count" type="N" len="2" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="oevdat" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="klasse" type="C" len="50" dec="0" value="Erico-Pinetea"/>
+				<udf_record ispredefined="false" name="czvdat" type="N" len="7" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="bezirk" type="C" len="25" dec="0" value="Oberpullendorf"/>
+				<udf_record ispredefined="false" name="nr_gl_ges" type="N" len="10" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="deck_bs_2" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="erde_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="fels_antl" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="schutt_ant" type="N" len="3" dec="0" value="0"/>
+				<udf_record ispredefined="false" name="land" type="C" len="2" dec="0" value="B"/>
+			</header_data>
+			<species_data>
+				<species>
+					<standard_record nr="705" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="1775" cover="1" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="3498" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4122" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4278" cover="3" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="4426" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="4554" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="5137" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="6477" cover="r" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8058" cover="4" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8365" cover="2a" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="1" layer="1"/>
+				</species>
+				<species>
+					<standard_record nr="8850" cover="r" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="10225" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10307" cover="+" layer="6"/>
+				</species>
+				<species>
+					<standard_record nr="10335" cover="+" layer="7"/>
+				</species>
+				<species>
+					<standard_record nr="10337" cover="r" layer="7"/>
+				</species>
+			</species_data>
+		</Plot>
+	</Plots>
+	<Lookup_tables>
+		<Coverscale_list>
+			<coverscale_record>
+				<code>02</code>
+				<description>Braun/Blanquet (new)</description>
+				<data_record code="r" percentage="0.3"/>
+				<data_record code="+" percentage="0.7"/>
+				<data_record code="1" percentage="3.0"/>
+				<data_record code="2m" percentage="4.0"/>
+				<data_record code="2a" percentage="8.0"/>
+				<data_record code="2b" percentage="18.0"/>
+				<data_record code="3" percentage="38.0"/>
+				<data_record code="4" percentage="68.0"/>
+				<data_record code="5" percentage="88.0"/>
+			</coverscale_record>
+		</Coverscale_list>
+		<Country_list>
+			<country_record code="AT" description="Austria"/>
+		</Country_list>
+		<Author_list>
+			<author_record code="0001" description="Staudinger, Markus"/>
+		</Author_list>
+		<Project_list>
+			<project_record code="207" description="Gutachten Steinbr. Pilgersdorf"/>
+		</Project_list>
+		<Species_list>
+			<species_record nr="1" code="ABIEALB" name="Abies alba" author="Abies alba" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="106" code="ACHIMIE" name="Achillea millefolium agg." author="Achillea millefolium agg." valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="705" code="ANTRRAM" name="Anthericum ramosum" author="Anthericum ramosum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="836" code="ARMEELO" name="Armeria elongata" author="Armeria elongata" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="984" code="ASPRTIN" name="Asperula tinctoria" author="Asperula tinctoria" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="1038" code="ASPLCUN" name="Asplenium cuneifolium" author="Asplenium cuneifolium" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="1174" code="AVEEFLE" name="Avenella flexuosa" author="Avenella flexuosa" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="1775" code="CALAARU" name="Calamagrostis arundinacea" author="Calamagrostis arundinacea" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="2013" code="CAMPPER" name="Campanula persicifolia" author="Campanula persicifolia" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="2022" code="CAMPROT" name="Campanula rotundifolia" author="Campanula rotundifolia" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="2206" code="CAREDIG" name="Carex digitata" author="Carex digitata" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="2246" code="CAREMIC" name="Carex michelii" author="Carex michelii" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="2248" code="CAREMON" name="Carex montana" author="Carex montana" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="2414" code="CENTSCA" name="Centaurea scabiosa" author="Centaurea scabiosa" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="3067" code="CONVMAJ" name="Convallaria majalis" author="Convallaria majalis" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="3282" code="CYCLPUR" name="Cyclamen purpurascens" author="Cyclamen purpurascens" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="3498" code="DIANCAH" name="Dianthus carthusianorum ssp. capillifrons" author="Dianthus carthusianorum ssp. capillifrons" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="3711" code="DORYGER" name="Dorycnium germanicum" author="Dorycnium germanicum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4122" code="EUPHCYP" name="Euphorbia cyparissias" author="Euphorbia cyparissias" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4220" code="FAGUSYL" name="Fagus sylvatica" author="Fagus sylvatica" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4267" code="FESTDRY" name="Festuca drymeia" author="Festuca drymeia" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4278" code="FESTGUE" name="Festuca guestfalica auct." author="Festuca guestfalica auct." valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4426" code="FRANALN" name="Frangula alnus" author="Frangula alnus" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4554" code="GALUAUS" name="Galium austriacum" author="Galium austriacum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4577" code="GALUROT" name="Galium rotundifolium" author="Galium rotundifolium" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4592" code="GALUVEU" name="Galium verum" author="Galium verum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4611" code="GENIPIL" name="Genista pilosa" author="Genista pilosa" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="4614" code="GENITIN" name="Genista tinctoria" author="Genista tinctoria" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="5137" code="HIERMUR" name="Hieracium murorum" author="Hieracium murorum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="5160" code="HIERRAC" name="Hieracium racemosum" author="Hieracium racemosum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="5353" code="HYPEPER" name="Hypericum perforatum" author="Hypericum perforatum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="5510" code="JOVIGLR" name="Jovibarba globifera ssp. hirta" author="Jovibarba globifera ssp. hirta" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="6477" code="LUZULUU" name="Luzula luzuloides" author="Luzula luzuloides" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="6941" code="MYCEMUR" name="Mycelis muralis" author="Mycelis muralis" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="8058" code="PINUSYL" name="Pinus sylvestris" author="Pinus sylvestris" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="8365" code="POLGCHA" name="Polygala chamaebuxus" author="Polygala chamaebuxus" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="8375" code="POLAODO" name="Polygonatum odoratum" author="Polygonatum odoratum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="8850" code="QUERPEA" name="Quercus petraea ssp. petraea" author="Quercus petraea ssp. petraea" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="9540" code="RUMEACO" name="Rumex acetosella s.lat." author="Rumex acetosella s.lat." valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10115" code="SENEVIS" name="Senecio viscosus" author="Senecio viscosus" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10126" code="SERRTIN" name="Serratula tinctoria" author="Serratula tinctoria" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10225" code="SILEVUL" name="Silene vulgaris" author="Silene vulgaris" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10307" code="SOLIVIR" name="Solidago virgaurea" author="Solidago virgaurea" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10335" code="SORUARI" name="Sorbus aria" author="Sorbus aria" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10337" code="SORUAUC" name="Sorbus aucuparia" author="Sorbus aucuparia" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10563" code="STELHOL" name="Stellaria holostea" author="Stellaria holostea" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="10707" code="TANACOR" name="Tanacetum corymbosum" author="Tanacetum corymbosum" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="11233" code="THLSGOE" name="Thlaspi goesingense" author="Thlaspi goesingense" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="11833" code="VEROOFF" name="Veronica officinalis" author="Veronica officinalis" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="12072" code="VINEHIU" name="Vincetoxicum hirundinaria" author="Vincetoxicum hirundinaria" valid_nr="" valid_name="" valid_author="" synonym="no" nativename=""/>
+			<species_record nr="50121" code="JOVIGLR" name="Jovibarba hirta ssp. hirta" author="Jovibarba hirta ssp. hirta = Jovibarba globifera ssp. hirta" valid_nr="5510" valid_name="Jovibarba globifera ssp. hirta" valid_author="Jovibarba globifera ssp. hirta" synonym="yes" nativename=""/>
+		</Species_list>
+	</Lookup_tables>
+	<Template>
+		<Files>
+			<record file_nr="1" file_name="tvflora" file_desc="FLORA" fieldindex="0" file_edit="false" array_pos="0" progpath="false" print_it="false"/>
+			<record file_nr="2" file_name="tvhabita" file_desc="HEADER DATA" fieldindex="0" file_edit="false" array_pos="0" progpath="false" print_it="false"/>
+			<record file_nr="3" file_name="tvabund" file_desc="SPECIES DATA" fieldindex="0" file_edit="false" array_pos="0" progpath="false" print_it="false"/>
+			<record file_nr="4" file_name="remarks" file_desc="REMARKS" fieldindex="1" file_edit="false" array_pos="0" progpath="false" print_it="false"/>
+			<record file_nr="5" file_name="tvrefenc" file_desc="REFERENCES" fieldindex="1" file_edit="true" array_pos="0" progpath="true" print_it="false"/>
+			<record file_nr="6" file_name="tvscale" file_desc="COVER SCALES" fieldindex="1" file_edit="true" array_pos="1" progpath="true" print_it="true"/>
+			<record file_nr="7" file_name="country" file_desc="COUNTRIES" fieldindex="2" file_edit="true" array_pos="2" progpath="true" print_it="true"/>
+			<record file_nr="8" file_name="tvauthor" file_desc="AUTHORS" fieldindex="2" file_edit="true" array_pos="3" progpath="true" print_it="true"/>
+			<record file_nr="9" file_name="tvprojct" file_desc="PROJECTS" fieldindex="1" file_edit="true" array_pos="4" progpath="true" print_it="true"/>
+			<record file_nr="10" file_name="syntaxa" file_desc="SYNTAXA" fieldindex="1" file_edit="true" array_pos="5" progpath="true" print_it="true"/>
+			<record file_nr="11" file_name="exposit" file_desc="ASPECT" fieldindex="0" file_edit="true" array_pos="6" progpath="true" print_it="true"/>
+		</Files>
+		<Dbasedic>
+			<record file_nr="1" field_name="SPECIES_NR" field_type="N" field_len="5" field_dec="0" field_pict="@ 99999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Species number code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="1" field_name="LETTERCODE" field_type="C" field_len="7" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Species letter code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="1" field_name="SHORTNAME" field_type="C" field_len="22" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Short name (correct)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="1" field_name="ABBREVIAT" field_type="C" field_len="37" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Species name" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="1" field_name="SYNONYM" field_type="L" field_len="1" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="RELEVE_NR" field_type="N" field_len="6" field_dec="0" field_pict="@ 999999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Releve number" field_menu="Releve number" field_sel="3" field_list="0"/>
+			<record file_nr="2" field_name="COUNTRY" field_type="C" field_len="2" field_dec="0" field_pict="@ !!" field_tran="" field_eval="CHECK_2(2, .T., .T., .F.)" field_esel="" field_when="" field_carg="" field_desc="Country code" field_menu="Country code" field_sel="2" field_list="2"/>
+			<record file_nr="2" field_name="REFERENCE" field_type="C" field_len="6" field_dec="0" field_pict="@ ######" field_tran="" field_eval="CHECK_6(.T.,.T.)" field_esel="" field_when="" field_carg="" field_desc="Biblio reference" field_menu="Biblioreferen." field_sel="3" field_list="-1"/>
+			<record file_nr="2" field_name="TABLE_NR" field_type="C" field_len="6" field_dec="0" field_pict="@ XXXXXX" field_tran="" field_eval="" field_esel="" field_when="(!EMPTY(aRecord[3]).AND.aRecord[3]#&quot;------&quot;).OR.!EMPTY(aRecord[4])" field_carg="" field_desc="Nr. table in publ." field_menu="Table number" field_sel="2" field_list="0"/>
+			<record file_nr="2" field_name="NR_IN_TAB" field_type="C" field_len="3" field_dec="0" field_pict="@ ###" field_tran="" field_eval="" field_esel="" field_when="(!EMPTY(aRecord[3]).AND.aRecord[3]#&quot;------&quot;).OR.!EMPTY(aRecord[5])" field_carg="" field_desc="Nr. relevé in table" field_menu="Rel_Tab number" field_sel="2" field_list="0"/>
+			<record file_nr="2" field_name="COVERSCALE" field_type="C" field_len="2" field_dec="0" field_pict="@ ##" field_tran="" field_eval="CHECK_2(1, .T., .T., .T.)" field_esel="" field_when="" field_carg="" field_desc="Cover abundance scale" field_menu="Cover scale" field_sel="2" field_list="1"/>
+			<record file_nr="2" field_name="PROJECT" field_type="C" field_len="3" field_dec="0" field_pict="@ ###" field_tran="" field_eval="CHECK_2(4, .T., .F., .T.)" field_esel="" field_when="" field_carg="" field_desc="Project code" field_menu="Project code" field_sel="2" field_list="4"/>
+			<record file_nr="2" field_name="AUTHOR" field_type="C" field_len="4" field_dec="0" field_pict="@ ####" field_tran="" field_eval="CHECK_2(3, .T., .F., .T.)" field_esel="" field_when="" field_carg="" field_desc="Author code" field_menu="Author code" field_sel="2" field_list="3"/>
+			<record file_nr="2" field_name="DATE" field_type="C" field_len="8" field_dec="0" field_pict="@R ####/##/##" field_tran="@R ####/##/##" field_eval="CHECK_5()" field_esel="" field_when="" field_carg="" field_desc="Date (year/month/day)" field_menu="Date" field_sel="3" field_list="0"/>
+			<record file_nr="2" field_name="SYNTAXON" field_type="C" field_len="7" field_dec="0" field_pict="@ ##!!##X" field_tran="" field_eval="CHECK_2(5, .F., .F., .T.)" field_esel="" field_when="" field_carg="" field_desc="Syntaxon code" field_menu="Syntaxon code" field_sel="2" field_list="5"/>
+			<record file_nr="2" field_name="SURF_AREA" field_type="N" field_len="7" field_dec="2" field_pict="@Z 9999.99" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Relevé area (m2)" field_menu="Relevé area" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="UTM" field_type="C" field_len="15" field_dec="0" field_pict="@R 99-!-!!-99999-99999" field_tran="@R 99-!-!!-99999-99999" field_eval="" field_esel="" field_when="" field_carg="" field_desc="UTM grid system code" field_menu="UTM code" field_sel="3" field_list="0"/>
+			<record file_nr="2" field_name="ALTITUDE" field_type="C" field_len="4" field_dec="0" field_pict="@ ####" field_tran="" field_eval="CHECK_1(&apos;Val(cVar)&lt;=8000&apos;, .T.)" field_esel="" field_when="" field_carg="" field_desc="Altitude (m)" field_menu="Altitude" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="EXPOSITION" field_type="C" field_len="3" field_dec="0" field_pict="@ ###" field_tran="" field_eval="CHECK_1(&apos;Val(cVar)&gt;=0.AND.Val(cVar)&lt;=360&apos;, .T.)" field_esel="" field_when="" field_carg="" field_desc="Aspect (degrees)" field_menu="Aspect" field_sel="1" field_list="6"/>
+			<record file_nr="2" field_name="INCLINATIO" field_type="C" field_len="2" field_dec="0" field_pict="@ ##" field_tran="" field_eval="CHECK_1(&apos;VAL(cVar) &lt;= 90&apos;)" field_esel="" field_when="" field_carg="" field_desc="Slope (degrees)" field_menu="Slope" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_TOTAL" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover total (%)" field_menu="Cover total" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_TREES" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover tree layer (%)" field_menu="Cover trees" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_SHRUBS" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover shrub layer (%)" field_menu="Cover shrubs" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_HERBS" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover herb layer (%)" field_menu="Cover herbs" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_MOSSES" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover moss layer (%)" field_menu="Cover mosses" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_LICHEN" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover lichen layer (%)" field_menu="Cover lichens" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_ALGAE" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover algae layer (%)" field_menu="Cover algae" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_LITTER" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover litter layer (%)" field_menu="Cover litter" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_WATER" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover open water (%)" field_menu="Cover water" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="COV_ROCK" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="CHECK_1(&apos;cVar &lt;= 100&apos;)" field_esel="" field_when="" field_carg="" field_desc="Cover bare rock (%)" field_menu="Cover rock" field_sel="1" field_list="0"/>
+			<record file_nr="2" field_name="TREE_HIGH" field_type="N" field_len="2" field_dec="0" field_pict="@Z 99" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Height (highest) trees (m)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="TREE_LOW" field_type="N" field_len="2" field_dec="0" field_pict="@Z 99" field_tran="" field_eval="" field_esel="" field_when="aRecord[26]&gt;0.OR.aRecord[27]&gt;0" field_carg="" field_desc="Height lowest trees (m)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="SHRUB_HIGH" field_type="N" field_len="4" field_dec="1" field_pict="@Z 99.9" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Height (highest) shrubs (m)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="SHRUB_LOW" field_type="N" field_len="4" field_dec="1" field_pict="@Z 99.9" field_tran="" field_eval="" field_esel="" field_when="aRecord[28]&gt;0.OR.aRecord[29]&gt;0" field_carg="" field_desc="Height lowest shrubs (m)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="HERB_HIGH" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Aver. height (high) herbs (cm)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="HERB_LOW" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="" field_esel="" field_when="aRecord[30]&gt;0.OR.aRecord[31]&gt;0" field_carg="" field_desc="Aver. height lowest herbs (cm)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="HERB_MAX" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Maximum height herbs (cm)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="CRYPT_HIGH" field_type="N" field_len="3" field_dec="0" field_pict="@Z 999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Maximum height cryptogams (mm)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="MOSS_IDENT" field_type="C" field_len="1" field_dec="0" field_pict="@ !" field_tran="" field_eval="CHECK_1(&apos;cVar $ &quot; YN&quot;&apos;)" field_esel="" field_when="" field_carg="" field_desc="Mosses identified (y/n)" field_menu="Mosses iden. ?" field_sel="2" field_list="0"/>
+			<record file_nr="2" field_name="LICH_IDENT" field_type="C" field_len="1" field_dec="0" field_pict="@ !" field_tran="" field_eval="CHECK_1(&apos;cVar $ &quot; YN&quot;&apos;)" field_esel="" field_when="" field_carg="" field_desc="Lichens identified (y/n)" field_menu="Lichens iden.?" field_sel="2" field_list="0"/>
+			<record file_nr="2" field_name="REMARKS" field_type="C" field_len="56" field_dec="0" field_pict="@S56" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Remarks" field_menu="Remarks" field_sel="4" field_list="0"/>
+			<record file_nr="3" field_name="RELEVE_NR" field_type="N" field_len="6" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="3" field_name="SPECIES_NR" field_type="N" field_len="5" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="3" field_name="COVER_CODE" field_type="C" field_len="2" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="4" field_name="RELEVE_NR" field_type="N" field_len="6" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="4" field_name="REMARKS" field_type="C" field_len="25" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="5" field_name="REFERENCE" field_type="C" field_len="6" field_dec="0" field_pict="@ 999999" field_tran="" field_eval="CHECK_3(uVar, oGet)" field_esel="" field_when="" field_carg="" field_desc="Reference" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="5" field_name="AUTHOR" field_type="C" field_len="80" field_dec="0" field_pict="@S59" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Author of publication" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="5" field_name="YEAR" field_type="C" field_len="4" field_dec="0" field_pict="@ 9999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Year" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="5" field_name="TITLE" field_type="C" field_len="200" field_dec="0" field_pict="@S59" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Title" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="5" field_name="PUBLISHED" field_type="C" field_len="200" field_dec="0" field_pict="@S59" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Published in..." field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="6" field_name="SCALE_NR" field_type="C" field_len="2" field_dec="0" field_pict="@ ##" field_tran="" field_eval="CHECK_3(uVar, oGet)" field_esel="" field_when="" field_carg="" field_desc="Cover scale code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="6" field_name="SCALE_NAME" field_type="C" field_len="22" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Cover scale name" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="6" field_name="SCALE_CODE" field_type="C" field_len="6" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Cover scale abbr." field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="7" field_name="CODE" field_type="C" field_len="2" field_dec="0" field_pict="@ !!" field_tran="" field_eval="CHECK_3(uVar, oGet)" field_esel="" field_when="" field_carg="" field_desc="Country code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="7" field_name="COUNTRY" field_type="C" field_len="25" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Country name" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="8" field_name="AUTH_CODE" field_type="C" field_len="4" field_dec="0" field_pict="@ ####" field_tran="" field_eval="CHECK_3(uVar, oGet)" field_esel="" field_when="" field_carg="" field_desc="Author code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="8" field_name="AUTH_NAME" field_type="C" field_len="30" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Author name" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="9" field_name="PROJECT" field_type="C" field_len="3" field_dec="0" field_pict="@ ###" field_tran="" field_eval="CHECK_3(uVar, oGet)" field_esel="" field_when="" field_carg="" field_desc="Project code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="9" field_name="PROJ_NAME" field_type="C" field_len="30" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Project name" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="10" field_name="CODE" field_type="C" field_len="7" field_dec="0" field_pict="@ ##!!99!" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Syntaxon code" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="10" field_name="SYNTAXON" field_type="C" field_len="56" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Syntaxon name" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="11" field_name="EXPOSITION" field_type="C" field_len="3" field_dec="0" field_pict="@ ###" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Exposition (degrees)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="11" field_name="CODE" field_type="C" field_len="3" field_dec="0" field_pict="@ !!!" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Exposition (&quot;NWSW&quot;)" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="3" field_name="LAYER" field_type="N" field_len="1" field_dec="0" field_pict="" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="" field_menu="" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="LONGITUDE" field_type="N" field_len="13" field_dec="8" field_pict="@Z 9999.99999999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Longitude" field_menu="Longitude" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="LATITUDE" field_type="N" field_len="13" field_dec="8" field_pict="@Z 9999.99999999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Latitude" field_menu="Latitude" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="X_COORD" field_type="N" field_len="11" field_dec="3" field_pict="@Z 9999999.999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="X-coordinate" field_menu="X-coordinate" field_sel="0" field_list="0"/>
+			<record file_nr="2" field_name="Y_COORD" field_type="N" field_len="11" field_dec="3" field_pict="@Z 9999999.999" field_tran="" field_eval="" field_esel="" field_when="" field_carg="" field_desc="Y-coordinate" field_menu="Y-coordinate" field_sel="0" field_list="0"/>
+		</Dbasedic>
+	</Template>
+</Plot_package>

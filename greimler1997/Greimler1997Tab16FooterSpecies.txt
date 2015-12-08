@@ -1,0 +1,21 @@
+077: Distichium capillaceum@ml +, Scapania sp.@ml +
+196: Avenochloa versicolor@hl +
+236: Cladonia pyxidata@ml +
+234: Huperzia selago@hl +, Soldanella austriaca@hl +
+378: Sesleria ovata@hl +
+379: Carex ornithopodoides@hl +
+380: Saxifraga androsacea@hl +, Carex parviflora@hl +, Saxifraga stellaris@hl +
+381: Arabis alpina@hl +, Arabis pumila@hl r
+412: Plagiopus oederi@hl +, Brachythecium sp.@ml +, Tetraplodon mnioides@ml +
+443: Ptilium ciliare@ml +, Hypnum cupressiforme@ml +
+396: Ranunculus montanus@hl +, Alchemilla hybrida agg.@hl +, Ctenidium procerrimum@hl 1, Rhytidium rugosum@ml +,Cladonia macroceras@ml +
+398: Thlaspi alpinum@hl +,Gentiana pannonica@hl r
+009: Pohlia cruda@ml +, Campylium chrysophyllum@ml 1
+197: Megaspora verrucosa@ml +
+090: Hymenostylium recurvirosrte@ml +
+104: Draba aizoides@hl +
+177: Ranunculus hybridus@hl +, Athamanta cretensis@hl +
+347: Pinus mugo@hl +, Carex brachystachys@hl +
+353: Gypsophila repens@hl +
+488: Valeriana elongata@hl r, Thuidium philibertii@hl +, Salix waldsteiniana@hl r
+099: Kernera saxatilis@hl 1, Campylium stellatum@ml +

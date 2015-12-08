@@ -1,0 +1,11 @@
+plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;stones;bare;soil;location;date;altitude;accuracy;latitude;longitude;location;alliance;description;observer
+rx01;96;0;0;0;94;2;0;0;0;0,15;0,03;4;4;S;10;2;1;1;;Rax;2012-08-20;1887;6;47.704796N;15.714920E;Rax, Trinksteinsattel;Caricion firmae;bodensaurer Polsterseggenrasen;R. Kaiser
+rx02;99;0;0;0;97;3;0;0;0;0,15;0,04;4;4;N;7;0;0;1;;Rax;2012-08-20;1875;7;47.704881N;15.713448E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen (Kalk-Gämsheidespalier);R. Kaiser
+rx03;97;0;0;0;96;1;0;0;0;0,12;0,02;4;4;S;2;2;0;1;;Rax;2012-08-20;1932;7;47.707302N;15.714812E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen;R. Kaiser
+rx04;60;0;0;0;59;1;0;0;0;0,15;0,02;4;4;F;0;0;35;5; Pech-Rendzina;Rax;2012-08-20;1930;6;47.709076N;15.716889E;Rax;Caricion firmae;windexponierter Polsterseggenrasen über Pech-Rendzina mit vielen Deflationsanrissen;R. Kaiser
+rx05;95;0;0;0;94;1;0;0;0;0,15;0,03;4;4;NW;10;0;0;5;;Rax;2012-08-20;1917;7;47.709936N;15.717241E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen;R. Kaiser
+rx06;91;0;0;0;90;2;0;0;0;0,15;0,03;4;4;F;0;0;3;6;;Rax;2012-08-20;1904;4;47.710577N;15.718346E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen;R. Kaiser
+rx07;91;0;0;0;89;2;0;0;0;0,12;0,03;4;4;NE;10;0;8;1;;Rax;2012-08-20;1938;7;47.709412N;15.715850E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen (Kalk-Gämsheidespalier);R. Kaiser
+rx08;99;0;0;0;99;1;0;0;0;0,15;0,04;4;4;NW;2;0;0;1;;Rax;2012-08-20;1924;6;47.709589N;15.716535E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen;R. Kaiser
+rx09;98;0;0;0;97;1;0;0;0;0,15;0,03;4;4;N;10;0;0;2;;Rax;2012-08-20;1981;6;47.688689N;15.692577E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen;R. Kaiser
+rx10;96;0;0;0;94;2;0;0;0;0,13;0,03;4;4;N;25;1;0;3;;Rax;2012-08-20;2001;8;47.689746N;15.689046E;Rax;Caricion firmae;bodensaurer Polsterseggenrasen (Kalk-Gämsheidespalier);R. Kaiser

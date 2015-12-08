@@ -1,0 +1,92 @@
+BEGIN HEAD
+Aufnahmenummer                           4  4  3  4  2  2  2  2  2  3  3  G
+                                         7  7  5  /  /  /  /  /  /  5  5  r
+                                         4  7  9  5  4  1  2  3  5  6  8  1
+                        
+Exposition                               E  F  S  W  S  F  W  F  W  N  W  N
+                                         .  .  S  .  E  .  .  .  .  E  N  W
+                                         .  .  E  .  .  .  .  .  .  .  W  .
+                        
+Neigung                                  5  0  2  1  5  0  5  0  1  1  5  7
+                                         .  .  0  5  .  .  .  .  5  0  .  0
+
+Grösse (in qm)                           1  1  3  1  4  4  4  4  6  3  4  1
+                                         .  2  0  0  .  .  .  .  .  .  .  0
+
+Gesamtdeckung in %                       5  2  5  2  2  3  3  3  1  5  5  1
+                                         0  0  .  0  0  0  0  0  5  .  .  0
+END HEAD
+
+BEGIN TABLE
+Draba sauteri                            1  1  +  +  +  +  +  +  +  +  1  +
+
+Cerastium uniflorum                      1  1  .  .  .  .  .  .  .  .  .  .
+Saxifraga oppositifolia                  1  1  .  .  .  .  .  .  .  .  .  .
+Papaver sendtneri                        .  +  .  .  .  .  .  .  .  .  .  .
+
+Thlaspi rotundifolium                    .  .  1  .  .  .  .  .  .  .  .  .
+Cerastium carinthiacum                   .  .  1  .  +  .  .  .  .  .  .  .
+Pritzelago alpina                        1  1  +  +  +  +  .  .  .  .  .  .
+Linaria alpina                           .  .  1  +  +  .  .  .  .  .  .  .
+
+Poa minor                                1  .  .  .  .  .  .  .  .  .  .  .
+
+Draba tomentosa                          +  r  .  .  .  .  .  .  .  .  .  .
+Draba stellata                           .  .  .  .  .  .  .  +  .  .  .  +
+Minuartia cherlerioides                  .  .  .  .  .  .  +  +  .  1  .  1
+Primula auricula                         .  .  .  .  +  .  .  +  .  .  .  .
+Arabis pumila stellulata                 .  .  .  .  .  .  .  .  .  +  .  .
+Saxifraga paniculata                     .  .  .  .  +  +  .  .  .  .  .  +
+
+Potentilla clusiana                      .  .  .  .  +  +  +  +  .  +  r  2
+Gentiana orbicularis                     .  .  .  .  +  1  .  +  +  .  .  .
+Petrocallis pyrenaica                    .  .  .  .  +  +  +  +  .  .  .  +
+Crepis terglouensis                      .  .  .  .  +  +  .  +  +  .  .  .
+
+Carex firma                              .  .  .  +  2  2  2  2  1  +  1  +
+Minuartia gerardii                       .  .  .  +  +  +  +  +  +  +  r  .
+Dryas octopetala                         .  .  .  .  1  +  1  +  .  .  .  .
+Helianthemum alpestre                    .  .  .  .  +  +  +  +  .  .  .  .
+Silene acaulis                           .  .  .  .  +  +  1  1  .  .  .  +
+Minuartia sedoides                       .  .  .  .  +  +  +  +  .  .  r  .
+
+Salix retusa                             .  .  .  .  +  +  +  +  .  r  .  .
+Ranunculus alpestris                     .  .  .  .  +  r  .  .  .  +  .  .
+Saxifraga aphylla                        .  .  .  +  +  +  +  .  .  .  .  +
+Festuca pumila                           .  .  +  +  .  +  +  +  .  .  .  .
+Sesleria ovata                           .  .  .  .  +  +  +  +  .  .  .  .
+Arenaria ciliata                         .  .  .  .  +  +  .  .  .  .  .  .
+Poa alpina                               .  .  .  1  +  +  +  .  +  .  .  .
+Armeria alpina                           .  .  .  .  .  +  .  +  .  .  .  .
+
+Ditrichum flexicaule                     2  1  .  +  .  .  .  .  .  .  .  +
+Schistidium apocarpum agg                1  1  .  .  .  .  .  .  .  .  .  .
+Tortella tortuosa                        r  +  .  .  +  +  +  .  .  +  .  +
+Cetraria tilesii                         2  .  .  .  .  .  .  .  .  .  .  .
+Cetraria nivalis                         1  .  .  .  .  .  .  .  .  .  .  .
+Cetraria islandica                       1  .  .  .  .  .  .  .  .  .  .  .
+Thamnolia vermicularis                   1  .  .  .  .  .  .  .  .  .  .  .
+Cladonia pyxidata                        1  .  .  .  .  .  .  .  .  .  .  .
+Hypnum revolutum                         1  .  .  .  .  .  .  .  .  .  .  .
+Hypnum vaucheri                          1  .  .  .  .  .  .  .  .  .  .  .
+Campylium calcareum                      +  .  .  .  .  .  .  .  .  .  .  .
+Homalothecium sericeum                   +  .  .  .  .  .  .  .  .  .  .  .
+Distichium capillaceum                   .  .  .  .  .  .  .  .  .  +  .  .
+Ditrichum inclinatum                     .  .  .  .  .  .  .  .  .  +  .  .
+Cladonia sp.                             .  .  .  .  +  +  +  .  .  .  .  .
+
+Saxifraga stellaris                      .  .  .  +  .  .  .  .  .  .  .  .
+Myosotis alpestris                       .  .  .  +  .  .  .  .  .  .  .  .
+Campanula pulla                          .  .  .  +  .  .  .  .  .  .  .  .
+Achillea atrata                          .  .  .  +  .  .  .  .  .  .  .  .
+
+Pedicularis verticillata                 .  .  .  .  +  .  .  .  .  .  .  .
+
+Salix serpillifolia                      .  .  .  .  .  .  .  2  .  .  .  .
+Androsace chamaejasme                    .  .  .  .  .  .  .  +  .  .  .  .
+Gentiana pumila                          .  .  .  .  .  .  .  +  .  .  .  .
+Pedicularis rostrato-capitata            .  .  .  .  .  .  .  +  .  .  .  .
+
+Festuca brachystachys                    .  .  .  .  .  .  .  .  .  .  .  +
+Homalothecium sp.                        .  .  .  .  .  .  .  .  .  .  .  +
+END TABLE

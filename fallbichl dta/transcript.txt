@@ -1,0 +1,114 @@
+BEGIN HEAD
+plot                                    ffffff
+                                        bbbbbb
+                                        000000
+                                        111222
+                                        abcabc
+accuracy                                111111
+                                        000000
+                                              
+cov                                     999999
+                                        598885
+                                              
+hcov                                    989989
+                                        408885
+                                              
+hsl                                     000000
+                                              
+htl1                                    000000
+                                              
+htl2                                    000000
+                                              
+mcov                                     8 11 
+                                        251052
+                                              
+plsx                                    555555
+                                              
+plsy                                    555555
+                                              
+scov                                    000000
+                                              
+slope                                       1 
+                                        305503
+                                              
+tcov1                                   000000
+                                              
+tcov2                                   000000
+                                              
+richness                                312313
+                                        582983
+                                              
+END HEAD
+BEGIN TABLE
+Carex curvula ssp. curvula           hl 2.1321
+Mutellina adonidifolia                  2.1++1
+Scorzoneroides helvetica                2.12+2
+Homogyne alpina                         1.+1.1
+Nardus stricta                          3.3+.3
+Phleum rhaeticum                        +.1+.1
+Avenula versicolor                      1..1++
+Campanula barbata ssp. barbata          +..+++
+Leucanthemopsis alpina                  r..+.+
+Coeloglossum viride                     r.....
+Anthoxanthum alpinum                    +.1+.2
+Geum montanum                           +.++.+
+Potentilla aurea                        1.+1.+
+Soldanella pusilla ssp. alpicola        2..+.+
+Poa alpina                              1.11.2
+Luzula alpina                           +..+.+
+Veronica bellidioides                   +..+.+
+Primula minima                          1..+1+
+Phyteuma hemisphaericum                 +..+2.
+Agrostis rupestris                      1..+.+
+Festuca picturata                       +..+.1
+Crepis aurea ssp. aurea                 +.+...
+Gentiana bavarica s.str.                +++...
+Alchemilla sp.                          ++1+..
+Luzula alpinopilosa s.str.              +.++.1
+Rumex alpestris                         +.....
+Deschampsia cespitosa                   +.2+.1
+Gnaphalium supinum                      +.....
+Campanula scheuchzeri                   +.+2++
+Salix herbacea                          +.....
+Persicaria vivipara                     ++.+.+
+Senecio carniolicus                     +.....
+Juncus jacquinii                        +.....
+Arnica montana                          +..+..
+Loiseleuria procumbens                  +..25.
+Eriophorum angustifolium                .2....
+Carex nigra                             .4+...
+Saxifraga stellaris s.lat.              .+....
+Juncus filiformis                       .1....
+Bartsia alpina                          .+....
+Salix breviserrata                      .+....
+Juncus triglumis ssp. triglumis         .2....
+Epilobium nutans                        .2....
+Viola palustris                         .+....
+Willemetia stipitata ssp. stipitata     .+....
+Equisetum variegatum                    .2....
+Taraxacum sect. Ruderalia               .++...
+Soldanella alpina                       .+...+
+Luzula sudetica                         .+....
+Carex pilulifera ssp. pilulifera        .+....
+Ranunculus montanus s.str.              ..+...
+Leontodon hispidus s.lat.               ..+..+
+Avenella flexuosa                       ..11.1
+Cerastium holosteoides                  ..+...
+Hieracium alpinum                       ...11+
+Carex atrata                            ...+..
+Festuca pseudodura                      ...1+.
+Vaccinium vitis-idaea                   ...1+.
+Oreochloa disticha                      ...22.
+Pulsatilla alpina ssp. alba             ...+1+
+Silene acaulis ssp. exscapa             ...+1.
+Vaccinium gaultherioides                ...+..
+Festuca pumila                          ...1.+
+Veronica alpina                         ...+..
+Gentiana pannonica                      ...+.+
+Juncus trifidus s.str.                  ....1.
+Myosotis alpestris                      ....+.
+Euphrasia minima s.str.                 ....2.
+Biscutella laevigata ssp. laevigata     .....+
+Pseudorchis albida s.lat.               .....+
+Festuca nigrescens                      .....1
+END TABLE

@@ -1,0 +1,124 @@
+BEGIN HEAD
+plot                                       ss
+                                           gg
+                                           00
+                                           12
+accuracy                                   22
+                                           00
+                                             
+cov                                        98
+                                           00
+                                             
+hcov                                       96
+                                           00
+                                             
+hhl1                                       00
+                                             
+hhl2                                       00
+                                             
+hsl                                        00
+                                             
+htl1                                       00
+                                             
+htl2                                       00
+                                             
+mcov                                       52
+                                           00
+                                             
+plsx                                       11
+                                           00
+                                             
+plsy                                       11
+                                           00
+                                             
+scov                                       77
+                                           00
+                                             
+slope                                      00
+                                             
+t1cov                                      00
+                                             
+t2cov                                      03
+                                             
+richness                                   45
+                                           71
+                                             
+END HEAD
+BEGIN TABLE
+Picea abies                             tl .1
+Pinus sylvestris                           .1
+Berberis vulgaris                       sl +.
+Frangula alnus                             2.
+Galium anisophyllon                        +.
+Juniperus communis ssp. communis           33
+Laserpitium latifolium ssp. latifolium     1.
+Picea abies                                2+
+Pinus mugo s.str.                          21
+Pinus sylvestris                           ++
+Rosa pendulina                             +.
+Salix eleagnos ssp. eleagnos               ++
+Sorbus aria s.str.                         +.
+Sorbus aucuparia ssp. aucuparia            ++
+Viburnum lantana                           ++
+Viburnum opulus                            +.
+Acer pseudoplatanus                        .+
+Biscutella laevigata ssp. laevigata     hl ++
+Buphthalmum salicifolium                   +.
+Calamagrostis varia                        22
+Calluna vulgaris                           1.
+Carex alba                                 1+
+Carex ferruginea s.str.                    +.
+Carex flacca ssp. flacca                   11
+Convallaria majalis ssp. majalis           2.
+Dactylorhiza maculata s.lat.               +.
+Dryas octopetala                           ++
+Epipactis atrorubens                       +.
+Erica carnea                               32
+Gymnadenia conopsea ssp. conopsea          1+
+Hippocrepis comosa                         +.
+Leontodon incanus                          +1
+Melampyrum pratense                        +.
+Melica nutans s.str.                       1.
+Petasites paradoxus                        ++
+Phyteuma orbiculare s.str.                 +.
+Pinguicula vulgaris                        +1
+Platanthera bifolia                        +.
+Polygala chamaebuxus                       +1
+Potentilla erecta                          11
+Prunella grandiflora                       ++
+Pyrola rotundifolia ssp. rotundifolia      +.
+Rubus saxatilis                            1+
+Sesleria caerulea s.str.                   12
+Thesium alpinum                            +1
+Thymus praecox s.lat.                      1+
+Vaccinium myrtillus                        1.
+Vaccinium vitis-idaea                      +.
+Lotus corniculatus s.str.                  +1
+Valeriana officinalis s.lat.               +.
+Acer pseudoplatanus                        .+
+Amelanchier ovalis                         .+
+Antennaria dioica                          .+
+Aposeris foetida                           .+
+Briza media                                .1
+Carex firma                                .+
+Carlina acaulis ssp. acaulis               .+
+Danthonia decumbens s.lat.                 .+
+Gentiana utriculosa                        .+
+Laserpitium latifolium ssp. latifolium     .+
+Linum catharticum                          .1
+Melampyrum sylvaticum s.str.               .+
+Parnassia palustris                        .+
+Pimpinella major s.lat.                    .+
+Plantago media                             .+
+Rhinanthus glacialis                       .1
+Scabiosa lucida ssp. lucida                .+
+Selaginella selaginoides                   .+
+Teucrium montanum                          .1
+Tofieldia calyculata                       .1
+Valeriana saxatilis                        .1
+Viola hirta                                .+
+Euphrasia officinalis s.lat.               .+
+Carduus defloratus ssp. viridis            .1
+Carlina vulgaris s.lat.                    .+
+Ranunculus montanus s.str.                 .+
+END TABLE

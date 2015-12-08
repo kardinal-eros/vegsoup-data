@@ -1,0 +1,27 @@
+taxon                          layer cov
+Achillea setacea               hl    2b 
+Allium lusitanicum                   2b 
+Alyssum alyssoides                   2a 
+Antirrhinum majus                    r  
+Arenaria serpyllifolia s.str.        1  
+Astragalus onobrychis                2m 
+Bromus erectus                       1  
+Bromus tectorum                      1  
+Centaurea stoebe s.lat.              1  
+Chenopodium album s.lat.             +  
+Clinopodium acinos                   +  
+Echium vulgare ssp. vulgare          2a 
+Erodium cicutarium s.str.            +  
+Erysimum sylvestre s.str.            1  
+Festuca stricta ssp. sulcata         3  
+Galium lucidum                       +  
+Jovibarba globifera ssp. hirta       +  
+Poa angustifolia                     1  
+Scabiosa ochroleuca                  +  
+Securigera varia                     2a 
+Sedum album                          +  
+Seseli austriacum                    1  
+Sesleria caerulea s.str.             +  
+Pinus nigra ssp. nigra         tl    3  
+ 
+x: 16.10138, y: 47.81845, accuracy: 20, cov: 80, date: 30.05.2011, hcov: 80, hhl1: 0,3, hhl2: 0,05, htl: 5, location: Fischauer Vorberge, Burgruine Emmerberg, location.verbose: on top of old limestopne wall, mcov: 1, rupi: yes, syntaxon: Seselietum austriaci, tcov: 50, richness: 24

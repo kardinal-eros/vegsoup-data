@@ -1,0 +1,84 @@
+plot;abbr;layer;taxon;abundance
+1;gent clus clus;hl;Gentiana clusii;+
+1;poa alpi;hl;Poa alpina;+
+2;cera unif;hl;Cerastium uniflorum ;+
+2;arab bell;hl;Arabis pumila;+
+2;pedi aspl;hl;Pedicularis aspleniifolia;+
+2;saxi andr;hl;Saxifraga androsacea;+
+2;gent bava;hl;Gentiana bavarica ssp. subacaulis;+
+2;horn alpi brev;hl;Hutchinsia alpina ssp. brevicaulis;+
+4;pedi aspl;hl;Pedicularis aspleniifolia;+
+4;care fuli;hl;Carex fuliginosa;1
+5;cera unif;hl;Cerastium uniflorum;+
+6;arab bell;hl;Arabis pumila;+
+6;kobr simp;hl;Kobresia simpliciuscula;1
+6;saxi burs;hl;Saxifraga burseriana;+
+7;cham alpi;hl;Chamorchis alpina;+
+7;camp sche;hl;Campanula scheuchzeri;+
+7;care mucr;hl;Carex mucronata;2
+7;fest pseu dura;hl;Festuca pseudodura;+
+7;kobr simp;hl;Kobresia simpliciuscula;1
+7;saxi burs;hl;Saxifraga burseriana;+
+8;cera unif;hl;Cerastium uniflorum;+
+8;gent clus clus;hl;Gentiana clusii;+
+8;botr luna;hl;Botrychium lunaria;+
+8;arte geni;hl;Artemisia genipi;+
+8;voit niva;ml;Voitia niva­lis;+
+8;ento conc;ml;Entodon concinnus;+
+8;bili acce;ml;Mycobilimbia lobulata;+
+8;cata cine;ml;Catapyrenium cinereum;+
+8;leca epib epib;ml;Lecanora epibryon var. epibryon;+
+8;cetr eric;ml;Cetraria ericetorum;+
+8;flav cucu;ml;Cetraria cucullata;+
+8;clad pleu;ml;Cladonia pocillum;+
+8;solo bisp slat;ml;Solorina bispora;+
+8;pelt rufe;ml;Peltigera rufescens;+
+8;coll tena tena;ml;Collema tenax;+
+9;prim fari;hl;Primula farinosa;+
+9;cham alpi;hl;Chamorchis alpina;+
+9;saxi rudo;hl;Saxifraga rudolphiana;+
+9;flav niva;ml;Cetraria nivalis;+
+9;leca epib epib;ml;Lecanora epibryon var. epibryon;+
+9;flav cucu;ml;Cetraria cucullata;+
+9;clad pleu;ml;Cladonia pocillum;+
+9;solo bisp slat;ml;Solorina bispora;+
+10;tris dist;hl;Trisetum distichophyllum;+
+10;arte geni;hl;Artemisia genipi;+
+10;poa alpi;hl;Poa alpina;+
+10;myur tene;ml;Myurella apiculata;+
+10;ento conc;ml;Entodon concinnus;+
+10;orth stri;ml;Orthothecium strictum;+
+10;gymn aeru;ml;Gymnostomium aeroginosum;+
+10;calo ceri musc;ml;Caloplaca cerina var. muscorum;+
+11;botr luna;hl;Botrychium lunaria;+
+11;camp sche;hl;Campanula scheuchzeri;+
+11;flav niva;ml;Cetraria nivalis;+
+11;hypn cupr;ml;Hypnum cupressiforme;+
+12;leuc alpi;hl;Tanacetum alpinum;+
+12;arte geni;hl;Artemisia genipi;+
+12;saxi rudo;hl;Saxifraga rudolphiana;+
+12;doro glac glac;hl;Doronicum glaciale;+
+12;flav niva;ml;Ce­traria nivalis;+
+13;camp sche;hl;Campanula scheuchzeri;+
+13;erig unif;hl;Erigeron uniflorus;+
+14;botr luna;hl;Botrychium lunaria;+
+14;arte geni;hl;Artemisia genipi;+
+14;doro glac glac;hl;Doronicum glaciale;+
+14;erig unif;hl;Erigeron uniflorus;+
+14;myur tene;ml;Myurella apiculata;+
+14;flav niva;ml;Cetraria nivalis;+
+14;schi apoc;ml;Schistidium apocarpum;+
+14;hypn cupr;hl;Hypnum cupressiforme;+
+15;botr luna;hl;Botrychium lunaria;+
+15;myur tene;ml;Myurella apiculata;+
+15;cetr muri;ml;Coelocaulon muricatum;+
+16;camp sche;hl;Campanula scheuchzeri;+
+16;bisc laev laev;hl;Biscutella laevigata;+
+17;phyt orbi;hl;Phyteuma orbiculare;+
+17;flav niva;ml;Cetraria nivalis;+
+17;care eric;hl;Carex ericetorum;+
+17;bisc laev laev;hl;Biscutella laevigata;+
+17;care curv rose;hl;Carex curvula ssp. rosae;+
+17;poa alpi;hl;Poa alpina;+
+17;myur tene;ml;Myurella apiculata;+
+17;pert gemi;ml;Pertusaria geminipara;+

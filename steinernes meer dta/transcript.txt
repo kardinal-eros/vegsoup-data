@@ -1,0 +1,105 @@
+BEGIN HEAD
+plot                                         sssss
+                                             mmmmm
+                                             00000
+                                             12345
+accuracy                                     11111
+                                             00000
+                                                  
+bare                                            11
+                                             52355
+                                                  
+cov                                          99988
+                                             58755
+                                                  
+hcov                                         89978
+                                             55350
+                                                  
+hsl                                          00000
+                                                  
+htl1                                         00000
+                                                  
+htl2                                         00000
+                                                  
+mcov                                         2 12 
+                                             55005
+                                                  
+plsx                                         44444
+                                                  
+plsy                                         44444
+                                                  
+rock                                         00000
+                                                  
+scov                                         00000
+                                                  
+slope                                        213  
+                                             00000
+                                                  
+stones                                       00000
+                                                  
+tcov1                                        00000
+                                                  
+tcov2                                        00000
+                                                  
+richness                                     2221 
+                                             44629
+                                                  
+END HEAD
+BEGIN TABLE
+Carex curvula ssp. curvula                hl 3.4..
+Primula minima                               2.1..
+Avenula versicolor                           211..
+Homogyne alpina                              1+1..
+Gentiana nivalis                             r....
+Scorzoneroides helvetica                     212..
+Euphrasia minima s.str.                      +1+..
+Mutellina adonidifolia                       21+..
+Luzula alpinopilosa s.str.                   111..
+Agrostis rupestris                           1.2..
+Soldanella pusilla ssp. alpicola             +++12
+Deschampsia cespitosa                        +1...
+Gnaphalium supinum                           +....
+Festuca picturata                            131..
+Vaccinium myrtillus                          +....
+Persicaria vivipara                          ++1..
+Potentilla aurea                             +1...
+Hieracium alpinum                            r.1..
+Campanula scheuchzeri                        r+...
+Phleum commutatum                            .2...
+Anthoxanthum alpinum                         .1...
+Juncus jacquinii                             .+...
+Galium anisophyllon                          .+...
+Poa alpina                                   .1...
+Phyteuma orbiculare s.str.                   .+...
+Ranunculus montanus s.str.                   .+.r.
+Pimpinella major var. rubra                  .+...
+Alchemilla Sect. Coriaceae                   .+...
+Trifolium pratense ssp. nivale               .+...
+Phyteuma hemisphaericum                      ..+..
+Vaccinium gaultherioides                     ..+..
+Salix herbacea                               ..1..
+Hieracium nigrescens                         ..+..
+Vaccinium vitis-idaea                        ..+..
+Campanula alpina                             ..+..
+Huperzia selago ssp. selago                  ..+..
+Allium schoenoprasum var. alpinum            ...4.
+Carex nigra                                  ...11
+Carex davalliana                             ...21
+Ranunculus alpestris s.str.                  ...22
+Eriophorum angustifolium                     ...+2
+Bartsia alpina                               ...++
+Equisetum variegatum                         ...1.
+Carex ferruginea s.str.                      ...1.
+Willemetia stipitata ssp. stipitata          ...+.
+Trichophorum cespitosum ssp. cespitosum      ....4
+Gentiana bavarica s.str.                     ....+
+Dibaeis baeomyces                         ml 1.+..
+Cladonia pyxidata                            1....
+Polytrichum alpinum                          1++..
+Cetraria islandica ssp. islandica            +.+..
+Dicranum scoparium                           ++...
+Thamnolia vermicularis var. vermicularis     ..+..
+Hylocomium splendens                         ..1..
+Cladonia rangiferina                         ..+..
+Warnstorfia exannulata                       ...21
+END TABLE

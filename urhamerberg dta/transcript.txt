@@ -1,0 +1,122 @@
+BEGIN HEAD
+plot                                  uuuuuuuuuuuuuuuuuuu
+                                      hhhhhhhhhhhhhhhhhhh
+                                      0000000001111111111
+                                      1234567890123456789
+accuracy                              1111111111111111111
+                                      0000000000000000000
+                                                         
+bare                                  1210111122171115322
+                                                         
+cov                                      1               
+                                      9990999999999999999
+                                      9890999988939995788
+                                                         
+hcov                                  291 89 976 1  9 789
+                                      5025008505101184005
+                                                         
+hsl                                            N         
+                                      435542431A526440042
+                                                         
+htl1                                    1  2 322     1233
+                                      0080080367000009732
+                                                         
+htl2                                                   2 
+                                      6080600000900700020
+                                                         
+mcov                                  1    1 123     1121
+                                      0242251250111110800
+                                                         
+plsx                                  1111111111111111111
+                                      6666666666666666666
+                                                         
+plsy                                  1111111111111111111
+                                      6666666666666666666
+                                                         
+rock                                  0000000000000000000
+                                                         
+scov                                  93696 9   48915  4 
+                                      6508077338509000007
+                                                         
+slope                                       11   1 1   1 
+                                      5535540087807286507
+                                                         
+stones                                0000000000000000000
+                                                         
+t1cov                                      8 887     9887
+                                      0040030555000000000
+                                                         
+t2cov                                 1 7 4     7  9     
+                                      0000500000000800030
+                                                         
+richness                              1111111111 1  11211
+                                      4664875458854746263
+                                                         
+END HEAD
+BEGIN TABLE
+Dicranum scoparium                 ml 1.1...++.2...+.11++
+Eurhynchium striatum                  1+++.+..+1+..+.1.++
+Polytrichum formosum                  +...++..22.1...1221
+Pleurozium schreberi                  1+..+2+2+1+.....+12
+Sorbus aucuparia ssp. aucuparia       .+.................
+Hylocomium splendens                  ....+1..........+1.
+Plagiomnium undulatum                 .....+..+.....+....
+Leucobryum glaucum                    .....+.........++..
+Hypnum cupressiforme                  .......+++..+..1111
+Dicranella cerviculata                .......++......+...
+Hieracium murorum                     ...............r...
+Bazzania trilobata                    ................+..
+Larix decidua                      hl r.......rr.........
+Rubus fruticosus agg.                 1111..1+++.+..5+1..
+Avenella flexuosa                     252+421443+1...1323
+Dryopteris carthusiana s.str.         ++++++++++...r++11+
+Vaccinium myrtillus                   ++++14+312++...+313
+Rubus idaeus                          r+1++.........+.+..
+Moehringia trinervia                  .+..............+..
+Dryopteris dilatata                   .++++.+++.....+.++2
+Calamagrostis epigejos                .+.+1.........+....
+Epilobium angustifolium               .r.........r.......
+Frangula alnus                        ..+.++.+1+++..+++++
+Sorbus aucuparia ssp. aucuparia       ..r..+.+.r.+....+++
+Carex pilulifera ssp. pilulifera      ..+.+.++++.+.r.+.+.
+Brachypodium sylvaticum               ..+...........+....
+Picea abies                           ...++2.1.1..+...++1
+Urtica dioica ssp. dioica             ...r..........2....
+Carex brizoides                       ...++..............
+Luzula luzuloides                     ...r...............
+Carex leporina                        ....+..............
+Molinia caerulea s.str.               ....+..............
+Juncus effusus ssp. effusus           ....+......r.......
+Abies alba                            .....2.1.1++...++3+
+Fagus sylvatica                       .....r...r.....r.r.
+Pinus sylvestris                      .....+.............
+Quercus robur                         .....r..........r..
+Melampyrum pratense                   .....+.............
+Holcus mollis                         ......+............
+Rumex acetosella ssp. acetosella      ......+............
+Betula pendula                        .........r.+....r..
+Blechnum spicant                      .........r.........
+Fragaria vesca                        ...........r.......
+Teucrium scorodonia                   ...........+.......
+Solidago gigantea ssp. serotina       ..............+....
+Festuca gigantea                      ..............r....
+Picea abies                        sl 53212+5...1.1+3..1.
+Betula pendula                        22..2.........1....
+Frangula alnus                        +++.+.+112+1+22..+2
+Abies alba                            +135311+..+2.....3.
+Fagus sylvatica                       ..+1..+...3452.....
+Quercus robur                         ..r................
+Sorbus aucuparia ssp. aucuparia       ..+...+............
+Pinus sylvestris                      .....+.............
+Larix decidua                         ...........2.......
+Sambucus nigra                        ..............1....
+Betula pendula                    tl2 2...3..............
+Fagus sylvatica                       ..+..............1.
+Abies alba                            ..3................
+Picea abies                           ..3.......4..5.....
+Fagus sylvatica                   tl1 ..1..1.............
+Picea abies                           .....2.555.....5535
+Abies alba                            .....3...........3.
+Pinus sylvestris                      .....2..........1..
+Larix decidua                         ........11......1..
+END TABLE

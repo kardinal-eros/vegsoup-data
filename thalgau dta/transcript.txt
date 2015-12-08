@@ -1,0 +1,115 @@
+BEGIN HEAD
+plot                                       tttt
+                                           hhhh
+                                           0000
+                                           1234
+accuracy                                   1111
+                                           0000
+                                               
+bare                                       0000
+                                               
+hcov                                       7999
+                                           5570
+                                               
+hsl                                        0000
+                                               
+htl1                                       0000
+                                               
+htl2                                       0000
+                                               
+mcov                                       51  
+                                           0531
+                                               
+plsx                                       4444
+                                               
+plsy                                       4444
+                                               
+rock                                       0000
+                                               
+scov                                       0000
+                                               
+slope                                      3234
+                                           0000
+                                               
+stones                                     0000
+                                               
+t1cov                                      0000
+                                               
+t2cov                                      0000
+                                               
+richness                                   3433
+                                           6000
+                                               
+END HEAD
+BEGIN TABLE
+Ajuga reptans                           hl +.1+
+Alchemilla Sect. Alchemilla                +...
+Anemone nemorosa                           ++..
+Anthoxanthum odoratum s.str.               111+
+Arrhenatherum elatius                      1122
+Briza media                                1211
+Carex digitata                             +...
+Carex flacca ssp. flacca                   ++++
+Carex montana                              1.22
+Carex panicea                              +...
+Carpinus betulus                           r+..
+Cynosurus cristatus                        +...
+Dactylis glomerata ssp. glomerata          11+.
+Festuca arundinacea s.lat.                 2112
+Festuca nigrescens                         1+..
+Festuca pratensis s.str.                   +11.
+Festuca rubra s.lat.                       11.+
+Filipendula ulmaria                        +...
+Fraxinus excelsior                         r.++
+Galium album s.str.                        1211
+Glechoma hederacea                         r...
+Holcus lanatus                             21.1
+Homalotrichon pubescens ssp. pubescens     +.+.
+Hypericum maculatum s.str.                 +...
+Lotus corniculatus s.str.                  1211
+Lysimachia nemorum                         +...
+Molinia caerulea agg.                      3322
+Plantago lanceolata                        +111
+Potentilla erecta                          +222
+Primula elatior s.str.                     +...
+Salix caprea                               r...
+Sanguisorba officinalis                    r..+
+Scabiosa columbaria s.str.                 212+
+Trifolium pratense ssp. pratense           ++++
+Trisetum flavescens ssp. flavescens        12..
+Valeriana dioica                           r...
+Acer pseudoplatanus                        .r..
+Betula pendula                             .r..
+Carex pallescens                           .+..
+Carex pilulifera ssp. pilulifera           .++1
+Colchicum autumnale                        .r..
+Crepis biennis                             .++.
+Euphorbia cyparissias                      .1..
+Fragaria vesca                             .+.+
+Galium pumilum                             .+..
+Heracleum sphondylium ssp. sphondylium     .+..
+Hypericum montanum                         .+..
+Knautia maxima ssp. maxima                 .+..
+Phyteuma spicatum                          .+..
+Polypodium vulgare s.str.                  .+..
+Quercus robur                              .+..
+Rosa arvensis                              .r..
+Taraxacum sect. Ruderalia                  .+..
+Tragopogon orientalis                      .++.
+Trifolium medium ssp. medium               .+..
+Viola reichenbachiana                      .+..
+Betonica officinalis                       ..r.
+Brachypodium pinnatum s.str.               ..2+
+Danthonia decumbens ssp. decumbens         ..rr
+Knautia arvensis ssp. arvensis             ..r.
+Leontodon hispidus s.lat.                  ..1.
+Linum catharticum                          ..++
+Rhinanthus minor                           ..++
+Rosa canina s.str.                         ..r.
+Sanguisorba minor ssp. minor               ..++
+Carex caryophyllea                         ...+
+Carex hirta                                ...+
+Hieracium pilosella                        ...+
+Pastinaca sativa ssp. sativa               ...r
+Vicia cracca s.str.                        ...+
+END TABLE

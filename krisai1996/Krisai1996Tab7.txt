@@ -1,0 +1,87 @@
+Aufnahme Nr.                 1112569162255526
+                             4575513672367844
+
+Groesse qm x10               1014444104444440
+                             0900000030000009
+
+Exposition                   WSWSWWNWNNSSWWSW
+                             .W.W..W.W..W..W.
+
+Neigung Grad                 4213325423235321
+                             0000000000000000
+
+Baumschicht. Höhe m          33343333N3434334
+                             00500055A0000050
+
+Baumschicht: Deckung %       78798799N8999999
+                             00000000A0005000
+
+Strauchschicht: Deckung %    0000000070002000
+                             5000000000000000
+
+Krautschicht: Deckung %      2477897578287756
+                             0000000000000000
+
+Fagus sylvatica          @tl 3425345432431343
+Fagus sylvatica          @sl ..+1+.+.......1.
+Fagus sylvatica          @hl ..+1+.+.......1.
+Carex pilosa             @hl 3344234+........
+Vinca minor              @hl 2...+...........
+Galium odoratum          @hl .+.......+1..1..
+Convallaria majalis      @hl .....+......+2.+
+Acer campestre           @hl .+.........+..1+
+Daphne mezereum          @hl .............+.+
+Acer pseudoplatanus      @tl 1.1.2.+..1.....1
+Acer pseudoplatanus      @sl .++.+++3.+....++
+Acer pseudoplatanus      @hl .++.+++3.+....++
+Fraxinus excelsior       @tl ..1.+1.....121..
+Fraxinus excelsior       @sl +1.1.21+..+..+..
+Fraxinus excelsior       @hl +1.1.21+..+..+..
+Ulmus glabra             @tl +.2+...12...11..
+Ulmus glabra             @sl ..++.++..+...+..
+Ulmus glabra             @hl ..++.++..+...+..
+Anemone nemorosa         @hl +++1..+1+41..+.1
+Carex sylvatica          @hl ..1....++.++12+2
+Aposeris foetida         @hl .++..+.2...+++.2
+Hepatica nobilis         @hl 1+..1+++....+...
+Lamiastrum montanum      @hl +.+..+..31...1.+
+Euphorbia amygdaloides   @hl +....+.+...+++2.
+Phyteuma spicatum        @hl .+++..++.....+.+
+Hedera helix             @hl +.+1.+1+.....+..
+Pulmonaria officinalis   @hl ++.....+1...++..
+Aegopodium podagraria    @hl 1...1+.....2+...
+Lilium martagon          @hl +..+..++....++..
+Symphytum tuberosum      @hl +.1+...+.......+
+Salvia glutinosa         @hl +...1+......3..+
+Mercurialis perennis     @hl ....2+.....2++..
+Athyrium filix femina    @hl ...+...+.++...+.
+Carpinus betulus         @hl ..1......21....1
+Prunus avium             @hl +++......1......
+Galium sylvaticum        @hl .....+++.......+
+Paris quadrifolia        @hl .....+..+..+.+..
+Carex alba               @hl 1..........+..+.
+Brachypodium sylvaticum  @hl .......1...+...+
+Quercus robur            @hl .+..........1...
+Lathyrus vernus          @hl ......++........
+Oxalis acetosella        @hl ......++.1......
+Melittis melissophyllum  @hl ......+.....+...
+Veronica urticifolia     @hl ......++........
+Lonicera xylosteum       @hl +.......+.......
+Abies alba               @hl ..+........1....
+Viola riviniana          @hl .......+......+.
+Carex digitata           @hl .......+......+.
+Dryopteris filix mas     @hl .........++.....
+Viola reichenbachiana    @hl .........+.....+
+Calamagrostis varia      @hl ......+.......+.
+Sanicula europaea        @hl ...........+..+.
+Picea abies              @hl 11..1++1........
+Allium ursinum           @hl ...+2......1....
+Listera ovata            @hl .....+....++....
+Sambucus nigra           @hl .........+....+.
+Luzula luzuloides        @hl ..............+1
+Polytrichum formosum     @ml ........+.....+.
+Crataegus monogyna       @hl ........+..1....
+Polygonatum multiflorum  @hl ........2..+....
+Asarum europaeum         @hl ......+....+....
+Campanula trachelium     @hl ......+........+
+Hieracium murorum        @hl ........+......+

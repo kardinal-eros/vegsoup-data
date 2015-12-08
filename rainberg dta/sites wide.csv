@@ -1,0 +1,4 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;soil;date;latitude;longitude;accuracy;alliance;alliance.author;association;comment;location;observer
+rb01;95;60;50;35;80;7;22;14;5;0,7;0,2;16;16;F;0;15;0;0;2014-06-21;47.795172N;13.036375E;10;Carpinion betuli;Issler 1931;;am Gipfel des Rainberges, dort signifikante Barstellen mit Moosen ;Rainberg;R. Kaiser
+rb02;97;50;50;45;70;10;10;7;5;0,5;0,2;25;10;S;50;35;0;0;2014-06-21;47.794642N;13.036727E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;entlang der Felskerbe (ehemaliger Weg);Rainberg;R. Kaiser
+rb03;90;45;75;60;70;10;15;12;4;0,5;0,2;10;25;NW;20;20;0;0;2014-06-21;47.795276N;13.035772E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;auschließlich südl. des Pfades in Richtung zur Felskante;Rainberg;R. Kaiser

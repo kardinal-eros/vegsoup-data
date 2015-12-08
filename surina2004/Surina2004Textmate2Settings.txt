@@ -1,0 +1,7 @@
+#	line height setting
+#	defaults to 0
+#	preview 179%	
+defaults write com.macromates.TextMate.preview fontLeadingDelta -float -0.85
+
+#	find/replace character to line break 
+#	activate regular expressions and replace with \n 

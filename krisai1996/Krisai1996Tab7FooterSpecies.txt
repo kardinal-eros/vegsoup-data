@@ -1,0 +1,11 @@
+16: + Aruncus dioicus, + Urtica dioica
+17: + Chrysosplenium alternifolium, + Equisetum hyemale, + Stachys sylvatica
+22: + Taraxacum officinale, + Galium aparine, + Hieracium murorum, + Luzula pilosa, + Moehringia trinervia
+23: + Prunus padus
+24: + Pinus sylvestris
+56: + Arum maculatum, + Equisetum maximum
+57: + Cephalanthera damasonium, + Comus sanguinea
+58: + Euonymus europaea
+64: + Clematis vitalba, + Deschampsia cespitosa, + Poa nemoralis
+67: + Actaea spicata, + Polygonum bistorta
+93: + Mycelis muralis

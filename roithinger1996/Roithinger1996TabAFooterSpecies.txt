@@ -1,0 +1,75 @@
+1: 1 Geum rivale
+2: + Agrostis gigantea
+3: + Alchemilla fissa, + Helianthemum alpestre, + Ligusticum mutellinoides, + Luzula campestris, + Gnaphalium hoppeanum, + Minuartia austriaca
+4: + Alchemilla fissa, + Cerastium fontanum
+5: + Agrostis gigantea
+6: 2 Epilobium alsinifolium
+7: 1 Gnaphalium hoppeanum, + Carex omithopodoides, + Pinguicula alpina, + Helianthemum alpestre
+9: + Carduus defioratus
+10: + Alchemilla fissa, + Pinguicula alpina
+13: + Epilobium alsinifolium, + Juncus jacquinii
+15: + Gnaphalium hoppeanum, + Luzula campestris
+16: + Pyrola minor
+17: + Cerastium fontanum, + Hieracium sylvaticum, + Campanula barbata, + Pyrola minor, 1 Lonicera caerulea, + Picea abies, + Empetrum nigrum ssp. hermaphroditum, + Sagina saginoides
+18: + Cerastium cerastoides, + Taraxacum officinale agg.
+19: + Alchemilla fissa
+20: 1 Sorbus chamaemespilus, 2 Rubus saxatilis, 1 Saxifraga rotundifolia, + Knautia dipsacifolia, + Oxalis acetosella, + Silene pusilla, + Solidago virgaurea, + Valeriana tripteris ssp. austriaca
+21: + Luzula campestris, + Heracleum austriacum
+22: + Alchemilla fissa, + Luzula campestris
+25: + Salix reticulata, 1 Ligusticum mutellinoides, + Pyrola minor
+26: + Potentilla crantzii
+27: + Hieracium sylvaticum, + Melampyrum sylvaticum
+29: + Sagina saginoides
+30: 1 Empetrum nigrum ssp. hermaphroditum, + Arabis ciliata, + Luzula campestris
+31: + Helianthemum alpestre
+32: + Botrychium lunaria, + Luzula campestris, + Primula elatior agg.
+33: + Botrychium lunaria, + Luzula campestris
+34: + Saxifraga rotundifolia
+36: + Cerastium fontanum, + Primula elatior agg., + Lathyrus pratensis
+37: 1 Epilobium alsinifolium
+38: + Ajuga pyramidalis
+39: 1 Picea abies, + Carduus defloratus, + Hieracium sylvaticum, + Luzula campestris, 1 Ranunculus nemorosus, + Knautia dipsacifolia
+40: + Botrychium lunaria
+41: + Pyrola minor
+43: + Helianthemum alpestre
+46: + Sagina saginoides
+47: + Epilobium alpestre
+48: + Geum rivale, + Epilobium alsinifolium
+49: + Taraxacum officinale agg., + Primula elatior agg.
+50: + Sagina saginoides
+51: + Epilobium alsinifolium, + Arabis ciliata, + Draba aizoides ssp. aizoides, + Epilobium alpestre
+52: + Epilobium alsinifolium, + Geum rivale, + Plantago media
+54: + Poa pratensis
+55: + Geum rivale, 1 Silene nutans , + Arabis ciliata
+56: + Luzula campestris, + Carex aterrima, + Botrychium lunaria, + Carduus defloratus, + Sagina saginoides, + Gymnadenia conopsea
+58: + Carex digitata, + Arabis ciliata, + Leucanthemum ircutianum, + Plantago media
+59: + Sorbus aucuparia, 1 Solidago virgaurea
+60: + Salix appendiculata, + Luzula luzulina, + Primula elatior agg., + Leucanthemum ircutianum, + Valeriana saxatilis
+61: + Arabis ciliata, + Ranunculus nemorosus
+62: + Valeriana tripteris ssp. austriaca, + Betonica alopecuros, + Carduus defloratus
+63: + Silene pusilla, + Dryopteris villarii
+65: + Sorbus chamaemespilus, + Salix appendiculata, + Geum rivale, + Dryopteris villarii
+67: + Ranunculus nemorosus, + Luzula luzulina
+69: + Pinguicula alpina
+70: + Pinguicula alpina
+71: + Empetrum nigrum ssp. hermaphroditum
+76: + Sagina saginoides
+77: + Sagina saginoides
+78: 1 Viola palustris
+79: 1 Geum rivale, + Epilobium alpestre, + Viola palustris
+81: + Ranunculus nemorosus, + Oxalis acetosella
+82: 1 Dryopteris assimilis, + Oxalis acetosella, + Luzula luzulina, + Solidago virgaurea, + Valeriana tripteris ssp. austriaca
+83: + Poa pratensis, + Carduus defloratus, 1 Lamiastrum galeobdolon agg.
+84: 1 Hieracium pilosella
+85: + Sagina saginoides
+88: 1 Luzula sudetica, + Cirsium spinosissimum
+89: + Luzula campestris
+91: 2 Agrostis gigantea, + Plantago major, 1 Luzula sudetica
+92: + Globularia nudicaulis
+93: + Gnaphalium hoppeanum
+94: 2 Agrostis gigantea, + Carduus defloratus, + Silene pusilla, + Pedicularis rostrato-capitata
+95: + Arabis ciliata, + Carduus defloratus
+96: + Cerastium fontanum, + Salix reticulata
+99: + Cerastium fontanum
+101: + Melica nutans
+104: + Luzula luzulina

@@ -1,0 +1,45 @@
+BEGIN HEADER
+Aufn.Nr.                              453
+Seehöhe mx10                          191
+Neigung°                               25
+Exposition                            WSW
+Fläche m2                               7
+Deckung % K                            70
+Deckung % M                             5
+END HEADER
+
+BEGIN TABLE
+Elyna myosuroides                @hl    3
+Dryas octopetala                 @hl    2
+Agrostis alpina                  @hl    1
+Hedysarum hedysaroides           @hl    1
+Festuca vers.ssp.brachystachys   @hl    1
+Oxytropis jacqinii               @hl    1
+Helianthemum alpestre            @hl    1
+Festuca pumila                   @hl    +
+Androsace chamaejasme            @hl    +
+Silene acaulis                   @hl    +
+Gentiana nivalis                 @hl    +
+Potentilla crantzii              @hl    +
+Minuartia sedoides               @hl    +
+Carex capillaris                 @hl    +
+Potentilla clusiana              @hl    4
+Saussurea pygmaea                @hl    +
+Saussurea discolor               @hl    +
+Pedicularis verticillata         @hl    +
+Minuartia gerardii               @hl    +
+Euphrasia salisburgensis         @hl    +
+Festuca vers.ssp.pallidula       @hl    +
+Phyteuma orbiculare              @hl    +
+Gentianella germanica            @hl    +
+Galium anisophyllum              @hl    +
+Polygonum viviparum              @hl    +
+Carex sempervirens               @hl    +
+Primula auricula                 @hl    1
+Luzula glabrata                  @hl    4
+Cerastium arvense                @hl    +
+Trollius europaeus               @hl    +
+Sesleria varia                   @hl    4
+Poa alpina                       @hl    4
+Campanula scheuchzeri            @hl    +
+END TABLE

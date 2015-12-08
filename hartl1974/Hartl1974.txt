@@ -1,0 +1,53 @@
+BEGIN HEAD
+Aufnahme Nummer                     1 2 3 4 5 6 7
+Fläche in m2                        1 0 0 0 0 0 0
+                                    0 3 3 5 2 3 1
+Deckung in %                        0 1 1 0 1 1 0
+                                    9 0 0 9 0 0 9
+                                    0 0 0 0 0 0 0
+END HEAD
+
+BEGIN TABLE
+Kobresia simpliciuscula        @hl  + 4 4 4 5 5 4
+Potentilla erecta              @hl  2 1 1 2 2 1 2
+Primula farinosa               @hl  + + 1 2 2 1 1
+Valeriana dioica               @hl  1 1 2 1 + 1 +
+Drepanocladus intermedius      @ml  + + + 1 2 2 +
+Campylium stellatum            @ml  1 + 1 + 1 1 1
+Bartsia alpina                 @hl  + + + + r + r
+Juncus alpino-articulatus      @hl  r + r + + + 1
+Carex davalliana               @hl  4 r + + r r r
+Carex flava lepidocarpa        @hl  1 + 2 1 + r 1
+Selaginella selaginoides       @hl  + + + 1 + + +
+Tofieldia calyculata           @hl  1 + + + + + .
+Eriophorum latifolium          @hl  + + + + r + .
+Trichophortim cespitosum       @hl  2 1 1 + + + .
+Pinguicula vulgaris            @hl  r r + . r r .
+Dactylorhiza majalis           @hl  1 . . + r r r
+Equisetum variegatum           @hl  + . + + . + r
+Aster bellidiastrum            @hl  2 2 2 + . . 2
+Sesleria varia                 @hl  + r r . r . r
+Veratrum album lobelianum      @hl  . r r r . r r
+Parnassia palustris            @hl  . + . . + + +
+Carex nigra                    @hl  . . . + + + +
+Willemetia stipitata           @hl  . . . + 2 . 1
+Euphrasia minima               @hl  . + . . r . .
+Phyteuma orbiculare            @hl  . . r . . r .
+Campanula scheuchzeri          @hl  . r . . . r .
+Eriophorum angustifolium       @hl  . . . . . r +
+Cirsium palustre               @hl  . . . r . . .
+Carex ferruginea               @hl  + . . r . . .
+Polygala alpestris             @hl  . . . r . . .
+Gymnadenia conopsea            @hl  . . . r . . .
+Prunella vulgaris              @hl  . . . r . . .
+Nardus stricta                 @hl  . . r . . . .
+Ranunculus nemorosus           @hl  . . r . . . .
+Linum catharticum              @hl  + . r . . . .
+Gentiana kochiana              @hl  . r . . . . .
+Carex sempervirens             @hl  . r . . . . .
+Pedicularis rostrato capitata  @hl  . r . . . . .
+Leontodon hispidus             @hl  . r . . . . .
+Briza media                    @hl  . r . . . . .
+Carex paniculata               @hl  r . . . . . .
+Rhinanthus aristatus           @hl  r . . . . . .
+END TABLE

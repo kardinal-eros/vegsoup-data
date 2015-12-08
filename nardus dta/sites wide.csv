@@ -1,0 +1,47 @@
+plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;location;mangement;altitude;accuracy;latitude;longitude;observer
+E4486N2676-1;94;0;0;0;94;5;0;0;0;0,25;0,1;5;5;N;5;3;1;0;2012-06-19;Söllnalm (Krimmler Achental);pasture;1590;10;47.175996N;12.186099E;R. Kaiser
+E4492N2676-1;94;0;0;0;90;15;0;0;0;0,2;0,1;5;5;W;25;5;1;0;2012-06-19;Poschalm (Obersulzbachtal);pasture;1573;10;47.175903N;12.263135E;R. Kaiser
+E4503N2682-1;93;0;0;0;75;50;0;0;0;0,3;0,05;5;5;NW;5;7;0;0;2012-06-19;Siernerbräualm (Hollersbachtal);pasture;1101;10;47.228589N;12.414368E;R. Kaiser
+E4519N2679-1;99;0;0;0;97;5;0;0;0;0,25;0,05;5;5;SW;30;0;1;0;2012-06-19;Schneiderau (Stubachtal);pasture;1223;10;47.193402N;12.617699E;R. Kaiser
+E4519N2702-1;90;0;0;0;95;5;0;0;0;0,2;0,03;5;5;S;10;2;2;0;2012-06-26;Spielbergalm (Saalbach);pasture;1330;10;47.407760N;12.631714E;R. Kaiser
+E4519N2702-2;97;0;0;0;97;3;0;0;0;0,3;0,05;5;5;S;15;0;3;0;2012-06-26;Spielbergalm (Saalbach);pasture;1307;10;47.407394N;12.630182E;R. Kaiser
+E4520N2730-1;97;0;0;0;95;25;0;0;0;0,11;0,05;5;5;W;5;0;3;0;2012-06-26;Heutal (Heutal);meadow;1026;10;47.658154N;12.657484E;R. Kaiser
+E4549N2774-1;99;0;0;0;98;2;0;0;0;0,25;0,1;5;5;W;35;0;1;0;2012-09-04;Gumperding (Oichtental);meadow;486;10;48.044667N;13.066522E;R. Kaiser
+E4557N2674-1;99;0;0;0;75;30;0;0;0;0,25;0,15;5;5;NE;35;0;1;0;2012-09-03;Haberreith (Bad Hofgastein);pasture;1216;10;47.136842N;13.110771E;R. Kaiser
+E4557N2674-2;98;0;0;0;95;2;0;0;0;0,15;0,1;5;5;NE;30;0;2;0;2012-09-03;Haberreith (Bad Hofgastein);pasture;1201;10;47.137130N;13.109942E;R. Kaiser
+E4560N2784-1;90;0;0;0;85;15;0;0;0;0,25;0,02;5;5;E;25;0;13;0;2012-08-09;Leiterseck (Moosbachtal);meadow;516;10;48.130600N;13.210685E;R. Kaiser
+E4566N2755-1;98;0;0;0;98;1;0;0;0;0,3;0,1;5;5;SE;20;0;1;0;2014-05-10;Burschach (Kolomannsberg);meadow;850;10;47.865618N;13.275072E;R. Kaiser
+E4566N2756-1;100;0;0;0;100;0;0;0;0;0,7;0,2;5;5;S;10;0;0;0;2014-05-10;Schernthan (Kolomannsberg);meadow;960;10;47.869086N;13.280870E;R. Kaiser
+E4566N2783-1;98;0;0;0;98;1;0;0;0;0,4;0,1;5;5;S;25;0;2;0;2012-06-27;Peretseck (Kobernaußerwald);meadow;636;10;48.112686N;13.295259E;R. Kaiser
+E4567N2756-1;100;0;0;0;100;13;0;0;0;0,3;0,1;5;5;NE;20;0;0;0;2012-06-29;Tiefgraben (Mondseer Flyschberge);meadow;650;10;47.870507N;13.297566E;R. Kaiser
+E4567N2757-1;95;0;0;0;94;5;0;0;0;0,4;0,1;5;5;NE;20;0;5;0;2012-06-29;Hochserner (Mondseer Flyschberge);pasture;729;10;47.886218N;13.288946E;R. Kaiser
+E4570N2783-1;98;0;0;0;68;30;0;0;0;0,3;0,1;5;5;SW;7;0;2;0;2012-09-04;Warmanstadl (Kobernaußerwald);meadow;675;10;48.116384N;13.351815E;R. Kaiser
+E4572N2783-1;95;0;0;0;90;8;0;0;0;0,2;0,1;5;5;S;25;0;5;0;2012-09-04;Stelzen (Kobernaußerwald);meadow;683;10;48.117187N;13.371178E;R. Kaiser
+E4577N2734-1;97;0;0;0;95;5;0;0;0;0,2;0,05;5;5;W;20;1;2;0;2012-06-21;Postalm (Osterhorngruppe);pasture;1358;10;47.670784N;13.416790E;R. Kaiser
+E4577N2734-3;97;0;0;0;95;25;0;0;0;0,11;0,05;5;5;W;5;0;3;0;2012-06-21;Postalm (Osterhorngruppe);pasture;1405;10;47.673609N;13.418503E;R. Kaiser
+E4577N2772-1;99;0;0;0;95;60;0;0;0;0,35;0,1;5;5;F;;0;1;0;2012-08-09;Kreuzerbauern Moos (Fornach);meadow;522;10;48.011925N;13.435848E;R. Kaiser
+E4577N2773-1;100;0;0;0;99;3;0;0;0;0,3;0,1;5;5;SW;3;0;0;0;2012-09-04;Fornach (Fornach);pasture;553;10;48.022175N;13.437693E;R. Kaiser
+E4580N2753-1;100;0;0;0;90;70;0;0;0;0,2;0,1;5;5;F;0;0;0;0;2012-08-17;Moos W Riedelbach (Mondseer Flyschberge);meadow;633;10;47.841722N;13.463093E;R. Kaiser
+E4582N2746-1;99;0;0;0;98;75;0;0;0;0,3;0,15;5;5;W;2;0;1;0;2012-06-21;Moosalm (Schafberg);pasture;768;10;47.773133N;13.485294E;R. Kaiser
+E4583N2752-1;100;0;0;0;98;30;0;0;0;0,25;0,15;5;5;F;0;0;0;0;2012-08-14;Egelsee bei Miesling (Mondseer Flyschberge);meadow;639;10;47.834549N;13.504526E;R. Kaiser
+E4583N2752-2;99;0;0;0;98;10;0;0;0;0,35;0,1;5;5;NW;5;0;1;0;2012-08-15;Egelsee bei Miesling (Mondseer Flyschberge);meadow;630;10;47.831600N;13.505113E;R. Kaiser
+E4584N2763-1;100;0;0;0;100;1;0;0;0;0,3;0,1;5;5;S;15;0;0;0;2012-08-09;Hillstatt (Alkersdorf);meadow;662;10;47.926040N;13.522996E;R. Kaiser
+E4584N2763-2;100;0;0;0;99;3;0;0;0;0,25;0,1;5;5;SE;5;0;0;0;2012-08-09;Hillstatt (Alkersdorf);meadow;662;10;47.927091N;13.520640E;R. Kaiser
+E4589N2758-1;98;0;0;0;98;5;0;0;0;0,6;0,05;5;5;NN;15;0;2;0;2012-06-27;Schmaußingeralm (Traun- und Atterseer Flyschberge);meadow;807;10;47.879463N;13.589766E;R. Kaiser
+E4594N2768-1;98;0;0;0;98;3;0;0;0;0,3;0,05;5;5;S;20;0;2;0;2012-06-28;Illingbuch (Vöklabruck);meadow;490;10;47.972564N;13.668717E;R. Kaiser
+E4598N2717-1;99;0;0;0;97;10;0;0;0;0,25;0,1;5;5;N;5;0;1;0;2012-08-02;Oberfeld (Dachstein);pasture;1794;10;47.507546N;13.676727E;R. Kaiser
+E4602N2817-1;100;0;0;0;97;20;0;0;0;0,3;0,15;5;5;F;0;0;0;0;2012-07-12;Steinbach (Sauwald);meadow;443;10;48.407382N;13.803327E;R. Kaiser
+E4606N2751-1;99;0;0;0;98;5;0;0;0;0,3;0,07;5;5;S;20;0;1;0;2012-08-02;Speitzlsteinalm (Traunsee);pasture;1083;10;47.813028N;13.811405E;R. Kaiser
+E4612N2764-1;98;0;0;0;97;10;0;0;0;0,4;0,1;5;5;S;10;0;2;0;2012-06-28;Oberriedel (St. Konrad);pasture;782;10;47.927516N;13.900219E;R. Kaiser
+E4618N2751-1;90;0;0;0;90;1;0;0;0;0,3;0,05;5;5;S;15;0;10;0;2012-06-29;Kasberg (Almtal);pasture;1584;10;47.805655N;13.977727E;R. Kaiser
+E4621N2748-1;97;0;0;0;95;3;0;0;0;0,2;0,04;5;5;SE;20;0;1;2;2012-06-29;Langscheidalm (Steyerlingtal);pasture;836;10;47.780713N;14.016097E;R. Kaiser
+E4622N2751-1;97;0;0;0;95;5;0;0;0;0,3;0,04;5;5;E;15;1;2;0;2012-08-08;Ahornalm (Steyerlingtal);pasture;1349;10;47.799286N;14.026983E;R. Kaiser
+E4624N2824-1;96;0;0;0;95;2;0;0;0;0,25;0,05;5;5;S;10;0;4;0;2012-07-12;Neukirchen am Walde (Südl. Mühlviertel);meadow;588;10;48.461289N;14.106173E;R. Kaiser
+E4625N2725-1;99;0;0;0;97;5;0;0;0;0,25;0,02;5;5;SW;25;0;1;0;2012-08-07;Egger (Tauplitz);pasture;1250;10;47.568085N;14.040862E;R. Kaiser
+E4630N2768-1;99;0;0;0;98;3;0;0;0;0,35;0,07;5;5;E;10;0;1;0;2012-08-12;Hochkogel (Schlierbach);pasture;616;10;47.949801N;14.149897E;R. Kaiser
+E4642N2736-1;98;0;0;0;96;3;0;0;0;0,25;0,05;5;5;S;25;0;2;0;2012-08-08;Wurzeralm (Warscheneck);pasture;1589;10;47.661516N;14.286557E;R. Kaiser
+E4642N2736-2;99;0;0;0;98;5;0;0;0;0,3;0,1;5;5;SW;5;0;1;0;2012-08-08;Wurzeralm (Warscheneck);pasture;1638;10;47.658406N;14.282794E;R. Kaiser
+E4643N2821-1;99;0;0;0;99;2;0;0;0;0,25;0,1;5;5;E;2;0;1;0;2012-07-12;Baumgarten (Südl. Mühlviertel);meadow;716;10;48.423014N;14.356719E;R. Kaiser
+E4643N2821-2;99;0;0;0;98;5;0;0;0;0,25;0,15;5;5;SW;1;0;1;0;2012-07-12;Baumgarten (Südl. Mühlviertel);meadow;707;10;48.422924N;14.359235E;R. Kaiser
+E4591N2761-1;69;0;0;0;98;1;0;0;0;0,4;0,15;5;5;SW;0;0;1;0;2015-05-05;Hintergahberg (Attersee);meadow;782;10;47.911565N;13.615038E;R. Kaiser
+E4562N2761-1;100;0;0;0;90;35;0;0;0;0,5;0,2;5;5;N;0;0;0;0;2013-07-20 & 2015-05-07;Neumarkt am Wallersee (Mondseer Flyschberge);meadow;615;10;47.915168N;13.233269E;V. Grass & R. Kaiser

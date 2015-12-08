@@ -1,0 +1,53 @@
+BEGIN HEAD
+Aufnahmenummer                              0 1 0 1 0 0 0 0 0 0 0
+                                            1 1 9 0 4 2 8 3 5 6 7
+END HEAD
+
+BEGIN TABLE
+Limosella aquatica                    @hl   2 1 1 1 2 1 2 . . . +
+Agrostis stolonifera                  @hl   1 3 + 2 1 3 1 3 4 1 2
+Cyperus fuscus                        @hl   3 2 . . . 2 3 + . . 1
+Juncus bufonius                       @hl   . + 2 2 + 2 1 . + . 3
+Alisma plantago-aquatica              @hl   + . 2 . + . . 1 . . .
+Alopecurus aequalis                   @hl   . 2 . 2 . . . . . . .
+Chara sp.                             @hl   . 1 2 . + . . . . . .
+Ranunculus sceleratus                 @hl   . . + . . . . . . . .
+Glyceria plicata                      @hl   . . 1 . . . . . . . .
+Gnaphalium uliginosum                 @hl   . . + . . . . . . . .
+Eleocharis palustris                  @hl   . + . . . . . . + . .
+Rorippa palustris                     @hl   . . + + . . . . . . +
+Bidens tripartita                     @hl   . . + . + . . + . . +
+Trifolium hybridum                    @hl   . . . 1 . . . + + + +
+Prunella vulgaris                     @hl   . . . . . + . + + + +
+Centaurium pulchellum                 @hl   . . . . . . . + + + .
+Lythrum hyssopifolia                  @hl   . . . . + + + 3 3 3 .
+Juncus articulatus                    @hl   . . + + + 1 + 1 + 1 .
+Juncus inflexus                       @hl   . . + . . . . 1 . 1 .
+Plantago major                        @hl   . . . . . . + . + + +
+Polygomum aviculare                   @hl   . . . . . . + . . + +
+Erigeron annuits ssp. septentrionalis @hl   . . . . . . + . + . +
+Ranunculus repens                     @hl   . . . + . + . . . + +
+Tripleurospermum inodorum             @hl   . . . + . . . . + 1 .
+Polygonum hydropiper                  @hl   . . . . . . . . + . +
+Veronica beccabunga                   @hl   . . . . . + . . . . +
+Deschampsia cespitosa                 @hl   . . . . . . + . . . +
+Echinochloa crus-galli                @hl   . . . . . . . . . . +
+Lycopus europaeus                     @hl   . . . . . . . . + . .
+Epilobium tetragonum                  @hl   . . . . . . . . . + .
+Juncus effusus                        @hl   . + . . . . . . . . .
+Eleocharis austriaca                  @hl   . . . . 3 . . . . . .
+Juncus compressus                     @hl   . . . . . . . . . + .
+Plantago lanceolata                   @hl   . . . . . . . + . + .
+Polygonum persicaria                  @hl   . . . + . . . . . + .
+Salix purpurea                        @hl   . . . . . . . . . + .
+Anagallis arvensis                    @hl   . . . . . . + . . . .
+Matricaria discoides                  @hl   . . . . . . . . . + .
+Chaenorhinum minus                    @hl   . . . . . . . . . + .
+Rumex crispus                         @hl   . . . + . . . . . . .
+Leontodon autumnalis                  @hl   . . . . . . . . . . +
+Lotus corniculatus                    @hl   . . . + . . . . . + .
+Festuca pratensis                     @hl   . . . + . . . . . . .
+Lolium perenne                        @hl   . . + + . . . . . . .
+Phleum pratense                       @hl   . . + + . . . . . . .
+Poa annua                             @hl   . + . . . . . . . . .
+END TABLE

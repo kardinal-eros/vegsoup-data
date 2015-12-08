@@ -1,0 +1,14 @@
+04: Cladonia coccifera +
+11: Polytrichum piliferum +, Nardus stricta +
+14: Leontodon croceus 1, Agrostis schraderiana 2
+15: Pulsatilla vernalis +
+17: Nardus stricta r, Selaginella selaginoides r
+20: Solorina crocea +
+22: Cetraria nivalis 1, Luzula spicata r, Arnica montana +
+23: Anthoxanthum odoratum 1
+31: Festuca pseudodura +
+32: Festuca pseudodura +, Helianthemum alpestre +
+36: Polytrichum piliferum 1, Oxytropis campestris 2, Carex sp. +
+38: Carex brunnescens +
+39: Eriophorum vaginatum 1, Luzula sudetica +, Dicranum scoparium +, Cetraria prunastri +
+40: Cladonia coccifera 1, Dicranum scoparium +

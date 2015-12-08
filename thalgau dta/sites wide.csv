@@ -1,0 +1,5 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
+th01;yes;0;0;0;75;50;0;0;0;1;0,2;4;4;NW;30;0;0;0;2015-06-12;47.854369;13.197933;10;Arrhenatherion;;;;Thalgau, Bärenthal;R. Kaiser
+th02;yes;0;0;0;95;15;0;0;0;0,8;0,3;4;4;NW;20;0;0;0;2015-06-12;47.854104;13.197757;10;Arrhenatherion;;;;Thalgau, Bärenthal;R. Kaiser
+th03;yes;0;0;0;97;3;0;0;0;1;0,25;4;4;SW;30;0;0;0;2015-06-12;47.854532;13.203386;10;Arrhenatherion;;;;Thalgau, Bärenthal;R. Kaiser
+th04;yes;0;0;0;90;1;0;0;0;1,1;0,25;4;4;SW;40;0;0;0;2015-06-12;47.854360;13.203735;10;Arrhenatherion;;;;Thalgau, Bärenthal;R. Kaiser

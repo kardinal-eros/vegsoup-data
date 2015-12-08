@@ -1,0 +1,43 @@
+taxon                                       layer cov
+Allium lusitanicum                          hl    1  
+Anthericum ramosum                                +  
+Asperula cynanchica                               1  
+Asplenium ruta-muraria                            +  
+Brachypodium pinnatum s.str.                      +  
+Bupleurum falcatum                                1  
+Carduus crassifolius ssp. glaucus                 +  
+Carex humilis                                     1  
+Coronilla coronata                                +  
+Dianthus carthusianorum ssp. carthusianorum       +  
+Dorycnium germanicum                              1  
+Euphorbia cyparissias                             +  
+Euphrasia salisburgensis s.str.                   +  
+Galium lucidum                                    2  
+Genista pilosa                                    +  
+Gentiana asclepiadea                              +  
+Geranium sanguineum                               1  
+Globularia cordifolia s.str.                      2  
+Helianthemum nummularium ssp. obscurum            2  
+Hypericum perforatum                              r  
+Jovibarba globifera ssp. hirta                    1  
+Laserpitium siler ssp. siler                      2  
+Linaria genistifolia                              1  
+Melica ciliata s.str.                             1  
+Origanum vulgare ssp. vulgare                     1  
+Polygonatum odoratum                              1  
+Pulsatilla grandis                                1  
+Sanguisorba minor ssp. minor                      1  
+Scabiosa ochroleuca                               1  
+Sedum album                                       1  
+Seseli austriacum                                 1  
+Stachys recta ssp. recta                          1  
+Teucrium chamaedrys ssp. chamaedrys               1  
+Teucrium montanum                                 2  
+Thalictrum minus s.lat.                           +  
+Thymus praecox ssp. polytrichus                   2  
+Verbascum chaixii ssp. austriacum                 1  
+Vincetoxicum hirundinaria                         2  
+Syntrichia ruralis                          ml    1  
+Tortella tortuosa                                 2  
+ 
+x: 16.01297, y: 47.81091, accuracy: 200, cov: 70, date: 23.09.62, expo: SE, hcov: 70, hhl1: 0,4, hhl2: 0,7, hsl: 0, htl: 0, ibex: no, location.verbose: Hohe Wand, Große Kanzel, am Wagnersteig, Arten in Klammer exkludiert (Felspflanzen?), Niklfeld 1964, mcov: 0, plsx: 1, plsy: 50, rock.soil.verbose: unbekannt, rock.type: precipice, rupi: no, scov: 0, slope: 45, soil: shallow, tcov: 0, richness: 40

@@ -1,0 +1,95 @@
+"plot";"abbr";"layer";"taxon";"abundance"
+201;"abie alba";"sl";"Abies alba";"r"
+15;"acer camp";"sl";"Acer campestre";"r"
+18;"acer camp";"sl";"Acer campestre";"r"
+9;"betu pend";"sl";"Betula pendula";"+"
+200;"fran alnu";"hl";"Frangula alnus";"+"
+15;"frax exce";"sl";"Fraxinus excelsior";"+"
+200;"frax exce";"sl";"Fraxinus excelsior";"+"
+237;"juni comm comm";"sl";"Juniperus communis";"+"
+203;"juni comm nana";"sl";"Juniperus communis ssp. alpina";1
+9;"sali capr";"sl";"Salix caprea";3
+9;"sali elea elea";"sl";"Salix eleagnos";"+"
+9;"sali myrs";"sl";"Salix myrsinifolia";"+"
+9;"sali purp";"sl";"Salix purpurea";"+"
+9;"sali spec ies";"sl";"Salix sp.";"r"
+244;"sorb cham";"sl";"Sorbus chamaemespilus";"r"
+201;"abie alba";"hl";"Abies alba";"r"
+203;"acon lyco vulp";"hl";"Aconitum lycoctonum ssp. vulparia";1
+247;"aden alli";"hl";"Adenostyles alliariae";"r"
+235;"agro alpi";"hl";"Agrostis alpina agg.";"r"
+247;"agro stol";"hl";"Agrostis stolonifera";"r"
+200;"anth ramo";"hl";"Antericum ramosum";2
+247;"anth odor";"hl";"Anthoxanthum odoratum";"+"
+233;"arab bell";"hl";"Arabis bellidifolia";"r"
+231;"atha cret";"hl";"Athamanta cretensis";"r"
+251;"call vulg";"hl";"Calluna vulgaris";"r"
+246;"call vulg";"hl";"Calluna vulgaris";"+"
+200;"care alba";"hl";"Carex alba";"+"
+201;"care brac";"hl";"Carex brachystachys";1
+9;"care digi";"hl";"Carex digitata";"+"
+200;"care flac";"hl";"Carex flacca";1
+201;"crep jacq kern";"hl";"Crepis jacquinii ssp. kerneri";1
+201;"card enne";"hl";"Dentaria enneaphyllos";"r"
+203;"card enne";"hl";"Dentaria enneaphyllos";"+"
+202;"dryo cart";"hl";"Dryopteris carthusiana";"+"
+232;"euph mini";"hl";"Euphrasia minima";"r"
+234;"euph offi pict";"hl";"Euphrasia picta";"+"
+202;"gali luci";"hl";"Galium lucidum";"+"
+251;"gali moll";"hl";"Galium mollugo";"+"
+232;"gent vern vern";"hl";"Gentiana verna";"+"
+200;"gymn cono cono";"hl";"Gymnadenia conopsea";"+"
+228;"gymn odor";"hl";"Gymnadenia odoratissima";"r"
+252;"gymn dryo";"hl";"Gymnocarpium dryopteris";"+"
+250;"gymn dryo";"hl";"Gymnocarpium dryopteris";"r"
+203;"gymn robe";"hl";"Gymnocarpium robertianum";"+"
+201;"hell nige";"hl";"Helleborus niger";"+"
+203;"hell nige";"hl";"Helleborus niger";"r"
+244;"hier glau cum";"hl";"Hieracium glaucum";"+"
+249;"hier muro";"hl";"Hieracium murorum";"+"
+248;"hier muro";"hl";"Hieracium murorum";"r"
+200;"lase lati lati";"hl";"Laserpitium latifolium";1
+203;"luzu sylv sylv";"hl";"Luzula sylvatica";1
+252;"luzu sylv sieb";"hl";"Luzula sylvatica ssp. sieberi";"r"
+247;"mela sylv";"hl";"Melampyrum sylvaticum";1
+247;"meli nuta";"hl";"Melica nutans";"+"
+202;"merc pere";"hl";"Mercurialis perennis";"+"
+243;"merc pere";"hl";"Mercurialis perennis";1
+202;"moli arun";"hl";"Molinia arundinacea";1
+239;"lact mura";"hl";"Mycelis muralis";"r"
+201;"pedi rost tata";"hl";"Pedicularis rostratocapitata";1
+202;"pimp majo slat";"hl";"Pimpinella major";"+"
+239;"poa nemo";"hl";"Poa nemoralis";"+"
+245;"poly odor";"hl";"Polygonatum odoratum";"r"
+203;"poly vert";"hl";"Polygonatum verticillatum";"+"
+255;"poly lonc";"hl";"Polystichum lonchitis";"+"
+229;"prim auri auri";"hl";"Primula auricula";"r"
+203;"pyro medi";"hl";"Pyrola media";"r"
+253;"ranu mont";"hl";"Ranunculus montanus agg.";"+"
+200;"rhin glac";"hl";"Rhinanthus glacialis";"+"
+201;"rubu idae";"hl";"Rubus idaeus";1
+201;"saxi rotu";"hl";"Saxifraga rotundifolia";1
+245;"thel limb";"hl";"Thelypteris limbosperma";"+"
+200;"thym pule pule";"hl";"Thymus pulegioides";1
+235;"tris dist";"hl";"Trisetum distichophyllum";1
+200;"vinc hiru";"hl";"Vincetoxicum hirundinaria";"+"
+203;"barb lyco";"ml";"Barbilophozia lycopodioides";"+"
+247;"bazz tril";"ml";"Bazzania trilobata";"+"
+246;"cirr spec ies";"ml";"Cirriphyllum sp.";"+"
+247;"clim dend";"ml";"Climacium dendroides";"+"
+246;"eurh stri";"ml";"Eurhynchium striatum";"+"
+244;"fiss adia";"ml";"Fissidens adianthoides";"+"
+241;"fiss taxi";"ml";"Fissidens taxifolius";"+"
+241;"hypn call";"ml";"Hypnum callichroum";1
+18;"hypn cupr";"ml";"Hypnum cupressiforme";"+"
+202;"loph bide";"ml";"Lophocolea bidentata";"+"
+201;"orth rufe";"ml";"Orthothecium rufescens";"+"
+10;"plag pore";"ml";"Plagiochila porelloides";"+"
+246;"plag affi";"ml";"Plagiomnium affine";"+"
+244;"plag rost";"ml";"Plagiomnium rostratum";"+"
+200;"plag cium undu";"ml";"Plagiothecium undulatum";1
+244;"ptil cris";"ml";"Ptilium crista-castrensis";"+"
+227;"raco cane slat";"ml";"Racomitrium canescens";"r"
+10;"radu comp";"ml";"Radula complanata";"+"
+15;"scap nemo";"ml";"Scapania nemorea";"+"
+15;"scle puru";"ml";"Scleropodium purum";"+"

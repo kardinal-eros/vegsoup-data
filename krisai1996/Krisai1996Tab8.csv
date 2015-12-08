@@ -1,0 +1,51 @@
+"Aufnahme Nr.";;78;13;77;63;54;65;76;74;69
+"Groesse qm x10";;40;10;40;5;40;10;40;3;3
+"Exposition";;"N";"W";"NW";"W";"W";"W";"S";"W";"W"
+"Neigung Grad";;30;30;10;30;45;40;40;30;10
+"Baumschicht: Hoehe m";;36;30;35;30;35;25;20;10;30
+"Baumschicht: Deckung %";;80;90;80;80;80;80;70;30;60
+"Strauchschicht: Deckung %";;0;0;20;0;0;0;30;0;0
+"Krautschicht: Deckung %";;80;60;60;60;50;80;60;50;60
+;;;;;;;;;;
+"Fagus sylvatica";"tl";4;4;4;5;3;4;5;1;2
+"Fagus sylvatica";"sl";1;".";1;".";".";".";"+";".";"."
+"Fagus sylvatica";"hl";1;".";1;".";".";".";"+";".";"."
+"Carex alba";"hl";4;3;2;3;3;3;2;2;"+"
+"Pinus sylvestris";"hl";".";".";".";".";".";".";1;"+";2
+"Hepatica nobilis";"hl";1;2;"+";"+";1;2;"+";".";"."
+"Salvia glutinosa";"hl";1;1;"+";1;1;"+";".";".";"."
+"Euphorbia amygdaloides";"hl";"+";"+";"+";1;"+";".";"+";".";"."
+"Daphne mezereum";"hl";"+";"+";"+";"+";"+";".";".";".";"."
+"Hedera helix";"hl";1;1;1;"+";".";".";".";".";"."
+"Fraxinus excelsior juv.";"hl";"+";".";"+";".";"+";".";".";"+";"."
+"Galium sylvaticum";"hl";".";"+";"+";"+";".";"+";".";".";"."
+"Melittis melissophyllum";"hl";".";".";"+";"+";"+";"+";".";".";"."
+"Lathyrus vornus";"hl";"+";".";"+";"+";".";"+";".";".";"."
+"Acer pseudoplatanus";"hl";".";1;1;".";1;".";".";".";"."
+"Lonicera xylosteum";"hl";".";"+";"+";".";".";"+";".";".";"."
+"Carex dlgitata";"hl";".";"+";"+";"+";".";".";".";".";"."
+"Mercurialis perennis";"hl";".";".";".";"+";1;".";"+";".";"."
+"Euphorbia dulcis";"hl";".";".";"+";".";"+";"+";".";".";"."
+"Phyteuma spicatum";"hl";".";".";".";1;"+";"+";".";".";"."
+"Lilium martagon";"hl";".";".";".";"+";"+";"+";".";".";"."
+"Convallaria majalis";"hl";".";".";".";"+";"+";1;".";".";"."
+"Melica nutans";"hl";".";".";"+";".";"+";"+";".";".";"."
+"Calamagrostis varia";"hl";"+";".";1;".";".";".";".";".";"+"
+"Cephalanthera rubra";"hl";".";".";".";".";".";"+";".";"+";"."
+"Cephalanthera damasonium";"hl";".";".";".";"+";".";".";".";".";"+"
+"Lamiastrum montanum";"hl";"+";"+";".";".";".";".";".";".";"."
+"Symphytum tuberosum";"hl";"+";"+";".";".";".";".";".";".";"."
+"Prenanthes purpurea";"hl";".";"+";"+";".";".";".";".";".";"."
+"Aposeris foetida";"hl";".";".";".";".";"+";1;".";".";"."
+"Neottia nidus avis";"hl";".";".";".";".";"+";".";".";"+";"."
+"Carex pilosa";"hl";".";".";"+";".";".";".";1;".";"."
+"Galium odoratum";"hl";"+";".";1;".";".";".";".";".";"."
+"Majanthemum bifolium";"hl";"+";".";"+";".";".";".";".";".";"."
+"Sesleria varia";"hl";".";".";".";".";".";".";".";2;"."
+"Centaurea montana";"hl";".";1;".";".";".";".";".";".";"."
+"Tanacetum corymbosum";"hl";".";".";".";".";".";1;".";".";"."
+"Picea abies";"hl";1;1;"+";".";1;"+";".";"+";1
+"Hieraclum murorum";"hl";".";".";".";".";".";"+";".";"+";1
+"Aegopodlum podagraria";"hl";".";".";".";"+";".";1;".";".";"."
+"Mycelis muralls";"hl";".";"+";"+";".";".";".";".";".";"."
+"Larix europaea";"hl";".";".";".";".";".";".";".";1;"."

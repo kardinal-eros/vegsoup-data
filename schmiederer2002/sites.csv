@@ -1,0 +1,20 @@
+plot;variable;value
+Schmiederer2002:Tab1:ME03;cov;95
+Schmiederer2002:Tab1:ME03;hcov;90
+Schmiederer2002:Tab1:ME03;mcov;5
+Schmiederer2002:Tab1:ME03;hhl1;7
+Schmiederer2002:Tab1:ME03;hhl2;7
+Schmiederer2002:Tab1:ME03;plsx;4
+Schmiederer2002:Tab1:ME03;plsy;2
+Schmiederer2002:Tab1:ME03;expo;SE
+Schmiederer2002:Tab1:ME03;slope;20
+Schmiederer2002:Tab1:ME03;date;2001-08-08
+Schmiederer2002:Tab1:ME03;altitude;2330
+Schmiederer2002:Tab1:ME03;precision.vertical;20
+Schmiederer2002:Tab1:ME03;accuracy;20
+Schmiederer2002:Tab1:ME03;longitude;14.128722E
+Schmiederer2002:Tab1:ME03;latitude;47.280611N
+Schmiederer2002:Tab1:ME03;comment;basenreicher niedriger Rasen von Salix retusa dominiert, trocken bis frisch, SSO des Melleck, nördlichster großer Marmorzug, 
+Schmiederer2002:Tab1:ME03;location;Melleck
+Schmiederer2002:Tab1:ME03;geology;Marmor
+Schmiederer2002:Tab1:ME03;geomorphology;Rücken (flache Rippe)

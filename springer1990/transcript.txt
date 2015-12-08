@@ -1,0 +1,68 @@
+BEGIN HEAD
+plot                                         1234567
+accuracy                                     5555555
+                                             0000000
+                                                    
+elevation                                    2221112
+                                             0000992
+                                             1121895
+                                             0000000
+                                                    
+slope                                        4313122
+                                             0080055
+                                                    
+hcov                                         6989989
+                                             0005050
+                                                    
+cov                                          6989989
+                                             0005050
+                                                    
+richness                                     2111112
+                                             1997340
+                                                    
+END HEAD
+BEGIN TABLE
+Juncus trifidus s.str.                    hl 3434232
+Primula minima                               2233443
+Agrostis rupestris                           1.+.3.3
+Euphrasia minima s.str.                      +.+...+
+Campanula alpina                             ++++++1
+Trisetum spicatum ssp. ovatipanicuatum       ++++.+.
+Huperzia selago ssp. selago                  +++..+.
+Scorzoneroides helvetica                     1...21.
+Juncus jacquinii                             ++.+...
+Avenella flexuosa                            1.+.1..
+Carex atrata                                 ++++++1
+Persicaria vivipara                          +1+++++
+Anthoxanthum odoratum s.str.                 +++1++.
+Vaccinium myrtillus                          ++++.1.
+Silene acaulis s.lat.                        ++++.++
+Dryas octopetala                             +++....
+Luzula glabrata                              ++.+...
+Vaccinium vitis-idaea                        +.++...
+Festuca rubra agg.                           +..++..
+Salix retusa s.str.                          +.+....
+Carex firma                                  1......
+Homogyne alpina                              .+++...
+Mutellina adonidifolia                       .+.+..+
+Bartsia alpina                               .+.+..+
+Arctostaphylos alpinus                       .+...+.
+Sesleria caerulea s.str.                     .+.....
+Minuartia sedoides                           .+.....
+Leontodon hispidus s.lat.                    ..+....
+Luzula multiflora s.str.                     ..+...+
+Doronicum glaciale ssp. glaciale             ...+...
+Hieracium alpinum                            ....2+.
+Potentilla aurea                             ....+..
+Carex sempervirens ssp. sempervirens         ....+..
+Pachypleurum mutellinoides                   .....+.
+Carex capillaris                             ......2
+Kobresia myosuroides                         ......1
+Campanula scheuchzeri                        ......+
+Androsace chamaejasme                        ......+
+Selaginella selaginoides                     ......+
+Festuca pumila                               ......+
+Gentiana verna ssp. verna                    ......+
+Erigeron uniflorus                           ......+
+Thamnolia vermicularis var. vermicularis  ml ......+
+END TABLE

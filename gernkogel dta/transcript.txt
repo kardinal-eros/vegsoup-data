@@ -1,0 +1,188 @@
+BEGIN HEAD
+plot                                                        ggggggggggg
+                                                            kkkkkkkkkkk
+                                                            00000000011
+                                                            12345678901
+accuracy                                                            1 1
+                                                            57978887070
+                                                                       
+altitude                                                    22222222221
+                                                            00112211115
+                                                            17394087659
+                                                            95273530650
+                                                                       
+bare                                                          1        
+                                                            41543533122
+                                                                       
+cov                                                         99689699499
+                                                            69525577485
+                                                                       
+hcov                                                        99678499399
+                                                            05085523700
+                                                                       
+hsl                                                         00000000000
+                                                                       
+htl1                                                        00000000000
+                                                                       
+htl2                                                        00000000000
+                                                                       
+mcov                                                        11  22   11
+                                                            00775555700
+                                                                       
+plsx                                                        44444444444
+                                                                       
+plsy                                                        44444444444
+                                                                       
+rock                                                        00020000001
+                                                                       
+scov                                                        00000000000
+                                                                       
+slope                                                       11 32332 23
+                                                            55505005050
+                                                                       
+stones                                                        2  3  5  
+                                                            00022000502
+                                                                       
+tcov1                                                       00000000000
+                                                                       
+tcov2                                                       00000000000
+                                                                       
+richness                                                    25213244154
+                                                            22390630860
+                                                                       
+END HEAD
+BEGIN TABLE
+Arnica montana                                           hl +..........
+Avenella flexuosa                                           ++.++....+.
+Calamagrostis villosa                                       +..........
+Calluna vulgaris                                            2++2+.+2.23
+Carex sempervirens ssp. sempervirens                        +2++..+2.1.
+Gentiana acaulis                                            r..........
+Loiseleuria procumbens                                      24434.+3.3.
+Luzula alpina                                               ++.........
+Mutellina adonidifolia                                      +........r.
+Nardus stricta                                              2..+......2
+Potentilla erecta                                           +.........+
+Pulsatilla alpina ssp. alba                                 +++++....+.
+Solidago virgaurea ssp. minuta                              +..........
+Vaccinium gaultherioides                                    +1+2+.+1.1.
+Vaccinium myrtillus                                         11.........
+Vaccinium vitis-idaea                                       1+.++.+..+.
+Agrostis alpina s.str.                                      .+...+22.2.
+Agrostis rupestris                                          .1+.+..+.+.
+Anthyllis vulneraria ssp. alpicola                          .1...112++2
+Avenula versicolor                                          .1+++.+1.1.
+Bartsia alpina                                              .+....++.+.
+Biscutella laevigata ssp. laevigata                         .+.........
+Campanula scheuchzeri                                       .+....++.+.
+Carex capillaris                                            .1...++1.+.
+Carex firma                                                 .r...3213+.
+Dryas octopetala                                            .+....31++.
+Euphrasia minima s.str.                                     .++.+.r+.+.
+Euphrasia officinalis ssp. picta                            .+..+.++.+.
+Festuca pumila                                              .1...12.++.
+Gentiana clusii ssp. clusii                                 .r.........
+Gentiana verna ssp. verna                                   .+...r+..+.
+Helianthemum alpestre                                       .+...1++++.
+Hieracium nigrescens                                        .r.......+.
+Hieracium pilosum                                           .r.........
+Juncus trifidus s.str.                                      .+221......
+Luzula luzuloides var. rubella                              .+.........
+Oreochloa disticha                                          .+..1......
+Pedicularis rostratocapitata ssp. rostratocapitata          .+...+++++.
+Persicaria vivipara                                         .+...+++.++
+Phyteuma hemisphaericum                                     .++++......
+Pinguicula alpina                                           .r...++....
+Primula minima                                              .++++.+2.+.
+Rhododendron hirsutum                                       .+....r..+.
+Salix retusa s.str.                                         .+.........
+Scorzoneroides helvetica                                    .+..+.+..+.
+Selaginella selaginoides                                    .+....++.+.
+Sesleria caerulea s.str.                                    .1...+11.+.
+Silene acaulis ssp. longiscapa                              .+...r...1.
+Soldanella pusilla ssp. alpicola                            .+....++.+.
+Trifolium pratense ssp. nivale                              .+.........
+Carex curvula ssp. curvula                                  ..222......
+Hieracium alpinum                                           ..+++....+.
+Bellidiastrum michelii                                      .....r+....
+Campanula cochleariifolia                                   .....++.+..
+Chamorchis alpina                                           .....+.+...
+Crepis jacquinii ssp. jacquinii                             .....2+.+..
+Euphrasia salisburgensis s.str.                             .....++.+..
+Gypsophila repens                                           .....r..+..
+Parnassia palustris                                         .....++.r+.
+Saxifraga caesia                                            .....1r.+..
+Gentianella sp.                                             ......+....
+Homogyne alpina                                             ......11.+.
+Polygala chamaebuxus                                        ......r....
+Soldanella alpina                                           ......++.+.
+Veronica aphylla                                            ......+....
+Antennaria carpatica                                        .......+...
+Arctostaphylos alpinus                                      .......+...
+Carex atrata                                                .......+...
+Nigritella rhellicani                                       .......r.+.
+Pulsatilla alpina ssp. alpina                               .......+...
+Rhododendron × intermedium (=R. ferrugineum × hirsutum)     .......r.+.
+Tofieldia pusilla                                           .......+.+.
+Arabis stellulata                                           ........+..
+Anthoxanthum alpinum                                        .........+1
+Gentiana brachyphylla                                       .........+.
+Gentiana nivalis                                            .........+.
+Leontodon hispidus s.lat.                                   .........+.
+Luzula luzuloides                                           .........+.
+Salix alpina                                                .........+.
+Saxifraga aizoides                                          .........+.
+Achillea millefolium agg.                                   ..........+
+Alchemilla monticola                                        ..........1
+Antennaria dioica                                           ..........+
+Briza media                                                 ..........1
+Carex caryophyllea                                          ..........1
+Carlina acaulis ssp. acaulis                                ..........r
+Dactylis glomerata ssp. glomerata                           ..........1
+Festuca nigrescens                                          ..........1
+Galium album s.str.                                         ..........1
+Galium anisophyllon                                         ..........1
+Helianthemum nummularium ssp. grandiflorum                  ..........2
+Hieracium lactucella                                        ..........1
+Hieracium pilosella                                         ..........2
+Leucanthemum ircutianum                                     ..........+
+Linum catharticum                                           ..........+
+Lotus corniculatus s.str.                                   ..........1
+Luzula campestris s.str.                                    ..........+
+Luzula multiflora s.str.                                    ..........+
+Phyteuma betonicifolium                                     ..........r
+Picea abies                                                 ..........r
+Pimpinella major s.lat.                                     ..........+
+Plantago media                                              ..........+
+Polygala vulgaris ssp. vulgaris                             ..........+
+Potentilla aurea                                            ..........+
+Ranunculus acris ssp. acris                                 ..........+
+Rumex alpestris                                             ..........r
+Silene nutans ssp. nutans                                   ..........1
+Silene vulgaris ssp. vulgaris                               ..........+
+Thlaspi coerulescens s.lat.                                 ..........r
+Thymus praecox ssp. polytrichus                             ..........2
+Thymus pulegioides ssp. pulegioides                         ..........+
+Trifolium montanum ssp. montanum                            ..........1
+Trifolium pratense ssp. pratense                            ..........1
+Veronica chamaedrys ssp. chamaedrys                         ..........+
+Cetraria islandica ssp. islandica                        ml 1++21.++.+.
+Cladonia arbuscula s.lat.                                   11+.+..+.+.
+Cladonia macroceras                                         +......r...
+Cladonia rangiferina                                        11++1.++.+.
+Pleurozium schreberi                                        11..+....+.
+Polytrichum juniperinum                                     +...+......
+Cetraria ericetorum                                         .++++..+...
+Cladonia pyxidata                                           .+++1..+.+.
+Flavocetraria cucullata                                     .+1.1....+.
+Flavocetraria nivalis                                       .+1.++..++.
+Hylocomium splendens                                        .+.........
+Alectoria ochroleuca                                        ..1.1+.....
+Polytrichum piliferum                                       ..+........
+Thamnolia vermicularis var. vermicularis                    ..++2++.++.
+Cladonia uncialis s.lat.                                    ....1..+.+.
+Dibaeis baeomyces                                           ....1......
+Caloplaca sp.                                               .....2..2..
+Tortella tortuosa                                           .....+++++.
+Vulpicida tubulosus                                         .....1r.+..
+END TABLE

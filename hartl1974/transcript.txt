@@ -1,0 +1,54 @@
+BEGIN HEAD
+plot                                                   1234567
+accuracy                                               2222222
+                                                       0000000
+                                                       0000000
+                                                              
+richness                                               2222222
+                                                       3635130
+                                                              
+END HEAD
+BEGIN TABLE
+Kobresia simpliciuscula                             hl +444554
+Potentilla erecta                                      2112212
+Primula farinosa                                       ++12211
+Valeriana dioica                                       1121+1+
+Bartsia alpina                                         ++++r+r
+Juncus alpinoarticulatus ssp. alpinoarticulatus        r+r+++1
+Carex davalliana                                       4r++rrr
+Carex lepidocarpa                                      1+21+r1
+Selaginella selaginoides                               +++1+++
+Tofieldia calyculata                                   1+++++.
+Eriophorum latifolium                                  ++++r+.
+Trichophorum cespitosum ssp. cespitosum                211+++.
+Pinguicula vulgaris                                    rr+.rr.
+Dactylorhiza majalis s.lat.                            1..+rrr
+Equisetum variegatum                                   +.++.+r
+Bellidiastrum michelii                                 222+..2
+Sesleria caerulea s.str.                               +rr.r.r
+Carex ferruginea s.str.                                +..r...
+Linum catharticum                                      +.r....
+Carex paniculata ssp. paniculata                       r......
+Rhinanthus glacialis                                   r......
+Veratrum album ssp. lobelianum                         .rrr.rr
+Parnassia palustris                                    .+..+++
+Euphrasia minima s.str.                                .+..r..
+Campanula scheuchzeri                                  .r...r.
+Gentiana acaulis                                       .r.....
+Carex sempervirens ssp. sempervirens                   .r.....
+Pedicularis rostratocapitata ssp. rostratocapitata     .r.....
+Leontodon hispidus s.lat.                              .r.....
+Briza media                                            .r.....
+Phyteuma orbiculare s.str.                             ..r..r.
+Nardus stricta                                         ..r....
+Ranunculus nemorosus                                   ..r....
+Carex nigra                                            ...++++
+Willemetia stipitata ssp. stipitata                    ...+2.1
+Cirsium palustre                                       ...r...
+Polygala alpestris ssp. alpestris                      ...r...
+Gymnadenia conopsea ssp. conopsea                      ...r...
+Prunella vulgaris                                      ...r...
+Eriophorum angustifolium                               .....r+
+Scorpidium cossonii                                 ml +++122+
+Campylium stellatum                                    1+1+111
+END TABLE

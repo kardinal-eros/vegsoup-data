@@ -1,0 +1,137 @@
+plot;abbr;layer;taxon;abundance
+20;amel oval;sl;Amelanchier ovalis;+
+199;amel oval;sl;Amelanchier ovalis;+
+199;fran alnu;sl;Frangula alnus;r
+72;acer pseu;hl;Acer pseudoplatanus;+
+199;agro capi;hl;Agrostis capillaris;+
+221;agro stol;hl;Agrostis stolonifera;+
+197;anth odor;hl;Anthoxanthum odoratum;+
+68;arab alpi alpi;hl;Arabis alpina;1
+166;arab bell;hl;Arabis bellidifolia;+
+35;arni mont;hl;Arnica montana;+
+197;arrh elat;hl;Arrhenatherum elatius;+
+198;arrh elat;hl;Arrhenatherum elatius;+
+310;betu pend;hl;Betula pendula;+
+181;brom erec;hl;Bromus erectus;+
+219;care flav aggr;hl;Carex flava;+
+329;cent scab scab;hl;Centaurea scabiosa ssp. scabiosa;+
+199;ceph long;hl;Cephalanthera longifolia;1
+198;cera holo;hl;Cerastium holosteoides;+
+70;clin vulg vulg;hl;Clinopodium vulgare;+
+273;clin vulg vulg;hl;Clinopodium vulgare;+
+300;conv maja maja;hl;Convallaria majalis;+
+199;cory avel;hl;Corylus avellana;+
+197;crep alpe;hl;Crepis alpestris;+
+198;crep alpe;hl;Crepis alpestris;+
+217;crep aure aure;hl;Crepis aurea;1
+142;crep jacq slat;hl;Crepis jacquinii s.lat.;+
+65;cycl purp;hl;Cyclamen purpurascens;+
+198;cyno cris;hl;Cynosurus cristatus;+
+114;cyst alpi;hl;Cystopteris alpina;+
+199;dant decu slat;hl;Danthonia decumbens;+
+223;daph meze;hl;Daphne mezereum;+
+219;desc cesp;hl;Deschampsia cespitosa;+
+328;dian cart slat;hl;Dianthus carthusianorum;+
+226;epip palu;hl;Epipactis palustris;1
+36;epip spec ies;hl;Epipactis sp.;r
+268;euph amyg amyg;hl;Euphorbia amygdaloides;+
+198;euph offi rost;hl;Euphrasia officinalis ssp. rostkoviana;+
+70;fest amet amet;hl;Festuca amethystina;+
+64;fest rubr;hl;Festuca rubra;1
+197;fest rubr;hl;Festuca rubra;1
+70;frag vesc;hl;Fragaria vesca;+
+302;fran alnu;hl;Frangula alnus;1
+309;frax exce;hl;Fraxinus excelsior;+
+223;gali moll;hl;Galium mollugo;+
+226;gali moll;hl;Galium mollugo;+
+49;gali spec ies;hl;Galium sp.;+
+62;gali spec ies;hl;Galium sp.;1
+64;gali spec ies;hl;Galium sp.;1
+199;gent ascl;hl;Gentiana asclepiadea;+
+72;gent ascl;hl;Gentiana asclepiadea;+
+217;gymn odor;hl;Gymnadenia odoratissima;+
+36;heli numm obsc;hl;Helianthemum ovatum;+
+37;heli numm obsc;hl;Helianthemum ovatum;+
+226;hier lact;hl;Hieracium lactucella;+
+30;hier bifi;hl;Hieracium bifidum/murorum;+
+199;hier bupl;hl;Hieracium bupleuroides;1
+22;hype macu;hl;Hypericum maculatum;+
+312;hype perf;hl;Hypericum perforatum;+
+177;hype perf;hl;Hypericum perforatum;+
+63;hype tetr;hl;Hypericum tetrapterum;+
+310;lari deci deci;hl;Larix decidua;+
+199;lari deci deci;hl;Larix decidua;1
+64;medi lupu;hl;Medicago lupulina;+
+166;medi lupu;hl;Medicago lupulina;+
+177;medi mini;hl;Medicago minima;+
+198;phle prat;hl;Phleum pratense;1
+122;ping alpi;hl;Pinguicula alpina;+
+217;ping alpi;hl;Pinguicula alpina;+
+197;ping vulg;hl;Pinguicula vulgaris;1
+91;pinu mugo;hl;Pinus mugo;+
+26;pinu sylv;hl;Pinus sylvestris;r
+22;plan majo slat;hl;Plantago major;+
+221;plan majo slat;hl;Plantago major;+
+297;plat bifo;hl;Platanthera bifolia;+
+298;plat bifo;hl;Platanthera bifolia;+
+198;poa alpi;hl;Poa alpina;1
+70;poa annu;hl;Poa annua;1
+199;poly amar ella;hl;Polygala amarella;1
+217;poly amar ella;hl;Polygala amarella;+
+198;pote cran;hl;Potentilla crantzii;+
+199;pote cran;hl;Potentilla crantzii;+
+219;prun vulg;hl;Prunella vulgaris;+
+221;prun vulg;hl;Prunella vulgaris;+
+70;prun padu slat;hl;Prunus padus;+
+309;quer robu;hl;Quercus robur;+
+219;ranu acri acri;hl;Ranunculus acris;+
+199;ranu bulb;hl;Ranunculus bulbosus;1
+63;ranu lanu;hl;Ranunculus lanuginosus;+
+22;rham cath;hl;Rhamnus cathartica;r
+23;rham cath;hl;Rhamnus cathartica;r
+224;rubu saxa;hl;Rubus saxatilis;+
+32;sali elea elea;hl;Salix eleagnos;r
+49;sali spec ies;hl;Salix sp.;+
+63;sali spec ies;hl;Salix sp.;+
+70;saxi pani;hl;Saxifraga paniculata;+
+64;sedu spec ies;hl;Sedum sp.;1
+65;sese liba liba;hl;Seseli libanotis;+
+21;sile dioi;hl;Silene dioica;1
+22;sile dioi;hl;Silene dioica;+
+185;sile vulg slat;hl;Silene vulgaris;+
+222;soli virg virg;hl;Solidago virgaurea;+
+20;sorb aria;hl;Sorbus aria;r
+197;succ prat;hl;Succisa pratensis;+
+50;tara sect rude;hl;Taraxacum officinalis;r
+122;thal aqui;hl;Thalictrum aquilegiifolium;+
+163;thal aqui;hl;Thalictrum aquilegiifolium;+
+225;thes pyre alpe;hl;Thesium pyrenaicum;+
+223;thes pyre alpe;hl;Thesium pyrenaicum;+
+26;thym prae prae;hl;Thymus praecox ssp. praecox;+
+21;trif repe repe;hl;Trifolium repens;+
+36;trif repe repe;hl;Trifolium repens;+
+224;trol euro;hl;Trollius europaeus;+
+70;verb nigr;hl;Verbascum nigrum;+
+218;vero aphy;hl;Veronica aphylla;+
+220;vero cham slat;hl;Veronica chamaedrys;+
+221;vero cham slat;hl;Veronica chamaedrys;+
+218;vero frut cans;hl;Veronica fruticans;+
+122;viol bifl;hl;Viola biflora;+
+299;viol hirt;hl;Viola hirta;+
+300;viol hirt;hl;Viola hirta;+
+320;viol spec ies;hl;Viola sp.;+
+21;bryu spec ies;ml;Bryum sp.;+
+198;dicr scop;ml;Dicranum scoparium;+
+199;ditr flex;ml;Ditrichium flexicaule;+
+37;enca stre;ml;Encalypta streptocarpa;+
+35;grim spec ies;ml;Grimmia sp.;+
+23;homa lute;ml;Homalothecium lutescens;+
+37;hypn cupr;ml;Hypnum cupressiforme;1
+221;pseu incu;ml;Lescuraea incurvata;+
+96;pseu nerv;ml;Leskeella nervosa;+
+85;orth rufe;ml;Orthothecium rufescens;+
+226;plag medi;ml;Plagiomnium medium;+
+198;pohl nuta nuta;ml;Pohlia nutans;1
+198;poly form;ml;Polytrichum formosum;1
+87;prei spec ies;ml;Preissia sp.;+
+197;scap aspe;ml;Scapania aspera;r

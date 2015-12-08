@@ -1,0 +1,113 @@
+BEGIN HEAD
+plot                                    bbbbbbbbbbbbbbb
+                                        iiiiiiiiiiiiiii
+                                        000000000111111
+                                        123456789012345
+accuracy                                111111111111111
+                                        000000000000000
+                                                       
+cov                                     771987878799699
+                                        055500050000000
+                                                       
+hcov                                    1    614631917 
+                                        525550055000505
+                                                       
+mcov                                    32 3126217 5 55
+                                        505505005030500
+                                                       
+plsx                                    1111111 11111 1
+                                        050555550555555
+                                                       
+plsy                                    111111121111111
+                                        050555500555505
+                                                       
+precision                               888888888888888
+                                                       
+scov                                    1  9 2 1141 211
+                                        005020350055055
+                                                       
+tcov                                    67 28486479 578
+                                        550005000000555
+                                                       
+richness                                111111112111121
+                                        535337345732174
+                                                       
+END HEAD
+BEGIN TABLE
+Larix decidua                        tl 3..............
+Picea abies                             15.14.2+142.113
+Abies alba                              ...1224221....3
+Betula pendula                          ...1.1.4+.2.22.
+Pinus sylvestris                        ...+.3+1..4.3..
+Viscum laxum ssp. abietis               .....+.........
+Fagus sylvatica                         ........1......
+Prunus avium s.lat.                     ........2......
+Quercus robur                           ........2.+....
+Sorbus aucuparia ssp. aucuparia         ........+......
+Acer pseudoplatanus                     .............2.
+Fraxinus excelsior                      .............2.
+Populus tremula                         .............2.
+Abies alba                           sl 1..4+1+223.12.2
+Frangula alnus                          2.12+2++2+112..
+Picea abies                             +..1.++1++1.+12
+Betula pendula                          ...+.+.1++211..
+Pinus sylvestris                        .......+.......
+Fagus sylvatica                         ........+......
+Malus domestica                         ........+....+.
+Acer pseudoplatanus                     .............1.
+Fraxinus excelsior                      .............1.
+Salix caprea                            .............+.
+Sambucus nigra                          .............1.
+Abies alba                           hl +++1111..2+12.+
+Betula pendula                          +.+..+.....11..
+Dryopteris carthusiana s.str.           +...++..++....+
+Frangula alnus                          +++1+1++1++2+.+
+Maianthemum bifolium                    +...+..........
+Rubus sect. Rubus                       +....+..2....2.
+Vaccinium myrtillus                     2++2+32322152.+
+Quercus robur                           .+.....r+......
+Aegopodium podagraria                   ..+............
+Avenella flexuosa                       ..+++1++2++..+.
+Carex canescens ssp. canescens          ..1.....+.+....
+Carex pilulifera ssp. pilulifera        ..+.....1......
+Juncus effusus ssp. effusus             ..1............
+Larix decidua                           ..r............
+Oxalis acetosella                       ..+............
+Picea abies                             ..+++++..2+..++
+Sambucus nigra                          ..+.....+......
+Taraxacum sect. Ruderalia               ..+............
+Sorbus aucuparia ssp. aucuparia         ....r...+++....
+Agrostis capillaris                     .....+..+......
+Pinus sylvestris                        .....+.....+...
+Ajuga reptans                           ........+....1.
+Carex digitata                          ........+......
+Corylus avellana                        ........+......
+Lactuca muralis                         ........+......
+Scrophularia nodosa                     ........r......
+Viola riviniana                         ........+......
+Abies nordmanniana                      ...........2...
+Calluna vulgaris                        ...........+11.
+Acer pseudoplatanus                     .............+.
+Angelica sylvestris ssp. sylvestris     .............2.
+Brachypodium sylvaticum                 .............1.
+Dactylis glomerata ssp. glomerata       .............+.
+Dryopteris filix-mas s.str.             .............+.
+Geranium robertianum s.str.             .............2.
+Glechoma hederacea                      .............1.
+Moehringia trinervia                    .............+.
+Poa nemoralis                           .............1.
+Polypodium vulgare s.str.               .............+.
+Primula elatior s.str.                  .............+.
+Sanicula europaea                       .............1.
+Urtica dioica ssp. dioica               .............3.
+Viola reichenbachiana                   .............+.
+Campylopus flexuosus                 ml +1.+.111.1+11.+
+Hylocomium splendens                    22.1.22..3....2
+Hypnum cupressiforme                    +2.11.1221+2+42
+Leucobryum glaucum                      +1.+++.+.+....+
+Pleurozium schreberi                    11.1223212.11.2
+Polytrichum formosum                    +1++1+31.21..21
+Dicranum scoparium                      .1..+1.+.1.21.1
+Sphagnum capillifolium                  .+....1..1.1..+
+Bazzania trilobata                      ......2..1....1
+END TABLE

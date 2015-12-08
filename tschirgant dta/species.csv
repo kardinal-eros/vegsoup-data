@@ -1,0 +1,2504 @@
+plot;abbr;layer;cov;voucher.flag;voucher;sheets;history
+tc10a;achn cala;hl;1;;;;
+tc10a;ajug rept;hl;1;;;;
+tc10a;alnu inca;sl;1;;;;
+tc10a;alnu inca;tl;2a;;;;
+tc10a;amel oval;hl;+;;;;
+tc10a;amel oval;sl;1;;;;
+tc10a;berb vulg;hl;1;;;;
+tc10a;berb vulg;sl;+;;;;
+tc10a;betu pend;hl;+;;;;
+tc10a;betu pend;sl;+;;;;
+tc10a;buph sali;hl;1;;;;
+tc10a;card defl viri;hl;1;;;; | Changed card defl To card defl viri 2012-11-27 16:08:03
+tc10a;carl vulg vulg;hl;+;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc10a;cich inty;hl;+;;;;
+tc10a;cirs vulg;hl;+;;;;
+tc10a;clem vita;hl;2a;;;;
+tc10a;clem vita;sl;+;;;;
+tc10a;corn sang slat;hl;1;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc10a;corn sang slat;sl;1;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc10a;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc10a;dauc caro caro;hl;+;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc10a;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc10a;eric carn;hl;1;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc10a;erig acri acri;hl;+;;;; | Changed erig acri ac To erig acri acri 2012-11-27 16:08:03
+tc10a;erig annu slat;hl;+;;;; | Changed erig annu To erig annu slat 2012-11-27 16:08:03
+tc10a;fran alnu;hl;1;;;;
+tc10a;fran alnu;sl;2a;;;;
+tc10a;hier muro;hl;1;;;; | Changed hier sylv To hier muro 2012-11-27 16:08:03
+tc10a;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc10a;juni comm comm;sl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc10a;lari deci deci;hl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc10a;lari deci deci;sl;1;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc10a;lari deci deci;tl;2a;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc10a;leon inca;hl;+;;;;
+tc10a;loni xylo;hl;+;;;;
+tc10a;loni xylo;sl;+;;;;
+tc10a;pinu sylv;sl;2a;;;;
+tc10a;pinu sylv;tl;3;;;;
+tc10a;popu trem;hl;+;;;;
+tc10a;popu trem;sl;1;;;;
+tc10a;popu trem;tl;1;;;;
+tc10a;prun aviu slat;hl;+;;;; | Changed prun aviu To prun aviu slat 2012-11-27 16:08:03
+tc10a;prun aviu slat;sl;+;;;; | Changed prun aviu To prun aviu slat 2012-11-27 16:08:03
+tc10a;rham cath;hl;+;;;;
+tc10a;robi pseu;hl;+;;;;
+tc10a;robi pseu;sl;1;;;;
+tc10a;robi pseu;tl;2a;;;;
+tc10a;sali capr;hl;+;;;;
+tc10a;sali capr;sl;+;;;;
+tc10a;sali purp;sl;2a;;;;
+tc10a;soli cana;hl;1;;;;
+tc10a;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc10a;sorb aria;hl;+;;;;
+tc10a;sorb aria;sl;+;;;;
+tc10a;tuss farf;hl;+;;;;
+tc10a;vici crac;hl;+;;;;
+tc10a;vinc hiru;hl;+;;;;
+tc11a;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc11a;agro capi;hl;+;;;; | Changed agro tenu To agro capi 2012-11-27 16:08:03
+tc11a;anth vuln slat;hl;+;;;; | Changed anth vuln To anth vuln slat 2012-11-27 16:08:03
+tc11a;arrh elat;hl;2m;;;;
+tc11a;homa pube pube;hl;+;;;; | Changed aven pube To homa pube pube 2012-11-27 16:08:03
+tc11a;briz medi;hl;1;;;;
+tc11a;brom erec;hl;4;;;;
+tc11a;care cary;hl;2b;;;;
+tc11a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc11a;cent scab scab;hl;1;;;; | Changed cent scab To cent scab scab 2012-11-27 16:08:04
+tc11a;dact glom glom;hl;1;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc11a;dauc caro caro;hl;2m;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc11a;fest brev;hl;+;;;;
+tc11a;fest prat prat;hl;+;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc11a;gali albu;hl;1;;;;
+tc11a;knau arve arve;hl;1;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc11a;koel pyra pyra;hl;+;;;; | Changed koel pyra To koel pyra pyra 2012-11-27 16:08:04
+tc11a;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc11a;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc11a;leuc vulg;hl;2m;;;;
+tc11a;lotu corn;hl;+;;;;
+tc11a;medi falc;hl;+;;;;
+tc11a;medi lupu;hl;+;;;;
+tc11a;medi sati;hl;+;;;;
+tc11a;orob grac;hl;+;;;;
+tc11a;peuc oreo;hl;+;;;;
+tc11a;pimp majo majo;hl;+;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc11a;plan lanc;hl;+;;;;
+tc11a;pote pusi;hl;+;;;;
+tc11a;sali myrs;hl;r;;;;
+tc11a;sang offi;hl;2m;;;;
+tc11a;scab colu;hl;1;;;;
+tc11a;sile nuta nuta;hl;+;;;; | Changed sile nuta To sile nuta nuta 2012-11-27 16:08:04
+tc11a;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc11a;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc11a;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc11a;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc11a;vici crac;hl;+;;;;
+tc12a;achi mill aggr;hl;1;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc12a;anth sylv;hl;3;;;;
+tc12a;arrh elat;hl;1;;;;
+tc12a;crep bien;hl;+;;;;
+tc12a;dact glom glom;hl;3;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc12a;fest prat prat;hl;2a;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc12a;gali albu;hl;2m;;;;
+tc12a;hera spho spho;hl;+;;;; | Changed hera spho s To hera spho spho 2012-11-27 16:12:27
+tc12a;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc12a;pimp majo majo;hl;2a;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc12a;plan lanc;hl;1;;;;
+tc12a;poa prat;hl;+;;;;
+tc12a;poa triv;hl;1;;;;
+tc12a;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc12a;rume acet osa;hl;+;;;; | Changed rume acet To rume acet osa 2012-11-27 16:08:04
+tc12a;salv prat prat;hl;+;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc12a;tara sect rude;hl;+;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc12a;trag orie;hl;+;;;;
+tc12a;trif prat prat;hl;1;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc12a;tris flav flav;hl;2b;;;; | Changed tris flav To tris flav flav 2012-11-27 16:08:04
+tc12a;vero cham cham;hl;+;;;; | Changed vero cham c To vero cham cham 2012-11-27 16:08:04
+tc12a;vici sepi;hl;1;;;;
+tc13a;achi mill aggr;hl;2m;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc13a;arrh elat;hl;1;;;;
+tc13a;homa pube pube;hl;2a;;;; | Changed aven pube To homa pube pube 2012-11-27 16:08:03
+tc13a;camp rotu;hl;+;;;;
+tc13a;care cary;hl;1;;;;
+tc13a;cent jace jace;hl;1;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc13a;dact glom glom;hl;2b;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc13a;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tc13a;fest amet amet;hl;+;voucher;9;2; | Changed fest amet To fest amet amet 2012-11-27 16:08:04
+tc13a;fest brev;hl;1;voucher;8;;
+tc13a;fest prat prat;hl;1;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc13a;fest rubr slat;hl;1;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc13a;gali albu;hl;+;;;;
+tc13a;knau arve arve;hl;2m;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc13a;leon hisp slat;hl;2a;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc13a;leuc ircu;hl;1;;;;
+tc13a;lotu corn;hl;1;;;;
+tc13a;medi lupu;hl;1;;;;
+tc13a;pimp majo majo;hl;+;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc13a;plan lanc;hl;1;;;;
+tc13a;plan medi;hl;1;;;;
+tc13a;poa prat;hl;1;;;;
+tc13a;poa triv;hl;1;;;;
+tc13a;prun vulg;hl;+;;;;
+tc13a;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc13a;salv prat prat;hl;+;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc13a;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc13a;thal minu slat;hl;2m;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc13a;trif prat prat;hl;2a;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc13a;tris flav flav;hl;1;;;; | Changed tris flav To tris flav flav 2012-11-27 16:08:04
+tc13a;vici sepi;hl;+;;;;
+tc14a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc14a;briz medi;hl;+;;;;
+tc14a;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tc14a;calt palu;hl;+;;;;
+tc14a;camp stel;ml;2a;;;;
+tc14a;care elat;hl;2a;;;;
+tc14a;care pani;hl;+;;;;
+tc14a;cirs palu;hl;+;;;;
+tc14a;dact maja brev;hl;+;;;; | Changed dact maja b To dact maja brev 2012-11-27 16:08:05
+tc14a;scor coss;ml;2a;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tc14a;scor revo;ml;3;;;; | Changed drep revo To scor revo 2012-11-27 16:08:05
+tc14a;epip palu;hl;1;;;;
+tc14a;equi vari;hl;+;;;;
+tc14a;fest tric;hl;+;voucher;3;;
+tc14a;fiss adia;ml;+;;;;
+tc14a;gali bore;hl;+;;;;
+tc14a;gali palu palu;hl;+;;;; | Changed gali palu To gali palu palu 2012-11-27 16:08:05
+tc14a;gali ulig;hl;+;;;;
+tc14a;gymn cono cono;hl;+;;;; | Changed gymn cono To gymn cono cono 2012-11-27 16:08:05
+tc14a;lath prat prat;hl;1;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc14a;linu cath;hl;+;;;;
+tc14a;ment arve;hl;+;;;;
+tc14a;moli caer aggr;hl;2a;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc14a;palu comm comm;ml;+;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tc14a;parn palu;hl;+;;;;
+tc14a;phra aust;hl;4;;;;
+tc14a;phyt orbi;hl;1;;;;
+tc14a;pinu sylv;hl;+;;;;
+tc14a;poly amar ella;hl;+;;;; | Changed poly amae To poly amar ella 2012-11-27 16:08:05
+tc14a;pers bist;hl;+;;;; | Changed poly bist To pers bist 2012-11-27 16:08:05
+tc14a;pote erec;hl;1;;;;
+tc14a;prun vulg;hl;+;;;;
+tc14a;ranu nemo;hl;+;;;;
+tc14a;rhin mino;hl;+;;;;
+tc14a;sali repe rosm;hl;+;;;; | Changed sali rosm To sali repe rosm 2012-11-27 16:08:05
+tc14a;sang offi;hl;+;;;;
+tc14a;scor scor;ml;1;;;;
+tc14a;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc14a;succ prat;hl;1;;;;
+tc14a;tome nite;ml;1;;;;
+tc14a;trig palu;hl;+;;;;
+tc14a;vale dioi dioi;hl;+;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tc14a;vici crac;hl;+;;;;
+tc14b;achi rose;hl;1;;;;
+tc14b;alli cari cari;hl;+;;;; | Changed alli cari To alli cari cari 2012-11-27 16:08:05
+tc14b;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc14b;anth ramo;hl;+;;;;
+tc14b;brac rupe;hl;1;;;;
+tc14b;briz medi;hl;1;;;;
+tc14b;brom erec;hl;+;;;;
+tc14b;care cary;hl;+;;;;
+tc14b;care elat;hl;+;;;;
+tc14b;care flac;hl;+;;;;
+tc14b;care mont;hl;2b;;;;
+tc14b;care pani;hl;r;;;;
+tc14b;colc autu;hl;2a;;;;
+tc14b;epip palu;hl;+;;;;
+tc14b;fest amet amet;hl;+;;;; | Changed fest amet To fest amet amet 2012-11-27 16:08:04
+tc14b;fest brev;hl;+;;;;
+tc14b;gali bore;hl;3;;;;
+tc14b;gali luci;hl;+;;;;
+tc14b;gali wirt;hl;+;;;;
+tc14b;geum riva;hl;+;;;;
+tc14b;aven prae;hl;+;;;; | Changed heli prae To aven prae 2012-11-27 16:08:05
+tc14b;hipp como;hl;+;;;;
+tc14b;koel pyra pyra;hl;+;;;; | Changed koel pyra To koel pyra pyra 2012-11-27 16:08:04
+tc14b;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc14b;leuc vulg;hl;+;;;;
+tc14b;lotu corn;hl;1;;;;
+tc14b;medi falc;hl;1;;;;
+tc14b;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc14b;phyt orbi;hl;1;;;;
+tc14b;poa prat;hl;+;;;;
+tc14b;poly odor;hl;1;;;;
+tc14b;pote erec;hl;2m;;;;
+tc14b;rhin mino;hl;2a;;;;
+tc14b;scab colu;hl;1;;;;
+tc14b;thes pyre alpe;hl;+;;;; | Changed thes pyre a To thes pyre alpe 2012-11-27 16:08:05
+tc14b;trif prat prat;hl;1;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc14b;trol euro;hl;2a;;;;
+tc14b;vici crac;hl;+;;;;
+tc15a;achi mill aggr;hl;2m;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc15a;anth vuln slat;hl;+;;;; | Changed anth vuln To anth vuln slat 2012-11-27 16:08:03
+tc15a;arrh elat;hl;1;;;;
+tc15a;homa pube pube;hl;+;;;; | Changed aven pube To homa pube pube 2012-11-27 16:08:03
+tc15a;briz medi;hl;+;;;;
+tc15a;brom erec;hl;2a;;;;
+tc15a;camp glom;hl;+;;;;
+tc15a;care cary;hl;+;;;;
+tc15a;caru carv;hl;+;;;;
+tc15a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc15a;dact glom glom;hl;1;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc15a;dant decu decu;hl;+;;;; | Changed dant decu To dant decu decu 2012-11-27 16:08:05
+tc15a;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tc15a;fest prat prat;hl;1;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc15a;fest rubr slat;hl;1;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc15a;gali albu;hl;+;;;;
+tc15a;knau arve arve;hl;2m;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc15a;koel pyra pyra;hl;+;;;; | Changed koel pyra To koel pyra pyra 2012-11-27 16:08:04
+tc15a;leon hisp slat;hl;2b;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc15a;leuc ircu;hl;1;;;;
+tc15a;lotu corn;hl;1;;;;
+tc15a;orob grac;hl;r;;;;
+tc15a;phyt orbi;hl;+;;;;
+tc15a;picr hier slat;hl;r;;;; | Changed picr hier To picr hier slat 2012-11-27 16:08:05
+tc15a;plan lanc;hl;2a;;;;
+tc15a;plan medi;hl;1;;;;
+tc15a;poa prat;hl;+;;;;
+tc15a;prun vulg;hl;2m;;;;
+tc15a;ranu mont;hl;+;;;;
+tc15a;ranu nemo;hl;+;;;;
+tc15a;salv prat prat;hl;+;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc15a;scab colu;hl;+;;;;
+tc15a;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc15a;tara sect rude;hl;+;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc15a;thal minu slat;hl;+;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc15a;trif prat prat;hl;2m;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc15a;trif repe repe;hl;+;;;;
+tc15a;vici crac;hl;+;;;;
+tc15b;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc15b;anth odor;hl;+;;;;
+tc15b;anth ramo;hl;1;;;;
+tc15b;anth vuln slat;hl;+;;;; | Changed anth vuln To anth vuln slat 2012-11-27 16:08:03
+tc15b;aqui atra;hl;+;;;;
+tc15b;bisc laev laev;hl;+;;;; | Changed bisc laev To bisc laev laev 2012-11-27 16:08:05
+tc15b;briz medi;hl;2a;;;;
+tc15b;brom erec;hl;2a;;;;
+tc15b;buph sali;hl;1;;;;
+tc15b;care cary;hl;+;;;;
+tc15b;care eric;hl;1;;;;
+tc15b;care mont;hl;2b;;;;
+tc15b;care orni;hl;+;;;;
+tc15b;care semp semp;hl;2a;;;; | Changed care semp To care semp semp 2012-11-27 16:08:05
+tc15b;cent scab scab;hl;+;;;; | Changed cent scab To cent scab scab 2012-11-27 16:08:04
+tc15b;colc autu;hl;1;;;;
+tc15b;dian cart cart;hl;+;voucher;29;; | Changed dian cart To dian cart cart 2012-11-27 16:08:05
+tc15b;fest brev;hl;1;voucher;26;;
+tc15b;fest rubr slat;hl;2a;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc15b;gali pumi;hl;+;;;;
+tc15b;gent vern vern;hl;+;;;; | Changed gent vern To gent vern vern 2012-11-27 16:08:06
+tc15b;gymn cono cono;hl;+;;;; | Changed gymn cono To gymn cono cono 2012-11-27 16:08:05
+tc15b;heli numm numm;hl;+;;;; | Changed heli numm To heli numm numm 2012-11-27 16:08:06
+tc15b;aven prae;hl;1;;;; | Changed heli prae To aven prae 2012-11-27 16:08:05
+tc15b;hipp como;hl;1;;;;
+tc15b;knau arve arve;hl;1;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc15b;koel pyra pyra;hl;1;;;; | Changed koel pyra To koel pyra pyra 2012-11-27 16:08:04
+tc15b;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc15b;leuc vulg;hl;1;;;;
+tc15b;lili bulb bulb;hl;+;;;; | Changed lili bulb To lili bulb bulb 2012-11-27 16:08:06
+tc15b;linu cath;hl;+;;;;
+tc15b;list ovat;hl;+;;;;
+tc15b;onob vici;hl;2a;;;;
+tc15b;phyt orbi;hl;+;;;;
+tc15b;pimp saxi slat;hl;+;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc15b;plan medi;hl;+;;;;
+tc15b;poly amar ella;hl;+;;;; | Changed poly amae To poly amar ella 2012-11-27 16:08:05
+tc15b;poly cham;hl;+;;;;
+tc15b;poly odor;hl;+;;;;
+tc15b;pers vivi;hl;1;;;; | Changed poly vivi To pers vivi 2012-11-27 16:08:06
+tc15b;pote erec;hl;1;;;;
+tc15b;prun vulg;hl;+;;;;
+tc15b;ranu nemo;hl;2m;;;;
+tc15b;salv prat prat;hl;1;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc15b;scab colu;hl;+;;;;
+tc15b;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc15b;thal minu slat;hl;1;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc15b;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc15b;trif mont mont;hl;1;;;; | Changed trif mont To trif mont mont 2012-11-27 16:08:06
+tc15b;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc15b;tris flav flav;hl;1;;;; | Changed tris flav To tris flav flav 2012-11-27 16:08:04
+tc15b;trol euro;hl;+;;;;
+tc15b;vero cham cham;hl;+;;;; | Changed vero cham c To vero cham cham 2012-11-27 16:08:04
+tc15b;viol hirt;hl;+;;;;
+tc16a;achi mill aggr;hl;2a;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc16a;arrh elat;hl;1;;;;
+tc16a;bell pere;hl;+;;;;
+tc16a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc16a;dact glom glom;hl;2b;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc16a;fest prat prat;hl;1;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc16a;gali albu;hl;+;;;;
+tc16a;knau arve arve;hl;1;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc16a;loli mult;hl;3;;;;
+tc16a;pimp majo majo;hl;1;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc16a;plan lanc;hl;1;;;;
+tc16a;plan majo majo;hl;+;;;; | Changed plan majo m To plan majo majo 2012-11-27 16:08:06
+tc16a;poa prat;hl;+;;;;
+tc16a;poa triv;hl;1;;;;
+tc16a;ranu acri acri;hl;1;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc16a;rume acet osa;hl;+;;;; | Changed rume acet To rume acet osa 2012-11-27 16:08:04
+tc16a;thal minu slat;hl;r;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc16a;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc16a;trif repe repe;hl;2m;;;;
+tc16a;vici crac;hl;+;;;;
+tc17a;achi mill aggr;hl;2b;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc17a;arrh elat;hl;2a;;;;
+tc17a;homa pube pube;hl;+;;;; | Changed aven pube To homa pube pube 2012-11-27 16:08:03
+tc17a;bell pere;hl;+;;;;
+tc17a;brom erec;hl;2b;;;;
+tc17a;care mont;hl;+;;;;
+tc17a;caru carv;hl;+;;;;
+tc17a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc17a;cera holo;hl;+;;;;
+tc17a;dact glom glom;hl;2b;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc17a;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tc17a;fest prat prat;hl;2a;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc17a;fest rubr slat;hl;1;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc17a;gali albu;hl;+;;;;
+tc17a;leon hisp slat;hl;1;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc17a;leuc vulg;hl;+;;;;
+tc17a;lotu corn;hl;+;;;;
+tc17a;medi lupu;hl;+;;;;
+tc17a;peuc oreo;hl;+;;;;
+tc17a;picr hier slat;hl;+;;;; | Changed picr hier To picr hier slat 2012-11-27 16:08:05
+tc17a;pimp majo majo;hl;1;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc17a;plan lanc;hl;1;;;;
+tc17a;plan majo majo;hl;+;;;; | Changed plan majo m To plan majo majo 2012-11-27 16:08:06
+tc17a;poa triv;hl;+;;;;
+tc17a;pote erec;hl;+;;;;
+tc17a;prun gran;hl;2m;;;;
+tc17a;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc17a;rume acet osa;hl;+;;;; | Changed rume acet To rume acet osa 2012-11-27 16:08:04
+tc17a;salv prat prat;hl;1;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc17a;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc17a;tara sect rude;hl;+;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc17a;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc17a;trif medi medi;hl;+;;;; | Changed trif medi To trif medi medi 2012-11-27 16:08:06
+tc17a;trif prat prat;hl;1;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc17a;trif repe repe;hl;1;;;;
+tc17a;tris flav flav;hl;+;;;; | Changed tris flav To tris flav flav 2012-11-27 16:08:04
+tc17a;vero cham cham;hl;+;;;; | Changed vero cham c To vero cham cham 2012-11-27 16:08:04
+tc18a;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc18a;agro capi;hl;+;;;; | Changed agro tenu To agro capi 2012-11-27 16:08:03
+tc18a;aqui atra;hl;+;;;;
+tc18a;aspe cyna;hl;r;;;;
+tc18a;astr majo;hl;+;;;;
+tc18a;berb vulg;hl;+;;;;
+tc18a;berb vulg;sl;+;;;;
+tc18a;brac rupe;hl;2a;;;;
+tc18a;buph sali;hl;+;;;;
+tc18a;cala vari;hl;+;;;;
+tc18a;call vulg;hl;+;;;;
+tc18a;camp glom;hl;+;;;;
+tc18a;camp sche;hl;+;;;;
+tc18a;care alba;hl;1;;;;
+tc18a;care flac;hl;+;;;;
+tc18a;care mont;hl;1;;;;
+tc18a;carl vulg vulg;hl;+;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc18a;dant decu decu;hl;+;;;; | Changed dant decu To dant decu decu 2012-11-27 16:08:05
+tc18a;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc18a;eric carn;hl;2b;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc18a;frag vesc;hl;2m;;;;
+tc18a;fran alnu;hl;+;;;;
+tc18a;fran alnu;sl;+;;;;
+tc18a;gali bore;hl;1;;;;
+tc18a;gali luci;hl;+;;;;
+tc18a;gali veru;hl;+;;;;
+tc18a;good repe;hl;+;;;;
+tc18a;hier bifi;hl;+;;;;
+tc18a;hylo sple;ml;2a;;;;
+tc18a;juni comm comm;hl;2m;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc18a;juni comm comm;sl;2b;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc18a;knau arve arve;hl;+;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc18a;knau maxi;hl;+;;;; | Changed knau dips To knau maxi 2012-11-27 16:08:06
+tc18a;lari deci deci;tl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc18a;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc18a;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc18a;ligu vulg;hl;+;;;;
+tc18a;lotu corn;hl;+;;;;
+tc18a;mela sylv;hl;+;;;;
+tc18a;meli nuta;hl;+;;;;
+tc18a;moli caer aggr;hl;+;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc18a;cerv rivi;hl;+;;;; | Changed peuc cerv To cerv rivi 2012-11-27 16:08:06
+tc18a;peuc oreo;hl;1;;;;
+tc18a;phyt orbi;hl;+;;;;
+tc18a;pice abie;hl;+;;;;
+tc18a;pice abie;tl;+;;;;
+tc18a;pimp saxi slat;hl;+;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc18a;pinu sylv;tl;4;;;;
+tc18a;plan lanc;hl;+;;;;
+tc18a;plan medi;hl;1;;;;
+tc18a;plat bifo;hl;+;;;;
+tc18a;pleu schr;ml;1;;;;
+tc18a;poa nemo;hl;+;;;;
+tc18a;poly cham;hl;1;;;;
+tc18a;pote erec;hl;1;;;;
+tc18a;prun gran;hl;1;;;;
+tc18a;prun vulg;hl;+;;;;
+tc18a;pter aqui;hl;+;;;;
+tc18a;ranu nemo;hl;+;;;;
+tc18a;rhyt triq;ml;3;;;;
+tc18a;rosa arve;hl;+;;;;
+tc18a;sang mino mino;hl;+;;;; | Changed sang mino mi To sang mino mino 2012-11-27 16:08:06
+tc18a;scab colu;hl;+;;;;
+tc18a;sesl caer;hl;2m;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc18a;succ prat;hl;+;;;;
+tc18a;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc18a;trif medi medi;hl;+;;;; | Changed trif medi To trif medi medi 2012-11-27 16:08:06
+tc18a;trif mont mont;hl;+;;;; | Changed trif mont To trif mont mont 2012-11-27 16:08:06
+tc18a;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc18a;vacc viti;hl;+;;;;
+tc18a;vibu lant;hl;+;;;;
+tc18a;viol hirt;hl;+;;;;
+tc18a;visc laxu laxu;tl;+;;;; | Changed visc laxu To visc laxu laxu 2012-11-27 16:08:06
+tc18b;acer pseu;hl;+;;;;
+tc18b;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc18b;agro capi;hl;+;;;; | Changed agro tenu To agro capi 2012-11-27 16:08:03
+tc18b;anth ramo;hl;+;;;;
+tc18b;anth vuln slat;hl;+;;;; | Changed anth vuln To anth vuln slat 2012-11-27 16:08:03
+tc18b;aqui atra;hl;+;;;;
+tc18b;aspe cyna;hl;+;;;;
+tc18b;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tc18b;astr majo;hl;+;;;;
+tc18b;berb vulg;hl;+;;;;
+tc18b;berb vulg;sl;1;;;;
+tc18b;betu pend;hl;+;;;;
+tc18b;brac rupe;hl;2a;;;;
+tc18b;buph sali;hl;1;;;;
+tc18b;camp glom;hl;+;;;;
+tc18b;camp pers;hl;+;;;;
+tc18b;camp rapu rapu;hl;+;;;;
+tc18b;camp sche;hl;+;;;;
+tc18b;care alba;hl;2m;;;;
+tc18b;care humi;hl;1;;;;
+tc18b;care mont;hl;+;;;;
+tc18b;carl acau slat;hl;+;;;; | Changed carl acau To carl acau slat 2012-11-27 16:08:06
+tc18b;cirs vulg;hl;r;;;;
+tc18b;corn sang slat;hl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc18b;corn sang slat;sl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc18b;cory avel;hl;1;;;;
+tc18b;cory avel;sl;+;;;;
+tc18b;crat mono;sl;+;;;;
+tc18b;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc18b;dant decu decu;hl;+;;;; | Changed dant decu To dant decu decu 2012-11-27 16:08:05
+tc18b;epip atro;hl;+;;;;
+tc18b;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc18b;eric carn;hl;2m;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc18b;frag vesc;hl;1;;;;
+tc18b;fran alnu;hl;+;;;;
+tc18b;fran alnu;sl;1;;;;
+tc18b;frax exce;hl;+;;;;
+tc18b;gali bore;hl;1;;;;
+tc18b;gali moll;hl;+;;;;
+tc18b;gali veru;hl;1;;;;
+tc18b;gent cili;hl;+;;;;
+tc18b;glob cord;hl;r;;;;
+tc18b;hier bifi;hl;+;;;;
+tc18b;hylo sple;ml;2b;;;;
+tc18b;juni comm comm;hl;2a;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc18b;juni comm comm;sl;2b;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc18b;lari deci deci;hl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc18b;lari deci deci;sl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc18b;lari deci deci;tl;1;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc18b;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc18b;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc18b;ligu vulg;hl;+;;;;
+tc18b;ligu vulg;sl;+;;;;
+tc18b;loni xylo;hl;+;;;;
+tc18b;loni xylo;sl;1;;;;
+tc18b;lotu corn;hl;+;;;;
+tc18b;mela prat;hl;+;;;;
+tc18b;mela sylv;hl;+;;;;
+tc18b;meli nuta;hl;+;;;;
+tc18b;moli caer aggr;hl;2m;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc18b;peuc oreo;hl;+;;;;
+tc18b;pice abie;hl;+;;;;
+tc18b;pice abie;sl;2a;;;;
+tc18b;pimp saxi slat;hl;+;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc18b;pinu sylv;hl;+;;;;
+tc18b;pinu sylv;sl;+;;;;
+tc18b;pinu sylv;tl;4;;;;
+tc18b;pleu schr;ml;1;;;;
+tc18b;pote erec;hl;+;;;;
+tc18b;prun gran;hl;1;;;;
+tc18b;ranu nemo;hl;+;;;;
+tc18b;rham cath;hl;+;;;;
+tc18b;rhyt triq;ml;3;;;;
+tc18b;rosa micr;hl;+;;;;
+tc18b;rubu sect rubu;hl;+;;;; | Changed rubu frut To rubu sect rubu 2012-11-27 16:08:06
+tc18b;sesl caer;hl;2m;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc18b;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc18b;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc18b;vacc viti;hl;+;;;;
+tc18b;vibu lant;hl;+;;;;
+tc18b;vibu lant;sl;+;;;;
+tc18b;viol hirt;hl;+;;;;
+tc18c;agro capi;hl;+;;;; | Changed agro tenu To agro capi 2012-11-27 16:08:03
+tc18c;ante carp;hl;1;;;;
+tc18c;anth ramo;hl;1;;;;
+tc18c;aspe cyna;hl;+;;;;
+tc18c;astr majo;hl;+;;;;
+tc18c;berb vulg;hl;1;;;;
+tc18c;brac rupe;hl;+;;;;
+tc18c;briz medi;hl;+;;;;
+tc18c;brom erec;hl;2a;;;;
+tc18c;buph sali;hl;1;;;;
+tc18c;cala vari;hl;1;;;;
+tc18c;camp glom;hl;+;;;;
+tc18c;camp rotu;hl;+;;;;
+tc18c;care alba;hl;1;;;;
+tc18c;care flac;hl;+;;;;
+tc18c;care mont;hl;1;;;;
+tc18c;carl acau slat;hl;1;;;; | Changed carl acau To carl acau slat 2012-11-27 16:08:06
+tc18c;carl vulg vulg;hl;+;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc18c;dant decu decu;hl;1;;;; | Changed dant decu To dant decu decu 2012-11-27 16:08:05
+tc18c;dicr scop;ml;2a;;;;
+tc18c;dory germ;hl;+;;;;
+tc18c;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc18c;epip hell atro;hl;+;;;; | Changed epip x sc To epip hell atro 2012-11-27 16:08:06
+tc18c;eric carn;hl;2b;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc18c;frag vesc;hl;1;;;;
+tc18c;fran alnu;hl;+;;;;
+tc18c;gali bore;hl;1;;;;
+tc18c;gali veru;hl;2m;;;;
+tc18c;hier bifi;hl;+;;;;
+tc18c;hylo sple;ml;+;;;;
+tc18c;juni comm comm;hl;2a;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc18c;knau maxi;hl;1;;;; | Changed knau dips To knau maxi 2012-11-27 16:08:06
+tc18c;koel pyra pyra;hl;1;;;; | Changed koel pyra To koel pyra pyra 2012-11-27 16:08:04
+tc18c;lari deci deci;hl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc18c;lari deci deci;sl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc18c;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc18c;leon hisp slat;hl;1;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc18c;linu cath;hl;+;;;;
+tc18c;lotu corn;hl;1;;;;
+tc18c;mela sylv;hl;2a;;;;
+tc18c;meli nuta;hl;+;;;;
+tc18c;moli caer aggr;hl;2a;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc18c;orob grac;hl;+;;;;
+tc18c;peuc oreo;hl;1;;;;
+tc18c;pice abie;hl;+;;;;
+tc18c;pice abie;sl;+;;;;
+tc18c;pimp saxi slat;hl;1;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc18c;pinu sylv;sl;+;;;;
+tc18c;pinu sylv;tl;4;;;;
+tc18c;plan lanc;hl;+;;;;
+tc18c;plan medi;hl;1;;;;
+tc18c;pleu schr;ml;3;;;;
+tc18c;poly cham;hl;1;;;;
+tc18c;pote erec;hl;+;;;;
+tc18c;prun gran;hl;2a;;;;
+tc18c;pter aqui;hl;2a;;;;
+tc18c;ranu nemo;hl;1;;;;
+tc18c;rhyt triq;ml;2b;;;;
+tc18c;rosa cani;hl;+;;;;
+tc18c;scab colu;hl;1;;;;
+tc18c;sesl caer;hl;2b;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc18c;sile vulg glar;hl;r;;;; | Changed sile glar To sile vulg glar 2012-11-27 16:08:06
+tc18c;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc18c;thym prae poly;hl;+;;;; | Changed thym poly To thym prae poly 2012-11-27 16:08:06
+tc18c;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc18c;trif medi medi;hl;2a;;;; | Changed trif medi To trif medi medi 2012-11-27 16:08:06
+tc18c;trif mont mont;hl;2m;;;; | Changed trif mont To trif mont mont 2012-11-27 16:08:06
+tc18c;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc18c;vacc viti;hl;+;;;;
+tc18c;viol coll;hl;+;;;;
+tc18c;viol hirt;hl;+;;;;
+tc1a;acer camp;hl;r;;;;
+tc1a;achi mill aggr;hl;2m;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc1a;anth sylv;hl;1;;;;
+tc1a;arrh elat;hl;+;;;;
+tc1a;bell pere;hl;+;;;;
+tc1a;caru carv;hl;1;;;;
+tc1a;crep bien;hl;1;;;;
+tc1a;dact glom glom;hl;2a;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc1a;fest rubr slat;hl;3;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc1a;gali albu;hl;2a;;;;
+tc1a;hera spho spho;hl;1;;;; | Changed hera spho s To hera spho spho 2012-11-27 16:12:27
+tc1a;holc lana;hl;+;;;;
+tc1a;knau arve arve;hl;+;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc1a;leon hisp slat;hl;1;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc1a;leuc ircu;hl;+;;;;
+tc1a;loli mult;hl;2a;;;;
+tc1a;lotu corn;hl;+;;;;
+tc1a;medi sati;hl;+;;;;
+tc1a;pimp majo majo;hl;2a;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc1a;plan lanc;hl;2a;;;;
+tc1a;poa triv;hl;1;;;;
+tc1a;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc1a;symp offi;hl;+;;;;
+tc1a;tara sect rude;hl;1;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc1a;trif prat prat;hl;2a;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc1a;trif repe repe;hl;2m;;;;
+tc1a;vici crac;hl;+;;;;
+tc1a;vici sepi;hl;+;;;;
+tc1b;achi mill aggr;hl;1;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc1b;arrh elat;hl;1;;;;
+tc1b;arte vulg;hl;+;;;;
+tc1b;brac rupe;hl;2b;;;;
+tc1b;brom erec;hl;2a;;;;
+tc1b;camp rapu rapu;hl;1;;;;
+tc1b;colc autu;hl;2a;;;;
+tc1b;erig annu slat;hl;+;;;; | Changed erig annu To erig annu slat 2012-11-27 16:08:03
+tc1b;fest brev;hl;3;voucher;7;4;
+tc1b;fest gues;hl;2a;;;;
+tc1b;fest rubr slat;hl;+;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc1b;gali albu;hl;2a;;;;
+tc1b;knau arve arve;hl;+;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc1b;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc1b;pimp saxi slat;hl;+;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc1b;poa prat;hl;+;;;;
+tc1b;pote pusi;hl;+;;;;
+tc1b;ranu bulb;hl;+;;;;
+tc1b;salv prat prat;hl;1;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc1b;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc1b;thym pule pule;hl;+;;;; | Changed thym pule To thym pule pule 2012-11-27 16:08:04
+tc1b;vero cham cham;hl;+;;;; | Changed vero cham c To vero cham cham 2012-11-27 16:08:04
+tc1b;vici crac;hl;+;;;;
+tc27a;ajug rept;hl;1;;;;
+tc27a;call cusp;hl;2a;;;;
+tc27a;call cusp;ml;2a;;;;
+tc27a;care elat;hl;r;;;;
+tc27a;cirs oler;hl;+;;;;
+tc27a;cirs palu;hl;+;;;;
+tc27a;clim dend;ml;+;;;;
+tc27a;colc autu;hl;+;;;;
+tc27a;phra aust;hl;5;;;;
+tc27a;plag nium undu;ml;+;;;;
+tc27a;pers bist;hl;+;;;; | Changed poly bist To pers bist 2012-11-27 16:08:05
+tc28a;agro stol;hl;+;;;;
+tc28a;ange sylv sylv;hl;2a;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc28a;anth odor;hl;+;;;;
+tc28a;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tc28a;call cusp;ml;2b;;;;
+tc28a;calt palu;hl;2a;;;;
+tc28a;camp stel;ml;2a;;;;
+tc28a;care dava;hl;+;;;;
+tc28a;care elat;hl;3;;;;
+tc28a;care pani;hl;1;;;;
+tc28a;care pani pani;hl;1;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tc28a;cirs palu;hl;r;;;;
+tc28a;dact inca inca;hl;2m;;;; | Changed dact inca To dact inca inca 2012-11-27 16:08:06
+tc28a;desc cesp;hl;+;;;;
+tc28a;scor coss;ml;3;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tc28a;scor revo;ml;+;;;; | Changed drep revo To scor revo 2012-11-27 16:08:05
+tc28a;equi palu;hl;+;;;;
+tc28a;erio lati;hl;+;;;;
+tc28a;fest prat prat;hl;+;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc28a;fest rubr slat;hl;2a;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc28a;fest tric;hl;+;voucher;4;;
+tc28a;fiss adia;ml;+;;;;
+tc28a;gali ulig;hl;1;;;;
+tc28a;gent vern vern;hl;+;;;; | Changed gent vern To gent vern vern 2012-11-27 16:08:06
+tc28a;holc lana;hl;1;;;;
+tc28a;linu cath;hl;+;;;;
+tc28a;lotu corn;hl;+;;;;
+tc28a;lych flos cucu;hl;+;;;; | Changed lych flos To lych flos cucu 2012-11-27 16:08:06
+tc28a;medi lupu;hl;+;;;;
+tc28a;ment arve;hl;1;;;;
+tc28a;meny trif;hl;2a;;;;
+tc28a;parn palu;hl;+;;;;
+tc28a;phra aust;hl;1;;;;
+tc28a;pote erec;hl;1;;;;
+tc28a;prun vulg;hl;+;;;;
+tc28a;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc28a;rhin mino;hl;+;;;;
+tc28a;sang offi;hl;1;;;;
+tc28a;tome nite;ml;1;;;;
+tc28a;trif prat prat;hl;1;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc28a;trif repe repe;hl;+;;;;
+tc28a;vale dioi dioi;hl;1;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tc28a;vero cham cham;hl;+;;;; | Changed vero cham c To vero cham cham 2012-11-27 16:08:04
+tc28a;vici crac;hl;+;;;;
+tc29a;acer pseu;hl;+;;;;
+tc29a;aego poda;hl;+;;;;
+tc29a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc29a;aqui atra;hl;1;;;;
+tc29a;berb vulg;hl;+;;;;
+tc29a;berb vulg;sl;1;;;;
+tc29a;brac rupe;hl;2a;;;;
+tc29a;briz medi;hl;+;;;;
+tc29a;cala vari;hl;+;;;;
+tc29a;camp trac;hl;+;;;;
+tc29a;care alba;hl;2a;;;;
+tc29a;care digi;hl;+;;;;
+tc29a;conv maja maja;hl;+;;;; | Changed conv maja To conv maja maja 2012-11-27 16:08:06
+tc29a;cory avel;hl;+;;;;
+tc29a;cory avel;sl;+;;;;
+tc29a;crat mono;hl;+;;;;
+tc29a;crat mono;sl;+;;;;
+tc29a;daph meze;hl;r;;;;
+tc29a;dauc caro caro;hl;+;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc29a;dryo cart;hl;+;;;;
+tc29a;dryo fili;hl;+;;;;
+tc29a;eric carn;hl;+;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc29a;frag vesc;hl;+;;;;
+tc29a;fran alnu;hl;+;;;;
+tc29a;fran alnu;sl;2a;;;;
+tc29a;frax exce;hl;1;;;;
+tc29a;frax exce;sl;+;;;;
+tc29a;gali bore;hl;+;;;;
+tc29a;gera robe;hl;+;;;;
+tc29a;hypn cupr;ml;2b;;;;
+tc29a;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc29a;juni comm comm;sl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc29a;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc29a;ligu vulg;hl;1;;;;
+tc29a;ligu vulg;sl;1;;;;
+tc29a;loni xylo;hl;+;;;;
+tc29a;loni xylo;sl;1;;;;
+tc29a;maia bifo;hl;+;;;;
+tc29a;mela prat;hl;1;;;;
+tc29a;mela sylv;hl;2a;;;;
+tc29a;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc29a;pari quad;hl;+;;;;
+tc29a;pice abie;hl;+;;;;
+tc29a;pice abie;tl;2b;;;;
+tc29a;pinu sylv;tl;2b;;;;
+tc29a;pleu schr;ml;2a;;;;
+tc29a;poly odor;hl;+;;;;
+tc29a;pote erec;hl;+;;;;
+tc29a;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc29a;prun padu padu;sl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc29a;pter aqui;hl;2a;;;;
+tc29a;ranu nemo;hl;+;;;;
+tc29a;rham cath;hl;+;;;;
+tc29a;rham cath;sl;+;;;;
+tc29a;rhyt triq;ml;1;;;;
+tc29a;ribe spec ies;hl;+;;;; | Changed ribe sp To  2012-11-27 16:08:07 | Changed ribe spec ies To  2012-11-27 16:11:29
+tc29a;rubu saxa;hl;1;;;;
+tc29a;sesl caer;hl;2b;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc29a;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc29a;sorb aucu aucu;hl;+;;;; | Changed sorb aucu To sorb aucu aucu 2012-11-27 16:08:07
+tc29a;thal minu slat;hl;+;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc29a;vale mont;hl;+;;;;
+tc29a;vibu lant;hl;+;;;;
+tc29a;vibu lant;sl;1;;;;
+tc29a;vibu opul;hl;1;;;;
+tc29a;viol hirt;hl;+;;;;
+tc2a;achi mill aggr;hl;r;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc2a;alnu inca;hl;+;;;;
+tc2a;alnu inca;sl;+;;;;
+tc2a;alnu inca;tl;+;;;;
+tc2a;amel lama;hl;+;;;;
+tc2a;amel lama;sl;+;;;;
+tc2a;berb vulg;hl;+;;;;
+tc2a;berb vulg;sl;1;;;;
+tc2a;betu pend;hl;+;;;;
+tc2a;clem vita;hl;1;;;;
+tc2a;clem vita;sl;1;;;;
+tc2a;clem vita;tl;+;;;;
+tc2a;corn sang slat;hl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc2a;corn sang slat;sl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc2a;cory avel;hl;+;;;;
+tc2a;crat mono;hl;r;;;;
+tc2a;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc2a;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc2a;euon euro;hl;r;;;;
+tc2a;frax exce;hl;+;;;;
+tc2a;hier muro;hl;+;;;; | Changed hier sylv To hier muro 2012-11-27 16:08:03
+tc2a;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc2a;juni comm comm;sl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc2a;lari deci deci;hl;r;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc2a;lari deci deci;tl;r;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc2a;loni xylo;hl;1;;;;
+tc2a;loni xylo;sl;1;;;;
+tc2a;pinu sylv;tl;5;;;;
+tc2a;prun cera ifera;hl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2a;prun cera ifera;sl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2a;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc2a;rham cath;hl;r;;;;
+tc2a;robi pseu;hl;+;;;;
+tc2a;robi pseu;sl;1;;;;
+tc2a;robi pseu;tl;2a;;;;
+tc2a;rosa arve;hl;+;;;;
+tc2a;sorb aria;hl;+;;;;
+tc2a;sorb aucu aucu;hl;+;;;; | Changed sorb aucu To sorb aucu aucu 2012-11-27 16:08:07
+tc2a;tara sect rude;hl;+;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc2a;vibu lant;hl;+;;;;
+tc2a;vibu lant;sl;+;;;;
+tc2b;aego poda;hl;+;;;;
+tc2b;alnu inca;hl;+;;;;
+tc2b;alnu inca;sl;1;;;;
+tc2b;alnu inca;tl;1;;;;
+tc2b;amel lama;hl;+;;;;
+tc2b;amel lama;sl;2a;;;;
+tc2b;amel lama;tl;1;;;;
+tc2b;berb vulg;hl;2a;;;;
+tc2b;berb vulg;sl;2m;;;;
+tc2b;brac rupe;hl;+;;;;
+tc2b;clem vita;hl;1;;;;
+tc2b;clem vita;sl;1;;;;
+tc2b;clem vita;tl;+;;;;
+tc2b;corn sang slat;hl;1;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc2b;corn sang slat;sl;1;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc2b;cory avel;hl;+;;;;
+tc2b;crat mono;hl;+;;;;
+tc2b;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc2b;euon euro;hl;+;;;;
+tc2b;fest rubr slat;hl;+;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc2b;fran alnu;hl;+;;;;
+tc2b;frax exce;hl;+;;;;
+tc2b;frax exce;sl;+;;;;
+tc2b;gali albu;hl;+;;;;
+tc2b;glec hede;hl;+;;;;
+tc2b;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc2b;lari deci deci;hl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc2b;lari deci deci;sl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc2b;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc2b;loni xylo;hl;1;;;;
+tc2b;loni xylo;sl;+;;;;
+tc2b;pice abie;hl;r;;;;
+tc2b;pinu sylv;sl;1;;;;
+tc2b;pinu sylv;tl;4;;;;
+tc2b;pren purp;hl;+;;;;
+tc2b;prun cera ifera;hl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2b;prun cera ifera;sl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2b;prun cera ifera;tl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2b;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc2b;prun padu padu;sl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc2b;rham cath;hl;+;;;;
+tc2b;robi pseu;hl;+;;;;
+tc2b;robi pseu;sl;2m;;;;
+tc2b;robi pseu;tl;2b;;;;
+tc2b;rubu caes;hl;+;;;;
+tc2b;samb nigr;hl;+;;;;
+tc2b;samb nigr;sl;2m;;;;
+tc2b;sola dulc;hl;r;;;;
+tc2b;soli cana;hl;+;;;;
+tc2b;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc2b;tara sect rude;hl;+;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc2b;ulmu glab;hl;+;;;;
+tc2b;ulmu glab;sl;+;;;;
+tc2b;vibu lant;hl;+;;;;
+tc2b;vibu lant;sl;+;;;;
+tc33a;acer pseu;hl;+;;;;
+tc33a;acer pseu;sl;+;;;;
+tc33a;aego poda;hl;2a;;;;
+tc33a;ajug rept;hl;+;;;;
+tc33a;alnu inca;hl;1;;;;
+tc33a;alnu inca;sl;2a;;;;
+tc33a;alnu inca;tl;1;;;;
+tc33a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc33a;anth sylv;hl;+;;;;
+tc33a;berb vulg;hl;1;;;;
+tc33a;camp trac;hl;1;;;;
+tc33a;care alba;hl;1;;;;
+tc33a;care digi;hl;1;;;;
+tc33a;chae hirs;hl;+;;;;
+tc33a;chel maju;hl;+;;;;
+tc33a;cirs oler;hl;+;;;;
+tc33a;corn sang slat;hl;1;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc33a;corn sang slat;sl;1;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc33a;daph meze;hl;1;;;;
+tc33a;desc cesp;hl;1;;;;
+tc33a;elym cani;hl;+;;;;
+tc33a;frax exce;hl;+;;;;
+tc33a;frax exce;sl;2a;;;;
+tc33a;frax exce;tl;4;;;;
+tc33a;gale mont;hl;2b;;;;
+tc33a;hypn cupr;ml;2b;;;;
+tc33a;loni xylo;hl;2b;;;;
+tc33a;loni xylo;sl;2b;;;;
+tc33a;meli nuta;hl;+;;;;
+tc33a;merc pere;hl;2b;;;;
+tc33a;moeh trin;hl;+;;;;
+tc33a;lact mura;hl;1;;;; | Changed myce mura To lact mura 2012-11-27 16:08:07
+tc33a;pari quad;hl;+;;;;
+tc33a;peta albu;hl;+;;;;
+tc33a;phyt spic;hl;+;;;;
+tc33a;poa nemo;hl;+;;;;
+tc33a;poly odor;hl;+;;;;
+tc33a;prun padu padu;hl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc33a;prun padu padu;sl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc33a;rham cath;hl;+;;;;
+tc33a;rubu caes;hl;4;;;;
+tc33a;salv glut;hl;1;;;;
+tc33a;samb nigr;hl;r;;;;
+tc33a;sile dioi;hl;+;;;;
+tc33a;thal aqui;hl;+;;;;
+tc33a;urti dioi dioi;hl;+;;;; | Changed urti dioi To urti dioi dioi 2012-11-27 16:08:07
+tc33a;vibu opul;hl;+;;;;
+tc33a;vibu opul;sl;+;;;;
+tc33a;viol hirt;hl;+;;;;
+tc33a;viol reic;hl;+;;;;
+tc34a;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc34a;aspe cyna;hl;+;;;;
+tc34a;aste amel;hl;+;;;;
+tc34a;brac rupe;hl;2a;;;;
+tc34a;briz medi;hl;+;;;;
+tc34a;brom erec;hl;3;;;;
+tc34a;buph sali;hl;1;;;;
+tc34a;camp rotu;hl;+;;;;
+tc34a;care cary;hl;1;;;;
+tc34a;care humi;hl;1;;;;
+tc34a;carl acau slat;hl;+;;;; | Changed carl acau To carl acau slat 2012-11-27 16:08:06
+tc34a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc34a;erig acri acri;hl;+;;;; | Changed erig acri ac To erig acri acri 2012-11-27 16:08:03
+tc34a;fest brev;hl;1;voucher;27;;
+tc34a;fest rubr slat;hl;+;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc34a;aven prae;hl;+;voucher;21;; | Changed heli prae To aven prae 2012-11-27 16:08:05
+tc34a;hier bifi;hl;+;;;;
+tc34a;hipp como;hl;+;;;;
+tc34a;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc34a;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc34a;lotu corn;hl;+;;;;
+tc34a;onon repe proc;hl;+;;;; | Changed onon repe To onon repe proc 2012-11-27 16:08:07
+tc34a;pinu sylv;hl;+;;;;
+tc34a;pote pusi;hl;+;;;;
+tc34a;prun gran;hl;+;;;;
+tc34a;salv prat prat;hl;+;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc34a;sang mino mino;hl;+;;;; | Changed sang mino mi To sang mino mino 2012-11-27 16:08:06
+tc34a;thal minu slat;hl;+;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc34a;tort tort;ml;+;;;;
+tc34a;trif medi medi;hl;2a;;;; | Changed trif medi To trif medi medi 2012-11-27 16:08:06
+tc34a;vici crac;hl;+;;;;
+tc35a;aqui atra;hl;+;;;;
+tc35a;arte vulg;hl;+;;;;
+tc35a;berb vulg;hl;+;;;;
+tc35a;berb vulg;sl;+;;;;
+tc35a;care alba;hl;+;;;;
+tc35a;care digi;hl;2m;;;;
+tc35a;care poly;hl;+;;;; | Changed care muri To care poly 2012-11-27 16:08:07
+tc35a;cirs arve;hl;+;;;;
+tc35a;clem vita;hl;r;;;;
+tc35a;clem vita;sl;r;;;;
+tc35a;corn sang slat;hl;2m;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc35a;corn sang slat;sl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc35a;crat mono;hl;+;;;;
+tc35a;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc35a;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc35a;erig annu slat;hl;+;;;; | Changed erig annu To erig annu slat 2012-11-27 16:08:03
+tc35a;frag vesc;hl;2b;;;;
+tc35a;gali albu;hl;1;;;;
+tc35a;gera robe;hl;1;;;;
+tc35a;hier lach;hl;+;;;;
+tc35a;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc35a;ligu vulg;hl;+;;;;
+tc35a;loni xylo;hl;1;;;;
+tc35a;lact mura;hl;+;;;; | Changed myce mura To lact mura 2012-11-27 16:08:07
+tc35a;part inse;hl;+;;;;
+tc35a;pice abie;hl;+;;;;
+tc35a;picr hier slat;hl;+;;;; | Changed picr hier To picr hier slat 2012-11-27 16:08:05
+tc35a;pinu sylv;tl;2a;;;;
+tc35a;plan majo majo;hl;+;;;; | Changed plan majo m To plan majo majo 2012-11-27 16:08:06
+tc35a;poa nemo;hl;1;;;;
+tc35a;pote rept;hl;+;;;;
+tc35a;prun padu padu;hl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc35a;ranu nemo;hl;+;;;;
+tc35a;rham cath;hl;+;;;;
+tc35a;ribe rubr;hl;r;;;;
+tc35a;rubu caes;hl;1;;;;
+tc35a;sali alba;sl;+;;;;
+tc35a;sali alba;tl;4;;;;
+tc35a;sali purp;tl;1;;;;
+tc35a;samb nigr;hl;+;;;;
+tc35a;samb nigr;sl;1;;;;
+tc35a;soli cana;hl;+;;;;
+tc35a;sorb aucu aucu;hl;+;;;; | Changed sorb aucu To sorb aucu aucu 2012-11-27 16:08:07
+tc35a;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc35a;vici crac;hl;+;;;;
+tc35a;vici sepi;hl;+;;;;
+tc36a;achi mill aggr;hl;1;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc36a;anth sylv;hl;+;;;;
+tc36a;arrh elat;hl;2a;;;;
+tc36a;care hirt;hl;+;;;;
+tc36a;caru carv;hl;+;;;;
+tc36a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc36a;chen albu slat;hl;+;;;; | Changed chen albu To chen albu slat 2012-11-27 16:08:07
+tc36a;cirs arve;hl;+;;;;
+tc36a;cirs oler;hl;1;;;;
+tc36a;cyno cris;hl;+;;;;
+tc36a;dact glom glom;hl;3;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc36a;dauc caro caro;hl;1;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc36a;gale bifi;hl;+;;;;
+tc36a;gali veru;hl;+;;;;
+tc36a;hera spho spho;hl;1;;;; | Changed hera spho s To hera spho spho 2012-11-27 16:12:27
+tc36a;loli pere;hl;1;;;;
+tc36a;past sati sati;hl;+;;;; | Changed past sati To past sati sati 2012-11-27 16:08:07
+tc36a;phle prat;hl;+;;;;
+tc36a;picr hier slat;hl;2m;;;; | Changed picr hier To picr hier slat 2012-11-27 16:08:05
+tc36a;pimp majo majo;hl;1;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc36a;plan majo majo;hl;+;;;; | Changed plan majo m To plan majo majo 2012-11-27 16:08:06
+tc36a;poa nemo;hl;1;;;;
+tc36a;pote erec;hl;+;;;;
+tc36a;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc36a;rume obtu obtu;hl;+;;;; | Changed rume obtu To rume obtu obtu 2012-11-27 16:08:07
+tc36a;stel gram;hl;+;;;;
+tc36a;stel medi;hl;+;;;;
+tc36a;tara sect rude;hl;1;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc36a;trif prat prat;hl;1;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc36a;trif repe repe;hl;1;;;;
+tc36a;urti dioi dioi;hl;1;;;; | Changed urti dioi To urti dioi dioi 2012-11-27 16:08:07
+tc36a;vici sepi;hl;+;;;;
+tc37a;achn cala;hl;1;;;;
+tc37a;alnu inca;hl;+;;;;
+tc37a;alnu inca;sl;2b;;;;
+tc37a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc37a;brac pinn;hl;1;;;;
+tc37a;brac rupe;hl;2b;;;;
+tc37a;buph sali;hl;1;;;;
+tc37a;camp patu;hl;+;;;;
+tc37a;card defl viri;hl;+;;;; | Changed card defl To card defl viri 2012-11-27 16:08:03
+tc37a;care alba;hl;+;;;;
+tc37a;care digi;hl;+;;;;
+tc37a;care mont;hl;+;;;;
+tc37a;care orni;hl;+;;;;
+tc37a;carl vulg vulg;hl;2m;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc37a;caru carv;hl;+;;;;
+tc37a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc37a;cirs arve;hl;+;;;;
+tc37a;clin vulg vulg;hl;+;;;; | Changed clin vulg To clin vulg vulg 2012-11-27 16:08:07
+tc37a;corn sang slat;hl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc37a;dauc caro caro;hl;+;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc37a;eric carn;hl;1;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc37a;frag vesc;hl;2a;;;;
+tc37a;fran alnu;hl;+;;;;
+tc37a;fran alnu;sl;+;;;;
+tc37a;gali veru;hl;+;;;;
+tc37a;gera robe;hl;+;;;;
+tc37a;gymn cono cono;hl;+;;;; | Changed gymn cono To gymn cono cono 2012-11-27 16:08:05
+tc37a;hier lach;hl;3;;;;
+tc37a;hier pilo ella;hl;2b;;;; | Changed hier pila To hier pilo ella 2012-11-27 16:08:07
+tc37a;hier muro;hl;+;;;; | Changed hier sylv To hier muro 2012-11-27 16:08:03
+tc37a;leon hisp hyos;hl;+;voucher;19;; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tc37a;linu cath;hl;+;;;;
+tc37a;loni xylo;hl;+;;;;
+tc37a;lotu corn;hl;+;;;;
+tc37a;medi lupu;hl;+;;;;
+tc37a;parn palu;hl;+;;;;
+tc37a;cerv rivi;hl;+;;;; | Changed peuc cerv To cerv rivi 2012-11-27 16:08:06
+tc37a;peuc oreo;hl;+;;;;
+tc37a;phyt orbi;hl;+;;;;
+tc37a;picr hier slat;hl;+;;;; | Changed picr hier To picr hier slat 2012-11-27 16:08:05
+tc37a;pimp majo majo;hl;+;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc37a;pimp saxi slat;hl;+;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc37a;pinu sylv;hl;2a;;;;
+tc37a;pinu sylv;sl;2b;;;;
+tc37a;pote erec;hl;1;;;;
+tc37a;prun gran;hl;+;;;;
+tc37a;pter aqui;hl;+;;;;
+tc37a;ranu nemo;hl;+;;;;
+tc37a;sali elea elea;sl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc37a;sali myrs;hl;+;;;;
+tc37a;sali purp;sl;1;;;;
+tc37a;sang mino bale;hl;+;;;; | Changed sang mino mu To sang mino bale 2012-11-27 16:08:07
+tc37a;sola dulc;hl;r;;;;
+tc37a;soli cana;hl;+;;;;
+tc37a;thym prae prae;hl;+;;;; | Changed thym prae To thym prae prae 2012-11-27 16:08:07
+tc37a;tofi caly;hl;+;;;;
+tc37a;tort tort;ml;3;;;;
+tc37a;trif mont mont;hl;+;;;; | Changed trif mont To trif mont mont 2012-11-27 16:08:06
+tc37a;tuss farf;hl;2a;;;;
+tc37a;vero offi;hl;+;;;;
+tc37a;vici crac;hl;+;;;;
+tc38a;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc38a;anth odor;hl;1;;;;
+tc38a;homa pube pube;hl;+;;;; | Changed aven pube To homa pube pube 2012-11-27 16:08:03
+tc38a;briz medi;hl;1;;;;
+tc38a;call cusp;ml;3;;;;
+tc38a;camp stel;ml;1;;;;
+tc38a;care dava;hl;+;;;;
+tc38a;care elat;hl;2a;;;;
+tc38a;care flac;hl;+;;;;
+tc38a;care pani;hl;1;;;;
+tc38a;care pani pani;hl;1;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tc38a;caru carv;hl;+;;;;
+tc38a;colc autu;hl;+;;;;
+tc38a;equi palu;hl;+;;;;
+tc38a;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tc38a;fest prat prat;hl;2m;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc38a;fest rubr slat;hl;2b;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc38a;gali palu palu;hl;+;;;; | Changed gali palu To gali palu palu 2012-11-27 16:08:05
+tc38a;gali ulig;hl;+;;;;
+tc38a;geum riva;hl;+;;;;
+tc38a;holc lana;hl;1;;;;
+tc38a;knau arve arve;hl;+;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc38a;leuc ircu;hl;+;;;;
+tc38a;lotu corn;hl;1;;;;
+tc38a;lych flos cucu;hl;2a;;;; | Changed lych flos To lych flos cucu 2012-11-27 16:08:06
+tc38a;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc38a;myos palu aggr;hl;+;;;; | Changed myos palu To myos palu aggr 2012-11-27 16:08:07
+tc38a;phra aust;hl;2m;;;;
+tc38a;pimp majo majo;hl;+;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc38a;plan lanc;hl;+;;;;
+tc38a;pers vivi;hl;2m;;;; | Changed poly vivi To pers vivi 2012-11-27 16:08:06
+tc38a;prun vulg;hl;+;;;;
+tc38a;ranu acri acri;hl;2a;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc38a;tome nite;ml;1;;;;
+tc38a;trif dubi;hl;+;;;;
+tc38a;trif prat prat;hl;2a;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc38a;trif repe repe;hl;2m;;;;
+tc39a;ajug rept;hl;+;;;;
+tc39a;alnu inca;hl;+;;;;
+tc39a;alnu inca;sl;2a;;;;
+tc39a;alnu inca;tl;3;;;;
+tc39a;calt palu;hl;2a;;;;
+tc39a;card amar aust;hl;+;;;; | Changed card amar To card amar aust 2012-11-27 16:08:07
+tc39a;care acut a;hl;2a;;;; | Changed care grac To care acut a 2012-11-27 16:08:07
+tc39a;chel maju;hl;+;;;;
+tc39a;cirs oler;hl;1;;;;
+tc39a;corn sang slat;sl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc39a;cory avel;sl;1;;;;
+tc39a;equi arve;hl;+;;;;
+tc39a;equi palu;hl;+;;;;
+tc39a;fest arun slat;hl;+;;;; | Changed fest arun To fest arun slat 2012-11-27 16:08:07
+tc39a;fili ulma slat;hl;2b;;;; | Changed fili ulma u To fili ulma slat 2012-11-27 16:08:07
+tc39a;fran alnu;hl;+;;;;
+tc39a;fran alnu;sl;+;;;;
+tc39a;gali albu;hl;1;;;;
+tc39a;gera robe;hl;+;;;;
+tc39a;geum riva;hl;+;;;;
+tc39a;lari deci deci;sl;+;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc39a;ligu vulg;sl;+;;;;
+tc39a;loni xylo;hl;+;;;;
+tc39a;loni xylo;sl;1;;;;
+tc39a;ment aqua;hl;+;;;;
+tc39a;myos palu aggr;hl;+;;;; | Changed myos palu To myos palu aggr 2012-11-27 16:08:07
+tc39a;phra aust;hl;3;;;;
+tc39a;pinu sylv;tl;1;;;;
+tc39a;poa triv;hl;+;;;;
+tc39a;popu trem;sl;+;;;;
+tc39a;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc39a;prun padu padu;sl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc39a;rubu sect rubu;hl;+;;;; | Changed rubu frut To rubu sect rubu 2012-11-27 16:08:06
+tc39a;sali capr;sl;+;;;;
+tc39a;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc39a;sali elea elea;sl;2a;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc39a;sali elea elea;tl;2a;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc39a;sali myrs;sl;2a;;;;
+tc39a;sali purp;hl;+;;;;
+tc39a;sali purp;sl;2a;;;;
+tc39a;samb nigr;sl;2b;;;;
+tc39a;urti dioi dioi;hl;1;;;; | Changed urti dioi To urti dioi dioi 2012-11-27 16:08:07
+tc39a;vale offi offi;hl;+;;;; | Changed vale offi To vale offi offi 2012-11-27 16:08:07
+tc39a;vici sepi;hl;+;;;;
+tc39b;aego poda;hl;1;;;;
+tc39b;arrh elat;hl;+;;;;
+tc39b;calt palu;hl;2a;;;;
+tc39b;card amar aust;hl;1;;;; | Changed card amar To card amar aust 2012-11-27 16:08:07
+tc39b;care acut a;hl;1;;;; | Changed care grac To care acut a 2012-11-27 16:08:07
+tc39b;care rost;hl;+;;;;
+tc39b;chel maju;hl;+;;;;
+tc39b;cirs oler;hl;1;;;;
+tc39b;corn sang slat;sl;3;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc39b;cory avel;sl;+;;;;
+tc39b;equi arve;hl;1;;;;
+tc39b;equi fluv;hl;+;;;;
+tc39b;fest prat prat;hl;+;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc39b;fili ulma slat;hl;2m;;;; | Changed fili ulma u To fili ulma slat 2012-11-27 16:08:07
+tc39b;frax exce;sl;2a;;;;
+tc39b;frax exce;tl;1;;;;
+tc39b;gali albu;hl;+;;;;
+tc39b;glyc nota;hl;+;;;;
+tc39b;lari deci deci;tl;2a;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc39b;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tc39b;ligu vulg;hl;1;;;;
+tc39b;ligu vulg;sl;1;;;;
+tc39b;myos palu aggr;hl;+;;;; | Changed myos palu To myos palu aggr 2012-11-27 16:08:07
+tc39b;pice abie;hl;+;;;;
+tc39b;pice abie;tl;+;;;;
+tc39b;pinu sylv;tl;2a;;;;
+tc39b;poa triv;hl;+;;;;
+tc39b;popu trem;sl;+;;;;
+tc39b;popu trem;tl;+;;;;
+tc39b;prun padu padu;sl;2a;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc39b;ranu acri acri;hl;+;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc39b;rosa cory;sl;r;;;;
+tc39b;rubu caes;hl;2b;;;;
+tc39b;rubu sect rubu;hl;1;;;; | Changed rubu frut To rubu sect rubu 2012-11-27 16:08:06
+tc39b;sali alba;sl;2b;;;;
+tc39b;sali alba;tl;1;;;;
+tc39b;sali myrs;hl;1;;;;
+tc39b;sali myrs;sl;2a;;;;
+tc39b;sali purp;hl;1;;;;
+tc39b;sali purp;sl;2a;;;;
+tc39b;samb nigr;sl;2b;;;;
+tc39b;scir sylv;hl;1;;;;
+tc39b;vero anag tica;hl;2m;;;; | Changed vero anag To vero anag tica 2012-11-27 16:08:08
+tc39b;vero becc;hl;+;;;;
+tc39b;vici sepi;hl;+;;;;
+tc3a;amel oval;hl;+;;;;
+tc3a;amel oval;sl;+;;;;
+tc3a;anth ramo;hl;+;;;;
+tc3a;berb vulg;hl;1;;;;
+tc3a;berb vulg;sl;1;;;;
+tc3a;brac rupe;hl;2m;;;;
+tc3a;camp rotu;hl;+;;;;
+tc3a;care alba;hl;2m;;;;
+tc3a;care humi;hl;1;;;;
+tc3a;corn sang slat;hl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc3a;cory avel;hl;+;;;;
+tc3a;crat mono;hl;+;;;;
+tc3a;dory germ;hl;+;;;;
+tc3a;epip atro;hl;r;;;;
+tc3a;epip hell atro;hl;+;;;; | Changed epip x sc To epip hell atro 2012-11-27 16:08:06
+tc3a;eric carn;hl;5;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc3a;euph cypa;hl;+;;;;
+tc3a;frag mosc;hl;+;;;;
+tc3a;fran alnu;hl;+;;;;
+tc3a;fran alnu;sl;+;;;;
+tc3a;gali bore;hl;+;;;;
+tc3a;gali luci;hl;+;;;;
+tc3a;hier bifi;hl;+;;;;
+tc3a;hier muro;hl;+;;;; | Changed hier sylv To hier muro 2012-11-27 16:08:03
+tc3a;hypn cupr;ml;3;;;;
+tc3a;jugl regi;hl;+;;;;
+tc3a;jugl regi;sl;+;;;;
+tc3a;juni comm comm;hl;2m;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc3a;juni comm comm;sl;1;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc3a;ligu vulg;hl;+;;;;
+tc3a;loni xylo;hl;+;;;;
+tc3a;loni xylo;sl;+;;;;
+tc3a;mela prat;hl;2a;;;;
+tc3a;meli nuta;hl;+;;;;
+tc3a;peuc oreo;hl;+;;;;
+tc3a;pice abie;hl;r;;;;
+tc3a;pice abie;sl;r;;;;
+tc3a;pinu sylv;hl;+;;;;
+tc3a;pinu sylv;sl;+;;;;
+tc3a;pinu sylv;tl;4;;;;
+tc3a;pleu schr;ml;2b;;;;
+tc3a;poly cham;hl;1;;;;
+tc3a;pote erec;hl;+;;;;
+tc3a;rham saxa saxa;hl;+;;;; | Changed rham saxa To rham saxa saxa 2012-11-27 16:08:08
+tc3a;rhyt triq;ml;2a;;;;
+tc3a;rosa rubi;hl;r;;;;
+tc3a;sesl caer;hl;2m;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc3a;sorb aria;hl;+;;;;
+tc3a;vibu lant;hl;+;;;;
+tc3a;vinc hiru;hl;+;;;;
+tc3b;achn cala;hl;2a;;;;
+tc3b;alnu inca;hl;+;;;;
+tc3b;alnu inca;sl;+;;;;
+tc3b;alnu inca;tl;r;;;;
+tc3b;amel oval;hl;1;;;;
+tc3b;amel oval;sl;1;;;;
+tc3b;anth ramo;hl;+;;;;
+tc3b;betu pend;hl;+;;;;
+tc3b;betu pend;sl;r;;;;
+tc3b;buph sali;hl;+;;;;
+tc3b;care alba;hl;+;;;;
+tc3b;care digi;hl;+;;;;
+tc3b;care humi;hl;2b;;;;
+tc3b;care orni;hl;+;;;;
+tc3b;carl vulg vulg;hl;+;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc3b;dory germ;hl;+;;;;
+tc3b;drya octo;hl;+;;;;
+tc3b;epip atro;hl;+;;;;
+tc3b;epip hell atro;hl;+;;;; | Changed epip x sc To epip hell atro 2012-11-27 16:08:06
+tc3b;eric carn;hl;4;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc3b;euph sali;hl;+;;;;
+tc3b;fran alnu;hl;1;;;;
+tc3b;fran alnu;sl;+;;;;
+tc3b;gali bore;hl;1;;;;
+tc3b;gali luci;hl;+;;;;
+tc3b;glob cord;hl;+;;;;
+tc3b;hier bifi;hl;1;;;;
+tc3b;hier pilo ides;hl;+;;;; | Changed hier pilo To hier pilo ides 2012-11-27 16:08:08
+tc3b;hypn cupr;ml;2m;;;;
+tc3b;juni comm comm;hl;2a;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc3b;juni comm comm;sl;4;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc3b;leon inca;hl;+;;;;
+tc3b;meli nuta;hl;+;;;;
+tc3b;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc3b;peuc oreo;hl;+;;;;
+tc3b;pice abie;hl;+;;;;
+tc3b;pinu mugo;sl;r;;;;
+tc3b;pinu sylv;tl;3;;;;
+tc3b;pleu schr;ml;2a;;;;
+tc3b;poly cham;hl;2m;;;;
+tc3b;poly odor;hl;+;;;;
+tc3b;prun gran;hl;+;;;;
+tc3b;rham saxa saxa;hl;1;;;; | Changed rham saxa To rham saxa saxa 2012-11-27 16:08:08
+tc3b;rhyt triq;ml;1;;;;
+tc3b;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc3b;sali elea elea;sl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc3b;sali purp;hl;+;;;;
+tc3b;sali purp;sl;+;;;;
+tc3b;sesl caer;hl;2a;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc3b;sorb aucu aucu;hl;+;;;; | Changed sorb aucu To sorb aucu aucu 2012-11-27 16:08:07
+tc3b;sorb aucu aucu;sl;r;;;; | Changed sorb aucu To sorb aucu aucu 2012-11-27 16:08:07
+tc3b;teuc mont;hl;+;;;;
+tc3b;tofi caly;hl;+;;;;
+tc3b;tort tort;ml;+;;;;
+tc3b;visc laxu laxu;hl;+;;;; | Changed visc laxu To visc laxu laxu 2012-11-27 16:08:06
+tc40a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
+tc40a;bell mich;hl;2a;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tc40a;briz medi;hl;+;;;;
+tc40a;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tc40a;call cusp;ml;3;;;;
+tc40a;camp stel;ml;2a;;;;
+tc40a;care flac;hl;1;;;;
+tc40a;care pani;hl;1;;;;
+tc40a;cirs palu;hl;+;;;;
+tc40a;colc autu;hl;+;;;;
+tc40a;dact inca inca;hl;r;;;; | Changed dact inca To dact inca inca 2012-11-27 16:08:06
+tc40a;scor coss;ml;+;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tc40a;gali bore;hl;2b;;;;
+tc40a;gali ulig;hl;1;;;;
+tc40a;holc lana;hl;+;;;;
+tc40a;junc subn;hl;3;;;;
+tc40a;lych flos cucu;hl;+;;;; | Changed lych flos To lych flos cucu 2012-11-27 16:08:06
+tc40a;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc40a;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tc40a;phra aust;hl;+;;;;
+tc40a;phyt orbi;hl;+;;;;
+tc40a;poly amar brac;hl;+;;;; | Changed poly amar b To poly amar brac 2012-11-27 16:08:08
+tc40a;pers bist;hl;+;;;; | Changed poly bist To pers bist 2012-11-27 16:08:05
+tc40a;pote erec;hl;1;;;;
+tc40a;sang offi;hl;2a;;;;
+tc40a;scab colu;hl;2m;;;;
+tc40a;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc40a;succ prat;hl;+;;;;
+tc40a;tome nite;ml;2a;;;;
+tc40a;vici crac;hl;+;;;;
+tc41a;achi mill aggr;hl;2a;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc41a;anth sylv;hl;+;;;;
+tc41a;aren serp;hl;+;;;;
+tc41a;arrh elat;hl;2a;;;;
+tc41a;homa pube pube;hl;1;;;; | Changed aven pube To homa pube pube 2012-11-27 16:08:03
+tc41a;camp glom;hl;1;;;;
+tc41a;camp patu;hl;+;;;;
+tc41a;caru carv;hl;1;;;;
+tc41a;cent scab scab;hl;+;;;; | Changed cent scab To cent scab scab 2012-11-27 16:08:04
+tc41a;crep bien;hl;+;;;;
+tc41a;dact glom glom;hl;3;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc41a;fest prat prat;hl;2b;;;; | Changed fest prat To fest prat prat 2012-11-27 16:08:04
+tc41a;fest rubr slat;hl;2a;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc41a;gali albu;hl;2b;;;;
+tc41a;hera spho spho;hl;+;;;; | Changed hera spho s To hera spho spho 2012-11-27 16:12:27
+tc41a;knau arve arve;hl;+;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc41a;leon hisp slat;hl;+;;;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tc41a;leuc ircu;hl;2a;;;;
+tc41a;lotu corn;hl;+;;;;
+tc41a;medi lupu;hl;+;;;;
+tc41a;pimp majo majo;hl;1;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tc41a;plan lanc;hl;1;;;;
+tc41a;plan medi;hl;+;;;;
+tc41a;poa prat;hl;+;;;;
+tc41a;ranu acri acri;hl;1;;;; | Changed ranu acri To ranu acri acri 2012-11-27 16:08:04
+tc41a;ranu repe;hl;+;;;;
+tc41a;rume acet osa;hl;+;;;; | Changed rume acet To rume acet osa 2012-11-27 16:08:04
+tc41a;salv prat prat;hl;1;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc41a;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc41a;tara sect rude;hl;+;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc41a;thal minu slat;hl;+;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc41a;trag orie;hl;1;;;;
+tc41a;trif prat prat;hl;1;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tc41a;tris flav flav;hl;1;;;; | Changed tris flav To tris flav flav 2012-11-27 16:08:04
+tc41a;vici crac;hl;+;;;;
+tc41a;vici sepi;hl;1;;;;
+tc42a;achi mill aggr;hl;+;voucher;1;2; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tc42a;arrh elat;hl;1;;;;
+tc42a;brac pinn;hl;+;;;;
+tc42a;brac rupe;hl;1;;;;
+tc42a;brom erec;hl;2b;;;;
+tc42a;camp glom;hl;+;;;;
+tc42a;care cary;hl;+;;;;
+tc42a;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tc42a;cent scab scab;hl;+;;;; | Changed cent scab To cent scab scab 2012-11-27 16:08:04
+tc42a;conv arve;hl;+;;;;
+tc42a;secu vari;hl;+;;;; | Changed coro vari To secu vari 2012-11-27 16:08:08
+tc42a;dian cart cart;hl;r;;;; | Changed dian cart To dian cart cart 2012-11-27 16:08:05
+tc42a;dian sylv;hl;r;;;;
+tc42a;fest brev;hl;2a;voucher;2;4;
+tc42a;fest gues;hl;2a;voucher;6;;
+tc42a;fest stri sulc;hl;+;;;; | Changed fest rupi To fest stri sulc 2012-11-27 16:08:08
+tc42a;gali albu;hl;+;;;;
+tc42a;heli numm numm;hl;+;;;; | Changed heli numm To heli numm numm 2012-11-27 16:08:06
+tc42a;aven prae;hl;+;;;; | Changed heli prae To aven prae 2012-11-27 16:08:05
+tc42a;knau arve arve;hl;+;;;; | Changed knau arve To knau arve arve 2012-11-27 16:08:04
+tc42a;medi falc;hl;1;;;;
+tc42a;onob vici;hl;+;;;;
+tc42a;pimp saxi slat;hl;+;;;; | Changed pimp saxi To pimp saxi slat 2012-11-27 16:08:06
+tc42a;plan lanc;hl;+;;;;
+tc42a;plan medi;hl;+;;;;
+tc42a;ranu bulb;hl;+;;;;
+tc42a;salv prat prat;hl;2m;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc42a;sang mino mino;hl;+;;;; | Changed sang mino mi To sang mino mino 2012-11-27 16:08:06
+tc42a;sile vulg vulg;hl;+;;;; | Changed sile vulg v To sile vulg vulg 2012-11-27 16:08:04
+tc42a;vinc hiru;hl;+;;;;
+tc43a;achn cala;hl;2a;;;;
+tc43a;alnu inca;sl;+;;;;
+tc43a;aspe cyna;hl;+;;;;
+tc43a;betu pend;sl;1;;;;
+tc43a;brom erec;hl;2a;;;;
+tc43a;buph sali;hl;+;;;;
+tc43a;camp coch;hl;+;;;;
+tc43a;care humi;hl;+;;;;
+tc43a;corn sang slat;hl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc43a;corn sang slat;sl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc43a;secu vari;hl;+;;;; | Changed coro vari To secu vari 2012-11-27 16:08:08
+tc43a;cory avel;hl;+;;;;
+tc43a;cory avel;sl;+;;;;
+tc43a;dauc caro caro;hl;+;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc43a;epip atro;hl;+;;;;
+tc43a;fran alnu;sl;1;;;;
+tc43a;gali veru;hl;+;;;;
+tc43a;hier bifi;hl;+;;;;
+tc43a;chlo stat;hl;1;;;; | Changed hier stat To chlo stat 2012-11-27 16:08:08
+tc43a;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc43a;ligu vulg;sl;r;;;;
+tc43a;lotu corn;hl;+;;;;
+tc43a;onob vici;hl;+;;;;
+tc43a;pinu sylv;hl;1;;;;
+tc43a;pinu sylv;sl;2b;;;;
+tc43a;pinu sylv;tl;2a;;;;
+tc43a;plan mari;hl;r;;;;
+tc43a;popu trem;sl;1;;;;
+tc43a;rosa rubi;hl;+;;;;
+tc43a;sali elea elea;sl;2a;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc43a;sali elea elea;tl;1;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc43a;salv prat prat;hl;+;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc43a;scab colu;hl;r;;;;
+tc43a;sorb aria;sl;+;;;;
+tc43a;thes rost;hl;+;voucher;24;;
+tc43a;thym prae prae;hl;+;;;; | Changed thym prae To thym prae prae 2012-11-27 16:08:07
+tc44a;alli lusi;hl;+;;;; | Changed alli mont To alli lusi 2012-11-27 16:08:08
+tc44a;anth ramo;hl;2a;;;;
+tc44a;anth vuln slat;hl;+;;;; | Changed anth vuln To anth vuln slat 2012-11-27 16:08:03
+tc44a;aspe tinc;hl;2m;voucher;20;;
+tc44a;brac rupe;hl;2a;;;;
+tc44a;brom erec;hl;1;;;;
+tc44a;care humi;hl;2a;;;;
+tc44a;fest amet amet;hl;+;;;; | Changed fest amet To fest amet amet 2012-11-27 16:08:04
+tc44a;fest brev;hl;2a;voucher;5;2;
+tc44a;gali bore;hl;+;;;;
+tc44a;gali wirt;hl;+;;;;
+tc44a;gera sang;hl;+;;;;
+tc44a;glob bisn;hl;+;;;;
+tc44a;aven prae;hl;+;;;; | Changed heli prae To aven prae 2012-11-27 16:08:05
+tc44a;hype perf;hl;+;;;;
+tc44a;koel pyra pyra;hl;1;;;; | Changed koel pyra To koel pyra pyra 2012-11-27 16:08:04
+tc44a;lase lati lati;hl;r;;;; | Changed lase lati To lase lati lati 2012-11-27 16:08:08
+tc44a;lase sile sile;hl;3;;;; | Changed lase sile To lase sile sile 2012-11-27 16:08:08
+tc44a;lili bulb bulb;hl;+;;;; | Changed lili bulb To lili bulb bulb 2012-11-27 16:08:06
+tc44a;meli nuta;hl;+;;;;
+tc44a;peuc oreo;hl;1;;;;
+tc44a;poly odor;hl;2m;;;;
+tc44a;salv prat prat;hl;+;;;; | Changed salv prat To salv prat prat 2012-11-27 16:08:04
+tc44a;scab colu;hl;+;;;;
+tc44a;sile nuta nuta;hl;+;;;; | Changed sile nuta To sile nuta nuta 2012-11-27 16:08:04
+tc44a;teuc cham;hl;+;;;;
+tc44a;thal minu slat;hl;2a;;;; | Changed thal minu To thal minu slat 2012-11-27 16:08:05
+tc44a;vinc hiru;hl;+;;;;
+tc44a;viol hirt;hl;+;;;;
+tc4a;achn cala;hl;2m;;;;
+tc4a;anth ramo;hl;+;;;;
+tc4a;berb vulg;hl;+;;;;
+tc4a;both isch;hl;+;;;; | Changed botr isch To both isch 2012-11-27 16:08:08
+tc4a;brac rupe;hl;1;;;;
+tc4a;buph sali;hl;+;;;;
+tc4a;card defl viri;hl;+;;;; | Changed card defl To card defl viri 2012-11-27 16:08:03
+tc4a;care humi;hl;2a;;;;
+tc4a;dian sylv;hl;+;;;;
+tc4a;dory germ;hl;+;;;;
+tc4a;eric carn;hl;+;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc4a;fran alnu;hl;+;;;;
+tc4a;gali luci;hl;+;;;;
+tc4a;glob bisn;hl;r;voucher;25;;
+tc4a;grim tere;ml;+;;;;
+tc4a;juni comm comm;sl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc4a;leon inca;hl;+;;;;
+tc4a;peuc oreo;hl;1;;;;
+tc4a;pinu sylv;sl;1;;;;
+tc4a;poly odor;hl;1;;;;
+tc4a;pote caul;hl;+;;;;
+tc4a;pote pusi;hl;r;;;;
+tc4a;rham saxa saxa;hl;+;;;; | Changed rham saxa To rham saxa saxa 2012-11-27 16:08:08
+tc4a;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc4a;teuc mont;hl;+;;;;
+tc4a;thym prae prae;hl;+;;;; | Changed thym prae To thym prae prae 2012-11-27 16:08:07
+tc4a;tort tort;ml;1;;;;
+tc4a;vinc hiru;hl;+;;;;
+tc5a;achn cala;hl;1;;;;
+tc5a;agro stol;hl;+;;;;
+tc5a;alnu inca;hl;2a;;;;
+tc5a;alnu inca;sl;3;;;;
+tc5a;alnu inca;tl;3;;;;
+tc5a;arrh elat;hl;+;;;;
+tc5a;arte vulg;hl;r;;;;
+tc5a;berb vulg;hl;1;;;;
+tc5a;berb vulg;sl;1;;;;
+tc5a;brac sylv;hl;1;;;;
+tc5a;care humi;hl;1;;;;
+tc5a;cirs vulg;hl;+;;;;
+tc5a;clem vita;hl;2b;;;;
+tc5a;clem vita;sl;2a;;;;
+tc5a;clem vita;tl;+;;;;
+tc5a;erig cana;hl;1;;;; | Changed cony cana To erig cana 2012-11-27 16:08:08
+tc5a;corn sang slat;hl;2m;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc5a;crat mono;sl;+;;;;
+tc5a;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc5a;elym cani;hl;1;;;;
+tc5a;epip hell slat;hl;r;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc5a;erig annu slat;hl;+;;;; | Changed erig annu To erig annu slat 2012-11-27 16:08:03
+tc5a;eurh stri;ml;2b;;;;
+tc5a;fest rubr slat;hl;+;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tc5a;fran alnu;sl;1;;;;
+tc5a;frax exce;sl;+;;;;
+tc5a;gali albu;hl;1;;;;
+tc5a;gera robe;hl;+;;;;
+tc5a;hede heli;hl;3;;;;
+tc5a;hera spho spho;hl;+;;;; | Changed hera spho s To hera spho spho 2012-11-27 16:12:27
+tc5a;ligu vulg;hl;+;;;;
+tc5a;ligu vulg;sl;+;;;;
+tc5a;loni xylo;hl;1;;;;
+tc5a;loni xylo;sl;2a;;;;
+tc5a;meli nuta;hl;1;;;;
+tc5a;musc spec ies;hl;r;;;; | Changed musc sp To musc spec ies 2012-11-27 16:12:31
+tc5a;lact mura;hl;+;;;; | Changed myce mura To lact mura 2012-11-27 16:08:07
+tc5a;pice abie;sl;r;;;;
+tc5a;pice abie;tl;r;;;;
+tc5a;pinu sylv;hl;+;;;;
+tc5a;pinu sylv;tl;1;;;;
+tc5a;plag nium undu;ml;2a;;;;
+tc5a;poa triv;hl;1;;;;
+tc5a;prun aviu slat;sl;r;;;; | Changed prun aviu To prun aviu slat 2012-11-27 16:08:03
+tc5a;prun padu padu;hl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc5a;prun padu padu;sl;2a;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc5a;prun padu padu;tl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc5a;rham cath;sl;+;;;;
+tc5a;rosa arve;hl;r;;;;
+tc5a;rosa rubi;sl;r;;;;
+tc5a;rubu caes;hl;2b;;;;
+tc5a;soli cana;hl;+;;;;
+tc5a;soli virg virg;hl;2m;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc5a;tara sect rude;hl;1;;;; | Changed tara offi To tara sect rude 2012-11-27 16:08:04
+tc5a;vale trip;hl;+;;;;
+tc5a;vero urti;hl;1;;;;
+tc5a;vibu lant;hl;+;;;;
+tc5a;vibu lant;sl;+;;;;
+tc6a;acer pseu;hl;+;;;;
+tc6a;aego poda;hl;+;;;;
+tc6a;elyt repe;hl;+;;;; | Changed agro repe To elyt repe 2012-11-27 16:08:08
+tc6a;berb vulg;hl;1;;;;
+tc6a;berb vulg;sl;1;;;;
+tc6a;brac sylv;hl;+;;;;
+tc6a;camp rapu rapu;hl;+;;;;
+tc6a;care alba;hl;1;;;;
+tc6a;cirs vulg;hl;r;;;;
+tc6a;clem vita;hl;2m;;;;
+tc6a;clem vita;sl;1;;;;
+tc6a;clem vita;tl;1;;;;
+tc6a;corn sang slat;hl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc6a;corn sang slat;sl;+;;;; | Changed corn sang To corn sang slat 2012-11-27 16:08:03
+tc6a;cory avel;sl;2b;;;;
+tc6a;crat mono;sl;+;;;;
+tc6a;dact glom glom;hl;+;;;; | Changed dact glom To dact glom glom 2012-11-27 16:12:26
+tc6a;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc6a;erig annu slat;hl;+;;;; | Changed erig annu To erig annu slat 2012-11-27 16:08:03
+tc6a;frag mosc;hl;+;;;;
+tc6a;frax exce;hl;+;;;;
+tc6a;frax exce;tl;+;;;;
+tc6a;gali albu;hl;1;;;;
+tc6a;heme fulv;hl;+;;;;
+tc6a;jugl regi;hl;+;;;;
+tc6a;jugl regi;sl;+;;;;
+tc6a;lari deci deci;tl;1;;;; | Changed lari deci To lari deci deci 2012-11-27 16:08:03
+tc6a;ligu vulg;hl;+;;;;
+tc6a;loni xylo;sl;+;;;;
+tc6a;meli nuta;hl;1;;;;
+tc6a;part inse;hl;2b;;;;
+tc6a;part inse;sl;1;;;;
+tc6a;pice abie;hl;+;;;;
+tc6a;pinu sylv;tl;2a;;;;
+tc6a;prun aviu slat;tl;+;;;; | Changed prun aviu To prun aviu slat 2012-11-27 16:08:03
+tc6a;prun cera ifera;sl;2m;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc6a;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc6a;prun padu padu;sl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
+tc6a;pter aqui;hl;+;;;;
+tc6a;robi pseu;sl;2a;;;;
+tc6a;robi pseu;tl;3;;;;
+tc6a;sali capr;sl;+;;;;
+tc6a;sali capr;tl;1;;;;
+tc6a;samb nigr;sl;2b;;;;
+tc6a;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc6a;urti dioi dioi;hl;+;;;; | Changed urti dioi To urti dioi dioi 2012-11-27 16:08:07
+tc6a;vibu lant;hl;+;;;;
+tc7a;achn cala;hl;1;;;;
+tc7a;alnu inca;sl;+;;;;
+tc7a;betu pend;hl;+;;;;
+tc7a;buph sali;hl;+;;;;
+tc7a;clin nepe;hl;+;;;; | Changed cala neps To clin nepe 2012-11-27 16:08:08
+tc7a;care humi;hl;1;;;;
+tc7a;dauc caro caro;hl;+;;;; | Changed dauc caro To dauc caro caro 2012-11-27 14:15:27
+tc7a;dory germ;hl;+;;;;
+tc7a;drya octo;hl;+;;;;
+tc7a;epip atro;hl;r;;;;
+tc7a;eric carn;hl;+;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc7a;erig annu slat;hl;1;;;; | Changed erig annu To erig annu slat 2012-11-27 16:08:03
+tc7a;fran alnu;hl;+;;;;
+tc7a;glob cord;hl;+;;;;
+tc7a;hier bifi;hl;+;;;;
+tc7a;hier pilo ides;hl;+;;;; | Changed hier pilo To hier pilo ides 2012-11-27 16:08:08
+tc7a;chlo stat;hl;1;;;; | Changed hier stat To chlo stat 2012-11-27 16:08:08
+tc7a;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc7a;leon hisp hyos;hl;2a;voucher;16;3; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tc7a;moli caer aggr;hl;+;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc7a;pice abie;hl;r;;;;
+tc7a;pinu sylv;hl;1;;;;
+tc7a;pinu sylv;sl;+;;;;
+tc7a;popu trem;hl;+;;;;
+tc7a;popu trem;sl;+;;;;
+tc7a;sali alba;hl;+;;;;
+tc7a;sali alba;sl;+;;;;
+tc7a;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc7a;sali elea elea;sl;2b;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc7a;sali purp;hl;+;;;;
+tc7a;sali purp;sl;2a;;;;
+tc7a;sang mino mino;hl;+;;;; | Changed sang mino mi To sang mino mino 2012-11-27 16:08:06
+tc7a;teuc cham;hl;+;;;;
+tc7a;teuc mont;hl;+;;;;
+tc7a;thym prae prae;hl;+;;;; | Changed thym prae To thym prae prae 2012-11-27 16:08:07
+tc7a;verb offi;hl;+;;;;
+tc8a;achn cala;hl;2m;;;;
+tc8a;amel oval;hl;+;;;;
+tc8a;amel oval;sl;+;;;;
+tc8a;anth ramo;hl;+;;;;
+tc8a;berb vulg;hl;+;;;;
+tc8a;berb vulg;sl;r;;;;
+tc8a;buph sali;hl;1;;;;
+tc8a;care humi;hl;2a;;;;
+tc8a;colu arbo;hl;r;;;;
+tc8a;dory germ;hl;1;;;;
+tc8a;drya octo;hl;1;;;;
+tc8a;epip atro;hl;+;;;;
+tc8a;epip hell atro;hl;+;;;; | Changed epip x sc To epip hell atro 2012-11-27 16:08:06
+tc8a;eric carn;hl;3;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc8a;euph cypa;hl;+;;;;
+tc8a;fran alnu;hl;+;;;;
+tc8a;fran alnu;sl;+;;;;
+tc8a;gali luci;hl;+;;;;
+tc8a;glob cord;hl;2a;;;;
+tc8a;hier bifi;hl;+;;;;
+tc8a;hier bupl;hl;+;;;;
+tc8a;hier pilo ides;hl;+;;;; | Changed hier pilo To hier pilo ides 2012-11-27 16:08:08
+tc8a;chlo stat;hl;1;;;; | Changed hier stat To chlo stat 2012-11-27 16:08:08
+tc8a;juni comm comm;hl;1;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc8a;juni comm comm;sl;2m;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc8a;leon hisp hyos;hl;+;voucher;17;2; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tc8a;leon inca;hl;+;;;;
+tc8a;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tc8a;pinu mugo;hl;+;;;;
+tc8a;pinu mugo;sl;1;;;;
+tc8a;pinu sylv;hl;2a;;;;
+tc8a;pinu sylv;sl;3;;;;
+tc8a;pinu sylv;tl;1;;;;
+tc8a;poly cham;hl;1;;;;
+tc8a;pote pusi;hl;r;;;;
+tc8a;rosa rubi;hl;+;;;;
+tc8a;rosa rubi;sl;+;voucher;22;;
+tc8a;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc8a;sali elea elea;sl;1;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc8a;scle puru;ml;1;;;;
+tc8a;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc8a;teuc mont;hl;1;;;;
+tc8a;thym prae prae;hl;+;;;; | Changed thym prae To thym prae prae 2012-11-27 16:08:07
+tc8a;tort tort;ml;+;;;;
+tc8a;vacc viti;hl;+;;;;
+tc8a;vinc hiru;hl;+;;;;
+tc9a;achn cala;hl;1;;;;
+tc9a;amel oval;hl;+;;;;
+tc9a;amel oval;sl;+;;;;
+tc9a;anth ramo;hl;+;;;;
+tc9a;berb vulg;hl;+;;;;
+tc9a;berb vulg;sl;+;;;;
+tc9a;brac rupe;hl;+;;;;
+tc9a;cala vari;hl;+;;;;
+tc9a;care alba;hl;2m;;;;
+tc9a;ceph long;hl;+;;;;
+tc9a;cory avel;hl;1;;;;
+tc9a;crat mono;hl;+;;;;
+tc9a;crat mono;sl;+;;;;
+tc9a;dory germ;hl;+;;;;
+tc9a;epip hell slat;hl;+;;;; | Changed epip hell To epip hell slat 2012-11-27 16:08:03
+tc9a;eric carn;hl;5;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc9a;euph cypa;hl;+;;;;
+tc9a;frag mosc;hl;+;;;;
+tc9a;frag vesc;hl;+;;;;
+tc9a;fran alnu;hl;1;;;;
+tc9a;fran alnu;sl;1;;;;
+tc9a;gali bore;hl;+;;;;
+tc9a;gali luci;hl;+;;;;
+tc9a;hier muro;hl;+;;;; | Changed hier sylv To hier muro 2012-11-27 16:08:03
+tc9a;hylo sple;ml;+;;;;
+tc9a;jugl regi;hl;+;;;;
+tc9a;jugl regi;sl;+;;;;
+tc9a;juni comm comm;hl;2m;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc9a;juni comm comm;sl;2a;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc9a;leon hisp hyos;hl;+;;;; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tc9a;leon inca;hl;+;;;;
+tc9a;ligu vulg;hl;+;;;;
+tc9a;loni xylo;hl;+;;;;
+tc9a;loni xylo;sl;+;;;;
+tc9a;mela prat;hl;+;;;;
+tc9a;pice abie;hl;+;;;;
+tc9a;pice abie;sl;+;;;;
+tc9a;pice abie;tl;+;;;;
+tc9a;pinu sylv;tl;4;;;;
+tc9a;pleu schr;ml;2a;;;;
+tc9a;poly cham;hl;1;;;;
+tc9a;pote erec;hl;+;;;;
+tc9a;rham saxa saxa;hl;+;;;; | Changed rham saxa To rham saxa saxa 2012-11-27 16:08:08
+tc9a;rhyt triq;ml;2m;;;;
+tc9a;rosa micr;hl;+;;;;
+tc9a;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc9a;sorb aria;hl;+;;;;
+tc9a;sorb aucu aucu;hl;+;;;; | Changed sorb aucu To sorb aucu aucu 2012-11-27 16:08:07
+tc9a;teuc mont;hl;+;;;;
+tc9a;vinc hiru;hl;+;;;;
+tc9a;viol hirt;hl;r;;;;
+tc9a;visc laxu laxu;tl;2m;;;; | Changed visc laxu To visc laxu laxu 2012-11-27 16:08:06
+tc9b;achn cala;hl;2a;;;;
+tc9b;amel oval;hl;+;;;;
+tc9b;anth ramo;hl;+;;;;
+tc9b;berb vulg;hl;+;;;;
+tc9b;berb vulg;sl;+;;;;
+tc9b;bisc laev laev;hl;+;;;; | Changed bisc laev To bisc laev laev 2012-11-27 16:08:05
+tc9b;buph sali;hl;2a;;;;
+tc9b;camp rotu;hl;+;;;;
+tc9b;card defl viri;hl;1;;;; | Changed card defl To card defl viri 2012-11-27 16:08:03
+tc9b;care humi;hl;2b;;;;
+tc9b;carl vulg vulg;hl;+;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc9b;cory avel;hl;+;;;;
+tc9b;dory germ;hl;2a;;;;
+tc9b;epip atro;hl;1;;;;
+tc9b;epip hell atro;hl;+;;;; | Changed epip x sc To epip hell atro 2012-11-27 16:08:06
+tc9b;eric carn;hl;4;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc9b;euph cypa;hl;+;;;;
+tc9b;fran alnu;hl;+;;;;
+tc9b;glob cord;hl;+;;;;
+tc9b;good repe;hl;r;;;;
+tc9b;hier bifi;hl;1;;;;
+tc9b;hier pilo ides;hl;+;;;; | Changed hier pilo To hier pilo ides 2012-11-27 16:08:08
+tc9b;chlo stat;hl;+;;;; | Changed hier stat To chlo stat 2012-11-27 16:08:08
+tc9b;juni comm comm;hl;1;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc9b;juni comm comm;sl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc9b;lact pere;hl;1;;;;
+tc9b;leon hisp hyos;hl;1;;;; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tc9b;leon inca;hl;1;;;;
+tc9b;mela sylv;hl;+;;;;
+tc9b;pinu sylv;hl;1;;;;
+tc9b;pinu sylv;sl;2b;;;;
+tc9b;pinu sylv;tl;3;;;;
+tc9b;pleu schr;ml;+;;;;
+tc9b;poly cham;hl;+;;;;
+tc9b;prun cera ifera;hl;r;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc9b;rham saxa saxa;hl;+;;;; | Changed rham saxa To rham saxa saxa 2012-11-27 16:08:08
+tc9b;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tc9b;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc9b;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc9b;teuc mont;hl;1;;;;
+tc9b;tort tort;hl;2a;;;;
+tc9b;vacc viti;hl;+;;;;
+tc9b;vinc hiru;hl;1;;;;
+tc9b;visc laxu laxu;tl;+;;;; | Changed visc laxu To visc laxu laxu 2012-11-27 16:08:06
+tc9c;achn cala;hl;1;;;;
+tc9c;amel oval;hl;+;;;;
+tc9c;anth ramo;hl;+;;;;
+tc9c;berb vulg;hl;+;;;;
+tc9c;berb vulg;sl;+;;;;
+tc9c;bisc laev laev;hl;+;;;; | Changed bisc laev To bisc laev laev 2012-11-27 16:08:05
+tc9c;buph sali;hl;1;;;;
+tc9c;camp rotu;hl;+;;;;
+tc9c;care humi;hl;2a;;;;
+tc9c;carl vulg vulg;hl;+;;;; | Changed carl vulg To carl vulg vulg 2012-11-27 16:08:03
+tc9c;dicr scop;ml;+;;;;
+tc9c;dory germ;hl;1;;;;
+tc9c;epip atro;hl;+;;;;
+tc9c;epip hell atro;hl;+;;;; | Changed epip x sc To epip hell atro 2012-11-27 16:08:06
+tc9c;eric carn;hl;5;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tc9c;euph sali;hl;+;;;;
+tc9c;fran alnu;hl;2m;;;;
+tc9c;hier bifi;hl;+;;;;
+tc9c;hipp como;hl;+;;;;
+tc9c;jugl regi;hl;r;;;;
+tc9c;juni comm comm;hl;2a;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc9c;juni comm comm;sl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tc9c;leon hisp hyos;hl;+;;;; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tc9c;leon inca;hl;+;;;;
+tc9c;mela prat;hl;+;;;;
+tc9c;pinu sylv;hl;2a;;;;
+tc9c;pinu sylv;sl;2b;;;;
+tc9c;pinu sylv;tl;3;;;;
+tc9c;pleu schr;ml;2m;;;;
+tc9c;poly cham;hl;1;;;;
+tc9c;rhyt triq;ml;1;;;;
+tc9c;rosa micr;hl;+;voucher;23;;
+tc9c;scle puru;ml;1;;;;
+tc9c;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tc9c;soli virg virg;hl;+;;;; | Changed soli virg To soli virg virg 2012-11-27 16:08:03
+tc9c;sorb aria;hl;+;;;;
+tc9c;teuc mont;hl;+;;;;
+tc9c;vacc viti;hl;1;;;;
+tc9c;vinc hiru;hl;1;;;;
+tc9c;visc laxu laxu;tl;+;;;; | Changed visc laxu To visc laxu laxu 2012-11-27 16:08:06
+tcq1;briz medi;hl;+;;;;
+tcq1;call cusp;ml;1;;;;
+tcq1;calt palu;hl;+;;;;
+tcq1;care dava;hl;1;;;;
+tcq1;care elat;hl;2b;;;;
+tcq1;care flav aggr;hl;1;;;; | Changed care flav To care flav aggr 2012-11-27 16:08:08
+tcq1;care host;hl;+;;;;
+tcq1;care lepi;hl;2a;;;;
+tcq1;care oede;hl;+;;;;
+tcq1;care pani;hl;2a;;;;
+tcq1;cirs palu;hl;+;;;;
+tcq1;dact inca inca;hl;+;;;; | Changed dact inca To dact inca inca 2012-11-27 16:08:06
+tcq1;scor coss;ml;1;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcq1;epip palu;hl;1;;;;
+tcq1;fest tric;hl;1;;;;
+tcq1;gali ulig;hl;+;;;;
+tcq1;gymn cono cono;hl;+;;;; | Changed gymn cono To gymn cono cono 2012-11-27 16:08:05
+tcq1;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tcq1;lysi vulg;hl;+;;;;
+tcq1;meny trif;hl;2a;;;;
+tcq1;moli caer aggr;hl;2a;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq1;parn palu;hl;1;;;;
+tcq1;pedi palu palu;hl;r;;;; | Changed pedi palu To pedi palu palu 2012-11-27 16:08:08
+tcq1;phra aust;hl;2m;;;;
+tcq1;pinu sylv;hl;+;;;;
+tcq1;prim fari;hl;+;;;;
+tcq1;prun vulg;hl;+;;;;
+tcq1;ranu nemo;hl;+;;;;
+tcq1;sali repe rosm;hl;+;;;; | Changed sali rosm To sali repe rosm 2012-11-27 16:08:05
+tcq1;scho ferr;hl;+;;;;
+tcq1;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq1;succ prat;hl;1;;;;
+tcq1;tome nite;ml;2b;;;;
+tcq1;vale dioi dioi;hl;1;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcq10;briz medi;hl;+;;;;
+tcq10;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcq10;care dava;hl;+;;;;
+tcq10;care lepi;hl;2a;voucher;18;;
+tcq10;care pani;hl;1;;;;
+tcq10;care pani pani;hl;1;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tcq10;cirs arve;hl;+;;;;
+tcq10;epil palu;hl;+;;;;
+tcq10;equi fluv;hl;+;;;;
+tcq10;equi palu;hl;+;;;;
+tcq10;equi vari;hl;+;;;;
+tcq10;erio lati;hl;1;;;;
+tcq10;fest rubr slat;hl;+;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tcq10;fest tric;hl;+;;;;
+tcq10;gali ulig;hl;+;;;;
+tcq10;junc arti;hl;1;;;;
+tcq10;linu cath;hl;+;;;;
+tcq10;moli caer aggr;hl;2b;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq10;palu comm comm;ml;2b;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcq10;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq10;parn palu;hl;1;;;;
+tcq10;phra aust;hl;+;;;;
+tcq10;pote erec;hl;+;;;;
+tcq10;prim fari;hl;+;;;;
+tcq10;sali myrs;hl;+;;;;
+tcq10;scho ferr;hl;4;;;;
+tcq10;sela sela;hl;+;;;;
+tcq10;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq10;lotu mari sili;hl;+;;;; | Changed tetr mari To lotu mari sili 2012-11-27 16:08:08
+tcq10;tofi caly;hl;+;;;;
+tcq10;vale dioi dioi;hl;+;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcq10;vici crac;hl;+;;;;
+tcq11;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcq11;call cusp;ml;3;;;;
+tcq11;camp stel;ml;1;;;;
+tcq11;care flac;hl;+;;;;
+tcq11;care pani pani;hl;+;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tcq11;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tcq11;cirs oler;hl;+;;;;
+tcq11;fest giga;hl;+;;;;
+tcq11;geum riva;hl;+;;;;
+tcq11;junc subn;hl;4;;;;
+tcq11;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tcq11;lotu corn;hl;+;;;;
+tcq11;lysi vulg;hl;+;;;;
+tcq11;lyth sali;hl;1;;;;
+tcq11;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq11;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq11;parn palu;hl;+;;;;
+tcq11;phra aust;hl;+;;;;
+tcq11;plan lanc;hl;+;;;;
+tcq11;pers bist;hl;+;;;; | Changed poly bist To pers bist 2012-11-27 16:08:05
+tcq11;pote erec;hl;1;;;;
+tcq11;tome nite;ml;1;;;;
+tcq11;vale dioi dioi;hl;+;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcq11;vici crac;hl;+;;;;
+tcq2;call cusp;ml;2a;;;;
+tcq2;care elat;hl;4;;;;
+tcq2;care flav aggr;hl;+;;;; | Changed care flav To care flav aggr 2012-11-27 16:08:08
+tcq2;erio lati;hl;+;;;;
+tcq2;gali palu palu;hl;1;;;; | Changed gali palu To gali palu palu 2012-11-27 16:08:05
+tcq2;junc alpi alpi;hl;+;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcq2;lyco euro euro;hl;+;;;; | Changed lyco euro e To lyco euro euro 2012-11-27 16:08:09
+tcq2;ment vert;hl;+;;;; | Changed ment x ve To ment vert 2012-11-27 16:08:09
+tcq2;meny trif;hl;2m;;;;
+tcq2;pice abie;hl;+;;;;
+tcq2;scor scor;ml;1;;;;
+tcq2;tome nite;ml;2a;;;;
+tcq3;betu pube slat;hl;+;;;; | Changed betu pube To betu pube slat 2012-11-27 16:08:09
+tcq3;briz medi;hl;+;;;;
+tcq3;call cusp;ml;1;;;;
+tcq3;camp stel;ml;+;;;;
+tcq3;care dava;hl;1;;;;
+tcq3;care flac;hl;+;;;;
+tcq3;care host;hl;+;;;;
+tcq3;care lepi;hl;+;;;;
+tcq3;care pani;hl;1;;;;
+tcq3;cirs arve;hl;+;;;;
+tcq3;cirs palu;hl;+;;;;
+tcq3;scor coss;ml;2a;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcq3;epip palu;hl;+;;;;
+tcq3;equi palu;hl;+;;;;
+tcq3;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tcq3;fest tric;hl;2a;;;;
+tcq3;gali bore;hl;+;;;;
+tcq3;junc arti;hl;1;;;;
+tcq3;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tcq3;lotu corn;hl;+;;;;
+tcq3;meny trif;hl;+;;;;
+tcq3;moli caer aggr;hl;2a;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq3;palu comm comm;ml;2a;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcq3;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq3;parn palu;hl;+;;;;
+tcq3;phra aust;hl;2a;;;;
+tcq3;pice abie;hl;+;;;;
+tcq3;ping vulg;hl;+;;;;
+tcq3;pers vivi;hl;+;;;; | Changed poly vivi To pers vivi 2012-11-27 16:08:06
+tcq3;pote erec;hl;2a;;;;
+tcq3;prim fari;hl;+;;;;
+tcq3;sali cine;hl;1;;;;
+tcq3;sang offi;hl;+;;;;
+tcq3;scho ferr;hl;1;;;;
+tcq3;sela sela;hl;+;;;;
+tcq3;succ prat;hl;+;;;;
+tcq3;tome nite;ml;2a;;;;
+tcq3;vale dioi dioi;hl;+;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcq4;bryu pseu pseu;ml;2b;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcq4;care flac;hl;2a;;;;
+tcq4;care oede;hl;+;;;;
+tcq4;cirs oler;hl;+;;;;
+tcq4;cirs rivu;hl;2m;;;;
+tcq4;crep palu;hl;1;;;;
+tcq4;desc cesp;hl;2a;;;;
+tcq4;scor revo;ml;+;;;; | Changed drep revo To scor revo 2012-11-27 16:08:05
+tcq4;equi palu;hl;1;;;;
+tcq4;equi vari;hl;1;;;;
+tcq4;mela sylv;hl;+;;;;
+tcq4;palu comm comm;ml;5;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcq4;palu deci;ml;+;;;;
+tcq4;ping alpi;hl;1;voucher;28;2;
+tcq4;sesl caer;hl;2a;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq4;tuss farf;hl;1;;;;
+tcq5;bell mich;hl;1;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcq5;call cusp;ml;+;;;;
+tcq5;camp stel;ml;+;;;;
+tcq5;care lepi;hl;+;;;;
+tcq5;care pani;hl;2a;;;;
+tcq5;cirs oler;hl;+;;;;
+tcq5;scor revo;ml;1;;;; | Changed drep revo To scor revo 2012-11-27 16:08:05
+tcq5;dros angl;hl;+;;;;
+tcq5;equi vari;hl;+;;;;
+tcq5;erio lati;hl;+;;;;
+tcq5;gent ascl;hl;+;;;;
+tcq5;junc arti;hl;+;;;;
+tcq5;moli caer aggr;hl;2b;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq5;palu comm comm;ml;3;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcq5;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq5;parn palu;hl;+;;;;
+tcq5;peta para;hl;1;;;;
+tcq5;phil calc;ml;+;;;;
+tcq5;phra aust;hl;+;;;;
+tcq5;pice abie;hl;+;;;;
+tcq5;ping vulg;hl;1;;;;
+tcq5;pinu sylv;hl;+;;;;
+tcq5;prim fari;hl;+;;;;
+tcq5;saxi aizo;hl;1;;;;
+tcq5;scho ferr;hl;4;;;;
+tcq5;scor scor;ml;+;;;;
+tcq5;sela sela;hl;+;;;;
+tcq5;sesl caer;hl;2a;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq5;tofi caly;hl;2m;;;;
+tcq5;tome nite;ml;1;;;;
+tcq6;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcq6;bart alpi;hl;+;;;;
+tcq6;briz medi;hl;+;;;;
+tcq6;call cusp;ml;1;;;;
+tcq6;camp stel;ml;2a;;;;
+tcq6;care dava;hl;1;;;;
+tcq6;care flac;hl;1;;;;
+tcq6;care lepi;hl;1;;;;
+tcq6;care pani;hl;1;;;;
+tcq6;scor coss;ml;2a;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcq6;dros angl;hl;2m;voucher;10;;
+tcq6;epil palu;hl;+;;;;
+tcq6;erio lati;hl;1;;;;
+tcq6;gali bore;hl;+;;;;
+tcq6;gent ascl;hl;+;;;;
+tcq6;gymn odor;hl;+;;;;
+tcq6;junc arti;hl;1;;;;
+tcq6;linu cath;hl;+;;;;
+tcq6;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq6;palu comm falc;ml;2b;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq6;parn palu;hl;+;;;;
+tcq6;phra aust;hl;2m;;;;
+tcq6;pice abie;hl;+;;;;
+tcq6;ping vulg;hl;+;;;;
+tcq6;pinu sylv;hl;+;;;;
+tcq6;pote erec;hl;+;;;;
+tcq6;prim fari;hl;+;;;;
+tcq6;scho ferr;hl;4;;;;
+tcq6;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq6;tofi caly;hl;+;;;;
+tcq6;tome nite;ml;1;;;;
+tcq6;trig palu;hl;+;;;;
+tcq6;utri mino;hl;+;;;;
+tcq7;agro stol;hl;+;;;;
+tcq7;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcq7;bart alpi;hl;+;;;;
+tcq7;cala vari;hl;+;;;;
+tcq7;care flac;hl;1;;;;
+tcq7;care lepi;hl;1;;;;
+tcq7;care pani;hl;+;;;;
+tcq7;cirs oler;hl;1;;;;
+tcq7;cirs palu;hl;+;;;;
+tcq7;crep palu;hl;+;;;;
+tcq7;dact inca inca;hl;+;;;; | Changed dact inca To dact inca inca 2012-11-27 16:08:06
+tcq7;dros angl;hl;2m;;;;
+tcq7;equi palu;hl;+;;;;
+tcq7;frax exce;hl;r;;;;
+tcq7;gent ascl;hl;+;;;;
+tcq7;moli caer aggr;hl;2a;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq7;palu comm comm;ml;3;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcq7;palu comm falc;ml;1;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq7;parn palu;hl;+;;;;
+tcq7;phra aust;hl;+;;;;
+tcq7;pice abie;hl;+;;;;
+tcq7;ping vulg;hl;1;;;;
+tcq7;pinu sylv;hl;+;;;;
+tcq7;pote erec;hl;+;;;;
+tcq7;sali myrs;hl;r;;;;
+tcq7;sali purp;hl;+;;;;
+tcq7;sali ×vau;hl;+;voucher;57;2; | Changed sali x my To sali ×vau 2012-11-27 16:08:09
+tcq7;saxi aizo;hl;2b;;;;
+tcq7;scho ferr;hl;3;;;;
+tcq7;sela sela;hl;+;;;;
+tcq7;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq7;tofi caly;hl;1;;;;
+tcq8;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
+tcq8;anth odor;hl;+;;;;
+tcq8;aqui atra;hl;+;;;;
+tcq8;brac rupe;hl;+;;;;
+tcq8;briz medi;hl;+;;;;
+tcq8;care dava;hl;1;;;;
+tcq8;care elat;hl;2b;;;;
+tcq8;care flac;hl;+;;;;
+tcq8;care pani pani;hl;2a;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tcq8;care semp semp;hl;+;;;; | Changed care semp To care semp semp 2012-11-27 16:08:05
+tcq8;cent jace jace;hl;+;;;; | Changed cent jace To cent jace jace 2012-11-27 16:08:04
+tcq8;cirs arve;hl;r;;;;
+tcq8;cirs oler;hl;1;;;;
+tcq8;equi palu;hl;+;;;;
+tcq8;eric carn;hl;+;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tcq8;erio lati;hl;+;;;;
+tcq8;fest tric;hl;+;;;;
+tcq8;gali bore;hl;+;;;;
+tcq8;gali wirt;hl;r;;;;
+tcq8;knau maxi;hl;2a;;;; | Changed knau dips To knau maxi 2012-11-27 16:08:06
+tcq8;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tcq8;list ovat;hl;+;;;;
+tcq8;lotu corn;hl;+;;;;
+tcq8;mela sylv;hl;1;;;;
+tcq8;moli caer aggr;hl;3;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcq8;phra aust;hl;2m;;;;
+tcq8;phyt orbi;hl;+;;;;
+tcq8;pice abie;hl;+;;;;
+tcq8;pimp majo majo;hl;+;;;; | Changed pimp majo To pimp majo majo 2012-11-27 16:08:04
+tcq8;pinu sylv;hl;+;;;;
+tcq8;poly cham;hl;+;;;;
+tcq8;pote erec;hl;1;;;;
+tcq8;prun gran;hl;+;;;;
+tcq8;ranu nemo;hl;+;;;;
+tcq8;sang offi;hl;+;;;;
+tcq8;scab luci luci;hl;+;;;;
+tcq8;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcq8;succ prat;hl;1;;;;
+tcq8;tofi caly;hl;+;;;;
+tcq8;tome nite;ml;2b;;;;
+tcq8;trif medi medi;hl;1;;;; | Changed trif medi To trif medi medi 2012-11-27 16:08:06
+tcq8;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tcq8;trol euro;hl;+;;;;
+tcq8;tuss farf;hl;1;;;;
+tcq8;vale dioi dioi;hl;2a;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcq9;agro stol;hl;+;;;;
+tcq9;care lepi;hl;1;;;;
+tcq9;care rost;hl;1;;;;
+tcq9;cirs arve;hl;1;;;;
+tcq9;cirs palu;hl;+;;;;
+tcq9;junc alpi alpi;hl;2m;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcq9;palu comm comm;ml;5;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcq9;palu comm falc;ml;1;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcq9;pote erec;hl;+;;;;
+tcq9;rhiz punc;ml;+;;;;
+tcz1;agro stol;hl;+;;;;
+tcz1;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz1;bryu pseu pseu;ml;2b;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz1;camp stel;ml;+;;;;
+tcz1;care flac;hl;+;;;;
+tcz1;care lepi;hl;+;;;;
+tcz1;fiss adia;ml;+;;;;
+tcz1;hyme recu recu;ml;1;;;; | Changed hyme recu To hyme recu recu 2012-11-27 16:08:09
+tcz1;palu comm comm;ml;3;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz1;palu deci;ml;2a;;;;
+tcz1;palu comm falc;ml;1;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz1;ping vulg;hl;+;;;;
+tcz1;pinu sylv;hl;+;;;;
+tcz1;plag nium undu;ml;1;;;;
+tcz1;saxi caes;hl;+;;;;
+tcz1;sesl caer;hl;2a;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz1;tofi caly;hl;+;;;;
+tcz1;tome nite;ml;+;;;;
+tcz10;agro stol;hl;1;;;;
+tcz10;bell mich;hl;1;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz10;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz10;care flac;hl;1;;;;
+tcz10;care lepi;hl;+;;;;
+tcz10;crep palu;hl;+;;;;
+tcz10;scor coss;ml;2a;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz10;moli caer aggr;hl;+;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz10;palu comm comm;ml;5;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz10;palu comm falc;ml;1;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz10;phil calc;ml;2a;;;;
+tcz10;pice abie;hl;r;;;;
+tcz10;ping vulg;hl;+;;;;
+tcz10;saxi aizo;hl;+;;;;
+tcz10;sesl caer;hl;2a;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz10;tofi caly;hl;+;;;;
+tcz10;tuss farf;hl;+;;;;
+tcz11;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz11;camp stel;ml;1;;;;
+tcz11;care dava;hl;3;;;;
+tcz11;care dioi;hl;2m;voucher;13;;
+tcz11;care flac;hl;1;;;;
+tcz11;care lepi;hl;1;;;;
+tcz11;care pani;hl;2b;;;;
+tcz11;scor coss;ml;4;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz11;scor revo;ml;+;;;; | Changed drep revo To scor revo 2012-11-27 16:08:05
+tcz11;eleo quin;hl;+;;;;
+tcz11;erio lati;hl;2b;;;;
+tcz11;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz11;leon hisp slat;hl;+;voucher;15;; | Changed leon hisp To leon hisp slat 2012-11-27 16:08:04
+tcz11;linu cath;hl;+;;;;
+tcz11;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz11;palu comm comm;ml;1;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz11;palu comm falc;ml;1;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz11;parn palu;hl;2m;;;;
+tcz11;pice abie;hl;r;;;;
+tcz11;pinu sylv;hl;r;;;;
+tcz11;pote erec;hl;+;;;;
+tcz11;prim fari;hl;1;;;;
+tcz11;ranu nemo;hl;+;;;;
+tcz11;scho ferr;hl;1;;;;
+tcz11;sela sela;hl;+;;;;
+tcz11;tofi caly;hl;+;;;;
+tcz11;trig palu;hl;+;;;;
+tcz12;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz12;bryu pseu pseu;ml;2a;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz12;camp coch;hl;+;;;;
+tcz12;care digi;hl;+;;;;
+tcz12;care lepi;hl;+;;;;
+tcz12;crep palu;hl;+;;;;
+tcz12;equi palu;hl;+;;;;
+tcz12;hier muro;hl;+;;;; | Changed hier sylv To hier muro 2012-11-27 16:08:03
+tcz12;marc poly poly;ml;+;;;; | Changed marc aqua To marc poly poly 2012-11-27 16:08:09
+tcz12;mela sylv;hl;+;;;;
+tcz12;oxal acet;hl;+;;;;
+tcz12;palu comm comm;ml;3;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz12;pice abie;hl;r;;;;
+tcz12;plag nium undu;ml;+;;;;
+tcz12;poa nemo;hl;r;;;;
+tcz12;tuss farf;hl;+;;;;
+tcz12;vero becc;hl;+;;;;
+tcz12;viol bifl;hl;+;;;;
+tcz13;abie alba;hl;r;;;;
+tcz13;agro stol;hl;+;;;;
+tcz13;bell mich;hl;1;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz13;bryu pseu pseu;ml;2a;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz13;care dava;hl;1;;;;
+tcz13;care flac;hl;+;;;;
+tcz13;care flav aggr;hl;2a;voucher;14;3; | Changed care flav Tocare flav aggr 2012-11-27 16:08:08
+tcz13;care pani;hl;3;;;;
+tcz13;cirs palu;hl;+;;;;
+tcz13;scor coss;ml;2b;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz13;equi vari;hl;2m;;;;
+tcz13;erio lati;hl;2a;;;;
+tcz13;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz13;knau maxi;hl;+;;;; | Changed knau dips To knau maxi 2012-11-27 16:08:06
+tcz13;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz13;palu comm comm;ml;3;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz13;palu deci;ml;+;;;;
+tcz13;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz13;phil calc;ml;1;;;;
+tcz13;pice abie;hl;+;;;;
+tcz13;ping vulg;hl;+;;;;
+tcz13;pote erec;hl;+;;;;
+tcz13;prim fari;hl;2m;;;;
+tcz13;saxi aizo;hl;2a;;;;
+tcz13;sela sela;hl;+;;;;
+tcz13;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz13;tofi caly;hl;1;;;;
+tcz13;trig palu;hl;+;;;;
+tcz13;vale dioi dioi;hl;2m;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcz14;agro stol;hl;1;;;;
+tcz14;bell mich;hl;1;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz14;bryu pseu pseu;ml;+;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz14;scor coss;ml;1;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz14;marc poly poly;ml;+;;;; | Changed marc aqua To marc poly poly 2012-11-27 16:08:09
+tcz14;palu comm comm;ml;4;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz14;pote erec;hl;+;;;;
+tcz14;sesl caer;hl;2a;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz15;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz15;briz medi;hl;+;;;;
+tcz15;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz15;camp stel;ml;1;;;;
+tcz15;care dava;hl;2a;;;;
+tcz15;care dioi;hl;+;;;;
+tcz15;care flac;hl;1;;;;
+tcz15;care lepi;hl;1;;;;
+tcz15;care pani;hl;2a;;;;
+tcz15;char spec ies;hl;+;;;; | Changed char sp To char spec ies 2012-11-27 16:08:09
+tcz15;cirs palu;hl;+;;;;
+tcz15;desc cesp;hl;+;;;;
+tcz15;scor coss;ml;3;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz15;equi palu;hl;+;;;;
+tcz15;equi vari;hl;1;;;;
+tcz15;eric carn;hl;r;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tcz15;erio lati;hl;3;;;;
+tcz15;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tcz15;gymn cono cono;hl;+;;;; | Changed gymn cono To gymn cono cono 2012-11-27 16:08:05
+tcz15;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz15;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tcz15;linu cath;hl;+;;;;
+tcz15;lotu corn;hl;+;;;;
+tcz15;moli caer aggr;hl;2a;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz15;palu comm falc;ml;+;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz15;parn palu;hl;1;;;;
+tcz15;phil calc;ml;2a;;;;
+tcz15;ping vulg;hl;+;;;;
+tcz15;pinu sylv;hl;r;;;;
+tcz15;pote erec;hl;+;;;;
+tcz15;prim fari;hl;+;;;;
+tcz15;tofi caly;hl;+;;;;
+tcz15;trif prat prat;hl;+;;;; | Changed trif prat p To trif prat prat 2012-11-27 16:12:27
+tcz15;trig palu;hl;+;;;;
+tcz15;vale dioi dioi;hl;1;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcz16;agro stol;hl;1;;;;
+tcz16;bryu pseu pseu;ml;2a;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz16;call cusp;ml;1;;;;
+tcz16;care dava;hl;4;;;;
+tcz16;care lepi;hl;1;;;;
+tcz16;care pani;hl;+;;;;
+tcz16;chae hirs;hl;+;;;;
+tcz16;cirs palu;hl;1;;;;
+tcz16;scor coss;ml;2b;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz16;equi palu;hl;+;;;;
+tcz16;fest rubr slat;hl;+;;;; | Changed fest rubr r To fest rubr slat 2012-11-27 16:08:05
+tcz16;gali anis;hl;r;;;;
+tcz16;hepa nobi;hl;+;;;;
+tcz16;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz16;knau maxi;hl;+;;;; | Changed knau dips To knau maxi 2012-11-27 16:08:06
+tcz16;linu cath;hl;+;;;;
+tcz16;list ovat;hl;r;;;;
+tcz16;mela sylv;hl;+;;;;
+tcz16;palu deci;ml;+;;;;
+tcz16;parn palu;hl;+;;;;
+tcz16;phil calc;ml;2a;;;;
+tcz16;poa triv;hl;+;;;;
+tcz16;pote erec;hl;+;;;;
+tcz16;prun gran;hl;+;;;;
+tcz16;ranu nemo;hl;+;;;;
+tcz16;saxi aizo;hl;+;;;;
+tcz16;tome nite;ml;+;;;;
+tcz16;tuss farf;hl;2m;;;;
+tcz16;vale dioi dioi;hl;1;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcz16;viol bifl;hl;+;;;;
+tcz17;agro stol;hl;1;;;;
+tcz17;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz17;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz17;care flac;hl;+;;;;
+tcz17;care pani pani;hl;+;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tcz17;chae hirs;hl;+;;;;
+tcz17;cirs hete;hl;+;;;;
+tcz17;dact macu slat;hl;+;;;; | Changed dact macu To dact macu slat 2012-11-27 16:08:09
+tcz17;equi vari;hl;+;;;;
+tcz17;palu comm comm;ml;4;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz17;peta albu;hl;1;;;;
+tcz17;sali appe;hl;+;;;;
+tcz17;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
+tcz17;saxi aizo;hl;3;;;;
+tcz17;tuss farf;hl;2a;;;;
+tcz2;agro stol;hl;+;;;;
+tcz2;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz2;camp stel;ml;1;;;;
+tcz2;care flac;hl;2a;;;;
+tcz2;care lepi;hl;3;;;;
+tcz2;care pani;hl;+;;;;
+tcz2;cirs palu;hl;+;;;;
+tcz2;desc cesp;hl;1;;;;
+tcz2;eleo quin;hl;2m;voucher;11;2;
+tcz2;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tcz2;junc alpi alpi;hl;2a;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz2;leon hisp hyos;hl;+;;;; | Changed leon hyos To leon hisp hyos 2012-11-27 16:08:07
+tcz2;marc poly poly;ml;+;;;; | Changed marc aqua To marc poly poly 2012-11-27 16:08:09
+tcz2;moli caer aggr;hl;+;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz2;palu comm comm;ml;4;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz2;palu comm falc;ml;2b;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz2;ping vulg;hl;+;;;;
+tcz2;plag nium undu;ml;+;;;;
+tcz2;ranu nemo;hl;+;;;;
+tcz2;sali purp;hl;+;;;;
+tcz2;sela sela;hl;+;;;;
+tcz2;trig palu;hl;+;;;;
+tcz2;tuss farf;hl;1;;;;
+tcz3;bryu pseu pseu;ml;+;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz3;care dava;hl;3;;;;
+tcz3;care lepi;hl;2a;;;;
+tcz3;care pani;hl;1;;;;
+tcz3;char spec ies;hl;+;;;; | Changed char sp To char spec ies 2012-11-27 16:08:09
+tcz3;scor coss;ml;1;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz3;eleo quin;hl;1;;;;
+tcz3;equi palu;hl;+;;;;
+tcz3;erio lati;hl;1;;;;
+tcz3;junc alpi alpi;hl;2a;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz3;juni comm comm;hl;+;;;; | Changed juni comm c To juni comm comm 2012-11-27 16:08:03
+tcz3;linu cath;hl;+;;;;
+tcz3;lotu corn;hl;+;;;;
+tcz3;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz3;palu comm comm;ml;+;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz3;palu comm falc;ml;2a;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz3;parn palu;hl;1;;;;
+tcz3;pinu sylv;hl;+;;;;
+tcz3;pote erec;hl;+;;;;
+tcz3;prim fari;hl;+;;;;
+tcz3;prun gran;hl;+;;;;
+tcz3;sela sela;hl;+;;;;
+tcz3;tofi caly;hl;+;;;;
+tcz3;trig palu;hl;+;;;;
+tcz3;vale dioi dioi;hl;1;;;; | Changed vale dioi To vale dioi dioi 2012-11-27 16:08:05
+tcz4;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz4;bryu pseu pseu;ml;2a;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz4;bryu weig;ml;+;;;;
+tcz4;care dava;hl;1;;;;
+tcz4;care flac;hl;1;;;;
+tcz4;scor coss;ml;+;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz4;palu comm comm;ml;4;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz4;palu deci;ml;1;;;;
+tcz4;phil calc;ml;+;;;;
+tcz4;pice abie;hl;r;;;;
+tcz4;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz5;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz5;bryu pseu pseu;ml;+;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz5;camp stel;hl;1;;;;
+tcz5;care lepi;hl;1;;;;
+tcz5;care pani;hl;1;;;;
+tcz5;scor coss;ml;2a;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz5;eleo quin;hl;1;;;;
+tcz5;eric carn;hl;+;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tcz5;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz5;palu comm comm;ml;2b;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz5;palu deci;ml;+;;;;
+tcz5;parn palu;hl;+;;;;
+tcz5;pice abie;hl;r;;;;
+tcz5;ping vulg;hl;+;;;;
+tcz5;sela sela;hl;+;;;;
+tcz5;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz5;trig palu;hl;+;;;;
+tcz6;agro stol;hl;+;;;;
+tcz6;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz6;care flac;hl;1;;;;
+tcz6;care lepi;hl;+;;;;
+tcz6;crep palu;hl;+;;;;
+tcz6;equi vari;hl;+;;;;
+tcz6;junc alpi alpi;hl;+;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz6;marc poly poly;ml;+;;;; | Changed marc aqua To marc poly poly 2012-11-27 16:08:09
+tcz6;palu comm comm;ml;4;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz6;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz6;trig palu;hl;+;;;;
+tcz7;agro stol;hl;+;;;;
+tcz7;aqui atra;hl;r;;;;
+tcz7;bell mich;hl;1;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz7;brac rivu;ml;+;;;;
+tcz7;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz7;call cusp;ml;2a;;;;
+tcz7;camp coch;hl;+;;;;
+tcz7;camp stel;ml;+;;;;
+tcz7;care dava;hl;4;;;;
+tcz7;care flac;hl;1;;;;
+tcz7;care lepi;hl;1;;;;
+tcz7;cirs palu;hl;+;;;;
+tcz7;crep palu;hl;1;;;;
+tcz7;dact maja maja;hl;r;;;; | Changed dact maja To dact maja maja 2012-11-27 16:08:09
+tcz7;desc cesp;hl;+;;;;
+tcz7;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tcz7;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz7;knau maxi;hl;+;;;; | Changed knau dips To knau maxi 2012-11-27 16:08:06
+tcz7;marc poly poly;ml;1;;;; | Changed marc aqua To marc poly poly 2012-11-27 16:08:09
+tcz7;palu comm comm;ml;1;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz7;palu comm falc;ml;2b;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz7;parn palu;hl;+;;;;
+tcz7;pice abie;hl;+;;;;
+tcz7;ping alpi;hl;+;;;;
+tcz7;plag nium undu;ml;+;;;;
+tcz7;poly amar ella;hl;+;;;; | Changed poly amae To poly amar ella 2012-11-27 16:08:05
+tcz7;pote erec;hl;+;;;;
+tcz7;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz7;tofi caly;hl;+;;;;
+tcz7;trig palu;hl;2m;;;;
+tcz7;tuss farf;hl;2a;;;;
+tcz7;vero becc;hl;+;;;;
+tcz8;bell mich;hl;+;;;; | Changed aste bell To bell mich 2012-11-27 16:08:06
+tcz8;bryu pseu pseu;ml;2a;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz8;care lepi;hl;1;;;;
+tcz8;cirs palu;hl;r;;;;
+tcz8;eric carn;hl;+;;;; | Changed eric herb To eric carn 2012-11-27 16:08:03
+tcz8;hyme recu recu;ml;+;;;; | Changed hyme recu To hyme recu recu 2012-11-27 16:08:09
+tcz8;moli caer aggr;hl;1;;;; | Changed moli caer a To moli caer aggr 2012-11-27 16:08:05
+tcz8;palu comm comm;ml;+;;;; | Changed palu comm To palu comm comm 2012-11-27 16:08:05
+tcz8;palu comm falc;ml;2b;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz8;ping vulg;hl;+;;;;
+tcz8;poly amar ella;hl;+;;;; | Changed poly amae To poly amar ella 2012-11-27 16:08:05
+tcz8;pote erec;hl;+;;;;
+tcz8;ranu nemo;hl;r;;;;
+tcz8;saxi aizo;hl;+;;;;
+tcz8;sela sela;hl;+;;;;
+tcz8;sesl caer;hl;1;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05
+tcz8;tofi caly;hl;1;;;;
+tcz9;agro stol;hl;+;;;;
+tcz9;ambl vari;ml;+;;;;
+tcz9;blys comp;hl;3;voucher;12;2;
+tcz9;bryu pseu pseu;ml;1;;;; | Changed bryu pseu To bryu pseu pseu 2012-11-27 16:08:05
+tcz9;camp stel;ml;2a;;;;
+tcz9;care dava;hl;2a;;;;
+tcz9;care flac;hl;1;;;;
+tcz9;care lepi;hl;2a;;;;
+tcz9;care pani pani;hl;1;;;; | Changed care pann To care pani pani 2012-11-27 16:08:06
+tcz9;cirs palu;hl;+;;;;
+tcz9;desc cesp;hl;+;;;;
+tcz9;ditr flex;ml;1;;;;
+tcz9;scor coss;ml;2a;;;; | Changed drep coso To scor coss 2012-11-27 16:08:05
+tcz9;eleo quin;hl;+;;;;
+tcz9;equi vari;hl;2m;;;;
+tcz9;euph offi rost;hl;+;;;; | Changed euph rost To euph offi rost 2012-11-27 16:08:04
+tcz9;hypn lind;ml;2a;;;;
+tcz9;junc alpi alpi;hl;1;;;; | Changed junc alpi To junc alpi alpi 2012-11-27 16:08:09
+tcz9;jung atro;ml;1;;;;
+tcz9;lath prat prat;hl;+;;;; | Changed lath prat To lath prat prat 2012-11-27 16:08:04
+tcz9;linu cath;hl;+;;;;
+tcz9;palu comm falc;ml;1;;;; | Changed palu falc To palu comm falc 2012-11-27 16:08:08
+tcz9;pell endi;ml;1;;;;
+tcz9;ping vulg;hl;+;;;;
+tcz9;poly amar ella;hl;+;;;; | Changed poly amae To poly amar ella 2012-11-27 16:08:05
+tcz9;pote erec;hl;+;;;;
+tcz9;prun vulg;hl;+;;;;
+tcz9;ranu nemo;hl;+;;;;
+tcz9;tome nite;ml;+;;;;

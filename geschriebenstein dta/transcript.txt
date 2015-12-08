@@ -1,0 +1,105 @@
+BEGIN HEAD
+plot                                     gg
+                                         ss
+                                         00
+                                         12
+accuracy                                 11
+                                         00
+                                           
+bare                                     2 
+                                         00
+                                           
+cov                                      79
+                                         08
+                                           
+hcov                                     89
+                                         00
+                                           
+hsl                                      42
+                                           
+htl1                                     22
+                                         37
+                                           
+htl2                                     1 
+                                         80
+                                           
+mcov                                     31
+                                           
+plsx                                     11
+                                         66
+                                           
+plsy                                     11
+                                         66
+                                           
+rock                                     00
+                                           
+scov                                     51
+                                           
+slope                                    24
+                                           
+stones                                   00
+                                           
+t1cov                                    34
+                                         00
+                                           
+t2cov                                    50
+                                           
+richness                                 14
+                                         33
+                                           
+END HEAD
+BEGIN TABLE
+Abies alba                           tl1 23
+Picea abies                              2.
+Quercus petraea s.lat.                   2.
+Abies alba                           tl2 3.
+Picea abies                              3.
+Abies alba                            sl ++
+Picea abies                              2+
+Salix caprea                             .+
+Abies alba                            hl 12
+Avenella flexuosa                        +2
+Digitalis purpurea                       r1
+Hieracium murorum                        +1
+Luzula luzuloides                        +1
+Melampyrum pratense                      ++
+Molinia caerulea agg.                    +.
+Picea abies                              11
+Pteridium aquilinum                      +1
+Quercus petraea s.lat.                   +.
+Vaccinium myrtillus                      42
+Athyrium filix-femina                    .+
+Betula pendula                           .+
+Calamagrostis arundinacea                .+
+Calamagrostis epigejos                   .2
+Calamagrostis villosa                    .2
+Carex leporina                           .r
+Carex pallescens                         .+
+Carex pilulifera ssp. pilulifera         .1
+Clinopodium vulgare ssp. vulgare         .+
+Dryopteris dilatata                      .1
+Epilobium montanum                       .+
+Fagus sylvatica                          .+
+Fragaria vesca                           .1
+Gentiana asclepiadea                     .2
+Hieracium sabaudum                       .r
+Hypericum perforatum                     .+
+Impatiens parviflora                     .1
+Lactuca muralis                          .r
+Luzula pilosa                            .+
+Myosotis palustris agg.                  .+
+Oxalis acetosella                        .+
+Poa nemoralis                            .+
+Prenanthes purpurea                      .+
+Rubus idaeus                             .1
+Rubus sect. Rubus                        .1
+Rumex obtusifolius s.lat.                .+
+Salix caprea                             .+
+Sorbus aucuparia ssp. aucuparia          .2
+Veronica chamaedrys ssp. chamaedrys      .r
+Viola reichenbachiana                    .+
+Hypnum cupressiforme                  ml ++
+Leucobryum glaucum                       1r
+Pleurozium schreberi                     .+
+Polytrichum formosum                     .+
+END TABLE

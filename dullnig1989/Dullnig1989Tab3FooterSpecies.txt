@@ -1,0 +1,8 @@
+050: Caltha palustris@hl +, Carex echinata@hl +, Carex limosa@hl +, Blindia acuta@ml +, Drepanocladus exannulatus@ml 1, Drepanocladus fluitans@ml +, Dicranoweisia crispula@ml +
+053: Homogyne alpina@hl +, Anthoxanthum alpinum@hl 1, Dicranoweisia crispula@hl + 
+045: Hypnum lindbergii@hl +, Racomitrium heterostichum@hl +,
+043: Eriophorum angustifolium@hl +, Nardus stricta@hl +, Diplophyllum taxifolium@hl R
+028: Cerastium fontanum@hl +, Alchemilla sp.@hl +, Campylium stellatum@ml 3, Drepanocladus revolvens@ml +, Racomitrium aquaticum@ml +, Schistidium rivulare@ml +, Bryum turbinatum@ml +, Jungermannia atrovirens@ml +, Leptogium lichenoides@ml +
+030: Chaerophyllum hirsutum ssp. villarsii@hl 1, Doronicum austriacum@hl 1, Saxifraga rotundifolia@hl +, Valeriana tripteris@hl +, Peucedanum ostruthium@hl 1, Dryopteris filix-mas@hl +, Mnium hornum@ml +
+054: Rhizomnium magnifolium@ml +, Conocephalum conicum@ml +
+038: Plagiothecium ruthei@ml +, Bryum sp.@ml R, Plagiomnium undulatum@ml +, Campylopus schimperi@ml +

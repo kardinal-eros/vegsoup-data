@@ -1,0 +1,7 @@
+77: + Anemone nemorosa, + Campanula trachelium, + Eupatorium cannabinum, + Festuca gigantea, + Paris quadrifolia
+13: + Angelica sylvestris, + Brachypodium sylvaticum, + Pulmonaria officinalis
+76: + Calamagrostis epigeios
+65: + Crataegus monogyna, + Pimpinella major, + Poa nemoralis
+69: + Polytrichum formosum
+74: + Epipactis atrorubens, + Rhamnus cathartica, + Rubus fruticosus, + Salix caprea
+69: + Luzula luzuloides, + Melampyrum pratense

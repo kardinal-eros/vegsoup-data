@@ -1,0 +1,102 @@
+plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;stones;bare;date;altitude;accuracy;latitude;longitude;alliance;association.abbr;typical.sample;location;snowmelt;soil;soil.depth;soil.comment;comment
+lf01;97;0;0;0;96;10;0;0;0;0,5;0,05;4;4;S;15;1;0;2;2011-08-02;1694;4;47.212891N;13.494839E;Poion alpinae;cre fes com;no;Lantschfeldtal;intermediate;;;;
+lf02;95;0;0;0;70;70;0;0;0;0,4;0,02;4;4;S;20;5;0;0;2011-08-02;1703;9,1;47.212967N;13.494008E;Onobrychido viciifoliae-Brometum;car acu bro tha ver;no;Lantschfeldtal;early;;;;
+lf03;97;0;0;0;90;35;0;0;0;0,45;0,1;4;4;S;20;2;0;1;2011-08-02;1700;7,9;47.213252N;13.493461E;Onobrychido viciifoliae-Brometum;car acu bro tha ver;yes;Lantschfeldtal;early;;;;
+lf04;94;0;0;0;85;15;0;0;0;0,6;0,15;4;4;S;35;5;0;1;2011-08-02;1721;7,6;47.213494N;13.492791E;Seslerion coeruleae;ses car sem;no;Lantschfeldtal;intermediate;;;;
+lf05;95;0;0;0;94;3;0;0;0;0,6;0,1;4;4;S;35;1;0;4;2011-08-02;1739;9,4;47.213906N;13.490738E;Seslerion coeruleae;ses car sem nar str;no;Lantschfeldtal;intermediate;;;;
+lf06;93;0;0;0;90;20;0;0;0;0,6;0,1;4;4;S;30;2;0;5;2011-08-02;1764;7,5;47.213960N;13.489297E;Magnocaricion elatae;car pan;no;Lantschfeldtal;late;Quelltorf;;;
+lf07;98;0;0;3;50;85;0;0;0;0,2;0,1;0,5;20;S;40;2;0;0;2011-08-02;1766;8,1;47.213953N;13.489111E;Cratoneurion;cra fal;no;Lantschfeldtal;early;Quelltorf;;;
+lf08;90;0;0;0;88;5;0;0;0;0,4;0,05;4;4;S;25;10;0;2;2011-08-03;1723;6,1;47.213364N;13.489021E;Seslerion coeruleae;ses car sem nar str;no;Lantschfeldtal;late;;;;
+lf09;95;65;15;10;85;20;25;15;2,5;0,8;0,15;16;16;S;25;4;0;1;2011-08-03;1759;8,8;47.213454N;13.487361E;Pinion mugo;rho lar;no;Lantschfeldtal;late;Braunerde;;;
+lf10;95;0;0;0;95;3;0;0;0;0,7;0,1;4;4;S;15;0;0;0;2011-08-03;1782;7,4;47.213786N;13.485795E;Poion alpinae;cre fes com;no;Lantschfeldtal;intermediate;;;;
+lf11;40;0;0;0;15;35;0;0;0;0,7;0,15;2;0,5;S;10;0;0;0;2011-08-03;1773;8,2;47.213811N;13.485568E;Cratoneurion;cra fal;no;Lantschfeldtal;early;Quelltorf;;;
+lf12;99;0;0;0;99;0;0;0;0;1;0,1;4;4;S;35;0;0;0;2011-08-03;1830;8,2;47.214565N;13.485841E;Seslerion coeruleae;ses car sem hel par;no;Lantschfeldtal;early;;;;
+lf13;97;0;0;0;90;30;0;0;0;0,7;0,2;4;4;S;15;0;0;0;2011-08-03;1797;7,4;47.213931N;13.484972E;Caricion davallianae;car dav;no;Lantschfeldtal;late;Quelltorf;;;
+lf14;97;10;3;80;60;55;22;10;3;0,9;0,3;8;8;S;40;3;0;0;2011-08-03;1836;7,5;47.214699N;13.483093E;Pinion mugo;rho hir pin pro;no;Lantschfeldtal;late;;;;
+lf15;85;0;0;0;70;20;0;0;0;0,2;0,05;4;4;SW;30;5;5;5;2011-08-03;1862;4,8;47.215872N;13.479886E;Caricion bicoloris-atrofuscae;ast bel kob sim;no;Lantschfeldtal;early;;;;
+lf16;96;0;0;0;2;95;0;0;0;0,15;0,02;0,5;2;SW;10;3;2;0;2011-08-03;1860;8,9;47.215906N;13.479951E;Cratoneurion;cra fal;no;Lantschfeldtal;early;Quelltorf;;;
+lf17;97;0;0;25;95;3;0;0;0;0,6;0,1;4;4;SW;35;1;0;2;2011-08-03;1857;6,7;47.215399N;13.480842E;Nardion strictae;sie nar str;no;Lantschfeldtal;late;;;;
+lf18;100;0;4;0;90;60;0;10;3;0,8;0,3;8;8;SW;30;0;0;0;2011-08-03;1855;10;47.215491N;13.480626E;Pinion mugo;rho fer pin pro;no;Lantschfeldtal;late;;;;
+lf19;96;0;0;0;96;2;0;0;0;0,6;0,1;4;4;SE;5;0;0;4;2011-08-03;1941;5,4;47.217675N;13.474925E;Poion alpinae;des ces poe alp;no;Lantschfeldtal;late;;;;
+lf20;60;0;0;0;55;10;0;0;0;0,15;0,1;2;2;S;20;0;35;5;2011-08-11;1858;8,8;47.215735N;13.479002E;Caricion bicoloris-atrofuscae;ast bel kob sim;no;Lantschfeldtal;early;;;;
+lf21;93;0;0;0;90;5;0;0;0;0,3;0,1;4;4;S;35;5;0;2;2011-08-11;1921;3,3;47.217410N;13.477706E;Poion alpinae;cre fes com;no;Lantschfeldtal;missing;;;;
+lf22;93;0;0;0;90;10;0;0;0;0,65;0,1;4;4;SW;25;5;0;2;2011-08-11;1917;3,6;47.217427N;13.477171E;Nardion strictae;sie nar str;no;Lantschfeldtal;missing;;;;
+lf23;54;0;0;0;52;5;0;0;0;0,7;0,1;4;4;S;30;0;45;1;2011-08-11;1943;7,1;47.218036N;13.477786E;Seslerion coeruleae;ses car sem hel par;yes;Lantschfeldtal;early;Syrosem;very shallow;;
+lf24;95;0;0;0;94;3;0;0;0;0,3;0,05;4;4;S;35;1;2;2;2011-08-11;1984;10,2;47.218589N;13.475009E;Seslerion coeruleae;ses car sem;no;Lantschfeldtal;early;Braunerde;deep;;
+lf25;98;0;0;0;98;3;0;0;0;0,5;0,1;4;4;S;15;0;0;2;2011-08-11;2100;10;47.219169N;13.470749E;Nardion strictae;sie nar str;no;Lantschfeldtal;early;Braunerde;deep;;
+lf26;96;0;0;0;90;20;0;0;0;0,2;0,1;4;4;NE;20;0;0;4;2011-08-11;2100;20;47.220659N;13.470644E;Caricion firmae;car fir;no;Lantschfeldtal;intermediate;;;;
+lf27;95;0;0;0;90;15;0;0;0;0,2;0,05;4;4;SE;30;1;0;4;2011-08-11;2088;7,4;47.221645N;13.470339E;Arabidion caeruleae;pot dub hom dis;no;Lantschfeldtal;late;Braunerde;deep;;cf. ses car sem fes pul
+lf28;60;0;0;0;55;10;0;0;0;0,15;0,05;4;4;SW;30;0;8;32;2011-08-11;2091;12,7;47.222091N;13.471153E;Arabidion caeruleae;cam pul ach atr;no;Lantschfeldtal;late;Pseudogley-Podsol;intermediate;;
+lf29;75;0;0;0;65;15;0;0;0;0,15;0,04;4;4;SW;15;0;20;5;2011-08-11;2129;6,7;47.222077N;13.472755E;Loiseleurio-Vaccinion;phy con loi pro;no;Lantschfeldtal;early;Proto-Ranker;shallow;;
+lf30;94;0;0;0;75;70;0;0;0;0,3;0,02;4;4;SE;5;2;3;1;2011-08-11;2119;6,7;47.222530N;13.471707E;Loiseleurio-Vaccinion;loi cet;no;Lantschfeldtal;early;Proto-Ranker;shallow;;
+lf31;90;0;0;0;80;20;0;0;0;0,15;0,07;4;4;SSE;35;8;0;2;2011-09-17;2135;5;47.222528N;13.472393E;Salicion herbaceae;nar gna sup;no;Lantschfeldtal;intermediate;Proto-Ranker;shallow;;
+wf01;100;0;0;0;99;2;0;0;0;0,4;0,05;4;4;N;15;0;0;0;2011-08-14;2217;5,4;47.219640N;13.461118E;Seslerion coeruleae;ses car sem;no;Windsfeld;early;;;;
+wf02;100;0;0;0;80;45;0;0;0;0,2;0,05;4;4;NE;5;0;0;0;2011-08-14;2223;4;47.219674N;13.461446E;Arabidion caeruleae;hom dis loi;no;Windsfeld;intermediate;Moder-Rendzina;shallow;;
+wf03;15;0;0;0;15;1;0;0;0;0,25;0,05;4;4;NW;35;0;85;0;2011-08-14;2218;7,2;47.219440N;13.461054E;Caricion firmae;cre ter;no;Windsfeld;early;Syrosem;very shallow;;
+wf04;96;0;0;0;85;15;0;0;0;0,25;0,05;4;4;N;40;2;1;1;2011-08-14;2220;7,4;47.219450N;13.460925E;Caricion firmae;car fir;no;Windsfeld;intermediate;Rendzina;;;
+wf05;40;0;0;0;40;45;0;0;0;0,1;0,05;4;4;NE;25;5;54;1;2011-08-14;2230;7,8;47.219373N;13.461398E;Caricion firmae;car fir vul tub;no;Windsfeld;late;Proto-Rendzina;shallow;Streifenboden;
+wf06;99;0;0;0;95;10;0;0;0;0,2;0,07;4;4;N;20;0;0;1;2011-08-14;2217;7,5;47.219538N;13.461511E;Caricion firmae;car fir;no;Windsfeld;early;Rendzina;shallow;;
+wf07;5;0;0;0;4;2;0;0;0;0,05;0,03;4;4;NE;20;95;0;0;2011-08-14;2233;5,4;47.219267N;13.460971E;Thlaspion rotundifolii;ran ges thl rot;no;Windsfeld;late;Syrosem;very shallow;;
+wf08;75;0;0;0;65;15;0;0;0;0,1;0,05;4;4;SE;30;15;10;0;2011-08-14;2237;6,7;47.219221N;13.461208E;Caricion firmae;car fir vul tub;no;Windsfeld;late;Rendzina;shallow;;
+wf09;100;0;0;0;99;1;0;0;0;0,35;0,05;4;4;E;25;0;0;0;2011-08-14;2223;3,5;47.219328N;13.461709E;Seslerion coeruleae;ses car sem fes nor;yes;Windsfeld;early;;;;
+wf10;97;0;0;0;80;55;0;0;0;0,3;0,1;4;4;N;15;2;0;1;2011-08-14;2227;4,4;47.219075N;13.461537E;Seslerion coeruleae;ses car sem fes nor;no;Windsfeld;intermediate;;;;cf. ses car sem fes pul
+wf11;93;0;0;0;90;5;0;0;0;0,2;0,05;4;4;NE;15;5;0;2;2011-08-14;2239;12,7;47.218900N;13.461510E;Caricion firmae;hom dis loi;no;Windsfeld;early;Moder-Rendzina;intermediate;;
+wf12;94;0;0;0;90;10;0;0;0;0,25;0,1;4;4;NE;20;5;0;1;2011-08-14;2253;8,3;47.219023N;13.461367E;Seslerion coeruleae;ses car sem;no;Windsfeld;early;;;;
+wf13;100;0;0;0;99;2;0;0;0;0,5;0,1;4;4;F;0;0;0;0;2011-08-14;2204;7,6;47.221611N;13.462066E;Poion alpinae;des ces poe alp;no;Windsfeld;intermediate;;;;
+wf14;95;0;0;0;85;40;0;0;0;0,15;0,05;4;4;NE;10;4;0;1;2011-08-14;2204;5,7;47.221734N;13.462240E;Caricion firmae;hom dis loi;no;Windsfeld;intermediate;Moder-Rendzina;intermediate;;
+wf15;96;0;0;0;95;10;0;0;0;0,3;0,05;4;4;W;25;0;4;0;2011-08-14;2199;2,9;47.221533N;13.461900E;Seslerion coeruleae;ses car sem cet isl;yes;Windsfeld;intermediate;Rendzina;shallow;;
+wf16;50;0;0;0;45;15;0;0;0;0,3;0,05;4;4;NE;25;25;20;5;2011-08-14;2204;10,1;47.221722N;13.462419E;Caricion firmae;car fir ach atr;no;Windsfeld;late;Proto-Rendzina;shallow;Solifluktionsabriss;
+wf17;75;0;0;0;60;25;0;0;0;0,2;0,05;4;4;SW;5;10;5;10;2011-08-14;2203;5;47.221224N;13.462462E;Arabidion caeruleae;pot dub hom dis;no;Windsfeld;late;Pseudogley-Podsol;intermediate;;
+wf18;85;0;0;0;80;30;0;0;0;0,2;0,03;4;4;NE;5;2;10;3;2011-08-14;2206;2,7;47.221236N;13.462696E;Arabidion caeruleae;pot dub hom dis;no;Windsfeld;late;Pseudogley-Podsol;intermediate;;
+wf19;97;0;0;0;92;65;0;0;0;0,1;0,02;4;4;NE;5;0;0;3;2011-09-18;2174;4,6;47.222338N;13.464967E;Caricion firmae;hom dis loi;no;Windsfeld;early;Moder-Rendzina;deep;;
+wf20;15;0;0;0;2;13;0;0;0;0,1;0,05;4;4;N;40;2;82;1;2011-09-18;2171;4,5;47.222011N;13.464729E;Caricion firmae;cre ter;no;Windsfeld;early;Syrosem;very shallow;;
+wf21;96;0;0;0;94;20;0;0;0;0,45;0,05;4;4;NE;5;0;0;6;2011-09-18;2163;5,9;47.222215N;13.464765E;unclassified;unc smp;no;Windsfeld;late;Profil;deep;;
+wf22;96;0;0;0;94;20;0;0;0;0,45;0,1;4;4;NE;15;0;1;5;2011-09-18;2153;4,6;47.222489N;13.464976E;unclassified;unc smp;no;Windsfeld;intermediate;;;;Vieh-Trittstellen
+wf23;96;0;0;0;95;15;0;0;0;0,2;0,06;4;4;N;25;3;0;1;2011-09-18;2139;12,3;47.222699N;13.464922E;Caricion firmae;hom dis loi;no;Windsfeld;intermediate;Rendzina;intermediate;kleinräumig Rohumuslager;
+wf24;98;0;0;0;95;10;0;0;0;0,3;0,1;4;4;N;10;1;0;1;2011-09-18;2136;7,9;47.222808N;13.465078E;Seslerion coeruleae;ses car sem cet isl;no;Windsfeld;intermediate;;;;
+wf25;90;0;0;0;75;60;0;0;0;0,4;0,02;4;4;E;40;2;3;5;2011-09-18;2146;5,2;47.222311N;13.465638E;Arabidion caeruleae;cam pul ach atr;no;Windsfeld;late;Pseudogley-Podsol;;;
+wf26;85;0;0;0;75;60;0;0;0;0,15;0,03;4;4;N;25;0;7;8;2011-09-18;2144;3,9;47.222348N;13.464202E;Arabidion caeruleae;ara rum niv;yes;Windsfeld;late;;;;
+wf27;75;0;0;0;73;10;0;0;0;0,2;0,02;4;4;NW;5;13;9;3;2011-08-11;2117;8,7;47.225084N;13.465461E;Caricion firmae;car fir vul tub;no;Windsfeld;early;Protorendzina;;;
+wf28;97;0;0;0;97;5;0;0;0;0,7;0,25;4;4;NW;30;1;0;1;2011-08-11;2115;7,9;47.224974N;13.465168E;Seslerion coeruleae;ses car sem fes pul;yes;Windsfeld;intermediate;Rendzina;deep;;
+wf29;90;0;0;0;85;15;0;0;0;0,3;0,05;4;4;W;30;3;2;5;2011-08-11;2120;6,9;47.224861N;13.465317E;Caricion firmae;car fir rho hir;no;Windsfeld;early;Rendzina;shallow;;
+wf30;20;0;0;0;16;6;0;0;0;0,25;0,05;4;4;SW;45;2;77;1;2011-08-11;2116;4;47.224460N;13.465580E;Thlaspion rotundifolii;leo mon;no;Windsfeld;late;Kalkschutt;;grusig;
+wf31;90;0;0;0;88;4;0;0;0;0,1;0,03;4;4;W;20;0;6;4;2011-08-11;2125;5;47.224703N;13.465434E;Caricion firmae;car fir;no;Windsfeld;early;Rendzina;shallow;;Deflationsanrisse
+wf32;30;0;0;0;30;1;0;0;0;0,1;0,02;4;4;NW;30;5;65;0;2011-08-11;2114;4,7;47.224334N;13.465248E;Caricion firmae;dry oct;no;Windsfeld;late;Protorendzina;very shallow;;
+wf33;99;0;0;0;99;1;0;0;0;5;0,05;4;4;F;7;0;0;1;2011-08-11;2123;3,9;47.224002N;13.465713E;Poion alpinae;cre fes com;no;Windsfeld;intermediate;;;;
+wf34;50;0;0;0;48;2;0;0;0;0,25;0,06;4;4;N;5;0;40;10;2011-08-11;2120;2,9;47.224249N;13.465533E;Caricion firmae;car fir pal com;no;Windsfeld;late;Protorendzina und sandig lehmiger Rohboden;shallow;fluviatil und/oder aeolisch umgelagerte, humusfreie und verbackene „Schluffig-Sandige Schwemmböden“;
+wf35;90;0;0;0;85;25;0;0;0;5;0,05;4;4;NW;2;1;0;14;2011-08-11;2120;4,4;47.224349N;13.465771E;Arabidion caeruleae;cam pul ach atr;no;Windsfeld;late;Pseudogley-Podsol;deep;;
+wf36;95;0;0;0;90;45;0;0;0;0,2;0,05;4;4;NW;3;0;0;5;2011-08-11;2125;8,4;47.224068N;13.465984E;unclassified;unc smp;no;Windsfeld;intermediate;Rasenbraunerde;deep;;
+wf37;96;0;0;0;80;30;0;0;0;0,1;0,03;4;4;NE;10;3;0;3;2011-08-11;2144;7,1;47.224567N;13.469139E;Loiseleurio-Vaccinion;loi cet;no;Windsfeld;late;Ranker;intermediate;;
+wf38;95;0;0;0;40;65;0;0;0;0,1;0,03;4;4;E;20;2;0;3;2011-08-11;2164;8;47.224199N;13.469430E;Loiseleurio-Vaccinion;loi cet ale och;no;Windsfeld;early;Ranker;intermediate;;
+wf39;70;0;0;0;45;60;0;0;0;0,2;0,05;4;4;SW;25;5;10;15;2011-08-11;2156;7,4;47.224588N;13.469449E;Caricion curvulae;jun tri;no;Windsfeld;intermediate;Ranker;;;
+wf40;83;0;0;0;55;50;0;0;0;0,2;0,06;4;4;SW;30;10;2;1;2011-08-11;2146;3,4;47.224311N;13.468993E;Loiseleurio-Vaccinion;loi cet;no;Windsfeld;early;Proto-Ranker;shallow;;Fels als Blöcke
+wf41;93;0;0;0;92;5;0;0;0;0,45;0,02;4;4;E;5;2;0;6;2011-08-11;2141;8,1;47.224406N;13.468610E;unclassified;unc smp;no;Windsfeld;late;;;;
+wf42;15;0;0;0;5;8;0;0;0;0,3;0,05;4;4;SW;5;100;0;0;2011-08-11;2143;6,2;47.224358N;13.468756E;Androsacion alpinae;rhi geo;yes;Windsfeld;late;Blockschutt;;;
+wf43;99;0;0;0;99;1;0;0;0;0,3;0,1;4;4;SW;20;0;0;1;2011-08-11;2118;6,3;47.224592N;13.465657E;Seslerion coeruleae;ses car sem cet isl;no;Windsfeld;intermediate;Rendzina;;;ebenmäßiger Hang, ohne Buckel
+wf44;92;0;0;0;90;3;0;0;0;0,3;0,05;4;4;N;5;0;1;7;2011-08-11;2127;6,5;47.225021N;13.465967E;unclassified;unc smp;no;Windsfeld;intermediate;;;;
+wf45;93;0;0;0;85;25;0;0;0;0,5;0,02;4;4;F;0;0;0;7;2011-08-11;2120;5,8;47.223958N;13.466153E;unclassified;unc smp;no;Windsfeld;late;;;;
+wf46;98;0;0;0;92;20;0;0;0;0,8;0,1;4;4;SE;3;0;0;2;2011-09-16;2201;7,3;47.219732N;13.461982E;Poion alpinae;des ces poe alp;no;Windsfeld;intermediate;Rasenbraunerde;deep;;
+wf47;35;0;0;0;34;2;0;0;0;0,25;0,05;4;4;S;20;2;50;13;2011-09-16;2207;6,4;47.220359N;13.464197E;Arabidion caeruleae;cam pul ach atr;no;Windsfeld;late;Syrosem;shallow;;
+wf48;95;0;0;0;80;75;0;0;0;0,25;0,03;4;4;SSE;25;0;1;4;2011-09-16;2210;11,4;47.220518N;13.464560E;Arabidion caeruleae;pot dub hom dis;no;Windsfeld;late;Rendzina;intermediate;;
+wf49;20;0;0;0;17;5;0;0;0;0,1;0,04;4;4;WSW;5;0;80;0;2011-09-17;2218;6,6;47.220764N;13.463212E;Caricion firmae;cre ter;no;Windsfeld;early;Syrosem;very shallow;grusig;Mit 2 gereiften Flecken
+wf50;40;0;0;0;40;1;0;0;0;0,3;0,05;4;4;E;5;0;15;45;2011-09-17;2164;6,8;47.221391N;13.466388E;Caricion firmae;car fir pal com;no;Windsfeld;late;Protorendzina und sandig lehmiger Rohboden;shallow;fluviatil und/oder aeolisch umgelagerte, humusfreie und verbackene „Schluffig-Sandige Schwemmböden“;nahezu keine Moose!
+wf51;99;0;0;0;80;80;0;0;0;0,6;0,05;4;4;NNE;10;0;0;1;2011-09-17;2196;7,3;47.221716N;13.462689E;unclassified;unc smp;no;Windsfeld;late;;;;Schneeboden-Buckelwiese ohne Lois proc
+wf52;97;0;0;0;85;60;0;0;0;0,65;0,05;4;4;WNW;10;1;0;2;2011-09-17;2210;7,5;47.220835N;13.462987E;unclassified;unc smp;no;Windsfeld;intermediate;;;;Buckelwiese, leichte Trittspuren, kaum Erdflechten weil viele Moose
+wf53;97;0;0;0;93;15;0;0;0;0,35;0,05;4;4;N;5;0;0;3;2011-09-17;2171;4,8;47.221421N;13.466022E;Seslerion coeruleae;ses car sem cet isl;no;Windsfeld;late;;;;Übergang Dryas-Firmetum zu schneereichem Seslerio-Semperviretum, sanft buckelig
+wf54;54;0;0;0;50;1;0;0;0;0,25;0,1;4;4;N;5;0;10;40;2011-09-17;2163;5,5;47.222287N;13.466407E;Caricion firmae;car fir pal com;no;Windsfeld;late;Protorendzina und sandig lehmiger Rohboden;shallow;;in der Umbegung (v.a. Unterhalb) reines Firmetum + Dryas, oberhalb mehr Blaugras und z.T. Geschlossen, keine Moosdecken und Schneebodenelemente in Zwischenräumen
+wf55;97;0;0;0;95;10;0;0;0;0,5;0,05;4;4;NE;3;0;0;3;2011-09-17;2142;4,7;47.222751N;13.467187E;unclassified;unc smp;no;Windsfeld;intermediate;;;;Buckelwiese mit viel Lois proc und N-Zeigern in Schlenken, wenige Arten des Seslerio-Semperviretum, entspricht Typ 10
+wf56;98;0;0;0;93;40;0;0;0;0,4;0,1;4;4;NNW;20;0;0;2;2011-09-17;2142;4;47.222988N;13.466993E;Seslerion coeruleae;ses car sem cet isl;no;Windsfeld;intermediate;Rendzina;;;
+wf57;98;0;0;0;85;30;0;0;0;0,7;0,1;4;4;0;0;0;0;2;2011-09-17;2145;4,4;47.224424N;13.467972E;unclassified;unc smp;no;Windsfeld;intermediate;Moder-Rendzina;deep;;cf. loi cet sol pus
+wf58;60;0;0;0;55;15;0;0;0;0,1;0,03;4;4;0;0;0;37;3;2011-09-17;2143;8,2;47.222908N;13.470106E;Loiseleurio-Vaccinion;phy con loi pro;no;Windsfeld;early;Proto-Ranker;shallow;;
+wf59;97;0;0;0;50;45;0;0;0;0,15;0,05;4;4;SW;30;1;1;1;2011-09-17;2095;10;47.223098N;13.469285E;Caricion firmae;car fir vul tub;no;Windsfeld;early;Rendzina;shallow;;stark windgefegter niedriger Rücken mit Flechten-reichem Polsterseggenrasen auf steiler S-Flanke
+wf60;92;0;0;0;85;12;1;1;1;0,1;0,02;6;6;E;8;;;;2009-07-22;2205;10;47.220620N;13.460519E;;;;Windsfeld;;;;;recoded wt1a to wf60
+wf61;97;0;0;0;94;10;2;2;2;0,1;0,02;6;6;NW;15;;;;2009-07-22;2175;10;47.219967N;13.463094E;;;;Windsfeld;;;;;recoded wt2a to wf61
+wf62;45;0;0;0;45;5;3;3;3;0,05;0,02;4;4;S;15;;;;2009-07-22;2172;10;47.219905N;13.463273E;;;;Windsfeld;;;;;recoded wt2b to wf62
+wf63;98;0;0;0;96;8;4;4;4;0,15;0,05;7;7;NW;15;;;;2009-07-22;2145;10;47.221910N;13.462772E;;;;Windsfeld;;;;;recoded wt3a to wf63
+wf64;97;0;0;0;95;15;5;5;5;0,15;0,03;5;5;E;0;;;;2009-07-11;2111;10;47.222331N;13.465412E;;;;Windsfeld;;;;;recoded wt4a to wf64
+wf65;99;0;0;0;87;35;6;6;6;0,08;0,02;4;2,5;NW;15;;;;2009-07-11;9999;10;47.222408N;13.465395E;;;;Windsfeld;;;;;recoded wt4b to wf65
+wf66;93;0;0;0;93;15;7;7;7;0,15;0,03;5;5;E;20;;;;2009-07-11;2080;10;47.223366N;13.468860E;;;;Windsfeld;;;;;recoded wt5a to wf67
+wf67;90;0;0;0;80;40;8;8;8;0,1;0,02;7;3,5;E;0;;;;2009-07-11;2102;10;47.224644N;13.465988E;;;;Windsfeld;;;;;recoded wt6a to wf66
+wf68;93;0;0;0;85;30;9;9;9;0,15;0,02;7;7;W;20;;;;2009-07-22;2087;10;47.225673N;13.468296E;;;;Windsfeld;;;;;recoded wt7a to wf68
+wf69;98;0;0;0;95;60;10;10;10;0,1;0,03;4;4;NW;20;;;;2009-07-11;2078;10;47.226778N;13.465630E;;;;Windsfeld;;;;;recoded wt8a to wf69
+wf70;98;0;0;0;96;15;11;11;11;0,2;0,05;7;7;W;5;;;;2009-07-11;9999;10;47.226821N;13.465725E;;;;Windsfeld;;;;;recoded wt8b to wf70

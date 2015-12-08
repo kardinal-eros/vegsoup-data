@@ -1,0 +1,59 @@
+BEGIN HEADER
+Aufn.Nr.                              091 391 458 449
+Seehöhe mx1O                          203 200 191 202
+Heigung°                                0  15  30   5
+Exposition                              F WNW  SW   S
+Fläche m2                              10  10   2   4
+Deckung % K                            60  70  90  70
+Deckung % M                            50  15  10  60
+END HEADER
+
+BEGIN TABLE
+Agrostis rupestris               @hl    3   2   4   2
+Leontodon helveticus             @hl    2   2   2   1
+Anthoxanthum alpinum             @hl    +   1   1   1
+Avenochloa versicolor            @hl    1   1   1   2
+Euphrasia ninima                 @hl    2   1   1   1
+Valeriana celtica                @hl    2   3   .   3
+Pulsatilla alpina                @hl    +   1   .   +
+Polygonum viviparum              @hl    2   +   .   1
+Hieracium alpinum                @hl    1   +   .   +
+Campanula scheuchzeri            @hl    +   +   +   .
+Potentilla aurea                 @hl    +   +   .   .
+Nardus stricta                   @hl    +   +   .   .
+Homogyne alpina                  @hl    2   1   .   .
+Salix retusa                     @hl    3   +   .   .
+Luzula multiflora                @hl    .   +   +   .
+Vaccinium myrtillus              @hl    .   +   +   .
+Carex atrata agg.                @hl    .   +   +   .
+Agrostis alpina                  @hl    .   .   +   1
+Cerastium arvense                @hl    .   .   +   +
+
+Ligusticum mutellina             @hl    .   2   .   .
+Deschampsia cespitosa            @hl    .   1   .   .
+Galium noricum                   @hl    .   .   .   1
+Carex sempervirens               @hl    .   1   .   .
+Juncus trifidus                  @hl    .   .   1   .
+Gentiana punctata                @hl    2   .   .   .
+Homogyne discolor                @hl    .   3   .   .
+Carex capillaris                 @hl    .   1   .   1
+Antennaria dioica                @hl    .   .   .   2
+Festuca rupicaprina              @hl    .   1   .   .
+Androsace chamaejasme            @hl    .   .   .   1
+Minuartia sedoides               @hl    .   .   .   1
+
+Dicranum scoparium               @ml    .   2   1   1
+Cetraria islandica               @ml    3   1   .   1
+Cladonia species                 @ml    .   .   1   +
+Cladonia arbuscula               @ml    2   .   +   .
+Polytrichum piliferum            @ml    2   .   .   3
+Cladonia macroceras              @ml    1   .   .   1
+Polytrichum commune              @ml    1   .   .   .
+Barbilophozia sp.                @ml    1   .   .   .
+Cladonia rangiferina             @ml    2   .   .   .
+Lecidoma demissa                 @ml    +   .   .   .
+Sanionia uncinata                @ml    .   +   .   .
+Polytrichum alpinum              @ml    .   1   .   .
+Cetraria nivalis                 @ml    .   .   .   1
+Cetraria cucullata               @ml    .   .   .   1
+END TABLE

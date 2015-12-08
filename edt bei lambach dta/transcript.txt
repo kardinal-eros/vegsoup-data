@@ -1,0 +1,224 @@
+BEGIN HEAD
+plot                                          eeeeeeee
+                                              llllllll
+                                              00000000
+                                              12345678
+accuracy                                             2
+                                              55555550
+                                                      
+altitude                                      33333339
+                                              44444449
+                                              55555559
+                                                      
+bare                                          2       
+                                              04434030
+                                                      
+cov                                                1  
+                                              59999099
+                                              06676079
+                                                      
+hcov                                          59886979
+                                              00005805
+                                                      
+hsl                                           04444443
+                                                      
+htl1                                           2221222
+                                              02323425
+                                                      
+htl2                                           111 112
+                                              02220220
+                                                      
+mcov                                              11  
+                                              05535021
+                                                      
+plsx                                           1111131
+                                              26666626
+                                                      
+plsy                                           11111 1
+                                              86666686
+                                                      
+rock                                          00000000
+                                                      
+scov                                           3864141
+                                              05055550
+                                                      
+slope                                         50000000
+                                                      
+stones                                        3       
+                                              00000000
+                                                      
+t1cov                                          9699699
+                                              02020525
+                                                      
+t2cov                                          12  112
+                                              00080005
+                                                      
+vertical.precision                                   9
+                                              11111119
+                                              00000009
+                                                      
+richness                                      24444344
+                                              71300573
+                                                      
+END HEAD
+BEGIN TABLE
+Acer pseudoplatanus                       tl1 .1......
+Fraxinus excelsior                            .235332.
+Tilia cordata                                 .4..3..5
+Populus nigra                                 ..2..22.
+Clematis vitalba                              ....+...
+Salix eleagnos ssp. eleagnos                  ....1.3.
+Robinia pseudacacia                           ......1.
+Quercus robur                                 .......2
+Cornus sanguinea s.lat.                   tl2 .1.1..1.
+Fraxinus excelsior                            .+22.1..
+Tilia cordata                                 .2.1..12
+Ulmus glabra                                  .1.....2
+Acer campestre                                ..1.....
+Clematis vitalba                              ..12....
+Euonymus europaeus                            ...1....
+Quercus robur                                 ...1....
+Alnus incana                                  .....2..
+Humulus lupulus                               .....+..
+Carpinus betulus                              ......12
+Crataegus monogyna                            ......1.
+Robinia pseudacacia                           ......+.
+Acer pseudoplatanus                           .......1
+Sorbus aria s.str.                            .......1
+Acer campestre                             sl .12.....
+Acer pseudoplatanus                           .+11.1.1
+Berberis vulgaris                             .1..2..+
+Carpinus betulus                              .+....+.
+Clematis vitalba                              .+322...
+Cornus sanguinea s.lat.                       .132212.
+Corylus avellana                              .2..1.1.
+Fraxinus excelsior                            .+1+11..
+Ligustrum vulgare                             .+122.1+
+Lonicera xylosteum                            .2222.2+
+Sambucus nigra                                .++.++..
+Tilia cordata                                 .2..1.+1
+Ulmus glabra                                  .+.....+
+Viburnum lantana                              .+121++.
+Crataegus monogyna                            ..+21.1+
+Euonymus europaeus                            ..+2....
+Humulus lupulus                               ..++.+..
+Salix eleagnos ssp. eleagnos                  ..1.....
+Quercus robur                                 ...+....
+Hedera helix                                  ....1...
+Prunus padus ssp. padus                       .....2..
+Juglans regia                                 .......+
+Agrostis stolonifera s.str.                hl 1.......
+Alliaria petiolata                            +..+..+.
+Barbarea vulgaris s.lat.                      2.......
+Cardamine flexuosa                            1.......
+Clematis vitalba                              ++21+.+.
+Cornus sanguinea s.lat.                       ++1++...
+Dactylis glomerata ssp. glomerata             +.+1.1..
+Deschampsia cespitosa                         +.+.....
+Elymus caninus                                +.......
+Festuca arundinacea ssp. arundinacea          1.+.....
+Impatiens glandulifera                        +.......
+Lamium maculatum                              +.11211.
+Mentha aquatica                               r.......
+Persicaria sp.                                +.......
+Phalaris arundinacea                          2.11.3..
+Plantago lanceolata                           +.......
+Plantago major ssp. major                     +.......
+Poa annua ssp. annua                          1.......
+Ranunculus repens                             +.......
+Rumex obtusifolius s.lat.                     +.......
+Salix purpurea                                2.......
+Salix triandra ssp. triandra                  +.......
+Scrophularia umbrosa s.lat.                   +.......
+Stellaria media s.str.                        +..+....
+Taraxacum sp.                                 +.......
+Tussilago farfara                             +.......
+Urtica dioica ssp. dioica                     +.+++1+.
+Acer campestre                                .++....+
+Acer pseudoplatanus                           .+++.+.1
+Aegopodium podagraria                         .+.++112
+Angelica sylvestris ssp. sylvestris           .+++1...
+Aposeris foetida                              .+.....+
+Asarum europaeum ssp. europaeum               .11.2.12
+Berberis vulgaris                             .+..+...
+Brachypodium sylvaticum                       .234.33+
+Bromus benekenii                              .+....++
+Campanula trachelium                          .+.++..+
+Carex alba                                    .4..2.12
+Carex digitata                                .1.....+
+Carex sylvatica ssp. sylvatica                .+++1...
+Convallaria majalis ssp. majalis              .+..1.+3
+Corylus avellana                              .+......
+Crataegus monogyna                            .++++.++
+Cyclamen purpurascens                         .+....++
+Dryopteris filix-mas s.str.                   .+...+..
+Euonymus europaeus                            .+....++
+Filipendula ulmaria ssp. ulmaria              .+++.++.
+Fraxinus excelsior                            .++.+3.1
+Galeobdolon montanum                          .12..+.1
+Hedera helix                                  .+.+1...
+Ligustrum vulgare                             .11+...1
+Lonicera xylosteum                            .2+1+..+
+Mercurialis perennis s.str.                   .2+..+++
+Moehringia trinervia                          .+..+.+.
+Prunus padus ssp. padus                       .+...+..
+Pulmonaria officinalis s.str.                 .1++11++
+Quercus robur                                 .+++...+
+Rubus fruticosus agg.                         .++..++.
+Salvia glutinosa                              .1+.2...
+Solidago virgaurea ssp. virgaurea             .+.+.1+.
+Tilia cordata                                 .+1.+..1
+Ulmus glabra                                  .1..+..1
+Viburnum lantana                              .+....++
+Viola mirabilis                               .+++..++
+Carex polyphylla                              ..+.+...
+Carpinus betulus                              ..+....+
+Erigeron annuus ssp. annuus                   ..+.....
+Galium album s.str.                           ..+.....
+Geranium phaeum s.lat.                        ..++.2+.
+Geum urbanum                                  ..++++1.
+Glechoma hederacea                            ..+++2..
+Humulus lupulus                               ..++.+..
+Poa angustifolia                              ..+...+.
+Poa nemoralis                                 ..+.....
+Rubus caesius                                 ..32.2.+
+Carduus personata ssp. personata              ...+r++.
+Euphorbia amygdaloides ssp. amygdaloides      ...+...+
+Lysimachia nummularia                         ...+....
+Phyteuma spicatum                             ...+....
+Rosa arvensis                                 ...+....
+Rubus idaeus                                  ...+....
+Saponaria officinalis                         ...+....
+Stachys sylvatica                             ...+.11.
+Daphne mezereum                               ....+..1
+Euphorbia cyparissias                         ....+...
+Festuca gigantea                              ....+2+.
+Geranium robertianum s.str.                   ....+.+.
+Hepatica nobilis                              ....1.+2
+Heracleum sphondylium ssp. sphondylium        ....+..+
+Lilium martagon                               ....+...
+Rhamnus cathartica                            ....+.+.
+Valeriana officinalis ssp. sambucifolia       ....+.+.
+Viola hirta                                   ....+.+.
+Allium scorodoprasum s.str.                   .....+..
+Arctium sp.                                   .....+..
+Cardamine impatiens                           .....+..
+Circaea lutetiana ssp. lutetiana              .....++.
+Cirsium oleraceum                             .....1..
+Galium aparine s.str.                         .....+..
+Sambucus nigra                                .....+..
+Carex pilosa                                  ......+.
+Primula elatior s.str.                        ......+.
+Ranunculus lanuginosus                        ......+.
+Stellaria nemorum s.str.                      ......+.
+Allium carinatum                              .......+
+Allium ursinum ssp. ursinum                   .......1
+Anemone nemorosa                              .......1
+Astrantia major var. major                    .......+
+Euphorbia dulcis                              .......2
+Helleborus niger                              .......+
+Knautia maxima ssp. maxima                    .......+
+Paris quadrifolia                             .......+
+Polygonatum multiflorum                       .......1
+Sorbus aria s.str.                            .......+
+END TABLE

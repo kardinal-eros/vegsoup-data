@@ -1,0 +1,16 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;latitude;longitude;accuracy;date;location;alliance;rope;comment;observer;soil
+aw01;40;0;0;1;40;1;0;0;1,5;0,2;0,1;8;8;S;50;46;2;1;47.297483N;13.209362E;20;2011-07-30;Alte Wacht (Steglehen);Seslerion caeruleae;rope betray (aw01-03'): 47.297680E, 13.209360E, rope range (aw01-03'' 100m): 47.29723E, 13.209340E;;R. Kaiser;Rendzina
+aw02;75;0;0;3;75;1;0;0;2;0,5;0,1;8;8;S;70;22;2;1;47.297465N;13.209480E;20;2011-07-30;Alte Wacht (Steglehen);Berberidion;rope betray (aw01-03'): 47.297680E, 13.209360E, rope range (aw01-03'' 100m): 47.29723E, 13.209340E;;R. Kaiser;Rendzina
+aw03;75;0;0;3;70;1;0;0;2;0,5;0,1;8;8;S;70;20;2;2;47.297303N;13.209332E;20;2011-07-30;Alte Wacht (Steglehen);Seslerion caeruleae;rope betray (aw01-03'): 47.297680E, 13.209360E, rope range (aw01-03'' 100m): 47.29723E, 13.209340E;;R. Kaiser;Rendzina
+aw04;98;0;0;0;80;50;0;0;0;0,6;0,15;4;4;SW;45;0;0;2;47.299312N;13.206448E;10;2014-07-28;Alte Wacht (Steglehen);Seslerion caeruleae;;;T. Eberl & R. Kaiser;Cultosol
+aw05;97;95;0;0;15;50;15;0;0;4;0,1;16;16;SE;40;0;0;0;47.299947N;13.212302E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;;T. Eberl & R. Kaiser;Kalklehm-Rendzina
+aw06;90;45;20;65;70;10;25;12;3;0,5;0,2;10;25;S;30;10;0;0;47.298555N;13.210946E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;entlang Rücken;T. Eberl & R. Kaiser;Rohumus-Renzina
+aw07;88;30;18;20;75;1;20;10;4;0,8;0,1;10;25;SE;75;10;2;0;47.298597N;13.211250E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;rope betray (aw07-08'): 47.298752N, 13.211150E, rope range (aw07-08'' 100m): 47.298233N, 13.211574E;;T. Eberl;Rendzina
+aw08;95;60;8;3;90;2;22;12;4;1;0,1;16;16;SE;80;1;4;0;47.298366N;13.211442E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;rope betray (aw07-08'): 47.298752N, 13.211150E, rope range (aw07-08'' 100m): 47.298233N, 13.211574E;;T. Eberl;Rendzina
+aw09;15;7;3;0;2;2;16;13;0;0,7;0,1;16;16;S;45;10;0;0;47.298860N;13.211344E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;Windwurf;R. Kaiser;Rendzina
+aw10;75;0;0;1;75;1;0;0;0;1;0,2;16;16;SE;50;10;15;0;47.299228N;13.211878E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;Windwurf;R. Kaiser;Kalkbraunlehm & verbraunte Rendzina
+aw11;95;75;12;7;70;3;25;18;5;1;0,1;16;16;SE;45;1;0;0;47.298161N;13.211153E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;;T. Eberl;Rendzina
+aw12;97;70;30;10;85;5;27;15;4;1,1;0,3;16;16;W;45;0;0;0;47.301136N;13.210219E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;;T. Eberl & R. Kaiser;Kalklehm-Rendzina
+aw13;99;60;7;20;95;5;23;15;2,5;1,2;0,2;16;16;W;25;0;0;0;47.300198N;13.206730E;10;2014-07-28;Alte Wacht (Steglehen);Calamagrostio variae-Abietenion;;;T. Eberl & R. Kaiser;Kalklehm-Rendzina
+aw14;20;0;0;0;20;1;0;0;0;0,25;0,1;16;4;S;70;80;0;0;47.297115N;13.206940E;5;2014-08-04;Alte Wacht (Steglehen);Seslerion caeruleae;;künstliche Felswand, Bau Sbr Jahreüce in 1599 existiert die en 1990er, 1566seit  direkt in den Fels geschlagene (alte) Großarler Straße;R. Kaiser;Rendzina
+aw15;98;0;0;0;98;2;0;0;0;0,5;0,15;4;4;SE;20;2;0;0;47.297175N;13.207176E;5;2014-08-04;Alte Wacht (Steglehen);Seslerion caeruleae;;;R. Kaiser;Rendzina

@@ -1,0 +1,103 @@
+BEGIN HEAD
+plot                                           bb
+                                               uu
+                                               00
+                                               12
+accuracy                                       11
+                                               00
+                                                 
+altitude                                       77
+                                               99
+                                               00
+                                                 
+bare                                           4 
+                                               50
+                                                 
+cov                                            94
+                                               50
+                                                 
+hcov                                           33
+                                               00
+                                                 
+mcov                                           51
+                                                 
+plsx                                           1 
+                                               02
+                                                 
+plsy                                           35
+                                                 
+rock                                            9
+                                               05
+                                                 
+scov                                           82
+                                               50
+                                                 
+slope                                          48
+                                               55
+                                                 
+stones                                         50
+                                                 
+richness                                       43
+                                               00
+                                                 
+END HEAD
+BEGIN TABLE
+Cornus sanguinea s.lat.                     sl 2.
+Amelanchier ovalis                             12
+Rhamnus cathartica                             2.
+Rosa micrantha                                 +.
+Euonymus europaeus                             1.
+Viburnum lantana                               2.
+Rosa canina s.str.                             1+
+Juniperus sabina                               3.
+Fraxinus excelsior                             +.
+Berberis vulgaris                              22
+Sorbus aria s.str.                             .+
+Cornus sanguinea s.lat.                     hl 2.
+Lonicera xylosteum                             +.
+Amelanchier ovalis                             +1
+Rosa micrantha                                 +.
+Rosa canina s.str.                             +1
+Juniperus sabina                               21
+Fraxinus excelsior                             +.
+Taxus baccata                                  +.
+Quercus robur                                  +.
+Berberis vulgaris                              11
+Allium lusitanicum                             1+
+Sesleria caerulea s.str.                       22
+Vincetoxicum hirundinaria                      1.
+Galium lucidum                                 21
+Teucrium montanum                              +1
+Teucrium chamaedrys ssp. chamaedrys            1+
+Euphorbia cyparissias                          1.
+Polygala chamaebuxus                           2.
+Polygonatum odoratum                           2+
+Origanum vulgare ssp. vulgare                  1.
+Carduus defloratus ssp. viridis                ++
+Calamagrostis varia                            1.
+Hylotelephium maximum                          +.
+Betonica alopecuros                            ++
+Euphrasia salisburgensis s.str.                ++
+Silene nutans ssp. nutans                      +.
+Thymus praecox ssp. praecox                    ++
+Kernera saxatilis                              +.
+Laserpitium latifolium ssp. latifolium         ++
+Melica ciliata s.str.                          ++
+Thalictrum minus s.lat.                        ++
+Anthericum ramosum                             ++
+Buphthalmum salicifolium                       ++
+Campanula rapunculus                           +.
+Helianthemum nummularium ssp. grandiflorum     +.
+Carex alba                                     +.
+Rhamnus cathartica                             .+
+Hieracium glaucum                              .1
+Globularia cordifolia s.str.                   .1
+Potentilla caulescens ssp. caulescens          .2
+Coronilla vaginalis                            .+
+Jovibarba globifera ssp. hirta                 .+
+Seseli austriacum                              .r
+Sedum album                                    .+
+Erysimum sylvestre s.str.                      .+
+Homalothecium lutescens                     ml 1.
+Tortella tortuosa                              .+
+END TABLE

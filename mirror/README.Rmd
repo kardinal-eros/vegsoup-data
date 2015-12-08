@@ -1,0 +1,70 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{RMarkdown Citations - Alphabetic Style}
+-->
+
+```{r setup, include = TRUE, echo = FALSE, cache = FALSE}
+BibOptions(check.entries = FALSE, style = "markdown",
+cite.style = "draft", bib.style = "draft")
+
+library(vegsoup)
+library(RefManageR)
+
+path <- "~/Documents/vegsoup-data"
+
+x <- list.files(path)
+
+ii <- c(
+#	other files
+	"CHANGES.md",
+	"README.md",
+	"README.png",	
+	"mirror",
+#	unfished data sets	
+	"dirnböck1999",
+	"dunzendorfer1980",
+	"ewald2013",
+	"greimler1996",
+	"grims1982",
+	"hohewand fence dta",
+	"hohewand transect dta",
+	"jakubowsky1996",
+	"monte negro dta",
+	"nußbaumer2000",
+	"pflugbeil2012",
+	"prebersee dta",
+	"ruttner1994",
+	"schwarz1989",
+	"stadler1991",
+	"stadler1992",
+	"stadler2011",
+	"surina2004",
+	"urban1992",
+	"urban2008",
+#	independent taxonomy
+	"crete dta",
+	"cape hallet lichen dta",
+	"javakheti dta",
+	"salzkammergut lichen dta",
+	"kalkalpen lichen dta"	
+)
+
+x <- x[-match(ii, x)]
+
+#	biblographic entities
+x <- sapply(file.path(path, x), function (x) {
+	ReadBib(file.path(x, "references.bib"))	
+}, simplify = FALSE)
+
+#	collect entities
+b <- do.call("c", x)
+```
+
+Bibliographic references to data sets
+=====================================
+`r Cite(b)`  
+
+
+```{r results = "asis", echo = FALSE}
+PrintBibliography(b, .opts = list(check.entries = FALSE, bib.style = "draft"))
+```

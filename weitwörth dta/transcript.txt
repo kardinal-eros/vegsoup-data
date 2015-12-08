@@ -1,0 +1,99 @@
+BEGIN HEAD
+plot                                          wwww
+                                              wwww
+                                              0000
+                                              1234
+accuracy                                      1111
+                                              0000
+                                                  
+cov                                           9998
+                                              8860
+                                                  
+hcov                                          9998
+                                              6750
+                                                  
+hsl                                           0000
+                                                  
+htl1                                          0000
+                                                  
+htl2                                          0000
+                                                  
+mcov                                          342 
+                                              5553
+                                                  
+plsx                                          4444
+                                                  
+plsy                                          4444
+                                                  
+scov                                          0000
+                                                  
+slope                                         0000
+                                                  
+t1cov                                         0000
+                                                  
+t2cov                                         0000
+                                                  
+richness                                      2212
+                                              2468
+                                                  
+END HEAD
+BEGIN TABLE
+Alopecurus pratensis                       hl 222.
+Carex hirta                                   322.
+Carex otrubae                                 234.
+Cerastium holosteoides                        11..
+Dactylis glomerata ssp. glomerata             1...
+Equisetum palustre                            +...
+Festuca pratensis s.str.                      122.
+Festuca rubra s.lat.                          1..2
+Holcus lanatus                                2..+
+Juncus articulatus                            +...
+Juncus effusus ssp. effusus                   2.+.
+Juncus inflexus                               122.
+Lychnis flos-cuculi                           211.
+Plantago lanceolata                           +..+
+Poa trivialis                                 222.
+Potentilla anserina                           111.
+Ranunculus acris ssp. acris                   +++.
+Ranunculus repens                             32..
+Rumex obtusifolius s.lat.                     r.+.
+Symphytum officinale s.str.                   22+.
+Trifolium pratense ssp. pratense              32..
+Ajuga reptans                                 .1..
+Anthoxanthum odoratum s.str.                  .+..
+Epilobium parviflorum                         .+..
+Galium album s.str.                           .+..
+Glechoma hederacea                            .+..
+Phalaris arundinacea                          .22.
+Rumex crispus                                 .++.
+Taraxacum sect. Ruderalia                     .+.+
+Veronica serpyllifolia ssp. serpyllifolia     .+..
+Vicia sepium                                  .+..
+Arrhenatherum elatius                         ..r.
+Calliergonella cuspidata                      ..3.
+Achillea millefolium agg.                     ...+
+Anthyllis vulneraria s.lat.                   ...1
+Briza media                                   ...+
+Bromus erectus                                ...4
+Carex flacca ssp. flacca                      ...+
+Equisetum arvense                             ...+
+Erigeron canadensis                           ...+
+Festuca stricta s.lat.                        ...1
+Homalotrichon pubescens ssp. pubescens        ...+
+Knautia arvensis ssp. arvensis                ...1
+Leontodon hispidus s.lat.                     ...1
+Leucanthemum ircutianum                       ...2
+Lotus corniculatus s.str.                     ...+
+Luzula campestris s.str.                      ...+
+Medicago lupulina                             ...+
+Medicago falcata × varia                      ...+
+Plantago media                                ...r
+Rubus caesius                                 ...r
+Salix alba                                    ...r
+Salix caprea                                  ...r
+Sanguisorba minor ssp. minor                  ...+
+Solidago gigantea ssp. serotina               ...r
+Trifolium hybridum s.lat.                     ...+
+Trifolium repens ssp. repens                  ...2
+Calliergonella cuspidata                   ml 33..
+END TABLE

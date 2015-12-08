@@ -1,0 +1,147 @@
+BEGIN HEAD
+plot                                          bbbbb
+                                              bbbbb
+                                              00000
+                                              11234
+                                              abaaa
+accuracy                                      11111
+                                              00000
+                                                   
+altitude                                      78888
+                                              74434
+                                              53040
+                                                   
+cov                                           1  1 
+                                              09909
+                                              08503
+                                                   
+hcov                                             1 
+                                              99904
+                                              95500
+                                                   
+hsl                                           00205
+                                                   
+htl1                                          00000
+                                                   
+htl2                                          00000
+                                                   
+mcov                                             21
+                                              58800
+                                                   
+plsx                                              1
+                                              55240
+                                                   
+plsy                                              1
+                                              55480
+                                                   
+scov                                              8
+                                              00100
+                                                   
+slope                                             1
+                                              00700
+                                                   
+t1cov                                         00000
+                                                   
+t2cov                                         00000
+                                                   
+richness                                      22223
+                                              67835
+                                                   
+END HEAD
+BEGIN TABLE
+Frangula alnus                             sl ..+.1
+Viburnum opulus                               ....1
+Prunus padus ssp. padus                       ....2
+Fraxinus excelsior                            ....4
+Berberis vulgaris                             ....1
+Rosa canina s.str.                            ....+
+Rhamnus cathartica                            ....+
+Sorbus aucuparia ssp. aucuparia               ....1
+Alnus incana                                  ....1
+Acer pseudoplatanus                           ....1
+Carum carvi                                hl 1....
+Trisetum flavescens ssp. flavescens           33...
+Dactylis glomerata ssp. glomerata             21..1
+Festuca pratensis s.str.                      21...
+Ranunculus acris ssp. acris                   22...
+Trifolium pratense ssp. pratense              22...
+Alchemilla sp.                                +1++.
+Rumex acetosa                                 22...
+Ranunculus repens                             11..+
+Taraxacum sect. Ruderalia                     22...
+Trifolium repens ssp. repens                  11...
+Aegopodium podagraria                         11...
+Plantago lanceolata                           +1...
+Leontodon hispidus ssp. hispidus              ++...
+Heracleum sphondylium ssp. sphondylium        +....
+Cardamine pratensis s.str.                    ++...
+Cerastium holosteoides                        ++...
+Anthoxanthum odoratum s.str.                  +11..
+Crepis biennis                                +....
+Pimpinella major var. major                   +....
+Bellis perennis                               +....
+Achillea millefolium agg.                     +1...
+Alopecurus pratensis                          ++...
+Poa trivialis                                 1+...
+Festuca rubra                                 21...
+Veronica chamaedrys ssp. chamaedrys           +..+1
+Leucanthemum ircutianum                       .+...
+Stellaria graminea                            .+...
+Poa pratensis                                 .+...
+Lathyrus pratensis ssp. pratensis             .+...
+Phleum pratense s.str.                        .1...
+Cynosurus cristatus                           .+...
+Veronica serpyllifolia ssp. serpyllifolia     .+...
+Filipendula ulmaria                           ..122
+Mentha longifolia                             ..12.
+Cirsium palustre                              ..+++
+Carex flava var. flava                        ..+.+
+Potentilla erecta                             ..1..
+Cirsium oleraceum                             ..++.
+Galium album s.str.                           ..+++
+Carex nigra                                   ..2..
+Carex davalliana                              ..3..
+Carex panicea                                 ..2..
+Valeriana dioica                              ..1+.
+Luzula multiflora s.str.                      ..1..
+Deschampsia cespitosa                         ..++2
+Galium palustre ssp. palustre                 ..+..
+Carex echinata                                ..+..
+Carex pallescens                              ..+..
+Glechoma hederacea                            ..++.
+Vaccinium myrtillus                           ..+.+
+Equisetum palustre                            ..++.
+Molinia caerulea s.str.                       ..1+.
+Carex flacca ssp. flacca                      ..1.+
+Galium uliginosum                             ..+..
+Arabidopsis halleri                           ..++1
+Juncus effusus ssp. effusus                   ..1..
+Alnus incana                                  ..+.+
+Frangula alnus                                ..+.+
+Iris sibirica                                 ...1.
+Rubus idaeus                                  ...31
+Solidago canadensis                           ...1.
+Urtica dioica ssp. dioica                     ...31
+Equisetum telmateia                           ...+.
+Lamium album                                  ...+.
+Stachys sylvatica                             ...+.
+Vicia sepium                                  ...+.
+Ribes nigrum                                  ...2.
+Scirpus sylvaticus                            ...+.
+Prunus padus ssp. padus                       ....+
+Fraxinus excelsior                            ....1
+Sorbus aucuparia ssp. aucuparia               ....+
+Acer pseudoplatanus                           ....+
+Fragaria vesca                                ....+
+Poa nemoralis                                 ....+
+Brachypodium sylvaticum                       ....2
+Silene dioica                                 ....+
+Maianthemum bifolium                          ....+
+Pteridium aquilinum                           ....1
+Angelica sylvestris ssp. sylvestris           ....+
+Solidago virgaurea ssp. virgaurea             ....+
+Petasites albus                               ....1
+Athyrium filix-femina                         ....+
+Phegopteris connectilis                       ....+
+Luzula luzuloides                             ....+
+END TABLE

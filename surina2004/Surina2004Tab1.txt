@@ -1,0 +1,194 @@
+BEGIN HEAD
+Releveé number                   0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2
+                                 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8
+
+Altitude (m a.s.l.)              1 1 1 1 1 1 1 2 1 1 2 2 2 1 1 1 1 1 1 1 1 2 2 1 1 1 1 1
+                                 9 9 7 9 5 7 8 1 9 9 0 0 0 9 7 6 7 6 3 6 7 0 1 9 7 9 9 9
+                                 0 4 4 4 8 0 8 2 2 6 4 5 4 0 0 8 0 8 3 0 0 2 1 5 5 6 7 4
+                                 0 5 0 4 0 0 4 0 0 5 0 0 0 0 0 0 0 0 0 5 5 0 0 5 5 5 5 5
+
+Exposition                       . . N . . . . S N S . N . N . N . . . N . N . . N . . .
+                                 N N W . N N W W W W E E W E N E N E N E . W N N E N N N
+
+Inclination (°)                  1 1 3 . 4 5 6 . 1 1 4 . 1 2 2 3 2 7 3 . . 1 2 2 4 1 2 1
+                                 0 5 0 0 5 0 0 5 5 5 5 5 0 5 0 0 0 0 0 5 0 0 0 0 0 0 0 0
+
+Coverness (%) Herb layer         . . 1 . . . . . . . . 1 . . . . . . . . . . . . . . . 1
+                                 9 9 0 8 7 8 9 9 9 7 9 0 9 4 7 7 8 7 8 9 7 9 9 9 6 9 9 0
+                                 0 0 0 0 0 0 0 5 5 0 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0 0
+
+Moss layer                       . . . . 1 1 2 2 1 2 . . 2 . . . . . . . . . . . . . 1 .
+                                 1 1 . . 0 0 0 0 0 0 1 5 0 . . . . . 5 5 5 1 1 1 1 1 0 .
+
+Releveé area (m2)                . . . . . . . . 2 . . . . 1 . . . . . . . 2 . . 1 . . .
+                                 6 3 2 6 5 4 4 4 5 4 8 2 4 2 4 4 4 4 6 4 4 5 2 6 2 4 4 1
+
+Number of species                2 2 2 2 4 4 3 2 5 2 3 3 2 2 2 1 2 2 3 4 2 2 1 1 1 2 1 1
+                                 7 7 0 6 2 3 8 9 8 5 7 4 2 8 1 8 1 2 0 0 8 8 2 5 9 0 8 3
+END HEAD
+
+BEGIN TABLE
+Carex firma                      4 4 4 4 4 4 4 4 4 4 5 5 5 1 4 4 4 4 4 3 3 4 4 5 3 2 3 2
+Helianthemum alpestre            + + . 2 + 1 1 + 1 . + . + 1 . . . . . . . . . . . . . .
+Crepis kerneri                   . . . . . . . . + . . . . . . . . . . + + + . . + + + +
+Saussurea pygmaea                . . . . . . . 1 . . + . + . . . . . . . . . . . . . . .
+Chamorchis alpina                . . . . . . . . . . + + . . . . . . . . . . . . . . . .
+Saxifraga caesia                 . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+
+Phyteuma sieberi                 1 + + + + . + . 1 + + + 1 + . + + . . . 1 + + + + + 1 +
+Pedicularis rostrato-capitata    + + + + + 1 + + + + + + + + + . + + . . . . . . . + . .
+Saxifraga squarrosa              + + . + 1 + + . + 1 + + + . + . + + . . . . + + . . + .
+Sesleria sphaerocephala          + . 2 + 1 . . + . + . + 1 . . . . . . . . + + . . . 1 +
+Achillea clavenae                . . . + + + + . 1 . . . . + . . . . . + + + + . . . . +
+Gentiana terglouensis            + . . . . . + . . . . . . . . . . . + . . + + + . . . .
+
+Polygonum viviparum              . + . + . 1 . 2 1 1 . 1 1 + 1 . . . 1 + 1 + + . + + . .
+Festuca nitida                   . . . . . + . 2 1 + . 1 . . + . . . . + + + . . . . . .
+Drepanocladus uncinatus          . . . . . . + 2 2 3 . 1 2 . . . . . . . . . . . . . . .
+Geranium argenteum               . . . . . . 2 + + . + + . + . . . . . . . . . . . . . .
+Oncophorus virens                . . . . . . + + . 1 + . . . . . . . . . . . . . . . . .
+Potentilla nitida                + . . . . . . . . . . . 1 . 2 3 2 3 . . . . 1 . . . + +
+Oxytropis jacquinii              . . . 1 . . + + . . . . . 1 + + + + . . . . . . . . . .
+Primula auricula                 . . . . 1 + . . . . + . . . + + + + . . . . . . . . . .
+Campanula zoysii                 . . . . . + . . . . . . . . . + + + . . . . . . . . . .
+Paederota lutea                  . . . . . + + . . . . . . . . . . . . . . . . . . . . .
+Petrocallis pyrenaica            . . . . . . . . + . . . . . + . + + . . . . . . . . . .
+Dryas octopetala                 1 2 1 . + . . . 3 + 2 2 2 + . . . . 1 4 4 2 2 3 4 4 3 5
+Athamanta cretensis              . . . . . . . . . . . . . . . . . . + 1 + . . . + + + +
+Leontodon hispidus s. lat.       . . . . . . . . + . . + . . . . . . . 1 1 . . . . . + +
+
+Koeleria eriostachya             . + . + . + . . + . . . . . . . . . + . . . . . . . . .
+Linum julicum                    . . . . . . . . . . + + . . . . . . + . . . . . . . . .
+Laserpitium peucedanoides        . . . . . . . . . . . . . . . . . . . + . . . . . . . .
+Senecio abrotanifolius           . . . . . . . . . . . . . . . . . . . 1 . . . . . . . .
+Trifolium noricum                . . . . . . . . . . . . . + . . . . . . . . . . . . . .
+
+Aster bellidiastrum              + + + + + + + . 1 + + 1 . . + + + . 1 . . 1 . 1 + 1 . +
+Sesleria albicans                + + . + 1 1 + 1 + . 1 1 . + 1 1 1 2 . + . + + . . . . .
+Gentiana clusii                  + + + 2 + + + . + . 1 1 . . . . . . . + . . . + . + . .
+Leontopodium alpinum             + . . + + . + + + . + . . . 1 + . + . . . . . . . . . .
+Anthyllis vulneraria/alpestris   + . . + + . . . + . + 1 . + . . . . + + . . . . . + . .
+Ranunculus hybridus              . . . . 1 1 + . . . 1 . . + + 1 + + . . . . . . . . . .
+Silene acaulis                   . . . . . . + + 1 . + + + 2 . . . . . + 1 . . . . . . .
+Pinguicula alpina                + + + . + 1 . . + . . . . . . . + . + . . . . 1 . . . .
+Salix alpina                     . + . . . . + + 1 . + . . . . . . . + + 1 . . . . . . .
+Thymus alpigenus                 . . . + . . . . 1 + . + . + . . . . 2 + . . . . . . . .
+Homogyne discolor                1 1 . . . . . . 1 . + + . . . . . . . + . 1 . . . . . .
+Carex sempervirens               + . . + + . . . . . . . . . . . . . + + . + . . . + . .
+Hieracium villosum               . . + . + + . . + . + . . + . + . . . . . . . . . . . .
+Hedysarum hedysaroides           . . . . + 1 + 2 . + + + . . . . . . . . . . . . . . . .
+Poa alpina                       . + . . . . . . + 1 1 . + . . . . . . + + + . . . . . .
+Androsace villosa                1 1 . 1 . . + . + . . . . . . . . . . + . . . . . . . .
+Galium anisophyllum              . . . + . + . + 1 . . . . . . . . . 1 . . + . . . . . .
+Bartsia alpina                   . . . . + + + . . . + . . . + . . . . . . . . . . . . .
+Euphrasia salisburgensis         . . + . . . . . . . + + . . . . . . . . . . . + . + + .
+Erigeron glabratus               . . . . . + + + + . . . . + . . . . . . . . . . . . . .
+Aster alpinus                    . . . . . . . . . . . . . + . . . + . . . + . . . . + +
+Astrantia bavarica               . . . . 1 + . . + . + . . . . . . . . . . . . . . . . .
+Carex mucronata                  . . . . . + . . . . . . . . + . . + . . + . . . . . . .
+Heliosperma alpestre             . . . . . 1 . . + . . . . . . . . . 1 . + . . . . . . .
+Biscutella laevigata             . . . . . . . . + . . . . . . . . . . + 1 . . . . . . .
+Salix serpyllifolia              . . . . . + . . . . . . + . . . . . . . . . . . + . . .
+Potentilla crantzii              + . . . . . . . . . . . . . . . . . + + . . . . . . . .
+Pedicularis verticillata         . . . . . . . . + . . . . . . . . . . . . + . + . . . .
+Gentianella anisodonta           . . . . . . . . + . . . . . . . . . . + . + . . . . . .
+Euphrasia picta                  . . . . . . . . . + . + . . . . . . . . . + . . . . . .
+Ranunculus carinthiacus          . . . . . . + . . . . + . . . . . . + . . . . . . . . .
+Gentiana verna                   . . . . . . . . . . + . . . . . . . . . . . . + . . . .
+Carlina acaulis/simplex          . . . . . . . . . . . . . . . . . . . + + . . . . . . .
+Pulsatilla alpina                . . . . + . . . . . . + . . . . . . . . . . . . . . . .
+Thesium alpinum                  . . . . . . . . . . + . . . . . . . . + . . . . . . . .
+Anemone narcissiflora            . . . . + . + . . . . . . . . . . . . . . . . . . . . .
+Campanula scheuchzeri            . . . . . + . . + . . . . . . . . . . . . . . . . . . .
+Daphne striata                   . . + . . . . . . . + . . . . . . . . . . . . . . . . .
+Coeloglossum viride              . . . . . . . . 1 . . . . . . . . . . . . . . . . . . .
+Gentiana nivalis                 . . . . . . . + . . . . . . . . . . . . . . . . . . . .
+Betonica alopecuros              . . . . . . . . . . . . . . . . . . + . . . . . . . . .
+Helianthemum grandiflorum        . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Hieracium bifidum                . . . . + . . . . . . . . . . . . . . . . . . . . . . .
+Myosotis alpestris               . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Polygala alpestris               . . . + . . . . . . . . . . . . . . . . . . . . . . . .
+Rhinanthus aristatus             . . . . . . . . . . . . . . . . . . . + . . . . . . . .
+Alchemilla velebitica            . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Anthoxanthum nipponicum          . . . + . . . . . . . . . . . . . . . . . . . . . . . .
+Arabis vochinensis               . . . . . . . . . . . . . . . . . . + . . . . . . . . .
+Cerastium subtriflorum           . . . . . . . . . + . . . . . . . . . . . . . . . . . .
+Euphrasia pulchella              . . . . . . . + . . . . . . . . . . . . . . . . . . . .
+Gentiana pumila                  . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Gentiana utriculosa              . . . . . + . . . . . . . . . . . . . . . . . . . . . .
+Lotus corniculatus               . . . . . . . . . . . . . . . . . . + . . . . . . . . .
+
+Campanula cochleariifolia        . . . . . . . . . 1 . . + + + + 1 + . + 1 . . . + + + .
+Ranunculus traunfellneri         + + . . + . . . . + . + . . . . . . 1 + + + + . + . . +
+Soldanella minima                + + . . + . . . . . . . . . . . . . 1 + . 1 . . + 1 . .
+Salix retusa                     . . . . . + + + + + . . . . . . . . . . . 1 4 . + . . .
+Juncus monanthos                 . . . . . . 1 . + + . . . . . + + . + . + . . . . . . .
+Saxifraga aizoides               . . . . + + + . . + . + . 1 . . . . . . . . . . . . . .
+Cerastium austroalpinum          . . . . . . . . + + . . + . . . . . . . . . . . + . . .
+Gypsophila repens                . . . . . . . . . . . . . + . + . + . . . . . . . . . .
+Thlaspi kerneri                  . . . . . . . . + . . . . . . . . . . . + . . . + . . .
+Soldanella alpina                . . . . . 1 . . . . . + . . . . . . . . . . . . . . . .
+Achillea atrata                  . . . . . . . . . . . . . . . . . . + . + . . . . . . .
+Armeria alpina                   . . . . . . . . + . . . . . . . . . . . . + . . . . . .
+Festuca laxa                     . . . . . . . . . . . . . . . . . . . . + . . . + . . .
+Minuartia austriaca              . . . . . . . + + . . . . . . . . . . . . . . . . . . .
+Silene vulgaris/glareosa         . . . . . . . . . . . . . . . . . . . + + . . . . . . .
+Alyssum ovirense                 . . . . . . . . . . . . . . . . . . . . . + . . . . . .
+Moehringia ciliata               . . . . . . . . . . . . . . . . . . + . . . . . . . . .
+Poa minor                        . . . . . . . . . . . . . . . . . . . + . . . . . . . .
+Rumex scutatus                   . . . . . . . . . . . . . . . . . . . + . . . . . . . .
+
+Valeriana saxatilis              1 1 1 . 1 1 . . + . + . + . 1 1 2 + . + . . . + + + . .
+Saxifraga crustata               . + . . + 1 + + . + + . + 1 + + + + . . . . . + . . . .
+Viola biflora                    + 1 + . + . + + . + . . . . + + . + . + . + . . . . . .
+Minuartia sedoides               . . . . . . + + + 2 . + + . . . . . . . . . . . . . . .
+Potentilla clusiana              . . + . . . . . . + . . . . . . . . . . . . . . . . + 1
+Saxifraga paniculata             . . . . . . + . . . . + + . . . . . . . . . . . . . . .
+Saxifraga burseriana             . . . . . . + . . . . . . + . . . . . . . . . . . . . .
+Asplenium viride                 . . . . + . . . . . . . . . . . + . . . . . . . . . . .
+Bupleurum petraeum               . . . . . . . . . . . . . . . . . 1 . . . . . . . . . .
+Asperula aristata                . . . . . . . . . . . . . + . . . . . . . . . . . . . .
+Astragalus australis             . . . . . . . . . . . . . + . . . . . . . . . . . . . .
+Carex atrata                     . . . . . . . + . . . . . . . . . . . . . . . . . . . .
+Carex capillaris                 . . . . . . . + . . . . . . . . . . . . . . . . . . . .
+Minuartia rupestris              . . . . . . . . . . . . . + . . . . . . . . . . . . . .
+Saxifraga tenella                . . . . . . + . . . . . . . . . . . . . . . . . . . . .
+Arabis pumila/stellulata         . . . . . . . . . . . . . . . . . . . + . . . . . . . .
+Valeriana elongata               . . . . . . . . . . . . . . . . . . . . . . . . . . + .
+
+Rhodothamnus chamaecistus        + + 1 + 2 3 . . + 1 2 2 2 . 2 . 2 + . . + . . 1 + 2 1 .
+Rhododendron hirsutum            . + + . + + . . + + 2 + + . . . . . . + . . . + + 1 + .
+Arctostaphyllos alpina           . + + + 1 1 . . . . . + . . . . . . . . . . . . . 2 + .
+Calamagrostis varia              . . . . . . . . . . . . . . . . . . . + . . . . . . . .
+Larix decidua                    . . . . . + . . . . . . . . . . . . . . . . . . . . . .
+
+Selaginella selaginoides         1 1 + . 1 + . . + . + + + . . . + . + 1 1 + . . . . . .
+Picea abies                      . . . . + . . . . . . . . . . . . . + . . . . . . . . .
+Pinus mugo                       . . . . . . . . . . . . . . . . . . + . . . . . . . . .
+Vaccinium vitis-idaea            . . . . . + . . . . . . . . . . . . . . . . . . . . . .
+Huperzia selago                  . . + . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Salix waldsteiniana              . . . . . . . . + . . . . . . . . . . . + . . . + . . .
+Salix appendiculata              . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Tofieldia calyculata             1 + . + + 1 . . + . . . . . . . + . 2 1 + + . . . + . .
+Festuca sp.                      . + . . . . . + + . . . . + . . . . . . . . . . . . . .
+Parnassia palustris              . . . . . + + . . . + . . . . . . + . . . . . . . . . .
+
+Homogyne alpina                  . . . . 1 1 . . . . + . . . . . . . . . . . . . . . . .
+Lloydia serotina                 . . . . . . 1 + . . . + . . . . . . . . . . . . . . . .
+Alchemilla flabellata            . . . . . + . . + . . . . . . . . . . . . . . . . . . .
+Carex ornithopoda                . . . . + . + . . . . . . . . . . . . . . . . . . . . .
+Daphne mezereum                  . . + . + . . . . . . . . . . . . . . . . . . . . . . .
+Globularia cordifolia            + . . . . . . . . . . . . . + . . . . . . . . . . . . .
+Linum catharticum                . . . . . . . . . . . . . . . . . . . + + . . . . . . .
+Alchemilla cinerea               . . . . . . + . . . . . . . . . . . . . . . . . . . . .
+Festuca nigrescens               . . . . . + . . . . . . . . . . . . . . . . . . . . . .
+Gentianella ciliata              . . . . . . . . . . . . . . . . . . . . . + . . . . . .
+Gnaphalium supinum               . . . . . . . . . . . . . . . . . . + . . . . . . . . .
+Hieracium sylvaticum             . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Laserpitium siler                . . . + . . . . . . . . . . . . . . . . . . . . . . . .
+Luzula multiflora                . . . . . . . . + . . . . . . . . . . . . . . . . . . .
+Poa sp.                          . . . + . . . . . . . . . . . . . . . . . . . . . . . .
+Pseudorchis albida               . . . . . . . . . . . . . . . . . . . . . . . . . . + .
+Trifolium pallescens             . . . . . . + . . . . . . . . . . . . . . . . . . . . .
+END TABLE

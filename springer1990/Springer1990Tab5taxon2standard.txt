@@ -1,0 +1,67 @@
+BEGIN HEAD
+Laufende Nummer                 1   2   3   4   5   6   7
+
+Höhe                            2   2   2   1   1   1   2
+                                0   0   0   0   9   9   2
+                                1   1   2   1   8   9   5
+                                0   0   0   0   0   0   0
+
+Exposition                      N   N   N   N   N   N   E
+                                        W   W       E   
+
+Inklination                     4   3   1   3   1   2   2
+                                0   0   8   0   0   5   5
+
+Deckungsgrad %                  6   9   8   9   9   8   9
+                                0   0   0   5   0   5   0
+END HEAD
+
+BEGIN TABLE
+junc trif                   @hl 3   4   3   4   2   3   2
+prim mini                   @hl 2   2   3   3   4   4   3
+agro rupe rupe              @hl 1   .   +   .   3   .   3
+euph mini                   @hl +   .   +   .   .   .   +
+
+camp alpi                   @hl +   +   +   +   +   +   1
+tris spic ovat              @hl +   +   +   +   .   +   .
+hupe sela                   @hl +   +   +   .   .   +   .
+scor helv                   @hl 1   .   .   .   2   1   .
+junc jacq                   @hl +   +   .   +   .   .   .
+aven flex flex              @hl 1   .   +   .   1   .   .
+hier alpi                   @hl .   .   .   .   2   +   .
+care capi                   @hl .   .   .   .   .   .   2
+
+care atra                   @hl +   +   +   +   +   +   1
+pers vivi                   @hl +   1   +   +   +   +   +
+anth odor                   @hl +   +   +   1   +   +   .
+vacc myrt                   @hl +   +   +   +   .   1   .
+sile acau slat              @hl +   +   +   +   .   +   +
+drya octo                   @hl +   +   +   .   .   .   .
+luzu glab                   @hl +   +   .   +   .   .   .
+vacc viti                   @hl +   .   +   +   .   .   .
+fest rubr aggr              @hl +   .   .   +   +   .   .
+homo alpi                   @hl .   +   +   +   .   .   .
+mute adon                   @hl .   +   .   +   .   .   +
+vacc ulig                   @hl .   .   .   +   +   +   
+sali retu                   @hl +   .   +   .   .   .   .
+bart alpi                   @hl .   +   .   +   .   .   +
+arct alpi                   @hl .   +   .   .   .   +   .
+
+care firm                   @hl 1   .   .   .   .   .   .
+sesl caer                   @hl .   +   .   .   .   .   . 
+minu sedo                   @hl .   +   .   .   .   .   . 
+leon hisp slat              @hl .   .   +   .   .   .   . 
+doro glac glac              @hl .   .   .   +   .   .   . 
+pote aure                   @hl .   .   .   .   +   .   . 
+care semp semp              @hl .   .   .   .   +   .   . 
+pach mute                   @hl .   .   .   .   .   +   . 
+kobr myos                   @hl .   .   .   .   .   .   1 
+camp sche                   @hl .   .   .   .   .   .   + 
+luzu mult                   @hl .   .   +   .   .   .   + 
+andr cham                   @hl .   .   .   .   .   .   + 
+tham verm verm              @ml .   .   .   .   .   .   + 
+sela sela                   @hl .   .   .   .   .   .   + 
+fest pumi                   @hl .   .   .   .   .   .   + 
+gent vern vern              @hl .   .   .   .   .   .   + 
+erig unif                   @hl .   .   .   .   .   .   + 
+END TABLE

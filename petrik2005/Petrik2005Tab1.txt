@@ -1,0 +1,190 @@
+Releve number                                                        1
+                                 1   2   3   4   5   6   7   8   9   0
+
+Elyna myosuroides                3   3   4   1   b   4   a   a   b   b
+Campanula tatrae                 +   +   +   +   +   +   .   +   +   .
+Dactylina madreporiformis        1   +   +   +   +   .   a   .   +   1
+Rhodiola rosea                   +   +   +   +   r   .   .   r   r   +
+Oxytropis halleri                +   .   b   b   .   .   a   1   +   +
+Primula minima                   +   .   +   +   1   m   .   1   .   +
+Ligusticum mutettinoides         r   1   1   +   +   +   .   .   .   +
+Agrostis alpina                  .   .   .   .   b   1   b   a   1   1
+Thymus alpestris                 .   .   +   1   +   1   +   1   .   .
+Carex fuliginosa                 .   +   .   1   a   +   .   +   .   +
+Poa alpina                       +   +   +   +   .   +   +   .   .   .
+Oxytropis carpatica              .   +   +   +   .   +   .   .   .   +
+Luzula mutabilis                 .   .   +   +   +   +   .   .   .   .
+
+Androsace chamaejasme            +   m   m   1   +   1   m   m   +   +
+Cerastium eriophorum             .   +   a   a   1   1   +   1   +   +
+Minuartia sedoides               1   +   1   a   +   +   +   1   .   .
+Saxifraga paniculata             +   .   1   b   .   +   b   b   b   1
+Arenaria tenella                 +   +   .   .   .   .   a   +   1   +
+Antennaria carpatica             .   .   1   +   .   +   .   r   .   +
+Draba aizoides                   .   .   .   1   .   .   1   .   +   +
+
+Carex capilaris                  .   .   .   .   .   .   1   a   +   1
+Saxifraga oppositifolia          m   +   .   1   .   +   .   .   .   .
+Myosotis alpestris               .   +   +   +   .   .   .   .   .   .
+Kobresia simpliciuscula          +   1   .   .   .   .   .   .   .   .
+Carex atrata                     .   +   .   .   .   .   .   .   .   .
+Sedum atratum                    .   .   .   .   .   .   +   .   .   .
+
+Lloydia serotina                 1   1   m   m   1   1   1   m   .   +
+Comastoma tenellum               +   +   +   +   .   +   .   r   .   +
+Pedicularis oederi               +   .   1   +   .   .   .   +   .   .
+Minuartia gerardii               +   .   +   1   .   +   .   .   .   .
+Aster alpinus                    .   .   .   .   .   .   1   b   1   1
+Gentiana nivalis                 .   .   .   .   .   .   .   +   .   +
+Draba fladnizensis               .   .   .   +   .   .   .   +   .   .
+Erigeron hungaricus              .   .   .   +   .   .   .   .   .   .
+Saussurea alpina                 .   .   .   1   .   .   .   .   .   .
+Astragalus alpinus               .   .   .   .   .   a   .   .   .   .
+Dryas octopetala                 .   .   .   .   .   .   .   .   .   r
+
+Bistorta vivipara                +   +   b   a   1   1   +   1   +   +
+Silene acaulis                   b   a   a   3   b   b   a   .   a   1
+Thamnolia vermicularis           +   .   +   +   +   a   1   +   +   +
+Rhodax alpestris                 .   +   .   +   .   .   1   +   .   +
+Vulpicida tubulosus              +   .   +   +   +   .   .   .   .   +
+Alectoria ochroleuca             +   .   .   .   +   1   .   .   .   .
+Carex firma                      +   +   .   .   .   .   .   .   .   .
+Ranunculus alpestris             +   .   .   .   .   .   .   .   .   .
+Saxifraga aizoides               +   .   .   .   .   .   .   .   .   .
+Saussurea pygmaea                .   .   .   .   r   .   .   .   .   .
+Chamorchis alpina                .   .   .   .   .   .   .   .   .   +
+
+Ranunculus breyninus             +   b   +   1   +   +   1   1   1   +
+Galium anisophyllon              +   1   +   +   +   +   .   +   +   .
+Trisetum alpestre                +   +   .   .   .   .   b   1   a   1
+Bupleurum ranunculoides          .   +   .   1   .   .   1   1   .   1
+Euphrasia salisburgensis         +   .   .   .   .   .   +   1   r   .
+Astragalus australis             .   .   .   .   .   .   1   1   1   .
+Gentianella tatrae               .   .   .   .   .   .   .   r   r   +
+Carex tatrorum                   1   .   .   +   .   .   .   .   .   .
+Phyteuma orbiculare              .   .   .   +   +   .   .   .   .   .
+Tephroseris capitata             .   .   r   +   .   .   .   .   .   .
+Astragalus frigidus              .   +   .   .   .   .   .   .   .   .
+Sesleria tatrae                  .   .   .   +   .   .   .   .   .   .
+Selaginella selaginoides         .   .   .   .   .   .   .   .   .   r
+Thymus sudeticus                 .   .   .   .   .   .   .   .   .   +
+
+Festuca versicolor               b   a   b   a   1   a   a   b   a   a
+Hedysarum hedysaroides           +   +   .   +   .   1   .   .   .   .
+Saxifraga moschata               +   .   .   +   .   .   .   +   .   .
+Bartsia alpina                   .   .   .   .   .   .   .   .   .   +
+Leontodon pseudotaraxaci         .   .   .   .   .   .   .   .   .   +
+
+Festuca supina                   .   1   1   .   +   1   .   .   .   .
+Oreochloa disticha               .   .   +   .   .   1   .   .   .   .
+Cetraria cucullata               .   .   +   .   .   .   .   +   .   .
+Cetraria islandica               .   .   .   +   .   +   .   .   .   .
+Cladonia gracilis                .   .   .   +   .   .   .   .   .   .
+Juncus trifidus                  .   .   .   +   .   .   .   .   .   .
+Cetraria nivalis                 .   .   .   .   .   1   .   .   .   .
+Avenula versicolor               .   .   .   .   .   +   .   .   .   .
+Campanula alpina                 .   .   .   .   .   +   .   .   .   .
+
+Primula hungarica                .   +   .   .   .   .   b   +   1   1
+Artemisia eriantha               .   .   +   +   +   .   .   .   1   .
+Campanula cochlearifolia         .   .   .   .   +   .   .   .   +   +
+Leontopodium alpinum             .   .   .   .   .   .   1   .   1   +
+Androsace lactea                 +   .   .   .   .   .   .   .   r   .
+Draba tomentosa                  .   .   .   +   .   .   .   .   .   .
+
+Tortella tortuosa                1   +   +   +   .   +   +   +   +   .
+Ditrichum flexicaule             b   +   1   +   .   .   .   .   .   +
+
+Viola biflora                    .   +   .   .   1   .   .   .   .   .
+Draba siliquosa                  .   .   .   .   .   .   1   1   .   .
+Draba dubia                      .   .   .   .   .   .   1   .   +   .
+Saxifraga wahlenbergii           +   .   .   .   .   .   .   .   .   .
+Anthoxanthum alpinum             .   .   .   +   .   .   .   .   .   .
+Delphinium oxysepalum            .   .   .   +   .   .   .   .   .   .
+Draba × sturii Strobel            .   .   .   r   .   .   .   .   .   .
+Poa laxa                         .   .   .   .   +   .   .   .   .   .
+Poa carpatica                    .   .   .   .   .   +   .   .   .   .
+Salix retusa                     .   .   .   .   .   1   .   .   .   .
+Saxifraga bryoides               .   .   .   .   .   1   .   .   .   .
+Salix sp.                        .   .   .   .   .   .   .   .   .   r
+
+Cladonia pyxidata s.l.           1   +   +   1   1   1   1   +   +   .
+Physconia muscigena              +   +   .   +   1   1   +   +   +   .
+Myurella julacea                 .   .   +   .   +   +   +   +   .   .
+Mycobilimbia lobulata            +   .   .   .   .   .   +   +   +   +
+Encalypta alpina                 +   .   .   .   .   .   +   +   1   +
+Psora decipiens                  .   .   .   .   .   .   +   +   +   1
+Ochrolechia upsaliensis          +   +   +   .   .   .   .   +   .   .
+Ctenidium procerrimum            +   +   .   1   .   .   .   .   .   +
+Fulgensia bracteata              +   .   .   .   .   .   .   +   +   +
+Hypnum vaucheri                  1   .   .   .   .   .   1   .   +   +
+Caloplaca ammiospila             +   .   .   .   1   +   +   .   .   .
+Rhytidium rugosum                1   1   .   +   .   .   .   .   .   .
+Entodon concinnus                1   +   .   +   .   .   .   .   .   .
+Hypnum revolutum                 +   .   .   +   .   +   .   .   .   .
+Mnium thomsonii                  +   .   .   +   .   .   .   .   +   .
+Distichium inclinatum            +   .   .   .   .   +   +   .   .   .
+Phaeorrhiza nimbosa              +   .   .   .   .   .   +   .   +   .
+
+Grimmia sp.                      .   .   .   .   +   .   .   .   +   +
+Squamarina gypsacea              .   .   .   .   .   .   1   .   b   +
+Encalypta ciliata                .   .   +   +   +   .   .   .   .   .
+Plagiochila porelloides          .   .   .   +   +   +   .   .   .   .
+Cetraria aculeata et muricata    .   .   .   .   +   +   +   .   .   .
+Campylium stelatum               +   +   .   .   .   .   .   .   .   .
+Lecanora epibryon                +   .   .   .   .   .   +   .   .   .
+Solorina sp.                     +   .   .   .   .   .   .   .   +   .
+Toninia sp.                      +   .   .   .   .   .   .   .   1   .
+Cladonia coccifera               .   .   +   .   .   +   .   .   .   .
+Caloplaca sp.                    .   .   .   +   .   .   .   +   .   .
+Cladonia furcata                 .   .   .   +   .   +   .   .   .   .
+Anaptychia bryorum               .   .   .   .   +   +   .   .   .   .
+Hypogymnia physodes              .   .   .   .   +   1   .   .   .   .
+Polytrichum alpinum              .   .   .   .   +   1   .   .   .   .
+Pseudevernia furfuracea          .   .   .   .   1   .   +   .   .   .
+Grimmia funalis                  .   .   .   .   +   .   .   1   .   .
+Hypnum cupressiforme             .   .   .   .   +   .   .   .   +   .
+Anaptychia sp.                   .   .   .   .   .   .   a   +   .   .
+Leptogium sp.                    .   .   .   .   .   .   +   +   .   .
+Megaspora verrucosa              .   .   .   .   .   .   +   .   .   +
+Schistidium apocarpum            .   .   .   .   .   .   .   +   .   +
+Stegonia latifolia               .   .   .   .   .   .   1   1   .   .
+Ctenidium molluscum              +   .   .   .   .   .   .   .   .   .
+Didymodon giganteus              +   .   .   .   .   .   .   .   .   .
+Hypogymnia sp.                   +   .   .   .   .   .   .   .   .   .
+Lecidea lurida                   +   .   .   .   .   .   .   .   .   .
+Encalypta streptocarpa           +   .   .   .   .   .   .   .   .   .
+Racomitrium canescens            +   .   .   .   .   .   .   .   .   .
+Thelopsis melathelia             +   .   .   .   .   .   .   .   .   .
+Hypnum sp.                       .   +   .   .   .   .   .   .   .   .
+Lecidoma demissum                .   .   +   .   .   .   .   .   .   .
+Caloplaca chloroleuca           .   .   .   +   .   .   .   .   .   .
+Peltigera rufescens              .   .   .   +   .   .   .   .   .   .
+Protoblastenia terricola         .   .   .   +   .   .   .   .   .   .
+Pertusaria glomerata             .   .   .   .   +   .   .   .   .   .
+Bryoria bicolor                  .   .   .   .   .   1   .   .   .   .
+Polytrichum piliferum            .   .   .   .   .   1   .   .   .   .
+Bryoria sp.                      .   .   .   .   .   +   .   .   .   .
+Cladonia bellidiflora            .   .   .   .   .   +   .   .   .   .
+Parmelia omphalodes              .   .   .   .   .   +   .   .   .   .
+Sphaerophorus fragilis           .   .   .   .   .   +   .   .   .   .
+Toninia opuntioides              .   .   .   .   .   .   1   .   .   .
+Caloplaca epiphyta               .   .   .   .   .   .   +   .   .   .
+Dermatocarpon miniatum           .   .   .   .   .   .   +   .   .   .
+Diploschistes gypsaceus          .   .   .   .   .   .   +   .   .   .
+Encalypta rhaptocarpa            .   .   .   .   .   .   +   .   .   .
+Marsupella sp.                   .   .   .   .   .   .   +   .   .   .
+Schistidium atrofuscum           .   .   .   .   .   .   +   .   .   .
+Umbilicaria cylindrica           .   .   .   .   .   .   +   .   .   .
+Xanthoria sorediata              .   .   .   .   .   .   +   .   .   .
+
+Anoectangium sp.                 .   .   .   .   .   .   .   +   .   .
+Physcia caesia                   .   .   .   .   .   .   .   +   .   .
+Plagiobryum demissum             .   .   .   .   .   .   .   +   .   .
+Pseudoleskeella catenulata       .   .   .   .   .   .   .   +   .   .
+Myurella tenerrima               .   .   .   .   .   .   .   +   .   .
+Collema sp.                      .   .   .   .   .   .   .   .   +   .
+Dermatocarpon sp.                .   .   .   .   .   .   .   .   +   .
+Cladonia pocillum                .   .   .   .   .   .   .   .   .   1
+Toninia sedifolia                .   .   .   .   .   .   .   .   .   +
+Xanthoria elegans                .   .   .   .   .   .   .   .   .   +

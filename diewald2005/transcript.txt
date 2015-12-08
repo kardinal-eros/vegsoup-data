@@ -1,0 +1,32 @@
+taxon                             layer cov
+Agrostis alpina s.str.            hl    2m 
+Arctostaphylos alpinus                  +  
+Bartsia alpina                          1  
+Carex firma                             4  
+Carex maritima                          2m 
+Crepis jacquinii s.lat.                 1  
+Dryas octopetala                        +  
+Empetrum nigrum agg.                    +  
+Eriophorum angustifolium                1  
+Euphrasia salisburgensis s.str.         1  
+Galium anisophyllon                     +  
+Gentiana clusii ssp. clusii             r  
+Juncus trifidus s.str.                  1  
+Kobresia simpliciuscula                 2a 
+Pedicularis verticillata                +  
+Phyteuma orbiculare s.str.              +  
+Primula clusiana                        2m 
+Ranunculus alpestris s.str.             1  
+Salix alpina                            +  
+Selaginella selaginoides                +  
+Tofieldia pusilla                       1  
+Vaccinium vitis-idaea                   +  
+Campylium stellatum               ml    1  
+Cetraria islandica ssp. islandica       +  
+Cladonia arbuscula ssp. mitis           +  
+Ditrichum flexicaule                    +  
+Fissidens osmundoides                   1  
+Hypnum bambergeri                       +  
+Vulpicida tubulosus                     +  
+ 
+x: 14.049, y: 47.6406, accuracy: 50, alliance: Caricion firmae, association: NA, bare: NA, comment: unklarer Verlauf der Landesgrenze, aber wohl noch auf oberösterreichischem Gebiet, cov: 97, date: NA, expo: SE, hcov: 95, hhl1: NA, hhl2: NA, hsl: 0, htl1: 0, htl2: 0, location: zwischen Gr. Kraxenberg und Mitterberg, mcov: 3, plsx: 8, plsy: 4, rock: NA, scov: 0, slope: 2, soil: NA, stones: NA, t1cov: 0, t2cov: 0, richness: 29

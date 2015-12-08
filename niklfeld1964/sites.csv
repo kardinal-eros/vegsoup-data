@@ -1,0 +1,24 @@
+plot;variable;value
+p173;cov;70
+p173;tcov;0
+p173;scov;0
+p173;hcov;70
+p173;mcov;0
+p173;htl;0
+p173;hsl;0
+p173;hhl1;0,4
+p173;hhl2;0,7
+p173;expo;SE
+p173;slope;45
+p173;plsx;1
+p173;plsy;50
+p173;date;23.09.62
+p173;ibex;no
+p173;rupi;no
+p173;soil;shallow
+p173;rock.type;precipice
+p173;rock.soil.verbose;unbekannt
+p173;location.verbose;Hohe Wand, Große Kanzel, am Wagnersteig, Arten in Klammer exkludiert (Felspflanzen?), Niklfeld 1964
+p173;longitude;16.01297E
+p173;latitude;47.81091N
+p173;accuracy;200

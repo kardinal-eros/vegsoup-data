@@ -1,0 +1,31 @@
+taxon                                  layer cov
+Achillea millefolium agg.              hl    +  
+Allium lusitanicum                           2a 
+Artemisia campestris                         2a 
+Aster alpinus                                r  
+Calamagrostis varia                          +  
+Carex caryophyllea                           +  
+Carex humilis                                +  
+Clinopodium alpinum ssp. alpinum             1  
+Erysimum sylvestre s.str.                    +  
+Euphorbia cyparissias                        +  
+Festuca pallens                              2a 
+Helianthemum nummularium ssp. obscurum       +  
+Koeleria pyramidata var. pyramidata          1  
+Phyteuma betonicifolium                      1  
+Poa alpina                                   +  
+Potentilla pusilla                           2b 
+Saxifraga paniculata                         1  
+Scabiosa ochroleuca                          +  
+Sedum album                                  1  
+Sedum sexangulare                            1  
+Sempervivum arachnoideum                     1  
+Sesleria caerulea s.str.                     +  
+Silene nutans ssp. nutans                    +  
+Thymus praecox ssp. polytrichus              +  
+Trifolium medium ssp. medium                 +  
+Verbascum lychnitis                          +  
+Vincetoxicum hirundinaria                    +  
+Viola rupestris                              r  
+ 
+x: 12.52486, y: 47.02481, accuracy: 10, bare: 4, cov: 80, date: 2011-05-26, exp: SE, geology: Grünschiefer, hcov: 60, hhl1: 0,5, hhl2: 0,1, location: Siltal, mcov: 35, plsx: 4, plsy: 4, rock: 1, slope: 35, stones: 0, richness: 28

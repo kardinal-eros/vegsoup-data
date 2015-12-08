@@ -1,0 +1,91 @@
+BEGIN HEAD
+Aufnahme Nr.                  1112569162255526
+                              4575513672367844
+
+Groesse qm x10                1014444104444440
+                              0900000030000009
+
+Exposition                    WSWSWWNWNNSSWWSW
+                              .W.W..W.W..W..W.
+
+Neigung Grad                  4213325423235321
+                              0000000000000000
+
+Baumschicht. Höhe m           33343333N3434334
+                              00500055A0000050
+
+Baumschicht: Deckung %        78798799N8999999
+                              00000000A0005000
+
+Strauchschicht: Deckung %     0000000070002000
+                              5000000000000000
+
+Krautschicht: Deckung %       2477897578287756
+                              0000000000000000
+END HEAD
+
+BEGIN TABLE
+fagu sylv                 @tl 3425345432431343
+fagu sylv                 @sl ..+1+.+.......1.
+fagu sylv                 @hl ..+1+.+.......1.
+care pilo                 @hl 3344234+........
+vinc mino                 @hl 2...+...........
+gali odor                 @hl .+.......+1..1..
+conv maja maja            @hl .....+......+2.+
+acer camp                 @hl .+.........+..1+
+daph meze                 @hl .............+.+
+acer pseu                 @tl 1.1.2.+..1.....1
+acer pseu                 @sl.++.+++3.+....++
+acer pseu                 @hl .++.+++3.+....++
+frax exce                 @tl ..1.+1.....121..
+frax exce                 @sl +1.1.21+..+..+..
+frax exce                 @hl +1.1.21+..+..+..
+ulmu glab                 @tl +.2+...12...11..
+ulmu glab                 @sl ..++.++..+...+..
+ulmu glab                 @hl ..++.++..+...+..
+anem nemo                 @hl +++1..+1+41..+.1
+care sylv                 @hl ..1....++.++12+2
+apos foet                 @hl .++..+.2...+++.2
+hepa nobi                 @hl 1+..1+++....+...
+gale mont                 @hl +.+..+..31...1.+
+euph amyg amyg            @hl +....+.+...+++2.
+phyt spic                 @hl .+++..++.....+.+
+hede heli                 @hl +.+1.+1+.....+..
+pulm offi                 @hl ++.....+1...++..
+aego poda                 @hl 1...1+.....2+...
+lili mart                 @hl +..+..++....++..
+symp tube slat            @hl +.1+...+.......+
+salv glut                 @hl +...1+......3..+
+merc pere                 @hl ....2+.....2++..
+athy fili                 @hl ...+...+.++...+.
+carp betu                 @hl ..1......21....1
+prun aviu slat            @hl +++......1......
+gali sylv                 @hl .....+++.......+
+pari quad                 @hl .....+..+..+.+..
+care alba                 @hl 1..........+..+.
+brac sylv                 @hl .......1...+...+
+quer robu                 @hl .+..........1...
+lath vern                 @hl ......++........
+oxal acet                 @hl ......++.1......
+meli meli                 @hl ......+.....+...
+vero urti                 @hl ......++........
+loni xylo                 @hl +.......+.......
+abie alba                 @hl ..+........1....
+viol rivi                 @hl .......+......+.
+care digi                 @hl .......+......+.
+dryo fili                 @hl .........++.....
+viol reic                 @hl .........+.....+
+cala vari                 @hl ......+.......+.
+sani euro                 @hl ...........+..+.
+pice abie                 @hl 11..1++1........
+alli ursi ursi            @hl ...+2......1....
+list ovat                 @hl .....+....++....
+samb nigr                 @hl .........+....+.
+luzu luzu ides            @hl ..............+1
+poly form                 @ml ........+.....+.
+crat mono                 @hl ........+..1....
+poly mult                 @hl ........2..+....
+asar euro                 @hl ......+....+....
+camp trac                 @hl ......+........+
+hier muro                 @hl ........+......+
+END TABLE

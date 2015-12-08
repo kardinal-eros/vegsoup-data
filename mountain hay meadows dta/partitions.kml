@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>vegsoup partitions</name>
+<Style id="downArrowIcon">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="partition_normal6">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_normal5">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_normal4">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_normal7">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_normal2">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_normal1">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_normal3">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight6">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight5">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight4">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight7">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight2">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight1">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<Style id="partition_highlight3">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<scale>1.2</scale>
+</LabelStyle>
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+</Style>
+<StyleMap id="partition6">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal6</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight6</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="partition5">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal5</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight5</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="partition4">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal4</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight4</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="partition7">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal7</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight7</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="partition2">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal2</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight2</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="partition1">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal1</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight1</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="partition3">
+<Pair>
+<key>normal</key>
+<styleUrl>#partition_normal3</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#partition_highlight3</styleUrl>
+</Pair>
+</StyleMap>
+<Folder>
+<name>partition 6 </name>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14508 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14508"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14508" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.47913,47.82733,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14509 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14509"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14509" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.48161,47.82836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14511 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14511"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14511" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.32639,47.99703,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14534 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14534"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14534" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.30092,47.89836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14563 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14563"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14563" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.38943,47.81150,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14565 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14565"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14565" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.38693,47.81160,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14566 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14566"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14566" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.38252,47.81028,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14570 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14570"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14570" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.37062,47.80697,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14580 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14580"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14580" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.35054,47.78630,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14585 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14585"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14585" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.34848,47.78903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14587 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14587"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14587" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.34307,47.80100,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14589 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14589"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14589" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.36797,47.81694,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14638 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14638"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14638" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.41283,47.76458,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14641 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14641"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14641" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.41465,47.76738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14655 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14655"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14655" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.45245,47.76868,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14504 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14504"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14504" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.46917,47.82468,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14559 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14559"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14559" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.39758,47.81371,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14562 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14562"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14562" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.38819,47.81137,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14571 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14571"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14571" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.36560,47.80687,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14572 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14572"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14572" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.36479,47.80886,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition6</styleUrl>
+<description>
+plot 14591 partition 6
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14591"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14591" width="400" ></a>]]>
+partition 6
+</description>
+<Point>
+<coordinates>15.36568,47.81050,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>partition 5 </name>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14515 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14515"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14515" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.01316,47.91085,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14519 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14519"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14519" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.28455,47.92990,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14525 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14525"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14525" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.23937,47.98441,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14536 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14536"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14536" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.28727,47.88832,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14549 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14549"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14549" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.52526,47.91009,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14550 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14550"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14550" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.52427,47.91082,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14552 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14552"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14552" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41095,47.90866,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14553 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14553"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14553" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.61992,48.03602,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14554 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14554"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14554" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.61949,48.03626,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14569 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14569"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14569" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.37665,47.80856,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14592 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14592"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14592" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.48374,48.03324,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14629 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14629"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14629" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.37699,47.76243,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14513 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14513"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14513" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.02628,47.90952,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14516 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14516"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14516" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.02765,47.90420,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14518 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14518"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14518" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.28833,47.92862,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14575 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14575"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14575" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.36993,47.80999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14586 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14586"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14586" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.34947,47.78844,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14626 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14626"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14626" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.35404,47.76439,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14627 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14627"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14627" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.35399,47.76492,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14631 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14631"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14631" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.38561,47.76366,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14632 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14632"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14632" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.38462,47.76263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14635 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14635"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14635" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.39467,47.76560,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14640 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14640"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14640" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41253,47.76588,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14645 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14645"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14645" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41534,47.76257,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14647 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14647"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14647" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41850,47.76368,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14649 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14649"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14649" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.42303,47.76649,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14651 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14651"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14651" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.44752,47.77035,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14657 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14657"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14657" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.44883,47.77251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14658 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14658"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14658" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.44871,47.77075,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14669 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14669"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14669" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.42234,47.76132,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14670 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14670"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14670" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.42206,47.76110,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14673 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14673"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14673" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41798,47.75718,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14686 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14686"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14686" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.40406,47.76973,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14693 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14693"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14693" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.37932,47.75582,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14702 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14702"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14702" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.34739,47.75533,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14707 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14707"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14707" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.35363,47.74627,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14492 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14492"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14492" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.36977,47.86124,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14535 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14535"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14535" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.29739,47.89184,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14551 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14551"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14551" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41100,47.90804,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14555 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14555"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14555" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.63057,48.04266,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14630 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14630"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14630" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.38222,47.76174,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14636 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14636"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14636" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.39633,47.76398,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14646 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14646"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14646" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.41866,47.76343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14681 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14681"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14681" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.40755,47.76673,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14687 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14687"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14687" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.40628,47.77100,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition5</styleUrl>
+<description>
+plot 14717 partition 5
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14717"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14717" width="400" ></a>]]>
+partition 5
+</description>
+<Point>
+<coordinates>15.38492,47.76125,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>partition 4 </name>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14548 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14548"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14548" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.35293,47.95684,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14498 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14498"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14498" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.42801,47.83813,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14558 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14558"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14558" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.40142,47.81371,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14573 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14573"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14573" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.36712,47.80891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14574 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14574"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14574" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.36957,47.80976,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14581 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14581"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14581" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.34916,47.78579,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14582 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14582"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14582" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.34871,47.78553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14584 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14584"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14584" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.34806,47.78903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14648 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14648"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14648" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.42444,47.76724,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14654 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14654"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14654" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.45050,47.76838,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14665 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14665"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14665" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.42895,47.77587,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14689 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14689"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14689" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.42135,47.76898,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14699 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14699"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14699" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.36821,47.75818,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14705 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14705"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14705" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.34375,47.75438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition4</styleUrl>
+<description>
+plot 14713 partition 4
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14713"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14713" width="400" ></a>]]>
+partition 4
+</description>
+<Point>
+<coordinates>15.38874,47.76609,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>partition 7 </name>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14494 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14494"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14494" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.44390,47.84424,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14517 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14517"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14517" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.27019,47.96098,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14537 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14537"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14537" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.31090,47.88964,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14543 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14543"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14543" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.31290,47.88779,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14546 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14546"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14546" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.34804,47.96048,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14547 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14547"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14547" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.35348,47.95767,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14564 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14564"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14564" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.38756,47.81237,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14578 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14578"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14578" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.34515,47.77623,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14644 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14644"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14644" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.41104,47.76636,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14660 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14660"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14660" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.44737,47.76765,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14661 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14661"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14661" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.44959,47.76738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14664 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14664"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14664" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.43783,47.77046,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14666 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14666"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14666" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.43708,47.76696,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14667 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14667"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14667" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.43525,47.76659,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14682 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14682"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14682" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.40665,47.76731,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14684 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14684"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14684" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.40571,47.76776,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14691 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14691"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14691" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.39636,47.76235,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14694 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14694"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14694" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.37038,47.75688,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14696 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14696"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14696" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.36992,47.75490,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14698 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14698"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14698" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.36887,47.75781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14703 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14703"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14703" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.34245,47.75311,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14712 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14712"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14712" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.38772,47.75250,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14715 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14715"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14715" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.36072,47.76143,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14721 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14721"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14721" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.36070,47.77208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition7</styleUrl>
+<description>
+plot 14719 partition 7
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14719"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14719" width="400" ></a>]]>
+partition 7
+</description>
+<Point>
+<coordinates>15.35294,47.76925,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>partition 2 </name>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14500 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14500"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14500" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.45848,47.84326,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14510 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14510"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14510" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.47208,47.82029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14512 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14512"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14512" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.29071,47.99713,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14514 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14514"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14514" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.03133,47.91304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14520 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14520"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14520" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.28370,47.90901,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14521 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14521"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14521" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.28451,47.91017,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14522 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14522"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14522" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.28619,47.91448,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14523 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14523"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14523" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.28557,47.91470,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14524 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14524"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14524" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.28819,47.91552,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14532 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14532"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14532" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.30083,47.89793,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14533 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14533"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14533" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.30083,47.89793,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14538 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14538"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14538" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.31344,47.89265,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14541 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14541"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14541" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.32442,47.89238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14542 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14542"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14542" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.32645,47.89157,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14545 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14545"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14545" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.36527,47.91828,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14556 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14556"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14556" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.36782,47.82296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14634 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14634"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14634" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.39762,47.76535,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14642 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14642"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14642" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.41533,47.76589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14668 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14668"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14668" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.42376,47.76348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14672 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14672"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14672" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.42243,47.75990,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14674 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14674"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14674" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.41656,47.75671,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14675 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14675"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14675" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.41792,47.75962,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14677 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14677"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14677" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.41780,47.76204,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14692 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14692"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14692" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.39105,47.75582,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14695 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14695"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14695" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.37146,47.75451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14697 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14697"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14697" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.36765,47.75505,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14708 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14708"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14708" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.36275,47.74861,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition2</styleUrl>
+<description>
+plot 14720 partition 2
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14720"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14720" width="400" ></a>]]>
+partition 2
+</description>
+<Point>
+<coordinates>15.35694,47.77042,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>partition 1 </name>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14502 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14502"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14502" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.46034,47.83745,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14505 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14505"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14505" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.47038,47.82545,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14506 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14506"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14506" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.47318,47.82702,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14507 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14507"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14507" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.47132,47.82348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14579 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14579"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14579" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.34555,47.77842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14583 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14583"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14583" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.34789,47.78598,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14637 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14637"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14637" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.39692,47.76398,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition1</styleUrl>
+<description>
+plot 14710 partition 1
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14710"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14710" width="400" ></a>]]>
+partition 1
+</description>
+<Point>
+<coordinates>15.36162,47.75415,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>partition 3 </name>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14526 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14526"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14526" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.24055,47.98301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14527 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14527"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14527" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.24493,47.98347,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14528 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14528"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14528" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.24503,47.98562,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14529 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14529"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14529" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.26446,47.96614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14530 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14530"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14530" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.26177,47.96662,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14557 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14557"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14557" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.40056,47.81362,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14633 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14633"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14633" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.39783,47.76673,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14643 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14643"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14643" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.41148,47.76589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14653 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14653"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14653" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.44984,47.76984,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14659 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14659"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14659" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.44741,47.76756,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14662 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14662"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14662" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.44834,47.76853,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14671 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14671"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14671" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.42359,47.76017,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14676 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14676"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14676" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.41603,47.76104,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14679 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14679"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14679" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.40201,47.76115,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14683 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14683"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14683" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.40718,47.76763,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14685 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14685"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14685" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.40563,47.76846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14688 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14688"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14688" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.40511,47.77027,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14690 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14690"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14690" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.41130,47.77511,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14700 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14700"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14700" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.35286,47.75565,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14701 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14701"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14701" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.35018,47.75390,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14704 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14704"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14704" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.34047,47.75293,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14706 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14706"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14706" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.35132,47.75131,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14709 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14709"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14709" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.36003,47.74587,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14711 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14711"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14711" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.36237,47.75250,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14714 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14714"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14714" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.39123,47.76534,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14716 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14716"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14716" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.38079,47.76579,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+
+<styleUrl>#partition3</styleUrl>
+<description>
+plot 14718 partition 3
+<![CDATA[<a href="http://sabotag.hausdernatur.at/vegsoup/albums/14718"><img title="Klick for Gallery" src="http://sabotag.hausdernatur.at/vegsoup/thumbnails/14718" width="400" ></a>]]>
+partition 3
+</description>
+<Point>
+<coordinates>15.41634,47.75544,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

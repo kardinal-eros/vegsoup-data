@@ -1,0 +1,13 @@
+047: Peucedanum ostruthium@hl +, Ceratodon purpureus@ml +, Lophozia exisa@ml +, Rhynchostegium riparioides@ml 2
+022: Diplophyllum taxifolium@ml R, Polytrichum juniperinum@ml +, Ditrichum pusillum@ml 1
+055: Juncus alpino-articulatus@hl +, Selaginella selaginoides@hl +, Tofieldia pusilla@hl R, Viola sp.@hl +, Agrostis canina@hl +, Carex flavella@hl +, Taraxacum sp.@hl +
+034: Equisetum palustre@hl 1, Rhytidiadelphus squarrosus@ml +, Ditrichum lineare@ml +
+051: Juncus triglumis@hl +, Ditrichum flexicaule@ml +
+063: Plagiothecium ruthei@ml +
+037: Stellaria alsine@hl +, Montia fontana ssp. variabilis@hl 1, Philonotis fontana@ml +, Harpanthus flotovianus@ml R, Plagiochila asplenioides@ml R
+019: Bartsia alpina@hl +, Fissidens adianthoides@hl +
+008: Geum rivularis@hl R, Carex pauciflora@hl +, Carex davalliana@hl 1, Drosera rotundifolia@hl +, Potentilla repens@hl 1, Swertia perennis@hl +
+021: Epilobium anagallidifolium@hl 2, Bryum weigelii@ml R
+005: Veronica montana@hl +, Sphagnum capillifolium@ml +
+041: Plagiochila asplenioides@ml R, Amphidium mougeotii@ml +
+016: Sedum villosum@hl 2, Racomitrium aciculare@ml +, Lophozia ventricosa@ml R

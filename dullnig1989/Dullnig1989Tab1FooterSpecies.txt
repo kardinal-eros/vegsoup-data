@@ -1,0 +1,14 @@
+057: Oedogonium sp.@ml R, Aulacomnium palustre@ml +
+048: Aconitum napellus ssp. tauricum@hl R, Dichodontium pellucidum@ml +
+002: Ranunculus montanus@hl R, Salix waldsteiniana@hl +, Salix hastata@hl +, Solorina spongiosa@ml 1
+036: Bryum turbinatum@ml +
+059: Myurella julacea@ml R
+029: Cirsium palustre@hl 1, Myosotis palustris@hl +, Dactylorhiza maculata@hl +, Hieracium sylvaticum@hl 1, Juncus alpino-articulatus@hl +, Carex davalliana@hl 1, Linum catharticum@hl R, Carex flava@hl +, Galium palustre ssp. palustre@hl +
+031: Mnium marginatum@ml R
+026: Equisetum sylvaticum@hl R, Tortella tortuosa@ml +
+012: Selaginella selaginoides@hl R, Eriophorum scheuchzeri@hl R, Jungermannia sp.@ml +, Salix waldsteiniana@hl 1
+024: Alchemilla decumbens@hl 1
+035: Lophozia ventricosa@ml +
+046: Leontodon heiveticus@hl +, Philonotis fontana@ml +, Grimmia sp.@ml +, Lophozia sp.@ml R, Leicolea sp.@ml R
+025: Parnassia palustris@hl R, Pellia epiphylla@hl R, Rhytidiadelphus squarrosus@ml R, Distichum capilaceum@ml R
+039: Alchemilla decumbens@hl 1, Montia fontana ssp. variabilis@hl 1

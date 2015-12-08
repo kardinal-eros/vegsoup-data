@@ -1,0 +1,96 @@
+BEGIN HEAD
+plot                            uuuuuu
+                                mmmmmm
+                                000000
+                                123456
+accuracy                        111111
+                                      
+bare                               1  
+                                000500
+                                      
+cov                              1    
+                                309899
+                                509532
+                                      
+hcov                            399469
+                                055050
+                                      
+hsl                             003000
+                                      
+htl1                            000000
+                                      
+htl2                            000000
+                                      
+mcov                            389868
+                                050000
+                                      
+plsx                            444444
+                                      
+plsy                            444444
+                                      
+rock                            000000
+                                      
+scov                            001000
+                                      
+slope                           000000
+                                      
+stones                          000000
+                                      
+t1cov                           000000
+                                      
+t2cov                           000000
+                                      
+water                           1     
+                                500054
+                                      
+richness                        112221
+                                896025
+                                      
+END HEAD
+BEGIN TABLE
+Pinus sylvestris             sl ..1...
+Betula pubescens s.lat.      hl +..rrr
+Calluna vulgaris                154+34
+Molinia caerulea agg.           2.2222
+Pinus sylvestris                r...rr
+Rhynchospora alba               2r122r
+Vaccinium myrtillus             2+...2
+Andromeda polifolia             .22...
+Drosera anglica                 .r....
+Drosera rotundifolia            .++.+.
+Eriophorum vaginatum            .222..
+Melampyrum pratense             .r....
+Pinus mugo s.str.               .+....
+Vaccinium oxycoccos s.str.      .11+1.
+Vaccinium corymbosum            ..r...
+Vaccinium uliginosum s.str.     ..r++2
+Frangula alnus                  ....r.
+Picea abies                     ....r.
+Campylopus flexuosus         ml +...+.
+Dicranodontium denudatum        1.+++.
+Hylocomium splendens            +.....
+Hypnum jutlandicum              1+1.12
+Mylia anomala                   r.r...
+Pleurozium schreberi            1.1++2
+Polytrichum formosum            +..+..
+Polytrichum longisetum          +.....
+Sphagnum angustifolium          ++12..
+Sphagnum cuspidatum             r+121+
+Sphagnum magellanicum           +4223r
+Sphagnum rubellum               +121+.
+Aulacomnium palustre            .r21..
+Cephalozia connivens            .rr+++
+Polytrichum strictum            .+....
+Sphagnum capillifolium          .+....
+Cephalozia bicuspidata          ..+...
+Cephaloziella elachista         ..r.r.
+Cephalozia macrostachya         ..r...
+Dicranum undulatum              ..r...
+Leucobryum glaucum              ..r.r.
+Sphagnum tenellum               ..++..
+Campylopus pyriformis           ...rr2
+Kurzia pauciflora               ...r..
+Odontoschisma sphagni           ...r..
+Cladonia sp.                    ....++
+Dicranum polysetum              .....+
+END TABLE

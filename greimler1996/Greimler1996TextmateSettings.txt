@@ -1,0 +1,6 @@
+#	line height setting
+#	defaults to 0
+defaults write com.macromates.textmate OakLineHeightDelta -float -6
+
+#	find/replace character to line break 
+#	activate regular expressions and replace with \n 

@@ -1,0 +1,6 @@
+plot;pls;htl1;htl2;hsl;hhl;t1cov;t2cov;scov;hcov;location;latitude;longitude;accuracy
+1;400;16;0;5;0,5;65;0;25;60;Brandmayr Wald in der Nähe des Kinderspielplatzes;47.997834;13.629398;500
+2;300;18;10;3;0,5;70;35;25;50;"Brandmayr Wald neben der Fitness Station ""Ringe""";47.997834;13.629398;500
+3;400;18;10;4;0,5;65;20;25;70;Hofmanninger Wald ca. 100m neben Agerufer;47.997834;13.629398;500
+4;200;16;10;3;0,5;35;45;20;40;Hofmanninger Wald am Hang neben der Ager;47.997834;13.629398;500
+5;300;18;0;2;2;70;0;5;80;Hofmanninger Wald 50m neben Kahlschlag;47.997834;13.629398;500

@@ -1,0 +1,55 @@
+taxon                                      layer cov
+Acer campestre                             hl    r  
+Acer pseudoplatanus                              +  
+Aegopodium podagraria                            2a 
+Ajuga reptans                                    +  
+Asarum europaeum ssp. europaeum                  r  
+Astragalus glycyphyllos                          +  
+Brachypodium sylvaticum                          1  
+Calamagrostis varia                              1  
+Campanula rapunculoides ssp. rapunculoides       1  
+Carex alba                                       4  
+Carex digitata                                   +  
+Carex flacca ssp. flacca                         +  
+Cirsium palustre                                 r  
+Clematis vitalba                                 +  
+Convallaria majalis ssp. majalis                 1  
+Cornus sanguinea s.lat.                          +  
+Corylus avellana                                 +  
+Crataegus monogyna                               +  
+Elymus caninus                                   +  
+Euonymus europaeus                               +  
+Euphorbia dulcis                                 r  
+Festuca gigantea                                 +  
+Fraxinus excelsior                               +  
+Hedera helix                                     1  
+Ligustrum vulgare                                +  
+Listera ovata                                    +  
+Lonicera xylosteum                               +  
+Polygonatum multiflorum                          +  
+Populus tremula                                  r  
+Quercus robur                                    +  
+Rhamnus cathartica                               +  
+Rubus caesius                                    +  
+Salvia glutinosa                                 +  
+Securigera varia                                 r  
+Taraxacum sect. Ruderalia                        r  
+Ulmus glabra                                     r  
+Viburnum opulus                                  +  
+Viola collina                                    r  
+Cornus sanguinea s.lat.                    sl    1  
+Corylus avellana                                 1  
+Crataegus monogyna                               1  
+Euonymus europaeus                               +  
+Lonicera xylosteum                               +  
+Quercus robur                                    +  
+Rhamnus cathartica                               +  
+Tilia cordata                                    1  
+Larix decidua                              tl1   1  
+Picea abies                                      2a 
+Quercus robur                                    3  
+Acer pseudoplatanus                        tl2   2b 
+Quercus robur                                    2a 
+Tilia cordata                                    3  
+ 
+x: 13.44464, y: 48.48537, accuracy: 5, alliane: Alnion incanae, association: NA, bare: 3, comment: NA, cov: 95, date: 2014-09-06, expo: FALSE, hcov: 80, hhl1: 0,4, hhl2: 0,15, hsl: 4, htl1: 22, htl2: 18, location: Vorbacher Enge, Bernascheck-Insel, mcov: 1, plsx: 16, plsy: 16, rock: 0, scov: 15, slope: 0, soil: alluvial sand, stones: 0, t1cov: 40, t2cov: 60, richness: 41

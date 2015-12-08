@@ -1,0 +1,61 @@
+BEGIN HEAD
+Aufnahmenummer                              047  022  055  034  051  063  037  019  008  003  021  005  041  016
+Flaeche (m2)                                 10   10    7    6    7    1   20    4   10   14   10    5    2    5
+Exposition                                  NNE    E    E    S    E    E    3    E    E    E    E    E    S    W
+Inklination (o)                              15   10   15    5    6   30   15   15   10   10   10    5   70   25
+Quellwasser: pH-Wert                         65   60   60   60   60   60   60   55   50   60   60   60   60   60
+Haerte (dH)                                   4    4    5    4    4    4    3    4    4    4    4    4    1    1
+Phanerogamen: Deckung (%)                    10   20   20   20   10    .   70   20   20   10   30   10    .   20
+Phanerogamen: Artenzahl                      12    5   16    8   13    .    9    7   20    8    3    9    .    6
+Moos: Deckung (%)                            30   10   30   50   60  100   10   30   20   10   30   20   60   30
+Moos: Artenzahl                              10   10    5   11    5   10   14    8    5    4    6    6   12    7
+END HEAD
+
+BEGIN TABLE
+Cratoneuron commutatum var. fluctuans   @ml   2    2    2    2    2    +    1    2    2    2    2    3    1    .
+Dicranella palustris                    @ml   +    1    +    +    1    1    1    +    1    .    .    .    .    .
+Deschampsia cespitosa                   @ml   +    +    +    1    +    .    +    1    1    1    .    2    .    1
+
+Saxifraga stellaris ssp. alpigena       @hl   .    1    +    3    +    .    +    1    2    1    1    1    .    1
+Bryum pseudotriquetrum                  @ml   +    .    .    1    .    .    .    1    +    2    +    .    +    1
+Philonotis seriata                      @ml   .    .    .    .    +    +    1    R    +    +    1    2    .    .
+Caltha palustris                        @ml   +    +    1    .    +    .    +    .    1    .    .    .    .    +
+Epilobium alsinifolium                  @ml   +    .    .    .    .    .    2    R    +    3    2    2    .    .
+Saxifraga aizoides                      @ml   +    3    2    +    2    .    .    2    .    .    .    .    .    .
+Carex nigra                             @ml   .    .    +    .    +    .    .    1    +    +    .    +    .    .
+Cardamine amara                         @ml   1    .    .    .    +    .    1    .    R    +    .    .    .    .
+Alchemilla monticola                    @ml   +    .    +    .    .    .    .    .    +    +    .    .    .    .
+Pinguicula vulgaris                     @ml   .    .    +    .    .    .    .    .    +    .    .    +    .    +
+Carex limosa                            @ml   .    +    +    .    .    .    .    .    1    .    .    R    .    .
+Blindia acuta                           @ml   .    +    .    +    .    .    .    .    .    .    +    .    .    +
+Brachythecium rivulare                  @ml   .    .    .    .    .    .    1    .    .    +    .    .    +    .
+
+Rhizomnium magnifolium                  @ml   .    R    .    R    .    1    +    +    .    .    .    +    .    R
+Scapania undulata                       @ml   .    .    1    +    1    +    .    .    .    .    .    .    .    .
+Pellia epiphylla                        @ml   .    .    .    R    .    .    +    .    .    .    .    R    .    .
+Marchantia polymorpha                   @ml   .    .    .    .    .    1    +    .    .    .    .    .    .    +
+Dicranum scoparium                      @ml   .    .    .    +    .    +    .    .    .    .    .    .    .    .
+Jungermannia sp.                        @ml   +    .    .    .    .    R    R    .    .    .    .    .    .    .
+Aulacomnium palustre                    @ml   .    .    1    .    .    .    .    .    1    .    .    .    .    .
+Kiaira starkei                          @ml   .    .    +    .    .    .    .    .    .    .    .    .    +    .
+Jungermannia obovata                    @ml   .    .    +    .    .    1    .    +    .    .    .    .    +    .
+Bryum pallens agg.                      @ml   +    +    .    .    .    .    .    .    .    .    .    .    .    .
+Tortella fragilis                       @ml   +    .    .    .    .    .    .    1    .    .    .    .    .    .
+Oncophorus virens                       @ml   +    +    .    .    .    .    .    .    .    .    .    .    1    .
+Bryum turbinatum                        @ml   .    .    .    +    .    .    .    .    .    .    1    .    1    .
+Polytrichum alpinum                     @ml   .    .    .    .    .    .    +    .    .    .    .    .    1    .
+Campylium stellatum                     @ml   .    .    .    +    .    .    .    +    .    .    .    .    .    .
+
+Cratoneuron filicinum var. curvicaule   @ml   .    +    .    .    .    .    .    .    .    .    .    .    .    2
+
+Eriophorum angustifolium                @hl   .    .    .    +    +    .    .    .    +    .    .    .    .    .
+Festuca pulchella                       @hl   .    .    .    +    .    .    +    .    .    +    .    .    .    .
+Epilobium nutans                        @hl   +    .    .    .    .    .    .    +    .    .    1    .    .    .
+Poa alpina                              @hl   R    .    .    .    .    .    .    .    .    .    .    +    .    .
+Carex echinata                          @hl   .    .    +    .    +    .    .    .    .    .    .    .    .    .
+Calycocorsus stipitatus                 @hl   .    .    .    .    +    .    .    .    +    .    .    .    .    .
+Tofieldia calyculata                    @hl   .    .    .    .    R    .    .    .    +    .    .    .    .    .
+Cardamine rivularis                     @hl   .    .    .    .    R    .    .    .    +    .    .    .    .    .
+
+Aconitum napellus ssp. tauricum         @hl   R    .    .    .    .    .    +    .    .    .    .    .    .    .
+END TABLE

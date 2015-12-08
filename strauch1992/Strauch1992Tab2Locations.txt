@@ -1,0 +1,43 @@
+32a	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+30a	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+30b	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+30d	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+30e	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+30g	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+11	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+6	Erholungswald in Langholzfeld (Pasching)	x=70719&s=&y=45432&z=17,x=70720&s=&y=45432&z=17,x=70720&s=&y=45431&z=17
+30c	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+10	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+4	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+111c	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+111d	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+101d	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+107b	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+115a	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+111a	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+101f	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+111b	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+5	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+101e	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+101a	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+7	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+8	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+9	Gerichtsholz bei Gunskirchcn und Edt	x=4413&y=2843&z=13
+112a	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+30f	Heidewald bei Wagram (Pasching)	x=8838&y=5679&z=14,x=8839&y=5679&z=14
+12	Heidewald in Doppl (Leonding)	x=8840&y=5678&z=14,x=8841&y=5678&z=14,x=8841&y=5677&z=14
+6a	Erholungswald in Langholzfeld (Pasching)	x=70719&s=&y=45432&z=17,x=70720&s=&y=45432&z=17,x=70720&s=&y=45431&z=17
+101b	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+101c	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+107a	Kirchholz in Horsching	x=17672&s=&y=11361&z=15,x=17673&s=&y=11361&z=15,x=17674&s=&y=11361&z=15
+37a	Erholungswald in Langholzfeld (Pasching)	x=70719&s=&y=45432&z=17,x=70720&s=&y=45432&z=17,x=70720&s=&y=45431&z=17
+6b	Erholungswald in Langholzfeld (Pasching)	x=70719&s=&y=45432&z=17,x=70720&s=&y=45432&z=17,x=70720&s=&y=45431&z=17
+43c	Stadtfriedhof St.Martin (Traun)	x=35360&s=&y=22717&z=16,x=35361&s=&y=22717&z=16,x=35361&s=&y=22716&z=16
+53c	Stadtfriedhof St.Martin (Traun)	x=35360&s=&y=22717&z=16,x=35361&s=&y=22717&z=16,x=35361&s=&y=22716&z=16
+13	Heidewald in Doppl (Leonding)	x=8840&y=5678&z=14,x=8841&y=5678&z=14,x=8841&y=5677&z=14
+43b	Stadtfriedhof St.Martin (Traun)	x=35360&s=&y=22717&z=16,x=35361&s=&y=22717&z=16,x=35361&s=&y=22716&z=16
+53d	Stadtfriedhof St.Martin (Traun)	x=35360&s=&y=22717&z=16,x=35361&s=&y=22717&z=16,x=35361&s=&y=22716&z=16
+53b	Stadtfriedhof St.Martin (Traun)	x=35360&s=&y=22717&z=16,x=35361&s=&y=22717&z=16,x=35361&s=&y=22716&z=16
+127a	Heidewaldrest südlich von Haid (Horsching)	x=35346&s=&y=22724&z=16,x=35346&s=&y=22725&z=16,x=35347&s=&y=22725&z=16
+43a	Stadtfriedhof St.Martin (Traun)	x=35360&s=&y=22717&z=16,x=35361&s=&y=22717&z=16,x=35361&s=&y=22716&z=16
+14	Heidewald in Doppl (Leonding)	x=8840&y=5678&z=14,x=8841&y=5678&z=14,x=8841&y=5677&z=14

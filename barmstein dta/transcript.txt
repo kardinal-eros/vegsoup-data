@@ -1,0 +1,105 @@
+BEGIN HEAD
+plot                                      bbbbbb
+                                          ssssss
+                                          000000
+                                          123456
+accuracy                                  111111
+                                          000000
+                                                
+bare                                      000000
+                                                
+cov                                       237872
+                                          500000
+                                                
+elevation                                 888887
+                                          132109
+                                          500000
+                                                
+hcov                                      226662
+                                          555050
+                                                
+htl1                                      000000
+                                                
+htl2                                      000000
+                                                
+mcov                                      012111
+                                                
+plsx                                      888868
+                                                
+plsy                                          1 
+                                          888838
+                                                
+rock                                      773238
+                                          500000
+                                                
+scov                                       24531
+                                          505000
+                                                
+slope                                     988788
+                                          000555
+                                                
+stones                                    000000
+                                                
+tcov1                                     000000
+                                                
+tcov2                                     000000
+                                                
+richness                                   33221
+                                          950027
+                                                
+END HEAD
+BEGIN TABLE
+Amelanchier ovalis                     sl +22222
+Berberis vulgaris                         2.....
+Populus tremula                           .1....
+Rhamnus cathartica                        .+11..
+Sorbus aria s.str.                        .++...
+Viburnum lantana                          .++...
+Cornus sanguinea ssp. sanguinea           ..+...
+Ligustrum vulgare                         ..+..+
+Pinus sylvestris                          ..+...
+Rosa canina s.str.                        .....1
+Achnatherum calamagrostis              hl 2+....
+Amelanchier ovalis                        1122.+
+Asplenium ruta-muraria                    +.....
+Carex mucronata                           +1..12
+Globularia cordifolia s.str.              +22+22
+Leontodon incanus                         2+....
+Potentilla caulescens ssp. caulescens     1r+.r1
+Teucrium chamaedrys ssp. chamaedrys       1++...
+Allium lusitanicum                        .+..++
+Anthericum ramosum                        .+++++
+Berberis vulgaris                         .+.+..
+Calamagrostis varia                       .++.+.
+Carduus defloratus ssp. viridis           .++1+.
+Carex humilis                             .2233.
+Carex ornithopoda ssp. ornithopoda        .+....
+Cotoneaster tomentosus                    .+++..
+Erica carnea                              .++++.
+Euphorbia cyparissias                     .+....
+Galium album s.str.                       .222++
+Hieracium bifidum                         .+.++.
+Hieracium humile                          .r....
+Hippocrepis comosa                        .111+.
+Laserpitium siler ssp. siler              .12221
+Ligustrum vulgare                         .+1..+
+Polygala chamaebuxus                      .22221
+Polygonatum odoratum                      .+.1.+
+Rhamnus cathartica                        .++++.
+Sedum album                               .+++++
+Sesleria caerulea s.str.                  .1222.
+Taxus baccata                             .+....
+Teucrium montanum                         .+++11
+Thymus praecox ssp. praecox               .++.++
+Carex alba                                ..+...
+Juniperus communis ssp. communis          ..+...
+Rosa canina s.str.                        ..++.+
+Saxifraga paniculata                      ..r...
+Sorbus aria s.str.                        ..+...
+Viburnum lantana                          ..+...
+Buphthalmum salicifolium                  ....+.
+Vincetoxicum hirundinaria                 ....++
+Kernera saxatilis                         .....+
+Tortella tortuosa                      ml .+1+..
+Pleurozium schreberi                      ..+...
+END TABLE

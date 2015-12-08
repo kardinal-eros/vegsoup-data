@@ -1,0 +1,45 @@
+BEGIN HEAD
+Laufende Nr.                        0   0   0   0   0   0   0   0   0   1   1   1   1   1   1   1   1   1   1   2   2   2   2   2   2   2   2   2   2   3   3   3   3   3   3   3   3   3   3   4
+                                    1   2   3   4   5   6   7   8   9   0   1   2   3   4   5   6   7   8   9   0   1   2   3   4   5   6   7   8   9   0   1   2   3   4   5   6   7   8   9   0
+END HEAD
+BEGIN TABLE
+Loiseleuria procumbens              5   5   5   4   5   5   5   4   5   5   4   2   3   4   5   5   3   4   4   3   4   3   4   4   1   1   1   1   1   5   5   5   5   4   5   4   5   4   4   2
+Carex bigelowii ssp. rigida         3   2   3   3   3   3   3   3   3   2   4   4   2   3   3   3   2   3   1   3   2   1   1   2   4   4   3   3   4   2   3   3   2   3   2   +   3   3   3   4
+Oreochloa disticha                  +   +   .   2   1   1   +   1   +   .   .   1   1   2   .   +   2   1   1   2   +   +   2   2   2   2   3   3   2   .   .   +   .   .   .   +   .   .   .   .
+Juncus trifidus                     1   1   2   +   .   r   2   .   2   r   +   +   2   3   1   +   +   +   1   +   +   .   2   2   .   .   .   .   .   1   1   1   1   +   .   1   .   .   .   .
+Campanula alpina                    2   1   1   2   1   2   1   .   1   .   1   1   1   +   .   1   +   .   .   1   .   .   .   .   .   .   +   +   +   .   1   1   .   +   .   .   .   +   .   +
+Vaccinium gaultherioides            2   1   2   2   2   .   .   3   1   2   +   .   2   .   .   1   1   +   2   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   +   +   .   .
+Vaccinium vitis-idaea               .   .   1   1   1   2   .   2   1   1   .   .   +   .   +   1   .   +   2   .   .   1   +   .   .   .   .   .   .   .   1   .   +   .   .   .   .   .   .   .
+Homogyne alpina                     .   .   .   .   .   2   1   1   1   1   +   1   2   2   1   1   +   +   1   1   +   +   1   .   +   +   .   .   .   2   +   1   .   .   .   .   .   2   1   .
+Avenella flexuosa                   .   .   .   .   .   .   .   2   1   3   +   .   1   .   +   +   r   2   .   .   +   +   .   .   .   .   .   .   .   .   .   +   .   .   .   .   .   .   .   .
+Phyteuma confusum                   .   .   .   .   .   .   1   1   +   +   .   1   1   2   +   +   .   +   .   1   .   .   .   .   .   .   .   .   .   +   1   2   1   2   1   .   .   .   +   .
+Leontodon helveticus                .   .   +   .   .   1   .   .   +   +   1   1   +   1   1   1   +   +   .   1   .   .   .   .   .   .   .   .   .   .   1   1   .   .   +   .   .   2   +   .
+Hieracium alpinum                   .   +   +   .   .   .   .   .   .   .   1   1   1   +   2   +   +   +   2   +   +   +   +   +   +   +   .   .   .   .   1   +   .   +   .   .   1   .   +   .
+Calluna vulgaris                    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   r   2   r   .   r   .   1   1   1   .   .   +   +   +   .   .   .   .   .   .   .   .   1   2   .
+Pulsatilla alpina ssp. austriaca    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   1   +   1   .   .   .   .   .   .   .   .   .   .   +   .   .   +   .   .   .
+Phyteuma hemisphaericum             .   .   +   .   1   1   .   .   .   .   .   .   .   .   .   .   .   .   1   .   +   +   1   +   .   .   .   .   .   +   .   1   +   .   .   +   .   .   .   .
+Valeriana celtica ssp. norica       .   +   +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   1   .   .   .   .   .   1   1   2   2   2   2   .   +   .   .   .
+Carex curvula ssp. curvula          .   .   .   .   .   2   .   .   .   .   .   .   .   .   .   r   .   .   .   .   .   .   .   .   .   .   .   .   .   +   2   +   1   1   +   1   1   +   .   .
+Primula minima                      .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .   2   1   +   +   1   .   +   .   .
+Saponaria pumila                    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .   .   .   .   .   .   .   .   2   2   1   +   .   2   1   .   .   .
+Luzula alpino-pilosa                .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   2   2   .   1   1   +   .   .   .   .
+Avenula versicolor                  .   .   .   .   .   .   +   .   .   .   .   .   .   .   +   .   .   .   .   +   .   2   +   .   .   .   .   .   .   .   .   +   r   .   .   .   .   .   .   .
+Euphrasia minima                    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .   .   .   .   .   .   .   .   .   +   .   .   .   +   1   .   .   .   .   .
+Senecio incanus ssp. carniolicus    .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .   .   .   .   .   +   .   .   .   .   .   .   .   .   .   .   .   +   +   .   1   .   .   .   .
+Agrostis rupestris                  .   .   .   .   .   .   .   .   .   .   .   .   .   1   .   .   +   .   .   1   .   .   .   .   .   .   .   .   .   .   .   1   .   .   +   .   .   .   .   .
+Carex sempervirens                  .   .   .   .   .   .   +   .   .   .   .   .   +   +   +   .   .   .   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Campanula barbata ssp. barbata      .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   2   .   .   .   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Carex nigra                         .   .   +   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   r   .   .   .   .   .   .   2   .
+Potentilla aurea                    .   .   .   +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Trichophorum cespitosum             +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   2
+
+Polytrichum alpinum                 .   .   .   +   .   .   .   .   .   2   +   .   3   2   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   1   .
+Polytrichum sp.                     .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   1   2   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Polytrichum perigoniale             .   .   .   .   .   .   .   .   .   +   .   .   .   .   .   .   1   2   .   .   .   .   .   .   .   .   .   .   .   2   3   2   2   .   1   .   .   .   .   .
+Cetraria islandica                  2   2   3   2   2   2   3   3   2   3   2   2   2   3   3   3   .   1   .   1   .   .   .   .   1   1   +   +   +   1   2   .   2   2   1   .   2   2   1   3
+Alectoria ochroleuca                2   .   .   .   .   .   .   1   1   .   .   .   .   .   .   .   1   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .   +   .
+Cladonia rangiferina                .   .   +   .   .   .   .   .   .   .   .   1   1   .   .   .   .   .   +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Thamnolia vermiculans               .   .   .   .   .   .   .   .   +   .   .   .   .   .   .   .   .   .   1   .   .   .   .   1   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Cetraria cucullata                  .   .   .   .   .   .   .   2   .   .   .   +   .   .   .   .   +   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   .
+Cetraria ericetorum                 .   .   .   .   .   .   .   .   .   .   2   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   +   1   +   .   .   .   .   .
+END TABLE
