@@ -1,0 +1,132 @@
+BEGIN HEAD
+plot                                       ggggg
+                                           lllll
+                                           00000
+                                           12345
+accuracy                                   11111
+                                           00000
+                                                
+bare                                       53000
+                                                
+cov                                        99999
+                                           57998
+                                                
+expo                                       00000
+                                                
+hcov                                       99999
+                                           56758
+                                                
+hsl                                        00000
+                                                
+htl1                                       00000
+                                                
+htl2                                       00000
+                                                
+mcov                                         11 
+                                           11551
+                                                
+plsx                                       44444
+                                                
+plsy                                       44444
+                                                
+rock                                       00000
+                                                
+scov                                       00000
+                                                
+slope                                      00000
+                                                
+stones                                     00000
+                                                
+t1cov                                      00000
+                                                
+t2cov                                      00000
+                                                
+richness                                   45444
+                                           70562
+                                                
+END HEAD
+BEGIN TABLE
+Acer pseudoplatanus                     hl r....
+Achillea millefolium s.str.                +.+.+
+Agrostis capillaris                        r....
+Arabis hirsuta s.str.                      +....
+Arrhenatherum elatius                      1....
+Brachypodium pinnatum s.str.               +22+.
+Briza media                                +2212
+Calamagrostis varia                        +....
+Carex flacca ssp. flacca                   ++1++
+Carex flava var. flava                     +....
+Carex hirta                                +....
+Carex ornithopodoides                      ++...
+Carex pallescens                           ++...
+Carex panicea                              ++.+.
+Centaurea jacea ssp. jacea                 211++
+Dactylis glomerata ssp. glomerata          +++++
+Deschampsia cespitosa                      +....
+Equisetum arvense                          +.r..
+Euphrasia officinalis ssp. rostkoviana     2++.+
+Festuca arundinacea s.lat.                 3.+++
+Festuca pratensis s.str.                   11..r
+Festuca rubra s.lat.                       1.++.
+Filipendula ulmaria ssp. ulmaria           +....
+Galium boreale s.str.                      11r2.
+Galium verum s.str.                        11.++
+Homalotrichon pubescens ssp. pubescens     12+.+
+Leontodon hispidus ssp. hispidus           +12++
+Leucanthemum ircutianum                    1+..+
+Linum catharticum                          22+.2
+Lotus corniculatus s.str.                  1++++
+Medicago lupulina                          ++..1
+Molinia caerulea agg.                      11+2+
+Phleum pratense s.str.                     +....
+Plantago lanceolata                        +.+++
+Polygala amarella                          1+rr+
+Potentilla reptans                         +.+..
+Prunella grandiflora                       +121.
+Prunella vulgaris                          +...+
+Ranunculus nemorosus                       11++1
+Rhinanthus minor                           121+2
+Salix purpurea                             r....
+Scabiosa columbaria s.str.                 12+21
+Silene vulgaris ssp. vulgaris              r...+
+Thymus pulegioides ssp. pulegioides        +12+1
+Tragopogon orientalis                      r..+.
+Trifolium pratense ssp. pratense           ++++1
+Verbascum nigrum                           r....
+Allium carinatum                           .++++
+Anthoxanthum odoratum s.str.               .1++1
+Anthyllis vulneraria s.lat.                .2++1
+Betonica officinalis                       .+.+.
+Buphthalmum salicifolium                   .+.1r
+Campanula glomerata                        .+.r+
+Carex caryophyllea                         .++++
+Carex montana                              .+112
+Dactylorhiza maculata s.lat.               .r...
+Festuca stricta ssp. trachyphylla          .1++2
+Galium album s.str.                        .+r.+
+Gymnadenia conopsea s.lat.                 .+...
+Hippocrepis comosa                         .+.+.
+Knautia arvensis ssp. arvensis             .1r..
+Koeleria pyramidata var. pyramidata        .21+3
+Orobanche gracilis                         .++rr
+Petasites paradoxus                        .+.r.
+Peucedanum oreoselinum                     .2.22
+Potentilla erecta                          .+++.
+Ranunculus acris ssp. acris                .+...
+Sanguisorba minor s.lat.                   .++++
+Sanguisorba officinalis                    .+..+
+Trifolium montanum ssp. montanum           .+.1.
+Vicia cracca s.str.                        .++++
+Ajuga reptans                              ..+..
+Campanula rotundifolia agg.                ..r..
+Carex ornithopoda ssp. ornithopoda         ..+..
+Filipendula vulgaris                       ..r..
+Fraxinus excelsior                         ..r..
+Leucanthemum vulgare s.str.                ..++.
+Pimpinella major var. major                ..+.+
+Anthericum ramosum                         ...1.
+Centaurea scabiosa ssp. scabiosa           ...+1
+Gymnadenia conopsea ssp. conopsea          ...r.
+Listera ovata                              ...r.
+Plantago media                             ...+.
+END TABLE
