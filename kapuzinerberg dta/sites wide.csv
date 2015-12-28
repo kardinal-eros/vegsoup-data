@@ -9,8 +9,8 @@ kb07;85;55;60;15;20;2;13;10;2,5;0,5;0,25;16;16;SW;60;75;10;0;2014-05-24;Rendzina
 kb08;95;50;65;35;30;1;12;9;3;0,5;0,2;16;16;SW;40;15;0;0;2014-05-24;Rendzina;Kupuzinerberg, Anfang Steingasse ;direkt unterhalb von kb07;47.800662N;13.052086E;10;Carpinion betuli;R. Kaiser
 kb09;97;75;20;50;70;1;24;18;3;0,5;0,2;16;16;SW;15;3;0;0;2014-05-24,2015-02-15 ;Rendzina;Kupuzinerberg, W Haus Kapuzinerberg 8 ;;47.801142N;13.052713E;10;Cephalanthero Fagenion;R. Kaiser
 kb10;99;50;65;10;93;1;25;20;5;0,5;0,2;25;10;SW;40;5;0;0;2014-05-24,2015-02-15 ;Rendzina;Kapuzinerberg, Äußererstein;an der Kante eiener Felsstufe oberhalb des Basteiweges bei der Holzstiege;47.801301N;13.056586E;10;Carpinion betuli;R. Kaiser
-kb11;95;35;70;45;80;5;14;10;2,5;0,7;0,3;10;25;S;40;15;0;0;2014-05-24;Rendzina;Kapuzinerberg, Südseite oberhalb Arenbergstraße;;47.801093N;13.059049E;10;Carpinion betuli;R. Kaiser
-kb12;90;25;65;50;75;2;15;12;4;0,5;0,25;16;16;S;60;10;0;0;2014-05-24;Rendzina;Kapuzinerberg, Südseite oberhalb Arenbergstraße;;47.801030N;13.058660E;10;Carpinion betuli;R. Kaiser
+kb11;95;35;70;45;80;5;14;10;2,5;0,7;0,3;10;25;S;40;15;0;0;2014-05-24;Rendzina;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.801093N;13.059049E;10;Carpinion betuli;R. Kaiser
+kb12;90;25;65;50;75;2;15;12;4;0,5;0,25;16;16;S;60;10;0;0;2014-05-24;Rendzina;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.801030N;13.058660E;10;Carpinion betuli;R. Kaiser
 kb13;98;70;60;50;80;1;25;10;5;0,8;0,2;16;16;N;30;0;0;0;2014-07-19;Rendzina;Kapuzinerberg, Nord-Seite;am beginn der Eisenbahnschienen, von da nach oben;47.806452N;13.062846E;10;Cephalanthero Fagenion;R. Kaiser
 kb14;98;80;60;25;35;1;27;16;8;0,8;0,3;16;16;N;35;1;0;2;2014-07-19;verbraunte Rendzina;Kapuzinerberg, Nord-Seite;oberhalb und unterhalb Weg;47.805537N;13.058405E;10;Lunario-Acerenion pseudoplatani;R. Kaiser
 kb15;99;55;35;45;80;1;27;22;5;0,9;0,3;16;16;N;55;3;0;0;2014-07-19;Mull-Rendzina;Kapuzinerberg, Nord-Seite;kbx3;47.805691N;13.059315E;20;Lunario-Acerenion pseudoplatani;R. Kaiser
@@ -25,3 +25,14 @@ kb23;98;25;75;10;15;1;12;9;3;0,4;0,2;16;16;S;60;40;0;0;2015-04-27;Rendzina;Kapuz
 kb24;98;60;70;20;75;1;13;8;4;1;0,3;16;16;S;35;3;0;0;2015-06-13;Braunerde & Rendzina;Kapuzinerberg, Äußererstein;ab der Linde am Basteiturm gegen Südwesten;47.800840N;13.051400E;10;Carpinion betuli;R. Kaiser
 kb25;95;30;85;15;25;15;13;9;4;0,7;0,2;16;16;SW;55;45;0;0;2015-06-13;Braunerde & Rendzina;Kapuzinerberg, Äußererstein;südlich kb07;47.800670N;13.052350E;10;Carpinion betuli;R. Kaiser
 kb26;99;50;80;15;40;1;17;12;4;0,6;0,2;16;16;SW;25;5;0;0;2015-06-13;Rendzina;Kapuzinerberg, Äußererstein;südwestlich der Ecke an der Basteimauer;47.800488N;13.052517E;10;Carpinion betuli;R. Kaiser
+kbx01;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.805455;13.063876;;;R. Kaiser
+kbx02;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.805396;13.062594;;;R. Kaiser
+kbx03;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.804484;13.061839;;;R. Kaiser
+kbx04;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.804215;13.061360;;;R. Kaiser
+kbx05;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.803162;13.060122;;;R. Kaiser
+kbx06;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.802470;13.059876;;;R. Kaiser
+kbx07;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.801619;13.059999;;;R. Kaiser
+kbx08;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;almost overlaping with kb11;47.801200;13.059110;;;R. Kaiser
+kbx09;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.801083;13.059259;;;R. Kaiser
+kbx10;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.801206;13.059315;;;R. Kaiser
+kbx11;;;;;;;;;;;;;;;;;;;20145-12-28;;Kapuzinerberg, Südseite oberhalb Pausingerstraße;;47.801191;13.059873;;;R. Kaiser
