@@ -1,0 +1,98 @@
+BEGIN HEAD
+Aufnahmenummer                     1   2   3   4   5   6   7   8   9  10  11
+Seehöhe in m                     490 560 720 690 650 690 710 720 680 690 800
+Hangneigung in                    30  25  35  30  30  25  25  25  30  30  35
+Exposition                        NO  NO   N   N  NO  NO   O  NW   N   N   N
+Aufnahmefläche in m2             600 600 600 600 600 600 600 600 600 600 600
+Deckung Baumschicht in %         100 100 100 100 100 100 100 100 100 100 100
+Deckung Strauchschicht in %        5  15  10   5   5   5   5   5   5   5   5
+Deckung Krautschicht in %         90  95  85  90 100  90  90  95  85  90  90
+END HEAD
+
+BEGIN TABLE
+Acer pseudoplatanus           @B   4   4   4   3   4   3   4   3   4   4   4
+Acer pseudoplatanus           @S   .   +   .   .   .   .   .   .   .   .   .
+Acer pseudoplatanus           @K   .   .   +   .   .   +   .   .   +   .   .
+Ulmus glabra                  @B   1   1   +   +   .   +   +   +   .   +   .
+Ulmus glabra                  @S   .   .   +   .   .   .   .   .   .   .   .
+Ulmus glabra                  @K   .   +   .   .   +   .   .   .   .   .   .
+Fraxinus excelsior            @B   2   1   1   2   1   2   1   2   1   +   +
+Fraxinus excelsior            @S   .   +   +   .   .   +   .   .   4   .   +
+Fraxinus excelsior            @K   1   .   .   1   .   .   +   .   .   1   .
+Fagus sylvatica               @B   .   +   +   1   .   1   .   1   +   .   +
+Fagus sylvatica               @S   +   .   +   .   .   +   +   .   .   .   .
+Fagus sylvatica               @K   .   +   .   .   +   +   .   .   .   .   .
+Abies alba                    @B   .   .   .   .   .   .   .   .   .   +   .
+Abies alba                    @S   .   .   .   .   .   .   .   .   +   .   .
+Alnus incana                  @B   +   +   .   .   .   +   .   .   .   .   1
+
+
+Clematis alba                 @S   +   .   .   +   .   .   +   +   .   +   .
+Corylus avellana              @S   .   +   .   +   .   +   +   .   .   +   .
+Rubus caesius                 @S   .   .   +   .   .   +   .   .   .   +   .
+Rubus idaeus                  @S   .   .   +   .   .   .   .   +   .   .   .
+
+
+
+Mercurialis perennis          @K   1   2   1   2   1   2   2   1   2   1   1
+Senecio ovatus                @K   .   +   +   .   .   +   +   +   +   +   .
+Prenanthes purpurea           @K   .   +   .   .   .   +   +   .   .   +   .
+Phyteuma spicata              @K   +   .   +   +   .   .   .   +   .   .   .
+Galium odoratum               @K   +   .   .   +   .   .   .   .   .   .   .
+
+
+Dryopteris filix-mas          @K   +   +   .   +   +   +   .   .   +   +   +
+Asarum europaeum              @K   +   .   1   1   .   1   1   +   +   .   .
+Paris quadrifolia             @K   .   r   r   .   .   .   +   +   .   .   .
+Primula elatior               @K   .   +   +   .   .   +   .   .   .   .   .
+Brachypodium sylvaticum       @K   +   +   .   .   .   .   +   .   .   .   .
+Cardamine trifolia            @K   +   +   .   .   +   .   .   .   .   .   .
+Lamium montanum               @K   .   .   +   .   .   +   +   .   .   .   .
+Carex sylvatica               @K   .   .   +   .   .   .   +   .   +   .   .
+Pulmonaria officinalis        @K   .   +   +   .   .   .   .   .   .   +   .
+Sanicula europaea             @K   .   .   .   .   .   .   .   +   +   .   .
+Melica nutans                 @K   .   .   .   .   .   +   .   .   +   .   .
+Polystichum aculeatum         @K   .   .   +   .   +   .   .   .   .   .   .
+Scrophularia nodosa           @K   .   r   .   .   .   .   .   r   .   .   .
+Epilobium montanum            @K   .   .   .   .   .   .   +   .   .   .   .
+Lysimachia nemorum            @K   .   .   .   .   .   .   .   +   .   .   .
+
+
+Aegopodium podagraria         @K   +   +   +   .   .   .   1   .   .   1   .
+Stachys sylvatica             @K   .   .   +   .   .   +   +   .   .   +   .
+Impatiens noli-tangere        @K   1   2   1   1   .   .   .   .   .   .   .
+
+
+Aruncus dioicus               @K   1   1   2   1   2   1   1   2   1   1   1
+
+
+Geranium robertianum          @K   +   .   +   .   .   +   +   +   .   +   .
+Asplenium viride              @K   .   +   .   .   .   .   .   +   +   .   .
+
+
+Oxalis acetosella             @K   1   1   2   1   .   1   1   1   .   1   .
+Knautia dipsacifolia          @K   +   .   +   +   .   +   +   .   .   +   .
+Ajuga reptans                 @K   .   +   +   .   +   +   .   .   .   .   +
+Athyrium filix-femina         @K   +   .   +   .   .   .   .   .   +   .   .
+Astrantia major               @K   .   +   .   .   .   .   .   +   +   .   .
+Hedera helix                  @K   .   .   +   .   .   .   +   +   .   .   .
+Fragaria vesca                @K   .   +   .   .   .   .   .   .   .   .   .
+Ranunculus lanuginosus        @K   .   +   .   .   .   +   +   .   .   +   .
+Aconitum vulparia             @K   .   +   .   .   .   .   .   +   +   .   +
+
+
+Petasites albus               @K   1   1   1   1   1   1   +   .   .   +   .
+Urtica dioica                 @K   +   .   .   +   .   .   +   +   .   +   .
+Cirsium oleraceum             @K   +   +   +   +   .   .   .   .   .   .   .
+Veronica latifolia            @K   +   .   +   .   .   .   .   .   .   .   .
+Angelica sylvestris           @K   +   .   .   .   .   .   .   .   .   .   .
+Heracleum sphondylium         @K   .   .   +   .   .   .   .   .   .   .   .
+
+Chaerophyllum hirsutum        @K   +   +   +   +   .   .   .   .   .   .   .
+Saxifraga rotundifolia        @K   +   +   .   .   .   .   .   .   .   .   .
+
+
+Mnium undulatum               @M   1   1   1   1   .   .   +   .   1   1   .
+Eurhynchium striatum          @M   .   2   2   .   .   1   1   1   .   .   +
+Ctenidium molluscum           @M   .   .   .   2   1   .   .   .   .   1   +
+END TABLE

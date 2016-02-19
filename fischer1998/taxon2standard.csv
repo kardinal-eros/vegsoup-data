@@ -1,0 +1,89 @@
+penalty,taxon,matched.taxon,guess1,guess2,guess3,guess4,guess5,guess6,guess7,guess8,guess9,guess10,guess11,guess12,guess13,guess14,guess15,guess16,guess17
+0,Acer pseudoplatanus,Acer pseudoplatanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Ulmus glabra,Ulmus glabra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Fraxinus excelsior,Fraxinus excelsior,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Fagus sylvatica,Fagus sylvatica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Abies alba,Abies alba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Ainus incana,NA,Alnus incana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Clematis alba,NA,Clematis alpina ssp. alpina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Corylus avellana,Corylus avellana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Rubus caesius,Rubus caesius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Rubus idaeus,Rubus idaeus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Mercurialis perennis,Mercurialis perennis s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Senecio ovatus,NA,Senecio ovatus ssp. ovatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Prenanthes purpurea,Prenanthes purpurea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Phyteuma spicata,NA,Phyteuma spicatum,Phyteuma spicatum ssp. spicatum,Phyteuma spicatum ssp. coeruleum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Galium odoratum,Galium odoratum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Dryopteris filix-mas,Dryopteris filix-mas s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Asanim europaeum,NA,Asarum europaeum,Asarum europaeum s.lat.,Asarum europaeum ssp. europaeum,Asarum europaeum ssp. caucasicum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Paris quadrifolia,Paris quadrifolia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Primula elatior,Primula elatior s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Brachypodium sylvaticum,Brachypodium sylvaticum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Cardamine trifolia,Cardamine trifolia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Lamium montanum,NA,Epilobium montanum,Trifolium montanum ssp. montanum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Carex sylvatica,NA,Carex sylvatica ssp. sylvatica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Pulmonaria officinalis,Pulmonaria officinalis s.str.,Pulmonaria officinalis agg.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Sanicula europaea,Sanicula europaea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Melica nutans,Melica nutans s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Polystichum aculeatum,Polystichum aculeatum s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Scrophularia nodosa,Scrophularia nodosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Epilobium montanum,Epilobium montanum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Lysimachia nemorum,Lysimachia nemorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Aegopodium podagraria,Aegopodium podagraria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Stachys sylvatica,Stachys sylvatica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Impatiens noli-tangere,Impatiens noli-tangere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Aruncus dioicus,Aruncus dioicus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Geranium robertianum,Geranium robertianum s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Asplenium viride,Asplenium viride,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Oxalis acetosella,Oxalis acetosella,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Knautia dipsacifolia,NA,Knautia longifolia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Ajuga reptans,Ajuga reptans,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Athyrium filix-femina,Athyrium filix-femina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Astrantia major,Astrantia major,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Hedera helix,Hedera helix,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Fragaria vesca,Fragaria vesca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Ranunculus lanuginosus,Ranunculus lanuginosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Aconitum vulparia,NA,Aconitum anthora,Aconitum pilipes,Aconitum plicatum,Aconitum × cammarum,Chenopodium vulvaria,Tanacetum vulgare,Aconitum variegatum s.lat.,Aconitum tauricum ssp. tauricum,Aconitum variegatum ssp. nasutum,Aconitum variegatum ssp. variegatum,NA,NA,NA,NA,NA,NA,NA
+0,Petasites albus,Petasites albus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Urtica dioica,NA,Urtica dioica s.lat.,Urtica dioica ssp. dioica,Urtica dioica ssp. subinermis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Cirsium oleraceum,Cirsium oleraceum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Veronica latifolia,NA,Veronica urticifolia,Turgenia latifolia,Veronica aphylla,Veronica catenata,Veronica filiformis,Veronica maritima,Veronica polita,Veronica triloba,Campanula latifolia,Veronica austriaca,Sagittaria latifolia,Veronica hederifolia agg.,Stegonia latifolia s.lat.,Veronica hederifolia (s.str.),Silene latifolia ssp. alba,Stegonia latifolia var. pilifera,Stegonia latifolia var. latifolia 
+2,Angelica sylvestris,NA,Angelica sylvestris s.lat.,Angelica sylvestris ssp. montana,Angelica sylvestris ssp. sylvestris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Heracleum sphondylium,NA,Heracleum sphondylium ssp. elegans,Heracleum sphondylium ssp. glabrum,Heracleum sphondylium ssp. sphondylium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Chaerophyllum hirsutum,Chaerophyllum hirsutum s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Saxifraga rotundifolia,NA,Saxifraga rotundifolia ssp. rotundifolia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Mnium undulatum,NA,Plagiomnium undulatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Eurhynchium Striatum,NA,Eurhynchium striatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Ctenidium molluscum,NA,Ctenidium molluscum s.lat.,Ctenidium molluscum var. molluscum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Picea abies,Picea abies,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Sambucus nigra,Sambucus nigra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Lonicera xylosteum,Lonicera xylosteum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Adenostyles glabra,NA,Adenostyles alpina,Adenostyles alliariae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Daphne mezereum,Daphne mezereum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Salvia glutinosa,Salvia glutinosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Helleborus niger,Helleborus niger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Cyclamen purpurascens,Cyclamen purpurascens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Mycelis muralis,NA,Diplotaxis muralis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Viola reichenbachiana,Viola reichenbachiana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Asarum europaeum,Asarum europaeum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Polygonatum multiflorum,Polygonatum multiflorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Dentaria enneaphyllos,NA,Cardamine enneaphyllos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Circaea lutetiana,NA,Circaea lutetiana ssp. lutetiana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Actea spicata,NA,Actaea spicata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Phyllitis scolopendrium,NA,Asplenium scolopendrium ssp. scolopendrium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Lunaria rediviva,Lunaria rediviva,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Asplenium trichomanes,NA,Asplenium trichomanes s.lat.,Asplenium trichomanes ssp. hastatum,Asplenium trichomanes ssp. trichomanes,Asplenium trichomanes ssp. pachyrhachis,Asplenium trichomanes ssp. quadrivalens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Moehringia muscosa,Moehringia muscosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Cystopteris fragilis,Cystopteris fragilis s.str.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Valeriana saxatilis,Valeriana saxatilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,GvmnocarDium robertianum,NA,Gymnocarpium robertianum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Valeriana tripteris,Valeriana tripteris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Campanula cochleariifolia,Campanula cochleariifolia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Polystichum lonchitis,Polystichum lonchitis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Hepatica nobilis,Hepatica nobilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Carex flacca,NA,Carex flacca ssp. flacca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Eupatorium cannabinum,Eupatorium cannabinum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Gentiana aesclepiadea,NA,Gentiana asclepiadea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Polypodium vulgare,Polypodium vulgare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Thuidium tamariscinum,Thuidium tamariscinum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+0,Rhytidiadelphus triquetrus,Rhytidiadelphus triquetrus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

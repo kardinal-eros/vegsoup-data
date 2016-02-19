@@ -1,0 +1,132 @@
+BEGIN HEAD
+Aufnahmenummer                     1   2   3   4   5   6   7   8   9  10  11  12  13  14
+Seehöhe in m                     570 580 620 750 990 630 710 800 480 600 760 780 790 800
+Hangneigung in                    35  30  25  30  35  25  30  30  30  40  30  25  20  10
+Exposition                        NO  NO  NO  NO  NW  NO   N  NW  NO  NO   N   N   N   N
+Aufnahmefläche in m2             600 600 600 600 600 600 600 600 600 600 600 600 600 600
+Deckung Baumschicht in %         100  85  80 100  90  90 100 100  90  90  90  90  90  90
+Deckung Strauchschicht in %       15  10   5  15  15  20  15  15  15  20  10  15  15  20
+Deckung Krautschicht in %         90  95  85  80 100  90  90  85  75  75  70  85  90  90
+Deckung Moosschicht in %          35  55  15  15  80  70  70  70  70  80  80  80  80  80
+END HEAD
+
+BEGIN TABLE
+Acer pseudoplatanus           @B   4   3   3   4   4   3   2   3   3   3   2   2   3   3
+Acer pseudoplatanus           @S   1   1   +   1   +   +   1   +   +   +   +   .   1   .
+Acer pseudoplatanus           @K   1   +   +   1   +   .   +   +   +   .   .   +   +   +
+Ulmus glabra                  @B   +   1   1   2   1   2   3   3   1   1   1   2   1   1
+Ulmus glabra                  @S   +   1   1   1   +   .   +   +   .   +   +   +   .   +
+Ulmus glabra                  @K   +   +   1   1   +   .   .   +   +   .   1   .   .   1
+Fraxinus excelsior            @B   1   1   1   1   1   .   +   +   .   1   +   +   .   .
+Fraxinus excelsior            @S   +   1   1   1   1   1   1   1   1   2   3   2   2   1
+Fraxinus excelsior            @K   1   1   1   +   +   +   +   .   +   +   .   +   +   +
+Fagus sylvatica               @B   +   .   .   +   +   +   .   .   .   +   .   +   .   .
+Fagus sylvatica               @S   .   .   .   +   .   +   +   .   .   .   .   .   +   .
+Fagus sylvatica               @K   .   .   .   +   +   .   .   .   +   .   .   .   .   .
+Picea abies                   @B   .   .   +   +   .   .   +   .   .   .   .   .   .   +
+Picea abies                   @S   .   .   .   .   +   .   +   .   .   .   .   .   .   +
+Picea abies                   @K   .   .   .   .   .   .   .   .   .   +   .   .   +   .
+Abies alba                    @B   .   .   .   .   .   .   +   +   .   .   .   r   .   .
+Abies alba                    @S   .   .   .   .   +   .   .   +   .   .   .   .   .   .
+Abies alba                    @K   .   .   .   .   .   .   r   r   .   .   .   .   .   .
+
+Sambucus nigra                @S   +   +   .   +   +   1   1   +   1   +   1   1   1   +
+Corylus avellana              @S   .   .   .   .   +   +   1   1   1   1   1   1   1   1
+Lonicera xylosteum            @S   .   .   .   .   +   +   .   +   r   +   +   +   +   .
+Clematis alba                 @S   .   +   .   .   .   +   .   +   .   +   +   .   .   .
+Rubus idaeus                  @S   .   1   .   +   .   .   .   .   .   .   .   .   .   .
+
+
+
+Mercurialis perennis          @K   1   +   1   1   2   2   4   2   1   1   1   2   2   1
+Galium odoratum               @K   1   .   .   +   1   .   +   2   1   2   1   1   1   .
+Phyteuma spicata              @K   .   r   r   .   r   r   r   .   +   +   .   .   .   .
+Senecio ovatus                @K   +   .   .   r   .   r   r   .   .   .   +   r   r   .
+Prenanthes purpurea           @K   r   .   r   r   r   .   .   r   .   .   .   .   .   .
+Adenostyles glabra            @K   .   +   .   .   .   .   .   .   .   .   +   +   +   +
+Daphne mezereum               @K   .   .   +   .   .   +   +   .   .   .   .   .   .   .
+Salvia glutinosa              @K   +   +   .   .   .   .   .   .   .   .   .   .   .   .
+Helleborus niger              @K   +   .   .   .   .   .   .   .   .   .   .   +   .   .
+Cyclamen purpurascens         @K   +   .   .   .   .   .   .   .   .   .   .   .   .   .
+Mycelis muralis               @K   .   .   .   .   .   .   .   .   .   .   .   .   r   .
+Viola reichenbachiana         @K   .   .   .   .   .   .   .   .   .   .   .   .   r   .
+
+
+Polystichum aculeatum         @K   +   3   1   +   +   +   1   +   1   +   +   +   +   +
+Dryopteris filix-mas          @K   +   +   1   +   +   +   +   +   r   +   +   +   +   +
+Asarum europaeum              @K   1   2   1   1   1   1   .   1   1   .   .   +   +   1
+Paris quadrifolia             @K   .   +   +   .   .   r   r   .   r   .   .   .   r   .
+Polygonatum multiflorum       @K   .   .   .   .   .   .   +   +   +   .   .   .   +   .
+Lysimachia nemorum            @K   .   .   +   .   +   +   .   .   .   .   .   .   .   .
+Melica nutans                 @K   .   .   .   .   .   .   .   .   +   +   +   .   .   .
+Scrophularia nodosa           @K   .   r   .   r   r   .   .   .   .   .   .   .   .   .
+Primula elatior               @K   .   .   .   .   .   +   +   .   .   .   .   .   .   .
+Brachypodium sylvaticum       @K   +   .   .   +   .   .   .   .   .   .   .   .   .   .
+Cardamine trifolia            @K   .   .   +   +   .   .   .   .   .   .   .   .   .   .
+Lamium montanum               @K   +   .   +   .   .   .   .   .   .   .   .   .   .   .
+Carex sylvatica               @K   .   +   .   .   .   .   .   +   .   .   .   .   .   .
+Pulmonaria officinalis        @K   .   1   .   +   .   .   .   .   .   .   .   .   .   .
+Epilobium montanum            @K   .   .   +   .   .   .   .   .   .   .   .   +   .   .
+Dentaria enneaphyllos         @K   +   .   .   .   .   .   .   .   .   .   .   .   .   .
+
+
+Circaea lutetiana             @K   +   +   +   +   +   +   +   +   .   .   .   .   .   .
+Impatiens noli-tangere        @K   +   1   1   1   +   +   +   1   .   .   .   .   .   .
+Aegopodium podagraria         @K   +   +   .   +   +   +   .   r   .   .   .   +   .   .
+Actea spicata                 @K   .   .   .   .   r   .   r   +   .   .   .   .   +   .
+
+
+Phyllitis scolopendrium       @K   1   1   1   1   1   1   +   1   1   1   1   +   +   +
+Lunaria rediviva              @K   2   1   1   2   2   2   2   2   +   +   .   +   .   .
+Aruncus dioicus               @K   .   .   +   +   +   .   .   1   +   .   +   .   +   .
+
+
+Geranium robertianum          @K   .   .   +   +   +   +   +   +   1   1   +   +   +   +
+Asplenium viride              @K   +   +   1   +   +   +   +   .   .   1   .   1   .   .
+Asplenium trichomanes         @K   +   .   .   +   .   .   +   .   +   +   +   .   +   +
+Moehringia muscosa            @K   +   .   +   +   .   +   .   .   .   +   +   .   .   +
+Cystopteris fragilis          @K   +   .   .   .   +   +   .   +   .   +   .   .   .   .
+Valeriana saxatilis           @K   +   .   .   .   +   .   .   .   +   +   .   .   .   .
+Gvmnocarpium robertianum      @K   .   .   .   .   .   .   .   .   1   1   +   .   .   .
+Valeriana tripteris           @K   .   +   +   .   .   .   .   .   .   .   .   .   .   r
+Campanula cochleariifolia     @K   .   .   .   .   .   .   .   .   +   +   .   .   .   .
+Polystichum lonchitis         @K   .   .   .   .   .   .   .   .   .   +   .   .   .   .
+
+
+Hepatica nobilis              @K   .   .   .   .   .   .   .   .   +   +   .   .   .   .
+
+
+Carex flacca                  @K   .   .   .   .   +   .   +   .   .   .   .   .   .   .
+
+
+Oxalis acetosella             @K   .   +   .   .   1   1   .   1   .   1   .   1   1   1
+Hedera helix                  @K   1   .   +   +   +   1   .   .   +   .   +   +   .   .
+Eupatorium cannabinum         @K   .   +   .   +   +   +   .   .   .   .   .   .   .   .
+Ajuga reptans                 @K   .   .   .   +   +   .   .   .   +   .   .   .   .   .
+Fragaria vesca                @K   .   .   .   .   +   +   .   .   .   .   +   .   .   .
+Knautia dipsacifolia          @K   .   .   .   .   .   +   .   .   .   .   .   .   +   +
+
+
+Ranunculus lanuginosus        @K   r   .   .   .   .   +   .   .   .   .   +   .   .   .
+Athyrium filix-femina         @K   .   .   +   .   .   .   +   .   .   .   .   .   .   .
+Gentiana aesclepiadea         @K   .   .   .   .   .   .   r   .   r   .   .   .   .   .
+Astrantia major               @K   .   .   .   .   .   .   .   .   .   .   .   .   +   +
+
+
+Urtica dioica                 @K   +   +   1   +   +   +   +   .   .   .   .   .   .   .
+Angelica sylvestris           @K   .   .   +   .   .   .   .   .   .   .   .   .   .   .
+Heracleum sphondylium         @K   .   .   .   +   .   .   .   .   .   .   .   .   .   .
+
+Saxifraga rotundifolia        @K   .   .   +   +   +   +   .   +   .   .   .   .   .   .
+Chaerophyllum hirsutum        @K   +   .   .   +   .   .   .   .   .   .   .   .   .   .
+
+
+Polypodium vulgare            @K   .   .   .   .   +   .   +   +   .   .   .   .   +   .
+
+
+Ctenidium molluscum           @M   2   2   2   1   2   1   1   2   2   .   2   2   2   2
+Eurhynchium striatum          @M   1   1   1   +   2   3   .   2   3   1   1   1   .   .
+Mnium undulatum               @M   .   1   .   1   2   1   2   .   .   1   .   1   .   1
+Thuidium tamariscinum         @M   1   .   1   .   2   1   .   1   .   2   2   .   1   .
+Rhytidiadelphus triquetrus    @M   1   1   +   1   .   .   .   3   1   +   .   .   .   1
+END TABLE
