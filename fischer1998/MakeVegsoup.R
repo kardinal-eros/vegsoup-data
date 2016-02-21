@@ -11,16 +11,24 @@ z <- read.csv2(file)
 zz <- read.csv(file.path(path, "translate.csv"), colClasses = "character")
 zz <- join(zz, z)
 
+#	read OCR table
 tab1 <- file.path(path, "Fischer1998Tab1.txt")
 tab2 <- file.path(path, "Fischer1998Tab2.txt")
 
 tab1 <- read.verbatim(tab1, colnames = "Aufnahmenummer", vertical = FALSE, layers = "@")
 tab2 <- read.verbatim(tab2, colnames = "Aufnahmenummer", vertical = FALSE, layers = "@")
 
+#	read location information including coordinates 
+loc1 <- file.path(path, "Fischer1998Tab1Locations.csv")
+loc2 <- file.path(path, "Fischer1998Tab2Locations.csv")
+
+loc1 <- stackSites(file = loc1, sep = "\t", dec = ".")
+loc2 <- stackSites(file = loc2, sep = "\t", dec = ".")
+
 x1 <- species(tab1)
 x2 <- species(tab2)
-y1 <- sites(tab1)
-y2 <- sites(tab2)
+y1 <- bind(sites(tab1), loc1)
+y2 <- bind(sites(tab2), loc2)
 
 #	translate taxon names
 species(x1) <- zz
@@ -38,7 +46,7 @@ rownames(X2) <- paste(key, "Tab2", sprintf("%02d", as.numeric(rownames(X2))), se
 obj <- bind(X1, X2)
 
 #	gromme names
-names(obj) <- c("pls", "tcov", "hcov", "scov", "expo", "slope", "elevation", "mcov")
+names(obj) <- c("accuracy", "pls", "tcov", "hcov", "scov", "expo", "slope", "locality", "elevation", "mcov")
 
 #	order layer
 obj <- layers(obj, collapse = c("tl", "hl", "ml", "sl"))
