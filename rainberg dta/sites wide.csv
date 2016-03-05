@@ -1,4 +1,12 @@
 plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;soil;date;latitude;longitude;accuracy;alliance;alliance.author;association;comment;location;observer
-rb01;95;60;50;35;80;7;22;14;5;0,7;0,2;16;16;F;0;15;0;0;2014-06-21;47.794638N;13.036393E;10;Carpinion betuli;Issler 1931;;am Gipfel des Rainberges, dort signifikante Barstellen mit Moosen ;Rainberg;R. Kaiser
-rb02;97;50;50;45;70;10;10;7;5;0,5;0,2;25;10;S;50;35;0;0;2014-06-21;47.794689N;13.036791E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;entlang der Felskerbe (ehemaliger Weg);Rainberg;R. Kaiser
-rb03;90;45;75;60;70;10;15;12;4;0,5;0,2;10;25;NW;20;20;0;0;2014-06-21;47.795182N;13.035768E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;auschließlich südl. des Pfades in Richtung zur Felskante;Rainberg;R. Kaiser
+rb01;95;60;50;35;80;7;22;14;5;0,7;0,2;16;16;F;0;15;0;0;2014-06-21;47.794638N;13.036393E;10;Carpinion betuli;Issler 1931;;am Gipfel des Rainberges, dort signifikante Barstellen mit Moosen ;Rainberg, Gipfel;R. Kaiser
+rb02;97;50;50;45;70;10;10;7;5;0,5;0,2;25;10;S;50;35;0;0;2014-06-21;47.794689N;13.036791E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;entlang der Felskerbe (ehemaliger Weg);Rainberg, Gipfel;R. Kaiser
+rb03;90;45;75;60;70;10;15;12;4;0,5;0,2;10;25;NW;20;20;0;0;2014-06-21;47.795182N;13.035768E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;auschließlich südl. des Pfades in Richtung zur Felskante;Rainberg, Gipfel;R. Kaiser
+rbx01;;;;;;;;;;;;;;;;;;;2016-03-04;47.796944N;13.032797E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
+rbx02;;;;;;;;;;;;;;;;;;;2016-03-04;47.796217N;13.032672E;10;Tilio-Acerion;;;;Rainberg, Westhang;R. Kaiser
+rbx03;;;;;;;;;;;;;;;;;;;2016-03-04;47.795928N;13.032767E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
+rbx04;;;;;;;;;;;;;;;;;;;2016-03-04;47.795636N;13.032917E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
+rbx05;;;;;;;;;;;;;;;;;;;2016-03-04;47.795211N;13.032883E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
+rbx06;;;;;;;;;;;;;;;;;;;2016-03-04;47.796561N;13.033283E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
+rbx07;;;;;;;;;;;;;;;;;;;2016-03-04;47.796472N;13.032956E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
+rbx08;;;;;;;;;;;;;;;;;;;2016-03-04;47.796900N;13.033017E;10;Carpinion betuli;;;;Rainberg, Westhang;R. Kaiser
