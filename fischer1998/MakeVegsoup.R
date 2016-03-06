@@ -38,6 +38,10 @@ species(x2) <- zz
 X1 <- Vegsoup(x1, y1, z, "braun.blanquet2")
 X2 <- Vegsoup(x2, y2, z, "braun.blanquet2")
 
+#	add syntaxa
+X1$association <- "Arunco-Aceretum"
+X2$association <- "Phyllitido-Aceretum"
+
 #	unique rownames
 rownames(X1) <- paste(key, "Tab1", sprintf("%02d", as.numeric(rownames(X1))), sep = ":")
 rownames(X2) <- paste(key, "Tab2", sprintf("%02d", as.numeric(rownames(X2))), sep = ":")
@@ -45,8 +49,8 @@ rownames(X2) <- paste(key, "Tab2", sprintf("%02d", as.numeric(rownames(X2))), se
 #	bind objects
 obj <- bind(X1, X2)
 
-#	gromme names
-names(obj) <- c("accuracy", "pls", "tcov", "hcov", "scov", "expo", "slope", "locality", "elevation", "mcov")
+#	groome names
+names(obj) <- c("accuracy", "association", "pls", "tcov", "hcov", "scov", "expo", "slope", "locality", "elevation", "mcov")
 
 #	order layer
 obj <- layers(obj, collapse = c("tl", "hl", "ml", "sl"))
