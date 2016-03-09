@@ -169,7 +169,7 @@ Carduus defloratus ssp. viridis                    ....+.1
 Clinopodium alpinum ssp. alpinum                   ....+.+
 Galium lucidum                                     ....+.r
 Melica ciliata s.str.                              ....+.+
-Potentilla pusilla                                 ....+.+
+Potentilla neumanniana                             ....+.+
 Sedum album                                        ....+.+
 Silene nutans ssp. nutans                          ....r..
 Teucrium montanum                                  ....+.+
