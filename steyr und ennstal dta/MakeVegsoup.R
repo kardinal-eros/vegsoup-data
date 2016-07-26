@@ -8,7 +8,6 @@ file <- file.path(path, "species.csv")
 #	promote to class "Species"
 X <- species(file, sep = ",")[, 1:4]
 
-
 file <- file.path(path, "sites wide.csv")
 #	promote to class "Sites"
 Y <- stackSites(file = file)
@@ -40,5 +39,6 @@ if (FALSE) {
 	sep = "", add.lines = TRUE)
 	KML(obj)
 }
+
 #	tidy up
 rm(list = ls()[-grep(key, ls())])
