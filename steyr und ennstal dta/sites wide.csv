@@ -69,9 +69,12 @@ sey15;2015-07-24;95;35;35;50;80;15;13;9;4;0,9;0,1;16;16;SE;60;35;0;0;47.922597;1
 sey16;2015-07-24;95;60;75;5;50;70;18;15;4;0,5;0,2;16;16;N;55;80;0;0;47.922835;14.420211;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
 sey17;2015-07-24;97;95;10;5;30;5;24;16;4;0,7;0,25;16;16;NE;35;0;0;5;47.924820;14.421380;10;;Moder-Rendzina, Mull-Rendzina;Klausgraben;mächtige Moderrendzina über tiefgründig verwittertem Felshang;Fagion sylvaticae;;R. Kaiser & T. Eberl
 sey18;2015-07-24;99;20;90;3;70;70;20;14;5,5;0,5;0,15;16;16;E;55;90;0;0;47.923792;14.422307;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sez01;2016-05-07;;;;;;;;;;;;;;;;;;;47.922909;14.413260;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sez02;2016-05-07;;;;;;;;;;;;;;;;;;;47.924830;14.414132;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sez03;2016-05-07;;;;;;;;;;;;;;;;;;;47.926402;14.413053;20;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sez04;2016-05-28;;;;;;;;;;;;;;;;;;;47.914026;14.318941;20;;;Schreibachfall;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sez05;2016-05-28;;;;;;;;;;;;;;;;;;;47.913595;14.320143;20;;;Schreibachfall;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sez06;2016-05-28;;;;;;;;;;;;;;;;;;;47.914650;14.322879;20;;;Schreibachfall;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sez01;2016-05-07;70;25;45;40;15;60;11;8;4;0,4;0,2;16;16;S;70;100;0;0;47.922909;14.413260;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sez02;2016-05-07;90;25;65;25;40;45;17;13;2,5;0,6;0,15;16;16;W;70;100;0;0;47.924830;14.414132;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sez03;2016-05-07;90;25;60;35;80;15;11;8;3;0,6;0,25;10;25;NE;35;20;0;0;47.926402;14.413053;20;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sez04;2016-05-28;97;65;45;10;15;30;26;15;4;0,4;0,2;16;16;SW;30;0;0;100;47.914026;14.318941;20;;;Schreibachfall;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sez05;2016-05-28;97;35;20;20;95;10;11;7;2,5;0,7;0,25;25;10;S;20;5;0;0;47.913595;14.320143;20;;;Schreibachfall;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sez06;2016-05-28;97;80;10;5;70;30;19;10;4,5;0,6;0,2;16;16;S;35;20;0;0;47.914650;14.322879;20;;;Schreibachfall;;Tilenion platyphylli;;R. Kaiser & T. Eberl
+sea01;2016-07-18;85;30;25;5;75;10;13;9;2,5;0,8;0,2;16;16;S;50;25;0;0;47.887752;14.363586;10;;;Rehkogel;;;;
+sea02;2016-07-18;100;45;25;10;97;5;27;13;3;1;0,25;16;16;S;35;0;0;0;47.886810;14.367931;10;;;Rehkogel;;;;
+sea03;2016-07-20;70;35;20;50;20;10;14;9;3,5;0,6;0,1;16;16;S;70;100;0;0;47.901264;14.301845;10;;;Schwalbensteinmauer;;;;
