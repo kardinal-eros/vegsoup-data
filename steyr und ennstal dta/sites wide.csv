@@ -33,40 +33,40 @@ se31;2014-10-09;85;45;60;2;55;5;14;9;4;0,3;0,15;16;16;S;60;35;0;0;47.908751N;14.
 se32;2014-10-09;85;75;15;1;40;1;18;12;4;0,6;0,25;16;16;S;35;0;0;60;47.907417N;14.280971E;10;;Skeletthumusboden;Dürres Eck/Gaisberg;;Tilenion platyphylli;Sorbo ariae-Aceretum pseudoplatani Moor 1952;R. Kaiser
 se33;2014-10-09;85;25;50;25;50;25;16;9;4;1;0,1;16;16;S;80;50;0;0;47.905633N;14.276972E;10;;Mull-Rendzina;Dürres Eck/Gaisberg;im unteren Teil der Felsstufe;Tilenion platyphylli;Aceri-Tilietum platyphylli Faber 1936 s.l. -seslerietosum prov.;R. Kaiser & T. Eberl
 sea01;2016-07-18;85;30;25;5;75;10;13;9;2,5;0,8;0,2;16;16;S;50;25;0;0;47.887752;14.363586;10;;;Rehkogel;;Tilenion platyphylli;;
-sea02;2016-07-18;100;45;25;10;97;5;27;13;3;1;0,25;16;16;S;35;0;0;0;47.886810;14.367931;10;;;Rehkogel;;Lunario-Acerenion platyphylli;;
+sea02;2016-07-18;100;45;25;10;97;5;27;13;3;1;0,25;16;16;S;35;0;0;0;47.886810;14.367931;10;;;Rehkogel;;Lunario-Acerenion pseudoplatani;;
 sea03;2016-07-20;70;35;20;50;20;10;14;9;3,5;0,6;0,1;16;16;S;70;100;0;0;47.901264;14.301845;10;;;Schwalbensteinmauer;;Tilenion platyphylli;;
 sex01;2015-07-14;90;40;45;45;80;15;16;12;4;0,8;0,1;16;16;S;70;3;0;0;47.914212;14.206395;10;;;Rinnerbergerbach;;Tilenion platyphylli;;R. Kaiser & T. Eberl
 sex02;2015-07-14;97;60;50;60;80;15;18;14;6;0,8;0,3;16;16;S;60;25;0;0;47.911138;14.202727;10;;Rendzina;Rinnerbergerbach;;Tilenion platyphylli;;R. Kaiser
 sex03;2015-07-14;90;35;25;45;70;15;18;12;4;0,5;0,3;16;16;S;75;30;0;0;47.908676;14.200076;10;;Rendzina;Rinnerbergerbach;;Tilenion platyphylli;;R. Kaiser
-sex04;2015-07-15;100;70;25;15;70;90;26;14;3;0,9;0,25;16;16;E;30;0;0;100;47.912989;14.205072;10;;Mull-Rendzina;Rinnerbergerbach;Blockhalde mit großen Sturzblöcken;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex05;2015-07-15;100;90;20;3;100;10;27;19;4;1,2;0,15;16;16;NE;35;0;0;100;47.911712;14.217635;10;;;Rinnerbergerbach;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sex04;2015-07-15;100;70;25;15;70;90;26;14;3;0,9;0,25;16;16;E;30;0;0;100;47.912989;14.205072;10;;Mull-Rendzina;Rinnerbergerbach;Blockhalde mit großen Sturzblöcken;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex05;2015-07-15;100;90;20;3;100;10;27;19;4;1,2;0,15;16;16;NE;35;0;0;100;47.911712;14.217635;10;;;Rinnerbergerbach;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sex06;2015-07-15;90;45;20;10;70;5;14;9;3;0,8;0,2;10;25;SE;55;25;0;0;47.911120;14.217765;10;;Moder-Rendzina, Mull-Rendzina;Rinnerbergerbach;entlang Felsrücken;Tilenion platyphylli;;R. Kaiser
-sex07;2015-07-16;97;85;35;0;3;5;28;19;0;0,2;0,1;16;16;N;40;0;0;100;47.820094;14.102634;10;;;Rieser- und Reilerschneid;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex08;2015-07-16;85;45;30;3;60;3;26;16;4;1;0,1;16;16;NE;40;0;0;100;47.820709;14.100280;10;;;Rieser- und Reilerschneid;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sex07;2015-07-16;97;85;35;0;3;5;28;19;0;0,2;0,1;16;16;N;40;0;0;100;47.820094;14.102634;10;;;Rieser- und Reilerschneid;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex08;2015-07-16;85;45;30;3;60;3;26;16;4;1;0,1;16;16;NE;40;0;0;100;47.820709;14.100280;10;;;Rieser- und Reilerschneid;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sex09;2015-07-16;95;90;10;1;8;15;29;15;3;0,6;0,1;16;16;E;30;0;0;100;47.821859;14.100642;10;;;Rieser- und Reilerschneid;;Lonicero alpigenae Fagenion;;T. Eberl
-sex10;2015-07-16;100;40;10;25;90;25;25;10;5;0,9;0,3;16;16;NE;25;0;0;100;47.822200;14.101796;10;;;Rieser- und Reilerschneid;Blockwerk mit mächtiger Humusauflage;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex11;2015-07-16;95;75;10;1;80;3;23;8;1;0,6;0,25;25;10;NE;30;0;0;100;47.82551;14.10101;10;;;Rieser- und Reilerschneid;Wimpernwald unterhalb Felshang;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex12;2015-07-16;97;30;80;0;45;5;29;24;0;0,4;0,15;16;16;N;20;0;0;20;47.820715;14.102736;10;;lehmige Renzina;Rieser- und Reilerschneid;Feinsubstratüberdeckung an Hangschutt, wenig bis keine Schuttnachfuhr;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex13;2015-07-17;100;35;10;5;100;1;32;13;2,5;1,1;0,4;16;16;NE;15;0;0;0;47.86805;13.89500;10;;;Zwillingskogel;;Lunario-Acerenion platyphylli;;R. Kaiser
-sex14;2015-07-17;97;30;70;3;35;1;36;26;3;0,8;0,1;16;16;NE;35;0;0;20;47.867765;13.893883;10;;;Zwillingskogel;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex15;2015-07-17;95;60;45;10;20;1;35;26;4,5;0,7;0,1;16;16;NE;30;0;0;30;47.868608;13.892587;10;;;Zwillingskogel;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex16;2015-07-17;90;35;60;1;80;0;27;21;4,5;1;0,3;16;16;NE;25;0;0;100;47.86940;13.89222;10;;;Zwillingskogel;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sex17;2015-07-17;95;80;20;0;7;0;25;16;0;0,5;0,15;16;16;NE;30;0;0;100;47.873330;13.889560;20;;;Zwillingskogel;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sex10;2015-07-16;100;40;10;25;90;25;25;10;5;0,9;0,3;16;16;NE;25;0;0;100;47.822200;14.101796;10;;;Rieser- und Reilerschneid;Blockwerk mit mächtiger Humusauflage;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex11;2015-07-16;95;75;10;1;80;3;23;8;1;0,6;0,25;25;10;NE;30;0;0;100;47.82551;14.10101;10;;;Rieser- und Reilerschneid;Wimpernwald unterhalb Felshang;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex12;2015-07-16;97;30;80;0;45;5;29;24;0;0,4;0,15;16;16;N;20;0;0;20;47.820715;14.102736;10;;lehmige Renzina;Rieser- und Reilerschneid;Feinsubstratüberdeckung an Hangschutt, wenig bis keine Schuttnachfuhr;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex13;2015-07-17;100;35;10;5;100;1;32;13;2,5;1,1;0,4;16;16;NE;15;0;0;0;47.86805;13.89500;10;;;Zwillingskogel;;Lunario-Acerenion pseudoplatani;;R. Kaiser
+sex14;2015-07-17;97;30;70;3;35;1;36;26;3;0,8;0,1;16;16;NE;35;0;0;20;47.867765;13.893883;10;;;Zwillingskogel;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex15;2015-07-17;95;60;45;10;20;1;35;26;4,5;0,7;0,1;16;16;NE;30;0;0;30;47.868608;13.892587;10;;;Zwillingskogel;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex16;2015-07-17;90;35;60;1;80;0;27;21;4,5;1;0,3;16;16;NE;25;0;0;100;47.86940;13.89222;10;;;Zwillingskogel;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sex17;2015-07-17;95;80;20;0;7;0;25;16;0;0,5;0,15;16;16;NE;30;0;0;100;47.873330;13.889560;20;;;Zwillingskogel;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sex18;2015-07-17;95;60;40;2;80;1;25;18;2;1;0,3;16;16;NE;35;0;0;0;47.869248;13.891645;10;;;Zwillingskogel;oberhalb Wegkehre;Lonicero alpigenae Fagenion;;R. Kaiser & T. Eberl
-sex19;2015-07-17;90;30;35;8;35;1;20;12;4;0,9;0,1;16;16;NE;35;0;0;100;47.865645;13.899035;10;;;Zwillingskogel;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sex19;2015-07-17;90;30;35;8;35;1;20;12;4;0,9;0,1;16;16;NE;35;0;0;100;47.865645;13.899035;10;;;Zwillingskogel;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sey01;2015-07-21;99;20;80;7;40;60;25;15;4;1;0,25;16;16;S;35;0;0;100;47.917971;14.273842;10;;;Dorngraben;Blockhalde an Rücken;Tilenion platyphylli;;R. Kaiser & T. Eberl
 sey02;2015-07-21;80;15;55;7;25;25;14;10;4;0,8;0,2;10;25;S;60;90;0;0;47.918136;14.273863;10;;;Dorngraben;entlang Rücken;Tilenion platyphylli;;R. Kaiser
-sey03;2015-07-21;95;55;80;15;75;55;26;17;5;0,9;0,1;16;16;S;30;0;0;100;47.917861;14.275292;10;;;Dorngraben;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sey03;2015-07-21;95;55;80;15;75;55;26;17;5;0,9;0,1;16;16;S;30;0;0;100;47.917861;14.275292;10;;;Dorngraben;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sey04;2015-07-21;99;90;10;1;20;2;29;18;2;0,8;0,3;16;16;SW;30;5;0;0;47.918267;14.276324;10;;;Dorngraben;;Fagion sylvaticae;;R. Kaiser & T. Eberl
 sey05;2015-07-21;90;80;10;10;30;25;15;9;3,5;0,6;0,15;16;16;S;50;70;0;10;47.918335;14.277707;10;;;Dorngraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
-sey06;2015-07-22;85;55;20;3;50;10;30;20;3,5;0,8;0,1;25;10;NE;30;0;0;100;47.839185;14.546006;10;;;Restental;hangparalell unterhalb Felshang;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sey07;2015-07-23;98;80;7;2;90;30;31;19;4;0,9;0,1;10;25;N;10;0;0;10;47.839717;14.548098;10;;;Restental;in Fallinie auf übererdetem Bachgeschiebe;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sey08;2015-07-23;90;90;2;1;5;1;35;15;3;0,6;0,15;16;16;SW;35;0;0;100;47.842064;14.547841;10;;;Restental;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sey09;2015-07-23;96;35;80;15;15;5;24;18;4;0,8;0,1;16;16;N;40;0;0;25;47.927011;14.408328;10;;;Klausgraben;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
-sey10;2015-07-23;99;60;35;35;80;65;32;18;5;1,2;0,15;16;16;N;35;0;0;90;47.927547;14.410084;10;;;Klausgraben;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sey06;2015-07-22;85;55;20;3;50;10;30;20;3,5;0,8;0,1;25;10;NE;30;0;0;100;47.839185;14.546006;10;;;Restental;hangparalell unterhalb Felshang;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sey07;2015-07-23;98;80;7;2;90;30;31;19;4;0,9;0,1;10;25;N;10;0;0;10;47.839717;14.548098;10;;;Restental;in Fallinie auf übererdetem Bachgeschiebe;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sey08;2015-07-23;90;90;2;1;5;1;35;15;3;0,6;0,15;16;16;SW;35;0;0;100;47.842064;14.547841;10;;;Restental;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sey09;2015-07-23;96;35;80;15;15;5;24;18;4;0,8;0,1;16;16;N;40;0;0;25;47.927011;14.408328;10;;;Klausgraben;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
+sey10;2015-07-23;99;60;35;35;80;65;32;18;5;1,2;0,15;16;16;N;35;0;0;90;47.927547;14.410084;10;;;Klausgraben;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sey11;2015-07-23;90;0;75;10;40;30;0;9;4;0,4;0,15;16;16;N;70;60;0;0;47.927193;14.413419;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser
 sey12;2015-07-24;90;50;45;30;45;45;13;9;5;0,6;0,15;16;16;S;70;95;0;0;47.922578;14.417181;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser
-sey13;2015-07-24;97;80;25;2;85;90;30;15;5;0,8;0,3;16;16;S;35;0;0;100;47.922486;14.417689;10;;;Klausgraben;;Lunario-Acerenion platyphylli;;R. Kaiser & T. Eberl
+sey13;2015-07-24;97;80;25;2;85;90;30;15;5;0,8;0,3;16;16;S;35;0;0;100;47.922486;14.417689;10;;;Klausgraben;;Lunario-Acerenion pseudoplatani;;R. Kaiser & T. Eberl
 sey14;2015-07-24;95;30;80;30;75;15;13;10;4;0,6;0,2;25;10;S;55;30;0;0;47.922358;14.420339;10;;;Klausgraben;hangparallel an Hangleiste zwischen Felsstufen;Tilenion platyphylli;;R. Kaiser & T. Eberl
 sey15;2015-07-24;95;35;35;50;80;15;13;9;4;0,9;0,1;16;16;SE;60;35;0;0;47.922597;14.418939;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
 sey16;2015-07-24;95;60;75;5;50;70;18;15;4;0,5;0,2;16;16;N;55;80;0;0;47.922835;14.420211;10;;;Klausgraben;;Tilenion platyphylli;;R. Kaiser & T. Eberl
