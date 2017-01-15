@@ -5,29 +5,29 @@ ws03;80;0;0;0;80;20;0;0;0;0,6;0,15;1;2;SW;35;20;1;0;2009-04-29;;Rendzina;Falkens
 ws04;75;0;0;0;75;3;0;0;2,5;0,7;0,3;4;5;S;85;35;0;0;2009-04-29;;Rendzina;Hochwand;47.757401N;13.417807E;20;880;Berberidion;Br.-Bl. ex Tx. 1952;R. Kaiser & T. Eberl;
 ws05;90;0;0;0;90;1;0;0;2,5;0,7;0,2;2;5;SW;85;10;0;0;2009-04-29;;Rendzina;Falkensteinwand;47.758408N;13.395330E;20;540;Berberidion;Br.-Bl. ex Tx. 1952;R. Kaiser & T. Eberl;
 ws06;90;0;0;3;90;2;0;0;0;0,6;0,25;4;5;SE;75;10;0;0;2009-05-03;;Rendzina;Plombergstein;47.777211N;13.360779E;20;720;Berberidion;Br.-Bl. ex Tx. 1952;T. Eberl;bei Standplatz 2. Seillänge der Tour Juniperus
-ws07;90;45;60;60;70;20;20;10;10;0,5;0,3;16;16;W;55;30;0;0;2014-06-22;am oberen NE Eck 1 mehrstämmige S. aria ;Rendzina;Falkensteinwand;47.758635N;13.395110E;20;;Tilio-Acerion;Klika 1955;R. Kaiser;
+ws07;90;45;60;60;70;20;20;10;10;0,5;0,3;16;16;W;55;30;0;0;2014-06-22;am oberen NE Eck 1 mehrstämmige S. aria ;Rendzina;Falkensteinwand;47.758635N;13.395110E;20;;Tilenion platyphylli;;R. Kaiser;
 ws08;95;30;40;30;85;10;12;6;3;0,7;0,3;16;16;SW;50;1;0;0;2014-06-22;unterhalb des Pfades;Rohumus-Rendzina;Falkensteinwand;47.758602N;13.395365E;10;;Cephalanthero Fagenion;Tx. & Oberd. 1958;R. Kaiser;
 ws09;95;55;40;40;90;2;12;8;4;0,9;0,3;16;16;S;30;5;0;0;2014-06-22;in der Mitte ein großer Freibereich;Rendzina;Fürberg;47.759643N;13.391328E;20;;Cephalanthero Fagenion;Tx. & Oberd. 1958;R. Kaiser;
-ws10;97;35;40;25;85;7;14;10;4,5;0,8;0,2;16;16;SE;50;2;0;0;2014-08-10;;Rohumus-Rendzina;Fürberg;47.758834N;13.392712E;10;;Fagion sylvaticae;Luquet 1926;R. Kaiser;
-ws11;95;35;40;80;45;5;13;9;6;0,7;0,2;10;25;S;65;50;0;0;2014-08-10;;Mull-Rendzina;Bucht W Falkensteinwand;47.758130N;13.398586E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;rope betray (wsx2-3'): 47.758251N,13.398779E, rope range (wsx2-3'' ±100m): 47.757841N,13.398364E
-ws12;95;40;45;80;45;5;13;10;6;0,7;0,2;10;25;S;60;55;0;0;2014-08-10;;Mull-Rendzina;Falkensteinwand;47.757948N;13.398468E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;rope betray (wsx2-3'): 47.758251N,13.398779E, rope range (wsx2-3'' ±100m): 47.757841N,13.398364E
+ws10;97;35;40;25;85;7;14;10;4,5;0,8;0,2;16;16;SE;50;2;0;0;2014-08-10;;Rohumus-Rendzina;Fürberg;47.758834N;13.392712E;10;;Cephalanthero Fagenion;Tx. & Oberd. 1958;R. Kaiser;
+ws11;95;35;40;80;45;5;13;9;6;0,7;0,2;10;25;S;65;50;0;0;2014-08-10;;Mull-Rendzina;Bucht W Falkensteinwand;47.758130N;13.398586E;10;;Tilenion platyphylli;;R. Kaiser;rope betray (wsx2-3'): 47.758251N,13.398779E, rope range (wsx2-3'' ±100m): 47.757841N,13.398364E
+ws12;95;40;45;80;45;5;13;10;6;0,7;0,2;10;25;S;60;55;0;0;2014-08-10;;Mull-Rendzina;Falkensteinwand;47.757948N;13.398468E;10;;Tilenion platyphylli;;R. Kaiser;rope betray (wsx2-3'): 47.758251N,13.398779E, rope range (wsx2-3'' ±100m): 47.757841N,13.398364E
 ws13;80;0;7;15;65;7;0;7;4;0,8;0,25;8;8;S;30;40;0;0;2014-08-10;starker Wildverbiss;Rendzina;Falkensteinwand;47.758417N;13.398614E;10;;Seslerion coeruleae;Br.-Bl. in Br.-Bl. & Jenny 1926;R. Kaiser;
-ws14;97;30;60;80;80;2;10;6;4;0,6;0,2;16;16;S;50;25;0;0;2014-10-10;unterer Teil des Felshanges;Mull-Rendzina;Bürgelstein;47.724231N;13.478160E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
-ws15;95;15;70;75;80;5;10;7;5;0,7;0,3;10;25;S;70;20;0;0;2014-10-10;an der Felskante;Mull-Rendzina;Bürgelstein;47.724360N;13.477587E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
-ws16;93;30;70;70;75;5;13;9;5;0,6;0,3;16;16;S;55;10;0;0;2014-10-10;;Mull-Rendzina;Bürgelstein;47.724209N;13.477276E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
-ws17;97;25;80;75;90;2;15;13;5;0,8;0,3;16;16;S;60;5;0;0;2014-10-10;leichte Rinne;Mull-Rendzina;Bürgelstein;47.724296N;13.476989E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
-ws18;95;45;80;80;85;10;13;10;5;0,8;0,3;16;16;S;70;15;0;0;2014-10-10;;Mull-Rendzina;Bürgelstein;47.724291N;13.476982E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
-ws19;95;25;70;70;60;20;18;13;5;0,8;0,25;16;16;SW;70;30;0;0;2014-11-11;Fels oberhalb Promenade;Mull-Rendzina;Brunnwinkel;47.769865N;13.382808E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
-ws20;90;40;55;65;65;10;18;15;4;0,7;0,25;25;10;SW;65;20;0;0;2014-11-11;Fels oberhalb Promenade;Mull-Rendzina;Brunnwinkel;47.770888N;13.379534E;10;;Tilio-Acerion;Klika 1955;R. Kaiser;
+ws14;97;30;60;80;80;2;10;6;4;0,6;0,2;16;16;S;50;25;0;0;2014-10-10;unterer Teil des Felshanges;Mull-Rendzina;Bürgelstein;47.724231N;13.478160E;10;;Tilenion platyphylli;;R. Kaiser;
+ws15;95;15;70;75;80;5;10;7;5;0,7;0,3;10;25;S;70;20;0;0;2014-10-10;an der Felskante;Mull-Rendzina;Bürgelstein;47.724360N;13.477587E;10;;Tilenion platyphylli;;R. Kaiser;
+ws16;93;30;70;70;75;5;13;9;5;0,6;0,3;16;16;S;55;10;0;0;2014-10-10;;Mull-Rendzina;Bürgelstein;47.724209N;13.477276E;10;;Tilenion platyphylli;;R. Kaiser;
+ws17;97;25;80;75;90;2;15;13;5;0,8;0,3;16;16;S;60;5;0;0;2014-10-10;leichte Rinne;Mull-Rendzina;Bürgelstein;47.724296N;13.476989E;10;;Tilenion platyphylli;;R. Kaiser;
+ws18;95;45;80;80;85;10;13;10;5;0,8;0,3;16;16;S;70;15;0;0;2014-10-10;;Mull-Rendzina;Bürgelstein;47.724291N;13.476982E;10;;Tilenion platyphylli;;R. Kaiser;
+ws19;95;25;70;70;60;20;18;13;5;0,8;0,25;16;16;SW;70;30;0;0;2014-11-11;Fels oberhalb Promenade;Mull-Rendzina;Brunnwinkel;47.769865N;13.382808E;10;;Tilenion platyphylli;;R. Kaiser;
+ws20;90;40;55;65;65;10;18;15;4;0,7;0,25;25;10;SW;65;20;0;0;2014-11-11;Fels oberhalb Promenade;Mull-Rendzina;Brunnwinkel;47.770888N;13.379534E;10;;Tilenion platyphylli;;R. Kaiser;
 ws21;99;0;5;65;99;1;0;6;3;1;0,4;13;5;S;35;0;0;0;2015-06-03;Felsband SW Inschrift;Mull-Rendzina;Falkensteinwand;47.758040;13.396480;10;;Berberidion;;;
-ws22;70;0;20;25;60;5;0;7;4,5;0,6;0,15;16;16;S;30;40;0;0;2015-06-03;Felskopf unterhalb Inschrisft;Rendzina;Falkensteinwand;47.758020;13.396330;10;;Tilio-Acerion;;;
+ws22;70;0;20;25;60;5;0;7;4,5;0,6;0,15;16;16;S;30;40;0;0;2015-06-03;Felskopf unterhalb Inschrisft;Rendzina;Falkensteinwand;47.758020;13.396330;10;;Tilenion platyphylli;;;
 ws23;60;12;20;50;5;5;9;6;3;0,8;0,2;10;25;S;70;40;0;0;2015-06-03;Uferfels SW Hochzeitskreuz;Rendzina;Hochzeitskreuz;47.75969;13.39107;10;;Cephalanthero Fagenion;;;
 ws24;85;15;10;50;80;5;8;6;3;0,6;0,3;16;16;W;65;25;0;0;2015-06-03;Uferfels SW Ochsenkreuz;Rendzina;Ochsenkreuz;47.762250;13.387120;10;;Cephalanthero Fagenion;;;
 ws25;95;70;30;60;80;3;12;8;6;0,9;0,2;16;16;W;40;5;0;0;2015-06-03;Felskante und Oberhang des Uferfelsens SW Ochsenkreuz;Rendzina;Ochsenkreuz;47.761953;13.387532;10;;Cephalanthero Fagenion;;;
-ws26;80;50;40;20;20;30;21;9;5;0,8;0,2;16;16;S;75;90;0;0;2015-06-04;Felshang E Felskopf südl. der Falkensteinwand;Mull-Rendzina;Falkensteinwand;47.756330;13.402670;10;;Tilio-Acerion;;R. Kaiser;
-ws27;97;30;80;20;15;25;24;12;4;0,5;0,15;16;16;S;70;60;0;0;2015-06-04;Felshang E Felskopf südl. der Falkensteinwand;Mull-Rendzina;Falkensteinwand;47.756430;13.402880;10;;Tilio-Acerion;;R. Kaiser;
-ws28;95;40;80;20;10;5;13;10;5;0,5;0,2;25;10;S;60;35;0;0;2015-06-04;entlang Felskante des Felshanges E Felskopf südl. der Falkensteinwand;Mull-Rendzina;Falkensteinwand;47.756460;13.402640;10;;Tilio-Acerion;;R. Kaiser;
-ws29;60;0;20;20;30;2;0;10;4;0,8;0,15;16;16;S;70;60;0;0;2015-06-04;Feslkopf S Falkensteinwand;Rendzina;Falkensteinwand;47.756400;13.402220;10;;Berberidion;;R. Kaiser;
+ws26;80;50;40;20;20;30;21;9;5;0,8;0,2;16;16;S;75;90;0;0;2015-06-04;Felshang E Felskopf südl. der Falkensteinwand;Mull-Rendzina;Falkensteinwand;47.756330;13.402670;10;;Tilenion platyphylli;;R. Kaiser;
+ws27;97;30;80;20;15;25;24;12;4;0,5;0,15;16;16;S;70;60;0;0;2015-06-04;Felshang E Felskopf südl. der Falkensteinwand;Mull-Rendzina;Falkensteinwand;47.756430;13.402880;10;;Tilenion platyphylli;;R. Kaiser;
+ws28;95;40;80;20;10;5;13;10;5;0,5;0,2;25;10;S;60;35;0;0;2015-06-04;entlang Felskante des Felshanges E Felskopf südl. der Falkensteinwand;Mull-Rendzina;Falkensteinwand;47.756460;13.402640;10;;Tilenion platyphylli;;R. Kaiser;
+ws29;60;0;20;20;30;2;0;10;4;0,8;0,15;16;16;S;70;60;0;0;2015-06-04;Felskopf S Falkensteinwand;Rendzina;Falkensteinwand;47.756400;13.402220;10;;Tilenion platyphylli;;R. Kaiser;
 ws30;95;50;60;3;15;1;28;16;4;0,5;0,15;16;16;SW;30;0;0;0;2015-06-04;unterhalb von Felswand im Wald SW Falkensteinwand;Rendzina;Falkensteinwand;47.756510;13.401580;10;;Cephalanthero Fagenion;;R. Kaiser;
 wsy1;;;;;;;;;;;;;;;;;;;2015-00-00;planned;;Ochsenkreuz;47.762112;13.387312;10;;;;;
 wsy0;;;;;;;;;;;;;;;;;;;2015-00-00;planned;;Fürberg;47.763894;13.389300;10;;;;;
