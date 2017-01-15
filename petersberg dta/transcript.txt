@@ -11,6 +11,19 @@ cov                                                9999999
 hcov                                               2137699
                                                    5055000
                                                           
+hhl1                                               0000000
+                                                   .......
+                                                   4378776
+                                                          
+hhl2                                                 0 00 
+                                                   00.0..0
+                                                   ..1.21.
+                                                   1152552
+                                                          
+hsl                                                   344 
+                                                      ... 
+                                                   3455553
+                                                          
 htl1                                               2222121
                                                    4654631
                                                           
@@ -49,6 +62,51 @@ richness                                           5445644
                                                           
 END HEAD
 BEGIN TABLE
+Fagus sylvatica                                tl1 2......
+Tilia × vulgaris (=T. cordata × platyphyllos)      3.3....
+Ulmus glabra                                       2......
+Tilia platyphyllos                                 .3.343.
+Fraxinus excelsior                                 ..222.2
+Sorbus aria s.str.                                 ..1....
+Acer platanoides                                   ...2.2.
+Quercus robur                                      ......3
+Abies alba                                     tl2 +......
+Acer pseudoplatanus                                +......
+Tilia × vulgaris (=T. cordata × platyphyllos)      2......
+Ulmus glabra                                       211....
+Acer platanoides                                   .+2111.
+Fraxinus excelsior                                 .12.121
+Taxus baccata                                      .1...2.
+Sorbus aria s.str.                                 ..21112
+Hedera helix                                       ...+1..
+Prunus avium s.lat.                                ...+...
+Tilia platyphyllos                                 ...2112
+Fagus sylvatica                                    ......2
+Quercus robur                                      ......2
+Acer platanoides                                sl +..1+2+
+Corylus avellana                                   1++.1++
+Euonymus latifolius                                +...11+
+Picea abies                                        +......
+Sambucus nigra                                     +r.....
+Tilia × vulgaris (=T. cordata × platyphyllos)      +......
+Ulmus glabra                                       22++.+.
+Berberis vulgaris                                  .r.....
+Fraxinus excelsior                                 .+..+2.
+Sorbus aria s.str.                                 .+++1++
+Taxus baccata                                      .+.....
+Tilia platyphyllos                                 .+.++..
+Rosa canina s.str.                                 ..rr++.
+Cornus sanguinea s.lat.                            ...++1+
+Crataegus monogyna                                 ...++++
+Ligustrum vulgare                                  ...++++
+Prunus avium s.lat.                                ...++++
+Euonymus europaeus                                 ....+..
+Lonicera xylosteum                                 ....++.
+Prunus spinosa                                     .....+.
+Fagus sylvatica                                    ......2
+Larix decidua                                      ......+
+Quercus robur                                      ......1
+Sorbus aucuparia ssp. aucuparia                    ......+
 Acer platanoides                                hl ++.+++1
 Acer pseudoplatanus                                +.....+
 Actaea spicata                                     r......
@@ -159,49 +217,4 @@ Picea abies                                        ......+
 Quercus robur                                      ......+
 Sorbus aucuparia ssp. aucuparia                    ......+
 Viola hirta                                        ......+
-Acer platanoides                                sl +..1+2+
-Corylus avellana                                   1++.1++
-Euonymus latifolius                                +...11+
-Picea abies                                        +......
-Sambucus nigra                                     +r.....
-Tilia × vulgaris (=T. cordata × platyphyllos)      +......
-Ulmus glabra                                       22++.+.
-Berberis vulgaris                                  .r.....
-Fraxinus excelsior                                 .+..+2.
-Sorbus aria s.str.                                 .+++1++
-Taxus baccata                                      .+.....
-Tilia platyphyllos                                 .+.++..
-Rosa canina s.str.                                 ..rr++.
-Cornus sanguinea s.lat.                            ...++1+
-Crataegus monogyna                                 ...++++
-Ligustrum vulgare                                  ...++++
-Prunus avium s.lat.                                ...++++
-Euonymus europaeus                                 ....+..
-Lonicera xylosteum                                 ....++.
-Prunus spinosa                                     .....+.
-Fagus sylvatica                                    ......2
-Larix decidua                                      ......+
-Quercus robur                                      ......1
-Sorbus aucuparia ssp. aucuparia                    ......+
-Fagus sylvatica                                tl1 2......
-Tilia × vulgaris (=T. cordata × platyphyllos)      3.3....
-Ulmus glabra                                       2......
-Tilia platyphyllos                                 .3.343.
-Fraxinus excelsior                                 ..222.2
-Sorbus aria s.str.                                 ..1....
-Acer platanoides                                   ...2.2.
-Quercus robur                                      ......3
-Abies alba                                     tl2 +......
-Acer pseudoplatanus                                +......
-Tilia × vulgaris (=T. cordata × platyphyllos)      2......
-Ulmus glabra                                       211....
-Acer platanoides                                   .+2111.
-Fraxinus excelsior                                 .12.121
-Taxus baccata                                      .1...2.
-Sorbus aria s.str.                                 ..21112
-Hedera helix                                       ...+1..
-Prunus avium s.lat.                                ...+...
-Tilia platyphyllos                                 ...2112
-Fagus sylvatica                                    ......2
-Quercus robur                                      ......2
 END TABLE
