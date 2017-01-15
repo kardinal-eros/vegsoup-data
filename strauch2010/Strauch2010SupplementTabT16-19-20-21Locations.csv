@@ -1,44 +1,44 @@
 plot	date	location	xyztms	syntaxon	code	expo	slope.str	slope	pls	plsx	plsy
 186	1996-04-28 & 1996-07-23	Hallenartiger Wald südlich der Straße nach Straßham, Gde. Wilhering	x=8836&y=5673&z=14,x=8836&y=5674&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	E	1-3	0	300	17	17
-191	1995-01-01	Leitenwald 700m SE von Sinnersdorf / Weißkirchen	x=8836&y=5683&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	NNW	30	0	300	17	17
-487	2003-06-07	500m SE vom Bahnhof Nettingsdorf, Neuhofen, NW-exponierte Leiten zum Kremstal	x=17682&s=&y=11364&z=15	Corydalio-Aceretum Moor 1938, tilietosum	T1601	SE	30	0	300	17	17
-975	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	W	15-30	0	400	20	20
-968	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	ESE	40-45	0	300	17	17
-970	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	ESE	30-40	0	400	20	20
-976	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	W	30-40	0	400	20	20
-488	2003-06-07	400m SSE vom Petersberger SW von Kremsdorf, Ansfelden SW-Hang eines Tobels	x=35366&s=&y=22727&z=16,x=35366&s=&y=22728&z=16	Corydalio-Aceretum Moor 1938, tilietosum	T1601	SW	30-40	0	300	17	17
-12	1997-06-21	Aschachtal NW von Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalio-Aceretum Moor 1938, tilietosum	T1601	NE	20-30	0	200	14	14
-845	2005-06-24	Hangwald bei Zell/Pram	x=8812&y=5673&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	NW	30-40	0	400	20	20
-79	1997-06-09	Am Simsenbergbach nahe der Fischzucht SSE von Hofkirchen i.T.	x=8846&y=5687&z=14,x=8847&y=5687&z=14	Corydalio-Aceretum Moor 1938, tilietosum	T1601	E	15-30	0	300	17	17
-14	1997-06-21	Unter der Straße an der Aschach W der Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalio-Aceretum Moor 1938, tilietosum	T1601	NE	5-10	0	200	14	14
-183	1997-06-06	Wasserloser Bach SE der Kläranlage nördlich von Gmunden	x=17640&s=&y=11398&z=15,x=35365&s=&y=22728&z=16	Corydalio-Aceretum Moor 1938, tilietosum	T1601	W	1-5	0	300	17	17
-85	1997-06-24	Wald am Oberdammbach 500m NNW von Kote 399, ca 2,5km W. von Laussa	x=17695&s=&y=11394&z=15,x=17696&s=&y=11394&z=15,x=17695&s=&y=11395&z=15,x=17696&s=&y=11395&z=15	Corydalio-Aceretum Moor 1938, tilietosum	T1601	E	5-20	0	200	14	14
-90	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalio-Aceretum Moor 1938, tilietosum	T1601	E	30-40	0	300	17	17
-489	2003-06-08	Wald 750m südlich von der Tillysburg, St.Florian	x=17696&s=&y=11364&z=15	Corydalio-Aceretum Moor 1938, tilietosum, Fazies von Carex pilosa	T160101	E	30	0	300	17	17
-89	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	N	30	0	300	17	17
-974	2005-05-31	Kremsleiten S von Kematen bei Bruck	x=35352&s=&y=22753&z=16	Corydalio-Aceretum Moor 1938, typicum	T1602	W	30	0	200	14	14
-507	1999-05-03	Hang an der Zellerache bei Autobahnabfahrt Mondsee, länglicher Bereich oberhalb des befestigten Ufers	x=17597&s=&y=11410&z=15,x=17598&s=&y=11410&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	E	1-10	0	400	20	20
-583	2004-07-15	N-exponierter Hang 1km östlich von Mühlheim/Inn, stark ruselnder, schottriger Unterhang	x=17588&s=&y=11351&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	N	45	0	200	14	14
-54	1996-05-14	Landschaftsschutzgebiet Fasanenau, Regau	x=17626&s=&y=11389&z=15,x=17626&s=&y=11390&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	F	0	0	400	20	20
-756	2005-07-19	Eschenau an Wangauer Ache E von Rehrlmoos Nähe Autobahn	x=17605&s=&y=11413&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14
-548	2000-05-03	Au bei Alkoven zwischen Aschach und Innbach	x=4416&y=2836&z=13,x=4416&y=2837&z=13	Corydalio-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14
-28	1997-05-26	Bachgehölz südlich des Naturschutzgebietes *Quellflur bei Grueb*, Gde. Tiefgraben	x=17594&s=&y=11407&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	F	0	0	300	17	17
-684	2004-07-15	Pranzlgraben NE von Molln (Aufn.: Prack)	x=8842&y=5702&z=14	Corydalio-Aceretum Moor 1938, typicum	T1602	S	30	0	200	14	14
-484	2003-05-28	Konglomerat-Schuttwald in Unterhang am Naturschutzgebiet Hobelsberg, Gde. Frankenburg	x=17607&s=&y=11383&z=15,x=17606&s=&y=11383&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	NNE	20	0	250	16	16
-748	2005-07-19	Graben nördlich von Rehrlmoos, Gde. Innerschwand	x=17604&s=&y=11412&z=15,x=17605&s=&y=11412&z=15	Corydalio-Aceretum Moor 1938, typicum	T1602	W	30	0	300	17	17
-597	2004-07-15	Bei Dornleiten, SW von Wartberg ob der Aist, Minitobel mit allseitiger Neigung	x=8850&y=5671&z=14,x=8851&y=5671&z=14,x=8850&y=5672&z=14,x=8851&y=5672&z=14	Corydalio-Aceretum Moor 1938, typicum	T1602	EW	20-40	0	300	17	17
-612	2004-07-15	Pranzlgraben NE von Rabach, Molln	x=8842&y=5702&z=14	Corydalio-Aceretum Moor 1938, typicum	T1602	S	10-20	0	200	14	14
-82	1996-05-11 & 1996-07-18	Mittlerer Unterhangbereich mit mäßiger Neigung am Westabhang des Kürnbergs	x=17678&s=&y=11350&z=15	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	SW	5-20	0	500	22	22
-47	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	N	3-8	0	400	20	20
-759	2005-07-19	Eschenwald S von Straß i.A.	x=8804&y=5701&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	N	2-3	0	400	20	20
-60	1997-06-02	Eschenwald N vom Zementwerk in Kirchdorf	x=8803&y=5701&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	F	0	0	100	10	10
-57	1996-06-02 & 1996-07-23	Teilweise muldenartiger Mittelhangbereich / Axberg Ost	x=8834&y=5677&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	N	0-5	0	400	20	20
-53	1996-06-02 & 1996-07-23	Mittelhang bei Axberg	x=8834&y=5677&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	N	10-20	0	500	22	22
-37	1996-04-28 & 1996-07-23	Unterhang mit vielen Altbäumen beim Zunderfeld, Wilhering	x=4418&y=2837&z=13	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	NE	5-10	0	400	20	20
-36	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	N	6-12	0	600	24	24
-55	1996-06-02 & 1996-07-23	Verflachender Hangbereich unmittelbar oberhalb eines ca. 2-3m ins Gelände eingeschnittenen Baches bei Axberg	x=8834&y=5677&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	SSE	2-10	0	400	20	20
-48	1996-05-11 & 1996-07-23	Wald bei Reith Gde. Wilhering SSW von der Ortschaft Mühlbach	x=8836&y=5675&z=14,x=8837&y=5675&z=14	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	E	2-4	0	400	20	20
-95	1997-06-21	Aschachtal östl. von *In der Raad*	x=17649&s=&y=11339&z=15	Corydalio-Aceretum Moor 1938, caricetosum brizoides	T1603	NW	20	0	300	17	17
+191	1995-01-01	Leitenwald 700m SE von Sinnersdorf / Weißkirchen	x=8836&y=5683&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NNW	30	0	300	17	17
+487	2003-06-07	500m SE vom Bahnhof Nettingsdorf, Neuhofen, NW-exponierte Leiten zum Kremstal	x=17682&s=&y=11364&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	SE	30	0	300	17	17
+975	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	15-30	0	400	20	20
+968	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	ESE	40-45	0	300	17	17
+970	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	ESE	30-40	0	400	20	20
+976	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	30-40	0	400	20	20
+488	2003-06-07	400m SSE vom Petersberger SW von Kremsdorf, Ansfelden SW-Hang eines Tobels	x=35366&s=&y=22727&z=16,x=35366&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	SW	30-40	0	300	17	17
+12	1997-06-21	Aschachtal NW von Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NE	20-30	0	200	14	14
+845	2005-06-24	Hangwald bei Zell/Pram	x=8812&y=5673&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NW	30-40	0	400	20	20
+79	1997-06-09	Am Simsenbergbach nahe der Fischzucht SSE von Hofkirchen i.T.	x=8846&y=5687&z=14,x=8847&y=5687&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	15-30	0	300	17	17
+14	1997-06-21	Unter der Straße an der Aschach W der Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NE	5-10	0	200	14	14
+183	1997-06-06	Wasserloser Bach SE der Kläranlage nördlich von Gmunden	x=17640&s=&y=11398&z=15,x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	1-5	0	300	17	17
+85	1997-06-24	Wald am Oberdammbach 500m NNW von Kote 399, ca 2,5km W. von Laussa	x=17695&s=&y=11394&z=15,x=17696&s=&y=11394&z=15,x=17695&s=&y=11395&z=15,x=17696&s=&y=11395&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	5-20	0	200	14	14
+90	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	30-40	0	300	17	17
+489	2003-06-08	Wald 750m südlich von der Tillysburg, St.Florian	x=17696&s=&y=11364&z=15	Corydalido-Aceretum Moor 1938, tilietosum, Fazies von Carex pilosa	T160101	E	30	0	300	17	17
+89	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	N	30	0	300	17	17
+974	2005-05-31	Kremsleiten S von Kematen bei Bruck	x=35352&s=&y=22753&z=16	Corydalido-Aceretum Moor 1938, typicum	T1602	W	30	0	200	14	14
+507	1999-05-03	Hang an der Zellerache bei Autobahnabfahrt Mondsee, länglicher Bereich oberhalb des befestigten Ufers	x=17597&s=&y=11410&z=15,x=17598&s=&y=11410&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	E	1-10	0	400	20	20
+583	2004-07-15	N-exponierter Hang 1km östlich von Mühlheim/Inn, stark ruselnder, schottriger Unterhang	x=17588&s=&y=11351&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	N	45	0	200	14	14
+54	1996-05-14	Landschaftsschutzgebiet Fasanenau, Regau	x=17626&s=&y=11389&z=15,x=17626&s=&y=11390&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	400	20	20
+756	2005-07-19	Eschenau an Wangauer Ache E von Rehrlmoos Nähe Autobahn	x=17605&s=&y=11413&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14
+548	2000-05-03	Au bei Alkoven zwischen Aschach und Innbach	x=4416&y=2836&z=13,x=4416&y=2837&z=13	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14
+28	1997-05-26	Bachgehölz südlich des Naturschutzgebietes *Quellflur bei Grueb*, Gde. Tiefgraben	x=17594&s=&y=11407&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	300	17	17
+684	2004-07-15	Pranzlgraben NE von Molln (Aufn.: Prack)	x=8842&y=5702&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	S	30	0	200	14	14
+484	2003-05-28	Konglomerat-Schuttwald in Unterhang am Naturschutzgebiet Hobelsberg, Gde. Frankenburg	x=17607&s=&y=11383&z=15,x=17606&s=&y=11383&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	NNE	20	0	250	16	16
+748	2005-07-19	Graben nördlich von Rehrlmoos, Gde. Innerschwand	x=17604&s=&y=11412&z=15,x=17605&s=&y=11412&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	W	30	0	300	17	17
+597	2004-07-15	Bei Dornleiten, SW von Wartberg ob der Aist, Minitobel mit allseitiger Neigung	x=8850&y=5671&z=14,x=8851&y=5671&z=14,x=8850&y=5672&z=14,x=8851&y=5672&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	EW	20-40	0	300	17	17
+612	2004-07-15	Pranzlgraben NE von Rabach, Molln	x=8842&y=5702&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	S	10-20	0	200	14	14
+82	1996-05-11 & 1996-07-18	Mittlerer Unterhangbereich mit mäßiger Neigung am Westabhang des Kürnbergs	x=17678&s=&y=11350&z=15	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	SW	5-20	0	500	22	22
+47	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	3-8	0	400	20	20
+759	2005-07-19	Eschenwald S von Straß i.A.	x=8804&y=5701&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	2-3	0	400	20	20
+60	1997-06-02	Eschenwald N vom Zementwerk in Kirchdorf	x=8803&y=5701&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	F	0	0	100	10	10
+57	1996-06-02 & 1996-07-23	Teilweise muldenartiger Mittelhangbereich / Axberg Ost	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	0-5	0	400	20	20
+53	1996-06-02 & 1996-07-23	Mittelhang bei Axberg	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	10-20	0	500	22	22
+37	1996-04-28 & 1996-07-23	Unterhang mit vielen Altbäumen beim Zunderfeld, Wilhering	x=4418&y=2837&z=13	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	NE	5-10	0	400	20	20
+36	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	6-12	0	600	24	24
+55	1996-06-02 & 1996-07-23	Verflachender Hangbereich unmittelbar oberhalb eines ca. 2-3m ins Gelände eingeschnittenen Baches bei Axberg	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	SSE	2-10	0	400	20	20
+48	1996-05-11 & 1996-07-23	Wald bei Reith Gde. Wilhering SSW von der Ortschaft Mühlbach	x=8836&y=5675&z=14,x=8837&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	E	2-4	0	400	20	20
+95	1997-06-21	Aschachtal östl. von *In der Raad*	x=17649&s=&y=11339&z=15	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	NW	20	0	300	17	17
 783	2005-07-16	Hangwald am Gegenbach W der Teufelsschüssel, Gde. Schwarzenberg	x=8821&y=5643&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	W	30-40	0	250	16	16
 735	2005-07-20	Beiderseits geneigte Uferböschung am Schwemmbach S vom Rubner Teich, Unterweißenbach nahe Moserwirt	x=8867&y=5662&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	10-30	0	200	14	14
 731	2005-07-20	Hang zur Maltsch bei *Alte Säge*, Gde. Sandl	x=4428&y=2826&z=13	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	S	10-35	0	150	12	12
