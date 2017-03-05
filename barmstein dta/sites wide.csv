@@ -5,29 +5,43 @@ bs03;70;0;0;45;65;2;0;0;2;0,35;0,1;8;8;SE;80;30;0;0;2012-10-20;13.075938E;47.690
 bs04;80;0;0;50;60;1;0;0;2;0,4;0,2;8;8;SE;75;20;0;0;2012-10-20;13.076013E;47.690526N;10;810;Felsflur, Felstrockengebüsch;Großer Barmstein SE-Flanke;;R. Kaiser
 bs05;70;0;0;30;65;1;0;0;1,5;0,35;0,25;6;13;SE;85;30;0;0;2012-10-20;13.076064E;47.690454N;10;800;Felsflur, Felstrockengebüsch;Großer Barmstein SE-Flanke;;R. Kaiser
 bs06;20;0;0;10;20;1;0;0;2,2;0,25;0,15;8;8;SE;85;80;0;0;2012-10-20;13.076115E;47.690381N;10;790;Felsflur, Felstrockengebüsch;Großer Barmstein SE-Flanke;;R. Kaiser
-bsx01;;;;;;;;;;;;;;;;;;;2016-03-26;13.068069;47.684244;10;;;Rapplotstein;;R. Kaiser
-bsx02;;;;;;;;;;;;;;;;;;;2016-03-26;13.068417;47.684135;10;;;Rapplotstein;;R. Kaiser
-bsx03;;;;;;;;;;;;;;;;;;;2016-03-26;13.068895;47.684255;10;;;Rapplotstein;;R. Kaiser
-bsx04;;;;;;;;;;;;;;;;;;;2016-03-26;13.070865;47.684069;20;;;Rapplotstein;;R. Kaiser
-bsx05;;;;;;;;;;;;;;;;;;;2016-03-26;13.071165;47.684087;20;;;Rapplotstein;;R. Kaiser
-bsx06;;;;;;;;;;;;;;;;;;;2016-03-26;13.07029;47.683893;20;;;Rapplotstein;;R. Kaiser
-bsx07;;;;;;;;;;;;;;;;;;;2016-03-26;13.069834;47.683711;10;;;Rapplotstein;;R. Kaiser
-bsx08;;;;;;;;;;;;;;;;;;;2016-03-26;13.068727;47.683987;10;;;Rapplotstein;;R. Kaiser
-bsx09;;;;;;;;;;;;;;;;;;;2016-03-27;13.061748;47.705867;10;;;Gratgipfel S Ruine Gutrat;;R. Kaiser
-bsx10;;;;;;;;;;;;;;;;;;;2016-03-27;13.060811;47.707769;10;;;Ruine Gutrat, S-Seite;;R. Kaiser
-bsx11;;;;;;;;;;;;;;;;;;;2016-03-27;13.058050;47.709722;20;;;Gutratberg SE-Seite;;R. Kaiser
-bsx12;;;;;;;;;;;;;;;;;;;2016-03-27;13.057492;47.709149;20;;;Gutratberg SE-Seite;;R. Kaiser
-bsx13;;;;;;;;;;;;;;;;;;;2016-03-27;13.057444;47.709372;20;;;Gutratberg SE-Seite;;R. Kaiser
-bsx14;;;;;;;;;;;;;;;;;;;2016-03-27;13.057126;47.709032;20;;;Gutratberg SE-Seite;;R. Kaiser
-bsx15;;;;;;;;;;;;;;;;;;;2016-03-27;13.056955;47.708409;20;;;Gutratberg S-Seite;;R. Kaiser
-bsx16;;;;;;;;;;;;;;;;;;;2016-03-27;13.056543;47.708206;10;;;Gutratberg S-Seite;;R. Kaiser
-bsx17;;;;;;;;;;;;;;;;;;;2016-03-27;13.060790;47.708572;10;;;Ruine Gutrat E-Seite;;R. Kaiser
-bsx18;;;;;;;;;;;;;;;;;;;2016-03-27;13.060907;47.708357;10;;;Ruine Gutrat E-Seite;;R. Kaiser
-bsx19;;;;;;;;;;;;;;;;;;;2016-03-27;13.060909;47.708475;10;;;Ruine Gutrat E-Seite;;R. Kaiser
-bsx20;;;;;;;;;;;;;;;;;;;2016-03-27;13.061221;47.708079;10;;;Ruine Gutrat E-Seite;;R. Kaiser
-bsx21;;;;;;;;;;;;;;;;;;;2017-02-12;13.084762;47.682720;10;;;Ruine Thürndl W-Hang;;R. Kaiser
-bsx22;;;;;;;;;;;;;;;;;;;2017-02-12;13.084569;47.683122;10;;;Ruine Thürndl W-Hang;;R. Kaiser
-bsx23;;;;;;;;;;;;;;;;;;;2017-02-12;13.082872;47.684620;10;;;Ruine Thürndl W-Hang;;R. Kaiser
-bsx24;;;;;;;;;;;;;;;;;;;2017-02-12;13.080651;47.686895;10;;;Ruine Thürndl W-Hang;;R. Kaiser
-bsx25;;;;;;;;;;;;;;;;;;;2017-02-12;13.080393;47.687102;10;;;Ruine Thürndl W-Hang;;R. Kaiser
-bsx26;;;;;;;;;;;;;;;;;;;2017-02-12;13.081633;47.684322;10;;;Ruine Thürndl W-Hang;;R. Kaiser
+bsx01;;;;;;;;;;;;;;;;;;;2016-03-26;13.068069;47.684244;10;;;Rapplotstein;planned;R. Kaiser
+bsx02;;;;;;;;;;;;;;;;;;;2016-03-26;13.068417;47.684135;10;;;Rapplotstein;planned;R. Kaiser
+bsx03;;;;;;;;;;;;;;;;;;;2016-03-26;13.068895;47.684255;10;;;Rapplotstein;planned;R. Kaiser
+bsx04;;;;;;;;;;;;;;;;;;;2016-03-26;13.070865;47.684069;20;;;Rapplotstein;planned;R. Kaiser
+bsx05;;;;;;;;;;;;;;;;;;;2016-03-26;13.071165;47.684087;20;;;Rapplotstein;planned;R. Kaiser
+bsx06;;;;;;;;;;;;;;;;;;;2016-03-26;13.07029;47.683893;20;;;Rapplotstein;planned;R. Kaiser
+bsx07;;;;;;;;;;;;;;;;;;;2016-03-26;13.069834;47.683711;10;;;Rapplotstein;planned;R. Kaiser
+bsx08;;;;;;;;;;;;;;;;;;;2016-03-26;13.068727;47.683987;10;;;Rapplotstein;planned;R. Kaiser
+bsx09;;;;;;;;;;;;;;;;;;;2016-03-27;13.061748;47.705867;10;;;Gratgipfel S Ruine Gutrat;planned;R. Kaiser
+bsx10;;;;;;;;;;;;;;;;;;;2016-03-27;13.060811;47.707769;10;;;Ruine Gutrat, S-Seite;planned;R. Kaiser
+bsx11;;;;;;;;;;;;;;;;;;;2016-03-27;13.058050;47.709722;20;;;Gutratberg SE-Seite;planned;R. Kaiser
+bsx12;;;;;;;;;;;;;;;;;;;2016-03-27;13.057492;47.709149;20;;;Gutratberg SE-Seite;planned;R. Kaiser
+bsx13;;;;;;;;;;;;;;;;;;;2016-03-27;13.057444;47.709372;20;;;Gutratberg SE-Seite;planned;R. Kaiser
+bsx14;;;;;;;;;;;;;;;;;;;2016-03-27;13.057126;47.709032;20;;;Gutratberg SE-Seite;planned;R. Kaiser
+bsx15;;;;;;;;;;;;;;;;;;;2016-03-27;13.056955;47.708409;20;;;Gutratberg S-Seite;planned;R. Kaiser
+bsx16;;;;;;;;;;;;;;;;;;;2016-03-27;13.056543;47.708206;10;;;Gutratberg S-Seite;planned;R. Kaiser
+bsx17;;;;;;;;;;;;;;;;;;;2016-03-27;13.060790;47.708572;10;;;Ruine Gutrat E-Seite;planned;R. Kaiser
+bsx18;;;;;;;;;;;;;;;;;;;2016-03-27;13.060907;47.708357;10;;;Ruine Gutrat E-Seite;planned;R. Kaiser
+bsx19;;;;;;;;;;;;;;;;;;;2016-03-27;13.060909;47.708475;10;;;Ruine Gutrat E-Seite;planned;R. Kaiser
+bsx20;;;;;;;;;;;;;;;;;;;2016-03-27;13.061221;47.708079;10;;;Ruine Gutrat E-Seite;planned;R. Kaiser
+bsx21;;;;;;;;;;;;;;;;;;;2017-02-12;13.084783;47.682660;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx22;;;;;;;;;;;;;;;;;;;2017-02-12;13.084569;47.683122;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx23;;;;;;;;;;;;;;;;;;;2017-02-12;13.082872;47.684620;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx24;;;;;;;;;;;;;;;;;;;2017-02-12;13.080651;47.686895;10;;;Kleiner Barmstein Südgrat;planned;R. Kaiser
+bsx25;;;;;;;;;;;;;;;;;;;2017-02-12;13.080393;47.687102;10;;;Kleiner Barmstein Südgrat;planned;R. Kaiser
+bsx26;;;;;;;;;;;;;;;;;;;2017-02-12;13.081633;47.684322;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx27;;;;;;;;;;;;;;;;;;;2017-03-03;13.087477;47.681435;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx28;;;;;;;;;;;;;;;;;;;2017-03-03;13.084712;47.682518;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx29;;;;;;;;;;;;;;;;;;;2017-03-03;13.084464;47.682657;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx30;;;;;;;;;;;;;;;;;;;2017-03-03;13.084380;47.682887;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx31;;;;;;;;;;;;;;;;;;;2017-03-03;13.083888;47.683542;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx32;;;;;;;;;;;;;;;;;;;2017-03-03;13.083559;47.683618;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx33;;;;;;;;;;;;;;;;;;;2017-03-03;13.083402;47.683915;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx34;;;;;;;;;;;;;;;;;;;2017-03-03;13.083115;47.684215;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx35;;;;;;;;;;;;;;;;;;;2017-03-03;13.082782;47.684283;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx36;;;;;;;;;;;;;;;;;;;2017-03-03;13.082509;47.684246;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx37;;;;;;;;;;;;;;;;;;;2017-03-03;13.082423;47.684124;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx38;;;;;;;;;;;;;;;;;;;2017-03-03;13.082797;47.683937;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx39;;;;;;;;;;;;;;;;;;;2017-03-03;13.083836;47.683334;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
+bsx40;;;;;;;;;;;;;;;;;;;2017-03-03;13.084044;47.683088;10;;;Ruine Thürndl W-Hang;planned;R. Kaiser
