@@ -1,115 +1,115 @@
-plot;block;alliance;plot.size;utm.location;latitude;longitude;accuracy;altitide;aspect;slope;cov;tcov;scov;hcov;mcov;htl;hsl;hhl
-13;1;Caricetum firmae Rübel 1911;3;33TUN5910797270;47.813350N;13.117986E;20;980;338;10;70;0;0;70;0;0;0;30
-95;1;Caricetum firmae Rübel 1911;6;33TUN5911297288;47.813512N;13.118047E;20;980;360;85;20;0;0;15;5;0;0;30
-102;2;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;6;33TUN5928997529;47.815718N;13.120331E;20;1000;135;85;15;0;0;15;5;0;0;15
-91;2;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;2;33TUN5976097577;47.816253N;13.126604E;20;910;135;75;30;0;0;20;10;0;0;20
-65;2;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;4;33TUN5975497572;47.816207N;13.126526E;20;920;158;80;30;0;0;25;5;0;0;30
-4;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;10;33TUN5981597563;47.816139N;13.127343E;20;925;158;40;45;0;0;40;5;0;0;50
-111;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;;33TUN5978097554;47.816050N;13.126879E;20;920;180;35;40;0;0;40;5;0;0;30
-78;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;9;33TUN5981597571;47.816211N;13.127340E;20;920;180;40;30;0;0;30;5;0;0;20
-109;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;5;33TUN5978097554;47.816050N;13.126879E;20;920;158;45;35;0;0;30;10;0;0;35
-75;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;6;33TUN5933597563;47.816034N;13.120935E;20;985;203;30;55;0;0;55;0;0;0;80
-110;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;9;33TUN5978097554;47.816050N;13.126879E;20;920;135;50;50;0;0;50;5;0;0;50
-47;3;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;5;33TUN5947297555;47.815992N;13.122766E;20;940;180;50;35;0;0;30;5;0;0;20
-34;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;6;33TUN5965197589;47.816337N;13.125145E;20;915;158;10;40;0;0;40;5;0;0;30
-92;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;15;33TUN5976897568;47.816174N;13.126714E;20;920;180;50;40;0;0;35;10;0;0;20
-28;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;8;33TUN5900397212;47.812805N;13.116616E;20;1000;203;40;50;0;0;45;5;0;0;40
-114;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;6;33TUN5926697520;47.815632N;13.120027E;20;1020;135;50;55;0;0;55;0;0;0;40
-35;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;4;33TUN5964597583;47.816282N;13.125067E;20;915;203;5;70;0;0;60;20;0;0;40
-76;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;5;33TUN5933597563;47.816034N;13.120935E;20;985;180;10;80;0;0;80;5;0;0;60
-115;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;4;33TUN5924497513;47.815565N;13.119736E;20;1010;248;10;70;0;0;70;5;0;0;20
-71;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;12;33TUN5924297425;47.814773N;13.119738E;20;980;248;50;75;0;0;70;5;0;0;30
-101;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;8;33TUN5929797538;47.815801N;13.120435E;20;1000;68;40;80;0;0;80;0;0;0;30
-100;4;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;9;33TUN5929797538;47.815801N;13.120435E;20;1000;68;40;80;0;10;75;5;0;1;20
-103;5;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;5;33TUN5927597513;47.815571N;13.120150E;20;1010;203;60;65;0;0;65;5;0;0;40
-104;5;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;12;33TUN5927597513;47.815571N;13.120150E;20;1010;135;15;80;0;0;80;0;0;0;50
-106;5;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;6;33TUN5928897502;47.815475N;13.120327E;20;1000;158;50;75;0;0;75;5;0;0;80
-21;5;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;10;33TUN5927497533;47.815751N;13.120130E;20;1010;135;10;90;0;0;90;5;0;0;70
-107;5;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;9;33TUN5927497522;47.815652N;13.120133E;20;1020;113;25;80;10;5;75;0;10;15;80
-18;5;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;8;33TUN5926397489;47.815353N;13.119997E;20;1000;203;40;80;0;0;80;0;0;0;50
-9;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;11;33TUN5972097573;47.816208N;13.126071E;20;910;203;25;80;0;0;80;0;0;0;40
-41;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;10;33TUN5961297558;47.816050N;13.124634E;20;910;158;40;85;0;0;85;0;0;0;90
-105;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;20;33TUN5928897502;47.815475N;13.120327E;20;1000;135;40;80;0;0;80;5;0;0;60
-67;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;6;33TUN5923397442;47.814924N;13.119612E;20;975;158;25;75;0;0;70;0;0;0;80
-68;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;6;33TUN5923597430;47.814816N;13.119643E;20;980;225;40;80;0;0;80;0;0;0;70
-6;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;10;33TUN5974797563;47.816124N;13.126435E;20;920;180;40;80;30;0;70;0;5;0;80
-99;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;6;33TUN5929697544;47.815855N;13.120420E;20;1000;68;40;80;0;0;80;5;0;0;20
-43;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;10;33TUN5971897584;47.816307N;13.126041E;20;920;270;35;95;10;0;90;0;4;0;60
-79;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;5;33TUN5985597562;47.816139N;13.127877E;20;915;203;30;95;0;0;95;0;0;0;60
-112;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;12;33TUN5928997483;47.815305N;13.120346E;20;990;158;40;80;0;0;80;0;0;0;70
-20;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;8;33TUN5927297533;47.815751N;13.120103E;20;1010;113;40;90;20;0;80;0;6;0;80
-1;6;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;8;33TUN5985497564;47.816156N;13.127863E;20;915;135;25;95;0;0;95;0;0;0;100
-8;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;9;33TUN5972497528;47.815804N;13.126139E;20;920;158;30;95;20;0;85;0;4;0;50
-22;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;10;33TUN5925697450;47.815001N;13.119916E;20;985;203;45;95;0;0;95;0;0;0;70
-27;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;10;33TUN5901997217;47.812854N;13.116828E;20;1000;158;50;80;0;0;80;0;0;0;50
-29;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;7;33TUN5899697215;47.812831N;13.116522E;20;1000;113;5;85;0;0;85;5;0;0;40
-66;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;6;33TUN5925797460;47.815091N;13.119927E;20;985;180;45;80;0;0;75;5;0;0;40
-70;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;9;33TUN5923897432;47.814835N;13.119682E;20;980;158;45;80;20;0;70;5;10;0;50
-17;7;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;10;33TUN5922897371;47.814284N;13.119568E;20;980;203;33;95;0;0;95;0;0;0;50
-46;8;Rhododendretum hirsuti Lüdi 1921 Ausb. mit C. humilis;20;33TUN5948097550;47.815949N;13.122875E;20;940;293;20;80;50;0;50;5;6;0;30
-77;8;Rhododendretum hirsuti Lüdi 1921 Ausb. mit C. humilis;3;33TUN5933597563;47.816034N;13.120935E;20;985;360;45;70;0;30;50;10;0;2;40
-48;8;Rhododendretum hirsuti Lüdi 1921 Ausb. mit C. humilis;4;33TUN5947297555;47.815992N;13.122766E;20;940;225;20;95;0;0;30;80;0;0;40
-51;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;15;33TUN5947297555;47.815992N;13.122766E;20;940;293;50;50;0;0;50;0;0;0;60
-69;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;25;33TUN5922997438;47.814887N;13.119560E;20;970;203;60;90;0;30;85;0;0;2;50
-82;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;10;33TUN5921797401;47.814552N;13.119412E;20;975;360;50;80;0;0;75;10;0;2;90
-14;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5914097301;47.813635N;13.118416E;20;980;315;45;70;15;10;65;20;5;15;70
-7;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5974197589;47.816357N;13.126347E;20;915;23;45;90;0;0;85;15;0;0;80
-12;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;9;33TUN5911997265;47.813307N;13.118148E;20;980;338;10;90;0;0;80;5;0;0;50
-52;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;16;33TUN5947297555;47.815992N;13.122766E;20;940;360;15;95;0;0;75;10;0;0;60
-24;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;9;33TUN5910997219;47.812891N;13.118029E;20;985;338;55;80;0;0;70;50;0;0;60
-26;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;9;33TUN5901497218;47.812862N;13.116761E;20;1000;338;65;75;0;0;70;15;0;0;50
-30;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5902297226;47.812935N;13.116865E;20;1000;360;70;80;0;0;50;0;0;0;40
-80;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;16;33TUN5921597396;47.814506N;13.119387E;20;980;360;70;85;0;0;80;30;0;0;90
-25;9;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5912297335;47.813937N;13.118165E;20;950;338;45;60;15;0;55;10;15;0;40
-58;10;Calamagrostio variae-Piceetum Schweingruber 1972;120;33TUN5927697428;47.814807N;13.120191E;20;980;23;40;90;20;0;85;5;5;0;80
-84;10;Calamagrostio variae-Piceetum Schweingruber 1972;160;33TUN5918497376;47.814320N;13.118979E;20;950;338;40;95;20;0;90;5;15;0;80
-85;10;Calamagrostio variae-Piceetum Schweingruber 1972;120;33TUN5917097362;47.814191N;13.118797E;20;950;338;35;90;35;0;85;0;5;0;80
-81;10;Calamagrostio variae-Piceetum Schweingruber 1972;90;33TUN5921797401;47.814552N;13.119412E;20;975;360;40;90;30;0;75;10;15;0;100
-83;10;Calamagrostio variae-Piceetum Schweingruber 1972;160;33TUN5920997383;47.814388N;13.119311E;20;965;270;30;95;40;0;90;5;15;0;90
-57;10;Calamagrostio variae-Piceetum Schweingruber 1972;70;33TUN5926897396;47.814518N;13.120094E;20;990;293;20;95;35;0;80;5;15;0;60
-73;10;Calamagrostio variae-Piceetum Schweingruber 1972;100;33TUN5929597560;47.815999N;13.120401E;20;985;45;10;90;30;0;75;5;15;0;30
-15;10;Calamagrostio variae-Piceetum Schweingruber 1972;150;33TUN5918397283;47.813483N;13.118996E;20;995;338;30;95;50;0;75;5;18;0;50
-87;10;Calamagrostio variae-Piceetum Schweingruber 1972;250;33TUN5917897344;47.814030N;13.118910E;20;960;293;40;95;45;5;90;10;12;3;100
-93;10;Calamagrostio variae-Piceetum Schweingruber 1972;420;33TUN5917097352;47.814101N;13.118800E;20;960;338;35;95;35;10;90;5;20;4;150
-94;10;Calamagrostio variae-Piceetum Schweingruber 1972;230;33TUN5914297367;47.814229N;13.118421E;20;940;315;35;95;30;0;85;5;12;0;100
-5;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;30;33TUN5975197555;47.816053N;13.126491E;20;920;180;40;95;30;0;85;0;10;0;50
-19;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;25;33TUN5928297517;47.815609N;13.120242E;20;1000;135;55;95;60;0;50;0;15;0;50
-49;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;20;33TUN5947297555;47.815992N;13.122766E;20;940;45;5;80;40;0;75;0;15;0;60
-108;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;50;33TUN5927897481;47.815284N;13.120200E;20;1000;135;35;90;30;0;80;0;10;0;80
-53;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;20;33TUN5947297555;47.815992N;13.122766E;20;940;158;45;90;20;0;75;5;15;0;70
-61;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;90;33TUN5934197474;47.815235N;13.121043E;20;955;90;40;85;0;0;85;0;0;0;60
-23;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;12;33TUN5925897437;47.814884N;13.119947E;20;985;248;45;90;55;0;70;0;20;0;70
-33;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;20;33TUN5965597585;47.816302N;13.125200E;20;915;158;45;90;30;0;80;0;7;0;65
-64;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;60;33TUN5929797496;47.815423N;13.120449E;20;995;135;50;90;30;0;85;0;10;0;80
-96;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;15;33TUN5903297233;47.813000N;13.116996E;20;1000;158;30;90;35;5;85;0;10;2;80
-74;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;50;33TUN5933597563;47.816034N;13.120935E;20;985;180;45;85;35;0;80;0;10;0;80
-31;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;25;33TUN5968697582;47.816282N;13.125615E;20;910;180;30;80;20;0;70;0;10;0;60
-113;11;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;25;33TUN5929897479;47.815271N;13.120468E;20;980;158;40;95;60;0;75;0;10;0;40
-56;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;16;33TUN5941197534;47.815790N;13.121959E;20;940;113;50;75;50;0;65;10;25;0;60
-2;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;15;33TUN5983697567;47.816180N;13.127622E;20;920;180;40;95;80;0;60;15;10;0;140
-62;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;90;33TUN5927997448;47.814988N;13.120224E;20;985;90;40;95;60;0;85;0;20;0;50
-90;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;200;33TUN5963597567;47.816136N;13.124939E;20;910;180;40;90;80;10;50;2;30;4;100
-89;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;250;33TUN5959397558;47.816046N;13.124381E;20;920;180;30;90;80;5;50;0;20;2;50
-32;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;170;33TUN5968697582;47.816282N;13.125615E;20;915;203;40;90;70;0;50;0;10;0;60
-36;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;100;33TUN5962197576;47.816214N;13.124749E;20;910;270;10;95;50;0;85;0;20;0;40
-55;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;90;33TUN5946997559;47.816028N;13.122725E;20;940;113;45;90;40;0;70;0;20;0;60
-42;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;160;33TUN5960797574;47.816193N;13.124562E;20;905;180;30;90;65;0;70;0;12;0;20
-10;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;120;33TUN5972997567;47.816156N;13.126194E;20;920;180;25;90;50;0;50;0;10;0;40
-59;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;70;33TUN5928797422;47.814756N;13.120339E;20;980;45;35;70;70;0;65;10;20;0;50
-50;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;100;33TUN5947297555;47.815992N;13.122766E;20;940;113;35;90;50;0;75;0;20;0;70
-40;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;100;33TUN5960197574;47.816191N;13.124482E;20;910;338;30;90;70;0;80;5;8;0;80
-86;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;450;33TUN5956897553;47.815995N;13.124049E;20;915;158;35;95;85;0;55;0;20;0;100
-37;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;200;33TUN5960197567;47.816128N;13.124485E;20;910;158;10;95;70;0;50;5;15;0;30
-60;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;120;33TUN5939597477;47.815274N;13.121763E;20;950;113;45;90;60;0;70;0;20;0;60
-54;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;130;33TUN5947897572;47.816146N;13.122841E;20;920;113;30;90;50;0;75;0;20;0;130
-3;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;150;33TUN5982097555;47.816068N;13.127412E;20;920;23;45;80;70;0;30;10;12;0;30
-88;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;330;33TUN5953297538;47.815852N;13.123573E;20;920;23;40;85;65;1;60;5;20;2;30
-38;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;150;33TUN5958197560;47.816061N;13.124220E;20;910;158;10;90;60;0;50;0;10;0;35
-44;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;90;33TUN5951297540;47.815866N;13.123305E;20;925;90;50;90;70;0;45;0;20;0;40
-39;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;60;33TUN5958197560;47.816061N;13.124220E;20;910;158;30;90;70;0;40;0;15;0;20
-45;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;120;33TUN5948997527;47.815744N;13.123002E;20;925;158;20;95;65;0;45;0;25;0;40
-63;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;60;33TUN5927597453;47.815032N;13.120169E;20;985;135;15;80;70;0;40;10;20;0;30
-97;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;140;33TUN5903097167;47.812406N;13.116991E;20;920;90;30;95;85;0;30;5;30;0;40
-98;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;200;33TUN5946997544;47.815893N;13.122730E;20;930;158;40;85;85;0;10;0;20;0;40
-72;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;50;33TUN5930897548;47.815893N;13.120579E;20;985;68;65;90;70;0;35;10;15;0;20
-16;12;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;25;33TUN5920497325;47.813865N;13.119263E;20;975;315;55;70;60;0;20;50;20;0;30
+plot;block;alliance;association;plot.size;utm.location;latitude;longitude;accuracy;altitide;aspect;slope;cov;tcov;scov;hcov;mcov;htl;hsl;hhl
+13;1;Seslerion caeruleae ;Caricetum firmae Rübel 1911;3;33TUN5910797270;47.813350N;13.117986E;20;980;338;10;70;0;0;70;0;0;0;0.3
+95;1;Seslerion caeruleae ;Caricetum firmae Rübel 1911;6;33TUN5911297288;47.813512N;13.118047E;20;980;360;85;20;0;0;15;5;0;0;0.3
+102;2;Potentillion caulescentis;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;6;33TUN5928997529;47.815718N;13.120331E;20;1000;135;85;15;0;0;15;5;0;0;0.15
+91;2;Potentillion caulescentis;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;2;33TUN5976097577;47.816253N;13.126604E;20;910;135;75;30;0;0;20;10;0;0;0.2
+65;2;Potentillion caulescentis;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;4;33TUN5975497572;47.816207N;13.126526E;20;920;158;80;30;0;0;25;5;0;0;0.3
+4;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;10;33TUN5981597563;47.816139N;13.127343E;20;925;158;40;45;0;0;40;5;0;0;0.5
+111;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;;33TUN5978097554;47.816050N;13.126879E;20;920;180;35;40;0;0;40;5;0;0;0.3
+78;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;9;33TUN5981597571;47.816211N;13.127340E;20;920;180;40;30;0;0;30;5;0;0;0.2
+109;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;5;33TUN5978097554;47.816050N;13.126879E;20;920;158;45;35;0;0;30;10;0;0;0.35
+75;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;6;33TUN5933597563;47.816034N;13.120935E;20;985;203;30;55;0;0;55;0;0;0;0.8
+110;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;9;33TUN5978097554;47.816050N;13.126879E;20;920;135;50;50;0;0;50;5;0;0;0.5
+47;3;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. verarmte Ausb.;5;33TUN5947297555;47.815992N;13.122766E;20;940;180;50;35;0;0;30;5;0;0;0.2
+34;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;6;33TUN5965197589;47.816337N;13.125145E;20;915;158;10;40;0;0;40;5;0;0;0.3
+92;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;15;33TUN5976897568;47.816174N;13.126714E;20;920;180;50;40;0;0;35;10;0;0;0.2
+28;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;8;33TUN5900397212;47.812805N;13.116616E;20;1000;203;40;50;0;0;45;5;0;0;0.4
+114;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;6;33TUN5926697520;47.815632N;13.120027E;20;1020;135;50;55;0;0;55;0;0;0;0.4
+35;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;4;33TUN5964597583;47.816282N;13.125067E;20;915;203;5;70;0;0;60;20;0;0;0.4
+76;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;5;33TUN5933597563;47.816034N;13.120935E;20;985;180;10;80;0;0;80;5;0;0;0.6
+115;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;4;33TUN5924497513;47.815565N;13.119736E;20;1010;248;10;70;0;0;70;5;0;0;0.2
+71;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;12;33TUN5924297425;47.814773N;13.119738E;20;980;248;50;75;0;0;70;5;0;0;0.3
+101;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;8;33TUN5929797538;47.815801N;13.120435E;20;1000;68;40;80;0;0;80;0;0;0;0.3
+100;4;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit C. mucronata und G. cordifolia;9;33TUN5929797538;47.815801N;13.120435E;20;1000;68;40;80;0;10;75;5;0;1;0.2
+103;5;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;5;33TUN5927597513;47.815571N;13.120150E;20;1010;203;60;65;0;0;65;5;0;0;0.4
+104;5;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;12;33TUN5927597513;47.815571N;13.120150E;20;1010;135;15;80;0;0;80;0;0;0;0.5
+106;5;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;6;33TUN5928897502;47.815475N;13.120327E;20;1000;158;50;75;0;0;75;5;0;0;0.8
+21;5;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;10;33TUN5927497533;47.815751N;13.120130E;20;1010;135;10;90;0;0;90;5;0;0;0.7
+107;5;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;9;33TUN5927497522;47.815652N;13.120133E;20;1020;113;25;80;10;5;75;0;10;1.5;0.8
+18;5;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit H. perforatum;8;33TUN5926397489;47.815353N;13.119997E;20;1000;203;40;80;0;0;80;0;0;0;0.5
+9;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;11;33TUN5972097573;47.816208N;13.126071E;20;910;203;25;80;0;0;80;0;0;0;0.4
+41;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;10;33TUN5961297558;47.816050N;13.124634E;20;910;158;40;85;0;0;85;0;0;0;0.9
+105;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;20;33TUN5928897502;47.815475N;13.120327E;20;1000;135;40;80;0;0;80;5;0;0;0.6
+67;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;6;33TUN5923397442;47.814924N;13.119612E;20;975;158;25;75;0;0;70;0;0;0;0.8
+68;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;6;33TUN5923597430;47.814816N;13.119643E;20;980;225;40;80;0;0;80;0;0;0;0.7
+6;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;10;33TUN5974797563;47.816124N;13.126435E;20;920;180;40;80;30;0;70;0;5;0;0.8
+99;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;6;33TUN5929697544;47.815855N;13.120420E;20;1000;68;40;80;0;0;80;5;0;0;0.2
+43;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;10;33TUN5971897584;47.816307N;13.126041E;20;920;270;35;95;10;0;90;0;4;0;0.6
+79;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;5;33TUN5985597562;47.816139N;13.127877E;20;915;203;30;95;0;0;95;0;0;0;0.6
+112;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;12;33TUN5928997483;47.815305N;13.120346E;20;990;158;40;80;0;0;80;0;0;0;0.7
+20;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;8;33TUN5927297533;47.815751N;13.120103E;20;1010;113;40;90;20;0;80;0;6;0;0.8
+1;6;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit O. vulgare;8;33TUN5985497564;47.816156N;13.127863E;20;915;135;25;95;0;0;95;0;0;0;1
+8;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;9;33TUN5972497528;47.815804N;13.126139E;20;920;158;30;95;20;0;85;0;4;0;0.5
+22;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;10;33TUN5925697450;47.815001N;13.119916E;20;985;203;45;95;0;0;95;0;0;0;0.7
+27;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;10;33TUN5901997217;47.812854N;13.116828E;20;1000;158;50;80;0;0;80;0;0;0;0.5
+29;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;7;33TUN5899697215;47.812831N;13.116522E;20;1000;113;5;85;0;0;85;5;0;0;0.4
+66;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;6;33TUN5925797460;47.815091N;13.119927E;20;985;180;45;80;0;0;75;5;0;0;0.4
+70;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;9;33TUN5923897432;47.814835N;13.119682E;20;980;158;45;80;20;0;70;5;10;0;0.5
+17;7;Seslerion caeruleae ;Allio lusitanici-Buphthalmetum salicifolii prov. Ausb. Mit A. alpina;10;33TUN5922897371;47.814284N;13.119568E;20;980;203;33;95;0;0;95;0;0;0;0.5
+46;8;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit C. humilis;20;33TUN5948097550;47.815949N;13.122875E;20;940;293;20;80;50;0;50;5;6;0;0.3
+77;8;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit C. humilis;3;33TUN5933597563;47.816034N;13.120935E;20;985;360;45;70;0;30;50;10;0;2;0.4
+48;8;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit C. humilis;4;33TUN5947297555;47.815992N;13.122766E;20;940;225;20;95;0;0;30;80;0;0;0.4
+51;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;15;33TUN5947297555;47.815992N;13.122766E;20;940;293;50;50;0;0;50;0;0;0;0.6
+69;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;25;33TUN5922997438;47.814887N;13.119560E;20;970;203;60;90;0;30;85;0;0;2;0.5
+82;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;10;33TUN5921797401;47.814552N;13.119412E;20;975;360;50;80;0;0;75;10;0;2;0.9
+14;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5914097301;47.813635N;13.118416E;20;980;315;45;70;15;10;65;20;5;1.5;0.7
+7;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5974197589;47.816357N;13.126347E;20;915;23;45;90;0;0;85;15;0;0;0.8
+12;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;9;33TUN5911997265;47.813307N;13.118148E;20;980;338;10;90;0;0;80;5;0;0;0.5
+52;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;16;33TUN5947297555;47.815992N;13.122766E;20;940;360;15;95;0;0;75;10;0;0;0.6
+24;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;9;33TUN5910997219;47.812891N;13.118029E;20;985;338;55;80;0;0;70;50;0;0;0.6
+26;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;9;33TUN5901497218;47.812862N;13.116761E;20;1000;338;65;75;0;0;70;15;0;0;0.5
+30;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5902297226;47.812935N;13.116865E;20;1000;360;70;80;0;0;50;0;0;0;0.4
+80;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;16;33TUN5921597396;47.814506N;13.119387E;20;980;360;70;85;0;0;80;30;0;0;0.9
+25;9;Ericion carneae ;Rhododendretum hirsuti Lüdi 1921 Ausb. mit H. nobilis;12;33TUN5912297335;47.813937N;13.118165E;20;950;338;45;60;15;0;55;10;15;0;0.4
+58;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;120;33TUN5927697428;47.814807N;13.120191E;20;980;23;40;90;20;0;85;5;5;0;0.8
+84;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;160;33TUN5918497376;47.814320N;13.118979E;20;950;338;40;95;20;0;90;5;15;0;0.8
+85;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;120;33TUN5917097362;47.814191N;13.118797E;20;950;338;35;90;35;0;85;0;5;0;0.8
+81;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;90;33TUN5921797401;47.814552N;13.119412E;20;975;360;40;90;30;0;75;10;15;0;1
+83;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;160;33TUN5920997383;47.814388N;13.119311E;20;965;270;30;95;40;0;90;5;15;0;0.9
+57;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;70;33TUN5926897396;47.814518N;13.120094E;20;990;293;20;95;35;0;80;5;15;0;0.6
+73;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;100;33TUN5929597560;47.815999N;13.120401E;20;985;45;10;90;30;0;75;5;15;0;0.3
+15;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;150;33TUN5918397283;47.813483N;13.118996E;20;995;338;30;95;50;0;75;5;18;0;0.5
+87;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;250;33TUN5917897344;47.814030N;13.118910E;20;960;293;40;95;45;5;90;10;12;3;1
+93;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;420;33TUN5917097352;47.814101N;13.118800E;20;960;338;35;95;35;10;90;5;20;4;1.5
+94;10;Abieti-Piceion;Calamagrostio variae-Piceetum Schweingruber 1972;230;33TUN5914297367;47.814229N;13.118421E;20;940;315;35;95;30;0;85;5;12;0;1
+5;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;30;33TUN5975197555;47.816053N;13.126491E;20;920;180;40;95;30;0;85;0;10;0;0.5
+19;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;25;33TUN5928297517;47.815609N;13.120242E;20;1000;135;55;95;60;0;50;0;15;0;0.5
+49;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;20;33TUN5947297555;47.815992N;13.122766E;20;940;45;5;80;40;0;75;0;15;0;0.6
+108;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;50;33TUN5927897481;47.815284N;13.120200E;20;1000;135;35;90;30;0;80;0;10;0;0.8
+53;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;20;33TUN5947297555;47.815992N;13.122766E;20;940;158;45;90;20;0;75;5;15;0;0.7
+61;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;90;33TUN5934197474;47.815235N;13.121043E;20;955;90;40;85;0;0;85;0;0;0;0.6
+23;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;12;33TUN5925897437;47.814884N;13.119947E;20;985;248;45;90;55;0;70;0;20;0;0.7
+33;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;20;33TUN5965597585;47.816302N;13.125200E;20;915;158;45;90;30;0;80;0;7;0;0.65
+64;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;60;33TUN5929797496;47.815423N;13.120449E;20;995;135;50;90;30;0;85;0;10;0;0.8
+96;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;15;33TUN5903297233;47.813000N;13.116996E;20;1000;158;30;90;35;5;85;0;10;2;0.8
+74;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;50;33TUN5933597563;47.816034N;13.120935E;20;985;180;45;85;35;0;80;0;10;0;0.8
+31;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;25;33TUN5968697582;47.816282N;13.125615E;20;910;180;30;80;20;0;70;0;10;0;0.6
+113;11;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. offene Ausbildung;25;33TUN5929897479;47.815271N;13.120468E;20;980;158;40;95;60;0;75;0;10;0;0.4
+56;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;16;33TUN5941197534;47.815790N;13.121959E;20;940;113;50;75;50;0;65;10;25;0;0.6
+2;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;15;33TUN5983697567;47.816180N;13.127622E;20;920;180;40;95;80;0;60;15;10;0;1.4
+62;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;90;33TUN5927997448;47.814988N;13.120224E;20;985;90;40;95;60;0;85;0;20;0;0.5
+90;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;200;33TUN5963597567;47.816136N;13.124939E;20;910;180;40;90;80;10;50;2;30;4;1
+89;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;250;33TUN5959397558;47.816046N;13.124381E;20;920;180;30;90;80;5;50;0;20;2;0.5
+32;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;170;33TUN5968697582;47.816282N;13.125615E;20;915;203;40;90;70;0;50;0;10;0;0.6
+36;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;100;33TUN5962197576;47.816214N;13.124749E;20;910;270;10;95;50;0;85;0;20;0;0.4
+55;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;90;33TUN5946997559;47.816028N;13.122725E;20;940;113;45;90;40;0;70;0;20;0;0.6
+42;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;160;33TUN5960797574;47.816193N;13.124562E;20;905;180;30;90;65;0;70;0;12;0;0.2
+10;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;120;33TUN5972997567;47.816156N;13.126194E;20;920;180;25;90;50;0;50;0;10;0;0.4
+59;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;70;33TUN5928797422;47.814756N;13.120339E;20;980;45;35;70;70;0;65;10;20;0;0.5
+50;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;100;33TUN5947297555;47.815992N;13.122766E;20;940;113;35;90;50;0;75;0;20;0;0.7
+40;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;100;33TUN5960197574;47.816191N;13.124482E;20;910;338;30;90;70;0;80;5;8;0;0.8
+86;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;450;33TUN5956897553;47.815995N;13.124049E;20;915;158;35;95;85;0;55;0;20;0;1
+37;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;200;33TUN5960197567;47.816128N;13.124485E;20;910;158;10;95;70;0;50;5;15;0;0.3
+60;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;120;33TUN5939597477;47.815274N;13.121763E;20;950;113;45;90;60;0;70;0;20;0;0.6
+54;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;130;33TUN5947897572;47.816146N;13.122841E;20;920;113;30;90;50;0;75;0;20;0;1.3
+3;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;150;33TUN5982097555;47.816068N;13.127412E;20;920;23;45;80;70;0;30;10;12;0;0.3
+88;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;330;33TUN5953297538;47.815852N;13.123573E;20;920;23;40;85;65;1;60;5;20;2;0.3
+38;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;150;33TUN5958197560;47.816061N;13.124220E;20;910;158;10;90;60;0;50;0;10;0;0.35
+44;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;90;33TUN5951297540;47.815866N;13.123305E;20;925;90;50;90;70;0;45;0;20;0;0.4
+39;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;60;33TUN5958197560;47.816061N;13.124220E;20;910;158;30;90;70;0;40;0;15;0;0.2
+45;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;120;33TUN5948997527;47.815744N;13.123002E;20;925;158;20;95;65;0;45;0;25;0;0.4
+63;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;60;33TUN5927597453;47.815032N;13.120169E;20;985;135;15;80;70;0;40;10;20;0;0.3
+97;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;140;33TUN5903097167;47.812406N;13.116991E;20;920;90;30;95;85;0;30;5;30;0;0.4
+98;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;200;33TUN5946997544;47.815893N;13.122730E;20;930;158;40;85;85;0;10;0;20;0;0.4
+72;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;50;33TUN5930897548;47.815893N;13.120579E;20;985;68;65;90;70;0;35;10;15;0;0.2
+16;12;Lonicero alpigenae Fagenion;Adenostylo glabrae-Fagetum-calamagrostietosum variae (Zukrigl 1973) Willner comb. Nov. geschlossene Ausbildung;25;33TUN5920497325;47.813865N;13.119263E;20;975;315;55;70;60;0;20;50;20;0;0.3
