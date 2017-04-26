@@ -30,12 +30,14 @@ x <- file.path(path, "Frey1995Tab4FooterSpecies.csv")
 X2 <- species(x, sep = ",")
 X2$plot <- gsub(" ", ".", X2$plot, fixed = TRUE)
 
-X <- bind(X1, X2)
+X <- vegsoup::bind(X1, X2)
 X$abbr <- tolower(X$abbr)
 
 #	translate taxon names
 species(X) <- zz
-X$cov[X$cov == "R"] <- "r"
+
+#	groome abundance scale codes
+X$cov[ X$cov == "R" ] <- "r"
 
 #	build Vegsoup object
 obj <- Vegsoup(X, Y, z, "braun.blanquet2")
@@ -52,10 +54,12 @@ obj$x <- 744400
 obj$y <- 217600
 	
 i <- match(rownames(obj), y$plot)
-y <- y[i[!is.na(i)], ]
+y <- y[ i[ !is.na(i) ], ]
 i <- match(y$plot, rownames(obj))
-obj$x[i] <- y$x
-obj$y[i] <- y$y
+obj$x[ i ] <- y$x
+obj$y[ i ] <- y$y
+obj$accuracy <- 10000
+obj$accuracy[ i ] <- 50 # rough guess
 
 coordinates(obj) <- ~x+y
 proj4string(obj) <- CRS("+init=epsg:21781")
@@ -69,7 +73,7 @@ layers(obj)	 <- c("tl", "sl", "hl", "ml")
 rownames(obj) <- paste(key, rownames(obj), sep = ":")
 
 #	groome names
-names(obj) <- c("expo", "slope", "elevation", "group")
+names(obj)[ 1:4 ] <- c("expo", "slope", "elevation", "group")
 
 #	expand association labels
 obj$association <- factor(obj$group,
