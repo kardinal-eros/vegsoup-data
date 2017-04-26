@@ -1,7 +1,7 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;soil;date;latitude;longitude;accuracy;observer;alliance;association;comment;location
-glx01;;;;;;;;;;;;;;;;;;;;2015-01-30;47.768597 N;13.102883 E;;R. Kaiser;Cephalanthero Fagenion;;;Glasenbachklamm, rechte Talseite
-glx02;;;;;;;;;;;;;;;;;;;;2015-01-30;47.768756 N;13.102411 E;;R. Kaiser;Cephalanthero Fagenion;;;Glasenbachklamm, rechte Talseite
-glx03;;;;;;;;;;;;;;;;;;;;2015-01-30;47.768647 N;13.106147 E;;R. Kaiser;Tilio-Acerion;;;Glasenbachklamm, rechte Talseite
-glx04;;;;;;;;;;;;;;;;;;;;2015-01-30;47.768458 N;13.108094 E;;R. Kaiser;Cephalanthero Fagenion;;;Glasenbachklamm, rechte Talseite
-glx05;;;;;;;;;;;;;;;;;;;;2015-01-30;47.768836 N;13.111956 E;;R. Kaiser;Cephalanthero Fagenion;;;Glasenbachklamm, rechte Talseite
-glx06;;;;;;;;;;;;;;;;;;;;2015-01-30;47.769631 N;13.114203 E;;R. Kaiser;Cephalanthero Fagenion;;;Glasenbachklamm, rechte Talseite
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,soil,date,latitude,longitude,accuracy,observer,alliance,association,comment,location
+glx01,,,,,,,,,,,,,,,,,,,,2015-01-30,47.768597N,13.102883E,10,R. Kaiser,Cephalanthero Fagenion,,,"Glasenbachklamm, rechte Talseite"
+glx02,,,,,,,,,,,,,,,,,,,,2015-01-30,47.768756N,13.102411E,10,R. Kaiser,Cephalanthero Fagenion,,,"Glasenbachklamm, rechte Talseite"
+glx03,,,,,,,,,,,,,,,,,,,,2015-01-30,47.768647N,13.106147E,10,R. Kaiser,Tilio-Acerion,,,"Glasenbachklamm, rechte Talseite"
+glx04,,,,,,,,,,,,,,,,,,,,2015-01-30,47.768458N,13.108094E,10,R. Kaiser,Cephalanthero Fagenion,,,"Glasenbachklamm, rechte Talseite"
+glx05,,,,,,,,,,,,,,,,,,,,2015-01-30,47.768836N,13.111956E,10,R. Kaiser,Cephalanthero Fagenion,,,"Glasenbachklamm, rechte Talseite"
+glx06,,,,,,,,,,,,,,,,,,,,2015-01-30,47.769631N,13.114203E,10,R. Kaiser,Cephalanthero Fagenion,,,"Glasenbachklamm, rechte Talseite"
