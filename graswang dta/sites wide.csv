@@ -1,11 +1,11 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
-ag01;;;;;;;;;;;;;;;;;;;2016-03-18;47.577174;10.991006;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag02;;;;;;;;;;;;;;;;;;;2016-03-18;47.577653;10.992162;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag03;;;;;;;;;;;;;;;;;;;2016-03-18;47.578175;10.993837;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag04;;;;;;;;;;;;;;;;;;;2016-03-18;47.578149;10.994873;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag05;;;;;;;;;;;;;;;;;;;2016-03-18;47.578352;10.995766;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag06;;;;;;;;;;;;;;;;;;;2016-03-18;47.577948;10.997074;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag07;;;;;;;;;;;;;;;;;;;2016-03-18;47.577805;10.999270;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag08;;;;;;;;;;;;;;;;;;;2016-03-18;47.577840;11.000372;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag09;;;;;;;;;;;;;;;;;;;2016-03-18;47.577897;11.001300;10;Tilio-Acerion;;;Graswangtal, Tischlahnerwand;;R Kaiser
-ag10;;;;;;;;;;;;;;;;;;;2016-03-18;47.577999;11.002017;10;Tilio-Acerion;;;;;
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,alliance,association,soil,comment,location,observer
+gw01,,,,,,,,,,,,,,,,,,,2016-03-18,47.577174,10.991006,10,Lunario-Acerenion pseudoplatani,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw02,,,,,,,,,,,,,,,,,,,2016-03-18,47.577653,10.992162,10,Lunario-Acerenion pseudoplatani,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw03,,,,,,,,,,,,,,,,,,,2016-03-18,47.578175,10.993837,10,Tilenion platyphylli,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw04,,,,,,,,,,,,,,,,,,,2016-03-18,47.578149,10.994873,10,Lunario-Acerenion pseudoplatani,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw05,,,,,,,,,,,,,,,,,,,2016-03-18,47.578352,10.995766,10,Tilenion platyphylli,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw06,,,,,,,,,,,,,,,,,,,2016-03-18,47.577948,10.997074,10,Lunario-Acerenion pseudoplatani,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw07,,,,,,,,,,,,,,,,,,,2016-03-18,47.577805,10.999270,10,Tilenion platyphylli,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw08,,,,,,,,,,,,,,,,,,,2016-03-18,47.577840,11.000372,10,Tilenion platyphylli,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw09,,,,,,,,,,,,,,,,,,,2016-03-18,47.577897,11.001300,10,Tilenion platyphylli,,,"Graswangtal, Tischlahnerwand",,R Kaiser
+gw10,,,,,,,,,,,,,,,,,,,2016-03-18,47.577999,11.002017,10,Lunario-Acerenion pseudoplatani,,,,,
