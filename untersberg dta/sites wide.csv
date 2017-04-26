@@ -1,16 +1,16 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;longitude;latitude;;accuracy;alliance;association;soil;comment;location;observer
-ub01;96;55;15;0;90;7;14;10;0;0,7;0,15;32;8;SW;20;5;0;0;2015-05-14;12.933860E;47.711654N;;10;Cephalanthero Fagenion;;Rendzina;entlang Felskante;Untersberg (Austria), Naglwand;R Kaiser & K Moosbrugger
-ub02;80;7;65;10;45;10;11;9;4;0,8;0,1;16;16;SW;50;60;0;0;2015-06-14;12.935680E;47.708470N;;10;Tilenion platyphylli;;Rendzina;an plattigen Felsabhang zu umgebenden Grasfluren;Untersberg (Germany), Naglwand;R Kaiser
-ub03;80;30;45;20;30;5;13;9;4;0,6;0,15;16;16;SW;75;70;0;0;2015-06-14;12.935507E;47.708546N;;10;Tilenion platyphylli;;Rendzina;direkt neben ub02, an der Wandtsufe;Untersberg (Germany), Naglwand;R Kaiser
-ub04;90;50;30;5;80;3;15;12;4;0,7;0,3;16;16;SW;45;30;0;0;2015-06-14;12.935300E;47.708470N;;10;Tilenion platyphylli;;Rendzina;;Untersberg (Germany), Naglwand;R Kaiser
-ub05;85;15;60;10;80;5;12;10;3,5;0,8;0,2;16;16;SW;40;10;0;0;2015-06-14;12.934352E;47.709033N;;10;Tilenion platyphylli;;Rendzina;;Untersberg (Germany), Naglwand;R Kaiser
-ubx01;;;;;;;;;;;;;;;;;;;2016-02-06;13.020036;47.743123;;10;Fagion sylvatice;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx02;;;;;;;;;;;;;;;;;;;2016-02-06;13.019957;47.742837;;10;Fagion sylvatice;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx03;;;;;;;;;;;;;;;;;;;2016-02-06;13.020489;47.742506;;10;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx04;;;;;;;;;;;;;;;;;;;2016-02-06;13.020703;47.742120;;20;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx05;;;;;;;;;;;;;;;;;;;2016-02-06;13.020742;47.741815;;20;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx06;;;;;;;;;;;;;;;;;;;2016-02-06;13.020746;47.741418;;10;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx07;;;;;;;;;;;;;;;;;;;2016-02-06;13.020721;47.740917;;10;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx08;;;;;;;;;;;;;;;;;;;2016-02-06;13.021045;47.740615;;10;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx09;;;;;;;;;;;;;;;;;;;2016-02-06;13.021120;47.740061;;10;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
-ubx10;;;;;;;;;;;;;;;;;;;2016-02-06;13.021687;47.737878;;10;Lunario-Acerenion pseudoplatani;;;;Untersberg (Austria), Gmainberg;R Kaiser
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,longitude,latitude,,accuracy,alliance,association,soil,comment,location,observer
+ub01,96,55,15,0,90,7,14,10,0,0.7,0.15,32,8,SW,20,5,0,0,2015-05-14,12.933860E,47.711654N,,10,Cephalanthero Fagenion,,Rendzina,entlang Felskante,"Untersberg (Austria), Naglwand",R Kaiser & K Moosbrugger
+ub02,80,7,65,10,45,10,11,9,4,0.8,0.1,16,16,SW,50,60,0,0,2015-06-14,12.935680E,47.708470N,,10,Tilenion platyphylli,,Rendzina,an plattigen Felsabhang zu umgebenden Grasfluren,"Untersberg (Germany), Naglwand",R Kaiser
+ub03,80,30,45,20,30,5,13,9,4,0.6,0.15,16,16,SW,75,70,0,0,2015-06-14,12.935507E,47.708546N,,10,Tilenion platyphylli,,Rendzina,"direkt neben ub02, an der Wandtsufe","Untersberg (Germany), Naglwand",R Kaiser
+ub04,90,50,30,5,80,3,15,12,4,0.7,0.3,16,16,SW,45,30,0,0,2015-06-14,12.935300E,47.708470N,,10,Tilenion platyphylli,,Rendzina,,"Untersberg (Germany), Naglwand",R Kaiser
+ub05,85,15,60,10,80,5,12,10,3.5,0.8,0.2,16,16,SW,40,10,0,0,2015-06-14,12.934352E,47.709033N,,10,Tilenion platyphylli,,Rendzina,,"Untersberg (Germany), Naglwand",R Kaiser
+ubx01,,,,,,,,,,,,,,,,,,,2016-02-06,13.020036E,47.743123N,,10,Fagion sylvatice,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx02,,,,,,,,,,,,,,,,,,,2016-02-06,13.019957E,47.742837N,,10,Fagion sylvatice,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx03,,,,,,,,,,,,,,,,,,,2016-02-06,13.020489E,47.742506N,,10,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx04,,,,,,,,,,,,,,,,,,,2016-02-06,13.020703E,47.742120N,,20,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx05,,,,,,,,,,,,,,,,,,,2016-02-06,13.020742E,47.741815N,,20,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx06,,,,,,,,,,,,,,,,,,,2016-02-06,13.020746E,47.741418N,,10,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx07,,,,,,,,,,,,,,,,,,,2016-02-06,13.020721E,47.740917N,,10,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx08,,,,,,,,,,,,,,,,,,,2016-02-06,13.021045E,47.740615N,,10,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx09,,,,,,,,,,,,,,,,,,,2016-02-06,13.021120E,47.740061N,,10,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
+ubx10,,,,,,,,,,,,,,,,,,,2016-02-06,13.021687E,47.737878N,,10,Lunario-Acerenion pseudoplatani,,,,"Untersberg (Austria), Gmainberg",R Kaiser
