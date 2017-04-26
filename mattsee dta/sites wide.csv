@@ -1,5 +1,5 @@
 plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;comment;altitude;latitude;longitude;accuracy;alliance;association;location
-ms01;90;35;70;40;75;10;14;10;3;0,6;0,2;10;25;SW;40;2;0;0;2014-05-25;bei Kirche am Steinspitz, gestört mit vielen Wegen;;47.969533N;13.093622E;10;Cephalanthero Fagenion;Carici albae-Fagetum;Mattsee, Steinspitz
+ms01;90;35;70;40;75;10;14;10;3;0,6;0,2;10;25;SW;40;2;0;0;2014-05-25;bei Kirche am Steinspitz, gestört mit vielen Wegen;;47.969533N;13.093622E;10;Cephalanthero-Fagenion;Carici albae-Fagetum;Mattsee, Steinspitz
 ms02;95;40;50;75;75;15;14;9;3;0,6;0,3;16;16;SW;50;10;0;0;2014-05-25;;;47.970876N;13.107590E;10;Carpinion betuli;;Mattsee, Schlossberg
 ms03;90;0;0;85;60;50;0;0;3;0,5;0,25;8;8;SW;35;20;0;0;2014-05-25;SW Fahne am Schlossberg;;47.970784N;13.107378E;10;Berberidion;Ligustro Prunetum;Mattsee, Schlossberg
 ms04;97;25;40;80;65;80;14;10;5;0,5;0,3;25;10;W;65;20;0;0;2014-05-25;;;47.970838N;13.107268E;10;Carpinion betuli;;Mattsee, Schlossberg

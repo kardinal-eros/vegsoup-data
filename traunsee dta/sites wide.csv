@@ -43,17 +43,17 @@ ts41;tsx12;forest;2015-07-06;95;30;7;85;55;40;14;8;5;1;0,2;16;16;W;35;0;0;100;47
 ts42;tsx13;forest;2015-07-06;98;15;7;85;55;60;21;8;6;0,8;0,3;10;24;W;35;0;0;100;47.824404N;13.808568E;10;Rötelstein;;;Rieselhumus;Tilenion platyphylli;;in sanfter Schuttrinne mit Rieselhumus;R. Kaiser & T. Eberl
 ts43;tsx14;forest;2015-07-06;75;0;20;10;70;1;0;9;3;1;0,3;16;16;S;55;30;0;0;47.822070N;13.806650E;5;Spitzlstein;;;Rendzina;Tilenion platyphylli;;;R. Kaiser
 ts44;tsx15;forest;2015-07-06;70;0;25;15;60;3;0;9;4;0,8;0,25;16;16;SW;50;35;0;0;47.822230N;13.806430E;5;Spitzlstein;;;Rendzina;Tilenion platyphylli;;;R. Kaiser
-ts45;tsx16;forest;2015-07-06;90;45;40;30;65;20;16;9;3;0,7;0,2;16;16;W;35;0;0;0;47.822378N;13.804108E;10;Spitzlstein;;;Rendzina, Moder-Rendzina;Cephalanthero Fagenion;;;R. Kaiser & T. Eberl
+ts45;tsx16;forest;2015-07-06;90;45;40;30;65;20;16;9;3;0,7;0,2;16;16;W;35;0;0;0;47.822378N;13.804108E;10;Spitzlstein;;;Rendzina, Moder-Rendzina;Cephalanthero-Fagenion;;;R. Kaiser & T. Eberl
 ts46;tsx17;forest;2015-07-06;93;70;25;45;35;5;25;15;5;0,6;0,1;16;16;SW;35;0;0;100;47.821770N;13.806110E;10;Spitzlstein;;;Rieselhumus;Tilenion platyphylli;;;T. Eberl
 ts47;tsx18;forest;2015-07-07;97;40;30;25;80;7;16;13;4;1;0,2;16;16;NW;50;20;0;0;47.846680N;13.810430E;10;Eisenau;;;Mull-Rendzina, Rendzina;Tilenion platyphylli;;am und südlich des schmalen Pfades zu der Verebnung, im Zentrum ein Moderstumpf;R. Kaiser
-ts48;tsy01;forest;2015-08-12;97;85;30;1;15;1;32;15;1,5;0,5;0,1;16;16;W;35;0;0;0;47.811998N;13.798019E;10;Spitzlstein;;;Kalkbraunlehm;Cephalanthero Fagenion;;;R. Kaiser
-ts49;tsy02;forest;2015-08-12;70;35;25;35;60;5;13;9;6;0,8;0,1;26;10;W;50;40;0;0;47.812380N;13.798140E;10;Spitzlstein;;;Rendzina, Protorendzina;Cephalanthero Fagenion;;entlang Felskante;R. Kaiser & T. Eberl
+ts48;tsy01;forest;2015-08-12;97;85;30;1;15;1;32;15;1,5;0,5;0,1;16;16;W;35;0;0;0;47.811998N;13.798019E;10;Spitzlstein;;;Kalkbraunlehm;Cephalanthero-Fagenion;;;R. Kaiser
+ts49;tsy02;forest;2015-08-12;70;35;25;35;60;5;13;9;6;0,8;0,1;26;10;W;50;40;0;0;47.812380N;13.798140E;10;Spitzlstein;;;Rendzina, Protorendzina;Cephalanthero-Fagenion;;entlang Felskante;R. Kaiser & T. Eberl
 ts50;tsy03;forest;2015-08-12;85;45;60;30;60;7;13;9;5;0,6;0,3;16;16;W;70;100;0;0;47.812290N;13.799060E;10;Spitzlstein;;;Rendzina;Tilenion platyphylli;;im unteren Teil der Felsstufe, Bestand randlich von Lawinen beeinflusst;R. Kaiser & T. Eberl
 ts51;tsy04;forest;2015-08-12;80;45;30;45;25;20;14;10;5;0,8;0,1;16;16;W;70;90;0;0;47.819030N;13.802180E;10;Spitzlstein;;;Mull-Rendzina, Rendzina;Tilenion platyphylli;;an niedriger Felsstufe neben Rinne;R. Kaiser & T. Eberl
 ts52;tsy05;forest;2015-08-13;90;55;35;5;40;3;13;7;3;0,8;0,3;16;16;SW;60;50;0;0;47.816153N;13.802703E;10;Spitzlstein;;;Rendzina;Tilenion platyphylli;;;R. Kaiser & T. Eberl
-ts53;tsy06;forest;2015-08-13;95;75;15;5;90;1;25;11;4;0,8;0,2;26;10;W;40;7;0;0;47.814296N;13.802839E;10;Spitzlstein;;;Rendzina;Cephalanthero Fagenion;;unterhalb schrofiger Wandstufe;R. Kaiser & T. Eberl
-ts54;tsy07;forest;2015-08-13;95;75;25;15;95;1;16;9;2;0,7;0,25;16;16;W;30;15;0;0;47.814549N;13.802466E;10;Spitzlstein;;;Rendzina;Cephalanthero Fagenion;;;R. Kaiser & T. Eberl
+ts53;tsy06;forest;2015-08-13;95;75;15;5;90;1;25;11;4;0,8;0,2;26;10;W;40;7;0;0;47.814296N;13.802839E;10;Spitzlstein;;;Rendzina;Cephalanthero-Fagenion;;unterhalb schrofiger Wandstufe;R. Kaiser & T. Eberl
+ts54;tsy07;forest;2015-08-13;95;75;25;15;95;1;16;9;2;0,7;0,25;16;16;W;30;15;0;0;47.814549N;13.802466E;10;Spitzlstein;;;Rendzina;Cephalanthero-Fagenion;;;R. Kaiser & T. Eberl
 ts55;tsy08;shrubery;2015-08-13;70;0;30;60;60;3;0;9;4,5;0,5;0,25;8;8;SW;75;90;0;0;47.814715N;13.802125E;20;Spitzlstein;;;Rendzina;Berberidion;;;R. Kaiser & T. Eberl
-ts56;tsy09;forest;2015-08-13;95;35;50;3;80;1;23;15;3;0,8;0,1;16;16;NW;40;0;0;5;47.814763N;13.801735E;10;Spitzlstein;;;Rendzina;Cephalanthero Fagenion;;;R. Kaiser & T. Eberl
-ts57;tsy10;forest;2015-08-13;97;80;25;5;80;3;24;16;2;0,6;0,3;16;16;W;30;0;0;0;47.815250N;13.800638E;10;Spitzlstein;;;Rendzina;Cephalanthero Fagenion;;;R. Kaiser & T. Eberl
-ts58;tsy11;forest;2015-08-13;93;8;50;25;85;15;24;18;4;0,8;0,1;16;16;W;45;25;0;0;47.815438N;13.800007E;10;Spitzlstein;;;Rendzina;Cephalanthero Fagenion;rope betray: 47.815438N,13.800007E, rope range (±90m): 47.815490N,13.799700E;;R. Kaiser & T. Eberl
+ts56;tsy09;forest;2015-08-13;95;35;50;3;80;1;23;15;3;0,8;0,1;16;16;NW;40;0;0;5;47.814763N;13.801735E;10;Spitzlstein;;;Rendzina;Cephalanthero-Fagenion;;;R. Kaiser & T. Eberl
+ts57;tsy10;forest;2015-08-13;97;80;25;5;80;3;24;16;2;0,6;0,3;16;16;W;30;0;0;0;47.815250N;13.800638E;10;Spitzlstein;;;Rendzina;Cephalanthero-Fagenion;;;R. Kaiser & T. Eberl
+ts58;tsy11;forest;2015-08-13;93;8;50;25;85;15;24;18;4;0,8;0,1;16;16;W;45;25;0;0;47.815438N;13.800007E;10;Spitzlstein;;;Rendzina;Cephalanthero-Fagenion;rope betray: 47.815438N,13.800007E, rope range (±90m): 47.815490N,13.799700E;;R. Kaiser & T. Eberl
