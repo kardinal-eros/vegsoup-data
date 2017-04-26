@@ -1,6 +1,6 @@
 plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
 wa01;99;95;30;70;35;2;21;17;6;0,5;0,3;32;8;SW;40;0;0;0;2015-05-07;47.905577;13.141055;10;Carpinion betuli;;humöser Braunlehm über Morönenschotter;;Wallersee, Seeband;R. Kaiser
-wa02;99;90;35;20;75;20;22;19;5;0,6;0,4;16;16;SE;40;3;0;0;2015-05-07;47.916538;13.157057;10;Tilio-Acerion;;humöser Braunlehm über Konglomerat;;Walllersee, bayerham;R. Kaiser
+wa02;99;90;35;20;75;20;22;19;5;0,6;0,4;16;16;SE;40;3;0;0;2015-05-07;47.916538;13.157057;10;Tilenion platyphylli;;humöser Braunlehm über Konglomerat;;Walllersee, bayerham;R. Kaiser
 wa03;98;85;35;3;85;1;19;15;3;0,3;0,2;16;16;NW;45;0;0;0;2015-05-07;47.918109;13.194380;10;Cephalanthero Fagenion;;verbraunte rendzina über Moräne;;Wallersee, Marieninsel;R. Kaiser
 wa04;99;90;20;2;65;1;22;16;3;0,3;0,15;16;16;NW;45;0;0;0;2015-05-07;47.919070;13.195676;10;Cephalanthero Fagenion;;verbraunte rendzina über Moräne;;Wallersee, Marieninsel;R. Kaiser
 wa05;98;80;30;50;60;1;19;15;5;0,4;0,2;16;16;F;0;0;20;0;2015-05-07;47.920791;13.198407;10;Carpinion betuli;;Kalkschotter;an der Spitze der Halbinsel mit Wege und Feuerstelle;Wallersee, Marieninsel;R. Kaiser
