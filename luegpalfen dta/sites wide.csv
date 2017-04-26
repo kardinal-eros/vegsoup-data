@@ -1,35 +1,38 @@
-plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;location;comment;latitude;longitude;accuracy;alliance;alliance.author;soil;rope;observer
-lp01;80;50;60;40;70;1;15;10;6;0,6;0,25;16;16;S;55;30;0;0;2014-08-29;Luegpalfen, E Eisenbahntunnel;;47.568930;13.183305;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp02;95;70;35;7;90;1;17;9;5;0,6;0,2;16;16;S;35;1;3;1;2014-08-29;Luegpalfen, E Eisenbahntunnel;;47.569205;13.183323;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp03;80;40;50;25;45;1;20;11;6;0,6;0,3;25;10;S;70;50;0;0;2014-08-29;Luegpalfen, E Eisenbahntunnel;entlang Felsstufe, am Ende der Seilversicherung gegen E;47.569551;13.183672;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp04;85;40;40;15;55;5;14;9;6;0,5;0,3;16;16;S;65;50;0;0;2014-08-29;Luegpalfen, W Eisenbahntunnel;;47.568867;13.179888;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp05;97;80;15;5;90;1;18;15;3;0,5;0,25;16;16;S;35;10;0;0;2014-08-29;Luegpalfen, W Eisenbahntunnel;;47.568638;13.177233;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp06;85;40;45;7;75;1;12;9;6;0,5;0,3;16;16;S;45;30;0;0;2014-08-29;Luegpalfen, W Eisenbahntunnel;;47.568166;13.176443;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp07;85;0;20;35;85;2;0;7;5;0,8;0,4;16;16;S;40;5;0;10;2014-08-29;Luegpalfen, W Eisenbahntunnel;;47.567721;13.176145;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp08;90;30;65;50;70;2;13;10;5;0,8;0,4;10;25;S;75;30;0;15;2014-08-29;Luegpalfen, W Eisenbahntunnel;;47.567098;13.177215;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;rope betray (lp08-lp08'): 47.567279N, 13.177232E, rope range (lp08-lp08'' ±90m): 47.566986N, 13.177189E;R. Kaiser
-lp09;98;60;35;3;70;2;18;13;3;0,6;0,2;16;16;S;50;20;0;0;2014-09-28;Luegpalfen, E Eisenbahntunnel;;47.569320;13.185160;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp10;80;20;65;7;75;1;20;13;5;0,8;0,25;16;16;S;45;10;0;15;2014-09-28;Luegpalfen, W Eisenbahntunnel;;47.568997;13.178253;20;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp11;85;10;45;30;70;1;9;7;4,5;0,8;0,3;16;16;S;60;30;0;0;2014-09-28;Luegpalfen, W Eisenbahntunnel;im Zentrum ein Baumstumpf;47.568252;13.175201;10;Cephalanthero Fagenion;Luquet 1926;;;R. Kaiser
-lp12;98;80;60;15;60;1;18;10;4;0,6;0,2;16;16;S;40;10;0;0;2014-09-28;Luegpalfen, W Eisenbahntunnel;;47.567944;13.175500;20;Cephalanthero Fagenion;Luquet 1926;Mull-Rendzina;;R. Kaiser
-lp13;90;40;50;50;55;1;12;9;4;0,7;0,25;10;25;S;65;50;0;0;2014-09-28;Luegpalfen, E Autobahntunnel;ab Abseilpunkt abwärts;47.567578;13.174326;10;Tilenion platyphylli;(Moor 1973) Müller 1992;Mull-Rendzina;rope betray (lp13-lp14'): 47.567780N, 13.174300E, rope range (lp13-lp14'' 100m!): 47.567200N, 13.174230E;R. Kaiser
-lp14;80;35;25;55;35;2;12;8;4;0,7;0,25;16;16;S;60;60;0;0;2014-09-28;Luegpalfen, E Autobahntunnel;am Fuß des Felshanges;47.567250;13.174270;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;rope betray (lp13-lp14'): 47.567780N, 13.174300E, rope range (lp13-lp14'' 100m!): 47.567200N, 13.174230E;R. Kaiser
-lp15;65;0;15;60;40;2;0;5;3;0,8;0,3;16;16;S;70;60;0;0;2014-10-06;Luegpalfen, oberhalb Autobahntunnel;;47.567200;13.172242;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp16;80;0;10;70;25;2;0;5;2,5;0,3;0,05;8;8;S;70;75;0;0;2014-11-03;Salzachöfen, rechstufrig;oberhalb eienr Bank mit M. domestica;47.577695;13.190430;20;Berberidion;Br.-Bl. ex Tx. 1952;;;R. Kaiser
-lp17;85;40;35;60;50;5;10;7;2,5;0,8;0,3;25;10;S;70;50;0;0;2014-11-03;Salzachöfen, rechstufrig;;47.578773;13.18778;20;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp18;99;50;55;30;85;40;28;18;5;0,6;0,3;16;16;S;25;0;0;90;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;in der Mitte ein alter Drahtzaun;47.566703;13.175817;10;Tilenion platyphylli;(Moor 1973) Müller 1992;verbraunte lehmige Rendzina mit Blockschutt;;R. Kaiser
-lp19;70;20;50;75;20;3;13;9;5;0,6;0,3;16;16;S;15;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;;47.566988;13.175727;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp20;80;25;50;50;40;1;13;9;5;0,9;0,3;16;16;S;20;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;am Wandfuss;47.567005;13.175058;10;Tilenion platyphylli;(Moor 1973) Müller 1992;Rieselhumus in Blockwerk;;R. Kaiser
-lp21;95;75;25;55;60;3;18;13;6;0,7;0,3;16;16;S;30;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;Zentrum bei großem A. platanoides;47.567038;13.174430;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp22;99;65;75;55;20;35;22;13;6;0,6;0,25;16;16;S;25;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;;47.567001;13.174190;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp23;97;20;40;80;15;1;14;9;5;0,8;0,15;16;16;S;30;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;;47.567104;13.172956;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp24;99;80;25;25;25;80;24;19;5;0,6;0,25;16;16;S;15;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;;47.566759;13.173608;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp25;95;0;40;85;80;2;0;8;4;1;0,15;16;16;SW;70;20;0;0;2015-06-01;Salzachöfen, Amonitenwand;zwischen den Seilversicherungen;47.578716;13.192402;10;Tilenion platyphylli;(Moor 1973) Müller 1992;Rendzina;;R. Kaiser
-lp26;97;65;55;50;65;25;10;8;3,5;0,7;0,2;16;16;SW;55;40;0;0;2015-06-01;Salzachöfen, Amonitenwand;oberhalb der Seilversicherung ;47.578841;13.192595;10;Tilenion platyphylli;(Moor 1973) Müller 1992;Mull-Rendzina;;R. Kaiser
-lp27;98;70;35;40;35;30;23;14;5;0,4;0,2;16;16;S;15;0;0;100;2015-06-01;Luegpalfen, Unterhang zwischen Tunneln;;47.566867;13.177985;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;;R. Kaiser
-lp28;80;45;50;1;35;1;24;11;3;0,5;0,1;16;16;W;40;5;0;10;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.555433;13.171353;10;Fagion sylvaticae;Luquet 1926;;;
-lp29;97;70;30;1;45;1;16;8;3,5;0,5;0,25;16;16;W;35;1;0;0;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.555010;13.171641;10;Cephalanthero Fagenion;Luquet 1926;;;
-lp30;97;70;25;1;40;1;20;11;0;0,5;0,2;16;16;W;45;5;0;0;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.554782;13.172075;10;Cephalanthero Fagenion;Luquet 1926;;;
-lp31;80;60;15;10;65;1;22;15;4;0,8;0,25;16;16;W;45;20;0;10;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.554408;13.171543;10;Cephalanthero Fagenion;Luquet 1926;;;
-lp32;85;50;20;1;45;1;15;9;3;0,8;0,3;16;16;W;50;85;0;5;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.553013;13.172425;10;Cephalanthero Fagenion;Luquet 1926;;;
-lp33;80;0;35;7;65;1;0;8;3;0,6;0,25;16;16;SW;50;35;0;0;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.552000;13.172650;10;Cephalanthero Fagenion;Luquet 1926;;;
-lp34;95;25;60;3;35;1;18;12;3,5;0,7;0,25;16;16;SW;40;0;0;100;2015-04-24, 2015-08-31;Hiefler, Westseite;;47.552193;13.172923;10;Cephalanthero Fagenion;Luquet 1926;;;
+plot,cov,tcov1,tcov2,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,location,comment,latitude,longitude,accuracy,alliance,alliance.author,soil,rope,observer
+lp01,80,50,60,40,70,1,15,10,6,0.6,0.25,16,16,S,55,30,0,0,2014-08-29,"Luegpalfen, E Eisenbahntunnel",,47.568930,13.183305,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp02,95,70,35,7,90,1,17,9,5,0.6,0.2,16,16,S,35,1,3,1,2014-08-29,"Luegpalfen, E Eisenbahntunnel",,47.569205,13.183323,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp03,80,40,50,25,45,1,20,11,6,0.6,0.3,25,10,S,70,50,0,0,2014-08-29,"Luegpalfen, E Eisenbahntunnel","entlang Felsstufe, am Ende der Seilversicherung gegen E",47.569551,13.183672,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp04,85,40,40,15,55,5,14,9,6,0.5,0.3,16,16,S,65,50,0,0,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.568867,13.179888,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp05,97,80,15,5,90,1,18,15,3,0.5,0.25,16,16,S,35,10,0,0,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.568638,13.177233,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp06,85,40,45,7,75,1,12,9,6,0.5,0.3,16,16,S,45,30,0,0,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.568166,13.176443,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp07,85,0,20,35,85,2,0,7,5,0.8,0.4,16,16,S,40,5,0,10,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.567721,13.176145,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp08,90,30,65,50,70,2,13,10,5,0.8,0.4,10,25,S,75,30,0,15,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.567098,13.177215,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,"rope betray (lp08-lp08'): 47.567279N, 13.177232E, rope range (lp08-lp08'' ±90m): 47.566986N, 13.177189E",R. Kaiser
+lp09,98,60,35,3,70,2,18,13,3,0.6,0.2,16,16,S,50,20,0,0,2014-09-28,"Luegpalfen, E Eisenbahntunnel",,47.569320,13.185160,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp10,80,20,65,7,75,1,20,13,5,0.8,0.25,16,16,S,45,10,0,15,2014-09-28,"Luegpalfen, W Eisenbahntunnel",,47.568997,13.178253,20,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp11,85,10,45,30,70,1,9,7,4.5,0.8,0.3,16,16,S,60,30,0,0,2014-09-28,"Luegpalfen, W Eisenbahntunnel",im Zentrum ein Baumstumpf,47.568252,13.175201,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp12,98,80,60,15,60,1,18,10,4,0.6,0.2,16,16,S,40,10,0,0,2014-09-28,"Luegpalfen, W Eisenbahntunnel",,47.567944,13.175500,20,Cephalanthero Fagenion,Luquet 1926,Mull-Rendzina,,R. Kaiser
+lp13,90,40,50,50,55,1,12,9,4,0.7,0.25,10,25,S,65,50,0,0,2014-09-28,"Luegpalfen, E Autobahntunnel",ab Abseilpunkt abwärts,47.567578,13.174326,10,Tilenion platyphylli,(Moor 1973) Müller 1992,Mull-Rendzina,"rope betray (lp13-lp14'): 47.567780N, 13.174300E, rope range (lp13-lp14'' 100m!): 47.567200N, 13.174230E",R. Kaiser
+lp14,80,35,25,55,35,2,12,8,4,0.7,0.25,16,16,S,60,60,0,0,2014-09-28,"Luegpalfen, E Autobahntunnel",am Fuß des Felshanges,47.567250,13.174270,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,"rope betray (lp13-lp14'): 47.567780N, 13.174300E, rope range (lp13-lp14'' 100m!): 47.567200N, 13.174230E",R. Kaiser
+lp15,65,0,15,60,40,2,0,5,3,0.8,0.3,16,16,S,70,60,0,0,2014-10-06,"Luegpalfen, oberhalb Autobahntunnel",,47.567200,13.172242,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp16,80,0,10,70,25,2,0,5,2.5,0.3,0.05,8,8,S,70,75,0,0,2014-11-03,"Salzachöfen, rechstufrig",oberhalb eienr Bank mit M. domestica,47.577695,13.190430,20,Berberidion,Br.-Bl. ex Tx. 1952,,,R. Kaiser
+lp17,85,40,35,60,50,5,10,7,2.5,0.8,0.3,25,10,S,70,50,0,0,2014-11-03,"Salzachöfen, rechstufrig",,47.578773,13.18778,20,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp18,99,50,55,30,85,40,28,18,5,0.6,0.3,16,16,S,25,0,0,90,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",in der Mitte ein alter Drahtzaun,47.566703,13.175817,10,Tilenion platyphylli,(Moor 1973) Müller 1992,verbraunte lehmige Rendzina mit Blockschutt,,R. Kaiser
+lp19,70,20,50,75,20,3,13,9,5,0.6,0.3,16,16,S,15,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",,47.566988,13.175727,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp20,80,25,50,50,40,1,13,9,5,0.9,0.3,16,16,S,20,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",am Wandfuss,47.567005,13.175058,10,Tilenion platyphylli,(Moor 1973) Müller 1992,Rieselhumus in Blockwerk,,R. Kaiser
+lp21,95,75,25,55,60,3,18,13,6,0.7,0.3,16,16,S,30,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",Zentrum bei großem A. platanoides,47.567038,13.174430,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp22,99,65,75,55,20,35,22,13,6,0.6,0.25,16,16,S,25,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",,47.567001,13.174190,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp23,97,20,40,80,15,1,14,9,5,0.8,0.15,16,16,S,30,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",,47.567104,13.172956,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp24,99,80,25,25,25,80,24,19,5,0.6,0.25,16,16,S,15,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",,47.566759,13.173608,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp25,95,0,40,85,80,2,0,8,4,1,0.15,16,16,SW,70,20,0,0,2015-06-01,"Salzachöfen, Amonitenwand",zwischen den Seilversicherungen,47.578716,13.192402,10,Tilenion platyphylli,(Moor 1973) Müller 1992,Rendzina,,R. Kaiser
+lp26,97,65,55,50,65,25,10,8,3.5,0.7,0.2,16,16,SW,55,40,0,0,2015-06-01,"Salzachöfen, Amonitenwand",oberhalb der Seilversicherung ,47.578841,13.192595,10,Tilenion platyphylli,(Moor 1973) Müller 1992,Mull-Rendzina,,R. Kaiser
+lp27,98,70,35,40,35,30,23,14,5,0.4,0.2,16,16,S,15,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",,47.566867,13.177985,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp28,80,45,50,1,35,1,24,11,3,0.5,0.1,16,16,W,40,5,0,10,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.555433,13.171353,10,Fagion sylvaticae,Luquet 1926,,,R. Kaiser
+lp29,97,70,30,1,45,1,16,8,3.5,0.5,0.25,16,16,W,35,1,0,0,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.555010,13.171641,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp30,97,70,25,1,40,1,20,11,0,0.5,0.2,16,16,W,45,5,0,0,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.554782,13.172075,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp31,80,60,15,10,65,1,22,15,4,0.8,0.25,16,16,W,45,20,0,10,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.554408,13.171543,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp32,85,50,20,1,45,1,15,9,3,0.8,0.3,16,16,W,50,85,0,5,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.553013,13.172425,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp33,80,0,35,7,65,1,0,8,3,0.6,0.25,16,16,SW,50,35,0,0,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.552000,13.172650,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lp34,95,25,60,3,35,1,18,12,3.5,0.7,0.25,16,16,SW,40,0,0,100,"2015-04-24, 2015-08-31","Hiefler, Westseite",,47.552193,13.172923,10,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lpx01,,,,,,,,,,,,,,,,,,,2017-03-24,Hollererberg,planned,47.575097,13.164389,20,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lpx02,,,,,,,,,,,,,,,,,,,2017-03-24,Hollererberg,planned,47.575547,13.164575,20,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
+lpx03,,,,,,,,,,,,,,,,,,,2017-03-24,Hollererberg,planned,47.575086,13.166104,20,Cephalanthero Fagenion,Luquet 1926,,,R. Kaiser
