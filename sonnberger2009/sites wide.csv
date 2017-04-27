@@ -1,72 +1,72 @@
-plot;pls;cov;tcov;scov;hcov;mcov;htl;hsl;hhl;expo;slope;latitude;longitude;accuracy;elevation;date;association;alliance;location
-1;500;85;75;5;40;0;15;2;40;NW;30;47.810833;13.076944;50;470;2007-05-14;Helleboro nigri-Fagetum Zukrigl 1973 s.str.;Cephalanthero-Fagenion;Buchenwald & GLT 00114 Kühberg
-2;500;70;70;2;50;0;15;2;50;S;35;47.809722;13.081667;50;660;2007-06-06;Helleboro nigri-Fagetum Zukrigl 1973 s.str.;Cephalanthero-Fagenion;Buchenwald & GLT 00114 Kühberg
-3;500;75;65;0;35;10;20;0;40;NW;30;47.749722;13.125556;50;1020;2007-06-09;Cardamino trifoliae-Fagetum Oberd. 1987 -typicum;Lonicero alpigenae-Fagenion;Bu-Fi-Ta Wald/Mühlsteinwald
-4;400;90;90;0;1;1;18;0;10;W;5;47.753333;13.126111;50;1030;2007-07-10;Cardamino trifoliae-Fagetum Oberd. 1987 -typicum;Lonicero alpigenae-Fagenion;Bu-Fi-Ta Wald/Mühlsteinwald
-5;400;70;60;0;10;0;25;0;30;O;30;47.756667;13.126944;50;850;2007-07-10;Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum;Lonicero alpigenae-Fagenion;Bu-Fi-Ta Wald/Mühlsteinwald
-6;900;90;80;1;1;0;30;3;30;O;40;47.760556;13.125278;50;850;2007-07-11;Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum;Lonicero alpigenae-Fagenion;Bu-Fi-Ta Wald/Mühlsteinwald
-7;625;70;60;8;20;0;15;5;40;O;20;47.757778;13.129722;50;715;2007-07-11;Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum;Lonicero alpigenae-Fagenion;Bu-Fi-Ta Wald/Mühlsteinwald
-8;625;80;65;0;40;15;15;0;80;W;30;47.744722;13.117778;50;900;2007-07-12;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Bu-Eiben Wald N Steingut
-9;625;80;75;1;30;0;15;3;30;W;25;47.747778;13.112222;50;810;2007-07-12;Mercuriali-Fagetum Scamoni 1935 -tilietosum;Eu-Fagenion;Bu-Eiben Wald N Steingut
-10;500;80;70;0;35;0;20;0;50;W;10;47.749722;13.108889;50;815;2007-07-13;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Bu-Eiben Wald N Steingut
-11;750;90;90;0;2;0;20;0;10;W;15;47.751667;13.104444;50;750;2007-07-13;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Bu-Eiben Wald N Steingut
-12;500;85;80;0;20;0;25;0;40;O;35;47.748611;13.133333;50;900;2007-07-15;Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum;Lonicero alpigenae-Fagenion;Rotbuchenmischwald W Mühlsteinwand
-13;500;85;85;0;1;0;25;0;20;SO;35;47.734444;13.127500;50;800;2007-07-16;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Rotbuchenmischwald W Mühlsteinwand
-14;500;80;80;0;20;0;25;0;30;S;30;47.737500;13.127778;50;830;2007-07-16;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Rotbuchenmischwald W Mühlsteinwand
-15;500;70;60;0;35;0;20;0;80;SO;30;47.743611;13.131389;50;840;2007-07-16;Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum;Lonicero alpigenae-Fagenion;Rotbuchenmischwald W Mühlsteinwand
-16;500;75;65;1;30;0;25;2;50;NW;35;47.692778;13.154167;50;630;2007-07-18;Mercuriali-Fagetum Scamoni 1935 -caricetosum albae;Eu-Fagenion;Eibenreicher Bu Wald SW Hinterstadl
-17;500;75;70;2;5;0;20;3;50;S;20;47.694722;13.152778;50;700;2007-07-19;Mercuriali-Fagetum Scamoni 1935 -tilietosum;Eu-Fagenion;Eibenreicher Wald am Guggenkopf
-18;500;90;85;0;10;0;25;1;30;W;30;47.707222;13.160833;50;670;2007-07-19;Mercuriali-Fagetum Scamoni 1935 -caricetosum albae;Eu-Fagenion;Eibenreicher Bu Wald SO Unterschneid
-19;450;80;80;0;10;0;25;3;50;SO;35;47.700556;13.158889;50;700;2007-07-20;Mercuriali-Fagetum Scamoni 1935 -caricetosum albae;Eu-Fagenion;Eibenreicher Bu Wald W Gehöft Grub
-20;500;80;75;0;15;0;20;1;50;SO;25;47.697500;13.156944;50;630;2007-07-20;Mercuriali-Fagetum Scamoni 1935 -caricetosum albae;Eu-Fagenion;Eibenreicher Bu Wald SO Großwolfgrub
-21;500;70;65;0;5;0;20;0;30;W;10;47.692500;13.147500;50;660;2007-07-21;Helleboro nigri-Fagetum Zukrigl 1973 s.str.;Cephalanthero-Fagenion;Eibenreicher Wald am Guggenkopf
-22;500;85;70;0;20;0;20;0;30;SW;30;47.706111;13.160833;50;850;2007-07-21;Helleboro nigri-Fagetum Zukrigl 1973 s.str.;Cephalanthero-Fagenion;Eibenreicher Bu Wald Schnaitberg
-23;500;80;80;0;5;0;25;0;30;SO;15;47.707222;13.163889;50;860;2007-07-22;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Eibenreicher Bu Wald Schnaitberg
-24;500;80;80;0;5;0;25;0;40;SW;5;47.710278;13.158889;50;840;2007-07-22;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Eibenreicher Bu Wald Schnaitberg
-25;500;85;85;0;5;2;25;8;50;N;30;47.685278;13.165833;50;660;2007-07-23;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Eibenreicher Bu Wald S Allreitbach
-26;500;80;80;5;5;2;18;5;50;S;35;47.685278;13.167778;50;680;2007-07-24;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Eibenreicher Bu Wald N Allreitbach
-27;500;80;75;0;12;0;20;0;50;N;30;47.745278;13.198056;50;1220;2007-07-25;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 1 Ochsenberg
-28;500;70;60;0;20;0;22;0;100;SW;25;47.749167;13.196389;50;1250;2007-07-25;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 1 Ochsenberg
-29;500;80;75;0;20;0;20;0;35;N;30;47.749167;13.191111;50;1130;2007-07-25;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 1 Ochsenberg
-30;500;85;80;0;15;0;25;0;30;N;20;47.752500;13.190000;50;1035;2007-07-26;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 1 Ochsenberg
-31;750;85;50;0;60;0;25;0;100;W;25;47.744722;13.190278;50;950;2007-07-26;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 1 Ochsenberg
-32;500;80;60;0;60;0;18;0;100;N;30;47.741111;13.185000;50;770;2007-07-27;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 1 Ochsenberg
-33;500;80;45;0;60;0;20;0;100;N;30;47.752222;13.201111;50;1220;2007-07-28;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Buchen-Tannen-Wald 3 am Kallersberg
-34;500;90;30;0;80;0;15;0;100;W;30;47.757222;13.194444;50;925;2007-07-28;Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 2 Ochsenberg
-35;500;80;75;0;20;0;25;0;40;O;15;47.758056;13.197778;50;840;2007-07-28;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Buchen-Fichten-Tannen Wald 2 Ochsenberg
-36;500;80;75;0;20;0;22;0;100;O;5;47.717500;13.281667;50;850;2007-07-30;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Fichten-Tannen-Buchenwald W Langfeld
-37;500;80;50;1;40;0;20;2;100;O;35;47.717778;13.277500;50;1070;2007-07-30;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Fichten-Tannen-Buchenwald W Langfeld
-38;500;95;10;45;30;20;15;4;100;NO;35;47.744444;13.211111;50;1340;2007-07-31;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Buchen-Tannen-Wald 2 am Kallersberg
-39;500;90;35;0;65;20;22;0;100;NO;30;47.746667;13.216667;50;1145;2007-07-31;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Buchen-Tannen-Wald 2 am Kallersberg
-40;500;90;50;0;75;0;15;1;100;SO;30;47.749722;13.217500;50;850;2007-08-01;Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae;Lonicero alpigenae-Fagenion;Buchenwald im Weißenbachkessel
-41;500;90;50;0;85;0;20;1;100;O;25;47.748889;13.223611;50;800;2007-08-01;Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae;Lonicero alpigenae-Fagenion;Buchen-Tannen-Wald am Weißenbach
-42;500;90;50;2;80;1;22;1;100;W;30;47.751944;13.223889;50;790;2007-08-01;Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae;Lonicero alpigenae-Fagenion;Buchen-Tannen-Wald NW Wurmwinkl
-43;500;95;85;75;70;0;20;2;100;SW;15;47.808056;13.083611;50;570;2008-06-24;Mercuriali-Fagetum Scamoni 1935 -tilietosum;Eu-Fagenion;Buchenwald & GLT 00114 Kühberg
-44;500;95;80;0;60;1;15;0;40;NW;30;47.810278;13.085000;50;700;2008-06-25;Mercuriali-Fagetum Scamoni 1935 -caricetosum albae;Eu-Fagenion;Buchenwald & GLT 00114 Kühberg
-45;500;95;85;0;45;1;18;0;40;SO;5;47.810833;13.092778;50;720;2008-06-25;Mercuriali-Fagetum Scamoni 1935 -tilietosum;Eu-Fagenion;Fi-Ta-Bu Wald Ghf. Gersbergalm
-46;500;98;90;5;40;0;15;5;40;N;25;47.811667;13.082500;50;570;2008-06-25;Helleboro nigri-Fagetum Zukrigl 1973 s.str.;Cephalanthero-Fagenion;Buchenwald & GLT 00114 Kühberg
-47;500;95;70;60;50;0;22;2;100;S;5;47.812222;13.097778;50;730;2008-06-26;Mercuriali-Fagetum Scamoni 1935 -tilietosum;Eu-Fagenion;Fi-Ta-Bu Wald Ghf. Gersbergalm
-48;500;95;70;1;80;0;20;3;80;SW;10;47.810278;13.101389;50;805;2008-06-26;Mercuriali-Fagetum Scamoni 1935 -caricetosum albae;Eu-Fagenion;Fi-Ta-Bu Wald Ghf. Gersbergalm
-49;500;90;80;0;60;2;20;0;40;W;10;47.809722;13.098889;50;780;2008-06-26;Mercuriali-Fagetum Scamoni 1935 -tilietosum;Eu-Fagenion;Fi-Ta-Bu Wald Ghf. Gersbergalm
-50;500;85;70;0;80;0;15;0;50;SW;20;47.812778;13.115556;50;990;2008-06-27;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Felsdurchsetzte Nockstein-N-Hangwälder
-51;500;80;70;0;40;3;15;0;40;N;30;47.816389;13.121667;50;890;2008-06-27;Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum;Lonicero alpigenae-Fagenion;Felsdurchsetzte Nockstein-N-Hangwälder
-52;500;100;60;2;95;0;15;5;40;N;25;47.814167;13.118611;50;960;2008-06-27;Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae;Lonicero alpigenae-Fagenion;Felsdurchsetzte Nockstein-N-Hangwälder
-53;500;95;90;10;10;0;33;3;60;NW;30;47.685278;13.286389;50;1200;2008-08-07;Cardamino trifoliae-Fagetum Oberd. 1987 -typicum;Lonicero alpigenae-Fagenion;Mischwald am Regenspitz-Nordabhang
-54;500;100;100;0;4;0;20;0;40;NW;20;47.685278;13.284167;50;1100;2008-08-07;Cardamino trifoliae-Fagetum Oberd. 1987 -typicum;Lonicero alpigenae-Fagenion;Mischwald am Regenspitz-Nordabhang
-55;500;95;100;3;15;0;25;5;50;NW;30;47.686667;13.288333;50;1250;2008-08-06;Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri;Lonicero alpigenae-Fagenion;Mischwald am Regenspitz-Nordabhang
-56;500;95;95;0;10;0;20;0;40;NW;30;47.689444;13.291389;50;1200;2008-08-06;Cardamino trifoliae-Fagetum Oberd. 1987 -typicum;Lonicero alpigenae-Fagenion;Buchenwald am Regenspitz-Nordwestabhang
-57;500;100;100;0;2;0;25;0;30;NW;30;47.692222;13.290278;50;1080;2008-08-07;Cardamino trifoliae-Fagetum Oberd. 1987 -typicum;Lonicero alpigenae-Fagenion;Buchenwald am Regenspitz-Nordwestabhang
-58;500;90;75;40;35;0;20;4;50;O;35;47.686389;13.275000;50;1370;2008-08-07;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae;Lonicero alpigenae-Fagenion;Mischwald am Bergköpfl-O-Abhang
-59;500;95;90;5;20;0;25;3;50;W;35;47.725556;13.172222;50;700;2008-08-10;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Eib-Bu Wald W & O Seikmannbach
-60;500;95;90;0;5;0;25;0;60;NO;30;47.694444;13.188889;50;1010;2008-08-10;Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum;Lonicero alpigenae-Fagenion;Fi-Ta-Bu Wald Untergraben
-61;500;90;85;0;45;0;15;0;50;SO;20;47.722778;13.245556;50;1435;2008-08-11;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Buchenwald am Anzenberg
-62;500;85;65;0;55;0;20;0;80;S;20;47.721389;13.231944;50;1380;2008-08-11;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Fichten-Tannen-Buchenwald S Wieserhörndl
-63;500;85;55;2;70;0;15;2;100;NW;30;47.730000;13.228056;50;1220;2008-08-12;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Bu-Ta Wald O Grünaualm
-64;500;90;80;5;80;0;20;2;100;O;25;47.727778;13.224167;50;1200;2008-08-12;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae;Lonicero alpigenae-Fagenion;Bu-Ta Wald S Grünaualm
-65;500;95;90;0;40;1;18;0;100;O;30;47.728889;13.221111;50;1170;2008-08-12;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae;Lonicero alpigenae-Fagenion;Bu-Ta Wald am Spielberg
-66;500;90;70;2;60;1;18;2;100;O;35;47.733333;13.216667;50;1380;2008-08-12;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Bu-Ta Wald am Kallersberg
-67;500;95;75;34;70;0;25;5;70;O;35;47.691111;13.276389;50;1350;2008-08-19;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae;Lonicero alpigenae-Fagenion;Fichten-Tannen-Buchenwald am Auhofköpfl
-68;500;90;80;1;40;2;18;2;60;S;20;47.681944;13.230000;50;1470;2008-08-21;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae;Lonicero alpigenae-Fagenion;Buchenwald 2 NO Nigelkar-Alpe
-69;500;90;85;0;35;5;15;0;40;SO;10;47.677500;13.220000;50;1380;2008-08-21;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Buchenwald 1 NO Nigelkar-Alpe
-70;500;90;65;15;60;1;13;4;100;S;25;47.676944;13.215833;50;1350;2008-08-21;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea;Lonicero alpigenae-Fagenion;Buchenwald NW Nigelkar-Alpe
-71;500;95;85;1;60;1;20;2;60;N;25;47.686389;13.246944;50;1330;2008-08-22;Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae;Lonicero alpigenae-Fagenion;Fichten-Tannen-Buchenwald W Sattelalm
+plot,pls,cov,tcov,scov,hcov,mcov,htl,hsl,hhl,expo,slope,latitude,longitude,accuracy,elevation,date,association,alliance,location
+1,500,85,75,5,40,0,15,2,0.4,NW,30,47.810833,13.076944,50,470,2007-05-14,Helleboro nigri-Fagetum Zukrigl 1973 s.str.,Cephalanthero-Fagenion,Buchenwald & GLT 00114 Kühberg
+2,500,70,70,2,50,0,15,2,0.5,S,35,47.809722,13.081667,50,660,2007-06-06,Helleboro nigri-Fagetum Zukrigl 1973 s.str.,Cephalanthero-Fagenion,Buchenwald & GLT 00114 Kühberg
+3,500,75,65,0,35,10,20,0,0.4,NW,30,47.749722,13.125556,50,1020,2007-06-09,Cardamino trifoliae-Fagetum Oberd. 1987 -typicum,Lonicero alpigenae-Fagenion,Bu-Fi-Ta Wald/Mühlsteinwald
+4,400,90,90,0,1,1,18,0,0.1,W,5,47.753333,13.126111,50,1030,2007-07-10,Cardamino trifoliae-Fagetum Oberd. 1987 -typicum,Lonicero alpigenae-Fagenion,Bu-Fi-Ta Wald/Mühlsteinwald
+5,400,70,60,0,10,0,25,0,0.3,O,30,47.756667,13.126944,50,850,2007-07-10,Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum,Lonicero alpigenae-Fagenion,Bu-Fi-Ta Wald/Mühlsteinwald
+6,900,90,80,1,1,0,30,3,0.3,O,40,47.760556,13.125278,50,850,2007-07-11,Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum,Lonicero alpigenae-Fagenion,Bu-Fi-Ta Wald/Mühlsteinwald
+7,625,70,60,8,20,0,15,5,0.4,O,20,47.757778,13.129722,50,715,2007-07-11,Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum,Lonicero alpigenae-Fagenion,Bu-Fi-Ta Wald/Mühlsteinwald
+8,625,80,65,0,40,15,15,0,0.8,W,30,47.744722,13.117778,50,900,2007-07-12,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Bu-Eiben Wald N Steingut
+9,625,80,75,1,30,0,15,3,0.3,W,25,47.747778,13.112222,50,810,2007-07-12,Mercuriali-Fagetum Scamoni 1935 -tilietosum,Eu-Fagenion,Bu-Eiben Wald N Steingut
+10,500,80,70,0,35,0,20,0,0.5,W,10,47.749722,13.108889,50,815,2007-07-13,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Bu-Eiben Wald N Steingut
+11,750,90,90,0,2,0,20,0,0.1,W,15,47.751667,13.104444,50,750,2007-07-13,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Bu-Eiben Wald N Steingut
+12,500,85,80,0,20,0,25,0,0.4,O,35,47.748611,13.133333,50,900,2007-07-15,Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum,Lonicero alpigenae-Fagenion,Rotbuchenmischwald W Mühlsteinwand
+13,500,85,85,0,1,0,25,0,0.2,SO,35,47.734444,13.127500,50,800,2007-07-16,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Rotbuchenmischwald W Mühlsteinwand
+14,500,80,80,0,20,0,25,0,0.3,S,30,47.737500,13.127778,50,830,2007-07-16,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Rotbuchenmischwald W Mühlsteinwand
+15,500,70,60,0,35,0,20,0,0.8,SO,30,47.743611,13.131389,50,840,2007-07-16,Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum,Lonicero alpigenae-Fagenion,Rotbuchenmischwald W Mühlsteinwand
+16,500,75,65,1,30,0,25,2,0.5,NW,35,47.692778,13.154167,50,630,2007-07-18,Mercuriali-Fagetum Scamoni 1935 -caricetosum albae,Eu-Fagenion,Eibenreicher Bu Wald SW Hinterstadl
+17,500,75,70,2,5,0,20,3,0.5,S,20,47.694722,13.152778,50,700,2007-07-19,Mercuriali-Fagetum Scamoni 1935 -tilietosum,Eu-Fagenion,Eibenreicher Wald am Guggenkopf
+18,500,90,85,0,10,0,25,1,0.3,W,30,47.707222,13.160833,50,670,2007-07-19,Mercuriali-Fagetum Scamoni 1935 -caricetosum albae,Eu-Fagenion,Eibenreicher Bu Wald SO Unterschneid
+19,450,80,80,0,10,0,25,3,0.5,SO,35,47.700556,13.158889,50,700,2007-07-20,Mercuriali-Fagetum Scamoni 1935 -caricetosum albae,Eu-Fagenion,Eibenreicher Bu Wald W Gehöft Grub
+20,500,80,75,0,15,0,20,1,0.5,SO,25,47.697500,13.156944,50,630,2007-07-20,Mercuriali-Fagetum Scamoni 1935 -caricetosum albae,Eu-Fagenion,Eibenreicher Bu Wald SO Großwolfgrub
+21,500,70,65,0,5,0,20,0,0.3,W,10,47.692500,13.147500,50,660,2007-07-21,Helleboro nigri-Fagetum Zukrigl 1973 s.str.,Cephalanthero-Fagenion,Eibenreicher Wald am Guggenkopf
+22,500,85,70,0,20,0,20,0,0.3,SW,30,47.706111,13.160833,50,850,2007-07-21,Helleboro nigri-Fagetum Zukrigl 1973 s.str.,Cephalanthero-Fagenion,Eibenreicher Bu Wald Schnaitberg
+23,500,80,80,0,5,0,25,0,0.3,SO,15,47.707222,13.163889,50,860,2007-07-22,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Eibenreicher Bu Wald Schnaitberg
+24,500,80,80,0,5,0,25,0,0.4,SW,5,47.710278,13.158889,50,840,2007-07-22,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Eibenreicher Bu Wald Schnaitberg
+25,500,85,85,0,5,2,25,8,0.5,N,30,47.685278,13.165833,50,660,2007-07-23,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Eibenreicher Bu Wald S Allreitbach
+26,500,80,80,5,5,2,18,5,0.5,S,35,47.685278,13.167778,50,680,2007-07-24,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Eibenreicher Bu Wald N Allreitbach
+27,500,80,75,0,12,0,20,0,0.5,N,30,47.745278,13.198056,50,1220,2007-07-25,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 1 Ochsenberg
+28,500,70,60,0,20,0,22,0,1,SW,25,47.749167,13.196389,50,1250,2007-07-25,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 1 Ochsenberg
+29,500,80,75,0,20,0,20,0,0.35,N,30,47.749167,13.191111,50,1130,2007-07-25,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 1 Ochsenberg
+30,500,85,80,0,15,0,25,0,0.3,N,20,47.752500,13.190000,50,1035,2007-07-26,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 1 Ochsenberg
+31,750,85,50,0,60,0,25,0,1,W,25,47.744722,13.190278,50,950,2007-07-26,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 1 Ochsenberg
+32,500,80,60,0,60,0,18,0,1,N,30,47.741111,13.185000,50,770,2007-07-27,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 1 Ochsenberg
+33,500,80,45,0,60,0,20,0,1,N,30,47.752222,13.201111,50,1220,2007-07-28,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Buchen-Tannen-Wald 3 am Kallersberg
+34,500,90,30,0,80,0,15,0,1,W,30,47.757222,13.194444,50,925,2007-07-28,Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 2 Ochsenberg
+35,500,80,75,0,20,0,25,0,0.4,O,15,47.758056,13.197778,50,840,2007-07-28,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Buchen-Fichten-Tannen Wald 2 Ochsenberg
+36,500,80,75,0,20,0,22,0,1,O,5,47.717500,13.281667,50,850,2007-07-30,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Fichten-Tannen-Buchenwald W Langfeld
+37,500,80,50,1,40,0,20,2,1,O,35,47.717778,13.277500,50,1070,2007-07-30,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Fichten-Tannen-Buchenwald W Langfeld
+38,500,95,10,45,30,20,15,4,1,NO,35,47.744444,13.211111,50,1340,2007-07-31,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Buchen-Tannen-Wald 2 am Kallersberg
+39,500,90,35,0,65,20,22,0,1,NO,30,47.746667,13.216667,50,1145,2007-07-31,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Buchen-Tannen-Wald 2 am Kallersberg
+40,500,90,50,0,75,0,15,1,1,SO,30,47.749722,13.217500,50,850,2007-08-01,Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae,Lonicero alpigenae-Fagenion,Buchenwald im Weißenbachkessel
+41,500,90,50,0,85,0,20,1,1,O,25,47.748889,13.223611,50,800,2007-08-01,Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae,Lonicero alpigenae-Fagenion,Buchen-Tannen-Wald am Weißenbach
+42,500,90,50,2,80,1,22,1,1,W,30,47.751944,13.223889,50,790,2007-08-01,Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae,Lonicero alpigenae-Fagenion,Buchen-Tannen-Wald NW Wurmwinkl
+43,500,95,85,75,70,0,20,2,1,SW,15,47.808056,13.083611,50,570,2008-06-24,Mercuriali-Fagetum Scamoni 1935 -tilietosum,Eu-Fagenion,Buchenwald & GLT 00114 Kühberg
+44,500,95,80,0,60,1,15,0,0.4,NW,30,47.810278,13.085000,50,700,2008-06-25,Mercuriali-Fagetum Scamoni 1935 -caricetosum albae,Eu-Fagenion,Buchenwald & GLT 00114 Kühberg
+45,500,95,85,0,45,1,18,0,0.4,SO,5,47.810833,13.092778,50,720,2008-06-25,Mercuriali-Fagetum Scamoni 1935 -tilietosum,Eu-Fagenion,Fi-Ta-Bu Wald Ghf. Gersbergalm
+46,500,98,90,5,40,0,15,5,0.4,N,25,47.811667,13.082500,50,570,2008-06-25,Helleboro nigri-Fagetum Zukrigl 1973 s.str.,Cephalanthero-Fagenion,Buchenwald & GLT 00114 Kühberg
+47,500,95,70,60,50,0,22,2,1,S,5,47.812222,13.097778,50,730,2008-06-26,Mercuriali-Fagetum Scamoni 1935 -tilietosum,Eu-Fagenion,Fi-Ta-Bu Wald Ghf. Gersbergalm
+48,500,95,70,1,80,0,20,3,0.8,SW,10,47.810278,13.101389,50,805,2008-06-26,Mercuriali-Fagetum Scamoni 1935 -caricetosum albae,Eu-Fagenion,Fi-Ta-Bu Wald Ghf. Gersbergalm
+49,500,90,80,0,60,2,20,0,0.4,W,10,47.809722,13.098889,50,780,2008-06-26,Mercuriali-Fagetum Scamoni 1935 -tilietosum,Eu-Fagenion,Fi-Ta-Bu Wald Ghf. Gersbergalm
+50,500,85,70,0,80,0,15,0,0.5,SW,20,47.812778,13.115556,50,990,2008-06-27,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Felsdurchsetzte Nockstein-N-Hangwälder
+51,500,80,70,0,40,3,15,0,0.4,N,30,47.816389,13.121667,50,890,2008-06-27,Cardamino trifoliae-Fagetum Oberd. 1987 -circaeetosum,Lonicero alpigenae-Fagenion,Felsdurchsetzte Nockstein-N-Hangwälder
+52,500,100,60,2,95,0,15,5,0.4,N,25,47.814167,13.118611,50,960,2008-06-27,Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae,Lonicero alpigenae-Fagenion,Felsdurchsetzte Nockstein-N-Hangwälder
+53,500,95,90,10,10,0,33,3,0.6,NW,30,47.685278,13.286389,50,1200,2008-08-07,Cardamino trifoliae-Fagetum Oberd. 1987 -typicum,Lonicero alpigenae-Fagenion,Mischwald am Regenspitz-Nordabhang
+54,500,100,100,0,4,0,20,0,0.4,NW,20,47.685278,13.284167,50,1100,2008-08-07,Cardamino trifoliae-Fagetum Oberd. 1987 -typicum,Lonicero alpigenae-Fagenion,Mischwald am Regenspitz-Nordabhang
+55,500,95,100,3,15,0,25,5,0.5,NW,30,47.686667,13.288333,50,1250,2008-08-06,Adenostylo glabrae-Fagetum Moor 1970 -helleboretosum nigri,Lonicero alpigenae-Fagenion,Mischwald am Regenspitz-Nordabhang
+56,500,95,95,0,10,0,20,0,0.4,NW,30,47.689444,13.291389,50,1200,2008-08-06,Cardamino trifoliae-Fagetum Oberd. 1987 -typicum,Lonicero alpigenae-Fagenion,Buchenwald am Regenspitz-Nordwestabhang
+57,500,100,100,0,2,0,25,0,0.3,NW,30,47.692222,13.290278,50,1080,2008-08-07,Cardamino trifoliae-Fagetum Oberd. 1987 -typicum,Lonicero alpigenae-Fagenion,Buchenwald am Regenspitz-Nordwestabhang
+58,500,90,75,40,35,0,20,4,0.5,O,35,47.686389,13.275000,50,1370,2008-08-07,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae,Lonicero alpigenae-Fagenion,Mischwald am Bergköpfl-O-Abhang
+59,500,95,90,5,20,0,25,3,0.5,W,35,47.725556,13.172222,50,700,2008-08-10,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Eib-Bu Wald W & O Seikmannbach
+60,500,95,90,0,5,0,25,0,0.6,NO,30,47.694444,13.188889,50,1010,2008-08-10,Cardamino trifoliae-Fagetum Oberd. 1987 – asaretosum,Lonicero alpigenae-Fagenion,Fi-Ta-Bu Wald Untergraben
+61,500,90,85,0,45,0,15,0,0.5,SO,20,47.722778,13.245556,50,1435,2008-08-11,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Buchenwald am Anzenberg
+62,500,85,65,0,55,0,20,0,0.8,S,20,47.721389,13.231944,50,1380,2008-08-11,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Fichten-Tannen-Buchenwald S Wieserhörndl
+63,500,85,55,2,70,0,15,2,1,NW,30,47.730000,13.228056,50,1220,2008-08-12,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Bu-Ta Wald O Grünaualm
+64,500,90,80,5,80,0,20,2,1,O,25,47.727778,13.224167,50,1200,2008-08-12,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae,Lonicero alpigenae-Fagenion,Bu-Ta Wald S Grünaualm
+65,500,95,90,0,40,1,18,0,1,O,30,47.728889,13.221111,50,1170,2008-08-12,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae,Lonicero alpigenae-Fagenion,Bu-Ta Wald am Spielberg
+66,500,90,70,2,60,1,18,2,1,O,35,47.733333,13.216667,50,1380,2008-08-12,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Bu-Ta Wald am Kallersberg
+67,500,95,75,34,70,0,25,5,0.7,O,35,47.691111,13.276389,50,1350,2008-08-19,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae,Lonicero alpigenae-Fagenion,Fichten-Tannen-Buchenwald am Auhofköpfl
+68,500,90,80,1,40,2,18,2,0.6,S,20,47.681944,13.230000,50,1470,2008-08-21,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae,Lonicero alpigenae-Fagenion,Buchenwald 2 NO Nigelkar-Alpe
+69,500,90,85,0,35,5,15,0,0.4,SO,10,47.677500,13.220000,50,1380,2008-08-21,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Buchenwald 1 NO Nigelkar-Alpe
+70,500,90,65,15,60,1,13,4,1,S,25,47.676944,13.215833,50,1350,2008-08-21,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Carex ferruginea,Lonicero alpigenae-Fagenion,Buchenwald NW Nigelkar-Alpe
+71,500,95,85,1,60,1,20,2,0.6,N,25,47.686389,13.246944,50,1330,2008-08-22,Saxifrago rotundifoliae-Fagetum Zukrigl 1989 -Subass.-Gruppe mit Adenostyles alliariae,Lonicero alpigenae-Fagenion,Fichten-Tannen-Buchenwald W Sattelalm
