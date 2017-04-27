@@ -1,14 +1,14 @@
 plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,soil,bare,date,comment,latitude,longitude,accuracy,observer,alliance,association,location
-hd01,97,95,15,2,98,1,22,16,5,0.35,0.1,16,16,SE,25,0,0,0,2013-06-07,tl2 bent down by snow,47.903570N,14.405897E,"6,3",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd02,90,80,20,40,75,1,23,12,4,0.3,0.1,16,16,SE,15,0,0,0,2013-06-07,,47.900474N,14.402318E,"4,4",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd03,97,95,10,1,35,1,16,10,2,0.3,0.1,16,16,SE,10,0,0,0,2013-06-07,tl2 bent down by snow,47.898175N,14.401652E,"7,8",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd04,98,0,0,0,30,1,22,0,0,0.4,0.1,16,16,SE,15,0,0,0,2013-06-07,,47.894913N,14.403515E,"4,4",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd05,99,0,2,10,98,1,0,9,3,0.5,0.3,25,10,S,15,0,0,0,2013-06-07,,47.892629N,14.402450E,3,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd06,95,95,10,30,70,2,27,20,4,0.5,0.1,16,16,S,2,1,0,0,2013-06-07,,47.890250N,14.401786E,5,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd07,97,0,0,10,97,2,0,0,2,0.45,0.25,16,16,F,0,0,0,0,2013-06-07,,47.887720N,14.401183E,3,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd08,98,95,5,0,30,1,22,15,0,0.6,0.15,16,16,N,35,0,0,0,2013-06-07,,47.883031N,14.405498E,"7,9",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd09,95,70,15,3,65,1,22,13,2,0.4,0.15,16,16,N,35,0,0,0,2013-06-07,,47.883433N,14.402675E,"9,1",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd10,97,95,20,0,30,1,18,12,0,0.3,0.1,16,16,N,10,0,0,0,2013-06-07,,47.884243N,14.400020E,7,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd11,98,0,0,0,98,1,0,0,0,0.5,0.1,4,4,E,15,0,0,0,2013-06-07,,47.905805N,14.409812E,"4,7",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd12,94,0,0,0,94,1,0,0,0,0.5,0.1,4,4,E,15,0,0,0,2013-06-07,,47.905415N,14.408995E,"3,5",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
-hd13,95,0,0,0,95,1,0,0,0,0.5,0.1,4,4,E,15,0,0,0,2013-06-07,,47.903965N,14.406349E,"5,1",R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd01,97,95,15,2,98,1,22,16,5,0.35,0.1,16,16,SE,25,0,0,0,2013-06-07,tl2 bent down by snow,47.903570N,14.405897E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd02,90,80,20,40,75,1,23,12,4,0.3,0.1,16,16,SE,15,0,0,0,2013-06-07,,47.900474N,14.402318E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd03,97,95,10,1,35,1,16,10,2,0.3,0.1,16,16,SE,10,0,0,0,2013-06-07,tl2 bent down by snow,47.898175N,14.401652E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd04,98,0,0,0,30,1,22,0,0,0.4,0.1,16,16,SE,15,0,0,0,2013-06-07,,47.894913N,14.403515E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd05,99,0,2,10,98,1,0,9,3,0.5,0.3,25,10,S,15,0,0,0,2013-06-07,,47.892629N,14.402450E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd06,95,95,10,30,70,2,27,20,4,0.5,0.1,16,16,S,2,1,0,0,2013-06-07,,47.890250N,14.401786E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd07,97,0,0,10,97,2,0,0,2,0.45,0.25,16,16,F,0,0,0,0,2013-06-07,,47.887720N,14.401183E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd08,98,95,5,0,30,1,22,15,0,0.6,0.15,16,16,N,35,0,0,0,2013-06-07,,47.883031N,14.405498E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd09,95,70,15,3,65,1,22,13,2,0.4,0.15,16,16,N,35,0,0,0,2013-06-07,,47.883433N,14.402675E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd10,97,95,20,0,30,1,18,12,0,0.3,0.1,16,16,N,10,0,0,0,2013-06-07,,47.884243N,14.400020E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd11,98,0,0,0,98,1,0,0,0,0.5,0.1,4,4,E,15,0,0,0,2013-06-07,,47.905805N,14.409812E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd12,94,0,0,0,94,1,0,0,0,0.5,0.1,4,4,E,15,0,0,0,2013-06-07,,47.905415N,14.408995E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn
+hd13,95,0,0,0,95,1,0,0,0,0.5,0.1,4,4,E,15,0,0,0,2013-06-07,,47.903965N,14.406349E,10,R. Kaiser & T. Eberl,Lonicero alpigenae-Fagenion,,Hohe Dirn

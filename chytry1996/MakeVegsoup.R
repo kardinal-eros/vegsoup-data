@@ -86,6 +86,8 @@ obj$Latitude <- xy[, 2]
 coordinates(obj) <- ~Longitude+Latitude
 proj4string(obj) <- CRS("+init=epsg:4326")
 
+obj$accuracy <- 20 # rough guess
+
 #	assign rownames
 rownames(obj) <- paste(key, rownames(obj), sep = ":")
 
