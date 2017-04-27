@@ -3,6 +3,9 @@ plot                                               ppppppp
                                                    bbbbbbb
                                                    0000000
                                                    1234567
+accuracy                                           1111111
+                                                   0000000
+                                                          
 bare                                               0000000
                                                           
 cov                                                9999999
