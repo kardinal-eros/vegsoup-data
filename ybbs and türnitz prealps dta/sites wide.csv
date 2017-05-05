@@ -1,74 +1,74 @@
 plot,date,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,latitude,longitude,accuracy,elevation,soil,location,comment,alliance,observer
-ytx01,,,,,,,,,,,,,10,25,,,,,,47.92949,14.82347,10,,,"Ybbstal, Eibenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx02,,,,,,,,,,,,,16,16,,,,,,47.93006,14.82728,20,,,"Ybbstal, Eibenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx03,,,,,,,,,,,,,16,16,,,,,,47.93000,14.82761,20,,,"Ybbstal, Eibenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx04,,,,,,,,,,,,,16,16,,,,,,47.88256,14.81932,10,,,"Ybbstal, Opponitz","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx05,,,,,,,,,,,,,16,16,,,,,,47.88297,14.81872,20,,,"Ybbstal, Opponitz","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx06,,,,,,,,,,,,,16,16,,,,,,47.88313,14.81851,20,,,"Ybbstal, Opponitz","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx07,,,,,,,,,,,,,16,16,,,,,,47.91525,14.83716,10,,,"Ybbstal, Unterwenden","planned, short rope",Eu-Fagenion,R. Kaiser
-ytx08,,,,,,,,,,,,,16,16,,,,,,47.91565,14.83745,20,,,"Ybbstal, Unterwenden","planned, easy",Cephalanthero-Fagenion,R. Kaiser
-ytx09,,,,,,,,,,,,,16,16,,,,,,47.91509,14.83899,10,,,"Ybbstal, Unterwenden","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx10,,,,,,,,,,,,,10,25,,,,,,47.92856,14.89966,10,,,"Prollingbachtal, Prollinghöhe","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx11,,,,,,,,,,,,,16,16,,,,,,47.92847,14.89983,10,,,"Prollingbachtal, Prollinghöhe","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx12,,,,,,,,,,,,,16,16,,,,,,47.93855,14.90228,10,,,"Prollingbachtal, Die Noth","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx13,,,,,,,,,,,,,16,16,,,,,,47.93868,14.90211,10,,,"Prollingbachtal, Die Noth","planned, difficult climb",Tilenion platyphylli,R. Kaiser
-ytx14,,,,,,,,,,,,,16,16,,,,,,47.92404,15.11656,20,,,"Erlauftal, Urmannsberg","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx15,,,,,,,,,,,,,16,16,,,,,,47.92437,15.11743,20,,,"Erlauftal, Urmannsberg","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx16,,,,,,,,,,,,,16,16,,,,,,47.92465,15.11793,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
-ytx17,,,,,,,,,,,,,16,16,,,,,,47.92483,15.11863,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
-ytx18,,,,,,,,,,,,,16,16,,,,,,47.92489,15.11899,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
-ytx19,,,,,,,,,,,,,16,16,,,,,,47.92494,15.11939,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
-ytx20,,,,,,,,,,,,,16,16,,,,,,47.92510,15.11933,20,,,"Erlauftal, Urmannsberg","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx21,,,,,,,,,,,,,16,16,,,,,,47.92505,15.11907,20,,,"Erlauftal, Urmannsberg","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx22,,,,,,,,,,,,,16,16,,,,,,47.92479,15.11825,20,,,"Erlauftal, Urmannsberg","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx23,,,,,,,,,,,,,16,16,,,,,,47.92388,15.14917,20,,,"Erlauftal, Hochkogel","planned, difficult climb",Tilenion platyphylli,R. Kaiser
-ytx24,,,,,,,,,,,,,16,16,,,,,,47.92318,15.14864,20,,,"Erlauftal, Hochkogel","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx25,,,,,,,,,,,,,16,16,,,,,,47.92291,15.14835,20,,,"Erlauftal, Hochkogel","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx26,,,,,,,,,,,,,16,16,,,,,,47.92370,15.15044,20,,,"Erlauftal, Hochkogel","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx27,,,,,,,,,,,,,16,16,,,,,,47.96438,15.16560,10,,,"Erlauftal, Peutenburger Felsen","planned, easy climb",Tilenion platyphylli,R. Kaiser
-ytx28,,,,,,,,,,,,,16,16,,,,,,47.96449,15.16576,10,,,"Erlauftal, Peutenburger Felsen","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx29,,,,,,,,,,,,,10,25,,,,,,47.96466,15.16612,10,,,"Erlauftal, Peutenburger Felsen","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx30,,,,,,,,,,,,,16,16,,,,,,47.96452,15.16602,10,,,"Erlauftal, Peutenburger Felsen","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx31,,,,,,,,,,,,,16,16,,,,,,47.96418,15.16556,20,,,"Erlauftal, Peutenburger Felsen","planned, easy",Eu-Fagenion,R. Kaiser
-ytx32,,,,,,,,,,,,,16,16,,,,,,47.96373,15.16578,20,,,"Erlauftal, Peutenburger Felsen","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx33,,,,,,,,,,,,,16,16,,,,,,47.96377,15.16630,10,,,"Erlauftal, Peutenburger Felsen","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx34,,,,,,,,,,,,,16,16,,,,,,47.99959,15.35309,10,,,"Pielachtal, Ruine Weißenbach","planned, difficult climb",Tilenion platyphylli,R. Kaiser
-ytx35,,,,,,,,,,,,,16,16,,,,,,47.99926,15.35199,10,,,"Pielachtal, Ruine Weißenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx36,,,,,,,,,,,,,16,16,,,,,,47.99921,15.35218,10,,,"Pielachtal, Ruine Weißenbach","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx37,,,,,,,,,,,,,16,16,,,,,,47.99917,15.35235,10,,,"Pielachtal, Ruine Weißenbach","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx38,,,,,,,,,,,,,16,16,,,,,,47.99916,15.35253,10,,,"Pielachtal, Ruine Weißenbach","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx39,,,,,,,,,,,,,16,16,,,,,,47.99971,15.35375,10,,,"Pielachtal, Ruine Weißenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx40,,,,,,,,,,,,,16,16,,,,,,47.95586,15.54327,20,,,"Traisental, Lehenrotte","planned, easy",unclassified,R. Kaiser
-ytx41,,,,,,,,,,,,,10,25,,,,,,47.95199,15.60060,10,,,"Traisental, Teufelskanzel","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx42,,,,,,,,,,,,,16,16,,,,,,47.95224,15.59899,20,,,"Traisental, Teufelskanzel","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx43,,,,,,,,,,,,,16,16,,,,,,47.95251,15.59829,20,,,"Traisental, Teufelskanzel","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx44,,,,,,,,,,,,,16,16,,,,,,47.95296,15.59559,10,,,"Traisental, Teufelskanzel","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx45,,,,,,,,,,,,,16,16,,,,,,47.95291,15.59539,10,,,"Traisental, Teufelskanzel","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx46,,,,,,,,,,,,,16,16,,,,,,47.95280,15.59523,10,,,"Traisental, Teufelskanzel","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx47,,,,,,,,,,,,,16,16,,,,,,47.98270,15.56969,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx48,,,,,,,,,,,,,16,16,,,,,,47.98260,15.57011,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx49,,,,,,,,,,,,,16,16,,,,,,47.98245,15.57027,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx50,,,,,,,,,,,,,25,10,,,,,,47.98244,15.57059,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx51,,,,,,,,,,,,,16,16,,,,,,47.98333,15.57062,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx52,,,,,,,,,,,,,16,16,,,,,,47.98331,15.57038,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx53,,,,,,,,,,,,,16,16,,,,,,47.98352,15.57070,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx54,,,,,,,,,,,,,16,16,,,,,,47.98522,15.57196,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx55,,,,,,,,,,,,,16,16,,,,,,47.98695,15.57337,10,,,"Traisental, Freiland","planned, short rope",Tilenion platyphylli,R. Kaiser
-ytx56,,,,,,,,,,,,,16,16,,,,,,47.98712,15.57328,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx57,,,,,,,,,,,,,16,16,,,,,,47.98738,15.57318,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx58,,,,,,,,,,,,,16,16,,,,,,47.98751,15.57291,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx59,,,,,,,,,,,,,16,16,,,,,,47.98754,15.57261,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx60,,,,,,,,,,,,,16,16,,,,,,47.98774,15.57254,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx61,,,,,,,,,,,,,16,16,,,,,,47.98780,15.57296,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx62,,,,,,,,,,,,,10,25,,,,,,47.98799,15.57292,10,,,"Traisental, Freiland","planned, easy",Carpinion betuli,R. Kaiser
-ytx63,,,,,,,,,,,,,16,16,,,,,,47.98816,15.57282,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx64,,,,,,,,,,,,,16,16,,,,,,47.91671,14.82953,20,,,"Ybbstal, Ofenbach","planned, easy",Eu-Fagenion,R. Kaiser
-ytx65,,,,,,,,,,,,,16,16,,,,,,47.91666,14.82801,20,,,"Ybbstal, Ofenbach","planned, long rope from ytx72",Tilenion platyphylli,R. Kaiser
-ytx66,,,,,,,,,,,,,16,16,,,,,,47.91679,14.82831,20,,,"Ybbstal, Ofenbach","planned, moderate climb",Tilenion platyphylli,R. Kaiser
-ytx67,,,,,,,,,,,,,25,10,,,,,,47.91689,14.82820,20,,,"Ybbstal, Ofenbach","planned, difficult climb",Tilenion platyphylli,R. Kaiser
-ytx68,,,,,,,,,,,,,16,16,,,,,,47.91697,14.82877,20,,,"Ybbstal, Ofenbach","planned, very difficult",Tilenion platyphylli,R. Kaiser
-ytx69,,,,,,,,,,,,,16,16,,,,,,47.91602,14.82661,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx70,,,,,,,,,,,,,16,16,,,,,,47.91688,14.82912,20,,,"Ybbstal, Ofenbach","planned, very difficult",Cephalanthero-Fagenion,R. Kaiser
-ytx71,,,,,,,,,,,,,16,16,,,,,,47.91715,14.82905,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx72,,,,,,,,,,,,,16,16,,,,,,47.91695,14.82773,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
-ytx73,,,,,,,,,,,,,16,16,,,,,,47.91683,14.82760,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx01,2017-04-29,,,,,,,,,,,,10,25,,,,,,47.92949,14.82347,10,,,"Ybbstal, Eibenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx02,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.93006,14.82728,20,,,"Ybbstal, Eibenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx03,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.93000,14.82761,20,,,"Ybbstal, Eibenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx04,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.88256,14.81932,10,,,"Ybbstal, Opponitz","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx05,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.88297,14.81872,20,,,"Ybbstal, Opponitz","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx06,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.88313,14.81851,20,,,"Ybbstal, Opponitz","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx07,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91525,14.83716,10,,,"Ybbstal, Unterwenden","planned, short rope",Eu-Fagenion,R. Kaiser
+ytx08,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91565,14.83745,20,,,"Ybbstal, Unterwenden","planned, easy",Cephalanthero-Fagenion,R. Kaiser
+ytx09,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91509,14.83899,10,,,"Ybbstal, Unterwenden","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx10,2017-04-29,,,,,,,,,,,,10,25,,,,,,47.92856,14.89966,10,,,"Prollingbachtal, Prollinghöhe","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx11,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.92847,14.89983,10,,,"Prollingbachtal, Prollinghöhe","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx12,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.93855,14.90228,10,,,"Prollingbachtal, Die Noth","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx13,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.93868,14.90211,10,,,"Prollingbachtal, Die Noth","planned, difficult climb",Tilenion platyphylli,R. Kaiser
+ytx14,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92404,15.11656,20,,,"Erlauftal, Urmannsberg","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx15,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92437,15.11743,20,,,"Erlauftal, Urmannsberg","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx16,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92465,15.11793,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
+ytx17,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92483,15.11863,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
+ytx18,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92489,15.11899,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
+ytx19,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92494,15.11939,20,,,"Erlauftal, Urmannsberg","planned, big shot",Tilenion platyphylli,R. Kaiser
+ytx20,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92510,15.11933,20,,,"Erlauftal, Urmannsberg","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx21,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92505,15.11907,20,,,"Erlauftal, Urmannsberg","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx22,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92479,15.11825,20,,,"Erlauftal, Urmannsberg","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx23,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92388,15.14917,20,,,"Erlauftal, Hochkogel","planned, difficult climb",Tilenion platyphylli,R. Kaiser
+ytx24,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92318,15.14864,20,,,"Erlauftal, Hochkogel","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx25,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92291,15.14835,20,,,"Erlauftal, Hochkogel","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx26,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.92370,15.15044,20,,,"Erlauftal, Hochkogel","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx27,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.96438,15.16560,10,,,"Erlauftal, Peutenburger Felsen","planned, easy climb",Tilenion platyphylli,R. Kaiser
+ytx28,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.96449,15.16576,10,,,"Erlauftal, Peutenburger Felsen","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx29,2017-04-30,,,,,,,,,,,,10,25,,,,,,47.96466,15.16612,10,,,"Erlauftal, Peutenburger Felsen","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx30,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.96452,15.16602,10,,,"Erlauftal, Peutenburger Felsen","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx31,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.96418,15.16556,20,,,"Erlauftal, Peutenburger Felsen","planned, easy",Eu-Fagenion,R. Kaiser
+ytx32,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.96373,15.16578,20,,,"Erlauftal, Peutenburger Felsen","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx33,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.96377,15.16630,10,,,"Erlauftal, Peutenburger Felsen","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx34,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.99959,15.35309,10,,,"Pielachtal, Ruine Weißenburg","planned, difficult climb",Tilenion platyphylli,R. Kaiser
+ytx35,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.99926,15.35199,10,,,"Pielachtal, Ruine Weißenburg","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx36,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.99921,15.35218,10,,,"Pielachtal, Ruine Weißenburg","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx37,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.99917,15.35235,10,,,"Pielachtal, Ruine Weißenburg","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx38,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.99916,15.35253,10,,,"Pielachtal, Ruine Weißenburg","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx39,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.99971,15.35375,10,,,"Pielachtal, Ruine Weißenburg","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx40,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.95586,15.54327,20,,,"Traisental, Lehenrotte","planned, easy",unclassified,R. Kaiser
+ytx41,2017-04-30,,,,,,,,,,,,10,25,,,,,,47.95199,15.60060,10,,,"Traisental, Teufelskanzel","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx42,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.95224,15.59899,20,,,"Traisental, Teufelskanzel","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx43,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.95251,15.59829,20,,,"Traisental, Teufelskanzel","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx44,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.95296,15.59559,10,,,"Traisental, Teufelskanzel","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx45,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.95291,15.59539,10,,,"Traisental, Teufelskanzel","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx46,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.95280,15.59523,10,,,"Traisental, Teufelskanzel","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx47,2017-04-30,,,,,,,,,,,,16,16,,,,,,47.98270,15.56969,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx48,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98260,15.57011,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx49,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98245,15.57027,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx50,2017-05-02,,,,,,,,,,,,25,10,,,,,,47.98244,15.57059,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx51,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98333,15.57062,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx52,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98331,15.57038,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx53,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98352,15.57070,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx54,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98522,15.57196,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx55,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98695,15.57337,10,,,"Traisental, Freiland","planned, short rope",Tilenion platyphylli,R. Kaiser
+ytx56,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98712,15.57328,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx57,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98738,15.57318,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx58,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98751,15.57291,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx59,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98754,15.57261,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx60,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98774,15.57254,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx61,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98780,15.57296,10,,,"Traisental, Freiland","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx62,2017-05-02,,,,,,,,,,,,10,25,,,,,,47.98799,15.57292,10,,,"Traisental, Freiland","planned, easy",Carpinion betuli,R. Kaiser
+ytx63,2017-05-02,,,,,,,,,,,,16,16,,,,,,47.98816,15.57282,10,,,"Traisental, Freiland","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx64,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91671,14.82953,20,,,"Ybbstal, Ofenbach","planned, easy",Eu-Fagenion,R. Kaiser
+ytx65,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91666,14.82801,20,,,"Ybbstal, Ofenbach","planned, long rope from ytx72",Tilenion platyphylli,R. Kaiser
+ytx66,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91679,14.82831,20,,,"Ybbstal, Ofenbach","planned, moderate climb",Tilenion platyphylli,R. Kaiser
+ytx67,2017-04-29,,,,,,,,,,,,25,10,,,,,,47.91689,14.82820,20,,,"Ybbstal, Ofenbach","planned, difficult climb",Tilenion platyphylli,R. Kaiser
+ytx68,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91697,14.82877,20,,,"Ybbstal, Ofenbach","planned, very difficult",Tilenion platyphylli,R. Kaiser
+ytx69,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91602,14.82661,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx70,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91688,14.82912,20,,,"Ybbstal, Ofenbach","planned, very difficult",Cephalanthero-Fagenion,R. Kaiser
+ytx71,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91715,14.82905,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx72,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91695,14.82773,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
+ytx73,2017-04-29,,,,,,,,,,,,16,16,,,,,,47.91683,14.82760,20,,,"Ybbstal, Ofenbach","planned, easy",Tilenion platyphylli,R. Kaiser
