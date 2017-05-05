@@ -1,11 +1,11 @@
 plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,alliance,association,soil,comment,location,observer
-mo01,,,,,,,,,,,,,,,,,,,2016-04-06,47.158692,9.829525,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo02,,,,,,,,,,,,,,,,,,,2016-04-06,47.158587,9.830335,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo03,,,,,,,,,,,,,,,,,,,2016-04-06,47.158607,9.830551,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo04,,,,,,,,,,,,,,,,,,,2016-04-06,47.158757,9.830457,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo05,,,,,,,,,,,,,,,,,,,2016-04-06,47.158973,9.829926,,Quercion pubescentis-petraeae,,,,Montikel,R. Kaiser
-mo06,,,,,,,,,,,,,,,,,,,2016-04-06,47.158911,9.830629,,Quercion pubescentis-petraeae,,,,Montikel,R. Kaiser
-mo07,,,,,,,,,,,,,,,,,,,2016-04-06,47.158532,9.827337,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo08,,,,,,,,,,,,,,,,,,,2016-04-06,47.158574,9.828103,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo09,,,,,,,,,,,,,,,,,,,2016-04-06,47.158337,9.827827,,Tilenion platyphylli,,,,Montikel,R. Kaiser
-mo10,,,,,,,,,,,,,,,,,,,2016-04-06,47.158302,9.827549,,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo01,,,,,,,,,,,,,,,,,,,2016-04-06,47.158692,9.829525,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo02,,,,,,,,,,,,,,,,,,,2016-04-06,47.158587,9.830335,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo03,,,,,,,,,,,,,,,,,,,2016-04-06,47.158607,9.830551,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo04,,,,,,,,,,,,,,,,,,,2016-04-06,47.158757,9.830457,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo05,,,,,,,,,,,,,,,,,,,2016-04-06,47.158973,9.829926,20,Quercion pubescentis-petraeae,,,,Montikel,R. Kaiser
+mo06,,,,,,,,,,,,,,,,,,,2016-04-06,47.158911,9.830629,20,Quercion pubescentis-petraeae,,,,Montikel,R. Kaiser
+mo07,,,,,,,,,,,,,,,,,,,2016-04-06,47.158532,9.827337,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo08,,,,,,,,,,,,,,,,,,,2016-04-06,47.158574,9.828103,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo09,,,,,,,,,,,,,,,,,,,2016-04-06,47.158337,9.827827,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
+mo10,,,,,,,,,,,,,,,,,,,2016-04-06,47.158302,9.827549,20,Tilenion platyphylli,,,,Montikel,R. Kaiser
