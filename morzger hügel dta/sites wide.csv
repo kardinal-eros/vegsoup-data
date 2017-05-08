@@ -1,6 +1,6 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;soil;comment;location;date;latitude;longitude;accuracy;alliance;alliance.author;association;observer
-mh01;97;40;70;70;85;2;20;15;6;1;0,2;10;25;S;30;30;0;0;Kalkbraunerde;entlang der Feslkante inkl. der 6m hohen Wandstufe, aber exkl. Des Wandfußes;Morzger Hügel;2014-07-02;47.766761N;13.055443E;10;Carpinion betuli;Issler 1931;;R. Kaiser
-mh02;98;80;35;10;90;1;24;18;4;0,7;0,3;16;16;S;20;0;0;0;Kalkbraunerde;oberhalb einer Gruppe von 4 B. Pendula;Morzger Hügel;2014-07-02;47.765763N;13.053278E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;R. Kaiser
-mh03;99;60;70;60;90;1;25;17;3,5;1;0,4;16;16;S;30;1;0;0;Kalkbraunerde;knapp unterhalb der Felsstufe in skelettreichem Hang;Morzger Hügel;2014-07-02;47.765509N;13.052270E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;R. Kaiser
-mh04;100;70;40;70;95;2;2;16;5;1,2;0,4;16;16;S;30;0;0;1;Kalkbraunerde;;Morzger Hügel;2014-07-02;47.765471N;13.051407E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;R. Kaiser
-mh05;97;70;40;60;85;3;22;16;4;1;0,3;25;10;S;70;20;0;0;Rendzina;entlang der Felsstufe;Morzger Hügel;2014-07-02;47.765617N;13.051489E;10;Tilenion platyphylli;(Moor 1973) Müller 1992;;R. Kaiser
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,soil,comment,location,date,latitude,longitude,accuracy,alliance,alliance.author,association,observer
+mh01,97,40,70,70,85,2,20,15,6,1,"0,2",10,25,S,30,30,0,0,Kalkbraunerde,"entlang der Feslkante inkl. der 6m hohen Wandstufe, aber exkl. Des Wandfußes",Morzger Hügel,2014-07-02,47.766761N,13.055443E,10,Carpinion betuli,Issler 1931,,R. Kaiser
+mh02,98,80,35,10,90,1,24,18,4,"0,7","0,3",16,16,S,20,0,0,0,Kalkbraunerde,oberhalb einer Gruppe von 4 B. Pendula,Morzger Hügel,2014-07-02,47.765763N,13.053278E,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,R. Kaiser
+mh03,99,60,70,60,90,1,25,17,"3,5",1,"0,4",16,16,S,30,1,0,0,Kalkbraunerde,knapp unterhalb der Felsstufe in skelettreichem Hang,Morzger Hügel,2014-07-02,47.765509N,13.052270E,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,R. Kaiser
+mh04,100,70,40,70,95,2,2,16,5,"1,2","0,4",16,16,S,30,0,0,1,Kalkbraunerde,,Morzger Hügel,2014-07-02,47.765471N,13.051407E,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,R. Kaiser
+mh05,97,70,40,60,85,3,22,16,4,1,"0,3",25,10,S,70,20,0,0,Rendzina,entlang der Felsstufe,Morzger Hügel,2014-07-02,47.765617N,13.051489E,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,R. Kaiser
