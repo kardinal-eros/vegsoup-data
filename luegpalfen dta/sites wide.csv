@@ -5,7 +5,7 @@ lp03,80,40,50,25,45,1,20,11,6,0.6,0.3,25,10,S,70,50,0,0,2014-08-29,"Luegpalfen, 
 lp04,85,40,40,15,55,5,14,9,6,0.5,0.3,16,16,S,65,50,0,0,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.568867,13.179888,10,Cephalanthero-Fagenion,Luquet 1926,,,R. Kaiser
 lp05,97,80,15,5,90,1,18,15,3,0.5,0.25,16,16,S,35,10,0,0,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.568638,13.177233,10,Cephalanthero-Fagenion,Luquet 1926,,,R. Kaiser
 lp06,85,40,45,7,75,1,12,9,6,0.5,0.3,16,16,S,45,30,0,0,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.568166,13.176443,10,Cephalanthero-Fagenion,Luquet 1926,,,R. Kaiser
-lp07,85,0,20,35,85,2,0,7,5,0.8,0.4,16,16,S,40,5,0,10,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.567721,13.176145,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
+lp07,85,0,20,35,85,2,0,7,5,0.8,0.4,16,16,S,40,5,0,10,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.567721,13.176145,10,Cephalanthero-Fagenion,Luquet 1926,,,R. Kaiser
 lp08,90,30,65,50,70,2,13,10,5,0.8,0.4,10,25,S,75,30,0,15,2014-08-29,"Luegpalfen, W Eisenbahntunnel",,47.567098,13.177215,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,"rope betray (lp08-lp08'): 47.567279N, 13.177232E, rope range (lp08-lp08'' ±90m): 47.566986N, 13.177189E",R. Kaiser
 lp09,98,60,35,3,70,2,18,13,3,0.6,0.2,16,16,S,50,20,0,0,2014-09-28,"Luegpalfen, E Eisenbahntunnel",,47.569320,13.185160,10,Cephalanthero-Fagenion,Luquet 1926,,,R. Kaiser
 lp10,80,20,65,7,75,1,20,13,5,0.8,0.25,16,16,S,45,10,0,15,2014-09-28,"Luegpalfen, W Eisenbahntunnel",,47.568997,13.178253,20,Cephalanthero-Fagenion,Luquet 1926,,,R. Kaiser
@@ -13,8 +13,8 @@ lp11,85,10,45,30,70,1,9,7,4.5,0.8,0.3,16,16,S,60,30,0,0,2014-09-28,"Luegpalfen, 
 lp12,98,80,60,15,60,1,18,10,4,0.6,0.2,16,16,S,40,10,0,0,2014-09-28,"Luegpalfen, W Eisenbahntunnel",,47.567944,13.175500,20,Cephalanthero-Fagenion,Luquet 1926,Mull-Rendzina,,R. Kaiser
 lp13,90,40,50,50,55,1,12,9,4,0.7,0.25,10,25,S,65,50,0,0,2014-09-28,"Luegpalfen, E Autobahntunnel",ab Abseilpunkt abwärts,47.567578,13.174326,10,Tilenion platyphylli,(Moor 1973) Müller 1992,Mull-Rendzina,"rope betray (lp13-lp14'): 47.567780N, 13.174300E, rope range (lp13-lp14'' 100m!): 47.567200N, 13.174230E",R. Kaiser
 lp14,80,35,25,55,35,2,12,8,4,0.7,0.25,16,16,S,60,60,0,0,2014-09-28,"Luegpalfen, E Autobahntunnel",am Fuß des Felshanges,47.567250,13.174270,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,"rope betray (lp13-lp14'): 47.567780N, 13.174300E, rope range (lp13-lp14'' 100m!): 47.567200N, 13.174230E",R. Kaiser
-lp15,65,0,15,60,40,2,0,5,3,0.8,0.3,16,16,S,70,60,0,0,2014-10-06,"Luegpalfen, oberhalb Autobahntunnel",,47.567200,13.172242,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
-lp16,80,0,10,70,25,2,0,5,2.5,0.3,0.05,8,8,S,70,75,0,0,2014-11-03,"Salzachöfen, rechstufrig",oberhalb eienr Bank mit M. domestica,47.577695,13.190430,20,Berberidion,Br.-Bl. ex Tx. 1952,,,R. Kaiser
+lp15,65,0,15,60,40,2,0,5,3,0.8,0.3,16,16,S,70,60,0,0,2014-10-06,"Luegpalfen, oberhalb Autobahntunnel",durch Lawinenabgänge zurückgesetztes Initialstadium des Tilneion platyphylli,47.567200,13.172242,10,Berberidion,Br.-Bl. ex Tx. 1952,,,R. Kaiser
+lp16,80,0,10,70,25,2,0,5,2.5,0.3,0.05,8,8,S,70,75,0,0,2014-11-03,"Salzachöfen, rechstufrig",oberhalb einer Bank mit M. domestica,47.577695,13.190430,20,Berberidion,Br.-Bl. ex Tx. 1952,,,R. Kaiser
 lp17,85,40,35,60,50,5,10,7,2.5,0.8,0.3,25,10,S,70,50,0,0,2014-11-03,"Salzachöfen, rechstufrig",,47.578773,13.18778,20,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
 lp18,99,50,55,30,85,40,28,18,5,0.6,0.3,16,16,S,25,0,0,90,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",in der Mitte ein alter Drahtzaun,47.566703,13.175817,10,Tilenion platyphylli,(Moor 1973) Müller 1992,verbraunte lehmige Rendzina mit Blockschutt,,R. Kaiser
 lp19,70,20,50,75,20,3,13,9,5,0.6,0.3,16,16,S,15,0,0,100,2015-06-01,"Luegpalfen, Unterhang zwischen Tunneln",,47.566988,13.175727,10,Tilenion platyphylli,(Moor 1973) Müller 1992,,,R. Kaiser
