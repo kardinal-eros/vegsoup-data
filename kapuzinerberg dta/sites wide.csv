@@ -14,8 +14,8 @@ kb12,90,25,65,50,75,2,15,12,4,0.5,0.25,16,16,S,60,10,0,0,2014-05-24,Rendzina,"Ka
 kb13,98,70,60,50,80,1,25,10,5,0.8,0.2,16,16,N,30,0,0,0,2014-07-19,Rendzina,"Kapuzinerberg, Nord-Seite","am beginn der Eisenbahnschienen, von da nach oben",47.806452N,13.062846E,10,Cephalanthero-Fagenion,R. Kaiser
 kb14,98,80,60,25,35,1,27,16,8,0.8,0.3,16,16,N,35,1,0,2,2014-07-19,verbraunte Rendzina,"Kapuzinerberg, Nord-Seite",oberhalb und unterhalb Weg,47.805537N,13.058405E,10,Lunario-Acerenion pseudoplatani,R. Kaiser
 kb15,99,55,35,45,80,1,27,22,5,0.9,0.3,16,16,N,55,3,0,0,2014-07-19,Mull-Rendzina,"Kapuzinerberg, Nord-Seite",kbx3,47.805691N,13.059315E,20,Lunario-Acerenion pseudoplatani,R. Kaiser
-kb16,70,50,40,3,7,0,20,17,4,0.5,0.15,16,16,N,45,1,0,0,2014-07-19,verbraunte Rendzina,"Kapuzinerberg, Nord-Seite","feingrusig und skelettreiche, verbraunte Renzina",47.805774N,13.056309E,20,Tilenion platyphylli,R. Kaiser
-kb17,93,50,15,40,90,3,12,8,5,0.9,0.5,16,16,N,50,5,0,0,2014-07-19,verbraunte Rendzina,"Kapuzinerberg, Nord-Seite",an Felskanzel,47.805931N,13.056950E,20,Tilenion platyphylli,R. Kaiser
+kb16,70,50,40,3,7,0,20,17,4,0.5,0.15,16,16,N,45,1,0,0,2014-07-19,verbraunte Rendzina,"Kapuzinerberg, Nord-Seite","feingrusig und skelettreiche, verbraunte Renzina",47.805774N,13.056309E,20,Lunario-Acerenion pseudoplatani,R. Kaiser
+kb17,93,50,15,40,90,3,12,8,5,0.9,0.5,16,16,N,50,5,0,0,2014-07-19,verbraunte Rendzina,"Kapuzinerberg, Nord-Seite",an Felskanzel,47.805931N,13.056950E,20,unclassified,R. Kaiser
 kb18,90,60,60,15,80,1,20,10,4,0.4,0.25,16,16,W,15,2,0,0,2015-04-26,skelettreiche Braunerde,"Kapuzinerberg, Ostrücken","Westhang unterhalb Aussichtsplatz, oben ein Buchenprotz",47.806194N,13.063095E,5,Cephalanthero-Fagenion,R. Kaiser
 kb19,98,40,70,7,95,1,22,16,4,0.5,0.25,32,8,F,0,0,5,0,2015-04-26,skelettreiche Braunerde,"Kapuzinerberg, Ostrücken",von Geländer des Aussichtsplatzes gegen W an der Verebnung N des Hauptpfades,47.805486N,13.061254E,5,Carpinion betuli,R. Kaiser
 kb20,98,80,25,60,40,1,23,20,4,0.5,0.2,16,16,S,20,15,0,0,2015-04-27,skelettreiche Braunerde,"Kapuzinerberg, Äußererstein",mächtige Laubstreuauflage,47.800963N,13.052512E,20,Cephalanthero-Fagenion,R. Kaiser
@@ -25,19 +25,19 @@ kb23,98,25,75,10,15,1,12,9,3,0.4,0.2,16,16,S,60,40,0,0,2015-04-27,Rendzina,"Kapu
 kb24,98,60,70,20,75,1,13,8,4,1,0.3,16,16,S,35,3,0,0,2015-06-13,Braunerde & Rendzina,"Kapuzinerberg, Äußererstein",ab der Linde am Basteiturm gegen Südwesten,47.800840N,13.051400E,10,Carpinion betuli,R. Kaiser
 kb25,95,30,85,15,25,15,13,9,4,0.7,0.2,16,16,SW,55,45,0,0,2015-06-13,Braunerde & Rendzina,"Kapuzinerberg, Äußererstein",südlich kb07,47.800670N,13.052350E,10,Carpinion betuli,R. Kaiser
 kb26,99,50,80,15,40,1,17,12,4,0.6,0.2,16,16,SW,25,5,0,0,2015-06-13,Rendzina,"Kapuzinerberg, Äußererstein",südwestlich der Ecke an der Basteimauer,47.800488N,13.052517E,10,Carpinion betuli,R. Kaiser
-kbx01,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.805455,13.063876,20,Cephalanthero-Fagenion,R. Kaiser
-kbx02,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.805396,13.062594,20,Cephalanthero-Fagenion,R. Kaiser
-kbx03,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.804484,13.061839,20,Cephalanthero-Fagenion,R. Kaiser
-kbx04,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.804215,13.061360,20,Eu-Fagenion,R. Kaiser
-kbx05,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.803162,13.060122,20,Eu-Fagenion,R. Kaiser
-kbx06,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.802470,13.059876,20,Eu-Fagenion,R. Kaiser
-kbx07,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.801619,13.059999,20,Carpinion betuli,R. Kaiser
-kbx08,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",almost overlaping with kb11,47.801200,13.059110,20,Carpinion betuli,R. Kaiser
-kbx09,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.801083,13.059259,20,Carpinion betuli,R. Kaiser
-kbx10,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.801206,13.059315,20,Carpinion betuli,R. Kaiser
-kbx11,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße",,47.801191,13.059873,20,Carpinion betuli,R. Kaiser
-kbx12,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Bürgstein",,47.798663,13.057265,10,Cephalanthero-Fagenion,R. Kaiser
-kbx13,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße",,47.800891,13.056830,10,Tilenion platyphylli,R. Kaiser
-kbx14,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße",,47.800801,13.057189,10,Carpinion betuli,R. Kaiser
-kbx15,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße",,47.800952,13.056402,10,Tilenion platyphylli,R. Kaiser
-kbx16,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße",,47.801164,13.055869,10,Tilenion platyphylli,R. Kaiser
+kbx01,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.805455,13.063876,20,Cephalanthero-Fagenion,R. Kaiser
+kbx02,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.805396,13.062594,20,Cephalanthero-Fagenion,R. Kaiser
+kbx03,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.804484,13.061839,20,Cephalanthero-Fagenion,R. Kaiser
+kbx04,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.804215,13.061360,20,Eu-Fagenion,R. Kaiser
+kbx05,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.803162,13.060122,20,Eu-Fagenion,R. Kaiser
+kbx06,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.802470,13.059876,20,Eu-Fagenion,R. Kaiser
+kbx07,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.801619,13.059999,20,Carpinion betuli,R. Kaiser
+kbx08,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, almost overlaping with kb11",47.801200,13.059110,20,Carpinion betuli,R. Kaiser
+kbx09,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.801083,13.059259,20,Carpinion betuli,R. Kaiser
+kbx10,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.801206,13.059315,20,Carpinion betuli,R. Kaiser
+kbx11,,,,,,,,,,,,,,,,,,,2015-12-28,,"Kapuzinerberg, Südseite oberhalb Pausingerstraße","planned, easy",47.801191,13.059873,20,Carpinion betuli,R. Kaiser
+kbx12,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Bürgstein","planned, easy",47.798663,13.057265,10,Cephalanthero-Fagenion,R. Kaiser
+kbx13,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße","planned, easy",47.800891,13.056830,10,Tilenion platyphylli,R. Kaiser
+kbx14,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße","planned, easy",47.800801,13.057189,10,Carpinion betuli,R. Kaiser
+kbx15,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße","planned, easy",47.800952,13.056402,10,Tilenion platyphylli,R. Kaiser
+kbx16,,,,,,,,,,,,,,,,,,,2016-03-09,,"Kapuzinerberg, Südseite oberhalb Arenbergstraße","planned, easy",47.801164,13.055869,10,Tilenion platyphylli,R. Kaiser
