@@ -1,10 +1,10 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
-od01;95;80;25;45;35;1;23;18;6;0,7;0,15;16;16;SW;15;0;0;65;2014-05-04;47.954023;12.920373;10;Carpinion betuli;;;mobiler Hangschotter unterhalb von Konglomerat-Abbruch;Oberndorf, Oberndorfer Enge;R. Kaiser
-od02;98;45;65;40;75;1;20;12;4;0,5;0,2;25;10;SW;40;0;0;0;2014-05-04;47.953443;12.921278;10;Carpinion betuli;;;an der Oberkante eines Konglomerat-Abbruches;Oberndorf, Oberndorfer Enge;R. Kaiser
-od03;98;65;50;75;35;1;25;18;5;0,5;0,2;16;16;W;30;0;0;0;2014-05-04;47.952655;12.921712;10;Carpinion betuli;;;südlicher Ausläufer des Konglomerat-Abbruches;Oberndorf, Oberndorfer Enge;R. Kaiser
-od04;99;95;25;7;80;1;27;17;3;0,25;0,1;16;16;W;40;0;0;0;2014-05-04;47.958447;12.913195;10;Cephalanthero-Fagenion;Carici albae Fagetum;;an Hangrippe bei Ausgang eines Tobels;Oberndorf, Oberndorfer Enge;R. Kaiser
-od05;100;0;0;0;100;15;0;0;0;0,7;0,2;4;4;SW;10;0;0;0;2014-05-18;47.934008;12.947154;10;Cirsio Brachypodion;;;Hang oberhalb Shell-Tankstelle;Oberndorf, Salzburger Strasse Enge;R. Kaiser
-od06;98;0;0;0;98;2;0;0;0;1;0,2;4;4;SW;45;0;2;0;2014-05-18;47.940330;12.922164;10;Cirsio Brachypodion;;;steile Böschung unterhalb Einzelhaus;Oberndorf, Oberndorfer Enge;R. Kaiser
-od07;100;45;80;5;75;1;25;18;3;0,6;0,15;16;16;SW;30;0;0;0;2014-05-18;47.946212;12.942560;10;Carpinion betuli;;;frischer, lehmiger Hang;Oberndorf, Gastag Hochterrassenabbruch;R. Kaiser
-od08;100;55;70;10;75;2;25;20;4;6;0,15;16;16;SW;25;0;0;0;2014-05-18;47.945689;12.942702;10;Carpinion betuli;;;frischer, lehmiger Hang;Oberndorf, Gastag Hochterrassenabbruch;R. Kaiser
-od09;100;0;0;0;100;1;0;0;0;1;0,3;4;4;SW;35;0;0;0;2014-05-18;47.949437;12.938032;10;Cirsio Brachypodion;;;an einer Hangnase;Oberndorf, Gastag Hochterrassenabbruch;R. Kaiser
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,alliance,association,soil,comment,location,observer
+od01,95,80,25,45,35,1,23,18,6,0.7,0.15,16,16,SW,15,0,0,65,2014-05-04,47.954023,12.920373,10,Carpinion betuli,,,mobiler Hangschotter unterhalb von Konglomerat-Abbruch,"Oberndorf, Oberndorfer Enge",R. Kaiser
+od02,98,45,65,40,75,1,20,12,4,0.5,0.2,25,10,SW,40,0,0,0,2014-05-04,47.953443,12.921278,10,Carpinion betuli,,,an der Oberkante eines Konglomerat-Abbruches,"Oberndorf, Oberndorfer Enge",R. Kaiser
+od03,98,65,50,75,35,1,25,18,5,0.5,0.2,16,16,W,30,0,0,0,2014-05-04,47.952655,12.921712,10,Carpinion betuli,,,südlicher Ausläufer des Konglomerat-Abbruches,"Oberndorf, Oberndorfer Enge",R. Kaiser
+od04,99,95,25,7,80,1,27,17,3,0.25,0.1,16,16,W,40,0,0,0,2014-05-04,47.958447,12.913195,10,Cephalanthero-Fagenion,Carici albae Fagetum,,an Hangrippe bei Ausgang eines Tobels,"Oberndorf, Oberndorfer Enge",R. Kaiser
+od05,100,0,0,0,100,15,0,0,0,0.7,0.2,4,4,SW,10,0,0,0,2014-05-18,47.934008,12.947154,10,Bromion erecti,,,Hang oberhalb Shell-Tankstelle,"Oberndorf, Salzburger Strasse Enge",R. Kaiser
+od06,98,0,0,0,98,2,0,0,0,1,0.2,4,4,SW,45,0,2,0,2014-05-18,47.940330,12.922164,10,Bromion erecti,,,steile Böschung unterhalb Einzelhaus,"Oberndorf, Oberndorfer Enge",R. Kaiser
+od07,100,45,80,5,75,1,25,18,3,0.6,0.15,16,16,SW,30,0,0,0,2014-05-18,47.946212,12.942560,10,Carpinion betuli,,,"frischer, lehmiger Hang","Oberndorf, Gastag Hochterrassenabbruch",R. Kaiser
+od08,100,55,70,10,75,2,25,20,4,6,0.15,16,16,SW,25,0,0,0,2014-05-18,47.945689,12.942702,10,Carpinion betuli,,,"frischer, lehmiger Hang","Oberndorf, Gastag Hochterrassenabbruch",R. Kaiser
+od09,100,0,0,0,100,1,0,0,0,1,0.3,4,4,SW,35,0,0,0,2014-05-18,47.949437,12.938032,10,Bromion erecti,,,an einer Hangnase,"Oberndorf, Gastag Hochterrassenabbruch",R. Kaiser

@@ -1,9 +1,9 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;date;latitude;longitude;accuracy;soil;alliance;association;habitat;location;observer
-sr01;90;0;0;5;85;0;0;0;0;0,5;0,2;8;2;SW;40;0;2013-07-01, 2014-04-25;48.091113N;12.767547E;10;;Trifolion medii;;Waldsaum an Straßenböschung;Sankt Radegund;R. Kaiser & T. Eberl
-sr02;95;0;0;1;95;0;0;0;1;0,7;0,3;10,5;1,5;SW;50;0;2013-07-01, 2014-04-25;48.091274N;12.765254E;10;;Trifolion medii;;Waldsaum an sehr steiler Straßenböschung;Sankt Radegund;R. Kaiser & T. Eberl
-sr03;99;97;3;1;40;1;23;20;1;0,3;0,2;16;16;SW;35;0;2013-07-01;48.097731N;12.758601E;10;;Fagion sylvaticae;Carici albae-Fagetum Moor 1952 s.str.;Orchideen-Buchenwald (Seggen-Buchenwald);Sankt Radegund;R. Kaiser & T. Eberl
-sr04;98;97;3;1;85;1;30;23;5;0,4;0,25;16;16;SW;35;0;2013-07-01;48.098832N;12.756288E;10;;Fagion sylvaticae;Galio odorati-Fagetum Sougnez & Thill 1959;mesophiler Buchenwald mit Wimper-Segge;Sankt Radegund;R. Kaiser & T. Eberl
-sr05;99;93;5;0;95;1;30;20;0;0,7;0,4;16;16;W;15;0;2013-07-01;48.100108N;12.756374E;10;;Fagion sylvaticae;Galio odorati-Fagetum Sougnez & Thill 1959;mesophiler Buchenwald mit Wimper-Segge;Sankt Radegund;R. Kaiser & T. Eberl
-sr06;98;90;5;10;90;1;25;16;3;0,15;0,3;16;16;SW;40;0;2014-04-25;48.091102N;12.767492E;10;;Fagion sylvaticae;Carici albae-Fagetum Moor 1952 s.str.;Orchideen-Buchenwald (Seggen-Buchenwald);Sankt Radegund;R. Kaiser
-sr07;100;98;7;2;98;1;30;18;7;0,15;0,35;16;16;W;30;0;2014-04-25;48.090059N;12.765433E;10;;Fagion sylvaticae;Galio odorati-Fagetum Sougnez & Thill 1959;mesophiler Buchenwald mit Wimper-Segge;Sankt Radegund;R. Kaiser
-sr08;99;0;0;0;99;1;0,75;0,25;0;S;10;2;8;SW;10;0;2014-04-25;48.078916N;12.786286E;10;;Cirsio-Brachypodion;;Halbtrockenrasen an Uferwall (Holzbauerngraben);Ettenau;R. Kaiser
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,date,latitude,longitude,accuracy,soil,alliance,association,habitat,location,observer
+sr01,90,0,0,5,85,0,0,0,0,0.5,0.2,8,2,SW,40,0,"2013-07-01, 2014-04-25",48.091113N,12.767547E,10,,Trifolion medii,,Waldsaum an Straßenböschung,Sankt Radegund,R. Kaiser & T. Eberl
+sr02,95,0,0,1,95,0,0,0,1,0.7,0.3,10.5,1.5,SW,50,0,"2013-07-01, 2014-04-25",48.091274N,12.765254E,10,,Trifolion medii,,Waldsaum an sehr steiler Straßenböschung,Sankt Radegund,R. Kaiser & T. Eberl
+sr03,99,97,3,1,40,1,23,20,1,0.3,0.2,16,16,SW,35,0,2013-07-01,48.097731N,12.758601E,10,,Fagion sylvaticae,Carici albae-Fagetum Moor 1952 s.str.,Orchideen-Buchenwald (Seggen-Buchenwald),Sankt Radegund,R. Kaiser & T. Eberl
+sr04,98,97,3,1,85,1,30,23,5,0.4,0.25,16,16,SW,35,0,2013-07-01,48.098832N,12.756288E,10,,Fagion sylvaticae,Galio odorati-Fagetum Sougnez & Thill 1959,mesophiler Buchenwald mit Wimper-Segge,Sankt Radegund,R. Kaiser & T. Eberl
+sr05,99,93,5,0,95,1,30,20,0,0.7,0.4,16,16,W,15,0,2013-07-01,48.100108N,12.756374E,10,,Fagion sylvaticae,Galio odorati-Fagetum Sougnez & Thill 1959,mesophiler Buchenwald mit Wimper-Segge,Sankt Radegund,R. Kaiser & T. Eberl
+sr06,98,90,5,10,90,1,25,16,3,0.15,0.3,16,16,SW,40,0,2014-04-25,48.091102N,12.767492E,10,,Fagion sylvaticae,Carici albae-Fagetum Moor 1952 s.str.,Orchideen-Buchenwald (Seggen-Buchenwald),Sankt Radegund,R. Kaiser
+sr07,100,98,7,2,98,1,30,18,7,0.15,0.35,16,16,W,30,0,2014-04-25,48.090059N,12.765433E,10,,Fagion sylvaticae,Galio odorati-Fagetum Sougnez & Thill 1959,mesophiler Buchenwald mit Wimper-Segge,Sankt Radegund,R. Kaiser
+sr08,99,0,0,0,99,1,0.75,0.25,0,S,10,2,8,SW,10,0,2014-04-25,48.078916N,12.786286E,10,,Bromion erecti,,Halbtrockenrasen an Uferwall (Holzbauerngraben),Ettenau,R. Kaiser

@@ -6,7 +6,7 @@ se04,2014-05-20,85,50,25,35,75,30,16,9,5,0.4,0.15,10,25,SW,50,25,0,0,47.913103N,
 se05,2014-05-20,97,70,45,40,60,35,18,14,4,0.6,0.2,16,16,S,50,20,0,0,47.912542N,14.519298E,6,,Mull-Rendzina,Höllleitenbach,se05,,Tilenion platyphylli,Aceri-Tilietum platyphylli Faber 1936 s.l. -seslerietosum prov.,R. Kaiser & T. Eberl
 se06,2014-05-21,98,35,50,7,90,25,10,8,3,0.6,0.2,16,16,S,20,2,0,0,47.913278N,14.321912E,6,,Rendzina,Schreibachfall,se06,,Tilenion platyphylli,Aceri-Tilietum platyphylli Faber 1936 s.l. -seslerietosum prov.,R. Kaiser & T. Eberl
 se07,2014-05-21,97,93,30,10,50,80,27,15,5,0.7,0.2,16,16,S,25,0,0,50,47.912921N,14.321630E,12,,Skeletthumusboden,Schreibachfall,se07,,Lunario-Acerenion pseudoplatani,Phyllitido-Aceretum Moor 1945,R. Kaiser & T. Eberl
-se08,2014-05-21,100,90,30,3,85,15,30,20,3,0.3,0.15,16,16,SE,25,0,0,15,47.913643N,14.323348E,9,,Kalkbraunerde,Schreibachfall,se08,,Fagion sylvaticae,Mercuriali-Fagetum Scamoni 1935 -tilietosum (Moor 1945) Willner 2007,R. Kaiser & T. Eberl
+se08,2014-05-21,100,90,30,3,85,15,30,20,3,0.3,0.15,16,16,SE,25,0,0,15,47.913643N,14.323348E,9,,Kalkbraunerde,Schreibachfall,se08,,Eu-Fagenion,Mercuriali-Fagetum Scamoni 1935 -tilietosum (Moor 1945) Willner 2007,R. Kaiser & T. Eberl
 se09,2014-05-21,98,75,45,25,80,5,17,13,5,0.5,0.2,16,16,S,35,5,0,0,47.915092N,14.324439E,7,,Rendzina,Schreibachfall,se09,,Tilenion platyphylli,Aceri-Tilietum platyphylli Faber 1936 s.l. -seslerietosum prov.,R. Kaiser
 se10,2014-05-21,94,85,25,8,50,5,25,15,5,0.5,0.2,16,16,SW,45,20,5,20,47.917085N,14.325832E,8,,Skeletthumusboden,Schreibachfall,se10,,Tilenion platyphylli,Aceri-Tilietum platyphylli Faber 1936 s.l. -typicum,R. Kaiser & T. Eberl
 se11,2014-06-03,90,50,10,10,85,3,30,20,4,0.5,0.3,16,16,W,45,3,0,0,47.840119N,14.552208E,14,990,Rendzina,Restental,se11,kleine Aufflichtung (Lochieb) in ansonsten lichtem Steilhangwald  ,Fagion sylvaticae,Adenostylo glabrae-Fagetum Moor 1970 -calamagrostietosum variae (Zukrigl 1973) Willner 2007,R. Kaiser
@@ -32,9 +32,9 @@ se30,2014-10-09,90,45,35,30,30,55,18,12,6,1,0.1,16,16,S,35,0,0,30,47.907735N,14.
 se31,2014-10-09,85,45,60,2,55,5,14,9,4,0.3,0.15,16,16,S,60,35,0,0,47.908751N,14.267499E,10,,Rendzina,Dürres Eck/Gaisberg,se31,,Fagion sylvaticae,Helleboro nigri-Fagetum Zukrigl 1973 s.str.,R. Kaiser & T. Eberl
 se32,2014-10-09,85,75,15,1,40,1,18,12,4,0.6,0.25,16,16,S,35,0,0,60,47.907417N,14.280971E,10,,Skeletthumusboden,Dürres Eck/Gaisberg,se32,,Tilenion platyphylli,Sorbo ariae-Aceretum pseudoplatani Moor 1952,R. Kaiser
 se33,2014-10-09,85,25,50,25,50,25,16,9,4,1,0.1,16,16,S,80,50,0,0,47.905633N,14.276972E,10,,Mull-Rendzina,Dürres Eck/Gaisberg,se33,im unteren Teil der Felsstufe,Tilenion platyphylli,Aceri-Tilietum platyphylli Faber 1936 s.l. -seslerietosum prov.,R. Kaiser & T. Eberl
-se34,2016-07-18,85,30,25,5,75,10,13,9,2.5,0.8,0.2,16,16,S,50,25,0,0,47.887752,14.363586,10,,,Rehkogel,se34,sea01,Tilenion platyphylli,,
-se35,2016-07-18,100,45,25,10,97,5,27,13,3,1,0.25,16,16,S,35,0,0,0,47.886810,14.367931,10,,,Rehkogel,se35,sea02,Lunario-Acerenion pseudoplatani,,
-se36,2016-07-20,70,35,20,50,20,10,14,9,3.5,0.6,0.1,16,16,S,70,100,0,0,47.901264,14.301845,10,,,Schwalbensteinmauer,se36,sea03,Tilenion platyphylli,,
+se34,2016-07-18,85,30,25,5,75,10,13,9,2.5,0.8,0.2,16,16,S,50,25,0,0,47.887752,14.363586,10,,,Rehkogel,se34,sea01,Tilenion platyphylli,,R. Kaiser & T. Eberl
+se35,2016-07-18,100,45,25,10,97,5,27,13,3,1,0.25,16,16,S,35,0,0,0,47.886810,14.367931,10,,,Rehkogel,se35,sea02,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
+se36,2016-07-20,70,35,20,50,20,10,14,9,3.5,0.6,0.1,16,16,S,70,100,0,0,47.901264,14.301845,10,,,Schwalbensteinmauer,se36,sea03,Tilenion platyphylli,,R. Kaiser & T. Eberl
 se37,2015-07-14,90,40,45,45,80,15,16,12,4,0.8,0.1,16,16,S,70,3,0,0,47.914212,14.206395,10,,,Rinnerbergerbach,se37,sex01,Tilenion platyphylli,,R. Kaiser & T. Eberl
 se38,2015-07-14,97,60,50,60,80,15,18,14,6,0.8,0.3,16,16,S,60,25,0,0,47.911138,14.202727,10,,Rendzina,Rinnerbergerbach,se38,sex02,Tilenion platyphylli,,R. Kaiser
 se39,2015-07-14,90,35,25,45,70,15,18,12,4,0.5,0.3,16,16,S,75,30,0,0,47.908676,14.200076,10,,Rendzina,Rinnerbergerbach,se39,sex03,Tilenion platyphylli,,R. Kaiser
@@ -43,7 +43,7 @@ se41,2015-07-15,100,90,20,3,100,10,27,19,4,1.2,0.15,16,16,NE,35,0,0,100,47.91171
 se42,2015-07-15,90,45,20,10,70,5,14,9,3,0.8,0.2,10,25,SE,55,25,0,0,47.911120,14.217765,10,,"Moder-Rendzina, Mull-Rendzina",Rinnerbergerbach,se42,"sex06, entlang Felsrücken",Tilenion platyphylli,,R. Kaiser
 se43,2015-07-16,97,85,35,0,3,5,28,19,0,0.2,0.1,16,16,N,40,0,0,100,47.820094,14.102634,10,,,Rieser- und Reilerschneid,se43,sex07,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se44,2015-07-16,85,45,30,3,60,3,26,16,4,1,0.1,16,16,NE,40,0,0,100,47.820709,14.100280,10,,,Rieser- und Reilerschneid,se44,sex08,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
-se45,2015-07-16,95,90,10,1,8,15,29,15,3,0.6,0.1,16,16,E,30,0,0,100,47.821859,14.100642,10,,,Rieser- und Reilerschneid,se45,sex09,Lonicero alpigenae Fagenion,,T. Eberl
+se45,2015-07-16,95,90,10,1,8,15,29,15,3,0.6,0.1,16,16,E,30,0,0,100,47.821859,14.100642,10,,,Rieser- und Reilerschneid,se45,sex09,Lonicero alpigenae-Fagenion,,T. Eberl
 se46,2015-07-16,100,40,10,25,90,25,25,10,5,0.9,0.3,16,16,NE,25,0,0,100,47.822200,14.101796,10,,,Rieser- und Reilerschneid,se46,"sex10, Blockwerk mit mächtiger Humusauflage",Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se47,2015-07-16,95,75,10,1,80,3,23,8,1,0.6,0.25,25,10,NE,30,0,0,100,47.82551,14.10101,10,,,Rieser- und Reilerschneid,se47,"sex11, Wimpernwald unterhalb Felshang",Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se48,2015-07-16,97,30,80,0,45,5,29,24,0,0.4,0.15,16,16,N,20,0,0,20,47.820715,14.102736,10,,lehmige Renzina,Rieser- und Reilerschneid,se48,"sex12, Feinsubstratüberdeckung an Hangschutt, wenig bis keine Schuttnachfuhr",Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
@@ -52,12 +52,12 @@ se50,2015-07-17,97,30,70,3,35,1,36,26,3,0.8,0.1,16,16,NE,35,0,0,20,47.867765,13.
 se51,2015-07-17,95,60,45,10,20,1,35,26,4.5,0.7,0.1,16,16,NE,30,0,0,30,47.868608,13.892587,10,,,Zwillingskogel,se51,sex15,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se52,2015-07-17,90,35,60,1,80,0,27,21,4.5,1,0.3,16,16,NE,25,0,0,100,47.86940,13.89222,10,,,Zwillingskogel,se52,sex16,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se53,2015-07-17,95,80,20,0,7,0,25,16,0,0.5,0.15,16,16,NE,30,0,0,100,47.873330,13.889560,20,,,Zwillingskogel,se53,sex17,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
-se54,2015-07-17,95,60,40,2,80,1,25,18,2,1,0.3,16,16,NE,35,0,0,0,47.869248,13.891645,10,,,Zwillingskogel,se54,"sex18, berhalb Wegkehre",Lonicero alpigenae Fagenion,,R. Kaiser & T. Eberl
+se54,2015-07-17,95,60,40,2,80,1,25,18,2,1,0.3,16,16,NE,35,0,0,0,47.869248,13.891645,10,,,Zwillingskogel,se54,"sex18, berhalb Wegkehre",Lonicero alpigenae-Fagenion,,R. Kaiser & T. Eberl
 se55,2015-07-17,90,30,35,8,35,1,20,12,4,0.9,0.1,16,16,NE,35,0,0,100,47.865645,13.899035,10,,,Zwillingskogel,se55,sex19,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se56,2015-07-21,99,20,80,7,40,60,25,15,4,1,0.25,16,16,S,35,0,0,100,47.917971,14.273842,10,,,Dorngraben,se56,"sey01, lockhalde an Rücken",Tilenion platyphylli,,R. Kaiser & T. Eberl
 se57,2015-07-21,80,15,55,7,25,25,14,10,4,0.8,0.2,10,25,S,60,90,0,0,47.918136,14.273863,10,,,Dorngraben,se57,"sey02, ntlang Rücken",Tilenion platyphylli,,R. Kaiser
 se58,2015-07-21,95,55,80,15,75,55,26,17,5,0.9,0.1,16,16,S,30,0,0,100,47.917861,14.275292,10,,,Dorngraben,se58,sey03,Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
-se59,2015-07-21,99,90,10,1,20,2,29,18,2,0.8,0.3,16,16,SW,30,5,0,0,47.918267,14.276324,10,,,Dorngraben,se59,sey04,Fagion sylvaticae,,R. Kaiser & T. Eberl
+se59,2015-07-21,99,90,10,1,20,2,29,18,2,0.8,0.3,16,16,SW,30,5,0,0,47.918267,14.276324,10,,,Dorngraben,se59,sey04,Eu-Fagenion,Mercuriali-Fagetum Scamoni 1935 -tilietosum (Moor 1945) Willner 2007,R. Kaiser & T. Eberl
 se60,2015-07-21,90,80,10,10,30,25,15,9,3.5,0.6,0.15,16,16,S,50,70,0,10,47.918335,14.277707,10,,,Dorngraben,se60,sey05,Tilenion platyphylli,,R. Kaiser & T. Eberl
 se61,2015-07-22,85,55,20,3,50,10,30,20,3.5,0.8,0.1,25,10,NE,30,0,0,100,47.839185,14.546006,10,,,Restental,se61,"sey06, hangparallel unterhalb Felshang",Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
 se62,2015-07-23,98,80,7,2,90,30,31,19,4,0.9,0.1,10,25,N,10,0,0,10,47.839717,14.548098,10,,,Restental,se62,"sey07, in Fallinie auf übererdetem Bachgeschiebe",Lunario-Acerenion pseudoplatani,,R. Kaiser & T. Eberl
@@ -70,7 +70,7 @@ se68,2015-07-24,97,80,25,2,85,90,30,15,5,0.8,0.3,16,16,S,35,0,0,100,47.922486,14
 se69,2015-07-24,95,30,80,30,75,15,13,10,4,0.6,0.2,25,10,S,55,30,0,0,47.922358,14.420339,10,,,Klausgraben,se69,"sey14, hangparallel an Hangleiste zwischen Felsstufen",Tilenion platyphylli,,R. Kaiser & T. Eberl
 se70,2015-07-24,95,35,35,50,80,15,13,9,4,0.9,0.1,16,16,SE,60,35,0,0,47.922597,14.418939,10,,,Klausgraben,se70,sey15,Tilenion platyphylli,,R. Kaiser & T. Eberl
 se71,2015-07-24,95,60,75,5,50,70,18,15,4,0.5,0.2,16,16,N,55,80,0,0,47.922835,14.420211,10,,,Klausgraben,se71,sey16,Tilenion platyphylli,,R. Kaiser & T. Eberl
-se72,2015-07-24,97,95,10,5,30,5,24,16,4,0.7,0.25,16,16,NE,35,0,0,5,47.924820,14.421380,10,,"Moder-Rendzina, Mull-Rendzina",Klausgraben,se72,"sey17, mächtige Moderrendzina über tiefgründig verwittertem Felshang",Fagion sylvaticae,,R. Kaiser & T. Eberl
+se72,2015-07-24,97,95,10,5,30,5,24,16,4,0.7,0.25,16,16,NE,35,0,0,5,47.924820,14.421380,10,,"Moder-Rendzina, Mull-Rendzina",Klausgraben,se72,"sey17, mächtige Moderrendzina über tiefgründig verwittertem Felshang",Eu-Fagenion,Mercuriali-Fagetum Scamoni 1935 -tilietosum (Moor 1945) Willner 2007,R. Kaiser & T. Eberl
 se73,2015-07-24,99,20,90,3,70,70,20,14,5.5,0.5,0.15,16,16,E,55,90,0,0,47.923792,14.422307,10,,,Klausgraben,se73,sey18,Tilenion platyphylli,,R. Kaiser & T. Eberl
 se74,2016-05-07,70,25,45,40,15,60,11,8,4,0.4,0.2,16,16,S,70,100,0,0,47.922909,14.413260,10,,,Klausgraben,se74,sez01,Tilenion platyphylli,,R. Kaiser & T. Eberl
 se75,2016-05-07,90,25,65,25,40,45,17,13,2.5,0.6,0.15,16,16,W,70,100,0,0,47.924830,14.414132,10,,,Klausgraben,se75,sez02,Tilenion platyphylli,,R. Kaiser & T. Eberl
