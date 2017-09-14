@@ -52,5 +52,5 @@ File `species.csv`: (;-separated, UTF-8) contains species frequency data of samp
 + `layer`: stratum/layer notation
 + `abbr`: abbreviation of the scientific species names (see the [vegsoup-standards](https://github.com/kardinal-eros/vegsoup-standards) repository for details, in particular the `austrian standard list 2008` data set).
 + `freq`: frequency count (1 through 25)
-+ `flower`: count of flowers. Value `999`: was used for species with uncountable number of flowers (e.g. *Arenaria serpylifolia*)
++ `flower`: count of flowers. Value `999` was used for species with uncountable number of flowers (e.g. *Arenaria serpylifolia*)
 + `comment`: additional comments
