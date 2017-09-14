@@ -7,9 +7,11 @@ Two quadratic enclosures of approximately 2.2m height and 25m² area were erecte
 
 Observations of plant cover were made in 0.5 × 0.5m metal frames, dived into 25 cells with polyester strings (see fig. 1). Each cell measures 10 × 10cm. In these frames frequency counts, plant heights and number of flowers were recored. At each site 16 subplots (frames) were sampled (see fig. 2). The surrounding of the enclosures served as control (8 subplots, coded as `k`, `k1 … k8`). The fenced enclosures were used as treatment (8 subplots, coded as `z`, `z1 … z8`).
 
-*Fig. 1:* ID numbers of the 25 cells.![*Fig. 1:* ID numbers of the 25 cells.](cells.png)
+![*Fig. 1:* ID numbers of the 25 cells.](cells.png)
+*Fig. 1:* ID numbers of the 25 cells.
 
-*Fig. 2:* Sketch of study sites.![*Fig. 2:* Sketch of study sites.](sketch.png)
+![*Fig. 2:* Sketch of study sites.](sketch.png)
+*Fig. 2:* Sketch of study sites.
 
 
 Furthermore, top-view photographs were made from each quadrat (frame) at every sampling occasion. Pixel coordinates for a set of 20 Control points (inner corners of the sampling frame) where digitized on these raw images. Images where then rectified, cropped and warped to a custom coordinate system of 500 by 500 units (mm) using the GDAL software library (http://www.gdal.org) resulting in exactly quadratic images of 2500 by 2500 pixels (resampled to a common resolution, 2 different camera types). A single pixel measures 0.2 mm.
