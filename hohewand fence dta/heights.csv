@@ -1,2401 +1,2401 @@
-"year";"plot";"cell";"abbr";"height";"comment"
-2010;"htl-k2";1;"teuc cham";8;
-2010;"htl-k2";2;"sedu albu";9;
-2010;"htl-k2";3;"sedu albu";7;
-2010;"htl-k2";4;"empt cell";0;
-2010;"htl-k2";5;"empt cell";0;
-2010;"htl-k2";6;"sedu albu";3;
-2010;"htl-k2";7;"teuc cham";4;
-2010;"htl-k2";8;"teuc cham";5;
-2010;"htl-k2";9;"teuc cham";6;
-2010;"htl-k2";10;"sedu albu";7;
-2010;"htl-k2";11;"sedu albu";12;
-2010;"htl-k2";12;"erys sylv";9;
-2010;"htl-k2";13;"teuc cham";7;
-2010;"htl-k2";14;"sedu albu";5;
-2010;"htl-k2";15;"sedu albu";10;
-2010;"htl-k2";16;"sedu albu";12;
-2010;"htl-k2";17;"alli lusi";11;
-2010;"htl-k2";18;"alli lusi";6;
-2010;"htl-k2";19;"erys sylv";7;
-2010;"htl-k2";20;"erys sylv";10;
-2010;"htl-k2";21;"vinc hiru";7;
-2010;"htl-k2";22;"sedu albu";8;
-2010;"htl-k2";23;"sedu albu";13;
-2010;"htl-k2";24;"sedu albu";5;
-2010;"htl-k2";25;"sedu albu";10;
-2010;"htl-k4";1;"anth ramo";9;
-2010;"htl-k4";2;"sedu albu";5;
-2010;"htl-k4";3;"sedu albu";5;
-2010;"htl-k4";4;"pelt alli";8;
-2010;"htl-k4";5;"erys sylv";4;
-2010;"htl-k4";6;"sedu albu";10;
-2010;"htl-k4";7;"teuc mont";13;
-2010;"htl-k4";8;"erys sylv";10;
-2010;"htl-k4";9;"sedu albu";9;
-2010;"htl-k4";10;"jovi glob hirt";1;
-2010;"htl-k4";11;"sedu albu";1;
-2010;"htl-k4";12;"anth ramo";7;
-2010;"htl-k4";13;"sedu albu";4;
-2010;"htl-k4";14;"sedu albu";5;
-2010;"htl-k4";15;"sedu albu";12;
-2010;"htl-k4";16;"empt cell";0;
-2010;"htl-k4";17;"teuc mont";4;
-2010;"htl-k4";18;"jovi glob hirt";1;
-2010;"htl-k4";19;"empt cell";0;
-2010;"htl-k4";20;"jovi glob hirt";1;
-2010;"htl-k4";21;"empt cell";0;
-2010;"htl-k4";22;"empt cell";0;
-2010;"htl-k4";23;"jovi glob hirt";1;
-2010;"htl-k4";24;"sedu albu";5;
-2010;"htl-k4";25;"sedu albu";1;
-2010;"htl-k6";1;"secu vari";12;
-2010;"htl-k6";2;"anth ramo";11;
-2010;"htl-k6";3;"vinc hiru";37;
-2010;"htl-k6";4;"vinc hiru";49;
-2010;"htl-k6";5;"vinc hiru";51;
-2010;"htl-k6";6;"anth vuln slat";18;
-2010;"htl-k6";7;"aren serp";19;
-2010;"htl-k6";8;"rese lute";23;
-2010;"htl-k6";9;"anth ramo";16;
-2010;"htl-k6";10;"echi vulg";12;
-2010;"htl-k6";11;"vinc hiru";44;
-2010;"htl-k6";12;"anth vuln slat";20;
-2010;"htl-k6";13;"rese lute";22;
-2010;"htl-k6";14;"anth vuln slat";20;
-2010;"htl-k6";15;"vinc hiru";40;
-2010;"htl-k6";16;"teuc cham";19;
-2010;"htl-k6";17;"vinc hiru";42;
-2010;"htl-k6";18;"vinc hiru";38;
-2010;"htl-k6";19;"vinc hiru";56;
-2010;"htl-k6";20;"vinc hiru";39;
-2010;"htl-k6";21;"vinc hiru";40;
-2010;"htl-k6";22;"vinc hiru";59;
-2010;"htl-k6";23;"vinc hiru";45;
-2010;"htl-k6";24;"vinc hiru";50;
-2010;"htl-k6";25;"teuc cham";19;
-2010;"htl-k8";1;"sedu albu";17;
-2010;"htl-k8";2;"vinc hiru";57;
-2010;"htl-k8";3;"vinc hiru";54;
-2010;"htl-k8";4;"vinc hiru";47;
-2010;"htl-k8";5;"aren serp";7;
-2010;"htl-k8";6;"vinc hiru";28;
-2010;"htl-k8";7;"aren serp";15;
-2010;"htl-k8";8;"vinc hiru";48;
-2010;"htl-k8";9;"vinc hiru";46;
-2010;"htl-k8";10;"sedu albu";17;
-2010;"htl-k8";11;"anth vuln slat";12;
-2010;"htl-k8";12;"viol tric saxa";13;
-2010;"htl-k8";13;"vinc hiru";48;
-2010;"htl-k8";14;"vinc hiru";45;
-2010;"htl-k8";15;"empt cell";0;
-2010;"htl-k8";16;"empt cell";0;
-2010;"htl-k8";17;"vinc hiru";42;
-2010;"htl-k8";18;"vinc hiru";39;
-2010;"htl-k8";19;"card nuta nuta";17;
-2010;"htl-k8";20;"card nuta nuta";20;
-2010;"htl-k8";21;"card nuta nuta";22;
-2010;"htl-k8";22;"orig vulg";8;
-2010;"htl-k8";23;"erys sylv";33;
-2010;"htl-k8";24;"vinc hiru";43;
-2010;"htl-k8";25;"jovi glob hirt";1;
-2010;"htl-z1";1;"pelt alli";27;
-2010;"htl-z1";2;"pelt alli";28;
-2010;"htl-z1";3;"aren serp";13;
-2010;"htl-z1";4;"sedu albu";13;
-2010;"htl-z1";5;"sedu albu";11;
-2010;"htl-z1";6;"erys sylv";7;
-2010;"htl-z1";7;"pelt alli";24;
-2010;"htl-z1";8;"aren serp";2;
-2010;"htl-z1";9;"sedu albu";8;
-2010;"htl-z1";10;"sedu albu";11;
-2010;"htl-z1";11;"sedu albu";10;
-2010;"htl-z1";12;"sedu albu";10;
-2010;"htl-z1";13;"sedu albu";9;
-2010;"htl-z1";14;"sedu albu";2;
-2010;"htl-z1";15;"pelt alli";28;
-2010;"htl-z1";16;"pelt alli";38;
-2010;"htl-z1";17;"pelt alli";20;
-2010;"htl-z1";18;"sedu albu";8;
-2010;"htl-z1";19;"sedu albu";8;
-2010;"htl-z1";20;"anth ramo";30;
-2010;"htl-z1";21;"anth ramo";12;
-2010;"htl-z1";22;"sedu albu";9;
-2010;"htl-z1";23;"sedu albu";10;
-2010;"htl-z1";24;"pelt alli";16;
-2010;"htl-z1";25;"sedu albu";11;
-2010;"htl-z2";1;"sedu albu";10;
-2010;"htl-z2";2;"sedu albu";5;
-2010;"htl-z2";3;"sedu albu";8;
-2010;"htl-z2";4;"sedu albu";5;
-2010;"htl-z2";5;"sedu albu";10;
-2010;"htl-z2";6;"sedu albu";3;
-2010;"htl-z2";7;"erys sylv";5;
-2010;"htl-z2";8;"sedu albu";2;
-2010;"htl-z2";9;"sedu albu";3;
-2010;"htl-z2";10;"erys sylv";8;
-2010;"htl-z2";11;"sedu albu";8;
-2010;"htl-z2";12;"empt cell";0;
-2010;"htl-z2";13;"sedu albu";3;
-2010;"htl-z2";14;"sedu albu";5;
-2010;"htl-z2";15;"sedu albu";9;
-2010;"htl-z2";16;"sedu albu";6;
-2010;"htl-z2";17;"erys sylv";25;
-2010;"htl-z2";18;"sedu albu";5;
-2010;"htl-z2";19;"aren serp";13;
-2010;"htl-z2";20;"aren serp";8;
-2010;"htl-z2";21;"aren serp";7;
-2010;"htl-z2";22;"erys sylv";1;
-2010;"htl-z2";23;"sese aust";7;
-2010;"htl-z2";24;"anth ramo";18;
-2010;"htl-z2";25;"erys sylv";10;
-2010;"htl-z3";1;"sedu albu";13;
-2010;"htl-z3";2;"sedu albu";10;
-2010;"htl-z3";3;"sedu albu";12;
-2010;"htl-z3";4;"sedu albu";10;
-2010;"htl-z3";5;"poa prat";50;
-2010;"htl-z3";6;"poa prat";45;
-2010;"htl-z3";7;"poa prat";34;
-2010;"htl-z3";8;"sedu albu";17;
-2010;"htl-z3";9;"poa prat";28;
-2010;"htl-z3";10;"pelt alli";30;
-2010;"htl-z3";11;"poa prat";33;
-2010;"htl-z3";12;"aren serp";14;
-2010;"htl-z3";13;"sedu albu";7;
-2010;"htl-z3";14;"poa prat";47;
-2010;"htl-z3";15;"poa prat";44;
-2010;"htl-z3";16;"hype perf";14;
-2010;"htl-z3";17;"hype perf";31;
-2010;"htl-z3";18;"sedu albu";12;
-2010;"htl-z3";19;"poa prat";26;
-2010;"htl-z3";20;"poa prat";12;
-2010;"htl-z3";21;"poa prat";29;
-2010;"htl-z3";22;"poa prat";31;
-2010;"htl-z3";23;"poa prat";47;
-2010;"htl-z3";24;"poa prat";41;
-2010;"htl-z3";25;"sedu albu";13;
-2010;"htl-z4";1;"teuc cham";7;
-2010;"htl-z4";2;"vinc hiru";59;
-2010;"htl-z4";3;"aren serp";20;
-2010;"htl-z4";4;"aren serp";15;
-2010;"htl-z4";5;"sedu albu";7;
-2010;"htl-z4";6;"heli numm obsc";17;
-2010;"htl-z4";7;"teuc cham";13;
-2010;"htl-z4";8;"anth ramo";28;
-2010;"htl-z4";9;"vinc hiru";53;
-2010;"htl-z4";10;"vinc hiru";61;
-2010;"htl-z4";11;"acon anth";35;
-2010;"htl-z4";12;"meli cili";25;
-2010;"htl-z4";13;"meli cili";72;
-2010;"htl-z4";14;"heli numm obsc";20;
-2010;"htl-z4";15;"sedu albu";15;
-2010;"htl-z4";16;"heli numm obsc";20;
-2010;"htl-z4";17;"heli numm obsc";15;
-2010;"htl-z4";18;"meli cili";68;
-2010;"htl-z4";19;"vinc hiru";37;
-2010;"htl-z4";20;"acon anth";27;
-2010;"htl-z4";21;"aren serp";17;
-2010;"htl-z4";22;"aren serp";14;
-2010;"htl-z4";23;"heli numm obsc";24;
-2010;"htl-z4";24;"orig vulg";12;
-2010;"htl-z4";25;"sedu albu";13;
-2010;"krr-k5";1;"sedu albu";1;
-2010;"krr-k5";2;"gali luci";4;
-2010;"krr-k5";3;"jovi glob hirt";1;
-2010;"krr-k5";4;"jovi glob hirt";1;
-2010;"krr-k5";5;"empt cell";0;
-2010;"krr-k5";6;"aren serp";3;
-2010;"krr-k5";7;"aren serp";2;
-2010;"krr-k5";8;"jovi glob hirt";1;
-2010;"krr-k5";9;"sedu albu";2;
-2010;"krr-k5";10;"sedu albu";4;
-2010;"krr-k5";11;"empt cell";0;
-2010;"krr-k5";12;"sedu albu";1;
-2010;"krr-k5";13;"aren serp";4;
-2010;"krr-k5";14;"sedu albu";6;
-2010;"krr-k5";15;"sedu albu";2;
-2010;"krr-k5";16;"sedu albu";3;
-2010;"krr-k5";17;"empt cell";0;
-2010;"krr-k5";18;"empt cell";0;
-2010;"krr-k5";19;"empt cell";0;
-2010;"krr-k5";20;"teuc mont";6;
-2010;"krr-k5";21;"empt cell";0;
-2010;"krr-k5";22;"sedu albu";4;
-2010;"krr-k5";23;"sedu albu";5;
-2010;"krr-k5";24;"euph cypa";12;
-2010;"krr-k5";25;"empt cell";0;
-2010;"krr-k6";1;"ajug gene";4;
-2010;"krr-k6";2;"teuc mont";5;
-2010;"krr-k6";3;"sedu albu";5;
-2010;"krr-k6";4;"leon inca";7;
-2010;"krr-k6";5;"sedu albu";3;
-2010;"krr-k6";6;"sedu albu";5;
-2010;"krr-k6";7;"sedu albu";4;
-2010;"krr-k6";8;"bupl falc falc";7;
-2010;"krr-k6";9;"sedu albu";3;
-2010;"krr-k6";10;"sedu albu";2;
-2010;"krr-k6";11;"sedu albu";7;
-2010;"krr-k6";12;"sedu albu";3;
-2010;"krr-k6";13;"sedu albu";3;
-2010;"krr-k6";14;"teuc mont";4;
-2010;"krr-k6";15;"sedu albu";8;
-2010;"krr-k6";16;"sedu albu";4;
-2010;"krr-k6";17;"rese lute";11;
-2010;"krr-k6";18;"sedu albu";4;
-2010;"krr-k6";19;"sedu albu";8;
-2010;"krr-k6";20;"sedu albu";6;
-2010;"krr-k6";21;"sedu albu";3;
-2010;"krr-k6";22;"sedu albu";7;
-2010;"krr-k6";23;"jovi glob hirt";1;
-2010;"krr-k6";24;"rese lute";8;
-2010;"krr-k6";25;"empt cell";0;
-2010;"krr-k7";1;"sedu albu";2;
-2010;"krr-k7";2;"sedu albu";3;
-2010;"krr-k7";3;"clin acin";7;
-2010;"krr-k7";4;"erys sylv";6;
-2010;"krr-k7";5;"erys sylv";9;
-2010;"krr-k7";6;"erys sylv";11;
-2010;"krr-k7";7;"alli lusi";7;
-2010;"krr-k7";8;"jovi glob hirt";1;
-2010;"krr-k7";9;"jovi glob hirt";1;
-2010;"krr-k7";10;"aren serp";4;
-2010;"krr-k7";11;"sedu albu";5;
-2010;"krr-k7";12;"jovi glob hirt";1;
-2010;"krr-k7";13;"jovi glob hirt";1;
-2010;"krr-k7";14;"alli lusi";3;
-2010;"krr-k7";15;"erys sylv";16;
-2010;"krr-k7";16;"jovi glob hirt";1;
-2010;"krr-k7";17;"aren serp";3;
-2010;"krr-k7";18;"jovi glob hirt";1;
-2010;"krr-k7";19;"rese lute";13;
-2010;"krr-k7";20;"rese lute";10;
-2010;"krr-k7";21;"jovi glob hirt";1;
-2010;"krr-k7";22;"jovi glob hirt";1;
-2010;"krr-k7";23;"sedu albu";3;
-2010;"krr-k7";24;"jovi glob hirt";1;
-2010;"krr-k7";25;"jovi glob hirt";1;
-2010;"krr-k8";1;"clin acin";5;
-2010;"krr-k8";2;"jovi glob hirt";2;
-2010;"krr-k8";3;"jovi glob hirt";2;
-2010;"krr-k8";4;"care humi";6;
-2010;"krr-k8";5;"care humi";7;
-2010;"krr-k8";6;"sedu albu";11;
-2010;"krr-k8";7;"sedu albu";11;
-2010;"krr-k8";8;"pelt alli";19;
-2010;"krr-k8";9;"jovi glob hirt";1;
-2010;"krr-k8";10;"sedu albu";4;
-2010;"krr-k8";11;"sedu albu";7;
-2010;"krr-k8";12;"pelt alli";19;
-2010;"krr-k8";13;"sedu albu";15;
-2010;"krr-k8";14;"aren serp";5;
-2010;"krr-k8";15;"sedu albu";6;
-2010;"krr-k8";16;"sedu albu";10;
-2010;"krr-k8";17;"sedu albu";8;
-2010;"krr-k8";18;"sedu albu";10;
-2010;"krr-k8";19;"sedu albu";3;
-2010;"krr-k8";20;"jovi glob hirt";1;
-2010;"krr-k8";21;"sedu albu";3;
-2010;"krr-k8";22;"sedu albu";10;
-2010;"krr-k8";23;"sedu albu";9;
-2010;"krr-k8";24;"rese lute";5;
-2010;"krr-k8";25;"rese lute";7;
-2010;"krr-z1";1;"teuc cham";6;
-2010;"krr-z1";2;"teuc mont";8;
-2010;"krr-z1";3;"verb thap";10;
-2010;"krr-z1";4;"sedu albu";7;
-2010;"krr-z1";5;"sedu albu";10;
-2010;"krr-z1";6;"meli cili";20;
-2010;"krr-z1";7;"sedu albu";3;
-2010;"krr-z1";8;"leon inca";8;
-2010;"krr-z1";9;"alli lusi";13;
-2010;"krr-z1";10;"alli lusi";3;
-2010;"krr-z1";11;"jovi glob hirt";2;
-2010;"krr-z1";12;"jovi glob hirt";1;
-2010;"krr-z1";13;"rese lute";13;
-2010;"krr-z1";14;"leon inca";11;
-2010;"krr-z1";15;"sedu albu";2;
-2010;"krr-z1";16;"jovi glob hirt";1;
-2010;"krr-z1";17;"aren serp";10;
-2010;"krr-z1";18;"tara sect rude";3;
-2010;"krr-z1";19;"alli lusi";9;
-2010;"krr-z1";20;"alli lusi";9;
-2010;"krr-z1";21;"jovi glob hirt";1;
-2010;"krr-z1";22;"sedu albu";3;
-2010;"krr-z1";23;"alli lusi";11;
-2010;"krr-z1";24;"scab ochr";10;
-2010;"krr-z1";25;"scab ochr";41;
-2010;"krr-z2";1;"sedu albu";11;
-2010;"krr-z2";2;"sedu albu";12;
-2010;"krr-z2";3;"empt cell";0;
-2010;"krr-z2";4;"brom tect";8;
-2010;"krr-z2";5;"sedu albu";10;
-2010;"krr-z2";6;"sedu albu";9;
-2010;"krr-z2";7;"empt cell";0;
-2010;"krr-z2";8;"jovi glob hirt";1;
-2010;"krr-z2";9;"sedu albu";5;
-2010;"krr-z2";10;"sedu albu";10;
-2010;"krr-z2";11;"sedu albu";11;
-2010;"krr-z2";12;"sedu albu";8;
-2010;"krr-z2";13;"sedu albu";8;
-2010;"krr-z2";14;"jovi glob hirt";1;
-2010;"krr-z2";15;"gali luci";12;
-2010;"krr-z2";16;"sedu albu";9;
-2010;"krr-z2";17;"jovi glob hirt";1;
-2010;"krr-z2";18;"jovi glob hirt";1;
-2010;"krr-z2";19;"empt cell";0;
-2010;"krr-z2";20;"jovi glob hirt";1;
-2010;"krr-z2";21;"sedu albu";10;
-2010;"krr-z2";22;"erys sylv";11;
-2010;"krr-z2";23;"jovi glob hirt";1;
-2010;"krr-z2";24;"jovi glob hirt";1;
-2010;"krr-z2";25;"sedu albu";7;
-2010;"krr-z3";1;"sedu albu";9;
-2010;"krr-z3";2;"vinc hiru";24;
-2010;"krr-z3";3;"vinc hiru";19;
-2010;"krr-z3";4;"vinc hiru";15;
-2010;"krr-z3";5;"meli cili";30;
-2010;"krr-z3";6;"vinc hiru";40;
-2010;"krr-z3";7;"vinc hiru";24;
-2010;"krr-z3";8;"vinc hiru";45;
-2010;"krr-z3";9;"care humi";15;
-2010;"krr-z3";10;"care humi";14;
-2010;"krr-z3";11;"care humi";21;
-2010;"krr-z3";12;"vinc hiru";20;
-2010;"krr-z3";13;"vinc hiru";38;
-2010;"krr-z3";14;"vinc hiru";28;
-2010;"krr-z3";15;"vinc hiru";42;
-2010;"krr-z3";16;"vinc hiru";38;
-2010;"krr-z3";17;"vinc hiru";40;
-2010;"krr-z3";18;"vinc hiru";38;
-2010;"krr-z3";19;"care humi";18;
-2010;"krr-z3";20;"care humi";14;
-2010;"krr-z3";21;"sedu albu";3;
-2010;"krr-z3";22;"aren serp";6;
-2010;"krr-z3";23;"care humi";20;
-2010;"krr-z3";24;"vinc hiru";25;
-2010;"krr-z3";25;"care humi";26;
-2010;"krr-z4";1;"gali luci";23;
-2010;"krr-z4";2;"aren serp";13;
-2010;"krr-z4";3;"sedu albu";11;
-2010;"krr-z4";4;"euph cypa";13;
-2010;"krr-z4";5;"sesl caer";11;
-2010;"krr-z4";6;"sesl caer";6;
-2010;"krr-z4";7;"sedu albu";7;
-2010;"krr-z4";8;"sedu albu";4;
-2010;"krr-z4";9;"sedu albu";3;
-2010;"krr-z4";10;"erys sylv";5;
-2010;"krr-z4";11;"erys sylv";8;
-2010;"krr-z4";12;"care humi";10;
-2010;"krr-z4";13;"teuc mont";8;
-2010;"krr-z4";14;"sedu albu";9;
-2010;"krr-z4";15;"sedu albu";2;
-2010;"krr-z4";16;"sedu albu";2;
-2010;"krr-z4";17;"sedu albu";4;
-2010;"krr-z4";18;"jovi glob hirt";2;
-2010;"krr-z4";19;"teuc mont";3;
-2010;"krr-z4";20;"anch offi";5;
-2010;"krr-z4";21;"sedu albu";3;
-2010;"krr-z4";22;"sedu albu";9;
-2010;"krr-z4";23;"meli cili";26;
-2010;"krr-z4";24;"meli cili";17;
-2010;"krr-z4";25;"sedu albu";2;
-2010;"htl-k1";1;"aren serp";14;
-2010;"htl-k1";2;"heli numm glab";6;
-2010;"htl-k1";3;"teuc cham";7;
-2010;"htl-k1";4;"anth ramo";7;
-2010;"htl-k1";5;"sedu albu";3;
-2010;"htl-k1";6;"sedu albu";4;
-2010;"htl-k1";7;"anth ramo";5;
-2010;"htl-k1";8;"hack defl";32;
-2010;"htl-k1";9;"hack defl";21;
-2010;"htl-k1";10;"hack defl";23;
-2010;"htl-k1";11;"hack defl";22;
-2010;"htl-k1";12;"hack defl";24;
-2010;"htl-k1";13;"hack defl";39;
-2010;"htl-k1";14;"aren serp";12;
-2010;"htl-k1";15;"sedu albu";3;
-2010;"htl-k1";16;"sedu albu";4;
-2010;"htl-k1";17;"teuc cham";5;
-2010;"htl-k1";18;"aren serp";8;
-2010;"htl-k1";19;"erys sylv";36;
-2010;"htl-k1";20;"hack defl";27;
-2010;"htl-k1";21;"heli numm glab";12;
-2010;"htl-k1";22;"erys sylv";18;
-2010;"htl-k1";23;"teuc cham";11;
-2010;"htl-k1";24;"aren serp";13;
-2010;"htl-k1";25;"sedu albu";7;
-2010;"htl-k3";1;"hype perf";8;
-2010;"htl-k3";2;"empt cell";0;
-2010;"htl-k3";3;"aren serp";5;
-2010;"htl-k3";4;"empt cell";0;
-2010;"htl-k3";5;"sedu albu";5;
-2010;"htl-k3";6;"sedu albu";5;
-2010;"htl-k3";7;"anth ramo";5;
-2010;"htl-k3";8;"aren serp";9;
-2010;"htl-k3";9;"aren serp";4;
-2010;"htl-k3";10;"empt cell";0;
-2010;"htl-k3";11;"hype perf";5;
-2010;"htl-k3";12;"aren serp";10;
-2010;"htl-k3";13;"aren serp";7;
-2010;"htl-k3";14;"anth ramo";6;
-2010;"htl-k3";15;"card nuta nuta";17;
-2010;"htl-k3";16;"card nuta nuta";16;
-2010;"htl-k3";17;"card nuta nuta";16;
-2010;"htl-k3";18;"aren serp";12;
-2010;"htl-k3";19;"aren serp";11;
-2010;"htl-k3";20;"sedu albu";2;
-2010;"htl-k3";21;"jovi glob hirt";3;
-2010;"htl-k3";22;"empt cell";0;
-2010;"htl-k3";23;"empt cell";0;
-2010;"htl-k3";24;"card nuta nuta";4;
-2010;"htl-k3";25;"card nuta nuta";7;
-2010;"htl-k5";1;"empt cell";0;
-2010;"htl-k5";2;"empt cell";0;
-2010;"htl-k5";3;"sedu albu";5;
-2010;"htl-k5";4;"aren serp";6;
-2010;"htl-k5";5;"sedu albu";11;
-2010;"htl-k5";6;"aren serp";9;
-2010;"htl-k5";7;"aren serp";6;
-2010;"htl-k5";8;"sedu albu";2;
-2010;"htl-k5";9;"empt cell";0;
-2010;"htl-k5";10;"empt cell";0;
-2010;"htl-k5";11;"sedu albu";3;
-2010;"htl-k5";12;"sedu albu";2;
-2010;"htl-k5";13;"sedu albu";4;
-2010;"htl-k5";14;"sedu albu";3;
-2010;"htl-k5";15;"sedu albu";9;
-2010;"htl-k5";16;"sedu albu";10;
-2010;"htl-k5";17;"sedu albu";11;
-2010;"htl-k5";18;"aren serp";10;
-2010;"htl-k5";19;"aren serp";13;
-2010;"htl-k5";20;"aren serp";8;
-2010;"htl-k5";21;"sedu albu";10;
-2010;"htl-k5";22;"sedu albu";12;
-2010;"htl-k5";23;"aren serp";14;
-2010;"htl-k5";24;"sedu albu";12;
-2010;"htl-k5";25;"sedu albu";2;
-2010;"htl-k7";1;"empt cell";0;
-2010;"htl-k7";2;"sedu albu";4;
-2010;"htl-k7";3;"aren serp";7;
-2010;"htl-k7";4;"aren serp";6;
-2010;"htl-k7";5;"empt cell";0;
-2010;"htl-k7";6;"empt cell";0;
-2010;"htl-k7";7;"sedu albu";2;
-2010;"htl-k7";8;"sedu albu";5;
-2010;"htl-k7";9;"sedu albu";3;
-2010;"htl-k7";10;"empt cell";0;
-2010;"htl-k7";11;"pelt alli";2;
-2010;"htl-k7";12;"sedu albu";4;
-2010;"htl-k7";13;"sedu albu";3;
-2010;"htl-k7";14;"sedu albu";8;
-2010;"htl-k7";15;"sedu albu";9;
-2010;"htl-k7";16;"teuc mont";5;
-2010;"htl-k7";17;"erys sylv";6;
-2010;"htl-k7";18;"anth ramo";16;
-2010;"htl-k7";19;"erys sylv";5;
-2010;"htl-k7";20;"jovi glob hirt";1;
-2010;"htl-k7";21;"sedu albu";4;
-2010;"htl-k7";22;"sedu albu";10;
-2010;"htl-k7";23;"anth ramo";12;
-2010;"htl-k7";24;"erys sylv";5;
-2010;"htl-k7";25;"aren serp";7;
-2010;"htl-z5";1;"aren serp";12;
-2010;"htl-z5";2;"sedu albu";10;
-2010;"htl-z5";3;"aspe cyna";14;
-2010;"htl-z5";4;"sedu albu";14;
-2010;"htl-z5";5;"aspe cyna";22;
-2010;"htl-z5";6;"sedu albu";13;
-2010;"htl-z5";7;"aspe cyna";22;
-2010;"htl-z5";8;"tara sect rude";10;
-2010;"htl-z5";9;"rese lute";10;
-2010;"htl-z5";10;"rese lute";19;
-2010;"htl-z5";11;"rese lute";9;
-2010;"htl-z5";12;"erys sylv";20;
-2010;"htl-z5";13;"tara sect rude";10;
-2010;"htl-z5";14;"tara sect rude";10;
-2010;"htl-z5";15;"aren serp";10;
-2010;"htl-z5";16;"aren serp";11;
-2010;"htl-z5";17;"heli numm obsc";8;
-2010;"htl-z5";18;"anth ramo";46;
-2010;"htl-z5";19;"anth ramo";51;
-2010;"htl-z5";20;"erys sylv";16;
-2010;"htl-z5";21;"heli numm obsc";10;
-2010;"htl-z5";22;"anth ramo";27;
-2010;"htl-z5";23;"heli numm obsc";13;
-2010;"htl-z5";24;"heli numm obsc";9;
-2010;"htl-z5";25;"aren serp";12;
-2010;"htl-z6";1;"hack defl";12;
-2010;"htl-z6";2;"sedu albu";13;
-2010;"htl-z6";3;"aren serp";9;
-2010;"htl-z6";4;"aren serp";13;
-2010;"htl-z6";5;"orig vulg";24;
-2010;"htl-z6";6;"sedu albu";16;
-2010;"htl-z6";7;"aren serp";17;
-2010;"htl-z6";8;"sedu albu";13;
-2010;"htl-z6";9;"aren serp";16;
-2010;"htl-z6";10;"aren serp";19;
-2010;"htl-z6";11;"aren serp";8;
-2010;"htl-z6";12;"aren serp";13;
-2010;"htl-z6";13;"aren serp";15;
-2010;"htl-z6";14;"aren serp";20;
-2010;"htl-z6";15;"aren serp";20;
-2010;"htl-z6";16;"aren serp";14;
-2010;"htl-z6";17;"aren serp";11;
-2010;"htl-z6";18;"aren serp";14;
-2010;"htl-z6";19;"aren serp";20;
-2010;"htl-z6";20;"aren serp";16;
-2010;"htl-z6";21;"aren serp";11;
-2010;"htl-z6";22;"aren serp";14;
-2010;"htl-z6";23;"aren serp";6;
-2010;"htl-z6";24;"aren serp";5;
-2010;"htl-z6";25;"aren serp";13;
-2010;"htl-z7";1;"aren serp";16;
-2010;"htl-z7";2;"aren serp";17;
-2010;"htl-z7";3;"aren serp";19;
-2010;"htl-z7";4;"aren serp";20;
-2010;"htl-z7";5;"aren serp";17;
-2010;"htl-z7";6;"vinc hiru";66;
-2010;"htl-z7";7;"aren serp";26;
-2010;"htl-z7";8;"aren serp";24;
-2010;"htl-z7";9;"aren serp";18;
-2010;"htl-z7";10;"aren serp";19;
-2010;"htl-z7";11;"aren serp";19;
-2010;"htl-z7";12;"aren serp";21;
-2010;"htl-z7";13;"aren serp";22;
-2010;"htl-z7";14;"vinc hiru";59;
-2010;"htl-z7";15;"aren serp";59;
-2010;"htl-z7";16;"aren serp";56;
-2010;"htl-z7";17;"aren serp";49;
-2010;"htl-z7";18;"aren serp";17;
-2010;"htl-z7";19;"aren serp";16;
-2010;"htl-z7";20;"aren serp";20;
-2010;"htl-z7";21;"aren serp";14;
-2010;"htl-z7";22;"aren serp";17;
-2010;"htl-z7";23;"vinc hiru";61;
-2010;"htl-z7";24;"vinc hiru";59;
-2010;"htl-z7";25;"aren serp";14;
-2010;"htl-z8";1;"fuma schl";12;
-2010;"htl-z8";2;"fuma schl";9;
-2010;"htl-z8";3;"tara sect rude";13;
-2010;"htl-z8";4;"tara sect rude";18;
-2010;"htl-z8";5;"tara sect rude";13;
-2010;"htl-z8";6;"rese lute";19;
-2010;"htl-z8";7;"vinc hiru";45;
-2010;"htl-z8";8;"vinc hiru";44;
-2010;"htl-z8";9;"tara sect rude";17;
-2010;"htl-z8";10;"tara sect rude";17;
-2010;"htl-z8";11;"aren serp";16;
-2010;"htl-z8";12;"vinc hiru";44;
-2010;"htl-z8";13;"vinc hiru";36;
-2010;"htl-z8";14;"vinc hiru";35;
-2010;"htl-z8";15;"vinc hiru";49;
-2010;"htl-z8";16;"vinc hiru";56;
-2010;"htl-z8";17;"vinc hiru";54;
-2010;"htl-z8";18;"tara sect rude";32;
-2010;"htl-z8";19;"aren serp";29;
-2010;"htl-z8";20;"aren serp";14;
-2010;"htl-z8";21;"aren serp";22;
-2010;"htl-z8";22;"rese lute";44;
-2010;"htl-z8";23;"vinc hiru";48;
-2010;"htl-z8";24;"vinc hiru";53;
-2010;"htl-z8";25;"vinc hiru";54;
-2010;"krr-z5";1;"aren serp";5;
-2010;"krr-z5";2;"sedu albu";4;
-2010;"krr-z5";3;"sedu albu";10;
-2010;"krr-z5";4;"aren serp";7;
-2010;"krr-z5";5;"aren serp";9;
-2010;"krr-z5";6;"scab ochr";49;
-2010;"krr-z5";7;"scab ochr";46;
-2010;"krr-z5";8;"sedu albu";10;
-2010;"krr-z5";9;"sedu albu";10;
-2010;"krr-z5";10;"aren serp";10;
-2010;"krr-z5";11;"aren serp";13;
-2010;"krr-z5";12;"sese aust";13;
-2010;"krr-z5";13;"sese aust";15;
-2010;"krr-z5";14;"scab ochr";35;
-2010;"krr-z5";15;"scab ochr";32;
-2010;"krr-z5";16;"sedu albu";8;
-2010;"krr-z5";17;"sese aust";13;
-2010;"krr-z5";18;"sese aust";17;
-2010;"krr-z5";19;"care humi";13;
-2010;"krr-z5";20;"alli lusi";13;
-2010;"krr-z5";21;"care humi";18;
-2010;"krr-z5";22;"care humi";20;
-2010;"krr-z5";23;"care humi";17;
-2010;"krr-z5";24;"aren serp";13;
-2010;"krr-z5";25;"care humi";15;
-2010;"krr-z6";1;"fuma schl";8;
-2010;"krr-z6";2;"jovi glob hirt";1;
-2010;"krr-z6";3;"sedu albu";12;
-2010;"krr-z6";4;"sedu albu";13;
-2010;"krr-z6";5;"sedu albu";2;
-2010;"krr-z6";6;"gali luci";20;
-2010;"krr-z6";7;"lact vimi";90;
-2010;"krr-z6";8;"gali luci";50;
-2010;"krr-z6";9;"sedu albu";12;
-2010;"krr-z6";10;"aren serp";10;
-2010;"krr-z6";11;"jovi glob hirt";1;
-2010;"krr-z6";12;"lina geni";61;
-2010;"krr-z6";13;"gali luci";34;
-2010;"krr-z6";14;"lact vimi";89;
-2010;"krr-z6";15;"lact vimi";64;
-2010;"krr-z6";16;"leon inca";11;
-2010;"krr-z6";17;"lact vimi";60;
-2010;"krr-z6";18;"lact vimi";66;
-2010;"krr-z6";19;"lina geni";60;
-2010;"krr-z6";20;"sedu albu";14;
-2010;"krr-z6";21;"sedu albu";7;
-2010;"krr-z6";22;"jovi glob hirt";1;
-2010;"krr-z6";23;"aren serp";14;
-2010;"krr-z6";24;"sedu albu";13;
-2010;"krr-z6";25;"sedu albu";13;
-2010;"krr-z7";1;"card nuta nuta";45;
-2010;"krr-z7";2;"leon inca";11;
-2010;"krr-z7";3;"leon inca";15;
-2010;"krr-z7";4;"leon inca";15;
-2010;"krr-z7";5;"gali luci";15;
-2010;"krr-z7";6;"bupl falc falc";30;
-2010;"krr-z7";7;"gali luci";26;
-2010;"krr-z7";8;"gali luci";18;
-2010;"krr-z7";9;"rese lute";22;
-2010;"krr-z7";10;"card nuta nuta";34;
-2010;"krr-z7";11;"jovi glob hirt";1;
-2010;"krr-z7";12;"sedu albu";5;
-2010;"krr-z7";13;"sedu albu";7;
-2010;"krr-z7";14;"bupl falc falc";33;
-2010;"krr-z7";15;"sedu albu";6;
-2010;"krr-z7";16;"sedu albu";4;
-2010;"krr-z7";17;"sedu albu";7;
-2010;"krr-z7";18;"sedu albu";9;
-2010;"krr-z7";19;"sedu albu";2;
-2010;"krr-z7";20;"sedu albu";5;
-2010;"krr-z7";21;"sedu albu";8;
-2010;"krr-z7";22;"sedu albu";6;
-2010;"krr-z7";23;"sedu albu";10;
-2010;"krr-z7";24;"sedu albu";11;
-2010;"krr-z7";25;"jovi glob hirt";1;
-2010;"krr-k1";1;"empt cell";0;
-2010;"krr-k1";2;"empt cell";0;
-2010;"krr-k1";3;"empt cell";0;
-2010;"krr-k1";4;"empt cell";0;
-2010;"krr-k1";5;"empt cell";0;
-2010;"krr-k1";6;"empt cell";0;
-2010;"krr-k1";7;"sedu albu";5;
-2010;"krr-k1";8;"sedu albu";3;
-2010;"krr-k1";9;"jovi glob hirt";1;
-2010;"krr-k1";10;"jovi glob hirt";1;
-2010;"krr-k1";11;"empt cell";0;
-2010;"krr-k1";12;"card nuta nuta";4;
-2010;"krr-k1";13;"card nuta nuta";26;
-2010;"krr-k1";14;"jovi glob hirt";1;
-2010;"krr-k1";15;"alli lusi";6;
-2010;"krr-k1";16;"sedu albu";4;
-2010;"krr-k1";17;"sedu albu";10;
-2010;"krr-k1";18;"card nuta nuta";16;
-2010;"krr-k1";19;"card nuta nuta";22;
-2010;"krr-k1";20;"sedu albu";6;
-2010;"krr-k1";21;"empt cell";0;
-2010;"krr-k1";22;"sedu albu";11;
-2010;"krr-k1";23;"sedu albu";11;
-2010;"krr-k1";24;"sedu albu";10;
-2010;"krr-k1";25;"sedu albu";2;
-2010;"krr-k2";1;"aren serp";8;
-2010;"krr-k2";2;"anch offi";7;
-2010;"krr-k2";3;"aren serp";8;
-2010;"krr-k2";4;"aren serp";8;
-2010;"krr-k2";5;"sedu albu";2;
-2010;"krr-k2";6;"jovi glob hirt";1;
-2010;"krr-k2";7;"rese lute";13;
-2010;"krr-k2";8;"rese lute";24;
-2010;"krr-k2";9;"rese lute";11;
-2010;"krr-k2";10;"anch offi";10;
-2010;"krr-k2";11;"anch offi";12;
-2010;"krr-k2";12;"rese lute";16;
-2010;"krr-k2";13;"rese lute";25;
-2010;"krr-k2";14;"rese lute";23;
-2010;"krr-k2";15;"sedu albu";2;
-2010;"krr-k2";16;"bupl falc falc";6;
-2010;"krr-k2";17;"rese lute";18;
-2010;"krr-k2";18;"rese lute";23;
-2010;"krr-k2";19;"rese lute";31;
-2010;"krr-k2";20;"anch offi";8;
-2010;"krr-k2";21;"teuc mont";7;
-2010;"krr-k2";22;"teuc mont";4;
-2010;"krr-k2";23;"bupl falc falc";3;
-2010;"krr-k2";24;"sedu albu";3;
-2010;"krr-k2";25;"empt cell";0;
-2010;"krr-k3";1;"erys sylv";7;
-2010;"krr-k3";2;"echi vulg";2;
-2010;"krr-k3";3;"sedu albu";9;
-2010;"krr-k3";4;"sedu albu";5;
-2010;"krr-k3";5;"sedu albu";4;
-2010;"krr-k3";6;"gali luci";7;
-2010;"krr-k3";7;"sedu albu";3;
-2010;"krr-k3";8;"sedu albu";6;
-2010;"krr-k3";9;"jovi glob hirt";1;
-2010;"krr-k3";10;"sedu albu";8;
-2010;"krr-k3";11;"sedu albu";13;
-2010;"krr-k3";12;"sedu albu";11;
-2010;"krr-k3";13;"aren serp";13;
-2010;"krr-k3";14;"anch offi";8;
-2010;"krr-k3";15;"alli lusi";7;
-2010;"krr-k3";16;"verb offi";9;
-2010;"krr-k3";17;"verb offi";7;
-2010;"krr-k3";18;"sedu albu";10;
-2010;"krr-k3";19;"sedu albu";7;
-2010;"krr-k3";20;"sedu albu";9;
-2010;"krr-k3";21;"sedu albu";8;
-2010;"krr-k3";22;"sedu albu";10;
-2010;"krr-k3";23;"aren serp";4;
-2010;"krr-k3";24;"aren serp";11;
-2010;"krr-k3";25;"sedu albu";7;
-2010;"krr-k4";1;"sedu albu";10;
-2010;"krr-k4";2;"aren serp";9;
-2010;"krr-k4";3;"meli cili";42;
-2010;"krr-k4";4;"aren serp";10;
-2010;"krr-k4";5;"aren serp";9;
-2010;"krr-k4";6;"sedu albu";9;
-2010;"krr-k4";7;"vinc hiru";26;
-2010;"krr-k4";8;"vinc hiru";32;
-2010;"krr-k4";9;"vinc hiru";47;
-2010;"krr-k4";10;"vinc hiru";46;
-2010;"krr-k4";11;"sedu albu";12;
-2010;"krr-k4";12;"sedu albu";11;
-2010;"krr-k4";13;"vinc hiru";36;
-2010;"krr-k4";14;"vinc hiru";40;
-2010;"krr-k4";15;"vinc hiru";19;
-2010;"krr-k4";16;"aren serp";7;
-2010;"krr-k4";17;"sedu albu";9;
-2010;"krr-k4";18;"aren serp";5;
-2010;"krr-k4";19;"alli lusi";12;
-2010;"krr-k4";20;"medi lupu";7;
-2010;"krr-k4";21;"sedu albu";4;
-2010;"krr-k4";22;"sedu albu";7;
-2010;"krr-k4";23;"sedu albu";8;
-2010;"krr-k4";24;"sedu albu";8;
-2010;"krr-k4";25;"jovi glob hirt";1;
-2010;"krr-z8";1;"sedu albu";19;
-2010;"krr-z8";2;"gali luci";34;
-2010;"krr-z8";3;"sedu albu";10;
-2010;"krr-z8";4;"sedu albu";9;
-2010;"krr-z8";5;"sedu albu";3;
-2010;"krr-z8";6;"sedu albu";9;
-2010;"krr-z8";7;"sedu albu";11;
-2010;"krr-z8";8;"sedu albu";11;
-2010;"krr-z8";9;"sedu albu";8;
-2010;"krr-z8";10;"secu vari";56;
-2010;"krr-z8";11;"secu vari";49;
-2010;"krr-z8";12;"secu vari";51;
-2010;"krr-z8";13;"sedu albu";10;
-2010;"krr-z8";14;"sedu albu";9;
-2010;"krr-z8";15;"sedu albu";6;
-2010;"krr-z8";16;"sedu albu";3;
-2010;"krr-z8";17;"sedu albu";7;
-2010;"krr-z8";18;"sedu albu";3;
-2010;"krr-z8";19;"jovi glob hirt";1;
-2010;"krr-z8";20;"sedu albu";5;
-2010;"krr-z8";21;"jovi glob hirt";2;
-2010;"krr-z8";22;"sedu albu";5;
-2010;"krr-z8";23;"sedu albu";4;
-2010;"krr-z8";24;"sedu albu";3;
-2010;"krr-z8";25;"jovi glob hirt";1;
-2011;"htl-k1";1;"ajug gene";5;
-2011;"htl-k1";2;"teuc cham";5;
-2011;"htl-k1";3;"erys sylv";7;
-2011;"htl-k1";4;"ajug gene";7;
-2011;"htl-k1";5;"erys sylv";5;
-2011;"htl-k1";6;"sedu albu";4;
-2011;"htl-k1";7;"card nuta nuta";7;
-2011;"htl-k1";8;"teuc cham";13;
-2011;"htl-k1";9;"card nuta nuta";25;
-2011;"htl-k1";10;"card nuta nuta";20;
-2011;"htl-k1";11;"card nuta nuta";33;
-2011;"htl-k1";12;"card nuta nuta";40;
-2011;"htl-k1";13;"card nuta nuta";12;
-2011;"htl-k1";14;"card nuta nuta";12;
-2011;"htl-k1";15;"teuc cham";9;
-2011;"htl-k1";16;"sedu albu";4;
-2011;"htl-k1";17;"hack defl";11;
-2011;"htl-k1";18;"card nuta nuta";16;
-2011;"htl-k1";19;"aren serp";14;
-2011;"htl-k1";20;"hack defl";30;
-2011;"htl-k1";21;"teuc cham";15;
-2011;"htl-k1";22;"sedu albu";16;
-2011;"htl-k1";23;"teuc cham";17;
-2011;"htl-k1";24;"teuc mont";8;
-2011;"htl-k1";25;"sedu albu";1;
-2011;"htl-k2";1;"sedu albu";13;
-2011;"htl-k2";2;"sedu albu";10;
-2011;"htl-k2";3;"sedu albu";8;
-2011;"htl-k2";4;"sedu albu";10;
-2011;"htl-k2";5;"sedu albu";6;
-2011;"htl-k2";6;"sedu albu";1;
-2011;"htl-k2";7;"echi vulg";4;
-2011;"htl-k2";8;"echi vulg";9;
-2011;"htl-k2";9;"sedu albu";10;
-2011;"htl-k2";10;"sedu albu";9;
-2011;"htl-k2";11;"sedu albu";10;
-2011;"htl-k2";12;"echi vulg";10;
-2011;"htl-k2";13;"echi vulg";11;
-2011;"htl-k2";14;"echi vulg";9;
-2011;"htl-k2";15;"erys sylv";3;
-2011;"htl-k2";16;"sedu albu";11;
-2011;"htl-k2";17;"sedu albu";10;
-2011;"htl-k2";18;"sedu albu";9;
-2011;"htl-k2";19;"sedu albu";7;
-2011;"htl-k2";20;"sedu albu";10;
-2011;"htl-k2";21;"sedu albu";3;
-2011;"htl-k2";22;"sedu albu";2;
-2011;"htl-k2";23;"sedu albu";13;
-2011;"htl-k2";24;"sedu albu";14;
-2011;"htl-k2";25;"sedu albu";13;
-2011;"htl-k3";1;"teuc mont";2;
-2011;"htl-k3";2;"hype perf";8;
-2011;"htl-k3";3;"empt cell";0;
-2011;"htl-k3";4;"empt cell";0;
-2011;"htl-k3";5;"sedu albu";9;
-2011;"htl-k3";6;"sedu albu";3;
-2011;"htl-k3";7;"jovi glob hirt";1;
-2011;"htl-k3";8;"empt cell";0;
-2011;"htl-k3";9;"empt cell";0;
-2011;"htl-k3";10;"empt cell";0;
-2011;"htl-k3";11;"empt cell";0;
-2011;"htl-k3";12;"empt cell";0;
-2011;"htl-k3";13;"sedu albu";9;
-2011;"htl-k3";14;"sedu albu";8;
-2011;"htl-k3";15;"jovi glob hirt";1;
-2011;"htl-k3";16;"jovi glob hirt";1;
-2011;"htl-k3";17;"jovi glob hirt";2;
-2011;"htl-k3";18;"empt cell";0;
-2011;"htl-k3";19;"sedu albu";9;
-2011;"htl-k3";20;"hype perf";6;
-2011;"htl-k3";21;"sedu albu";10;
-2011;"htl-k3";22;"sedu albu";13;
-2011;"htl-k3";23;"empt cell";0;
-2011;"htl-k3";24;"empt cell";0;
-2011;"htl-k3";25;"sedu albu";2;
-2011;"htl-k4";1;"orig vulg";7;
-2011;"htl-k4";2;"aren serp";10;
-2011;"htl-k4";3;"teuc cham";11;
-2011;"htl-k4";4;"sedu albu";8;
-2011;"htl-k4";5;"jovi glob hirt";1;
-2011;"htl-k4";6;"sedu albu";7;
-2011;"htl-k4";7;"sedu albu";10;
-2011;"htl-k4";8;"sedu albu";10;
-2011;"htl-k4";9;"anth ramo";16;
-2011;"htl-k4";10;"card nuta nuta";6;
-2011;"htl-k4";11;"sedu albu";2;
-2011;"htl-k4";12;"anth ramo";4;
-2011;"htl-k4";13;"anth ramo";10;
-2011;"htl-k4";14;"card nuta nuta";6;
-2011;"htl-k4";15;"empt cell";0;
-2011;"htl-k4";16;"card nuta nuta";4;
-2011;"htl-k4";17;"card nuta nuta";8;
-2011;"htl-k4";18;"jovi glob hirt";1;
-2011;"htl-k4";19;"empt cell";0;
-2011;"htl-k4";20;"jovi glob hirt";1;
-2011;"htl-k4";21;"empt cell";0;
-2011;"htl-k4";22;"empt cell";0;
-2011;"htl-k4";23;"card nuta nuta";7;
-2011;"htl-k4";24;"card nuta nuta";7;
-2011;"htl-k4";25;"card nuta nuta";2;
-2011;"htl-k5";1;"aren serp";10;
-2011;"htl-k5";2;"empt cell";0;
-2011;"htl-k5";3;"empt cell";0;
-2011;"htl-k5";4;"empt cell";0;
-2011;"htl-k5";5;"empt cell";0;
-2011;"htl-k5";6;"empt cell";0;
-2011;"htl-k5";7;"sedu albu";3;
-2011;"htl-k5";8;"sedu albu";5;
-2011;"htl-k5";9;"anch";12;
-2011;"htl-k5";10;"anch";9;
-2011;"htl-k5";11;"anch";6;
-2011;"htl-k5";12;"anch";8;
-2011;"htl-k5";13;"empt cell";0;
-2011;"htl-k5";14;"empt cell";0;
-2011;"htl-k5";15;"empt cell";0;
-2011;"htl-k5";16;"empt cell";0;
-2011;"htl-k5";17;"empt cell";0;
-2011;"htl-k5";18;"empt cell";0;
-2011;"htl-k5";19;"empt cell";0;
-2011;"htl-k5";20;"empt cell";0;
-2011;"htl-k5";21;"sedu albu";4;
-2011;"htl-k5";22;"sedu albu";5;
-2011;"htl-k5";23;"sedu albu";5;
-2011;"htl-k5";24;"empt cell";0;
-2011;"htl-k5";25;"empt cell";0;
-2011;"htl-k6";1;"vinc hiru";52;
-2011;"htl-k6";2;"vinc hiru";78;
-2011;"htl-k6";3;"vinc hiru";54;
-2011;"htl-k6";4;"vinc hiru";45;
-2011;"htl-k6";5;"vinc hiru";63;
-2011;"htl-k6";6;"vinc hiru";56;
-2011;"htl-k6";7;"vinc hiru";53;
-2011;"htl-k6";8;"vinc hiru";44;
-2011;"htl-k6";9;"vinc hiru";72;
-2011;"htl-k6";10;"vinc hiru";46;
-2011;"htl-k6";11;"vinc hiru";50;
-2011;"htl-k6";12;"vinc hiru";41;
-2011;"htl-k6";13;"vinc hiru";41;
-2011;"htl-k6";14;"vinc hiru";55;
-2011;"htl-k6";15;"vinc hiru";55;
-2011;"htl-k6";16;"vinc hiru";85;
-2011;"htl-k6";17;"vinc hiru";40;
-2011;"htl-k6";18;"vinc hiru";47;
-2011;"htl-k6";19;"vinc hiru";52;
-2011;"htl-k6";20;"vinc hiru";42;
-2011;"htl-k6";21;"vinc hiru";45;
-2011;"htl-k6";22;"vinc hiru";43;
-2011;"htl-k6";23;"vinc hiru";59;
-2011;"htl-k6";24;"vinc hiru";47;
-2011;"htl-k6";25;"vinc hiru";65;
-2011;"htl-k7";1;"empt cell";0;
-2011;"htl-k7";2;"sedu albu";10;
-2011;"htl-k7";3;"sedu albu";12;
-2011;"htl-k7";4;"sedu albu";1;
-2011;"htl-k7";5;"empt cell";0;
-2011;"htl-k7";6;"empt cell";0;
-2011;"htl-k7";7;"empt cell";0;
-2011;"htl-k7";8;"sedu albu";4;
-2011;"htl-k7";9;"sedu albu";7;
-2011;"htl-k7";10;"empt cell";0;
-2011;"htl-k7";11;"pelt alli";2;
-2011;"htl-k7";12;"sedu albu";6;
-2011;"htl-k7";13;"sedu albu";4;
-2011;"htl-k7";14;"sedu albu";7;
-2011;"htl-k7";15;"sedu albu";6;
-2011;"htl-k7";16;"teuc mont";8;
-2011;"htl-k7";17;"erys sylv";12;
-2011;"htl-k7";18;"erys sylv";22;
-2011;"htl-k7";19;"sedu albu";7;
-2011;"htl-k7";20;"teuc mont";1;
-2011;"htl-k7";21;"sedu albu";5;
-2011;"htl-k7";22;"sedu albu";9;
-2011;"htl-k7";23;"orig vulg";19;
-2011;"htl-k7";24;"erys sylv";5;
-2011;"htl-k7";25;"teuc mont";6;
-2011;"htl-k8";1;"hack defl";32;
-2011;"htl-k8";2;"vinc hiru";46;
-2011;"htl-k8";3;"vinc hiru";50;
-2011;"htl-k8";4;"vinc hiru";36;
-2011;"htl-k8";5;"vinc hiru";39;
-2011;"htl-k8";6;"vinc hiru";44;
-2011;"htl-k8";7;"vinc hiru";52;
-2011;"htl-k8";8;"vinc hiru";55;
-2011;"htl-k8";9;"vinc hiru";52;
-2011;"htl-k8";10;"hack defl";39;
-2011;"htl-k8";11;"teuc cham";12;
-2011;"htl-k8";12;"vinc hiru";51;
-2011;"htl-k8";13;"vinc hiru";52;
-2011;"htl-k8";14;"vinc hiru";44;
-2011;"htl-k8";15;"vinc hiru";39;
-2011;"htl-k8";16;"vinc hiru";44;
-2011;"htl-k8";17;"vinc hiru";58;
-2011;"htl-k8";18;"vinc hiru";52;
-2011;"htl-k8";19;"vinc hiru";50;
-2011;"htl-k8";20;"orig vulg";26;
-2011;"htl-k8";21;"orig vulg";38;
-2011;"htl-k8";22;"vinc hiru";49;
-2011;"htl-k8";23;"vinc hiru";50;
-2011;"htl-k8";24;"vinc hiru";52;
-2011;"htl-k8";25;"vinc hiru";40;
-2011;"htl-z1";1;"clin acin";14;
-2011;"htl-z1";2;"sedu albu";10;
-2011;"htl-z1";3;"clin acin";16;
-2011;"htl-z1";4;"erys sylv";20;
-2011;"htl-z1";5;"meli cili";16;
-2011;"htl-z1";6;"erys sylv";21;
-2011;"htl-z1";7;"meli cili";17;
-2011;"htl-z1";8;"sedu albu";13;
-2011;"htl-z1";9;"sedu albu";4;
-2011;"htl-z1";10;"sedu albu";4;
-2011;"htl-z1";11;"erys sylv";20;
-2011;"htl-z1";12;"sedu albu";8;
-2011;"htl-z1";13;"sedu albu";9;
-2011;"htl-z1";14;"sedu albu";14;
-2011;"htl-z1";15;"meli cili";23;
-2011;"htl-z1";16;"sedu albu";15;
-2011;"htl-z1";17;"sedu albu";12;
-2011;"htl-z1";18;"sedu albu";12;
-2011;"htl-z1";19;"anth ramo";11;
-2011;"htl-z1";20;"sedu albu";40;"measured: 22 / estimated: 40"
-2011;"htl-z1";21;"sedu albu";11;
-2011;"htl-z1";22;"sedu albu";6;
-2011;"htl-z1";23;"sedu albu";14;
-2011;"htl-z1";24;"sedu albu";11;
-2011;"htl-z1";25;"clin acin";21;
-2011;"htl-z2";1;"erys sylv";20;
-2011;"htl-z2";2;"erys sylv";25;
-2011;"htl-z2";3;"erys sylv";21;
-2011;"htl-z2";4;"erys sylv";35;
-2011;"htl-z2";5;"erys sylv";24;
-2011;"htl-z2";6;"sedu albu";10;
-2011;"htl-z2";7;"erys sylv";34;
-2011;"htl-z2";8;"erys sylv";10;
-2011;"htl-z2";9;"erys sylv";26;
-2011;"htl-z2";10;"meli cili";17;
-2011;"htl-z2";11;"erys sylv";30;
-2011;"htl-z2";12;"erys sylv";23;
-2011;"htl-z2";13;"erys sylv";38;
-2011;"htl-z2";14;"erys sylv";35;
-2011;"htl-z2";15;"sedu albu";8;
-2011;"htl-z2";16;"sedu albu";18;
-2011;"htl-z2";17;"sedu albu";10;
-2011;"htl-z2";18;"sedu albu";7;
-2011;"htl-z2";19;"sedu albu";2;
-2011;"htl-z2";20;"sedu albu";12;
-2011;"htl-z2";21;"sedu albu";4;
-2011;"htl-z2";22;"sedu albu";1;
-2011;"htl-z2";23;"sese aust";20;"measured: 7 / estimated: 20"
-2011;"htl-z2";24;"sedu albu";13;
-2011;"htl-z2";25;"sedu albu";10;
-2011;"htl-z3";1;"brac sylv";59;
-2011;"htl-z3";2;"hype perf";61;
-2011;"htl-z3";3;"hype perf";64;
-2011;"htl-z3";4;"poa comp";52;
-2011;"htl-z3";5;"hype perf";50;
-2011;"htl-z3";6;"hype perf";44;
-2011;"htl-z3";7;"hype perf";46;
-2011;"htl-z3";8;"poa comp";56;
-2011;"htl-z3";9;"hype perf";57;
-2011;"htl-z3";10;"heli numm glab";13;
-2011;"htl-z3";11;"hype perf";20;
-2011;"htl-z3";12;"poa comp";45;
-2011;"htl-z3";13;"poa comp";40;
-2011;"htl-z3";14;"poa comp";46;
-2011;"htl-z3";15;"poa comp";54;
-2011;"htl-z3";16;"hype perf";32;
-2011;"htl-z3";17;"poa comp";48;
-2011;"htl-z3";18;"poa comp";56;
-2011;"htl-z3";19;"poa comp";56;
-2011;"htl-z3";20;"hype perf";20;
-2011;"htl-z3";21;"poa comp";53;
-2011;"htl-z3";22;"poa comp";49;
-2011;"htl-z3";23;"poa comp";59;
-2011;"htl-z3";24;"poa comp";62;
-2011;"htl-z3";25;"hype perf";51;
-2011;"htl-z4";1;"ajug gene";20;
-2011;"htl-z4";2;"ajug gene";20;
-2011;"htl-z4";3;"meli cili";74;
-2011;"htl-z4";4;"anth ramo";50;
-2011;"htl-z4";5;"sedu albu";16;
-2011;"htl-z4";6;"orig vulg";32;
-2011;"htl-z4";7;"heli numm obsc";36;
-2011;"htl-z4";8;"vinc hiru";39;
-2011;"htl-z4";9;"vinc hiru";60;
-2011;"htl-z4";10;"meli cili";17;
-2011;"htl-z4";11;"acon anth";50;"measured: 23 / estimated: 50"
-2011;"htl-z4";12;"meli cili";82;
-2011;"htl-z4";13;"meli cili";39;
-2011;"htl-z4";14;"anth ramo";38;
-2011;"htl-z4";15;"heli numm obsc";31;
-2011;"htl-z4";16;"orig vulg";45;
-2011;"htl-z4";17;"orig vulg";40;
-2011;"htl-z4";18;"meli cili";37;
-2011;"htl-z4";19;"meli cili";95;
-2011;"htl-z4";20;"meli cili";45;
-2011;"htl-z4";21;"orig vulg";36;
-2011;"htl-z4";22;"meli cili";77;
-2011;"htl-z4";23;"orig vulg";46;
-2011;"htl-z4";24;"orig vulg";37;
-2011;"htl-z4";25;"orig vulg";43;
-2011;"htl-z5";1;"hack defl";33;
-2011;"htl-z5";2;"teuc mont";7;
-2011;"htl-z5";3;"aspe cyna";12;
-2011;"htl-z5";4;"sedu albu";12;
-2011;"htl-z5";5;"sedu albu";19;
-2011;"htl-z5";6;"orig vulg";39;
-2011;"htl-z5";7;"tara sect rude";10;
-2011;"htl-z5";8;"anth ramo";50;"measured: 23 / estimated: 50"
-2011;"htl-z5";9;"teuc mont";7;
-2011;"htl-z5";10;"hack defl";30;
-2011;"htl-z5";11;"heli numm obsc";14;
-2011;"htl-z5";12;"anth ramo";24;
-2011;"htl-z5";13;"anth ramo";23;
-2011;"htl-z5";14;"orig vulg";30;
-2011;"htl-z5";15;"orig vulg";41;
-2011;"htl-z5";16;"orig vulg";40;
-2011;"htl-z5";17;"erys sylv";19;
-2011;"htl-z5";18;"anth ramo";60;"measured: 35 / estimated: 60"
-2011;"htl-z5";19;"anth ramo";60;"measured: 34 / estimated: 60"
-2011;"htl-z5";20;"erys sylv";29;
-2011;"htl-z5";21;"anth ramo";50;"measured: 23 / estimated: 50"
-2011;"htl-z5";22;"anth ramo";60;"measured: 29 / estimated: 60"
-2011;"htl-z5";23;"erys sylv";30;
-2011;"htl-z5";24;"erys sylv";20;
-2011;"htl-z5";25;"heli numm obsc";15;
-2011;"htl-z6";1;"sedu albu";14;
-2011;"htl-z6";2;"sedu albu";13;
-2011;"htl-z6";3;"orig vulg";32;
-2011;"htl-z6";4;"orig vulg";27;
-2011;"htl-z6";5;"jovi glob hirt";1;
-2011;"htl-z6";6;"orig vulg";52;
-2011;"htl-z6";7;"orig vulg";37;
-2011;"htl-z6";8;"orig vulg";35;
-2011;"htl-z6";9;"orig vulg";26;
-2011;"htl-z6";10;"sedu albu";14;
-2011;"htl-z6";11;"erys sylv";21;
-2011;"htl-z6";12;"sedu albu";13;
-2011;"htl-z6";13;"erys sylv";42;
-2011;"htl-z6";14;"erys sylv";41;
-2011;"htl-z6";15;"erys sylv";38;
-2011;"htl-z6";16;"erys sylv";38;
-2011;"htl-z6";17;"erys sylv";44;
-2011;"htl-z6";18;"erys sylv";45;
-2011;"htl-z6";19;"sedu albu";14;
-2011;"htl-z6";20;"erys sylv";18;
-2011;"htl-z6";21;"orig vulg";46;
-2011;"htl-z6";22;"micr perf";16;
-2011;"htl-z6";23;"orig vulg";20;
-2011;"htl-z6";24;"orig vulg";26;
-2011;"htl-z6";25;"orig vulg";12;
-2011;"htl-z7";1;"empt cell";0;
-2011;"htl-z7";2;"sedu albu";29;
-2011;"htl-z7";3;"vinc hiru";30;
-2011;"htl-z7";4;"vinc hiru";40;
-2011;"htl-z7";5;"vinc hiru";5;
-2011;"htl-z7";6;"sedu albu";40;
-2011;"htl-z7";7;"vinc hiru";11;
-2011;"htl-z7";8;"tara sect rude";2;
-2011;"htl-z7";9;"glob cord";2;
-2011;"htl-z7";10;"glob cord";2;
-2011;"htl-z7";11;"glob cord";10;
-2011;"htl-z7";12;"glob cord";13;
-2011;"htl-z7";13;"lina geni";75;"measured: 24 / estimated: 75"
-2011;"htl-z7";14;"vinc hiru";26;
-2011;"htl-z7";15;"vinc hiru";20;
-2011;"htl-z7";16;"vinc hiru";60;
-2011;"htl-z7";17;"lina geni";80;"measured: 26 / estimated: 80"
-2011;"htl-z7";18;"sedu albu";16;
-2011;"htl-z7";19;"sedu albu";13;
-2011;"htl-z7";20;"sedu albu";8;
-2011;"htl-z7";21;"vinc hiru";56;
-2011;"htl-z7";22;"sedu albu";12;
-2011;"htl-z7";23;"vinc hiru";32;
-2011;"htl-z7";24;"vinc hiru";50;
-2011;"htl-z7";25;"vinc hiru";51;
-2011;"htl-z8";1;"sedu albu";20;
-2011;"htl-z8";2;"empt cell";0;
-2011;"htl-z8";3;"pelt alli";23;
-2011;"htl-z8";4;"anth ramo";70;"measured: 35 / estimated: 70"
-2011;"htl-z8";5;"teuc mont";11;
-2011;"htl-z8";6;"sedu albu";15;
-2011;"htl-z8";7;"anth ramo";60;"measured: 30 / estimated: 60"
-2011;"htl-z8";8;"vinc hiru";42;
-2011;"htl-z8";9;"tara sect rude";25;"measured: 15 / estimated: 25"
-2011;"htl-z8";10;"sedu albu";19;
-2011;"htl-z8";11;"sedu albu";21;
-2011;"htl-z8";12;"tara sect rude";20;"measured: 14 / estimated: 20"
-2011;"htl-z8";13;"vinc hiru";35;
-2011;"htl-z8";14;"vinc hiru";41;
-2011;"htl-z8";15;"vinc hiru";16;
-2011;"htl-z8";16;"vinc hiru";51;
-2011;"htl-z8";17;"vinc hiru";35;
-2011;"htl-z8";18;"vinc hiru";42;
-2011;"htl-z8";19;"tara sect rude";15;"measured: 10 / estimated: 15"
-2011;"htl-z8";20;"sedu albu";12;
-2011;"htl-z8";21;"sedu albu";17;
-2011;"htl-z8";22;"sedu albu";10;
-2011;"htl-z8";23;"rese lute";50;"measured: 26 / estimated: 50"
-2011;"htl-z8";24;"acon anth";75;"measured: 33 / estimated: 75"
-2011;"htl-z8";25;"vinc hiru";36;
-2011;"krr-k1";1;"empt cell";0;
-2011;"krr-k1";2;"sedu albu";2;
-2011;"krr-k1";3;"empt cell";0;
-2011;"krr-k1";4;"sedu albu";1;
-2011;"krr-k1";5;"empt cell";0;
-2011;"krr-k1";6;"empt cell";0;
-2011;"krr-k1";7;"sedu albu";3;
-2011;"krr-k1";8;"empt cell";0;
-2011;"krr-k1";9;"sedu albu";9;
-2011;"krr-k1";10;"empt cell";7;
-2011;"krr-k1";11;"empt cell";7;
-2011;"krr-k1";12;"empt cell";9;
-2011;"krr-k1";13;"empt cell";14;
-2011;"krr-k1";14;"jovi glob hirt";1;
-2011;"krr-k1";15;"alli lusi";4;
-2011;"krr-k1";16;"gali luci";13;
-2011;"krr-k1";17;"sedu albu";8;
-2011;"krr-k1";18;"sedu albu";7;
-2011;"krr-k1";19;"sedu albu";8;
-2011;"krr-k1";20;"sedu albu";5;
-2011;"krr-k1";21;"empt cell";0;
-2011;"krr-k1";22;"jovi glob hirt";1;
-2011;"krr-k1";23;"sedu albu";8;
-2011;"krr-k1";24;"sedu albu";13;
-2011;"krr-k1";25;"gali luci";11;
-2011;"krr-k2";1;"sile lati alba";15;
-2011;"krr-k2";2;"rese lute";8;
-2011;"krr-k2";3;"rese lute";9;
-2011;"krr-k2";4;"rese lute";13;
-2011;"krr-k2";5;"sedu albu";2;
-2011;"krr-k2";6;"sedu albu";2;
-2011;"krr-k2";7;"rese lute";19;
-2011;"krr-k2";8;"rese lute";14;
-2011;"krr-k2";9;"rese lute";17;
-2011;"krr-k2";10;"cent scab bade";21;
-2011;"krr-k2";11;"rese lute";10;
-2011;"krr-k2";12;"ajug gene";11;
-2011;"krr-k2";13;"rese lute";26;
-2011;"krr-k2";14;"rese lute";19;
-2011;"krr-k2";15;"rese lute";13;
-2011;"krr-k2";16;"sedu albu";4;
-2011;"krr-k2";17;"rese lute";28;
-2011;"krr-k2";18;"rese lute";26;
-2011;"krr-k2";19;"rese lute";22;
-2011;"krr-k2";20;"rese lute";12;
-2011;"krr-k2";21;"ajug gene";7;
-2011;"krr-k2";22;"teuc mont";6;
-2011;"krr-k2";23;"sedu albu";8;
-2011;"krr-k2";24;"sedu albu";2;
-2011;"krr-k2";25;"empt cell";0;
-2011;"krr-k3";1;"erys sylv";7;
-2011;"krr-k3";2;"erys sylv";5;
-2011;"krr-k3";3;"scab ochr";5;
-2011;"krr-k3";4;"leon mont";3;
-2011;"krr-k3";5;"sedu albu";8;
-2011;"krr-k3";6;"empt cell";0;
-2011;"krr-k3";7;"sedu albu";3;
-2011;"krr-k3";8;"empt cell";0;
-2011;"krr-k3";9;"erys sylv";7;
-2011;"krr-k3";10;"erys sylv";8;
-2011;"krr-k3";11;"empt cell";0;
-2011;"krr-k3";12;"sedu albu";7;
-2011;"krr-k3";13;"sedu albu";7;
-2011;"krr-k3";14;"alli lusi";12;
-2011;"krr-k3";15;"sedu albu";2;
-2011;"krr-k3";16;"sedu albu";8;
-2011;"krr-k3";17;"teuc mont";8;
-2011;"krr-k3";18;"sedu albu";9;
-2011;"krr-k3";19;"sedu albu";6;
-2011;"krr-k3";20;"sedu albu";2;
-2011;"krr-k3";21;"leon mont";5;
-2011;"krr-k3";22;"cent scab bade";12;
-2011;"krr-k3";23;"sedu albu";10;
-2011;"krr-k3";24;"teuc mont";5;
-2011;"krr-k3";25;"alli lusi";14;
-2011;"krr-k4";1;"sedu albu";10;
-2011;"krr-k4";2;"teuc botr";12;
-2011;"krr-k4";3;"teuc botr";21;
-2011;"krr-k4";4;"vinc hiru";33;
-2011;"krr-k4";5;"sedu albu";8;
-2011;"krr-k4";6;"vinc hiru";58;
-2011;"krr-k4";7;"vinc hiru";30;
-2011;"krr-k4";8;"vinc hiru";29;
-2011;"krr-k4";9;"teuc botr";23;
-2011;"krr-k4";10;"sedu albu";11;
-2011;"krr-k4";11;"teuc botr";12;
-2011;"krr-k4";12;"vinc hiru";42;
-2011;"krr-k4";13;"vinc hiru";18;
-2011;"krr-k4";14;"vinc hiru";38;
-2011;"krr-k4";15;"vinc hiru";21;
-2011;"krr-k4";16;"meli cili";19;
-2011;"krr-k4";17;"vinc hiru";36;
-2011;"krr-k4";18;"vinc hiru";24;
-2011;"krr-k4";19;"aren serp";6;
-2011;"krr-k4";20;"sedu albu";7;
-2011;"krr-k4";21;"alli lusi";4;
-2011;"krr-k4";22;"sedu albu";6;
-2011;"krr-k4";23;"sedu albu";8;
-2011;"krr-k4";24;"vinc hiru";27;
-2011;"krr-k4";25;"aren serp";11;
-2011;"krr-k5";1;"sedu albu";6;
-2011;"krr-k5";2;"sedu albu";7;
-2011;"krr-k5";3;"jovi glob hirt";1;
-2011;"krr-k5";4;"lact vimi";3;
-2011;"krr-k5";5;"lact vimi";9;
-2011;"krr-k5";6;"lact vimi";12;
-2011;"krr-k5";7;"lact vimi";4;
-2011;"krr-k5";8;"sedu albu";4;
-2011;"krr-k5";9;"sedu albu";6;
-2011;"krr-k5";10;"sedu albu";6;
-2011;"krr-k5";11;"sedu albu";4;
-2011;"krr-k5";12;"sedu albu";5;
-2011;"krr-k5";13;"sedu albu";4;
-2011;"krr-k5";14;"lact vimi";3;
-2011;"krr-k5";15;"sedu albu";9;
-2011;"krr-k5";16;"sedu albu";3;
-2011;"krr-k5";17;"sedu albu";5;
-2011;"krr-k5";18;"empt cell";0;
-2011;"krr-k5";19;"empt cell";0;
-2011;"krr-k5";20;"empt cell";0;
-2011;"krr-k5";21;"teuc mont";5;
-2011;"krr-k5";22;"empt cell";0;
-2011;"krr-k5";23;"empt cell";0;
-2011;"krr-k5";24;"sedu albu";3;
-2011;"krr-k5";25;"sedu albu";5;
-2011;"krr-k6";1;"aren serp";5;
-2011;"krr-k6";2;"erys sylv";5;
-2011;"krr-k6";3;"leon inca";13;
-2011;"krr-k6";4;"leon inca";12;
-2011;"krr-k6";5;"leon inca";11;
-2011;"krr-k6";6;"lact vimi";6;
-2011;"krr-k6";7;"lact vimi";12;
-2011;"krr-k6";8;"leon inca";12;
-2011;"krr-k6";9;"sedu albu";7;
-2011;"krr-k6";10;"jovi glob hirt";1;
-2011;"krr-k6";11;"leon inca";6;
-2011;"krr-k6";12;"sedu albu";7;
-2011;"krr-k6";13;"sedu albu";5;
-2011;"krr-k6";14;"sedu albu";5;
-2011;"krr-k6";15;"sedu albu";8;
-2011;"krr-k6";16;"leon inca";5;
-2011;"krr-k6";17;"sedu albu";6;
-2011;"krr-k6";18;"sedu albu";6;
-2011;"krr-k6";19;"teuc mont";9;
-2011;"krr-k6";20;"teuc mont";7;
-2011;"krr-k6";21;"clin acin";13;
-2011;"krr-k6";22;"sedu albu";7;
-2011;"krr-k6";23;"clin acin";8;
-2011;"krr-k6";24;"sedu albu";3;
-2011;"krr-k6";25;"sedu albu";2;
-2011;"krr-k7";1;"sedu albu";3;
-2011;"krr-k7";2;"sedu albu";10;
-2011;"krr-k7";3;"sedu albu";5;
-2011;"krr-k7";4;"sedu albu";3;
-2011;"krr-k7";5;"jovi glob hirt";1;
-2011;"krr-k7";6;"aren serp";3;
-2011;"krr-k7";7;"sedu albu";2;
-2011;"krr-k7";8;"alli lusi";6;
-2011;"krr-k7";9;"sedu albu";9;
-2011;"krr-k7";10;"sedu albu";9;
-2011;"krr-k7";11;"erys sylv";23;
-2011;"krr-k7";12;"sedu albu";2;
-2011;"krr-k7";13;"jovi glob hirt";2;
-2011;"krr-k7";14;"jovi glob hirt";2;
-2011;"krr-k7";15;"jovi glob hirt";3;
-2011;"krr-k7";16;"jovi glob hirt";2;
-2011;"krr-k7";17;"erys sylv";8;
-2011;"krr-k7";18;"sedu albu";2;
-2011;"krr-k7";19;"jovi glob hirt";2;
-2011;"krr-k7";20;"aren serp";9;
-2011;"krr-k7";21;"erys sylv";27;
-2011;"krr-k7";22;"sedu albu";3;
-2011;"krr-k7";23;"sedu albu";5;
-2011;"krr-k7";24;"aren serp";6;
-2011;"krr-k7";25;"aren serp";4;
-2011;"krr-k8";1;"sedu albu";8;
-2011;"krr-k8";2;"heli numm obsc";4;
-2011;"krr-k8";3;"aren serp";3;
-2011;"krr-k8";4;"aren serp";10;
-2011;"krr-k8";5;"care humi";7;
-2011;"krr-k8";6;"sedu albu";9;
-2011;"krr-k8";7;"care humi";9;
-2011;"krr-k8";8;"rese lute";15;
-2011;"krr-k8";9;"aren serp";6;
-2011;"krr-k8";10;"heli numm obsc";6;
-2011;"krr-k8";11;"sedu albu";8;
-2011;"krr-k8";12;"jovi glob hirt";1;
-2011;"krr-k8";13;"echi vulg";11;
-2011;"krr-k8";14;"sedu albu";4;
-2011;"krr-k8";15;"sedu albu";3;
-2011;"krr-k8";16;"lact vimi";8;
-2011;"krr-k8";17;"rese lute";14;
-2011;"krr-k8";18;"echi vulg";18;
-2011;"krr-k8";19;"echi vulg";14;
-2011;"krr-k8";20;"sedu albu";6;
-2011;"krr-k8";21;"sedu albu";8;
-2011;"krr-k8";22;"echi vulg";13;
-2011;"krr-k8";23;"rese lute";13;
-2011;"krr-k8";24;"echi vulg";20;
-2011;"krr-k8";25;"sedu albu";5;
-2011;"krr-z1";1;"teuc cham";5;
-2011;"krr-z1";2;"alli lusi";18;
-2011;"krr-z1";3;"leon inca";8;
-2011;"krr-z1";4;"leon inca";8;
-2011;"krr-z1";5;"sedu albu";7;
-2011;"krr-z1";6;"meli cili";19;
-2011;"krr-z1";7;"leon inca";14;
-2011;"krr-z1";8;"leon inca";17;
-2011;"krr-z1";9;"alli lusi";13;
-2011;"krr-z1";10;"rese lute";27;
-2011;"krr-z1";11;"sedu albu";8;
-2011;"krr-z1";12;"leon inca";12;
-2011;"krr-z1";13;"leon inca";16;
-2011;"krr-z1";14;"scab ochr";90;"measured: 47 / estimated: 90"
-2011;"krr-z1";15;"meli cili";53;
-2011;"krr-z1";16;"scab ochr";70;"measured: 20 / estimated: 70"
-2011;"krr-z1";17;"scab ochr";100;"measured: 73 / estimated: 100"
-2011;"krr-z1";18;"alli lusi";11;
-2011;"krr-z1";19;"sedu albu";3;
-2011;"krr-z1";20;"jovi glob hirt";1;
-2011;"krr-z1";21;"sedu albu";7;
-2011;"krr-z1";22;"alli lusi";17;
-2011;"krr-z1";23;"rese lute";65;"measured: 40 / estimated: 65"
-2011;"krr-z1";24;"scab ochr";50;"measured: 33 / estimated: 50"
-2011;"krr-z1";25;"scab ochr";20;
-2011;"krr-z2";1;"sedu albu";4;
-2011;"krr-z2";2;"sedu albu";5;
-2011;"krr-z2";3;"empt cell";0;
-2011;"krr-z2";4;"sedu albu";4;
-2011;"krr-z2";5;"sedu albu";8;
-2011;"krr-z2";6;"sedu albu";8;
-2011;"krr-z2";7;"sedu albu";5;
-2011;"krr-z2";8;"jovi glob hirt";1;
-2011;"krr-z2";9;"dory germ";7;
-2011;"krr-z2";10;"dory germ";9;
-2011;"krr-z2";11;"sedu albu";7;
-2011;"krr-z2";12;"sedu albu";8;
-2011;"krr-z2";13;"sedu albu";11;
-2011;"krr-z2";14;"jovi glob hirt";1;
-2011;"krr-z2";15;"empt cell";0;
-2011;"krr-z2";16;"gali luci";20;"measured: 8 / estimated: 20"
-2011;"krr-z2";17;"jovi glob hirt";1;
-2011;"krr-z2";18;"jovi glob hirt";2;
-2011;"krr-z2";19;"sedu albu";5;
-2011;"krr-z2";20;"sedu albu";3;
-2011;"krr-z2";21;"sedu albu";6;
-2011;"krr-z2";22;"sedu albu";6;
-2011;"krr-z2";23;"jovi glob hirt";1;
-2011;"krr-z2";24;"jovi glob hirt";1;
-2011;"krr-z2";25;"sedu albu";9;
-2011;"krr-z3";1;"sedu albu";11;
-2011;"krr-z3";2;"vinc hiru";35;
-2011;"krr-z3";3;"vinc hiru";45;
-2011;"krr-z3";4;"vinc hiru";33;
-2011;"krr-z3";5;"vinc hiru";47;
-2011;"krr-z3";6;"vinc hiru";36;
-2011;"krr-z3";7;"vinc hiru";43;
-2011;"krr-z3";8;"vinc hiru";45;
-2011;"krr-z3";9;"care humi";16;
-2011;"krr-z3";10;"gali luci";22;"measured: 12 / estimated: 22"
-2011;"krr-z3";11;"sedu albu";14;
-2011;"krr-z3";12;"sedu albu";16;
-2011;"krr-z3";13;"vinc hiru";38;
-2011;"krr-z3";14;"vinc hiru";33;
-2011;"krr-z3";15;"vinc hiru";58;
-2011;"krr-z3";16;"care humi";30;
-2011;"krr-z3";17;"vinc hiru";44;
-2011;"krr-z3";18;"care humi";32;
-2011;"krr-z3";19;"care humi";22;
-2011;"krr-z3";20;"sedu albu";7;
-2011;"krr-z3";21;"sedu albu";5;
-2011;"krr-z3";22;"care humi";12;
-2011;"krr-z3";23;"lina geni";80;
-2011;"krr-z3";24;"lina geni";82;
-2011;"krr-z3";25;"lina geni";78;
-2011;"krr-z4";1;"gali luci";35;"measured: 21 / estimated: 35"
-2011;"krr-z4";2;"sang mino mino";15;
-2011;"krr-z4";3;"sedu albu";6;
-2011;"krr-z4";4;"aren serp";9;
-2011;"krr-z4";5;"sesl caer";17;"measured: 12 / estimated: 17"
-2011;"krr-z4";6;"sesl caer";13;"measured: 13 / estimated: 13"
-2011;"krr-z4";7;"sedu albu";4;
-2011;"krr-z4";8;"sedu albu";15;
-2011;"krr-z4";9;"care humi";16;
-2011;"krr-z4";10;"care humi";9;
-2011;"krr-z4";11;"care humi";17;
-2011;"krr-z4";12;"care humi";15;
-2011;"krr-z4";13;"teuc mont";9;
-2011;"krr-z4";14;"euph cypa";11;
-2011;"krr-z4";15;"sedu albu";2;
-2011;"krr-z4";16;"sedu albu";7;
-2011;"krr-z4";17;"jovi glob hirt";2;
-2011;"krr-z4";18;"teuc mont";11;
-2011;"krr-z4";19;"teuc mont";10;
-2011;"krr-z4";20;"teuc mont";5;
-2011;"krr-z4";21;"sedu albu";2;
-2011;"krr-z4";22;"clin acin";6;
-2011;"krr-z4";23;"meli cili";26;
-2011;"krr-z4";24;"sedu albu";5;
-2011;"krr-z4";25;"sedu albu";8;
-2011;"krr-z5";1;"sedu albu";2;
-2011;"krr-z5";2;"sedu albu";4;
-2011;"krr-z5";3;"brom tect";10;
-2011;"krr-z5";4;"scab ochr";49;
-2011;"krr-z5";5;"scab ochr";60;"measured: 34 / estimated: 60"
-2011;"krr-z5";6;"scab ochr";50;
-2011;"krr-z5";7;"scab ochr";41;
-2011;"krr-z5";8;"brom tect";9;
-2011;"krr-z5";9;"sedu albu";5;
-2011;"krr-z5";10;"brom tect";8;
-2011;"krr-z5";11;"brom tect";11;
-2011;"krr-z5";12;"sese aust";45;"measured: 7 / estimated: 45"
-2011;"krr-z5";13;"sese aust";47;"measured: 9 / estimated: 47"
-2011;"krr-z5";14;"sedu albu";5;
-2011;"krr-z5";15;"scab ochr";53;
-2011;"krr-z5";16;"scab ochr";34;
-2011;"krr-z5";17;"sedu albu";7;
-2011;"krr-z5";18;"care humi";15;
-2011;"krr-z5";19;"care humi";17;
-2011;"krr-z5";20;"alli lusi";12;"measured: 8 / estimated: 12"
-2011;"krr-z5";21;"care humi";18;
-2011;"krr-z5";22;"care humi";18;
-2011;"krr-z5";23;"care humi";17;
-2011;"krr-z5";24;"care humi";14;
-2011;"krr-z5";25;"care humi";12;
-2011;"krr-z6";1;"sedu albu";6;
-2011;"krr-z6";2;"jovi glob hirt";1;
-2011;"krr-z6";3;"sedu albu";10;
-2011;"krr-z6";4;"gali luci";18;"measured: 10 / estimated: 18"
-2011;"krr-z6";5;"leon inca";10;
-2011;"krr-z6";6;"leon inca";12;
-2011;"krr-z6";7;"sedu albu";13;
-2011;"krr-z6";8;"sedu albu";14;
-2011;"krr-z6";9;"care humi";13;
-2011;"krr-z6";10;"sedu albu";2;
-2011;"krr-z6";11;"sedu albu";9;
-2011;"krr-z6";12;"care humi";17;
-2011;"krr-z6";13;"care humi";15;
-2011;"krr-z6";14;"leon inca";18;
-2011;"krr-z6";15;"leon inca";21;
-2011;"krr-z6";16;"leon inca";16;
-2011;"krr-z6";17;"leon inca";20;
-2011;"krr-z6";18;"care humi";15;
-2011;"krr-z6";19;"care humi";14;
-2011;"krr-z6";20;"micr perf";11;
-2011;"krr-z6";21;"sedu albu";8;
-2011;"krr-z6";22;"sedu albu";11;
-2011;"krr-z6";23;"care humi";14;
-2011;"krr-z6";24;"care humi";14;
-2011;"krr-z6";25;"sedu albu";11;
-2011;"krr-z7";1;"jovi glob hirt";2;
-2011;"krr-z7";2;"leon inca";24;
-2011;"krr-z7";3;"leon inca";27;
-2011;"krr-z7";4;"gali luci";23;
-2011;"krr-z7";5;"sedu albu";6;
-2011;"krr-z7";6;"gali luci";58;"measured: 42 / estimated: 58"
-2011;"krr-z7";7;"gali luci";44;
-2011;"krr-z7";8;"leon inca";31;
-2011;"krr-z7";9;"leon inca";29;
-2011;"krr-z7";10;"leon inca";26;
-2011;"krr-z7";11;"leon inca";20;
-2011;"krr-z7";12;"gali luci";26;
-2011;"krr-z7";13;"rese lute";26;
-2011;"krr-z7";14;"gali luci";38;
-2011;"krr-z7";15;"gali luci";40;"measured: 20 / estimated: 40"
-2011;"krr-z7";16;"sedu albu";4;
-2011;"krr-z7";17;"gali luci";28;
-2011;"krr-z7";18;"sedu albu";12;
-2011;"krr-z7";19;"sedu albu";9;
-2011;"krr-z7";20;"sedu albu";12;
-2011;"krr-z7";21;"brom tect";21;
-2011;"krr-z7";22;"brom tect";18;
-2011;"krr-z7";23;"sedu albu";11;
-2011;"krr-z7";24;"sedu albu";4;
-2011;"krr-z7";25;"jovi glob hirt";1;
-2011;"krr-z8";1;"secu vari";48;
-2011;"krr-z8";2;"secu vari";74;
-2011;"krr-z8";3;"secu vari";50;"measured: 34 / estimated: 50"
-2011;"krr-z8";4;"gali luci";40;"measured: 25 / estimated: 40"
-2011;"krr-z8";5;"gali luci";51;
-2011;"krr-z8";6;"gali luci";20;
-2011;"krr-z8";7;"gali luci";40;"measured: 25 / estimated: 40"
-2011;"krr-z8";8;"secu vari";50;"measured: 34 / estimated: 50"
-2011;"krr-z8";9;"secu vari";55;"measured: 30 / estimated: 55"
-2011;"krr-z8";10;"secu vari";58;
-2011;"krr-z8";11;"sedu albu";61;
-2011;"krr-z8";12;"sedu albu";39;
-2011;"krr-z8";13;"sedu albu";70;"measured: 47 / estimated: 70"
-2011;"krr-z8";14;"sedu albu";65;"measured: 60 / estimated: 65"
-2011;"krr-z8";15;"gali luci";40;"measured: 24 / estimated: 40"
-2011;"krr-z8";16;"sedu albu";2;
-2011;"krr-z8";17;"secu vari";35;
-2011;"krr-z8";18;"secu vari";40;"measured: 20 / estimated: 40"
-2011;"krr-z8";19;"secu vari";25;
-2011;"krr-z8";20;"secu vari";24;
-2011;"krr-z8";21;"secu vari";19;
-2011;"krr-z8";22;"secu vari";43;
-2011;"krr-z8";23;"sedu albu";11;
-2011;"krr-z8";24;"secu vari";50;"measured: 28 / estimated: 50"
-2011;"krr-z8";25;"sedu albu";10;
-2012;"htl-k1";1;"erys sylv";1;
-2012;"htl-k1";2;"empt cell";0;
-2012;"htl-k1";3;"meli cili";4;
-2012;"htl-k1";4;"sedu albu";5;
-2012;"htl-k1";5;"empt cell";6;
-2012;"htl-k1";6;"empt cell";8;
-2012;"htl-k1";7;"meli cili";10;
-2012;"htl-k1";8;"teuc cham";6;
-2012;"htl-k1";9;"empt cell";7;
-2012;"htl-k1";10;"ajug gene";4;
-2012;"htl-k1";11;"teuc cham";8;
-2012;"htl-k1";12;"empt cell";8;
-2012;"htl-k1";13;"sedu albu";5;
-2012;"htl-k1";14;"empt cell";12;
-2012;"htl-k1";15;"teuc cham";8;
-2012;"htl-k1";16;"sedu albu";4;
-2012;"htl-k1";17;"teuc cham";9;
-2012;"htl-k1";18;"teuc cham";11;
-2012;"htl-k1";19;"teuc cham";7;
-2012;"htl-k1";20;"teuc cham";8;
-2012;"htl-k1";21;"heli numm glab";7;
-2012;"htl-k1";22;"teuc cham";8;
-2012;"htl-k1";23;"teuc cham";9;
-2012;"htl-k1";24;"clin acin";8;
-2012;"htl-k1";25;"teuc mont";7;
-2012;"htl-k2";1;"sedu albu";4;
-2012;"htl-k2";2;"empt cell";0;
-2012;"htl-k2";3;"erys sylv";11;
-2012;"htl-k2";4;"empt cell";0;
-2012;"htl-k2";5;"empt cell";0;
-2012;"htl-k2";6;"sedu albu";3;
-2012;"htl-k2";7;"empt cell";0;
-2012;"htl-k2";8;"pinu nigr nigr";4;
-2012;"htl-k2";9;"jovi glob hirt";1;
-2012;"htl-k2";10;"jovi glob hirt";1;
-2012;"htl-k2";11;"empt cell";0;
-2012;"htl-k2";12;"jovi glob hirt";1;
-2012;"htl-k2";13;"teuc cham";5;
-2012;"htl-k2";14;"sedu albu";4;
-2012;"htl-k2";15;"empt cell";0;
-2012;"htl-k2";16;"sedu albu";1;
-2012;"htl-k2";17;"sedu albu";4;
-2012;"htl-k2";18;"alli lusi";7;
-2012;"htl-k2";19;"sedu albu";3;
-2012;"htl-k2";20;"empt cell";0;
-2012;"htl-k2";21;"sedu albu";4;
-2012;"htl-k2";22;"jovi glob hirt";2;
-2012;"htl-k2";23;"alli lusi";3;
-2012;"htl-k2";24;"empt cell";0;
-2012;"htl-k2";25;"rese lute";5;
-2012;"htl-k3";1;"empt cell";0;
-2012;"htl-k3";2;"empt cell";0;
-2012;"htl-k3";3;"empt cell";0;
-2012;"htl-k3";4;"empt cell";0;
-2012;"htl-k3";5;"sedu albu";6;
-2012;"htl-k3";6;"sedu albu";5;
-2012;"htl-k3";7;"anth ramo";7;
-2012;"htl-k3";8;"empt cell";0;
-2012;"htl-k3";9;"empt cell";0;
-2012;"htl-k3";10;"empt cell";0;
-2012;"htl-k3";11;"empt cell";0;
-2012;"htl-k3";12;"empt cell";0;
-2012;"htl-k3";13;"empt cell";0;
-2012;"htl-k3";14;"anth ramo";5;
-2012;"htl-k3";15;"sedu albu";1;
-2012;"htl-k3";16;"rese lute";9;
-2012;"htl-k3";17;"rese lute";7;
-2012;"htl-k3";18;"empt cell";0;
-2012;"htl-k3";19;"empt cell";0;
-2012;"htl-k3";20;"empt cell";0;
-2012;"htl-k3";21;"empt cell";0;
-2012;"htl-k3";22;"empt cell";0;
-2012;"htl-k3";23;"empt cell";0;
-2012;"htl-k3";24;"jovi glob hirt";1;
-2012;"htl-k3";25;"jovi glob hirt";1;
-2012;"htl-k4";1;"empt cell";0;
-2012;"htl-k4";2;"teuc cham";4;
-2012;"htl-k4";3;"orig vulg";7;
-2012;"htl-k4";4;"empt cell";0;
-2012;"htl-k4";5;"empt cell";0;
-2012;"htl-k4";6;"empt cell";0;
-2012;"htl-k4";7;"empt cell";0;
-2012;"htl-k4";8;"empt cell";0;
-2012;"htl-k4";9;"empt cell";0;
-2012;"htl-k4";10;"empt cell";0;
-2012;"htl-k4";11;"empt cell";0;
-2012;"htl-k4";12;"anth ramo";4;
-2012;"htl-k4";13;"empt cell";0;
-2012;"htl-k4";14;"empt cell";0;
-2012;"htl-k4";15;"empt cell";0;
-2012;"htl-k4";16;"empt cell";0;
-2012;"htl-k4";17;"empt cell";0;
-2012;"htl-k4";18;"jovi glob hirt";1;
-2012;"htl-k4";19;"empt cell";0;
-2012;"htl-k4";20;"empt cell";0;
-2012;"htl-k4";21;"sedu albu";5;
-2012;"htl-k4";22;"jovi glob hirt";1;
-2012;"htl-k4";23;"empt cell";0;
-2012;"htl-k4";24;"empt cell";0;
-2012;"htl-k4";25;"empt cell";0;
-2012;"htl-k5";1;"empt cell";0;
-2012;"htl-k5";2;"empt cell";0;
-2012;"htl-k5";3;"empt cell";0;
-2012;"htl-k5";4;"empt cell";0;
-2012;"htl-k5";5;"card nuta nuta";5;
-2012;"htl-k5";6;"empt cell";0;
-2012;"htl-k5";7;"empt cell";0;
-2012;"htl-k5";8;"empt cell";0;
-2012;"htl-k5";9;"empt cell";0;
-2012;"htl-k5";10;"empt cell";0;
-2012;"htl-k5";11;"empt cell";0;
-2012;"htl-k5";12;"empt cell";0;
-2012;"htl-k5";13;"empt cell";0;
-2012;"htl-k5";14;"empt cell";0;
-2012;"htl-k5";15;"empt cell";0;
-2012;"htl-k5";16;"empt cell";0;
-2012;"htl-k5";17;"empt cell";0;
-2012;"htl-k5";18;"empt cell";0;
-2012;"htl-k5";19;"empt cell";0;
-2012;"htl-k5";20;"empt cell";0;
-2012;"htl-k5";21;"empt cell";0;
-2012;"htl-k5";22;"empt cell";0;
-2012;"htl-k5";23;"empt cell";0;
-2012;"htl-k5";24;"empt cell";0;
-2012;"htl-k5";25;"empt cell";0;
-2012;"htl-k6";1;"teuc cham";9;
-2012;"htl-k6";2;"teuc cham";11;
-2012;"htl-k6";3;"vinc hiru";48;
-2012;"htl-k6";4;"vinc hiru";45;
-2012;"htl-k6";5;"vinc hiru";25;
-2012;"htl-k6";6;"salv glut";27;
-2012;"htl-k6";7;"vinc hiru";40;
-2012;"htl-k6";8;"vinc hiru";39;
-2012;"htl-k6";9;"vinc hiru";49;
-2012;"htl-k6";10;"vinc hiru";39;
-2012;"htl-k6";11;"vinc hiru";34;
-2012;"htl-k6";12;"vinc hiru";44;
-2012;"htl-k6";13;"vinc hiru";46;
-2012;"htl-k6";14;"vinc hiru";41;
-2012;"htl-k6";15;"vinc hiru";37;
-2012;"htl-k6";16;"salv glut";32;
-2012;"htl-k6";17;"salv glut";39;
-2012;"htl-k6";18;"vinc hiru";34;
-2012;"htl-k6";19;"vinc hiru";39;
-2012;"htl-k6";20;"vinc hiru";39;
-2012;"htl-k6";21;"teuc cham";12;
-2012;"htl-k6";22;"vinc hiru";46;
-2012;"htl-k6";23;"vinc hiru";38;
-2012;"htl-k6";24;"vinc hiru";34;
-2012;"htl-k6";25;"salv glut";31;
-2012;"htl-k7";1;"empt cell";0;
-2012;"htl-k7";2;"sedu albu";2;
-2012;"htl-k7";3;"sedu albu";4;
-2012;"htl-k7";4;"jovi glob hirt";1;
-2012;"htl-k7";5;"empt cell";0;
-2012;"htl-k7";6;"empt cell";0;
-2012;"htl-k7";7;"sedu albu";2;
-2012;"htl-k7";8;"jovi glob hirt";2;
-2012;"htl-k7";9;"sedu albu";2;
-2012;"htl-k7";10;"empt cell";0;
-2012;"htl-k7";11;"pelt alli";2;
-2012;"htl-k7";12;"sedu albu";3;
-2012;"htl-k7";13;"sedu albu";3;
-2012;"htl-k7";14;"sedu albu";7;
-2012;"htl-k7";15;"sedu albu";5;
-2012;"htl-k7";16;"teuc mont";7;
-2012;"htl-k7";17;"sedu albu";6;
-2012;"htl-k7";18;"sedu albu";6;
-2012;"htl-k7";19;"sedu albu";4;
-2012;"htl-k7";20;"teuc mont";4;
-2012;"htl-k7";21;"sedu albu";2;
-2012;"htl-k7";22;"orig vulg";11;
-2012;"htl-k7";23;"orig vulg";13;
-2012;"htl-k7";24;"jovi glob hirt";1;
-2012;"htl-k7";25;"teuc mont";7;
-2012;"htl-k8";1;"vinc hiru";33;
-2012;"htl-k8";2;"vinc hiru";38;
-2012;"htl-k8";3;"vinc hiru";40;
-2012;"htl-k8";4;"vinc hiru";33;
-2012;"htl-k8";5;"jovi glob hirt";2;
-2012;"htl-k8";6;"vinc hiru";41;
-2012;"htl-k8";7;"vinc hiru";43;
-2012;"htl-k8";8;"vinc hiru";41;
-2012;"htl-k8";9;"vinc hiru";24;
-2012;"htl-k8";10;"orig vulg";13;
-2012;"htl-k8";11;"vinc hiru";39;
-2012;"htl-k8";12;"vinc hiru";41;
-2012;"htl-k8";13;"vinc hiru";43;
-2012;"htl-k8";14;"vinc hiru";42;
-2012;"htl-k8";15;"vinc hiru";27;
-2012;"htl-k8";16;"vinc hiru";30;
-2012;"htl-k8";17;"vinc hiru";42;
-2012;"htl-k8";18;"vinc hiru";40;
-2012;"htl-k8";19;"orig vulg";21;
-2012;"htl-k8";20;"orig vulg";22;
-2012;"htl-k8";21;"orig vulg";21;
-2012;"htl-k8";22;"orig vulg";19;
-2012;"htl-k8";23;"orig vulg";22;
-2012;"htl-k8";24;"erys sylv";28;
-2012;"htl-k8";25;"vinc hiru";44;
-2012;"htl-z1";1;"meli cili";54;
-2012;"htl-z1";2;"meli cili";65;
-2012;"htl-z1";3;"meli cili";41;
-2012;"htl-z1";4;"meli cili";58;
-2012;"htl-z1";5;"meli cili";56;
-2012;"htl-z1";6;"meli cili";52;
-2012;"htl-z1";7;"meli cili";67;
-2012;"htl-z1";8;"meli cili";63;
-2012;"htl-z1";9;"meli cili";80;
-2012;"htl-z1";10;"meli cili";60;
-2012;"htl-z1";11;"meli cili";85;
-2012;"htl-z1";12;"meli cili";24;
-2012;"htl-z1";13;"meli cili";62;
-2012;"htl-z1";14;"meli cili";66;
-2012;"htl-z1";15;"meli cili";62;
-2012;"htl-z1";16;"meli cili";52;
-2012;"htl-z1";17;"meli cili";56;
-2012;"htl-z1";18;"meli cili";70;
-2012;"htl-z1";19;"meli cili";68;
-2012;"htl-z1";20;"anth ramo";20;
-2012;"htl-z1";21;"anth ramo";52;
-2012;"htl-z1";22;"meli cili";64;
-2012;"htl-z1";23;"meli cili";81;
-2012;"htl-z1";24;"meli cili";70;
-2012;"htl-z1";25;"pote pusi";4;
-2012;"htl-z2";1;"sese aust";30;
-2012;"htl-z2";2;"sese aust";27;
-2012;"htl-z2";3;"sese aust";32;
-2012;"htl-z2";4;"sese aust";21;
-2012;"htl-z2";5;"sese aust";16;
-2012;"htl-z2";6;"sese aust";24;
-2012;"htl-z2";7;"sese aust";37;
-2012;"htl-z2";8;"sese aust";33;
-2012;"htl-z2";9;"sese aust";33;
-2012;"htl-z2";10;"sese aust";47;
-2012;"htl-z2";11;"sese aust";50;
-2012;"htl-z2";12;"meli cili";52;
-2012;"htl-z2";13;"sese aust";50;
-2012;"htl-z2";14;"sese aust";46;
-2012;"htl-z2";15;"sese aust";47;
-2012;"htl-z2";16;"sese aust";52;
-2012;"htl-z2";17;"sese aust";64;
-2012;"htl-z2";18;"sese aust";57;
-2012;"htl-z2";19;"sese aust";63;
-2012;"htl-z2";20;"sese aust";41;
-2012;"htl-z2";21;"sese aust";54;
-2012;"htl-z2";22;"sese aust";59;
-2012;"htl-z2";23;"sese aust";32;
-2012;"htl-z2";24;"sese aust";60;
-2012;"htl-z2";25;"sese aust";52;
-2012;"htl-z3";1;"poa comp";51;
-2012;"htl-z3";2;"poa comp";60;
-2012;"htl-z3";3;"brac sylv";75;
-2012;"htl-z3";4;"brac sylv";30;
-2012;"htl-z3";5;"brac sylv";40;
-2012;"htl-z3";6;"poa comp";49;
-2012;"htl-z3";7;"poa comp";55;
-2012;"htl-z3";8;"poa comp";52;
-2012;"htl-z3";9;"poa comp";60;
-2012;"htl-z3";10;"poa comp";57;
-2012;"htl-z3";11;"poa comp";56;
-2012;"htl-z3";12;"brac sylv";70;
-2012;"htl-z3";13;"poa comp";58;
-2012;"htl-z3";14;"poa comp";46;
-2012;"htl-z3";15;"poa comp";52;
-2012;"htl-z3";16;"poa comp";57;
-2012;"htl-z3";17;"poa comp";50;
-2012;"htl-z3";18;"poa comp";50;
-2012;"htl-z3";19;"poa comp";54;
-2012;"htl-z3";20;"poa comp";59;
-2012;"htl-z3";21;"poa comp";49;
-2012;"htl-z3";22;"poa comp";44;
-2012;"htl-z3";23;"poa comp";49;
-2012;"htl-z3";24;"poa comp";60;
-2012;"htl-z3";25;"poa comp";58;
-2012;"htl-z4";1;"meli cili";49;
-2012;"htl-z4";2;"meli cili";89;
-2012;"htl-z4";3;"meli cili";85;
-2012;"htl-z4";4;"meli cili";86;
-2012;"htl-z4";5;"meli cili";75;
-2012;"htl-z4";6;"anth ramo";67;
-2012;"htl-z4";7;"anth ramo";67;
-2012;"htl-z4";8;"anth ramo";42;
-2012;"htl-z4";9;"anth ramo";42;
-2012;"htl-z4";10;"acon anth";34;
-2012;"htl-z4";11;"meli cili";78;
-2012;"htl-z4";12;"meli cili";72;
-2012;"htl-z4";13;"meli cili";75;
-2012;"htl-z4";14;"anth ramo";45;
-2012;"htl-z4";15;"orig vulg";26;
-2012;"htl-z4";16;"orig vulg";40;
-2012;"htl-z4";17;"anth ramo";44;
-2012;"htl-z4";18;"meli cili";76;
-2012;"htl-z4";19;"meli cili";75;
-2012;"htl-z4";20;"meli cili";78;
-2012;"htl-z4";21;"meli cili";68;
-2012;"htl-z4";22;"heli numm obsc";33;
-2012;"htl-z4";23;"anth ramo";347;
-2012;"htl-z4";24;"meli cili";72;
-2012;"htl-z4";25;"poa comp";57;
-2012;"htl-z5";1;"teuc mont";10;
-2012;"htl-z5";2;"teuc mont";12;
-2012;"htl-z5";3;"teuc mont";11;
-2012;"htl-z5";4;"heli numm obsc";24;
-2012;"htl-z5";5;"orig vulg";34;
-2012;"htl-z5";6;"orig vulg";32;
-2012;"htl-z5";7;"heli numm obsc";14;
-2012;"htl-z5";8;"heli numm obsc";19;
-2012;"htl-z5";9;"teuc mont";11;
-2012;"htl-z5";10;"cent scab bade";58;
-2012;"htl-z5";11;"heli numm obsc";30;
-2012;"htl-z5";12;"anth ramo";50;
-2012;"htl-z5";13;"anth ramo";25;
-2012;"htl-z5";14;"heli numm obsc";20;
-2012;"htl-z5";15;"orig vulg";34;
-2012;"htl-z5";16;"heli numm obsc";22;
-2012;"htl-z5";17;"heli numm obsc";20;
-2012;"htl-z5";18;"anth ramo";62;
-2012;"htl-z5";19;"anth ramo";53;
-2012;"htl-z5";20;"anth ramo";65;
-2012;"htl-z5";21;"heli numm obsc";17;
-2012;"htl-z5";22;"anth ramo";54;
-2012;"htl-z5";23;"anth ramo";55;
-2012;"htl-z5";24;"anth ramo";20;
-2012;"htl-z5";25;"heli numm obsc";36;
-2012;"htl-z6";1;"meli cili";13;
-2012;"htl-z6";2;"hype perf";14;
-2012;"htl-z6";3;"orig vulg";17;
-2012;"htl-z6";4;"orig vulg";32;
-2012;"htl-z6";5;"hype perf";19;
-2012;"htl-z6";6;"orig vulg";44;
-2012;"htl-z6";7;"meli cili";29;
-2012;"htl-z6";8;"sedu albu";11;
-2012;"htl-z6";9;"sedu albu";12;
-2012;"htl-z6";10;"jovi glob hirt";1;
-2012;"htl-z6";11;"meli cili";28;
-2012;"htl-z6";12;"meli cili";36;
-2012;"htl-z6";13;"orig vulg";40;
-2012;"htl-z6";14;"orig vulg";53;
-2012;"htl-z6";15;"orig vulg";40;
-2012;"htl-z6";16;"orig vulg";31;
-2012;"htl-z6";17;"orig vulg";45;
-2012;"htl-z6";18;"orig vulg";40;
-2012;"htl-z6";19;"sedu albu";2;
-2012;"htl-z6";20;"meli cili";46;
-2012;"htl-z6";21;"meli cili";63;
-2012;"htl-z6";22;"empt cell";0;
-2012;"htl-z6";23;"orig vulg";20;
-2012;"htl-z6";24;"orig vulg";36;
-2012;"htl-z6";25;"orig vulg";29;
-2012;"htl-z7";1;"lina geni";18;
-2012;"htl-z7";2;"medi lupu";19;
-2012;"htl-z7";3;"aspe cyna";17;
-2012;"htl-z7";4;"vinc hiru";48;
-2012;"htl-z7";5;"meli cili";50;
-2012;"htl-z7";6;"vinc hiru";60;
-2012;"htl-z7";7;"vinc hiru";62;
-2012;"htl-z7";8;"vinc hiru";53;
-2012;"htl-z7";9;"lina geni";27;
-2012;"htl-z7";10;"lina geni";30;
-2012;"htl-z7";11;"lina geni";35;
-2012;"htl-z7";12;"lina geni";74;
-2012;"htl-z7";13;"vinc hiru";57;
-2012;"htl-z7";14;"vinc hiru";55;
-2012;"htl-z7";15;"vinc hiru";70;
-2012;"htl-z7";16;"vinc hiru";47;
-2012;"htl-z7";17;"lina geni";46;
-2012;"htl-z7";18;"lina geni";44;
-2012;"htl-z7";19;"lina geni";41;
-2012;"htl-z7";20;"glob cord";3;
-2012;"htl-z7";21;"sedu albu";4;
-2012;"htl-z7";22;"lina geni";105;
-2012;"htl-z7";23;"vinc hiru";56;
-2012;"htl-z7";24;"lina geni";80;
-2012;"htl-z7";25;"lina geni";85;
-2012;"htl-z8";1;"heli numm obsc";27;
-2012;"htl-z8";2;"heli numm obsc";12;
-2012;"htl-z8";3;"heli numm obsc";30;
-2012;"htl-z8";4;"ajug gene";37;
-2012;"htl-z8";5;"teuc cham";10;
-2012;"htl-z8";6;"meli cili";34;
-2012;"htl-z8";7;"anth ramo";79;
-2012;"htl-z8";8;"anth ramo";30;
-2012;"htl-z8";9;"heli numm obsc";23;
-2012;"htl-z8";10;"sedu albu";12;
-2012;"htl-z8";11;"sedu albu";20;
-2012;"htl-z8";12;"sedu albu";13;
-2012;"htl-z8";13;"heli numm obsc";20;
-2012;"htl-z8";14;"vinc hiru";32;
-2012;"htl-z8";15;"vinc hiru";30;
-2012;"htl-z8";16;"vinc hiru";27;
-2012;"htl-z8";17;"vinc hiru";26;
-2012;"htl-z8";18;"teuc cham";15;
-2012;"htl-z8";19;"sedu albu";3;
-2012;"htl-z8";20;"aren serp";5;
-2012;"htl-z8";21;"viol tric saxa";3;
-2012;"htl-z8";22;"viol tric saxa";3;
-2012;"htl-z8";23;"teuc cham";16;
-2012;"htl-z8";24;"teuc cham";18;
-2012;"htl-z8";25;"acon anth";43;
-2012;"krr-k1";1;"empt cell";0;
-2012;"krr-k1";2;"sedu albu";2;
-2012;"krr-k1";3;"empt cell";0;
-2012;"krr-k1";4;"empt cell";0;
-2012;"krr-k1";5;"empt cell";0;
-2012;"krr-k1";6;"empt cell";0;
-2012;"krr-k1";7;"jovi glob hirt";1;
-2012;"krr-k1";8;"empt cell";0;
-2012;"krr-k1";9;"sedu albu";3;
-2012;"krr-k1";10;"empt cell";0;
-2012;"krr-k1";11;"sedu albu";4;
-2012;"krr-k1";12;"sedu albu";9;
-2012;"krr-k1";13;"sedu albu";10;
-2012;"krr-k1";14;"jovi glob hirt";2;
-2012;"krr-k1";15;"alli lusi";8;
-2012;"krr-k1";16;"jovi glob hirt";1;
-2012;"krr-k1";17;"jovi glob hirt";1;
-2012;"krr-k1";18;"sedu albu";7;
-2012;"krr-k1";19;"sedu albu";8;
-2012;"krr-k1";20;"sedu albu";6;
-2012;"krr-k1";21;"empt cell";0;
-2012;"krr-k1";22;"sedu albu";6;
-2012;"krr-k1";23;"sedu albu";6;
-2012;"krr-k1";24;"gali luci";9;
-2012;"krr-k1";25;"gali luci";10;
-2012;"krr-k2";1;"sile lati alba";10;
-2012;"krr-k2";2;"pelt alli";11;
-2012;"krr-k2";3;"ajug gene";4;
-2012;"krr-k2";4;"empt cell";0;
-2012;"krr-k2";5;"empt cell";0;
-2012;"krr-k2";6;"empt cell";0;
-2012;"krr-k2";7;"ajug gene";1;
-2012;"krr-k2";8;"meli cili";5;
-2012;"krr-k2";9;"prun maha";4;
-2012;"krr-k2";10;"clin acin";8;
-2012;"krr-k2";11;"prun maha";3;
-2012;"krr-k2";12;"card nuta nuta";3;
-2012;"krr-k2";13;"card nuta nuta";4;
-2012;"krr-k2";14;"empt cell";0;
-2012;"krr-k2";15;"empt cell";0;
-2012;"krr-k2";16;"empt cell";0;
-2012;"krr-k2";17;"empt cell";0;
-2012;"krr-k2";18;"empt cell";0;
-2012;"krr-k2";19;"empt cell";0;
-2012;"krr-k2";20;"teuc mont";5;
-2012;"krr-k2";21;"teuc mont";6;
-2012;"krr-k2";22;"teuc mont";8;
-2012;"krr-k2";23;"empt cell";0;
-2012;"krr-k2";24;"empt cell";0;
-2012;"krr-k2";25;"empt cell";0;
-2012;"krr-k3";1;"empt cell";0;
-2012;"krr-k3";2;"empt cell";0;
-2012;"krr-k3";3;"aren serp";7;
-2012;"krr-k3";4;"gali luci";3;
-2012;"krr-k3";5;"anch offi";2;
-2012;"krr-k3";6;"sedu albu";3;
-2012;"krr-k3";7;"sedu albu";4;
-2012;"krr-k3";8;"empt cell";0;
-2012;"krr-k3";9;"empt cell";0;
-2012;"krr-k3";10;"cent scab bade";11;
-2012;"krr-k3";11;"empt cell";0;
-2012;"krr-k3";12;"sedu albu";4;
-2012;"krr-k3";13;"gali luci";4;
-2012;"krr-k3";14;"alli lusi";11;
-2012;"krr-k3";15;"sedu albu";2;
-2012;"krr-k3";16;"teuc mont";11;
-2012;"krr-k3";17;"alli lusi";6;
-2012;"krr-k3";18;"empt cell";0;
-2012;"krr-k3";19;"empt cell";0;
-2012;"krr-k3";20;"empt cell";0;
-2012;"krr-k3";21;"leon inca";8;
-2012;"krr-k3";22;"sedu albu";4;
-2012;"krr-k3";23;"cent scab bade";10;
-2012;"krr-k3";24;"teuc mont";13;
-2012;"krr-k3";25;"alli lusi";15;
-2012;"krr-k4";1;"sedu albu";13;
-2012;"krr-k4";2;"cent scab bade";20;
-2012;"krr-k4";3;"teuc botr";3;
-2012;"krr-k4";4;"sang mino mino";7;
-2012;"krr-k4";5;"sedu albu";5;
-2012;"krr-k4";6;"vinc hiru";27;
-2012;"krr-k4";7;"vinc hiru";32;
-2012;"krr-k4";8;"vinc hiru";38;
-2012;"krr-k4";9;"cent scab bade";21;
-2012;"krr-k4";10;"medi lupu";3;
-2012;"krr-k4";11;"sedu albu";3;
-2012;"krr-k4";12;"teuc botr";16;
-2012;"krr-k4";13;"vinc hiru";24;
-2012;"krr-k4";14;"vinc hiru";42;
-2012;"krr-k4";15;"vinc hiru";54;
-2012;"krr-k4";16;"meli cili";6;
-2012;"krr-k4";17;"vinc hiru";23;
-2012;"krr-k4";18;"vinc hiru";40;
-2012;"krr-k4";19;"teuc botr";4;
-2012;"krr-k4";20;"sedu albu";1;
-2012;"krr-k4";21;"empt cell";0;
-2012;"krr-k4";22;"sedu albu";2;
-2012;"krr-k4";23;"alli lusi";9;
-2012;"krr-k4";24;"jovi glob hirt";4;
-2012;"krr-k4";25;"sedu albu";4;
-2012;"krr-k5";1;"empt cell";0;
-2012;"krr-k5";2;"sedu albu";3;
-2012;"krr-k5";3;"jovi glob hirt";1;
-2012;"krr-k5";4;"jovi glob hirt";1;
-2012;"krr-k5";5;"jovi glob hirt";2;
-2012;"krr-k5";6;"meli cili";7;
-2012;"krr-k5";7;"sedu albu";4;
-2012;"krr-k5";8;"sedu albu";3;
-2012;"krr-k5";9;"sedu albu";5;
-2012;"krr-k5";10;"sedu albu";3;
-2012;"krr-k5";11;"empt cell";0;
-2012;"krr-k5";12;"empt cell";0;
-2012;"krr-k5";13;"sedu albu";2;
-2012;"krr-k5";14;"jovi glob hirt";1;
-2012;"krr-k5";15;"jovi glob hirt";1;
-2012;"krr-k5";16;"sedu albu";6;
-2012;"krr-k5";17;"sedu albu";3;
-2012;"krr-k5";18;"empt cell";0;
-2012;"krr-k5";19;"empt cell";0;
-2012;"krr-k5";20;"empt cell";0;
-2012;"krr-k5";21;"teuc mont";8;
-2012;"krr-k5";22;"teuc mont";4;
-2012;"krr-k5";23;"empt cell";0;
-2012;"krr-k5";24;"sedu albu";7;
-2012;"krr-k5";25;"sedu albu";6;
-2012;"krr-k6";1;"anch offi";12;
-2012;"krr-k6";2;"anch offi";13;
-2012;"krr-k6";3;"ajug gene";4;
-2012;"krr-k6";4;"leon inca";4;
-2012;"krr-k6";5;"anch offi";3;
-2012;"krr-k6";6;"anch offi";7;
-2012;"krr-k6";7;"leon inca";3;
-2012;"krr-k6";8;"leon inca";4;
-2012;"krr-k6";9;"sedu albu";7;
-2012;"krr-k6";10;"erys sylv";5;
-2012;"krr-k6";11;"empt cell";0;
-2012;"krr-k6";12;"sedu albu";5;
-2012;"krr-k6";13;"sedu albu";2;
-2012;"krr-k6";14;"jovi glob hirt";2;
-2012;"krr-k6";15;"teuc mont";6;
-2012;"krr-k6";16;"teuc mont";6;
-2012;"krr-k6";17;"teuc mont";7;
-2012;"krr-k6";18;"teuc mont";6;
-2012;"krr-k6";19;"sedu albu";3;
-2012;"krr-k6";20;"sedu albu";3;
-2012;"krr-k6";21;"jovi glob hirt";1;
-2012;"krr-k6";22;"sedu albu";2;
-2012;"krr-k6";23;"jovi glob hirt";1;
-2012;"krr-k6";24;"teuc mont";6;
-2012;"krr-k6";25;"teuc mont";5;
-2012;"krr-k7";1;"sedu albu";2;
-2012;"krr-k7";2;"sedu albu";4;
-2012;"krr-k7";3;"jovi glob hirt";1;
-2012;"krr-k7";4;"sedu albu";4;
-2012;"krr-k7";5;"jovi glob hirt";1;
-2012;"krr-k7";6;"sedu albu";5;
-2012;"krr-k7";7;"alli lusi";4;
-2012;"krr-k7";8;"sedu albu";3;
-2012;"krr-k7";9;"sedu albu";3;
-2012;"krr-k7";10;"sedu albu";4;
-2012;"krr-k7";11;"sedu albu";2;
-2012;"krr-k7";12;"jovi glob hirt";2;
-2012;"krr-k7";13;"jovi glob hirt";1;
-2012;"krr-k7";14;"sedu albu";2;
-2012;"krr-k7";15;"sedu albu";3;
-2012;"krr-k7";16;"jovi glob hirt";1;
-2012;"krr-k7";17;"sedu albu";3;
-2012;"krr-k7";18;"sedu albu";3;
-2012;"krr-k7";19;"jovi glob hirt";1;
-2012;"krr-k7";20;"jovi glob hirt";2;
-2012;"krr-k7";21;"sedu albu";6;
-2012;"krr-k7";22;"jovi glob hirt";2;
-2012;"krr-k7";23;"jovi glob hirt";1;
-2012;"krr-k7";24;"sedu albu";3;
-2012;"krr-k7";25;"jovi glob hirt";1;
-2012;"krr-k8";1;"sedu albu";6;
-2012;"krr-k8";2;"heli numm obsc";5;
-2012;"krr-k8";3;"jovi glob hirt";1;
-2012;"krr-k8";4;"aren serp";5;
-2012;"krr-k8";5;"care humi";5;
-2012;"krr-k8";6;"care humi";12;
-2012;"krr-k8";7;"care humi";7;
-2012;"krr-k8";8;"jovi glob hirt";1;
-2012;"krr-k8";9;"sedu albu";4;
-2012;"krr-k8";10;"jovi glob hirt";2;
-2012;"krr-k8";11;"echi vulg";11;
-2012;"krr-k8";12;"jovi glob hirt";1;
-2012;"krr-k8";13;"sedu albu";2;
-2012;"krr-k8";14;"hack defl";7;
-2012;"krr-k8";15;"hack defl";9;
-2012;"krr-k8";16;"anch offi";17;
-2012;"krr-k8";17;"anch offi";14;
-2012;"krr-k8";18;"sedu albu";9;
-2012;"krr-k8";19;"sedu albu";5;
-2012;"krr-k8";20;"jovi glob hirt";1;
-2012;"krr-k8";21;"sedu albu";6;
-2012;"krr-k8";22;"sedu albu";2;
-2012;"krr-k8";23;"lact vimi";3;
-2012;"krr-k8";24;"sedu albu";6;
-2012;"krr-k8";25;"anch offi";7;
-2012;"krr-z1";1;"teuc cham";7;
-2012;"krr-z1";2;"alli lusi";20;
-2012;"krr-z1";3;"leon inca";13;
-2012;"krr-z1";4;"leon inca";12;
-2012;"krr-z1";5;"sese aust";4;
-2012;"krr-z1";6;"sedu albu";3;
-2012;"krr-z1";7;"leon inca";13;
-2012;"krr-z1";8;"leon inca";13;
-2012;"krr-z1";9;"alli lusi";16;
-2012;"krr-z1";10;"teuc mont";8;
-2012;"krr-z1";11;"leon inca";7;
-2012;"krr-z1";12;"leon inca";12;
-2012;"krr-z1";13;"scab ochr";42;
-2012;"krr-z1";14;"meli cili";8;
-2012;"krr-z1";15;"meli cili";20;
-2012;"krr-z1";16;"meli cili";17;
-2012;"krr-z1";17;"scab ochr";43;
-2012;"krr-z1";18;"scab ochr";47;
-2012;"krr-z1";19;"alli lusi";15;
-2012;"krr-z1";20;"jovi glob hirt";2;
-2012;"krr-z1";21;"scab ochr";26;
-2012;"krr-z1";22;"scab ochr";45;
-2012;"krr-z1";23;"scab ochr";55;
-2012;"krr-z1";24;"scab ochr";58;
-2012;"krr-z1";25;"scab ochr";38;
-2012;"krr-z2";1;"sedu albu";7;
-2012;"krr-z2";2;"sedu albu";3;
-2012;"krr-z2";3;"empt cell";0;
-2012;"krr-z2";4;"sedu albu";3;
-2012;"krr-z2";5;"sedu albu";5;
-2012;"krr-z2";6;"gali luci";13;
-2012;"krr-z2";7;"sedu albu";5;
-2012;"krr-z2";8;"dory germ";6;
-2012;"krr-z2";9;"dory germ";11;
-2012;"krr-z2";10;"dory germ";9;
-2012;"krr-z2";11;"dory germ";9;
-2012;"krr-z2";12;"dory germ";9;
-2012;"krr-z2";13;"sedu albu";9;
-2012;"krr-z2";14;"jovi glob hirt";1;
-2012;"krr-z2";15;"gali luci";24;
-2012;"krr-z2";16;"gali luci";24;
-2012;"krr-z2";17;"gali luci";20;
-2012;"krr-z2";18;"jovi glob hirt";2;
-2012;"krr-z2";19;"jovi glob hirt";1;
-2012;"krr-z2";20;"sedu albu";4;
-2012;"krr-z2";21;"sedu albu";5;
-2012;"krr-z2";22;"sedu albu";8;
-2012;"krr-z2";23;"jovi glob hirt";1;
-2012;"krr-z2";24;"gali luci";12;
-2012;"krr-z2";25;"gali luci";14;
-2012;"krr-z3";1;"gali luci";30;
-2012;"krr-z3";2;"leon inca";13;
-2012;"krr-z3";3;"care humi";17;
-2012;"krr-z3";4;"secu vari";14;
-2012;"krr-z3";5;"meli cili";19;
-2012;"krr-z3";6;"vinc hiru";33;
-2012;"krr-z3";7;"vinc hiru";33;
-2012;"krr-z3";8;"care humi";27;
-2012;"krr-z3";9;"care humi";25;
-2012;"krr-z3";10;"gali luci";21;
-2012;"krr-z3";11;"gali luci";28;
-2012;"krr-z3";12;"care humi";20;
-2012;"krr-z3";13;"care humi";28;
-2012;"krr-z3";14;"vinc hiru";28;
-2012;"krr-z3";15;"vinc hiru";34;
-2012;"krr-z3";16;"care humi";29;
-2012;"krr-z3";17;"vinc hiru";23;
-2012;"krr-z3";18;"care humi";28;
-2012;"krr-z3";19;"care humi";25;
-2012;"krr-z3";20;"sedu albu";6;
-2012;"krr-z3";21;"sedu albu";3;
-2012;"krr-z3";22;"leon inca";11;
-2012;"krr-z3";23;"leon inca";16;
-2012;"krr-z3";24;"care humi";37;
-2012;"krr-z3";25;"care humi";30;
-2012;"krr-z4";1;"gali luci";20;
-2012;"krr-z4";2;"gali luci";36;
-2012;"krr-z4";3;"gali luci";23;
-2012;"krr-z4";4;"sesl caer";20;
-2012;"krr-z4";5;"sesl caer";18;
-2012;"krr-z4";6;"euph cypa";17;
-2012;"krr-z4";7;"gali luci";23;
-2012;"krr-z4";8;"gali luci";25;
-2012;"krr-z4";9;"gali luci";42;
-2012;"krr-z4";10;"gali luci";23;
-2012;"krr-z4";11;"gali luci";36;
-2012;"krr-z4";12;"care humi";20;
-2012;"krr-z4";13;"teuc mont";8;
-2012;"krr-z4";14;"euph cypa";11;
-2012;"krr-z4";15;"euph cypa";12;
-2012;"krr-z4";16;"sedu albu";7;
-2012;"krr-z4";17;"jovi glob hirt";2;
-2012;"krr-z4";18;"teuc mont";12;
-2012;"krr-z4";19;"gali luci";30;
-2012;"krr-z4";20;"gali luci";28;
-2012;"krr-z4";21;"meli cili";29;
-2012;"krr-z4";22;"meli cili";56;
-2012;"krr-z4";23;"meli cili";42;
-2012;"krr-z4";24;"euph cypa";10;
-2012;"krr-z4";25;"sedu albu";10;
-2012;"krr-z5";1;"jovi glob hirt";1;
-2012;"krr-z5";2;"sedu albu";4;
-2012;"krr-z5";3;"sedu albu";5;
-2012;"krr-z5";4;"sedu albu";7;
-2012;"krr-z5";5;"sedu albu";5;
-2012;"krr-z5";6;"scab ochr";61;
-2012;"krr-z5";7;"scab ochr";32;
-2012;"krr-z5";8;"sedu albu";4;
-2012;"krr-z5";9;"sedu albu";6;
-2012;"krr-z5";10;"sedu albu";5;
-2012;"krr-z5";11;"sese aust";50;
-2012;"krr-z5";12;"sese aust";87;
-2012;"krr-z5";13;"scab ochr";73;
-2012;"krr-z5";14;"sese aust";73;
-2012;"krr-z5";15;"scab ochr";51;
-2012;"krr-z5";16;"scab ochr";54;
-2012;"krr-z5";17;"sese aust";63;
-2012;"krr-z5";18;"sese aust";83;
-2012;"krr-z5";19;"sese aust";50;
-2012;"krr-z5";20;"sese aust";37;
-2012;"krr-z5";21;"sese aust";40;
-2012;"krr-z5";22;"sese aust";84;
-2012;"krr-z5";23;"sese aust";79;
-2012;"krr-z5";24;"sese aust";55;
-2012;"krr-z5";25;"sese aust";70;
-2012;"krr-z6";1;"jovi glob hirt";1;
-2012;"krr-z6";2;"jovi glob hirt";1;
-2012;"krr-z6";3;"jovi glob hirt";1;
-2012;"krr-z6";4;"sedu albu";5;
-2012;"krr-z6";5;"jovi glob hirt";2;
-2012;"krr-z6";6;"gali luci";20;
-2012;"krr-z6";7;"gali luci";46;
-2012;"krr-z6";8;"gali luci";30;
-2012;"krr-z6";9;"jovi glob hirt";2;
-2012;"krr-z6";10;"sedu albu";4;
-2012;"krr-z6";11;"teuc mont";6;
-2012;"krr-z6";12;"leon inca";18;
-2012;"krr-z6";13;"gali luci";41;
-2012;"krr-z6";14;"gali luci";35;
-2012;"krr-z6";15;"gali luci";31;
-2012;"krr-z6";16;"gali luci";25;
-2012;"krr-z6";17;"gali luci";36;
-2012;"krr-z6";18;"care humi";16;
-2012;"krr-z6";19;"care humi";17;
-2012;"krr-z6";20;"leon inca";13;
-2012;"krr-z6";21;"scab ochr";43;
-2012;"krr-z6";22;"scab ochr";58;
-2012;"krr-z6";23;"scab ochr";57;
-2012;"krr-z6";24;"leon inca";20;
-2012;"krr-z6";25;"leon inca";21;
-2012;"krr-z7";1;"leon inca";14;
-2012;"krr-z7";2;"leon inca";16;
-2012;"krr-z7";3;"gali luci";13;
-2012;"krr-z7";4;"gali luci";67;
-2012;"krr-z7";5;"gali luci";54;
-2012;"krr-z7";6;"bupl falc falc";40;
-2012;"krr-z7";7;"gali luci";20;
-2012;"krr-z7";8;"leon inca";16;
-2012;"krr-z7";9;"gali luci";21;
-2012;"krr-z7";10;"gali luci";50;
-2012;"krr-z7";11;"gali luci";22;
-2012;"krr-z7";12;"gali luci";53;
-2012;"krr-z7";13;"gali luci";43;
-2012;"krr-z7";14;"gali luci";60;
-2012;"krr-z7";15;"gali luci";50;
-2012;"krr-z7";16;"gali luci";39;
-2012;"krr-z7";17;"gali luci";40;
-2012;"krr-z7";18;"gali luci";54;
-2012;"krr-z7";19;"gali luci";18;
-2012;"krr-z7";20;"jovi glob hirt";1;
-2012;"krr-z7";21;"sedu albu";8;
-2012;"krr-z7";22;"gali luci";48;
-2012;"krr-z7";23;"gali luci";40;
-2012;"krr-z7";24;"gali luci";55;
-2012;"krr-z7";25;"gali luci";30;
-2012;"krr-z8";1;"secu vari";40;
-2012;"krr-z8";2;"gali luci";70;
-2012;"krr-z8";3;"gali luci";60;
-2012;"krr-z8";4;"gali luci";67;
-2012;"krr-z8";5;"gali luci";65;
-2012;"krr-z8";6;"gali luci";84;
-2012;"krr-z8";7;"gali luci";70;
-2012;"krr-z8";8;"gali luci";65;
-2012;"krr-z8";9;"gali luci";53;
-2012;"krr-z8";10;"secu vari";39;
-2012;"krr-z8";11;"secu vari";34;
-2012;"krr-z8";12;"gali luci";66;
-2012;"krr-z8";13;"gali luci";67;
-2012;"krr-z8";14;"gali luci";77;
-2012;"krr-z8";15;"gali luci";62;
-2012;"krr-z8";16;"gali luci";70;
-2012;"krr-z8";17;"gali luci";72;
-2012;"krr-z8";18;"gali luci";70;
-2012;"krr-z8";19;"gali luci";64;
-2012;"krr-z8";20;"gali luci";62;
-2012;"krr-z8";21;"secu vari";43;
-2012;"krr-z8";22;"gali luci";45;
-2012;"krr-z8";23;"gali luci";67;
-2012;"krr-z8";24;"gali luci";78;
-2012;"krr-z8";25;"gali luci";54;
+year,plot,cell,abbr,height,comment
+2010,htl-k2,1,teuc cham,8,
+2010,htl-k2,2,sedu albu,9,
+2010,htl-k2,3,sedu albu,7,
+2010,htl-k2,4,empt cell,0,
+2010,htl-k2,5,empt cell,0,
+2010,htl-k2,6,sedu albu,3,
+2010,htl-k2,7,teuc cham,4,
+2010,htl-k2,8,teuc cham,5,
+2010,htl-k2,9,teuc cham,6,
+2010,htl-k2,10,sedu albu,7,
+2010,htl-k2,11,sedu albu,12,
+2010,htl-k2,12,erys sylv,9,
+2010,htl-k2,13,teuc cham,7,
+2010,htl-k2,14,sedu albu,5,
+2010,htl-k2,15,sedu albu,10,
+2010,htl-k2,16,sedu albu,12,
+2010,htl-k2,17,alli lusi,11,
+2010,htl-k2,18,alli lusi,6,
+2010,htl-k2,19,erys sylv,7,
+2010,htl-k2,20,erys sylv,10,
+2010,htl-k2,21,vinc hiru,7,
+2010,htl-k2,22,sedu albu,8,
+2010,htl-k2,23,sedu albu,13,
+2010,htl-k2,24,sedu albu,5,
+2010,htl-k2,25,sedu albu,10,
+2010,htl-k4,1,anth ramo,9,
+2010,htl-k4,2,sedu albu,5,
+2010,htl-k4,3,sedu albu,5,
+2010,htl-k4,4,pelt alli,8,
+2010,htl-k4,5,erys sylv,4,
+2010,htl-k4,6,sedu albu,10,
+2010,htl-k4,7,teuc mont,13,
+2010,htl-k4,8,erys sylv,10,
+2010,htl-k4,9,sedu albu,9,
+2010,htl-k4,10,jovi glob hirt,1,
+2010,htl-k4,11,sedu albu,1,
+2010,htl-k4,12,anth ramo,7,
+2010,htl-k4,13,sedu albu,4,
+2010,htl-k4,14,sedu albu,5,
+2010,htl-k4,15,sedu albu,12,
+2010,htl-k4,16,empt cell,0,
+2010,htl-k4,17,teuc mont,4,
+2010,htl-k4,18,jovi glob hirt,1,
+2010,htl-k4,19,empt cell,0,
+2010,htl-k4,20,jovi glob hirt,1,
+2010,htl-k4,21,empt cell,0,
+2010,htl-k4,22,empt cell,0,
+2010,htl-k4,23,jovi glob hirt,1,
+2010,htl-k4,24,sedu albu,5,
+2010,htl-k4,25,sedu albu,1,
+2010,htl-k6,1,secu vari,12,
+2010,htl-k6,2,anth ramo,11,
+2010,htl-k6,3,vinc hiru,37,
+2010,htl-k6,4,vinc hiru,49,
+2010,htl-k6,5,vinc hiru,51,
+2010,htl-k6,6,anth vuln slat,18,
+2010,htl-k6,7,aren serp,19,
+2010,htl-k6,8,rese lute,23,
+2010,htl-k6,9,anth ramo,16,
+2010,htl-k6,10,echi vulg,12,
+2010,htl-k6,11,vinc hiru,44,
+2010,htl-k6,12,anth vuln slat,20,
+2010,htl-k6,13,rese lute,22,
+2010,htl-k6,14,anth vuln slat,20,
+2010,htl-k6,15,vinc hiru,40,
+2010,htl-k6,16,teuc cham,19,
+2010,htl-k6,17,vinc hiru,42,
+2010,htl-k6,18,vinc hiru,38,
+2010,htl-k6,19,vinc hiru,56,
+2010,htl-k6,20,vinc hiru,39,
+2010,htl-k6,21,vinc hiru,40,
+2010,htl-k6,22,vinc hiru,59,
+2010,htl-k6,23,vinc hiru,45,
+2010,htl-k6,24,vinc hiru,50,
+2010,htl-k6,25,teuc cham,19,
+2010,htl-k8,1,sedu albu,17,
+2010,htl-k8,2,vinc hiru,57,
+2010,htl-k8,3,vinc hiru,54,
+2010,htl-k8,4,vinc hiru,47,
+2010,htl-k8,5,aren serp,7,
+2010,htl-k8,6,vinc hiru,28,
+2010,htl-k8,7,aren serp,15,
+2010,htl-k8,8,vinc hiru,48,
+2010,htl-k8,9,vinc hiru,46,
+2010,htl-k8,10,sedu albu,17,
+2010,htl-k8,11,anth vuln slat,12,
+2010,htl-k8,12,viol tric saxa,13,
+2010,htl-k8,13,vinc hiru,48,
+2010,htl-k8,14,vinc hiru,45,
+2010,htl-k8,15,empt cell,0,
+2010,htl-k8,16,empt cell,0,
+2010,htl-k8,17,vinc hiru,42,
+2010,htl-k8,18,vinc hiru,39,
+2010,htl-k8,19,card nuta nuta,17,
+2010,htl-k8,20,card nuta nuta,20,
+2010,htl-k8,21,card nuta nuta,22,
+2010,htl-k8,22,orig vulg,8,
+2010,htl-k8,23,erys sylv,33,
+2010,htl-k8,24,vinc hiru,43,
+2010,htl-k8,25,jovi glob hirt,1,
+2010,htl-z1,1,pelt alli,27,
+2010,htl-z1,2,pelt alli,28,
+2010,htl-z1,3,aren serp,13,
+2010,htl-z1,4,sedu albu,13,
+2010,htl-z1,5,sedu albu,11,
+2010,htl-z1,6,erys sylv,7,
+2010,htl-z1,7,pelt alli,24,
+2010,htl-z1,8,aren serp,2,
+2010,htl-z1,9,sedu albu,8,
+2010,htl-z1,10,sedu albu,11,
+2010,htl-z1,11,sedu albu,10,
+2010,htl-z1,12,sedu albu,10,
+2010,htl-z1,13,sedu albu,9,
+2010,htl-z1,14,sedu albu,2,
+2010,htl-z1,15,pelt alli,28,
+2010,htl-z1,16,pelt alli,38,
+2010,htl-z1,17,pelt alli,20,
+2010,htl-z1,18,sedu albu,8,
+2010,htl-z1,19,sedu albu,8,
+2010,htl-z1,20,anth ramo,30,
+2010,htl-z1,21,anth ramo,12,
+2010,htl-z1,22,sedu albu,9,
+2010,htl-z1,23,sedu albu,10,
+2010,htl-z1,24,pelt alli,16,
+2010,htl-z1,25,sedu albu,11,
+2010,htl-z2,1,sedu albu,10,
+2010,htl-z2,2,sedu albu,5,
+2010,htl-z2,3,sedu albu,8,
+2010,htl-z2,4,sedu albu,5,
+2010,htl-z2,5,sedu albu,10,
+2010,htl-z2,6,sedu albu,3,
+2010,htl-z2,7,erys sylv,5,
+2010,htl-z2,8,sedu albu,2,
+2010,htl-z2,9,sedu albu,3,
+2010,htl-z2,10,erys sylv,8,
+2010,htl-z2,11,sedu albu,8,
+2010,htl-z2,12,empt cell,0,
+2010,htl-z2,13,sedu albu,3,
+2010,htl-z2,14,sedu albu,5,
+2010,htl-z2,15,sedu albu,9,
+2010,htl-z2,16,sedu albu,6,
+2010,htl-z2,17,erys sylv,25,
+2010,htl-z2,18,sedu albu,5,
+2010,htl-z2,19,aren serp,13,
+2010,htl-z2,20,aren serp,8,
+2010,htl-z2,21,aren serp,7,
+2010,htl-z2,22,erys sylv,1,
+2010,htl-z2,23,sese aust,7,
+2010,htl-z2,24,anth ramo,18,
+2010,htl-z2,25,erys sylv,10,
+2010,htl-z3,1,sedu albu,13,
+2010,htl-z3,2,sedu albu,10,
+2010,htl-z3,3,sedu albu,12,
+2010,htl-z3,4,sedu albu,10,
+2010,htl-z3,5,poa prat,50,
+2010,htl-z3,6,poa prat,45,
+2010,htl-z3,7,poa prat,34,
+2010,htl-z3,8,sedu albu,17,
+2010,htl-z3,9,poa prat,28,
+2010,htl-z3,10,pelt alli,30,
+2010,htl-z3,11,poa prat,33,
+2010,htl-z3,12,aren serp,14,
+2010,htl-z3,13,sedu albu,7,
+2010,htl-z3,14,poa prat,47,
+2010,htl-z3,15,poa prat,44,
+2010,htl-z3,16,hype perf,14,
+2010,htl-z3,17,hype perf,31,
+2010,htl-z3,18,sedu albu,12,
+2010,htl-z3,19,poa prat,26,
+2010,htl-z3,20,poa prat,12,
+2010,htl-z3,21,poa prat,29,
+2010,htl-z3,22,poa prat,31,
+2010,htl-z3,23,poa prat,47,
+2010,htl-z3,24,poa prat,41,
+2010,htl-z3,25,sedu albu,13,
+2010,htl-z4,1,teuc cham,7,
+2010,htl-z4,2,vinc hiru,59,
+2010,htl-z4,3,aren serp,20,
+2010,htl-z4,4,aren serp,15,
+2010,htl-z4,5,sedu albu,7,
+2010,htl-z4,6,heli numm obsc,17,
+2010,htl-z4,7,teuc cham,13,
+2010,htl-z4,8,anth ramo,28,
+2010,htl-z4,9,vinc hiru,53,
+2010,htl-z4,10,vinc hiru,61,
+2010,htl-z4,11,acon anth,35,
+2010,htl-z4,12,meli cili,25,
+2010,htl-z4,13,meli cili,72,
+2010,htl-z4,14,heli numm obsc,20,
+2010,htl-z4,15,sedu albu,15,
+2010,htl-z4,16,heli numm obsc,20,
+2010,htl-z4,17,heli numm obsc,15,
+2010,htl-z4,18,meli cili,68,
+2010,htl-z4,19,vinc hiru,37,
+2010,htl-z4,20,acon anth,27,
+2010,htl-z4,21,aren serp,17,
+2010,htl-z4,22,aren serp,14,
+2010,htl-z4,23,heli numm obsc,24,
+2010,htl-z4,24,orig vulg,12,
+2010,htl-z4,25,sedu albu,13,
+2010,krr-k5,1,sedu albu,1,
+2010,krr-k5,2,gali luci,4,
+2010,krr-k5,3,jovi glob hirt,1,
+2010,krr-k5,4,jovi glob hirt,1,
+2010,krr-k5,5,empt cell,0,
+2010,krr-k5,6,aren serp,3,
+2010,krr-k5,7,aren serp,2,
+2010,krr-k5,8,jovi glob hirt,1,
+2010,krr-k5,9,sedu albu,2,
+2010,krr-k5,10,sedu albu,4,
+2010,krr-k5,11,empt cell,0,
+2010,krr-k5,12,sedu albu,1,
+2010,krr-k5,13,aren serp,4,
+2010,krr-k5,14,sedu albu,6,
+2010,krr-k5,15,sedu albu,2,
+2010,krr-k5,16,sedu albu,3,
+2010,krr-k5,17,empt cell,0,
+2010,krr-k5,18,empt cell,0,
+2010,krr-k5,19,empt cell,0,
+2010,krr-k5,20,teuc mont,6,
+2010,krr-k5,21,empt cell,0,
+2010,krr-k5,22,sedu albu,4,
+2010,krr-k5,23,sedu albu,5,
+2010,krr-k5,24,euph cypa,12,
+2010,krr-k5,25,empt cell,0,
+2010,krr-k6,1,ajug gene,4,
+2010,krr-k6,2,teuc mont,5,
+2010,krr-k6,3,sedu albu,5,
+2010,krr-k6,4,leon inca,7,
+2010,krr-k6,5,sedu albu,3,
+2010,krr-k6,6,sedu albu,5,
+2010,krr-k6,7,sedu albu,4,
+2010,krr-k6,8,bupl falc falc,7,
+2010,krr-k6,9,sedu albu,3,
+2010,krr-k6,10,sedu albu,2,
+2010,krr-k6,11,sedu albu,7,
+2010,krr-k6,12,sedu albu,3,
+2010,krr-k6,13,sedu albu,3,
+2010,krr-k6,14,teuc mont,4,
+2010,krr-k6,15,sedu albu,8,
+2010,krr-k6,16,sedu albu,4,
+2010,krr-k6,17,rese lute,11,
+2010,krr-k6,18,sedu albu,4,
+2010,krr-k6,19,sedu albu,8,
+2010,krr-k6,20,sedu albu,6,
+2010,krr-k6,21,sedu albu,3,
+2010,krr-k6,22,sedu albu,7,
+2010,krr-k6,23,jovi glob hirt,1,
+2010,krr-k6,24,rese lute,8,
+2010,krr-k6,25,empt cell,0,
+2010,krr-k7,1,sedu albu,2,
+2010,krr-k7,2,sedu albu,3,
+2010,krr-k7,3,clin acin,7,
+2010,krr-k7,4,erys sylv,6,
+2010,krr-k7,5,erys sylv,9,
+2010,krr-k7,6,erys sylv,11,
+2010,krr-k7,7,alli lusi,7,
+2010,krr-k7,8,jovi glob hirt,1,
+2010,krr-k7,9,jovi glob hirt,1,
+2010,krr-k7,10,aren serp,4,
+2010,krr-k7,11,sedu albu,5,
+2010,krr-k7,12,jovi glob hirt,1,
+2010,krr-k7,13,jovi glob hirt,1,
+2010,krr-k7,14,alli lusi,3,
+2010,krr-k7,15,erys sylv,16,
+2010,krr-k7,16,jovi glob hirt,1,
+2010,krr-k7,17,aren serp,3,
+2010,krr-k7,18,jovi glob hirt,1,
+2010,krr-k7,19,rese lute,13,
+2010,krr-k7,20,rese lute,10,
+2010,krr-k7,21,jovi glob hirt,1,
+2010,krr-k7,22,jovi glob hirt,1,
+2010,krr-k7,23,sedu albu,3,
+2010,krr-k7,24,jovi glob hirt,1,
+2010,krr-k7,25,jovi glob hirt,1,
+2010,krr-k8,1,clin acin,5,
+2010,krr-k8,2,jovi glob hirt,2,
+2010,krr-k8,3,jovi glob hirt,2,
+2010,krr-k8,4,care humi,6,
+2010,krr-k8,5,care humi,7,
+2010,krr-k8,6,sedu albu,11,
+2010,krr-k8,7,sedu albu,11,
+2010,krr-k8,8,pelt alli,19,
+2010,krr-k8,9,jovi glob hirt,1,
+2010,krr-k8,10,sedu albu,4,
+2010,krr-k8,11,sedu albu,7,
+2010,krr-k8,12,pelt alli,19,
+2010,krr-k8,13,sedu albu,15,
+2010,krr-k8,14,aren serp,5,
+2010,krr-k8,15,sedu albu,6,
+2010,krr-k8,16,sedu albu,10,
+2010,krr-k8,17,sedu albu,8,
+2010,krr-k8,18,sedu albu,10,
+2010,krr-k8,19,sedu albu,3,
+2010,krr-k8,20,jovi glob hirt,1,
+2010,krr-k8,21,sedu albu,3,
+2010,krr-k8,22,sedu albu,10,
+2010,krr-k8,23,sedu albu,9,
+2010,krr-k8,24,rese lute,5,
+2010,krr-k8,25,rese lute,7,
+2010,krr-z1,1,teuc cham,6,
+2010,krr-z1,2,teuc mont,8,
+2010,krr-z1,3,verb thap,10,
+2010,krr-z1,4,sedu albu,7,
+2010,krr-z1,5,sedu albu,10,
+2010,krr-z1,6,meli cili,20,
+2010,krr-z1,7,sedu albu,3,
+2010,krr-z1,8,leon inca,8,
+2010,krr-z1,9,alli lusi,13,
+2010,krr-z1,10,alli lusi,3,
+2010,krr-z1,11,jovi glob hirt,2,
+2010,krr-z1,12,jovi glob hirt,1,
+2010,krr-z1,13,rese lute,13,
+2010,krr-z1,14,leon inca,11,
+2010,krr-z1,15,sedu albu,2,
+2010,krr-z1,16,jovi glob hirt,1,
+2010,krr-z1,17,aren serp,10,
+2010,krr-z1,18,tara sect rude,3,
+2010,krr-z1,19,alli lusi,9,
+2010,krr-z1,20,alli lusi,9,
+2010,krr-z1,21,jovi glob hirt,1,
+2010,krr-z1,22,sedu albu,3,
+2010,krr-z1,23,alli lusi,11,
+2010,krr-z1,24,scab ochr,10,
+2010,krr-z1,25,scab ochr,41,
+2010,krr-z2,1,sedu albu,11,
+2010,krr-z2,2,sedu albu,12,
+2010,krr-z2,3,empt cell,0,
+2010,krr-z2,4,brom tect,8,
+2010,krr-z2,5,sedu albu,10,
+2010,krr-z2,6,sedu albu,9,
+2010,krr-z2,7,empt cell,0,
+2010,krr-z2,8,jovi glob hirt,1,
+2010,krr-z2,9,sedu albu,5,
+2010,krr-z2,10,sedu albu,10,
+2010,krr-z2,11,sedu albu,11,
+2010,krr-z2,12,sedu albu,8,
+2010,krr-z2,13,sedu albu,8,
+2010,krr-z2,14,jovi glob hirt,1,
+2010,krr-z2,15,gali luci,12,
+2010,krr-z2,16,sedu albu,9,
+2010,krr-z2,17,jovi glob hirt,1,
+2010,krr-z2,18,jovi glob hirt,1,
+2010,krr-z2,19,empt cell,0,
+2010,krr-z2,20,jovi glob hirt,1,
+2010,krr-z2,21,sedu albu,10,
+2010,krr-z2,22,erys sylv,11,
+2010,krr-z2,23,jovi glob hirt,1,
+2010,krr-z2,24,jovi glob hirt,1,
+2010,krr-z2,25,sedu albu,7,
+2010,krr-z3,1,sedu albu,9,
+2010,krr-z3,2,vinc hiru,24,
+2010,krr-z3,3,vinc hiru,19,
+2010,krr-z3,4,vinc hiru,15,
+2010,krr-z3,5,meli cili,30,
+2010,krr-z3,6,vinc hiru,40,
+2010,krr-z3,7,vinc hiru,24,
+2010,krr-z3,8,vinc hiru,45,
+2010,krr-z3,9,care humi,15,
+2010,krr-z3,10,care humi,14,
+2010,krr-z3,11,care humi,21,
+2010,krr-z3,12,vinc hiru,20,
+2010,krr-z3,13,vinc hiru,38,
+2010,krr-z3,14,vinc hiru,28,
+2010,krr-z3,15,vinc hiru,42,
+2010,krr-z3,16,vinc hiru,38,
+2010,krr-z3,17,vinc hiru,40,
+2010,krr-z3,18,vinc hiru,38,
+2010,krr-z3,19,care humi,18,
+2010,krr-z3,20,care humi,14,
+2010,krr-z3,21,sedu albu,3,
+2010,krr-z3,22,aren serp,6,
+2010,krr-z3,23,care humi,20,
+2010,krr-z3,24,vinc hiru,25,
+2010,krr-z3,25,care humi,26,
+2010,krr-z4,1,gali luci,23,
+2010,krr-z4,2,aren serp,13,
+2010,krr-z4,3,sedu albu,11,
+2010,krr-z4,4,euph cypa,13,
+2010,krr-z4,5,sesl caer,11,
+2010,krr-z4,6,sesl caer,6,
+2010,krr-z4,7,sedu albu,7,
+2010,krr-z4,8,sedu albu,4,
+2010,krr-z4,9,sedu albu,3,
+2010,krr-z4,10,erys sylv,5,
+2010,krr-z4,11,erys sylv,8,
+2010,krr-z4,12,care humi,10,
+2010,krr-z4,13,teuc mont,8,
+2010,krr-z4,14,sedu albu,9,
+2010,krr-z4,15,sedu albu,2,
+2010,krr-z4,16,sedu albu,2,
+2010,krr-z4,17,sedu albu,4,
+2010,krr-z4,18,jovi glob hirt,2,
+2010,krr-z4,19,teuc mont,3,
+2010,krr-z4,20,anch offi,5,
+2010,krr-z4,21,sedu albu,3,
+2010,krr-z4,22,sedu albu,9,
+2010,krr-z4,23,meli cili,26,
+2010,krr-z4,24,meli cili,17,
+2010,krr-z4,25,sedu albu,2,
+2010,htl-k1,1,aren serp,14,
+2010,htl-k1,2,heli numm glab,6,
+2010,htl-k1,3,teuc cham,7,
+2010,htl-k1,4,anth ramo,7,
+2010,htl-k1,5,sedu albu,3,
+2010,htl-k1,6,sedu albu,4,
+2010,htl-k1,7,anth ramo,5,
+2010,htl-k1,8,hack defl,32,
+2010,htl-k1,9,hack defl,21,
+2010,htl-k1,10,hack defl,23,
+2010,htl-k1,11,hack defl,22,
+2010,htl-k1,12,hack defl,24,
+2010,htl-k1,13,hack defl,39,
+2010,htl-k1,14,aren serp,12,
+2010,htl-k1,15,sedu albu,3,
+2010,htl-k1,16,sedu albu,4,
+2010,htl-k1,17,teuc cham,5,
+2010,htl-k1,18,aren serp,8,
+2010,htl-k1,19,erys sylv,36,
+2010,htl-k1,20,hack defl,27,
+2010,htl-k1,21,heli numm glab,12,
+2010,htl-k1,22,erys sylv,18,
+2010,htl-k1,23,teuc cham,11,
+2010,htl-k1,24,aren serp,13,
+2010,htl-k1,25,sedu albu,7,
+2010,htl-k3,1,hype perf,8,
+2010,htl-k3,2,empt cell,0,
+2010,htl-k3,3,aren serp,5,
+2010,htl-k3,4,empt cell,0,
+2010,htl-k3,5,sedu albu,5,
+2010,htl-k3,6,sedu albu,5,
+2010,htl-k3,7,anth ramo,5,
+2010,htl-k3,8,aren serp,9,
+2010,htl-k3,9,aren serp,4,
+2010,htl-k3,10,empt cell,0,
+2010,htl-k3,11,hype perf,5,
+2010,htl-k3,12,aren serp,10,
+2010,htl-k3,13,aren serp,7,
+2010,htl-k3,14,anth ramo,6,
+2010,htl-k3,15,card nuta nuta,17,
+2010,htl-k3,16,card nuta nuta,16,
+2010,htl-k3,17,card nuta nuta,16,
+2010,htl-k3,18,aren serp,12,
+2010,htl-k3,19,aren serp,11,
+2010,htl-k3,20,sedu albu,2,
+2010,htl-k3,21,jovi glob hirt,3,
+2010,htl-k3,22,empt cell,0,
+2010,htl-k3,23,empt cell,0,
+2010,htl-k3,24,card nuta nuta,4,
+2010,htl-k3,25,card nuta nuta,7,
+2010,htl-k5,1,empt cell,0,
+2010,htl-k5,2,empt cell,0,
+2010,htl-k5,3,sedu albu,5,
+2010,htl-k5,4,aren serp,6,
+2010,htl-k5,5,sedu albu,11,
+2010,htl-k5,6,aren serp,9,
+2010,htl-k5,7,aren serp,6,
+2010,htl-k5,8,sedu albu,2,
+2010,htl-k5,9,empt cell,0,
+2010,htl-k5,10,empt cell,0,
+2010,htl-k5,11,sedu albu,3,
+2010,htl-k5,12,sedu albu,2,
+2010,htl-k5,13,sedu albu,4,
+2010,htl-k5,14,sedu albu,3,
+2010,htl-k5,15,sedu albu,9,
+2010,htl-k5,16,sedu albu,10,
+2010,htl-k5,17,sedu albu,11,
+2010,htl-k5,18,aren serp,10,
+2010,htl-k5,19,aren serp,13,
+2010,htl-k5,20,aren serp,8,
+2010,htl-k5,21,sedu albu,10,
+2010,htl-k5,22,sedu albu,12,
+2010,htl-k5,23,aren serp,14,
+2010,htl-k5,24,sedu albu,12,
+2010,htl-k5,25,sedu albu,2,
+2010,htl-k7,1,empt cell,0,
+2010,htl-k7,2,sedu albu,4,
+2010,htl-k7,3,aren serp,7,
+2010,htl-k7,4,aren serp,6,
+2010,htl-k7,5,empt cell,0,
+2010,htl-k7,6,empt cell,0,
+2010,htl-k7,7,sedu albu,2,
+2010,htl-k7,8,sedu albu,5,
+2010,htl-k7,9,sedu albu,3,
+2010,htl-k7,10,empt cell,0,
+2010,htl-k7,11,pelt alli,2,
+2010,htl-k7,12,sedu albu,4,
+2010,htl-k7,13,sedu albu,3,
+2010,htl-k7,14,sedu albu,8,
+2010,htl-k7,15,sedu albu,9,
+2010,htl-k7,16,teuc mont,5,
+2010,htl-k7,17,erys sylv,6,
+2010,htl-k7,18,anth ramo,16,
+2010,htl-k7,19,erys sylv,5,
+2010,htl-k7,20,jovi glob hirt,1,
+2010,htl-k7,21,sedu albu,4,
+2010,htl-k7,22,sedu albu,10,
+2010,htl-k7,23,anth ramo,12,
+2010,htl-k7,24,erys sylv,5,
+2010,htl-k7,25,aren serp,7,
+2010,htl-z5,1,aren serp,12,
+2010,htl-z5,2,sedu albu,10,
+2010,htl-z5,3,aspe cyna,14,
+2010,htl-z5,4,sedu albu,14,
+2010,htl-z5,5,aspe cyna,22,
+2010,htl-z5,6,sedu albu,13,
+2010,htl-z5,7,aspe cyna,22,
+2010,htl-z5,8,tara sect rude,10,
+2010,htl-z5,9,rese lute,10,
+2010,htl-z5,10,rese lute,19,
+2010,htl-z5,11,rese lute,9,
+2010,htl-z5,12,erys sylv,20,
+2010,htl-z5,13,tara sect rude,10,
+2010,htl-z5,14,tara sect rude,10,
+2010,htl-z5,15,aren serp,10,
+2010,htl-z5,16,aren serp,11,
+2010,htl-z5,17,heli numm obsc,8,
+2010,htl-z5,18,anth ramo,46,
+2010,htl-z5,19,anth ramo,51,
+2010,htl-z5,20,erys sylv,16,
+2010,htl-z5,21,heli numm obsc,10,
+2010,htl-z5,22,anth ramo,27,
+2010,htl-z5,23,heli numm obsc,13,
+2010,htl-z5,24,heli numm obsc,9,
+2010,htl-z5,25,aren serp,12,
+2010,htl-z6,1,hack defl,12,
+2010,htl-z6,2,sedu albu,13,
+2010,htl-z6,3,aren serp,9,
+2010,htl-z6,4,aren serp,13,
+2010,htl-z6,5,orig vulg,24,
+2010,htl-z6,6,sedu albu,16,
+2010,htl-z6,7,aren serp,17,
+2010,htl-z6,8,sedu albu,13,
+2010,htl-z6,9,aren serp,16,
+2010,htl-z6,10,aren serp,19,
+2010,htl-z6,11,aren serp,8,
+2010,htl-z6,12,aren serp,13,
+2010,htl-z6,13,aren serp,15,
+2010,htl-z6,14,aren serp,20,
+2010,htl-z6,15,aren serp,20,
+2010,htl-z6,16,aren serp,14,
+2010,htl-z6,17,aren serp,11,
+2010,htl-z6,18,aren serp,14,
+2010,htl-z6,19,aren serp,20,
+2010,htl-z6,20,aren serp,16,
+2010,htl-z6,21,aren serp,11,
+2010,htl-z6,22,aren serp,14,
+2010,htl-z6,23,aren serp,6,
+2010,htl-z6,24,aren serp,5,
+2010,htl-z6,25,aren serp,13,
+2010,htl-z7,1,aren serp,16,
+2010,htl-z7,2,aren serp,17,
+2010,htl-z7,3,aren serp,19,
+2010,htl-z7,4,aren serp,20,
+2010,htl-z7,5,aren serp,17,
+2010,htl-z7,6,vinc hiru,66,
+2010,htl-z7,7,aren serp,26,
+2010,htl-z7,8,aren serp,24,
+2010,htl-z7,9,aren serp,18,
+2010,htl-z7,10,aren serp,19,
+2010,htl-z7,11,aren serp,19,
+2010,htl-z7,12,aren serp,21,
+2010,htl-z7,13,aren serp,22,
+2010,htl-z7,14,vinc hiru,59,
+2010,htl-z7,15,aren serp,59,
+2010,htl-z7,16,aren serp,56,
+2010,htl-z7,17,aren serp,49,
+2010,htl-z7,18,aren serp,17,
+2010,htl-z7,19,aren serp,16,
+2010,htl-z7,20,aren serp,20,
+2010,htl-z7,21,aren serp,14,
+2010,htl-z7,22,aren serp,17,
+2010,htl-z7,23,vinc hiru,61,
+2010,htl-z7,24,vinc hiru,59,
+2010,htl-z7,25,aren serp,14,
+2010,htl-z8,1,fuma schl,12,
+2010,htl-z8,2,fuma schl,9,
+2010,htl-z8,3,tara sect rude,13,
+2010,htl-z8,4,tara sect rude,18,
+2010,htl-z8,5,tara sect rude,13,
+2010,htl-z8,6,rese lute,19,
+2010,htl-z8,7,vinc hiru,45,
+2010,htl-z8,8,vinc hiru,44,
+2010,htl-z8,9,tara sect rude,17,
+2010,htl-z8,10,tara sect rude,17,
+2010,htl-z8,11,aren serp,16,
+2010,htl-z8,12,vinc hiru,44,
+2010,htl-z8,13,vinc hiru,36,
+2010,htl-z8,14,vinc hiru,35,
+2010,htl-z8,15,vinc hiru,49,
+2010,htl-z8,16,vinc hiru,56,
+2010,htl-z8,17,vinc hiru,54,
+2010,htl-z8,18,tara sect rude,32,
+2010,htl-z8,19,aren serp,29,
+2010,htl-z8,20,aren serp,14,
+2010,htl-z8,21,aren serp,22,
+2010,htl-z8,22,rese lute,44,
+2010,htl-z8,23,vinc hiru,48,
+2010,htl-z8,24,vinc hiru,53,
+2010,htl-z8,25,vinc hiru,54,
+2010,krr-z5,1,aren serp,5,
+2010,krr-z5,2,sedu albu,4,
+2010,krr-z5,3,sedu albu,10,
+2010,krr-z5,4,aren serp,7,
+2010,krr-z5,5,aren serp,9,
+2010,krr-z5,6,scab ochr,49,
+2010,krr-z5,7,scab ochr,46,
+2010,krr-z5,8,sedu albu,10,
+2010,krr-z5,9,sedu albu,10,
+2010,krr-z5,10,aren serp,10,
+2010,krr-z5,11,aren serp,13,
+2010,krr-z5,12,sese aust,13,
+2010,krr-z5,13,sese aust,15,
+2010,krr-z5,14,scab ochr,35,
+2010,krr-z5,15,scab ochr,32,
+2010,krr-z5,16,sedu albu,8,
+2010,krr-z5,17,sese aust,13,
+2010,krr-z5,18,sese aust,17,
+2010,krr-z5,19,care humi,13,
+2010,krr-z5,20,alli lusi,13,
+2010,krr-z5,21,care humi,18,
+2010,krr-z5,22,care humi,20,
+2010,krr-z5,23,care humi,17,
+2010,krr-z5,24,aren serp,13,
+2010,krr-z5,25,care humi,15,
+2010,krr-z6,1,fuma schl,8,
+2010,krr-z6,2,jovi glob hirt,1,
+2010,krr-z6,3,sedu albu,12,
+2010,krr-z6,4,sedu albu,13,
+2010,krr-z6,5,sedu albu,2,
+2010,krr-z6,6,gali luci,20,
+2010,krr-z6,7,lact vimi,90,
+2010,krr-z6,8,gali luci,50,
+2010,krr-z6,9,sedu albu,12,
+2010,krr-z6,10,aren serp,10,
+2010,krr-z6,11,jovi glob hirt,1,
+2010,krr-z6,12,lina geni,61,
+2010,krr-z6,13,gali luci,34,
+2010,krr-z6,14,lact vimi,89,
+2010,krr-z6,15,lact vimi,64,
+2010,krr-z6,16,leon inca,11,
+2010,krr-z6,17,lact vimi,60,
+2010,krr-z6,18,lact vimi,66,
+2010,krr-z6,19,lina geni,60,
+2010,krr-z6,20,sedu albu,14,
+2010,krr-z6,21,sedu albu,7,
+2010,krr-z6,22,jovi glob hirt,1,
+2010,krr-z6,23,aren serp,14,
+2010,krr-z6,24,sedu albu,13,
+2010,krr-z6,25,sedu albu,13,
+2010,krr-z7,1,card nuta nuta,45,
+2010,krr-z7,2,leon inca,11,
+2010,krr-z7,3,leon inca,15,
+2010,krr-z7,4,leon inca,15,
+2010,krr-z7,5,gali luci,15,
+2010,krr-z7,6,bupl falc falc,30,
+2010,krr-z7,7,gali luci,26,
+2010,krr-z7,8,gali luci,18,
+2010,krr-z7,9,rese lute,22,
+2010,krr-z7,10,card nuta nuta,34,
+2010,krr-z7,11,jovi glob hirt,1,
+2010,krr-z7,12,sedu albu,5,
+2010,krr-z7,13,sedu albu,7,
+2010,krr-z7,14,bupl falc falc,33,
+2010,krr-z7,15,sedu albu,6,
+2010,krr-z7,16,sedu albu,4,
+2010,krr-z7,17,sedu albu,7,
+2010,krr-z7,18,sedu albu,9,
+2010,krr-z7,19,sedu albu,2,
+2010,krr-z7,20,sedu albu,5,
+2010,krr-z7,21,sedu albu,8,
+2010,krr-z7,22,sedu albu,6,
+2010,krr-z7,23,sedu albu,10,
+2010,krr-z7,24,sedu albu,11,
+2010,krr-z7,25,jovi glob hirt,1,
+2010,krr-k1,1,empt cell,0,
+2010,krr-k1,2,empt cell,0,
+2010,krr-k1,3,empt cell,0,
+2010,krr-k1,4,empt cell,0,
+2010,krr-k1,5,empt cell,0,
+2010,krr-k1,6,empt cell,0,
+2010,krr-k1,7,sedu albu,5,
+2010,krr-k1,8,sedu albu,3,
+2010,krr-k1,9,jovi glob hirt,1,
+2010,krr-k1,10,jovi glob hirt,1,
+2010,krr-k1,11,empt cell,0,
+2010,krr-k1,12,card nuta nuta,4,
+2010,krr-k1,13,card nuta nuta,26,
+2010,krr-k1,14,jovi glob hirt,1,
+2010,krr-k1,15,alli lusi,6,
+2010,krr-k1,16,sedu albu,4,
+2010,krr-k1,17,sedu albu,10,
+2010,krr-k1,18,card nuta nuta,16,
+2010,krr-k1,19,card nuta nuta,22,
+2010,krr-k1,20,sedu albu,6,
+2010,krr-k1,21,empt cell,0,
+2010,krr-k1,22,sedu albu,11,
+2010,krr-k1,23,sedu albu,11,
+2010,krr-k1,24,sedu albu,10,
+2010,krr-k1,25,sedu albu,2,
+2010,krr-k2,1,aren serp,8,
+2010,krr-k2,2,anch offi,7,
+2010,krr-k2,3,aren serp,8,
+2010,krr-k2,4,aren serp,8,
+2010,krr-k2,5,sedu albu,2,
+2010,krr-k2,6,jovi glob hirt,1,
+2010,krr-k2,7,rese lute,13,
+2010,krr-k2,8,rese lute,24,
+2010,krr-k2,9,rese lute,11,
+2010,krr-k2,10,anch offi,10,
+2010,krr-k2,11,anch offi,12,
+2010,krr-k2,12,rese lute,16,
+2010,krr-k2,13,rese lute,25,
+2010,krr-k2,14,rese lute,23,
+2010,krr-k2,15,sedu albu,2,
+2010,krr-k2,16,bupl falc falc,6,
+2010,krr-k2,17,rese lute,18,
+2010,krr-k2,18,rese lute,23,
+2010,krr-k2,19,rese lute,31,
+2010,krr-k2,20,anch offi,8,
+2010,krr-k2,21,teuc mont,7,
+2010,krr-k2,22,teuc mont,4,
+2010,krr-k2,23,bupl falc falc,3,
+2010,krr-k2,24,sedu albu,3,
+2010,krr-k2,25,empt cell,0,
+2010,krr-k3,1,erys sylv,7,
+2010,krr-k3,2,echi vulg,2,
+2010,krr-k3,3,sedu albu,9,
+2010,krr-k3,4,sedu albu,5,
+2010,krr-k3,5,sedu albu,4,
+2010,krr-k3,6,gali luci,7,
+2010,krr-k3,7,sedu albu,3,
+2010,krr-k3,8,sedu albu,6,
+2010,krr-k3,9,jovi glob hirt,1,
+2010,krr-k3,10,sedu albu,8,
+2010,krr-k3,11,sedu albu,13,
+2010,krr-k3,12,sedu albu,11,
+2010,krr-k3,13,aren serp,13,
+2010,krr-k3,14,anch offi,8,
+2010,krr-k3,15,alli lusi,7,
+2010,krr-k3,16,verb offi,9,
+2010,krr-k3,17,verb offi,7,
+2010,krr-k3,18,sedu albu,10,
+2010,krr-k3,19,sedu albu,7,
+2010,krr-k3,20,sedu albu,9,
+2010,krr-k3,21,sedu albu,8,
+2010,krr-k3,22,sedu albu,10,
+2010,krr-k3,23,aren serp,4,
+2010,krr-k3,24,aren serp,11,
+2010,krr-k3,25,sedu albu,7,
+2010,krr-k4,1,sedu albu,10,
+2010,krr-k4,2,aren serp,9,
+2010,krr-k4,3,meli cili,42,
+2010,krr-k4,4,aren serp,10,
+2010,krr-k4,5,aren serp,9,
+2010,krr-k4,6,sedu albu,9,
+2010,krr-k4,7,vinc hiru,26,
+2010,krr-k4,8,vinc hiru,32,
+2010,krr-k4,9,vinc hiru,47,
+2010,krr-k4,10,vinc hiru,46,
+2010,krr-k4,11,sedu albu,12,
+2010,krr-k4,12,sedu albu,11,
+2010,krr-k4,13,vinc hiru,36,
+2010,krr-k4,14,vinc hiru,40,
+2010,krr-k4,15,vinc hiru,19,
+2010,krr-k4,16,aren serp,7,
+2010,krr-k4,17,sedu albu,9,
+2010,krr-k4,18,aren serp,5,
+2010,krr-k4,19,alli lusi,12,
+2010,krr-k4,20,medi lupu,7,
+2010,krr-k4,21,sedu albu,4,
+2010,krr-k4,22,sedu albu,7,
+2010,krr-k4,23,sedu albu,8,
+2010,krr-k4,24,sedu albu,8,
+2010,krr-k4,25,jovi glob hirt,1,
+2010,krr-z8,1,sedu albu,19,
+2010,krr-z8,2,gali luci,34,
+2010,krr-z8,3,sedu albu,10,
+2010,krr-z8,4,sedu albu,9,
+2010,krr-z8,5,sedu albu,3,
+2010,krr-z8,6,sedu albu,9,
+2010,krr-z8,7,sedu albu,11,
+2010,krr-z8,8,sedu albu,11,
+2010,krr-z8,9,sedu albu,8,
+2010,krr-z8,10,secu vari,56,
+2010,krr-z8,11,secu vari,49,
+2010,krr-z8,12,secu vari,51,
+2010,krr-z8,13,sedu albu,10,
+2010,krr-z8,14,sedu albu,9,
+2010,krr-z8,15,sedu albu,6,
+2010,krr-z8,16,sedu albu,3,
+2010,krr-z8,17,sedu albu,7,
+2010,krr-z8,18,sedu albu,3,
+2010,krr-z8,19,jovi glob hirt,1,
+2010,krr-z8,20,sedu albu,5,
+2010,krr-z8,21,jovi glob hirt,2,
+2010,krr-z8,22,sedu albu,5,
+2010,krr-z8,23,sedu albu,4,
+2010,krr-z8,24,sedu albu,3,
+2010,krr-z8,25,jovi glob hirt,1,
+2011,htl-k1,1,ajug gene,5,
+2011,htl-k1,2,teuc cham,5,
+2011,htl-k1,3,erys sylv,7,
+2011,htl-k1,4,ajug gene,7,
+2011,htl-k1,5,erys sylv,5,
+2011,htl-k1,6,sedu albu,4,
+2011,htl-k1,7,card nuta nuta,7,
+2011,htl-k1,8,teuc cham,13,
+2011,htl-k1,9,card nuta nuta,25,
+2011,htl-k1,10,card nuta nuta,20,
+2011,htl-k1,11,card nuta nuta,33,
+2011,htl-k1,12,card nuta nuta,40,
+2011,htl-k1,13,card nuta nuta,12,
+2011,htl-k1,14,card nuta nuta,12,
+2011,htl-k1,15,teuc cham,9,
+2011,htl-k1,16,sedu albu,4,
+2011,htl-k1,17,hack defl,11,
+2011,htl-k1,18,card nuta nuta,16,
+2011,htl-k1,19,aren serp,14,
+2011,htl-k1,20,hack defl,30,
+2011,htl-k1,21,teuc cham,15,
+2011,htl-k1,22,sedu albu,16,
+2011,htl-k1,23,teuc cham,17,
+2011,htl-k1,24,teuc mont,8,
+2011,htl-k1,25,sedu albu,1,
+2011,htl-k2,1,sedu albu,13,
+2011,htl-k2,2,sedu albu,10,
+2011,htl-k2,3,sedu albu,8,
+2011,htl-k2,4,sedu albu,10,
+2011,htl-k2,5,sedu albu,6,
+2011,htl-k2,6,sedu albu,1,
+2011,htl-k2,7,echi vulg,4,
+2011,htl-k2,8,echi vulg,9,
+2011,htl-k2,9,sedu albu,10,
+2011,htl-k2,10,sedu albu,9,
+2011,htl-k2,11,sedu albu,10,
+2011,htl-k2,12,echi vulg,10,
+2011,htl-k2,13,echi vulg,11,
+2011,htl-k2,14,echi vulg,9,
+2011,htl-k2,15,erys sylv,3,
+2011,htl-k2,16,sedu albu,11,
+2011,htl-k2,17,sedu albu,10,
+2011,htl-k2,18,sedu albu,9,
+2011,htl-k2,19,sedu albu,7,
+2011,htl-k2,20,sedu albu,10,
+2011,htl-k2,21,sedu albu,3,
+2011,htl-k2,22,sedu albu,2,
+2011,htl-k2,23,sedu albu,13,
+2011,htl-k2,24,sedu albu,14,
+2011,htl-k2,25,sedu albu,13,
+2011,htl-k3,1,teuc mont,2,
+2011,htl-k3,2,hype perf,8,
+2011,htl-k3,3,empt cell,0,
+2011,htl-k3,4,empt cell,0,
+2011,htl-k3,5,sedu albu,9,
+2011,htl-k3,6,sedu albu,3,
+2011,htl-k3,7,jovi glob hirt,1,
+2011,htl-k3,8,empt cell,0,
+2011,htl-k3,9,empt cell,0,
+2011,htl-k3,10,empt cell,0,
+2011,htl-k3,11,empt cell,0,
+2011,htl-k3,12,empt cell,0,
+2011,htl-k3,13,sedu albu,9,
+2011,htl-k3,14,sedu albu,8,
+2011,htl-k3,15,jovi glob hirt,1,
+2011,htl-k3,16,jovi glob hirt,1,
+2011,htl-k3,17,jovi glob hirt,2,
+2011,htl-k3,18,empt cell,0,
+2011,htl-k3,19,sedu albu,9,
+2011,htl-k3,20,hype perf,6,
+2011,htl-k3,21,sedu albu,10,
+2011,htl-k3,22,sedu albu,13,
+2011,htl-k3,23,empt cell,0,
+2011,htl-k3,24,empt cell,0,
+2011,htl-k3,25,sedu albu,2,
+2011,htl-k4,1,orig vulg,7,
+2011,htl-k4,2,aren serp,10,
+2011,htl-k4,3,teuc cham,11,
+2011,htl-k4,4,sedu albu,8,
+2011,htl-k4,5,jovi glob hirt,1,
+2011,htl-k4,6,sedu albu,7,
+2011,htl-k4,7,sedu albu,10,
+2011,htl-k4,8,sedu albu,10,
+2011,htl-k4,9,anth ramo,16,
+2011,htl-k4,10,card nuta nuta,6,
+2011,htl-k4,11,sedu albu,2,
+2011,htl-k4,12,anth ramo,4,
+2011,htl-k4,13,anth ramo,10,
+2011,htl-k4,14,card nuta nuta,6,
+2011,htl-k4,15,empt cell,0,
+2011,htl-k4,16,card nuta nuta,4,
+2011,htl-k4,17,card nuta nuta,8,
+2011,htl-k4,18,jovi glob hirt,1,
+2011,htl-k4,19,empt cell,0,
+2011,htl-k4,20,jovi glob hirt,1,
+2011,htl-k4,21,empt cell,0,
+2011,htl-k4,22,empt cell,0,
+2011,htl-k4,23,card nuta nuta,7,
+2011,htl-k4,24,card nuta nuta,7,
+2011,htl-k4,25,card nuta nuta,2,
+2011,htl-k5,1,aren serp,10,
+2011,htl-k5,2,empt cell,0,
+2011,htl-k5,3,empt cell,0,
+2011,htl-k5,4,empt cell,0,
+2011,htl-k5,5,empt cell,0,
+2011,htl-k5,6,empt cell,0,
+2011,htl-k5,7,sedu albu,3,
+2011,htl-k5,8,sedu albu,5,
+2011,htl-k5,9,anch,12,
+2011,htl-k5,10,anch,9,
+2011,htl-k5,11,anch,6,
+2011,htl-k5,12,anch,8,
+2011,htl-k5,13,empt cell,0,
+2011,htl-k5,14,empt cell,0,
+2011,htl-k5,15,empt cell,0,
+2011,htl-k5,16,empt cell,0,
+2011,htl-k5,17,empt cell,0,
+2011,htl-k5,18,empt cell,0,
+2011,htl-k5,19,empt cell,0,
+2011,htl-k5,20,empt cell,0,
+2011,htl-k5,21,sedu albu,4,
+2011,htl-k5,22,sedu albu,5,
+2011,htl-k5,23,sedu albu,5,
+2011,htl-k5,24,empt cell,0,
+2011,htl-k5,25,empt cell,0,
+2011,htl-k6,1,vinc hiru,52,
+2011,htl-k6,2,vinc hiru,78,
+2011,htl-k6,3,vinc hiru,54,
+2011,htl-k6,4,vinc hiru,45,
+2011,htl-k6,5,vinc hiru,63,
+2011,htl-k6,6,vinc hiru,56,
+2011,htl-k6,7,vinc hiru,53,
+2011,htl-k6,8,vinc hiru,44,
+2011,htl-k6,9,vinc hiru,72,
+2011,htl-k6,10,vinc hiru,46,
+2011,htl-k6,11,vinc hiru,50,
+2011,htl-k6,12,vinc hiru,41,
+2011,htl-k6,13,vinc hiru,41,
+2011,htl-k6,14,vinc hiru,55,
+2011,htl-k6,15,vinc hiru,55,
+2011,htl-k6,16,vinc hiru,85,
+2011,htl-k6,17,vinc hiru,40,
+2011,htl-k6,18,vinc hiru,47,
+2011,htl-k6,19,vinc hiru,52,
+2011,htl-k6,20,vinc hiru,42,
+2011,htl-k6,21,vinc hiru,45,
+2011,htl-k6,22,vinc hiru,43,
+2011,htl-k6,23,vinc hiru,59,
+2011,htl-k6,24,vinc hiru,47,
+2011,htl-k6,25,vinc hiru,65,
+2011,htl-k7,1,empt cell,0,
+2011,htl-k7,2,sedu albu,10,
+2011,htl-k7,3,sedu albu,12,
+2011,htl-k7,4,sedu albu,1,
+2011,htl-k7,5,empt cell,0,
+2011,htl-k7,6,empt cell,0,
+2011,htl-k7,7,empt cell,0,
+2011,htl-k7,8,sedu albu,4,
+2011,htl-k7,9,sedu albu,7,
+2011,htl-k7,10,empt cell,0,
+2011,htl-k7,11,pelt alli,2,
+2011,htl-k7,12,sedu albu,6,
+2011,htl-k7,13,sedu albu,4,
+2011,htl-k7,14,sedu albu,7,
+2011,htl-k7,15,sedu albu,6,
+2011,htl-k7,16,teuc mont,8,
+2011,htl-k7,17,erys sylv,12,
+2011,htl-k7,18,erys sylv,22,
+2011,htl-k7,19,sedu albu,7,
+2011,htl-k7,20,teuc mont,1,
+2011,htl-k7,21,sedu albu,5,
+2011,htl-k7,22,sedu albu,9,
+2011,htl-k7,23,orig vulg,19,
+2011,htl-k7,24,erys sylv,5,
+2011,htl-k7,25,teuc mont,6,
+2011,htl-k8,1,hack defl,32,
+2011,htl-k8,2,vinc hiru,46,
+2011,htl-k8,3,vinc hiru,50,
+2011,htl-k8,4,vinc hiru,36,
+2011,htl-k8,5,vinc hiru,39,
+2011,htl-k8,6,vinc hiru,44,
+2011,htl-k8,7,vinc hiru,52,
+2011,htl-k8,8,vinc hiru,55,
+2011,htl-k8,9,vinc hiru,52,
+2011,htl-k8,10,hack defl,39,
+2011,htl-k8,11,teuc cham,12,
+2011,htl-k8,12,vinc hiru,51,
+2011,htl-k8,13,vinc hiru,52,
+2011,htl-k8,14,vinc hiru,44,
+2011,htl-k8,15,vinc hiru,39,
+2011,htl-k8,16,vinc hiru,44,
+2011,htl-k8,17,vinc hiru,58,
+2011,htl-k8,18,vinc hiru,52,
+2011,htl-k8,19,vinc hiru,50,
+2011,htl-k8,20,orig vulg,26,
+2011,htl-k8,21,orig vulg,38,
+2011,htl-k8,22,vinc hiru,49,
+2011,htl-k8,23,vinc hiru,50,
+2011,htl-k8,24,vinc hiru,52,
+2011,htl-k8,25,vinc hiru,40,
+2011,htl-z1,1,clin acin,14,
+2011,htl-z1,2,sedu albu,10,
+2011,htl-z1,3,clin acin,16,
+2011,htl-z1,4,erys sylv,20,
+2011,htl-z1,5,meli cili,16,
+2011,htl-z1,6,erys sylv,21,
+2011,htl-z1,7,meli cili,17,
+2011,htl-z1,8,sedu albu,13,
+2011,htl-z1,9,sedu albu,4,
+2011,htl-z1,10,sedu albu,4,
+2011,htl-z1,11,erys sylv,20,
+2011,htl-z1,12,sedu albu,8,
+2011,htl-z1,13,sedu albu,9,
+2011,htl-z1,14,sedu albu,14,
+2011,htl-z1,15,meli cili,23,
+2011,htl-z1,16,sedu albu,15,
+2011,htl-z1,17,sedu albu,12,
+2011,htl-z1,18,sedu albu,12,
+2011,htl-z1,19,anth ramo,11,
+2011,htl-z1,20,sedu albu,40,measured: 22 / estimated: 40
+2011,htl-z1,21,sedu albu,11,
+2011,htl-z1,22,sedu albu,6,
+2011,htl-z1,23,sedu albu,14,
+2011,htl-z1,24,sedu albu,11,
+2011,htl-z1,25,clin acin,21,
+2011,htl-z2,1,erys sylv,20,
+2011,htl-z2,2,erys sylv,25,
+2011,htl-z2,3,erys sylv,21,
+2011,htl-z2,4,erys sylv,35,
+2011,htl-z2,5,erys sylv,24,
+2011,htl-z2,6,sedu albu,10,
+2011,htl-z2,7,erys sylv,34,
+2011,htl-z2,8,erys sylv,10,
+2011,htl-z2,9,erys sylv,26,
+2011,htl-z2,10,meli cili,17,
+2011,htl-z2,11,erys sylv,30,
+2011,htl-z2,12,erys sylv,23,
+2011,htl-z2,13,erys sylv,38,
+2011,htl-z2,14,erys sylv,35,
+2011,htl-z2,15,sedu albu,8,
+2011,htl-z2,16,sedu albu,18,
+2011,htl-z2,17,sedu albu,10,
+2011,htl-z2,18,sedu albu,7,
+2011,htl-z2,19,sedu albu,2,
+2011,htl-z2,20,sedu albu,12,
+2011,htl-z2,21,sedu albu,4,
+2011,htl-z2,22,sedu albu,1,
+2011,htl-z2,23,sese aust,20,measured: 7 / estimated: 20
+2011,htl-z2,24,sedu albu,13,
+2011,htl-z2,25,sedu albu,10,
+2011,htl-z3,1,brac sylv,59,
+2011,htl-z3,2,hype perf,61,
+2011,htl-z3,3,hype perf,64,
+2011,htl-z3,4,poa comp,52,
+2011,htl-z3,5,hype perf,50,
+2011,htl-z3,6,hype perf,44,
+2011,htl-z3,7,hype perf,46,
+2011,htl-z3,8,poa comp,56,
+2011,htl-z3,9,hype perf,57,
+2011,htl-z3,10,heli numm glab,13,
+2011,htl-z3,11,hype perf,20,
+2011,htl-z3,12,poa comp,45,
+2011,htl-z3,13,poa comp,40,
+2011,htl-z3,14,poa comp,46,
+2011,htl-z3,15,poa comp,54,
+2011,htl-z3,16,hype perf,32,
+2011,htl-z3,17,poa comp,48,
+2011,htl-z3,18,poa comp,56,
+2011,htl-z3,19,poa comp,56,
+2011,htl-z3,20,hype perf,20,
+2011,htl-z3,21,poa comp,53,
+2011,htl-z3,22,poa comp,49,
+2011,htl-z3,23,poa comp,59,
+2011,htl-z3,24,poa comp,62,
+2011,htl-z3,25,hype perf,51,
+2011,htl-z4,1,ajug gene,20,
+2011,htl-z4,2,ajug gene,20,
+2011,htl-z4,3,meli cili,74,
+2011,htl-z4,4,anth ramo,50,
+2011,htl-z4,5,sedu albu,16,
+2011,htl-z4,6,orig vulg,32,
+2011,htl-z4,7,heli numm obsc,36,
+2011,htl-z4,8,vinc hiru,39,
+2011,htl-z4,9,vinc hiru,60,
+2011,htl-z4,10,meli cili,17,
+2011,htl-z4,11,acon anth,50,measured: 23 / estimated: 50
+2011,htl-z4,12,meli cili,82,
+2011,htl-z4,13,meli cili,39,
+2011,htl-z4,14,anth ramo,38,
+2011,htl-z4,15,heli numm obsc,31,
+2011,htl-z4,16,orig vulg,45,
+2011,htl-z4,17,orig vulg,40,
+2011,htl-z4,18,meli cili,37,
+2011,htl-z4,19,meli cili,95,
+2011,htl-z4,20,meli cili,45,
+2011,htl-z4,21,orig vulg,36,
+2011,htl-z4,22,meli cili,77,
+2011,htl-z4,23,orig vulg,46,
+2011,htl-z4,24,orig vulg,37,
+2011,htl-z4,25,orig vulg,43,
+2011,htl-z5,1,hack defl,33,
+2011,htl-z5,2,teuc mont,7,
+2011,htl-z5,3,aspe cyna,12,
+2011,htl-z5,4,sedu albu,12,
+2011,htl-z5,5,sedu albu,19,
+2011,htl-z5,6,orig vulg,39,
+2011,htl-z5,7,tara sect rude,10,
+2011,htl-z5,8,anth ramo,50,measured: 23 / estimated: 50
+2011,htl-z5,9,teuc mont,7,
+2011,htl-z5,10,hack defl,30,
+2011,htl-z5,11,heli numm obsc,14,
+2011,htl-z5,12,anth ramo,24,
+2011,htl-z5,13,anth ramo,23,
+2011,htl-z5,14,orig vulg,30,
+2011,htl-z5,15,orig vulg,41,
+2011,htl-z5,16,orig vulg,40,
+2011,htl-z5,17,erys sylv,19,
+2011,htl-z5,18,anth ramo,60,measured: 35 / estimated: 60
+2011,htl-z5,19,anth ramo,60,measured: 34 / estimated: 60
+2011,htl-z5,20,erys sylv,29,
+2011,htl-z5,21,anth ramo,50,measured: 23 / estimated: 50
+2011,htl-z5,22,anth ramo,60,measured: 29 / estimated: 60
+2011,htl-z5,23,erys sylv,30,
+2011,htl-z5,24,erys sylv,20,
+2011,htl-z5,25,heli numm obsc,15,
+2011,htl-z6,1,sedu albu,14,
+2011,htl-z6,2,sedu albu,13,
+2011,htl-z6,3,orig vulg,32,
+2011,htl-z6,4,orig vulg,27,
+2011,htl-z6,5,jovi glob hirt,1,
+2011,htl-z6,6,orig vulg,52,
+2011,htl-z6,7,orig vulg,37,
+2011,htl-z6,8,orig vulg,35,
+2011,htl-z6,9,orig vulg,26,
+2011,htl-z6,10,sedu albu,14,
+2011,htl-z6,11,erys sylv,21,
+2011,htl-z6,12,sedu albu,13,
+2011,htl-z6,13,erys sylv,42,
+2011,htl-z6,14,erys sylv,41,
+2011,htl-z6,15,erys sylv,38,
+2011,htl-z6,16,erys sylv,38,
+2011,htl-z6,17,erys sylv,44,
+2011,htl-z6,18,erys sylv,45,
+2011,htl-z6,19,sedu albu,14,
+2011,htl-z6,20,erys sylv,18,
+2011,htl-z6,21,orig vulg,46,
+2011,htl-z6,22,micr perf,16,
+2011,htl-z6,23,orig vulg,20,
+2011,htl-z6,24,orig vulg,26,
+2011,htl-z6,25,orig vulg,12,
+2011,htl-z7,1,empt cell,0,
+2011,htl-z7,2,sedu albu,29,
+2011,htl-z7,3,vinc hiru,30,
+2011,htl-z7,4,vinc hiru,40,
+2011,htl-z7,5,vinc hiru,5,
+2011,htl-z7,6,sedu albu,40,
+2011,htl-z7,7,vinc hiru,11,
+2011,htl-z7,8,tara sect rude,2,
+2011,htl-z7,9,glob cord,2,
+2011,htl-z7,10,glob cord,2,
+2011,htl-z7,11,glob cord,10,
+2011,htl-z7,12,glob cord,13,
+2011,htl-z7,13,lina geni,75,measured: 24 / estimated: 75
+2011,htl-z7,14,vinc hiru,26,
+2011,htl-z7,15,vinc hiru,20,
+2011,htl-z7,16,vinc hiru,60,
+2011,htl-z7,17,lina geni,80,measured: 26 / estimated: 80
+2011,htl-z7,18,sedu albu,16,
+2011,htl-z7,19,sedu albu,13,
+2011,htl-z7,20,sedu albu,8,
+2011,htl-z7,21,vinc hiru,56,
+2011,htl-z7,22,sedu albu,12,
+2011,htl-z7,23,vinc hiru,32,
+2011,htl-z7,24,vinc hiru,50,
+2011,htl-z7,25,vinc hiru,51,
+2011,htl-z8,1,sedu albu,20,
+2011,htl-z8,2,empt cell,0,
+2011,htl-z8,3,pelt alli,23,
+2011,htl-z8,4,anth ramo,70,measured: 35 / estimated: 70
+2011,htl-z8,5,teuc mont,11,
+2011,htl-z8,6,sedu albu,15,
+2011,htl-z8,7,anth ramo,60,measured: 30 / estimated: 60
+2011,htl-z8,8,vinc hiru,42,
+2011,htl-z8,9,tara sect rude,25,measured: 15 / estimated: 25
+2011,htl-z8,10,sedu albu,19,
+2011,htl-z8,11,sedu albu,21,
+2011,htl-z8,12,tara sect rude,20,measured: 14 / estimated: 20
+2011,htl-z8,13,vinc hiru,35,
+2011,htl-z8,14,vinc hiru,41,
+2011,htl-z8,15,vinc hiru,16,
+2011,htl-z8,16,vinc hiru,51,
+2011,htl-z8,17,vinc hiru,35,
+2011,htl-z8,18,vinc hiru,42,
+2011,htl-z8,19,tara sect rude,15,measured: 10 / estimated: 15
+2011,htl-z8,20,sedu albu,12,
+2011,htl-z8,21,sedu albu,17,
+2011,htl-z8,22,sedu albu,10,
+2011,htl-z8,23,rese lute,50,measured: 26 / estimated: 50
+2011,htl-z8,24,acon anth,75,measured: 33 / estimated: 75
+2011,htl-z8,25,vinc hiru,36,
+2011,krr-k1,1,empt cell,0,
+2011,krr-k1,2,sedu albu,2,
+2011,krr-k1,3,empt cell,0,
+2011,krr-k1,4,sedu albu,1,
+2011,krr-k1,5,empt cell,0,
+2011,krr-k1,6,empt cell,0,
+2011,krr-k1,7,sedu albu,3,
+2011,krr-k1,8,empt cell,0,
+2011,krr-k1,9,sedu albu,9,
+2011,krr-k1,10,empt cell,7,
+2011,krr-k1,11,empt cell,7,
+2011,krr-k1,12,empt cell,9,
+2011,krr-k1,13,empt cell,14,
+2011,krr-k1,14,jovi glob hirt,1,
+2011,krr-k1,15,alli lusi,4,
+2011,krr-k1,16,gali luci,13,
+2011,krr-k1,17,sedu albu,8,
+2011,krr-k1,18,sedu albu,7,
+2011,krr-k1,19,sedu albu,8,
+2011,krr-k1,20,sedu albu,5,
+2011,krr-k1,21,empt cell,0,
+2011,krr-k1,22,jovi glob hirt,1,
+2011,krr-k1,23,sedu albu,8,
+2011,krr-k1,24,sedu albu,13,
+2011,krr-k1,25,gali luci,11,
+2011,krr-k2,1,sile lati alba,15,
+2011,krr-k2,2,rese lute,8,
+2011,krr-k2,3,rese lute,9,
+2011,krr-k2,4,rese lute,13,
+2011,krr-k2,5,sedu albu,2,
+2011,krr-k2,6,sedu albu,2,
+2011,krr-k2,7,rese lute,19,
+2011,krr-k2,8,rese lute,14,
+2011,krr-k2,9,rese lute,17,
+2011,krr-k2,10,cent scab bade,21,
+2011,krr-k2,11,rese lute,10,
+2011,krr-k2,12,ajug gene,11,
+2011,krr-k2,13,rese lute,26,
+2011,krr-k2,14,rese lute,19,
+2011,krr-k2,15,rese lute,13,
+2011,krr-k2,16,sedu albu,4,
+2011,krr-k2,17,rese lute,28,
+2011,krr-k2,18,rese lute,26,
+2011,krr-k2,19,rese lute,22,
+2011,krr-k2,20,rese lute,12,
+2011,krr-k2,21,ajug gene,7,
+2011,krr-k2,22,teuc mont,6,
+2011,krr-k2,23,sedu albu,8,
+2011,krr-k2,24,sedu albu,2,
+2011,krr-k2,25,empt cell,0,
+2011,krr-k3,1,erys sylv,7,
+2011,krr-k3,2,erys sylv,5,
+2011,krr-k3,3,scab ochr,5,
+2011,krr-k3,4,leon mont,3,
+2011,krr-k3,5,sedu albu,8,
+2011,krr-k3,6,empt cell,0,
+2011,krr-k3,7,sedu albu,3,
+2011,krr-k3,8,empt cell,0,
+2011,krr-k3,9,erys sylv,7,
+2011,krr-k3,10,erys sylv,8,
+2011,krr-k3,11,empt cell,0,
+2011,krr-k3,12,sedu albu,7,
+2011,krr-k3,13,sedu albu,7,
+2011,krr-k3,14,alli lusi,12,
+2011,krr-k3,15,sedu albu,2,
+2011,krr-k3,16,sedu albu,8,
+2011,krr-k3,17,teuc mont,8,
+2011,krr-k3,18,sedu albu,9,
+2011,krr-k3,19,sedu albu,6,
+2011,krr-k3,20,sedu albu,2,
+2011,krr-k3,21,leon mont,5,
+2011,krr-k3,22,cent scab bade,12,
+2011,krr-k3,23,sedu albu,10,
+2011,krr-k3,24,teuc mont,5,
+2011,krr-k3,25,alli lusi,14,
+2011,krr-k4,1,sedu albu,10,
+2011,krr-k4,2,teuc botr,12,
+2011,krr-k4,3,teuc botr,21,
+2011,krr-k4,4,vinc hiru,33,
+2011,krr-k4,5,sedu albu,8,
+2011,krr-k4,6,vinc hiru,58,
+2011,krr-k4,7,vinc hiru,30,
+2011,krr-k4,8,vinc hiru,29,
+2011,krr-k4,9,teuc botr,23,
+2011,krr-k4,10,sedu albu,11,
+2011,krr-k4,11,teuc botr,12,
+2011,krr-k4,12,vinc hiru,42,
+2011,krr-k4,13,vinc hiru,18,
+2011,krr-k4,14,vinc hiru,38,
+2011,krr-k4,15,vinc hiru,21,
+2011,krr-k4,16,meli cili,19,
+2011,krr-k4,17,vinc hiru,36,
+2011,krr-k4,18,vinc hiru,24,
+2011,krr-k4,19,aren serp,6,
+2011,krr-k4,20,sedu albu,7,
+2011,krr-k4,21,alli lusi,4,
+2011,krr-k4,22,sedu albu,6,
+2011,krr-k4,23,sedu albu,8,
+2011,krr-k4,24,vinc hiru,27,
+2011,krr-k4,25,aren serp,11,
+2011,krr-k5,1,sedu albu,6,
+2011,krr-k5,2,sedu albu,7,
+2011,krr-k5,3,jovi glob hirt,1,
+2011,krr-k5,4,lact vimi,3,
+2011,krr-k5,5,lact vimi,9,
+2011,krr-k5,6,lact vimi,12,
+2011,krr-k5,7,lact vimi,4,
+2011,krr-k5,8,sedu albu,4,
+2011,krr-k5,9,sedu albu,6,
+2011,krr-k5,10,sedu albu,6,
+2011,krr-k5,11,sedu albu,4,
+2011,krr-k5,12,sedu albu,5,
+2011,krr-k5,13,sedu albu,4,
+2011,krr-k5,14,lact vimi,3,
+2011,krr-k5,15,sedu albu,9,
+2011,krr-k5,16,sedu albu,3,
+2011,krr-k5,17,sedu albu,5,
+2011,krr-k5,18,empt cell,0,
+2011,krr-k5,19,empt cell,0,
+2011,krr-k5,20,empt cell,0,
+2011,krr-k5,21,teuc mont,5,
+2011,krr-k5,22,empt cell,0,
+2011,krr-k5,23,empt cell,0,
+2011,krr-k5,24,sedu albu,3,
+2011,krr-k5,25,sedu albu,5,
+2011,krr-k6,1,aren serp,5,
+2011,krr-k6,2,erys sylv,5,
+2011,krr-k6,3,leon inca,13,
+2011,krr-k6,4,leon inca,12,
+2011,krr-k6,5,leon inca,11,
+2011,krr-k6,6,lact vimi,6,
+2011,krr-k6,7,lact vimi,12,
+2011,krr-k6,8,leon inca,12,
+2011,krr-k6,9,sedu albu,7,
+2011,krr-k6,10,jovi glob hirt,1,
+2011,krr-k6,11,leon inca,6,
+2011,krr-k6,12,sedu albu,7,
+2011,krr-k6,13,sedu albu,5,
+2011,krr-k6,14,sedu albu,5,
+2011,krr-k6,15,sedu albu,8,
+2011,krr-k6,16,leon inca,5,
+2011,krr-k6,17,sedu albu,6,
+2011,krr-k6,18,sedu albu,6,
+2011,krr-k6,19,teuc mont,9,
+2011,krr-k6,20,teuc mont,7,
+2011,krr-k6,21,clin acin,13,
+2011,krr-k6,22,sedu albu,7,
+2011,krr-k6,23,clin acin,8,
+2011,krr-k6,24,sedu albu,3,
+2011,krr-k6,25,sedu albu,2,
+2011,krr-k7,1,sedu albu,3,
+2011,krr-k7,2,sedu albu,10,
+2011,krr-k7,3,sedu albu,5,
+2011,krr-k7,4,sedu albu,3,
+2011,krr-k7,5,jovi glob hirt,1,
+2011,krr-k7,6,aren serp,3,
+2011,krr-k7,7,sedu albu,2,
+2011,krr-k7,8,alli lusi,6,
+2011,krr-k7,9,sedu albu,9,
+2011,krr-k7,10,sedu albu,9,
+2011,krr-k7,11,erys sylv,23,
+2011,krr-k7,12,sedu albu,2,
+2011,krr-k7,13,jovi glob hirt,2,
+2011,krr-k7,14,jovi glob hirt,2,
+2011,krr-k7,15,jovi glob hirt,3,
+2011,krr-k7,16,jovi glob hirt,2,
+2011,krr-k7,17,erys sylv,8,
+2011,krr-k7,18,sedu albu,2,
+2011,krr-k7,19,jovi glob hirt,2,
+2011,krr-k7,20,aren serp,9,
+2011,krr-k7,21,erys sylv,27,
+2011,krr-k7,22,sedu albu,3,
+2011,krr-k7,23,sedu albu,5,
+2011,krr-k7,24,aren serp,6,
+2011,krr-k7,25,aren serp,4,
+2011,krr-k8,1,sedu albu,8,
+2011,krr-k8,2,heli numm obsc,4,
+2011,krr-k8,3,aren serp,3,
+2011,krr-k8,4,aren serp,10,
+2011,krr-k8,5,care humi,7,
+2011,krr-k8,6,sedu albu,9,
+2011,krr-k8,7,care humi,9,
+2011,krr-k8,8,rese lute,15,
+2011,krr-k8,9,aren serp,6,
+2011,krr-k8,10,heli numm obsc,6,
+2011,krr-k8,11,sedu albu,8,
+2011,krr-k8,12,jovi glob hirt,1,
+2011,krr-k8,13,echi vulg,11,
+2011,krr-k8,14,sedu albu,4,
+2011,krr-k8,15,sedu albu,3,
+2011,krr-k8,16,lact vimi,8,
+2011,krr-k8,17,rese lute,14,
+2011,krr-k8,18,echi vulg,18,
+2011,krr-k8,19,echi vulg,14,
+2011,krr-k8,20,sedu albu,6,
+2011,krr-k8,21,sedu albu,8,
+2011,krr-k8,22,echi vulg,13,
+2011,krr-k8,23,rese lute,13,
+2011,krr-k8,24,echi vulg,20,
+2011,krr-k8,25,sedu albu,5,
+2011,krr-z1,1,teuc cham,5,
+2011,krr-z1,2,alli lusi,18,
+2011,krr-z1,3,leon inca,8,
+2011,krr-z1,4,leon inca,8,
+2011,krr-z1,5,sedu albu,7,
+2011,krr-z1,6,meli cili,19,
+2011,krr-z1,7,leon inca,14,
+2011,krr-z1,8,leon inca,17,
+2011,krr-z1,9,alli lusi,13,
+2011,krr-z1,10,rese lute,27,
+2011,krr-z1,11,sedu albu,8,
+2011,krr-z1,12,leon inca,12,
+2011,krr-z1,13,leon inca,16,
+2011,krr-z1,14,scab ochr,90,measured: 47 / estimated: 90
+2011,krr-z1,15,meli cili,53,
+2011,krr-z1,16,scab ochr,70,measured: 20 / estimated: 70
+2011,krr-z1,17,scab ochr,100,measured: 73 / estimated: 100
+2011,krr-z1,18,alli lusi,11,
+2011,krr-z1,19,sedu albu,3,
+2011,krr-z1,20,jovi glob hirt,1,
+2011,krr-z1,21,sedu albu,7,
+2011,krr-z1,22,alli lusi,17,
+2011,krr-z1,23,rese lute,65,measured: 40 / estimated: 65
+2011,krr-z1,24,scab ochr,50,measured: 33 / estimated: 50
+2011,krr-z1,25,scab ochr,20,
+2011,krr-z2,1,sedu albu,4,
+2011,krr-z2,2,sedu albu,5,
+2011,krr-z2,3,empt cell,0,
+2011,krr-z2,4,sedu albu,4,
+2011,krr-z2,5,sedu albu,8,
+2011,krr-z2,6,sedu albu,8,
+2011,krr-z2,7,sedu albu,5,
+2011,krr-z2,8,jovi glob hirt,1,
+2011,krr-z2,9,dory germ,7,
+2011,krr-z2,10,dory germ,9,
+2011,krr-z2,11,sedu albu,7,
+2011,krr-z2,12,sedu albu,8,
+2011,krr-z2,13,sedu albu,11,
+2011,krr-z2,14,jovi glob hirt,1,
+2011,krr-z2,15,empt cell,0,
+2011,krr-z2,16,gali luci,20,measured: 8 / estimated: 20
+2011,krr-z2,17,jovi glob hirt,1,
+2011,krr-z2,18,jovi glob hirt,2,
+2011,krr-z2,19,sedu albu,5,
+2011,krr-z2,20,sedu albu,3,
+2011,krr-z2,21,sedu albu,6,
+2011,krr-z2,22,sedu albu,6,
+2011,krr-z2,23,jovi glob hirt,1,
+2011,krr-z2,24,jovi glob hirt,1,
+2011,krr-z2,25,sedu albu,9,
+2011,krr-z3,1,sedu albu,11,
+2011,krr-z3,2,vinc hiru,35,
+2011,krr-z3,3,vinc hiru,45,
+2011,krr-z3,4,vinc hiru,33,
+2011,krr-z3,5,vinc hiru,47,
+2011,krr-z3,6,vinc hiru,36,
+2011,krr-z3,7,vinc hiru,43,
+2011,krr-z3,8,vinc hiru,45,
+2011,krr-z3,9,care humi,16,
+2011,krr-z3,10,gali luci,22,measured: 12 / estimated: 22
+2011,krr-z3,11,sedu albu,14,
+2011,krr-z3,12,sedu albu,16,
+2011,krr-z3,13,vinc hiru,38,
+2011,krr-z3,14,vinc hiru,33,
+2011,krr-z3,15,vinc hiru,58,
+2011,krr-z3,16,care humi,30,
+2011,krr-z3,17,vinc hiru,44,
+2011,krr-z3,18,care humi,32,
+2011,krr-z3,19,care humi,22,
+2011,krr-z3,20,sedu albu,7,
+2011,krr-z3,21,sedu albu,5,
+2011,krr-z3,22,care humi,12,
+2011,krr-z3,23,lina geni,80,
+2011,krr-z3,24,lina geni,82,
+2011,krr-z3,25,lina geni,78,
+2011,krr-z4,1,gali luci,35,measured: 21 / estimated: 35
+2011,krr-z4,2,sang mino mino,15,
+2011,krr-z4,3,sedu albu,6,
+2011,krr-z4,4,aren serp,9,
+2011,krr-z4,5,sesl caer,17,measured: 12 / estimated: 17
+2011,krr-z4,6,sesl caer,13,measured: 13 / estimated: 13
+2011,krr-z4,7,sedu albu,4,
+2011,krr-z4,8,sedu albu,15,
+2011,krr-z4,9,care humi,16,
+2011,krr-z4,10,care humi,9,
+2011,krr-z4,11,care humi,17,
+2011,krr-z4,12,care humi,15,
+2011,krr-z4,13,teuc mont,9,
+2011,krr-z4,14,euph cypa,11,
+2011,krr-z4,15,sedu albu,2,
+2011,krr-z4,16,sedu albu,7,
+2011,krr-z4,17,jovi glob hirt,2,
+2011,krr-z4,18,teuc mont,11,
+2011,krr-z4,19,teuc mont,10,
+2011,krr-z4,20,teuc mont,5,
+2011,krr-z4,21,sedu albu,2,
+2011,krr-z4,22,clin acin,6,
+2011,krr-z4,23,meli cili,26,
+2011,krr-z4,24,sedu albu,5,
+2011,krr-z4,25,sedu albu,8,
+2011,krr-z5,1,sedu albu,2,
+2011,krr-z5,2,sedu albu,4,
+2011,krr-z5,3,brom tect,10,
+2011,krr-z5,4,scab ochr,49,
+2011,krr-z5,5,scab ochr,60,measured: 34 / estimated: 60
+2011,krr-z5,6,scab ochr,50,
+2011,krr-z5,7,scab ochr,41,
+2011,krr-z5,8,brom tect,9,
+2011,krr-z5,9,sedu albu,5,
+2011,krr-z5,10,brom tect,8,
+2011,krr-z5,11,brom tect,11,
+2011,krr-z5,12,sese aust,45,measured: 7 / estimated: 45
+2011,krr-z5,13,sese aust,47,measured: 9 / estimated: 47
+2011,krr-z5,14,sedu albu,5,
+2011,krr-z5,15,scab ochr,53,
+2011,krr-z5,16,scab ochr,34,
+2011,krr-z5,17,sedu albu,7,
+2011,krr-z5,18,care humi,15,
+2011,krr-z5,19,care humi,17,
+2011,krr-z5,20,alli lusi,12,measured: 8 / estimated: 12
+2011,krr-z5,21,care humi,18,
+2011,krr-z5,22,care humi,18,
+2011,krr-z5,23,care humi,17,
+2011,krr-z5,24,care humi,14,
+2011,krr-z5,25,care humi,12,
+2011,krr-z6,1,sedu albu,6,
+2011,krr-z6,2,jovi glob hirt,1,
+2011,krr-z6,3,sedu albu,10,
+2011,krr-z6,4,gali luci,18,measured: 10 / estimated: 18
+2011,krr-z6,5,leon inca,10,
+2011,krr-z6,6,leon inca,12,
+2011,krr-z6,7,sedu albu,13,
+2011,krr-z6,8,sedu albu,14,
+2011,krr-z6,9,care humi,13,
+2011,krr-z6,10,sedu albu,2,
+2011,krr-z6,11,sedu albu,9,
+2011,krr-z6,12,care humi,17,
+2011,krr-z6,13,care humi,15,
+2011,krr-z6,14,leon inca,18,
+2011,krr-z6,15,leon inca,21,
+2011,krr-z6,16,leon inca,16,
+2011,krr-z6,17,leon inca,20,
+2011,krr-z6,18,care humi,15,
+2011,krr-z6,19,care humi,14,
+2011,krr-z6,20,micr perf,11,
+2011,krr-z6,21,sedu albu,8,
+2011,krr-z6,22,sedu albu,11,
+2011,krr-z6,23,care humi,14,
+2011,krr-z6,24,care humi,14,
+2011,krr-z6,25,sedu albu,11,
+2011,krr-z7,1,jovi glob hirt,2,
+2011,krr-z7,2,leon inca,24,
+2011,krr-z7,3,leon inca,27,
+2011,krr-z7,4,gali luci,23,
+2011,krr-z7,5,sedu albu,6,
+2011,krr-z7,6,gali luci,58,measured: 42 / estimated: 58
+2011,krr-z7,7,gali luci,44,
+2011,krr-z7,8,leon inca,31,
+2011,krr-z7,9,leon inca,29,
+2011,krr-z7,10,leon inca,26,
+2011,krr-z7,11,leon inca,20,
+2011,krr-z7,12,gali luci,26,
+2011,krr-z7,13,rese lute,26,
+2011,krr-z7,14,gali luci,38,
+2011,krr-z7,15,gali luci,40,measured: 20 / estimated: 40
+2011,krr-z7,16,sedu albu,4,
+2011,krr-z7,17,gali luci,28,
+2011,krr-z7,18,sedu albu,12,
+2011,krr-z7,19,sedu albu,9,
+2011,krr-z7,20,sedu albu,12,
+2011,krr-z7,21,brom tect,21,
+2011,krr-z7,22,brom tect,18,
+2011,krr-z7,23,sedu albu,11,
+2011,krr-z7,24,sedu albu,4,
+2011,krr-z7,25,jovi glob hirt,1,
+2011,krr-z8,1,secu vari,48,
+2011,krr-z8,2,secu vari,74,
+2011,krr-z8,3,secu vari,50,measured: 34 / estimated: 50
+2011,krr-z8,4,gali luci,40,measured: 25 / estimated: 40
+2011,krr-z8,5,gali luci,51,
+2011,krr-z8,6,gali luci,20,
+2011,krr-z8,7,gali luci,40,measured: 25 / estimated: 40
+2011,krr-z8,8,secu vari,50,measured: 34 / estimated: 50
+2011,krr-z8,9,secu vari,55,measured: 30 / estimated: 55
+2011,krr-z8,10,secu vari,58,
+2011,krr-z8,11,sedu albu,61,
+2011,krr-z8,12,sedu albu,39,
+2011,krr-z8,13,sedu albu,70,measured: 47 / estimated: 70
+2011,krr-z8,14,sedu albu,65,measured: 60 / estimated: 65
+2011,krr-z8,15,gali luci,40,measured: 24 / estimated: 40
+2011,krr-z8,16,sedu albu,2,
+2011,krr-z8,17,secu vari,35,
+2011,krr-z8,18,secu vari,40,measured: 20 / estimated: 40
+2011,krr-z8,19,secu vari,25,
+2011,krr-z8,20,secu vari,24,
+2011,krr-z8,21,secu vari,19,
+2011,krr-z8,22,secu vari,43,
+2011,krr-z8,23,sedu albu,11,
+2011,krr-z8,24,secu vari,50,measured: 28 / estimated: 50
+2011,krr-z8,25,sedu albu,10,
+2012,htl-k1,1,erys sylv,1,
+2012,htl-k1,2,empt cell,0,
+2012,htl-k1,3,meli cili,4,
+2012,htl-k1,4,sedu albu,5,
+2012,htl-k1,5,empt cell,6,
+2012,htl-k1,6,empt cell,8,
+2012,htl-k1,7,meli cili,10,
+2012,htl-k1,8,teuc cham,6,
+2012,htl-k1,9,empt cell,7,
+2012,htl-k1,10,ajug gene,4,
+2012,htl-k1,11,teuc cham,8,
+2012,htl-k1,12,empt cell,8,
+2012,htl-k1,13,sedu albu,5,
+2012,htl-k1,14,empt cell,12,
+2012,htl-k1,15,teuc cham,8,
+2012,htl-k1,16,sedu albu,4,
+2012,htl-k1,17,teuc cham,9,
+2012,htl-k1,18,teuc cham,11,
+2012,htl-k1,19,teuc cham,7,
+2012,htl-k1,20,teuc cham,8,
+2012,htl-k1,21,heli numm glab,7,
+2012,htl-k1,22,teuc cham,8,
+2012,htl-k1,23,teuc cham,9,
+2012,htl-k1,24,clin acin,8,
+2012,htl-k1,25,teuc mont,7,
+2012,htl-k2,1,sedu albu,4,
+2012,htl-k2,2,empt cell,0,
+2012,htl-k2,3,erys sylv,11,
+2012,htl-k2,4,empt cell,0,
+2012,htl-k2,5,empt cell,0,
+2012,htl-k2,6,sedu albu,3,
+2012,htl-k2,7,empt cell,0,
+2012,htl-k2,8,pinu nigr nigr,4,
+2012,htl-k2,9,jovi glob hirt,1,
+2012,htl-k2,10,jovi glob hirt,1,
+2012,htl-k2,11,empt cell,0,
+2012,htl-k2,12,jovi glob hirt,1,
+2012,htl-k2,13,teuc cham,5,
+2012,htl-k2,14,sedu albu,4,
+2012,htl-k2,15,empt cell,0,
+2012,htl-k2,16,sedu albu,1,
+2012,htl-k2,17,sedu albu,4,
+2012,htl-k2,18,alli lusi,7,
+2012,htl-k2,19,sedu albu,3,
+2012,htl-k2,20,empt cell,0,
+2012,htl-k2,21,sedu albu,4,
+2012,htl-k2,22,jovi glob hirt,2,
+2012,htl-k2,23,alli lusi,3,
+2012,htl-k2,24,empt cell,0,
+2012,htl-k2,25,rese lute,5,
+2012,htl-k3,1,empt cell,0,
+2012,htl-k3,2,empt cell,0,
+2012,htl-k3,3,empt cell,0,
+2012,htl-k3,4,empt cell,0,
+2012,htl-k3,5,sedu albu,6,
+2012,htl-k3,6,sedu albu,5,
+2012,htl-k3,7,anth ramo,7,
+2012,htl-k3,8,empt cell,0,
+2012,htl-k3,9,empt cell,0,
+2012,htl-k3,10,empt cell,0,
+2012,htl-k3,11,empt cell,0,
+2012,htl-k3,12,empt cell,0,
+2012,htl-k3,13,empt cell,0,
+2012,htl-k3,14,anth ramo,5,
+2012,htl-k3,15,sedu albu,1,
+2012,htl-k3,16,rese lute,9,
+2012,htl-k3,17,rese lute,7,
+2012,htl-k3,18,empt cell,0,
+2012,htl-k3,19,empt cell,0,
+2012,htl-k3,20,empt cell,0,
+2012,htl-k3,21,empt cell,0,
+2012,htl-k3,22,empt cell,0,
+2012,htl-k3,23,empt cell,0,
+2012,htl-k3,24,jovi glob hirt,1,
+2012,htl-k3,25,jovi glob hirt,1,
+2012,htl-k4,1,empt cell,0,
+2012,htl-k4,2,teuc cham,4,
+2012,htl-k4,3,orig vulg,7,
+2012,htl-k4,4,empt cell,0,
+2012,htl-k4,5,empt cell,0,
+2012,htl-k4,6,empt cell,0,
+2012,htl-k4,7,empt cell,0,
+2012,htl-k4,8,empt cell,0,
+2012,htl-k4,9,empt cell,0,
+2012,htl-k4,10,empt cell,0,
+2012,htl-k4,11,empt cell,0,
+2012,htl-k4,12,anth ramo,4,
+2012,htl-k4,13,empt cell,0,
+2012,htl-k4,14,empt cell,0,
+2012,htl-k4,15,empt cell,0,
+2012,htl-k4,16,empt cell,0,
+2012,htl-k4,17,empt cell,0,
+2012,htl-k4,18,jovi glob hirt,1,
+2012,htl-k4,19,empt cell,0,
+2012,htl-k4,20,empt cell,0,
+2012,htl-k4,21,sedu albu,5,
+2012,htl-k4,22,jovi glob hirt,1,
+2012,htl-k4,23,empt cell,0,
+2012,htl-k4,24,empt cell,0,
+2012,htl-k4,25,empt cell,0,
+2012,htl-k5,1,empt cell,0,
+2012,htl-k5,2,empt cell,0,
+2012,htl-k5,3,empt cell,0,
+2012,htl-k5,4,empt cell,0,
+2012,htl-k5,5,card nuta nuta,5,
+2012,htl-k5,6,empt cell,0,
+2012,htl-k5,7,empt cell,0,
+2012,htl-k5,8,empt cell,0,
+2012,htl-k5,9,empt cell,0,
+2012,htl-k5,10,empt cell,0,
+2012,htl-k5,11,empt cell,0,
+2012,htl-k5,12,empt cell,0,
+2012,htl-k5,13,empt cell,0,
+2012,htl-k5,14,empt cell,0,
+2012,htl-k5,15,empt cell,0,
+2012,htl-k5,16,empt cell,0,
+2012,htl-k5,17,empt cell,0,
+2012,htl-k5,18,empt cell,0,
+2012,htl-k5,19,empt cell,0,
+2012,htl-k5,20,empt cell,0,
+2012,htl-k5,21,empt cell,0,
+2012,htl-k5,22,empt cell,0,
+2012,htl-k5,23,empt cell,0,
+2012,htl-k5,24,empt cell,0,
+2012,htl-k5,25,empt cell,0,
+2012,htl-k6,1,teuc cham,9,
+2012,htl-k6,2,teuc cham,11,
+2012,htl-k6,3,vinc hiru,48,
+2012,htl-k6,4,vinc hiru,45,
+2012,htl-k6,5,vinc hiru,25,
+2012,htl-k6,6,salv glut,27,
+2012,htl-k6,7,vinc hiru,40,
+2012,htl-k6,8,vinc hiru,39,
+2012,htl-k6,9,vinc hiru,49,
+2012,htl-k6,10,vinc hiru,39,
+2012,htl-k6,11,vinc hiru,34,
+2012,htl-k6,12,vinc hiru,44,
+2012,htl-k6,13,vinc hiru,46,
+2012,htl-k6,14,vinc hiru,41,
+2012,htl-k6,15,vinc hiru,37,
+2012,htl-k6,16,salv glut,32,
+2012,htl-k6,17,salv glut,39,
+2012,htl-k6,18,vinc hiru,34,
+2012,htl-k6,19,vinc hiru,39,
+2012,htl-k6,20,vinc hiru,39,
+2012,htl-k6,21,teuc cham,12,
+2012,htl-k6,22,vinc hiru,46,
+2012,htl-k6,23,vinc hiru,38,
+2012,htl-k6,24,vinc hiru,34,
+2012,htl-k6,25,salv glut,31,
+2012,htl-k7,1,empt cell,0,
+2012,htl-k7,2,sedu albu,2,
+2012,htl-k7,3,sedu albu,4,
+2012,htl-k7,4,jovi glob hirt,1,
+2012,htl-k7,5,empt cell,0,
+2012,htl-k7,6,empt cell,0,
+2012,htl-k7,7,sedu albu,2,
+2012,htl-k7,8,jovi glob hirt,2,
+2012,htl-k7,9,sedu albu,2,
+2012,htl-k7,10,empt cell,0,
+2012,htl-k7,11,pelt alli,2,
+2012,htl-k7,12,sedu albu,3,
+2012,htl-k7,13,sedu albu,3,
+2012,htl-k7,14,sedu albu,7,
+2012,htl-k7,15,sedu albu,5,
+2012,htl-k7,16,teuc mont,7,
+2012,htl-k7,17,sedu albu,6,
+2012,htl-k7,18,sedu albu,6,
+2012,htl-k7,19,sedu albu,4,
+2012,htl-k7,20,teuc mont,4,
+2012,htl-k7,21,sedu albu,2,
+2012,htl-k7,22,orig vulg,11,
+2012,htl-k7,23,orig vulg,13,
+2012,htl-k7,24,jovi glob hirt,1,
+2012,htl-k7,25,teuc mont,7,
+2012,htl-k8,1,vinc hiru,33,
+2012,htl-k8,2,vinc hiru,38,
+2012,htl-k8,3,vinc hiru,40,
+2012,htl-k8,4,vinc hiru,33,
+2012,htl-k8,5,jovi glob hirt,2,
+2012,htl-k8,6,vinc hiru,41,
+2012,htl-k8,7,vinc hiru,43,
+2012,htl-k8,8,vinc hiru,41,
+2012,htl-k8,9,vinc hiru,24,
+2012,htl-k8,10,orig vulg,13,
+2012,htl-k8,11,vinc hiru,39,
+2012,htl-k8,12,vinc hiru,41,
+2012,htl-k8,13,vinc hiru,43,
+2012,htl-k8,14,vinc hiru,42,
+2012,htl-k8,15,vinc hiru,27,
+2012,htl-k8,16,vinc hiru,30,
+2012,htl-k8,17,vinc hiru,42,
+2012,htl-k8,18,vinc hiru,40,
+2012,htl-k8,19,orig vulg,21,
+2012,htl-k8,20,orig vulg,22,
+2012,htl-k8,21,orig vulg,21,
+2012,htl-k8,22,orig vulg,19,
+2012,htl-k8,23,orig vulg,22,
+2012,htl-k8,24,erys sylv,28,
+2012,htl-k8,25,vinc hiru,44,
+2012,htl-z1,1,meli cili,54,
+2012,htl-z1,2,meli cili,65,
+2012,htl-z1,3,meli cili,41,
+2012,htl-z1,4,meli cili,58,
+2012,htl-z1,5,meli cili,56,
+2012,htl-z1,6,meli cili,52,
+2012,htl-z1,7,meli cili,67,
+2012,htl-z1,8,meli cili,63,
+2012,htl-z1,9,meli cili,80,
+2012,htl-z1,10,meli cili,60,
+2012,htl-z1,11,meli cili,85,
+2012,htl-z1,12,meli cili,24,
+2012,htl-z1,13,meli cili,62,
+2012,htl-z1,14,meli cili,66,
+2012,htl-z1,15,meli cili,62,
+2012,htl-z1,16,meli cili,52,
+2012,htl-z1,17,meli cili,56,
+2012,htl-z1,18,meli cili,70,
+2012,htl-z1,19,meli cili,68,
+2012,htl-z1,20,anth ramo,20,
+2012,htl-z1,21,anth ramo,52,
+2012,htl-z1,22,meli cili,64,
+2012,htl-z1,23,meli cili,81,
+2012,htl-z1,24,meli cili,70,
+2012,htl-z1,25,pote pusi,4,
+2012,htl-z2,1,sese aust,30,
+2012,htl-z2,2,sese aust,27,
+2012,htl-z2,3,sese aust,32,
+2012,htl-z2,4,sese aust,21,
+2012,htl-z2,5,sese aust,16,
+2012,htl-z2,6,sese aust,24,
+2012,htl-z2,7,sese aust,37,
+2012,htl-z2,8,sese aust,33,
+2012,htl-z2,9,sese aust,33,
+2012,htl-z2,10,sese aust,47,
+2012,htl-z2,11,sese aust,50,
+2012,htl-z2,12,meli cili,52,
+2012,htl-z2,13,sese aust,50,
+2012,htl-z2,14,sese aust,46,
+2012,htl-z2,15,sese aust,47,
+2012,htl-z2,16,sese aust,52,
+2012,htl-z2,17,sese aust,64,
+2012,htl-z2,18,sese aust,57,
+2012,htl-z2,19,sese aust,63,
+2012,htl-z2,20,sese aust,41,
+2012,htl-z2,21,sese aust,54,
+2012,htl-z2,22,sese aust,59,
+2012,htl-z2,23,sese aust,32,
+2012,htl-z2,24,sese aust,60,
+2012,htl-z2,25,sese aust,52,
+2012,htl-z3,1,poa comp,51,
+2012,htl-z3,2,poa comp,60,
+2012,htl-z3,3,brac sylv,75,
+2012,htl-z3,4,brac sylv,30,
+2012,htl-z3,5,brac sylv,40,
+2012,htl-z3,6,poa comp,49,
+2012,htl-z3,7,poa comp,55,
+2012,htl-z3,8,poa comp,52,
+2012,htl-z3,9,poa comp,60,
+2012,htl-z3,10,poa comp,57,
+2012,htl-z3,11,poa comp,56,
+2012,htl-z3,12,brac sylv,70,
+2012,htl-z3,13,poa comp,58,
+2012,htl-z3,14,poa comp,46,
+2012,htl-z3,15,poa comp,52,
+2012,htl-z3,16,poa comp,57,
+2012,htl-z3,17,poa comp,50,
+2012,htl-z3,18,poa comp,50,
+2012,htl-z3,19,poa comp,54,
+2012,htl-z3,20,poa comp,59,
+2012,htl-z3,21,poa comp,49,
+2012,htl-z3,22,poa comp,44,
+2012,htl-z3,23,poa comp,49,
+2012,htl-z3,24,poa comp,60,
+2012,htl-z3,25,poa comp,58,
+2012,htl-z4,1,meli cili,49,
+2012,htl-z4,2,meli cili,89,
+2012,htl-z4,3,meli cili,85,
+2012,htl-z4,4,meli cili,86,
+2012,htl-z4,5,meli cili,75,
+2012,htl-z4,6,anth ramo,67,
+2012,htl-z4,7,anth ramo,67,
+2012,htl-z4,8,anth ramo,42,
+2012,htl-z4,9,anth ramo,42,
+2012,htl-z4,10,acon anth,34,
+2012,htl-z4,11,meli cili,78,
+2012,htl-z4,12,meli cili,72,
+2012,htl-z4,13,meli cili,75,
+2012,htl-z4,14,anth ramo,45,
+2012,htl-z4,15,orig vulg,26,
+2012,htl-z4,16,orig vulg,40,
+2012,htl-z4,17,anth ramo,44,
+2012,htl-z4,18,meli cili,76,
+2012,htl-z4,19,meli cili,75,
+2012,htl-z4,20,meli cili,78,
+2012,htl-z4,21,meli cili,68,
+2012,htl-z4,22,heli numm obsc,33,
+2012,htl-z4,23,anth ramo,347,
+2012,htl-z4,24,meli cili,72,
+2012,htl-z4,25,poa comp,57,
+2012,htl-z5,1,teuc mont,10,
+2012,htl-z5,2,teuc mont,12,
+2012,htl-z5,3,teuc mont,11,
+2012,htl-z5,4,heli numm obsc,24,
+2012,htl-z5,5,orig vulg,34,
+2012,htl-z5,6,orig vulg,32,
+2012,htl-z5,7,heli numm obsc,14,
+2012,htl-z5,8,heli numm obsc,19,
+2012,htl-z5,9,teuc mont,11,
+2012,htl-z5,10,cent scab bade,58,
+2012,htl-z5,11,heli numm obsc,30,
+2012,htl-z5,12,anth ramo,50,
+2012,htl-z5,13,anth ramo,25,
+2012,htl-z5,14,heli numm obsc,20,
+2012,htl-z5,15,orig vulg,34,
+2012,htl-z5,16,heli numm obsc,22,
+2012,htl-z5,17,heli numm obsc,20,
+2012,htl-z5,18,anth ramo,62,
+2012,htl-z5,19,anth ramo,53,
+2012,htl-z5,20,anth ramo,65,
+2012,htl-z5,21,heli numm obsc,17,
+2012,htl-z5,22,anth ramo,54,
+2012,htl-z5,23,anth ramo,55,
+2012,htl-z5,24,anth ramo,20,
+2012,htl-z5,25,heli numm obsc,36,
+2012,htl-z6,1,meli cili,13,
+2012,htl-z6,2,hype perf,14,
+2012,htl-z6,3,orig vulg,17,
+2012,htl-z6,4,orig vulg,32,
+2012,htl-z6,5,hype perf,19,
+2012,htl-z6,6,orig vulg,44,
+2012,htl-z6,7,meli cili,29,
+2012,htl-z6,8,sedu albu,11,
+2012,htl-z6,9,sedu albu,12,
+2012,htl-z6,10,jovi glob hirt,1,
+2012,htl-z6,11,meli cili,28,
+2012,htl-z6,12,meli cili,36,
+2012,htl-z6,13,orig vulg,40,
+2012,htl-z6,14,orig vulg,53,
+2012,htl-z6,15,orig vulg,40,
+2012,htl-z6,16,orig vulg,31,
+2012,htl-z6,17,orig vulg,45,
+2012,htl-z6,18,orig vulg,40,
+2012,htl-z6,19,sedu albu,2,
+2012,htl-z6,20,meli cili,46,
+2012,htl-z6,21,meli cili,63,
+2012,htl-z6,22,empt cell,0,
+2012,htl-z6,23,orig vulg,20,
+2012,htl-z6,24,orig vulg,36,
+2012,htl-z6,25,orig vulg,29,
+2012,htl-z7,1,lina geni,18,
+2012,htl-z7,2,medi lupu,19,
+2012,htl-z7,3,aspe cyna,17,
+2012,htl-z7,4,vinc hiru,48,
+2012,htl-z7,5,meli cili,50,
+2012,htl-z7,6,vinc hiru,60,
+2012,htl-z7,7,vinc hiru,62,
+2012,htl-z7,8,vinc hiru,53,
+2012,htl-z7,9,lina geni,27,
+2012,htl-z7,10,lina geni,30,
+2012,htl-z7,11,lina geni,35,
+2012,htl-z7,12,lina geni,74,
+2012,htl-z7,13,vinc hiru,57,
+2012,htl-z7,14,vinc hiru,55,
+2012,htl-z7,15,vinc hiru,70,
+2012,htl-z7,16,vinc hiru,47,
+2012,htl-z7,17,lina geni,46,
+2012,htl-z7,18,lina geni,44,
+2012,htl-z7,19,lina geni,41,
+2012,htl-z7,20,glob cord,3,
+2012,htl-z7,21,sedu albu,4,
+2012,htl-z7,22,lina geni,105,
+2012,htl-z7,23,vinc hiru,56,
+2012,htl-z7,24,lina geni,80,
+2012,htl-z7,25,lina geni,85,
+2012,htl-z8,1,heli numm obsc,27,
+2012,htl-z8,2,heli numm obsc,12,
+2012,htl-z8,3,heli numm obsc,30,
+2012,htl-z8,4,ajug gene,37,
+2012,htl-z8,5,teuc cham,10,
+2012,htl-z8,6,meli cili,34,
+2012,htl-z8,7,anth ramo,79,
+2012,htl-z8,8,anth ramo,30,
+2012,htl-z8,9,heli numm obsc,23,
+2012,htl-z8,10,sedu albu,12,
+2012,htl-z8,11,sedu albu,20,
+2012,htl-z8,12,sedu albu,13,
+2012,htl-z8,13,heli numm obsc,20,
+2012,htl-z8,14,vinc hiru,32,
+2012,htl-z8,15,vinc hiru,30,
+2012,htl-z8,16,vinc hiru,27,
+2012,htl-z8,17,vinc hiru,26,
+2012,htl-z8,18,teuc cham,15,
+2012,htl-z8,19,sedu albu,3,
+2012,htl-z8,20,aren serp,5,
+2012,htl-z8,21,viol tric saxa,3,
+2012,htl-z8,22,viol tric saxa,3,
+2012,htl-z8,23,teuc cham,16,
+2012,htl-z8,24,teuc cham,18,
+2012,htl-z8,25,acon anth,43,
+2012,krr-k1,1,empt cell,0,
+2012,krr-k1,2,sedu albu,2,
+2012,krr-k1,3,empt cell,0,
+2012,krr-k1,4,empt cell,0,
+2012,krr-k1,5,empt cell,0,
+2012,krr-k1,6,empt cell,0,
+2012,krr-k1,7,jovi glob hirt,1,
+2012,krr-k1,8,empt cell,0,
+2012,krr-k1,9,sedu albu,3,
+2012,krr-k1,10,empt cell,0,
+2012,krr-k1,11,sedu albu,4,
+2012,krr-k1,12,sedu albu,9,
+2012,krr-k1,13,sedu albu,10,
+2012,krr-k1,14,jovi glob hirt,2,
+2012,krr-k1,15,alli lusi,8,
+2012,krr-k1,16,jovi glob hirt,1,
+2012,krr-k1,17,jovi glob hirt,1,
+2012,krr-k1,18,sedu albu,7,
+2012,krr-k1,19,sedu albu,8,
+2012,krr-k1,20,sedu albu,6,
+2012,krr-k1,21,empt cell,0,
+2012,krr-k1,22,sedu albu,6,
+2012,krr-k1,23,sedu albu,6,
+2012,krr-k1,24,gali luci,9,
+2012,krr-k1,25,gali luci,10,
+2012,krr-k2,1,sile lati alba,10,
+2012,krr-k2,2,pelt alli,11,
+2012,krr-k2,3,ajug gene,4,
+2012,krr-k2,4,empt cell,0,
+2012,krr-k2,5,empt cell,0,
+2012,krr-k2,6,empt cell,0,
+2012,krr-k2,7,ajug gene,1,
+2012,krr-k2,8,meli cili,5,
+2012,krr-k2,9,prun maha,4,
+2012,krr-k2,10,clin acin,8,
+2012,krr-k2,11,prun maha,3,
+2012,krr-k2,12,card nuta nuta,3,
+2012,krr-k2,13,card nuta nuta,4,
+2012,krr-k2,14,empt cell,0,
+2012,krr-k2,15,empt cell,0,
+2012,krr-k2,16,empt cell,0,
+2012,krr-k2,17,empt cell,0,
+2012,krr-k2,18,empt cell,0,
+2012,krr-k2,19,empt cell,0,
+2012,krr-k2,20,teuc mont,5,
+2012,krr-k2,21,teuc mont,6,
+2012,krr-k2,22,teuc mont,8,
+2012,krr-k2,23,empt cell,0,
+2012,krr-k2,24,empt cell,0,
+2012,krr-k2,25,empt cell,0,
+2012,krr-k3,1,empt cell,0,
+2012,krr-k3,2,empt cell,0,
+2012,krr-k3,3,aren serp,7,
+2012,krr-k3,4,gali luci,3,
+2012,krr-k3,5,anch offi,2,
+2012,krr-k3,6,sedu albu,3,
+2012,krr-k3,7,sedu albu,4,
+2012,krr-k3,8,empt cell,0,
+2012,krr-k3,9,empt cell,0,
+2012,krr-k3,10,cent scab bade,11,
+2012,krr-k3,11,empt cell,0,
+2012,krr-k3,12,sedu albu,4,
+2012,krr-k3,13,gali luci,4,
+2012,krr-k3,14,alli lusi,11,
+2012,krr-k3,15,sedu albu,2,
+2012,krr-k3,16,teuc mont,11,
+2012,krr-k3,17,alli lusi,6,
+2012,krr-k3,18,empt cell,0,
+2012,krr-k3,19,empt cell,0,
+2012,krr-k3,20,empt cell,0,
+2012,krr-k3,21,leon inca,8,
+2012,krr-k3,22,sedu albu,4,
+2012,krr-k3,23,cent scab bade,10,
+2012,krr-k3,24,teuc mont,13,
+2012,krr-k3,25,alli lusi,15,
+2012,krr-k4,1,sedu albu,13,
+2012,krr-k4,2,cent scab bade,20,
+2012,krr-k4,3,teuc botr,3,
+2012,krr-k4,4,sang mino mino,7,
+2012,krr-k4,5,sedu albu,5,
+2012,krr-k4,6,vinc hiru,27,
+2012,krr-k4,7,vinc hiru,32,
+2012,krr-k4,8,vinc hiru,38,
+2012,krr-k4,9,cent scab bade,21,
+2012,krr-k4,10,medi lupu,3,
+2012,krr-k4,11,sedu albu,3,
+2012,krr-k4,12,teuc botr,16,
+2012,krr-k4,13,vinc hiru,24,
+2012,krr-k4,14,vinc hiru,42,
+2012,krr-k4,15,vinc hiru,54,
+2012,krr-k4,16,meli cili,6,
+2012,krr-k4,17,vinc hiru,23,
+2012,krr-k4,18,vinc hiru,40,
+2012,krr-k4,19,teuc botr,4,
+2012,krr-k4,20,sedu albu,1,
+2012,krr-k4,21,empt cell,0,
+2012,krr-k4,22,sedu albu,2,
+2012,krr-k4,23,alli lusi,9,
+2012,krr-k4,24,jovi glob hirt,4,
+2012,krr-k4,25,sedu albu,4,
+2012,krr-k5,1,empt cell,0,
+2012,krr-k5,2,sedu albu,3,
+2012,krr-k5,3,jovi glob hirt,1,
+2012,krr-k5,4,jovi glob hirt,1,
+2012,krr-k5,5,jovi glob hirt,2,
+2012,krr-k5,6,meli cili,7,
+2012,krr-k5,7,sedu albu,4,
+2012,krr-k5,8,sedu albu,3,
+2012,krr-k5,9,sedu albu,5,
+2012,krr-k5,10,sedu albu,3,
+2012,krr-k5,11,empt cell,0,
+2012,krr-k5,12,empt cell,0,
+2012,krr-k5,13,sedu albu,2,
+2012,krr-k5,14,jovi glob hirt,1,
+2012,krr-k5,15,jovi glob hirt,1,
+2012,krr-k5,16,sedu albu,6,
+2012,krr-k5,17,sedu albu,3,
+2012,krr-k5,18,empt cell,0,
+2012,krr-k5,19,empt cell,0,
+2012,krr-k5,20,empt cell,0,
+2012,krr-k5,21,teuc mont,8,
+2012,krr-k5,22,teuc mont,4,
+2012,krr-k5,23,empt cell,0,
+2012,krr-k5,24,sedu albu,7,
+2012,krr-k5,25,sedu albu,6,
+2012,krr-k6,1,anch offi,12,
+2012,krr-k6,2,anch offi,13,
+2012,krr-k6,3,ajug gene,4,
+2012,krr-k6,4,leon inca,4,
+2012,krr-k6,5,anch offi,3,
+2012,krr-k6,6,anch offi,7,
+2012,krr-k6,7,leon inca,3,
+2012,krr-k6,8,leon inca,4,
+2012,krr-k6,9,sedu albu,7,
+2012,krr-k6,10,erys sylv,5,
+2012,krr-k6,11,empt cell,0,
+2012,krr-k6,12,sedu albu,5,
+2012,krr-k6,13,sedu albu,2,
+2012,krr-k6,14,jovi glob hirt,2,
+2012,krr-k6,15,teuc mont,6,
+2012,krr-k6,16,teuc mont,6,
+2012,krr-k6,17,teuc mont,7,
+2012,krr-k6,18,teuc mont,6,
+2012,krr-k6,19,sedu albu,3,
+2012,krr-k6,20,sedu albu,3,
+2012,krr-k6,21,jovi glob hirt,1,
+2012,krr-k6,22,sedu albu,2,
+2012,krr-k6,23,jovi glob hirt,1,
+2012,krr-k6,24,teuc mont,6,
+2012,krr-k6,25,teuc mont,5,
+2012,krr-k7,1,sedu albu,2,
+2012,krr-k7,2,sedu albu,4,
+2012,krr-k7,3,jovi glob hirt,1,
+2012,krr-k7,4,sedu albu,4,
+2012,krr-k7,5,jovi glob hirt,1,
+2012,krr-k7,6,sedu albu,5,
+2012,krr-k7,7,alli lusi,4,
+2012,krr-k7,8,sedu albu,3,
+2012,krr-k7,9,sedu albu,3,
+2012,krr-k7,10,sedu albu,4,
+2012,krr-k7,11,sedu albu,2,
+2012,krr-k7,12,jovi glob hirt,2,
+2012,krr-k7,13,jovi glob hirt,1,
+2012,krr-k7,14,sedu albu,2,
+2012,krr-k7,15,sedu albu,3,
+2012,krr-k7,16,jovi glob hirt,1,
+2012,krr-k7,17,sedu albu,3,
+2012,krr-k7,18,sedu albu,3,
+2012,krr-k7,19,jovi glob hirt,1,
+2012,krr-k7,20,jovi glob hirt,2,
+2012,krr-k7,21,sedu albu,6,
+2012,krr-k7,22,jovi glob hirt,2,
+2012,krr-k7,23,jovi glob hirt,1,
+2012,krr-k7,24,sedu albu,3,
+2012,krr-k7,25,jovi glob hirt,1,
+2012,krr-k8,1,sedu albu,6,
+2012,krr-k8,2,heli numm obsc,5,
+2012,krr-k8,3,jovi glob hirt,1,
+2012,krr-k8,4,aren serp,5,
+2012,krr-k8,5,care humi,5,
+2012,krr-k8,6,care humi,12,
+2012,krr-k8,7,care humi,7,
+2012,krr-k8,8,jovi glob hirt,1,
+2012,krr-k8,9,sedu albu,4,
+2012,krr-k8,10,jovi glob hirt,2,
+2012,krr-k8,11,echi vulg,11,
+2012,krr-k8,12,jovi glob hirt,1,
+2012,krr-k8,13,sedu albu,2,
+2012,krr-k8,14,hack defl,7,
+2012,krr-k8,15,hack defl,9,
+2012,krr-k8,16,anch offi,17,
+2012,krr-k8,17,anch offi,14,
+2012,krr-k8,18,sedu albu,9,
+2012,krr-k8,19,sedu albu,5,
+2012,krr-k8,20,jovi glob hirt,1,
+2012,krr-k8,21,sedu albu,6,
+2012,krr-k8,22,sedu albu,2,
+2012,krr-k8,23,lact vimi,3,
+2012,krr-k8,24,sedu albu,6,
+2012,krr-k8,25,anch offi,7,
+2012,krr-z1,1,teuc cham,7,
+2012,krr-z1,2,alli lusi,20,
+2012,krr-z1,3,leon inca,13,
+2012,krr-z1,4,leon inca,12,
+2012,krr-z1,5,sese aust,4,
+2012,krr-z1,6,sedu albu,3,
+2012,krr-z1,7,leon inca,13,
+2012,krr-z1,8,leon inca,13,
+2012,krr-z1,9,alli lusi,16,
+2012,krr-z1,10,teuc mont,8,
+2012,krr-z1,11,leon inca,7,
+2012,krr-z1,12,leon inca,12,
+2012,krr-z1,13,scab ochr,42,
+2012,krr-z1,14,meli cili,8,
+2012,krr-z1,15,meli cili,20,
+2012,krr-z1,16,meli cili,17,
+2012,krr-z1,17,scab ochr,43,
+2012,krr-z1,18,scab ochr,47,
+2012,krr-z1,19,alli lusi,15,
+2012,krr-z1,20,jovi glob hirt,2,
+2012,krr-z1,21,scab ochr,26,
+2012,krr-z1,22,scab ochr,45,
+2012,krr-z1,23,scab ochr,55,
+2012,krr-z1,24,scab ochr,58,
+2012,krr-z1,25,scab ochr,38,
+2012,krr-z2,1,sedu albu,7,
+2012,krr-z2,2,sedu albu,3,
+2012,krr-z2,3,empt cell,0,
+2012,krr-z2,4,sedu albu,3,
+2012,krr-z2,5,sedu albu,5,
+2012,krr-z2,6,gali luci,13,
+2012,krr-z2,7,sedu albu,5,
+2012,krr-z2,8,dory germ,6,
+2012,krr-z2,9,dory germ,11,
+2012,krr-z2,10,dory germ,9,
+2012,krr-z2,11,dory germ,9,
+2012,krr-z2,12,dory germ,9,
+2012,krr-z2,13,sedu albu,9,
+2012,krr-z2,14,jovi glob hirt,1,
+2012,krr-z2,15,gali luci,24,
+2012,krr-z2,16,gali luci,24,
+2012,krr-z2,17,gali luci,20,
+2012,krr-z2,18,jovi glob hirt,2,
+2012,krr-z2,19,jovi glob hirt,1,
+2012,krr-z2,20,sedu albu,4,
+2012,krr-z2,21,sedu albu,5,
+2012,krr-z2,22,sedu albu,8,
+2012,krr-z2,23,jovi glob hirt,1,
+2012,krr-z2,24,gali luci,12,
+2012,krr-z2,25,gali luci,14,
+2012,krr-z3,1,gali luci,30,
+2012,krr-z3,2,leon inca,13,
+2012,krr-z3,3,care humi,17,
+2012,krr-z3,4,secu vari,14,
+2012,krr-z3,5,meli cili,19,
+2012,krr-z3,6,vinc hiru,33,
+2012,krr-z3,7,vinc hiru,33,
+2012,krr-z3,8,care humi,27,
+2012,krr-z3,9,care humi,25,
+2012,krr-z3,10,gali luci,21,
+2012,krr-z3,11,gali luci,28,
+2012,krr-z3,12,care humi,20,
+2012,krr-z3,13,care humi,28,
+2012,krr-z3,14,vinc hiru,28,
+2012,krr-z3,15,vinc hiru,34,
+2012,krr-z3,16,care humi,29,
+2012,krr-z3,17,vinc hiru,23,
+2012,krr-z3,18,care humi,28,
+2012,krr-z3,19,care humi,25,
+2012,krr-z3,20,sedu albu,6,
+2012,krr-z3,21,sedu albu,3,
+2012,krr-z3,22,leon inca,11,
+2012,krr-z3,23,leon inca,16,
+2012,krr-z3,24,care humi,37,
+2012,krr-z3,25,care humi,30,
+2012,krr-z4,1,gali luci,20,
+2012,krr-z4,2,gali luci,36,
+2012,krr-z4,3,gali luci,23,
+2012,krr-z4,4,sesl caer,20,
+2012,krr-z4,5,sesl caer,18,
+2012,krr-z4,6,euph cypa,17,
+2012,krr-z4,7,gali luci,23,
+2012,krr-z4,8,gali luci,25,
+2012,krr-z4,9,gali luci,42,
+2012,krr-z4,10,gali luci,23,
+2012,krr-z4,11,gali luci,36,
+2012,krr-z4,12,care humi,20,
+2012,krr-z4,13,teuc mont,8,
+2012,krr-z4,14,euph cypa,11,
+2012,krr-z4,15,euph cypa,12,
+2012,krr-z4,16,sedu albu,7,
+2012,krr-z4,17,jovi glob hirt,2,
+2012,krr-z4,18,teuc mont,12,
+2012,krr-z4,19,gali luci,30,
+2012,krr-z4,20,gali luci,28,
+2012,krr-z4,21,meli cili,29,
+2012,krr-z4,22,meli cili,56,
+2012,krr-z4,23,meli cili,42,
+2012,krr-z4,24,euph cypa,10,
+2012,krr-z4,25,sedu albu,10,
+2012,krr-z5,1,jovi glob hirt,1,
+2012,krr-z5,2,sedu albu,4,
+2012,krr-z5,3,sedu albu,5,
+2012,krr-z5,4,sedu albu,7,
+2012,krr-z5,5,sedu albu,5,
+2012,krr-z5,6,scab ochr,61,
+2012,krr-z5,7,scab ochr,32,
+2012,krr-z5,8,sedu albu,4,
+2012,krr-z5,9,sedu albu,6,
+2012,krr-z5,10,sedu albu,5,
+2012,krr-z5,11,sese aust,50,
+2012,krr-z5,12,sese aust,87,
+2012,krr-z5,13,scab ochr,73,
+2012,krr-z5,14,sese aust,73,
+2012,krr-z5,15,scab ochr,51,
+2012,krr-z5,16,scab ochr,54,
+2012,krr-z5,17,sese aust,63,
+2012,krr-z5,18,sese aust,83,
+2012,krr-z5,19,sese aust,50,
+2012,krr-z5,20,sese aust,37,
+2012,krr-z5,21,sese aust,40,
+2012,krr-z5,22,sese aust,84,
+2012,krr-z5,23,sese aust,79,
+2012,krr-z5,24,sese aust,55,
+2012,krr-z5,25,sese aust,70,
+2012,krr-z6,1,jovi glob hirt,1,
+2012,krr-z6,2,jovi glob hirt,1,
+2012,krr-z6,3,jovi glob hirt,1,
+2012,krr-z6,4,sedu albu,5,
+2012,krr-z6,5,jovi glob hirt,2,
+2012,krr-z6,6,gali luci,20,
+2012,krr-z6,7,gali luci,46,
+2012,krr-z6,8,gali luci,30,
+2012,krr-z6,9,jovi glob hirt,2,
+2012,krr-z6,10,sedu albu,4,
+2012,krr-z6,11,teuc mont,6,
+2012,krr-z6,12,leon inca,18,
+2012,krr-z6,13,gali luci,41,
+2012,krr-z6,14,gali luci,35,
+2012,krr-z6,15,gali luci,31,
+2012,krr-z6,16,gali luci,25,
+2012,krr-z6,17,gali luci,36,
+2012,krr-z6,18,care humi,16,
+2012,krr-z6,19,care humi,17,
+2012,krr-z6,20,leon inca,13,
+2012,krr-z6,21,scab ochr,43,
+2012,krr-z6,22,scab ochr,58,
+2012,krr-z6,23,scab ochr,57,
+2012,krr-z6,24,leon inca,20,
+2012,krr-z6,25,leon inca,21,
+2012,krr-z7,1,leon inca,14,
+2012,krr-z7,2,leon inca,16,
+2012,krr-z7,3,gali luci,13,
+2012,krr-z7,4,gali luci,67,
+2012,krr-z7,5,gali luci,54,
+2012,krr-z7,6,bupl falc falc,40,
+2012,krr-z7,7,gali luci,20,
+2012,krr-z7,8,leon inca,16,
+2012,krr-z7,9,gali luci,21,
+2012,krr-z7,10,gali luci,50,
+2012,krr-z7,11,gali luci,22,
+2012,krr-z7,12,gali luci,53,
+2012,krr-z7,13,gali luci,43,
+2012,krr-z7,14,gali luci,60,
+2012,krr-z7,15,gali luci,50,
+2012,krr-z7,16,gali luci,39,
+2012,krr-z7,17,gali luci,40,
+2012,krr-z7,18,gali luci,54,
+2012,krr-z7,19,gali luci,18,
+2012,krr-z7,20,jovi glob hirt,1,
+2012,krr-z7,21,sedu albu,8,
+2012,krr-z7,22,gali luci,48,
+2012,krr-z7,23,gali luci,40,
+2012,krr-z7,24,gali luci,55,
+2012,krr-z7,25,gali luci,30,
+2012,krr-z8,1,secu vari,40,
+2012,krr-z8,2,gali luci,70,
+2012,krr-z8,3,gali luci,60,
+2012,krr-z8,4,gali luci,67,
+2012,krr-z8,5,gali luci,65,
+2012,krr-z8,6,gali luci,84,
+2012,krr-z8,7,gali luci,70,
+2012,krr-z8,8,gali luci,65,
+2012,krr-z8,9,gali luci,53,
+2012,krr-z8,10,secu vari,39,
+2012,krr-z8,11,secu vari,34,
+2012,krr-z8,12,gali luci,66,
+2012,krr-z8,13,gali luci,67,
+2012,krr-z8,14,gali luci,77,
+2012,krr-z8,15,gali luci,62,
+2012,krr-z8,16,gali luci,70,
+2012,krr-z8,17,gali luci,72,
+2012,krr-z8,18,gali luci,70,
+2012,krr-z8,19,gali luci,64,
+2012,krr-z8,20,gali luci,62,
+2012,krr-z8,21,secu vari,43,
+2012,krr-z8,22,gali luci,45,
+2012,krr-z8,23,gali luci,67,
+2012,krr-z8,24,gali luci,78,
+2012,krr-z8,25,gali luci,54,

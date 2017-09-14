@@ -1,864 +1,864 @@
-year;plot;abbr;layer;freq;flower;comment;history
-2010;htl-k1;ajug gene;hl;1;;;
-2010;htl-k1;anch offi;hl;4;;;
-2010;htl-k1;anth ramo;hl;1;;;
-2010;htl-k1;aren serp;hl;1;;;
-2010;htl-k1;brom tect;hl;1;;cf.;
-2010;htl-k1;erys sylv;hl;6;;;
-2010;htl-k1;heli numm glab;hl;9;;;
-2010;htl-k1;jovi glob hirt;hl;13;;;
-2010;htl-k1;hack defl;hl;8;;;
-2010;htl-k1;sang mino mino;hl;8;;;
-2010;htl-k1;sedu albu;hl;11;;;
-2010;htl-k1;tara sect rude;hl;1;;;
-2010;htl-k1;teuc cham;hl;16;;;
-2010;htl-k1;teuc mont;hl;1;;;
-2010;htl-k1;viol tric saxa;hl;1;;;
-2010;htl-k2;alli lusi;hl;3;;;
-2010;htl-k2;aren serp;hl;1;;;
-2010;htl-k2;echi vulg;hl;3;;;
-2010;htl-k2;erys sylv;hl;6;;;
-2010;htl-k2;fuma schl;hl;1;;;
-2010;htl-k2;jovi glob hirt;hl;3;;;
-2010;htl-k2;rese lute;hl;1;;;
-2010;htl-k2;sedu albu;hl;16;;;
-2010;htl-k2;teuc cham;hl;9;;;
-2010;htl-k2;vinc hiru;hl;1;;;
-2010;htl-k3;anth ramo;hl;2;;;
-2010;htl-k3;aren serp;hl;8;;;
-2010;htl-k3;card cras glau;hl;1;;;
-2010;htl-k3;card nuta nuta;hl;4;;;
-2010;htl-k3;hype perf;hl;2;;;
-2010;htl-k3;jovi glob hirt;hl;14;;;
-2010;htl-k3;rese lute;hl;1;;cf.;
-2010;htl-k3;sedu albu;hl;8;;;
-2010;htl-k3;teuc mont;hl;1;;;
-2010;htl-k4;anth ramo;hl;4;;;
-2010;htl-k4;erys sylv;hl;4;;;
-2010;htl-k4;euph cypa;hl;1;;;
-2010;htl-k4;jovi glob hirt;hl;10;;;
-2010;htl-k4;pelt alli;hl;2;;;
-2010;htl-k4;sedu albu;hl;8;;;
-2010;htl-k4;teuc cham;hl;2;;;
-2010;htl-k4;teuc mont;hl;2;;;
-2010;htl-k5;alli lusi;hl;1;;;
-2010;htl-k5;arab spec ies;hl;1;;;
-2010;htl-k5;aren serp;hl;10;;;
-2010;htl-k5;dory germ;hl;1;;;
-2010;htl-k5;sedu albu;hl;17;;;
-2010;htl-k6;anth ramo;hl;3;;;
-2010;htl-k6;anth vuln slat;hl;4;;;
-2010;htl-k6;aren serp;hl;11;;;
-2010;htl-k6;card cras glau;hl;1;;;
-2010;htl-k6;echi vulg;hl;3;;;
-2010;htl-k6;jovi glob hirt;hl;5;;;
-2010;htl-k6;poa bade;hl;1;;;
-2010;htl-k6;rese lute;hl;6;;;
-2010;htl-k6;salv glut;hl;1;;;
-2010;htl-k6;secu vari;hl;4;;;
-2010;htl-k6;sedu albu;hl;13;;;
-2010;htl-k6;tara sect rude;hl;1;;;
-2010;htl-k6;teuc cham;hl;8;;;
-2010;htl-k6;teuc mont;hl;4;;;
-2010;htl-k6;vinc hiru;hl;22;;;
-2010;htl-k7;anth ramo;hl;2;;;
-2010;htl-k7;aren serp;hl;9;;;
-2010;htl-k7;erys sylv;hl;6;;;
-2010;htl-k7;jovi glob hirt;hl;15;;;
-2010;htl-k7;lotu corn;hl;1;;;
-2010;htl-k7;orig vulg;hl;1;;;
-2010;htl-k7;pelt alli;hl;1;;;
-2010;htl-k7;sedu albu;hl;14;;;
-2010;htl-k7;teuc mont;hl;4;;;
-2010;htl-k8;anth vuln slat;hl;1;;;
-2010;htl-k8;aren serp;hl;9;;;
-2010;htl-k8;card cras glau;hl;1;;;
-2010;htl-k8;card nuta nuta;hl;4;;;
-2010;htl-k8;erys sylv;hl;5;;;
-2010;htl-k8;frax exce;hl;1;;;
-2010;htl-k8;hype perf;hl;1;;;
-2010;htl-k8;jovi glob hirt;hl;17;;;
-2010;htl-k8;lina geni;hl;1;;;
-2010;htl-k8;orig vulg;hl;3;;;
-2010;htl-k8;pote pusi;hl;3;;;
-2010;htl-k8;sedu albu;hl;8;;;
-2010;htl-k8;teuc cham;hl;5;;;
-2010;htl-k8;vinc hiru;hl;19;;;
-2010;htl-k8;viol coll;hl;1;;;
-2010;htl-k8;viol tric saxa;hl;1;;;
-2010;htl-z1;anth ramo;hl;4;;;
-2010;htl-z1;aren serp;hl;5;;;
-2010;htl-z1;erys sylv;hl;1;;;
-2010;htl-z1;jovi glob hirt;hl;2;;;
-2010;htl-z1;pelt alli;hl;10;;;
-2010;htl-z1;sedu albu;hl;22;;;
-2010;htl-z2;anth ramo;hl;2;;;
-2010;htl-z2;aren serp;hl;6;;;
-2010;htl-z2;erys sylv;hl;8;;;
-2010;htl-z2;jovi glob hirt;hl;4;;;
-2010;htl-z2;sedu albu;hl;23;;;
-2010;htl-z2;sese aust;hl;1;;;
-2010;htl-z3;anch offi;hl;2;;;
-2010;htl-z3;aren serp;hl;6;;;
-2010;htl-z3;card cras glau;hl;2;;;
-2010;htl-z3;hype perf;hl;4;;;
-2010;htl-z3;jovi glob hirt;hl;11;;;
-2010;htl-z3;pelt alli;hl;3;;;
-2010;htl-z3;poa prat;hl;17;;;
-2010;htl-z3;sedu albu;hl;19;;;
-2010;htl-z3;tara sect rude;hl;3;;;
-2010;htl-z3;viol coll;hl;4;;;
-2010;htl-z4;acon anth;hl;4;;;
-2010;htl-z4;anth ramo;hl;3;;;
-2010;htl-z4;aren serp;hl;20;;;
-2010;htl-z4;aspe cyna;hl;2;;;
-2010;htl-z4;card cras glau;hl;1;;;
-2010;htl-z4;erys sylv;hl;1;;;
-2010;htl-z4;heli numm obsc;hl;8;;;
-2010;htl-z4;jovi glob hirt;hl;7;;;
-2010;htl-z4;meli cili;hl;7;;;
-2010;htl-z4;orig vulg;hl;10;;;
-2010;htl-z4;pote pusi;hl;1;;;
-2010;htl-z4;sedu albu;hl;8;;;
-2010;htl-z4;sene vulg;hl;1;;cf.;
-2010;htl-z4;tara sect rude;hl;1;;;
-2010;htl-z4;teuc cham;hl;11;;;
-2010;htl-z4;vinc hiru;hl;7;;;
-2010;htl-z5;anth ramo;hl;8;;;
-2010;htl-z5;aren serp;hl;2;;;
-2010;htl-z5;aspe cyna;hl;3;;;
-2010;htl-z5;erys sylv;hl;3;;;
-2010;htl-z5;fuma schl;hl;1;;;
-2010;htl-z5;heli numm obsc;hl;10;;;
-2010;htl-z5;jovi glob hirt;hl;10;;;
-2010;htl-z5;orig vulg;hl;2;;;
-2010;htl-z5;rese lute;hl;5;;;
-2010;htl-z5;sedu albu;hl;16;;;
-2010;htl-z5;tara sect rude;hl;5;;;
-2010;htl-z5;teuc mont;hl;2;;;
-2010;htl-z5;viol coll;hl;1;;;
-2010;htl-z6;aren serp;hl;25;;;
-2010;htl-z6;erys sylv;hl;2;;;
-2010;htl-z6;jovi glob hirt;hl;12;;;
-2010;htl-z6;hack defl;hl;2;;;
-2010;htl-z6;orig vulg;hl;4;;;
-2010;htl-z6;sedu albu;hl;11;;;
-2010;htl-z7;aren serp;hl;24;;;
-2010;htl-z7;glob cord;hl;2;;;
-2010;htl-z7;jovi glob hirt;hl;2;;;
-2010;htl-z7;pelt alli;hl;1;;;
-2010;htl-z7;sedu albu;hl;8;;;
-2010;htl-z7;tara sect rude;hl;5;;;
-2010;htl-z7;teuc cham;hl;2;;;
-2010;htl-z7;vinc hiru;hl;8;;;
-2010;htl-z8;acon anth;hl;2;;;
-2010;htl-z8;aren serp;hl;12;;;
-2010;htl-z8;fuma schl;hl;12;;;
-2010;htl-z8;jovi glob hirt;hl;1;;;
-2010;htl-z8;pelt alli;hl;2;;;
-2010;htl-z8;rese lute;hl;5;;;
-2010;htl-z8;sedu albu;hl;10;;;
-2010;htl-z8;tara sect rude;hl;10;;;
-2010;htl-z8;teuc cham;hl;9;;;
-2010;htl-z8;vinc hiru;hl;12;;;
-2010;htl-z8;viol coll;hl;2;;;
-2010;krr-k1;alli lusi;hl;1;;;
-2010;krr-k1;card nuta nuta;hl;4;;;
-2010;krr-k1;gali luci;hl;1;;;
-2010;krr-k1;jovi glob hirt;hl;15;;;
-2010;krr-k1;sedu albu;hl;11;;;
-2010;krr-k2;anch offi;hl;8;;;
-2010;krr-k2;aren serp;hl;6;;;
-2010;krr-k2;bupl falc falc;hl;2;;;
-2010;krr-k2;gali luci;hl;1;;;
-2010;krr-k2;jovi glob hirt;hl;2;;;
-2010;krr-k2;medi lupu;hl;1;;;
-2010;krr-k2;prun maha;hl;1;;;
-2010;krr-k2;rese lute;hl;9;;;
-2010;krr-k2;rosa cani;hl;1;;;
-2010;krr-k2;sedu albu;hl;8;;;
-2010;krr-k2;tara sect rude;hl;2;;;
-2010;krr-k2;teuc mont;hl;3;;;
-2010;krr-k3;alli lusi;hl;2;;;
-2010;krr-k3;anch offi;hl;2;;;
-2010;krr-k3;aren serp;hl;5;;;
-2010;krr-k3;echi vulg;hl;2;;;
-2010;krr-k3;erys sylv;hl;2;;;
-2010;krr-k3;gali luci;hl;1;;;
-2010;krr-k3;jovi glob hirt;hl;2;;;
-2010;krr-k3;sedu albu;hl;22;;;
-2010;krr-k3;sese aust;hl;2;;;
-2010;krr-k3;sesl caer;hl;1;;;
-2010;krr-k3;verb offi;hl;3;;;
-2010;krr-k4;clin acin;hl;1;;;
-2010;krr-k4;alli lusi;hl;2;;;
-2010;krr-k4;anch offi;hl;1;;;
-2010;krr-k4;aren serp;hl;7;;;
-2010;krr-k4;bupl falc falc;hl;1;;;
-2010;krr-k4;gali luci;hl;2;;;
-2010;krr-k4;jovi glob hirt;hl;11;;;
-2010;krr-k4;medi lupu;hl;7;;;
-2010;krr-k4;meli cili;hl;2;;;
-2010;krr-k4;sedu albu;hl;16;;;
-2010;krr-k4;sese aust;hl;1;;;
-2010;krr-k4;verb offi;hl;2;;;
-2010;krr-k4;vinc hiru;hl;10;;;
-2010;krr-k5;aren serp;hl;3;;;
-2010;krr-k5;euph cypa;hl;1;;;
-2010;krr-k5;gali luci;hl;1;;;
-2010;krr-k5;jovi glob hirt;hl;11;;;
-2010;krr-k5;sedu albu;hl;10;;;
-2010;krr-k5;teuc mont;hl;1;;;
-2010;krr-k6;clin acin;hl;1;;;
-2010;krr-k6;ajug gene;hl;3;;;
-2010;krr-k6;bupl falc falc;hl;2;;;
-2010;krr-k6;jovi glob hirt;hl;11;;;
-2010;krr-k6;leon inca;hl;5;;;
-2010;krr-k6;rese lute;hl;2;;;
-2010;krr-k6;sedu albu;hl;19;;;
-2010;krr-k6;teuc mont;hl;5;;;
-2010;krr-k7;clin acin;hl;2;;;
-2010;krr-k7;alli lusi;hl;2;;;
-2010;krr-k7;aren serp;hl;3;;;
-2010;krr-k7;erys sylv;hl;5;;;
-2010;krr-k7;jovi glob hirt;hl;24;;;
-2010;krr-k7;rese lute;hl;2;;;
-2010;krr-k7;sedu albu;hl;7;;;
-2010;krr-k8;clin acin;hl;2;;;
-2010;krr-k8;alli lusi;hl;1;;;
-2010;krr-k8;aren serp;hl;3;;;
-2010;krr-k8;care humi;hl;3;;;
-2010;krr-k8;echi vulg;hl;1;;;
-2010;krr-k8;jovi glob hirt;hl;24;;;
-2010;krr-k8;pelt alli;hl;3;;;
-2010;krr-k8;rese lute;hl;2;;;
-2010;krr-k8;sedu albu;hl;15;;;
-2010;krr-z1;alli lusi;hl;7;;;
-2010;krr-z1;aren serp;hl;2;;;
-2010;krr-z1;jovi glob hirt;hl;24;;;
-2010;krr-z1;leon inca;hl;6;;;
-2010;krr-z1;meli cili;hl;4;;;
-2010;krr-z1;rese lute;hl;4;;;
-2010;krr-z1;scab ochr;hl;5;;;
-2010;krr-z1;sedu albu;hl;16;;;
-2010;krr-z1;tara sect rude;hl;1;;;
-2010;krr-z1;teuc cham;hl;2;;;
-2010;krr-z1;teuc mont;hl;2;;;
-2010;krr-z1;verb thap;hl;3;;;
-2010;krr-z2;aren serp;hl;1;;;
-2010;krr-z2;brom tect;hl;1;;cf.;
-2010;krr-z2;dory germ;hl;1;;;
-2010;krr-z2;erys sylv;hl;2;;;
-2010;krr-z2;gali luci;hl;2;;;
-2010;krr-z2;jovi glob hirt;hl;20;;;
-2010;krr-z2;micr minu;hl;1;;;
-2010;krr-z2;sedu albu;hl;12;;;
-2010;krr-z3;aren serp;hl;9;;;
-2010;krr-z3;care humi;hl;15;;;
-2010;krr-z3;gali luci;hl;1;;margin;
-2010;krr-z3;jovi glob hirt;hl;9;;;
-2010;krr-z3;meli cili;hl;1;;margin;
-2010;krr-z3;sedu albu;hl;12;;;
-2010;krr-z3;vinc hiru;hl;20;;;
-2010;krr-z4;anch offi;hl;3;;cf.;
-2010;krr-z4;aren serp;hl;2;;;
-2010;krr-z4;care humi;hl;2;;;
-2010;krr-z4;erys sylv;hl;3;;;
-2010;krr-z4;euph cypa;hl;1;;;
-2010;krr-z4;gali luci;hl;1;;;
-2010;krr-z4;jovi glob hirt;hl;8;;;
-2010;krr-z4;meli cili;hl;2;;;
-2010;krr-z4;sang mino mino;hl;4;;;
-2010;krr-z4;sedu albu;hl;20;;;
-2010;krr-z4;sesl caer;hl;2;;;
-2010;krr-z4;teuc mont;hl;3;;;
-2010;krr-z5;alli lusi;hl;3;;;
-2010;krr-z5;aren serp;hl;9;;germ bud;
-2010;krr-z5;card cras glau;hl;2;;;
-2010;krr-z5;care humi;hl;7;;;
-2010;krr-z5;jovi glob hirt;hl;23;;;
-2010;krr-z5;prun maha;hl;1;;;
-2010;krr-z5;scab ochr;hl;4;;;
-2010;krr-z5;sedu albu;hl;10;;;
-2010;krr-z5;sese aust;hl;16;;;
-2010;krr-z5;viol tric saxa;hl;2;;;
-2010;krr-z6;aren serp;hl;9;;;
-2010;krr-z6;care humi;hl;2;;;
-2010;krr-z6;fuma schl;hl;2;;;
-2010;krr-z6;gali luci;hl;6;;;
-2010;krr-z6;jovi glob hirt;hl;23;;;
-2010;krr-z6;lact vimi;hl;9;;;
-2010;krr-z6;leon inca;hl;3;;;
-2010;krr-z6;lina geni;hl;2;;;
-2010;krr-z6;sedu albu;hl;20;;;
-2010;krr-z7;anch offi;hl;1;;;
-2010;krr-z7;bupl falc falc;hl;3;;;
-2010;krr-z7;card nuta nuta;hl;2;;;
-2010;krr-z7;gali luci;hl;4;;;
-2010;krr-z7;jovi glob hirt;hl;14;;;
-2010;krr-z7;leon inca;hl;4;;;
-2010;krr-z7;rese lute;hl;2;;;
-2010;krr-z7;sedu albu;hl;19;;;
-2010;krr-z7;sese aust;hl;1;;;
-2010;krr-z8;clin acin;hl;1;;;
-2010;krr-z8;gali luci;hl;1;;;
-2010;krr-z8;jovi glob hirt;hl;18;;;
-2010;krr-z8;micr minu;hl;1;;;
-2010;krr-z8;sang mino mino;hl;2;;;
-2010;krr-z8;secu vari;hl;6;;;
-2010;krr-z8;sedu albu;hl;22;;;
-2011;htl-k1;ajug gene;hl;4;1;;
-2011;htl-k1;anch offi;hl;2;0;;
-2011;htl-k1;aren serp;hl;2;999;;
-2011;htl-k1;erys sylv;hl;8;0;;
-2011;htl-k1;heli numm glab;hl;4;0;;
-2011;htl-k1;jovi glob hirt;hl;11;0;;
-2011;htl-k1;hack defl;hl;6;11;;
-2011;htl-k1;sang mino mino;hl;3;2;;
-2011;htl-k1;sedu albu;hl;11;999;;
-2011;htl-k1;sene vulg;hl;1;0;;
-2011;htl-k1;tara sect rude;hl;2;0;;
-2011;htl-k1;teuc cham;hl;12;21;;
-2011;htl-k1;teuc mont;hl;1;1;;
-2011;htl-k1;card nuta nuta;hl;14;2;;
-2011;htl-k2;alli lusi;hl;1;1;;
-2011;htl-k2;aren serp;hl;3;999;;
-2011;htl-k2;echi vulg;hl;7;0;;
-2011;htl-k2;erys sylv;hl;1;0;;
-2011;htl-k2;jovi glob hirt;hl;5;0;;
-2011;htl-k2;rese lute;hl;2;0;;
-2011;htl-k2;sedu albu;hl;18;999;;
-2011;htl-k2;teuc cham;hl;2;2;;
-2011;htl-k2;card nuta nuta;hl;2;0;;
-2011;htl-k3;anth ramo;hl;2;0;;
-2011;htl-k3;aren serp;hl;1;999;;
-2011;htl-k3;pelt alli;hl;1;0;;
-2011;htl-k3;hype perf;hl;2;0;;
-2011;htl-k3;jovi glob hirt;hl;7;0;;
-2011;htl-k3;sedu albu;hl;7;999;;
-2011;htl-k3;teuc mont;hl;1;0;;
-2011;htl-k4;anth ramo;hl;4;1;;
-2011;htl-k4;card nuta nuta;hl;11;0;;
-2011;htl-k4;jovi glob hirt;hl;9;0;;
-2011;htl-k4;pelt alli;hl;1;0;;
-2011;htl-k4;orig vulg;hl;1;0;;
-2011;htl-k4;sedu albu;hl;7;999;;
-2011;htl-k4;teuc cham;hl;3;3;;
-2011;htl-k4;aren serp;hl;2;999;;
-2011;htl-k5;anch offi;hl;4;0;;
-2011;htl-k5;aren serp;hl;1;999;;
-2011;htl-k5;sedu albu;hl;8;999;;
-2011;htl-k6;anth ramo;hl;3;0;;
-2011;htl-k6;jovi glob hirt;hl;8;0;;
-2011;htl-k6;pelt alli;hl;2;0;;
-2011;htl-k6;rese lute;hl;4;0;;
-2011;htl-k6;salv glut;hl;5;0;;
-2011;htl-k6;secu vari;hl;2;0;;
-2011;htl-k6;sedu albu;hl;4;999;;
-2011;htl-k6;teuc cham;hl;15;15;;
-2011;htl-k6;teuc mont;hl;6;6;;
-2011;htl-k6;vinc hiru;hl;25;27;;
-2011;htl-k7;aren serp;hl;3;999;;
-2011;htl-k7;erys sylv;hl;6;3;;
-2011;htl-k7;jovi glob hirt;hl;16;0;;
-2011;htl-k7;orig vulg;hl;3;1;;
-2011;htl-k7;pelt alli;hl;1;0;;
-2011;htl-k7;pote pusi;hl;1;0;;
-2011;htl-k7;sedu albu;hl;19;999;;
-2011;htl-k7;teuc mont;hl;5;1;;
-2011;htl-k8;ajug gene;hl;1;0;;
-2011;htl-k8;card nuta nuta;hl;2;0;;
-2011;htl-k8;erys sylv;hl;4;0;;
-2011;htl-k8;frax exce;hl;1;0;;
-2011;htl-k8;heli numm glab;hl;1;0;;
-2011;htl-k8;hype perf;hl;4;1;;
-2011;htl-k8;jovi glob hirt;hl;20;0;;
-2011;htl-k8;hack defl;hl;4;1;;
-2011;htl-k8;orig vulg;hl;11;6;;
-2011;htl-k8;pote pusi;hl;8;0;;
-2011;htl-k8;sedu albu;hl;20;999;;
-2011;htl-k8;teuc cham;hl;9;19;;
-2011;htl-k8;vinc hiru;hl;20;20;frequency measured: 20 / flowers measured: 18;
-2011;htl-z1;anth ramo;hl;4;1;frequency measured: 1 / flowers measured: 0;
-2011;htl-z1;erys sylv;hl;1;6;;
-2011;htl-z1;jovi glob hirt;hl;5;0;;
-2011;htl-z1;meli cili;hl;7;3;frequency measured: 7 / flowers measured: 0;
-2011;htl-z1;pelt alli;hl;1;0;;
-2011;htl-z1;sedu albu;hl;25;999;;
-2011;htl-z1;clin acin;hl;4;5;;
-2011;htl-z2;anth ramo;hl;2;2;frequency measured: 0 / flowers measured: 0;
-2011;htl-z2;meli cili;hl;1;0;;
-2011;htl-z2;erys sylv;hl;14;7;;
-2011;htl-z2;jovi glob hirt;hl;7;0;;
-2011;htl-z2;sedu albu;hl;25;999;;
-2011;htl-z2;sese aust;hl;4;1;frequency measured: 1 / flowers measured: 0;
-2011;htl-z3;brac sylv;hl;1;1;;
-2011;htl-z3;heli numm glab;hl;9;5;;
-2011;htl-z3;hype perf;hl;24;11;frequency measured: 24 / flowers measured: 11;
-2011;htl-z3;jovi glob hirt;hl;4;0;;
-2011;htl-z3;pelt alli;hl;2;1;;
-2011;htl-z3;poa comp;hl;25;54;;
-2011;htl-z3;sedu albu;hl;9;999;;
-2011;htl-z3;viol coll;hl;1;0;;
-2011;htl-z4;acon anth;hl;6;2;frequency measured: 6 / flowers measured: 0;
-2011;htl-z4;anth ramo;hl;11;1;;
-2011;htl-z4;ajug gene;hl;4;4;;
-2011;htl-z4;aspe cyna;hl;6;2;;
-2011;htl-z4;micr perf;hl;2;2;;
-2011;htl-z4;heli numm obsc;hl;16;18;;
-2011;htl-z4;jovi glob hirt;hl;4;0;;
-2011;htl-z4;meli cili;hl;8;9;frequency measured: 8 / flowers measured: 7;
-2011;htl-z4;orig vulg;hl;11;12;;
-2011;htl-z4;sedu albu;hl;13;999;;
-2011;htl-z4;teuc cham;hl;14;27;;
-2011;htl-z4;vinc hiru;hl;4;1;;
-2011;htl-z5;cent scab bade;hl;2;0;;
-2011;htl-z5;anth ramo;hl;14;5;frequency measured: 7 / flowers measured: 0;
-2011;htl-z5;aspe cyna;hl;5;1;frequency measured: 3 / flowers measured: 1;
-2011;htl-z5;erys sylv;hl;8;12;;
-2011;htl-z5;heli numm obsc;hl;20;25;frequency measured: 15 / flowers measured: 6;
-2011;htl-z5;jovi glob hirt;hl;10;0;;
-2011;htl-z5;hack defl;hl;2;1;;
-2011;htl-z5;orig vulg;hl;6;4;;
-2011;htl-z5;sedu albu;hl;19;999;;
-2011;htl-z5;tara sect rude;hl;7;0;;
-2011;htl-z5;teuc mont;hl;8;36;;
-2011;htl-z5;viol coll;hl;2;0;;
-2011;htl-z5;clin acin;hl;1;1;frequency measured: 1 / flowers measured: 0;
-2011;htl-z5;micr perf;hl;1;1;;
-2011;htl-z6;erys sylv;hl;5;5;;
-2011;htl-z6;jovi glob hirt;hl;11;0;;
-2011;htl-z6;meli cili;hl;1;0;;
-2011;htl-z6;orig vulg;hl;17;13;;
-2011;htl-z6;sedu albu;hl;17;999;;
-2011;htl-z6;micr perf;hl;2;1;;
-2011;htl-z7;glob cord;hl;6;10;;
-2011;htl-z7;heli numm glab;hl;2;0;;
-2011;htl-z7;jovi glob hirt;hl;2;0;;
-2011;htl-z7;lina geni;hl;7;1;frequency measured: 4 / flowers measured: 0;
-2011;htl-z7;pelt alli;hl;1;1;frequency measured: 1 / flowers measured: 0;
-2011;htl-z7;sedu albu;hl;19;999;;
-2011;htl-z7;tara sect rude;hl;5;2;frequency measured: 5 / flowers measured: 0;
-2011;htl-z7;teuc cham;hl;2;2;;
-2011;htl-z7;vinc hiru;hl;10;9;;
-2011;htl-z8;acon anth;hl;2;1;frequency measured: 2 / flowers measured: 0;
-2011;htl-z8;ajug gene;hl;4;0;;
-2011;htl-z8;anth ramo;hl;10;0;frequency measured: 2 / flowers measured: 0;
-2011;htl-z8;card cras glau;hl;1;0;;
-2011;htl-z8;jovi glob hirt;hl;2;0;;
-2011;htl-z8;pelt alli;hl;3;1;;
-2011;htl-z8;rese lute;hl;14;7;frequency measured: 6 / flowers measured: 0;
-2011;htl-z8;sedu albu;hl;11;999;;
-2011;htl-z8;tara sect rude;hl;15;2;frequency measured: 7 / flowers measured: 0;
-2011;htl-z8;teuc cham;hl;12;5;frequency measured: 12 / flowers measured: 1;
-2011;htl-z8;vinc hiru;hl;13;9;;
-2011;krr-k1;alli lusi;hl;1;0;;
-2011;krr-k1;aren serp;hl;2;999;;
-2011;krr-k1;gali luci;hl;4;0;;
-2011;krr-k1;jovi glob hirt;hl;15;0;;
-2011;krr-k1;sedu albu;hl;14;999;;
-2011;krr-k2;ajug gene;hl;11;0;;
-2011;krr-k2;aren serp;hl;1;999;;
-2011;krr-k2;jovi glob hirt;hl;2;0;;
-2011;krr-k2;meli cili;hl;1;0;;
-2011;krr-k2;rese lute;hl;20;1;;
-2011;krr-k2;sedu albu;hl;16;999;;
-2011;krr-k2;teuc mont;hl;3;5;;
-2011;krr-k2;cent scab bade;hl;2;0;;
-2011;krr-k2;sile lati alba;hl;2;0;;
-2011;krr-k3;alli lusi;hl;2;0;;
-2011;krr-k3;anch offi;hl;1;0;;
-2011;krr-k3;erys sylv;hl;4;1;;
-2011;krr-k3;jovi glob hirt;hl;1;0;;
-2011;krr-k3;leon inca;hl;2;0;;
-2011;krr-k3;scab ochr;hl;2;0;;
-2011;krr-k3;sedu albu;hl;16;999;;
-2011;krr-k3;sese aust;hl;1;0;;
-2011;krr-k3;sesl caer;hl;2;0;;
-2011;krr-k3;teuc mont;hl;4;2;;
-2011;krr-k4;alli lusi;hl;5;0;;
-2011;krr-k4;aren serp;hl;9;999;;
-2011;krr-k4;gali luci;hl;1;0;;
-2011;krr-k4;jovi glob hirt;hl;9;0;;
-2011;krr-k4;meli cili;hl;3;0;;
-2011;krr-k4;sedu albu;hl;16;999;;
-2011;krr-k4;sang mino mino;hl;1;0;;
-2011;krr-k4;teuc botr;hl;12;8;;
-2011;krr-k4;vinc hiru;hl;12;11;;
-2011;krr-k4;cent scab bade;hl;2;0;;
-2011;krr-k5;clin acin;hl;1;0;;
-2011;krr-k5;card nuta nuta;hl;2;0;;
-2011;krr-k5;jovi glob hirt;hl;16;0;;
-2011;krr-k5;lact vimi;hl;7;0;;
-2011;krr-k5;meli cili;hl;1;0;;
-2011;krr-k5;sedu albu;hl;18;999;;
-2011;krr-k5;teuc mont;hl;1;6;;
-2011;krr-k6;clin acin;hl;3;5;;
-2011;krr-k6;ajug gene;hl;3;0;;
-2011;krr-k6;aren serp;hl;1;999;;
-2011;krr-k6;erys sylv;hl;2;0;;
-2011;krr-k6;gali luci;hl;1;0;;
-2011;krr-k6;jovi glob hirt;hl;13;0;;
-2011;krr-k6;lact vimi;hl;2;0;;
-2011;krr-k6;leon inca;hl;10;0;;
-2011;krr-k6;sedu albu;hl;24;999;;
-2011;krr-k6;teuc mont;hl;7;8;;
-2011;krr-k7;alli lusi;hl;2;0;;
-2011;krr-k7;aren serp;hl;4;999;;
-2011;krr-k7;erys sylv;hl;3;1;;
-2011;krr-k7;jovi glob hirt;hl;24;0;;
-2011;krr-k7;rese lute;hl;5;0;;
-2011;krr-k7;sedu albu;hl;20;999;;
-2011;krr-k8;clin acin;hl;2;1;;
-2011;krr-k8;anch offi;hl;1;0;;
-2011;krr-k8;aren serp;hl;5;999;;
-2011;krr-k8;care humi;hl;5;0;;
-2011;krr-k8;echi vulg;hl;5;4;;
-2011;krr-k8;jovi glob hirt;hl;25;0;;
-2011;krr-k8;lact vimi;hl;2;0;;
-2011;krr-k8;rese lute;hl;7;1;;
-2011;krr-k8;sedu albu;hl;18;999;;
-2011;krr-k8;heli numm obsc;hl;4;0;;
-2011;krr-z1;alli lusi;hl;8;0;;
-2011;krr-z1;aren serp;hl;1;999;;
-2011;krr-z1;jovi glob hirt;hl;20;0;;
-2011;krr-z1;leon inca;hl;11;5;;
-2011;krr-z1;meli cili;hl;6;1;;
-2011;krr-z1;rese lute;hl;6;4;frequency measured: 6 / flowers measured: 3;
-2011;krr-z1;scab ochr;hl;9;3;frequency measured: 9 / flowers measured: 3;
-2011;krr-z1;sedu albu;hl;13;999;;
-2011;krr-z1;teuc cham;hl;1;0;;
-2011;krr-z1;teuc mont;hl;3;6;;
-2011;krr-z2;dory germ;hl;2;0;;
-2011;krr-z2;gali luci;hl;4;3;frequency measured: 1 / flowers measured: 0;
-2011;krr-z2;jovi glob hirt;hl;22;0;;
-2011;krr-z2;leon inca;hl;2;0;;
-2011;krr-z2;sedu albu;hl;19;999;;
-2011;krr-z3;aren serp;hl;2;999;;
-2011;krr-z3;card nuta nuta;hl;3;0;;
-2011;krr-z3;care humi;hl;20;999;;
-2011;krr-z3;gali luci;hl;3;4;frequency measured: 3 / flowers measured: 0;
-2011;krr-z3;jovi glob hirt;hl;11;0;;
-2011;krr-z3;lact vimi;hl;1;0;;
-2011;krr-z3;leon inca;hl;1;0;;
-2011;krr-z3;lina geni;hl;3;4;frequency measured: 3 / flowers measured: 0;
-2011;krr-z3;meli cili;hl;1;0;;
-2011;krr-z3;sang mino mino;hl;1;0;;
-2011;krr-z3;sedu albu;hl;17;999;;
-2011;krr-z3;vinc hiru;hl;19;13;;
-2011;krr-z4;clin acin;hl;1;1;;
-2011;krr-z4;aren serp;hl;2;0;;
-2011;krr-z4;care humi;hl;4;0;;
-2011;krr-z4;euph cypa;hl;3;0;;
-2011;krr-z4;gali luci;hl;2;2;frequency measured: 2 / flowers measured: 1;
-2011;krr-z4;jovi glob hirt;hl;7;0;;
-2011;krr-z4;meli cili;hl;2;0;;
-2011;krr-z4;prun maha;hl;1;0;;
-2011;krr-z4;sang mino mino;hl;6;1;;
-2011;krr-z4;sedu albu;hl;22;999;;
-2011;krr-z4;sesl caer;hl;4;0;frequency measured: 2 / flowers measured: 0;
-2011;krr-z4;teuc mont;hl;4;13;;
-2011;krr-z5;alli lusi;hl;4;0;frequency measured: 2 / flowers measured: 0;
-2011;krr-z5;brom tect;hl;7;11;;
-2011;krr-z5;card nuta nuta;hl;1;0;;
-2011;krr-z5;care humi;hl;8;999;;
-2011;krr-z5;jovi glob hirt;hl;24;0;;
-2011;krr-z5;lact vimi;hl;1;0;;
-2011;krr-z5;scab ochr;hl;16;5;frequency measured: 12 / flowers measured: 3;
-2011;krr-z5;sedu albu;hl;24;0;;
-2011;krr-z5;sese aust;hl;15;1;frequency measured: 2 / flowers measured: 0;
-2011;krr-z5;card cras glau;hl;2;0;;
-2011;krr-z5;card nuta nuta;hl;2;0;;
-2011;krr-z6;care humi;hl;8;0;;
-2011;krr-z6;gali luci;hl;7;3;frequency measured: 5 / flowers measured: 0;
-2011;krr-z6;jovi glob hirt;hl;24;0;;
-2011;krr-z6;leon inca;hl;10;4;;
-2011;krr-z6;meli cili;hl;1;0;;
-2011;krr-z6;sedu albu;hl;22;0;;
-2011;krr-z6;teuc mont;hl;2;0;;
-2011;krr-z6;micr perf;hl;1;0;;
-2011;krr-z7;brom tect;hl;2;2;;
-2011;krr-z7;bupl falc falc;hl;6;4;frequency measured: 4 / flowers measured: 2;
-2011;krr-z7;card nuta nuta;hl;2;0;;
-2011;krr-z7;gali luci;hl;14;12;frequency measured: 14 / flowers measured: 8;
-2011;krr-z7;jovi glob hirt;hl;15;0;;
-2011;krr-z7;leon inca;hl;11;20;;
-2011;krr-z7;rese lute;hl;3;1;;
-2011;krr-z7;sedu albu;hl;22;999;;
-2011;krr-z8;gali luci;hl;12;10;frequency measured: 8 / flowers measured: 9;
-2011;krr-z8;jovi glob hirt;hl;20;0;;
-2011;krr-z8;sang mino mino;hl;2;0;;
-2011;krr-z8;secu vari;hl;22;11;frequency measured: 21 / flowers measured: 5;
-2011;krr-z8;sedu albu;hl;25;0;;
-2012;krr-z1;alli lusi;hl;10;0;;
-2012;krr-z1;jovi glob hirt;hl;18;0;;
-2012;krr-z1;leon inca;hl;10;12;;
-2012;krr-z1;meli cili;hl;3;0;;
-2012;krr-z1;scab ochr;hl;12;7;;
-2012;krr-z1;sedu albu;hl;9;999;;
-2012;krr-z1;sese aust;hl;1;0;seedling;
-2012;krr-z1;teuc cham;hl;2;1;;
-2012;krr-z1;teuc mont;hl;4;14;;
-2012;krr-z2;dory germ;hl;4;0;;
-2012;krr-z2;gali luci;hl;7;5;;
-2012;krr-z2;jovi glob hirt;hl;20;0;;
-2012;krr-z2;meli cili;hl;1;0;;
-2012;krr-z2;sedu albu;hl;15;999;;
-2012;krr-z3;card nuta nuta;hl;2;1;;
-2012;krr-z3;care humi;hl;21;999;;
-2012;krr-z3;erys sylv;hl;1;0;;
-2012;krr-z3;gali luci;hl;6;5;;
-2012;krr-z3;jovi glob hirt;hl;6;0;;
-2012;krr-z3;leon inca;hl;6;0;;
-2012;krr-z3;meli cili;hl;1;0;;
-2012;krr-z3;sang mino mino;hl;1;0;;
-2012;krr-z3;secu vari;hl;1;0;;
-2012;krr-z3;sedu albu;hl;5;999;;
-2012;krr-z3;vinc hiru;hl;14;8;;
-2012;krr-z3;medi lupu;hl;1;0;;
-2012;krr-z4;clin acin;hl;1;1;;
-2012;krr-z4;aren serp;hl;1;999;;
-2012;krr-z4;care humi;hl;4;999;;
-2012;krr-z4;euph cypa;hl;6;0;;
-2012;krr-z4;gali luci;hl;15;14;;
-2012;krr-z4;jovi glob hirt;hl;7;0;;
-2012;krr-z4;meli cili;hl;3;1;;
-2012;krr-z4;prun maha;hl;1;0;;
-2012;krr-z4;sang mino mino;hl;4;0;;
-2012;krr-z4;sedu albu;hl;9;999;;
-2012;krr-z4;sesl caer;hl;5;4;;
-2012;krr-z4;teuc mont;hl;7;32;;
-2012;krr-k5;clin acin;hl;1;0;;
-2012;krr-k5;jovi glob hirt;hl;13;0;;
-2012;krr-k5;meli cili;hl;1;0;;
-2012;krr-k5;sedu albu;hl;10;999;;
-2012;krr-k5;teuc mont;hl;2;9;;
-2012;krr-k5;medi lupu;hl;2;0;;
-2012;krr-k6;ajug gene;hl;3;0;;
-2012;krr-k6;anch offi;hl;3;0;;
-2012;krr-k6;erys sylv;hl;3;0;;
-2012;krr-k6;jovi glob hirt;hl;15;0;;
-2012;krr-k6;leon inca;hl;4;0;;
-2012;krr-k6;sedu albu;hl;8;999;;
-2012;krr-k6;teuc mont;hl;6;18;;
-2012;krr-k7;alli lusi;hl;1;0;;
-2012;krr-k7;jovi glob hirt;hl;25;0;;
-2012;krr-k7;sedu albu;hl;23;999;;
-2012;krr-k8;anch offi;hl;4;0;;
-2012;krr-k8;aren serp;hl;2;999;;
-2012;krr-k8;care humi;hl;4;0;;
-2012;krr-k8;echi vulg;hl;3;0;;
-2012;krr-k8;heli numm obsc;hl;1;0;;
-2012;krr-k8;jovi glob hirt;hl;25;0;;
-2012;krr-k8;lact vimi;hl;1;0;;
-2012;krr-k8;sedu albu;hl;18;999;;
-2012;krr-k8;hack defl;hl;3;3;;
-2012;htl-z5;clin acin;hl;1;0;;
-2012;htl-z5;anth ramo;hl;12;13;;
-2012;htl-z5;aspe cyna;hl;3;3;;
-2012;htl-z5;cent scab bade;hl;4;1;;
-2012;htl-z5;heli numm obsc;hl;14;25;;
-2012;htl-z5;jovi glob hirt;hl;2;0;;
-2012;htl-z5;meli cili;hl;3;1;;
-2012;htl-z5;orig vulg;hl;6;4;;
-2012;htl-z5;sedu albu;hl;4;999;;
-2012;htl-z5;teuc mont;hl;9;58;;
-2012;htl-z5;viol coll;hl;2;1;;
-2012;htl-z6;anth ramo;hl;2;0;;
-2012;htl-z6;aspe cyna;hl;1;1;;
-2012;htl-z6;hype perf;hl;3;2;;
-2012;htl-z6;jovi glob hirt;hl;7;0;;
-2012;htl-z6;meli cili;hl;10;4;;
-2012;htl-z6;orig vulg;hl;17;11;;
-2012;htl-z6;sedu albu;hl;6;999;;
-2012;htl-z7;clin acin;hl;3;2;;
-2012;htl-z7;aspe cyna;hl;10;11;;
-2012;htl-z7;glob cord;hl;5;2;;
-2012;htl-z7;heli numm glab;hl;10;12;;
-2012;htl-z7;jovi glob hirt;hl;1;0;;
-2012;htl-z7;lina geni;hl;17;7;;
-2012;htl-z7;meli cili;hl;8;9;;
-2012;htl-z7;pelt alli;hl;1;0;;
-2012;htl-z7;sedu albu;hl;7;999;;
-2012;htl-z7;teuc cham;hl;11;8;;
-2012;htl-z7;vinc hiru;hl;13;11;;
-2012;htl-z7;medi lupu;hl;7;4;;
-2012;htl-z8;acon anth;hl;3;1;;
-2012;htl-z8;ajug gene;hl;7;1;;
-2012;htl-z8;anth ramo;hl;9;1;;
-2012;htl-z8;aren serp;hl;2;999;;
-2012;htl-z8;heli numm obsc;hl;7;14;;
-2012;htl-z8;meli cili;hl;1;0;margin;
-2012;htl-z8;pelt alli;hl;1;1;;
-2012;htl-z8;sedu albu;hl;7;999;;
-2012;htl-z8;teuc cham;hl;15;16;;
-2012;htl-z8;teuc mont;hl;4;17;;
-2012;htl-z8;vinc hiru;hl;7;5;;
-2012;htl-z8;arte vulg;hl;1;0;;
-2012;htl-z8;viol tric saxa;hl;1;0;;
-2012;htl-k5;card nuta nuta;hl;1;0;;
-2012;htl-k5;jovi glob hirt;hl;1;0;;
-2012;htl-k6;anth ramo;hl;2;0;;
-2012;htl-k6;card nuta nuta;hl;1;0;;
-2012;htl-k6;erys sylv;hl;2;0;;
-2012;htl-k6;jovi glob hirt;hl;3;0;;
-2012;htl-k6;salv glut;hl;9;0;;
-2012;htl-k6;secu vari;hl;1;0;;
-2012;htl-k6;sedu albu;hl;2;0;;
-2012;htl-k6;teuc cham;hl;17;17;;
-2012;htl-k6;vinc hiru;hl;23;20;;
-2012;htl-k7;anth ramo;hl;1;0;;
-2012;htl-k7;erys sylv;hl;2;0;;
-2012;htl-k7;jovi glob hirt;hl;12;0;;
-2012;htl-k7;orig vulg;hl;3;3;;
-2012;htl-k7;pelt alli;hl;1;0;;
-2012;htl-k7;pote pusi;hl;2;0;;
-2012;htl-k7;sedu albu;hl;17;999;;
-2012;htl-k7;teuc mont;hl;5;9;;
-2012;htl-k8;ajug gene;hl;4;0;;
-2012;htl-k8;aspe cyna;hl;1;0;;
-2012;htl-k8;erys sylv;hl;7;2;;
-2012;htl-k8;heli numm glab;hl;2;0;;
-2012;htl-k8;jovi glob hirt;hl;21;0;;
-2012;htl-k8;orig vulg;hl;10;3;;
-2012;htl-k8;pote pusi;hl;3;0;;
-2012;htl-k8;sedu albu;hl;6;0;;
-2012;htl-k8;teuc cham;hl;10;10;;
-2012;htl-k8;teuc mont;hl;2;1;;
-2012;htl-k8;vinc hiru;hl;20;15;;
-2012;htl-k8;anth vuln slat;hl;1;0;;
-2012;htl-k8;pinu nigr nigr;hl;1;0;;
-2012;htl-k1;clin acin;hl;3;1;;
-2012;htl-k1;ajug gene;hl;8;0;;
-2012;htl-k1;erys sylv;hl;8;2;;
-2012;htl-k1;heli numm glab;hl;1;0;;
-2012;htl-k1;jovi glob hirt;hl;6;999;;
-2012;htl-k1;meli cili;hl;2;0;;
-2012;htl-k1;sang mino mino;hl;3;0;;
-2012;htl-k1;sedu albu;hl;15;999;;
-2012;htl-k1;tara sect rude;hl;1;0;;
-2012;htl-k1;teuc cham;hl;16;20;;
-2012;htl-k1;teuc mont;hl;3;15;;
-2012;htl-k1;viol coll;hl;2;0;;
-2012;htl-k2;alli lusi;hl;2;0;;
-2012;htl-k2;erys sylv;hl;1;1;;
-2012;htl-k2;jovi glob hirt;hl;4;0;;
-2012;htl-k2;rese lute;hl;2;0;;
-2012;htl-k2;sedu albu;hl;7;0;;
-2012;htl-k2;teuc cham;hl;2;0;;
-2012;htl-k3;anth ramo;hl;2;0;;
-2012;htl-k3;jovi glob hirt;hl;8;0;;
-2012;htl-k3;rese lute;hl;2;1;;
-2012;htl-k3;sedu albu;hl;3;999;;
-2012;htl-k4;anth ramo;hl;1;0;;
-2012;htl-k4;jovi glob hirt;hl;3;0;;
-2012;htl-k4;orig vulg;hl;1;0;;
-2012;htl-k4;sedu albu;hl;1;0;;
-2012;htl-k4;teuc cham;hl;2;0;;
-2012;htl-k4;fuma schl;hl;1;0;;
-2012;htl-z1;clin acin;hl;5;5;;
-2012;htl-z1;ajug gene;hl;4;0;;
-2012;htl-z1;anth ramo;hl;6;2;;
-2012;htl-z1;heli numm obsc;hl;1;1;;
-2012;htl-z1;jovi glob hirt;hl;15;0;;
-2012;htl-z1;meli cili;hl;23;34;;
-2012;htl-z1;pote pusi;hl;1;0;;
-2012;htl-z1;sedu albu;hl;24;999;;
-2012;htl-z2;clin acin;hl;1;1;;
-2012;htl-z2;anch offi;hl;4;0;;
-2012;htl-z2;erys sylv;hl;1;0;;
-2012;htl-z2;jovi glob hirt;hl;11;0;;
-2012;htl-z2;meli cili;hl;10;2;;
-2012;htl-z2;sedu albu;hl;22;999;;
-2012;htl-z2;sese aust;hl;25;16;;
-2012;htl-z3;brac sylv;hl;4;0;;
-2012;htl-z3;frax exce;hl;1;0;;
-2012;htl-z3;heli numm glab;hl;10;14;;
-2012;htl-z3;hype perf;hl;7;2;;
-2012;htl-z3;jovi glob hirt;hl;2;0;;
-2012;htl-z3;pelt alli;hl;3;1;;
-2012;htl-z3;poa comp;hl;22;60;;
-2012;htl-z3;sedu albu;hl;8;999;;
-2012;htl-z3;tara sect rude;hl;2;0;;
-2012;htl-z3;teuc mont;hl;3;7;;
-2012;htl-z4;clin acin;hl;3;1;;
-2012;htl-z4;acon anth;hl;6;3;;
-2012;htl-z4;ajug gene;hl;2;0;;
-2012;htl-z4;anth ramo;hl;10;3;;
-2012;htl-z4;aren serp;hl;3;999;;
-2012;htl-z4;aspe cyna;hl;5;3;;
-2012;htl-z4;heli numm obsc;hl;22;24;;
-2012;htl-z4;hype perf;hl;10;5;;
-2012;htl-z4;jovi glob hirt;hl;3;1;;
-2012;htl-z4;meli cili;hl;23;19;;
-2012;htl-z4;orig vulg;hl;8;4;;
-2012;htl-z4;pelt alli;hl;1;0;;
-2012;htl-z4;poa comp;hl;5;7;;
-2012;htl-z4;sedu albu;hl;1;0;;
-2012;htl-z4;teuc cham;hl;12;13;;
-2012;htl-z4;teuc mont;hl;5;14;;
-2012;htl-z4;vinc hiru;hl;3;1;;
-2012;krr-k1;alli lusi;hl;1;1;;
-2012;krr-k1;anch offi;hl;1;0;;
-2012;krr-k1;gali luci;hl;2;0;;
-2012;krr-k1;jovi glob hirt;hl;15;0;;
-2012;krr-k1;sedu albu;hl;15;0;;
-2012;krr-k2;clin acin;hl;2;0;;
-2012;krr-k2;ajug gene;hl;9;0;;
-2012;krr-k2;alli lusi;hl;1;0;;
-2012;krr-k2;card nuta nuta;hl;2;0;;
-2012;krr-k2;meli cili;hl;1;0;;
-2012;krr-k2;prun maha;hl;4;0;;
-2012;krr-k2;sedu albu;hl;2;999;;
-2012;krr-k2;sile lati alba;hl;1;0;;
-2012;krr-k2;teuc mont;hl;3;11;;
-2012;krr-k3;alli lusi;hl;3;0;;
-2012;krr-k3;aren serp;hl;1;999;;
-2012;krr-k3;cent scab bade;hl;2;0;;
-2012;krr-k3;echi vulg;hl;1;0;;
-2012;krr-k3;erys sylv;hl;1;0;;
-2012;krr-k3;gali luci;hl;2;0;;
-2012;krr-k3;leon inca;hl;1;0;;
-2012;krr-k3;meli cili;hl;1;0;;
-2012;krr-k3;sedu albu;hl;14;999;;
-2012;krr-k3;teuc mont;hl;3;6;;
-2012;krr-k3;anch offi;hl;1;0;;
-2012;krr-k4;alli lusi;hl;2;0;;
-2012;krr-k4;aren serp;hl;2;999;;
-2012;krr-k4;cent scab bade;hl;10;0;;
-2012;krr-k4;gali luci;hl;3;0;;
-2012;krr-k4;jovi glob hirt;hl;11;1;;
-2012;krr-k4;meli cili;hl;3;0;;
-2012;krr-k4;sang mino mino;hl;7;3;;
-2012;krr-k4;sedu albu;hl;8;999;;
-2012;krr-k4;teuc botr;hl;11;1;;
-2012;krr-k4;vinc hiru;hl;11;10;;
-2012;krr-k4;medi lupu;hl;2;0;;
-2012;krr-z5;alli lusi;hl;3;0;;
-2012;krr-z5;care humi;hl;8;999;;
-2012;krr-z5;jovi glob hirt;hl;24;0;;
-2012;krr-z5;lact vimi;hl;1;0;;
-2012;krr-z5;scab ochr;hl;11;3;;
-2012;krr-z5;sedu albu;hl;19;0;;
-2012;krr-z5;sese aust;hl;15;12;;
-2012;krr-z6;bupl falc falc;hl;1;0;;
-2012;krr-z6;card cras glau;hl;2;0;;
-2012;krr-z6;care humi;hl;9;999;;
-2012;krr-z6;gali luci;hl;8;9;;
-2012;krr-z6;jovi glob hirt;hl;23;0;;
-2012;krr-z6;leon inca;hl;16;11;;
-2012;krr-z6;scab ochr;hl;3;0;;
-2012;krr-z6;sedu albu;hl;17;999;;
-2012;krr-z6;teuc mont;hl;3;13;;
-2012;krr-z7;bupl falc falc;hl;6;3;;
-2012;krr-z7;gali luci;hl;21;27;;
-2012;krr-z7;jovi glob hirt;hl;13;0;;
-2012;krr-z7;leon inca;hl;9;5;;
-2012;krr-z7;sedu albu;hl;13;999;;
-2012;krr-z8;gali luci;hl;24;36;;
-2012;krr-z8;jovi glob hirt;hl;12;0;;
-2012;krr-z8;leon inca;hl;2;1;;
-2012;krr-z8;meli cili;hl;2;0;;
-2012;krr-z8;sang mino mino;hl;2;2;;
-2012;krr-z8;secu vari;hl;17;12;;
-2012;krr-z8;sedu albu;hl;5;0;;
+year,plot,abbr,layer,freq,flower,comment,history
+2010,htl-k1,ajug gene,hl,1,,,
+2010,htl-k1,anch offi,hl,4,,,
+2010,htl-k1,anth ramo,hl,1,,,
+2010,htl-k1,aren serp,hl,1,,,
+2010,htl-k1,brom tect,hl,1,,cf.,
+2010,htl-k1,erys sylv,hl,6,,,
+2010,htl-k1,heli numm glab,hl,9,,,
+2010,htl-k1,jovi glob hirt,hl,13,,,
+2010,htl-k1,hack defl,hl,8,,,
+2010,htl-k1,sang mino mino,hl,8,,,
+2010,htl-k1,sedu albu,hl,11,,,
+2010,htl-k1,tara sect rude,hl,1,,,
+2010,htl-k1,teuc cham,hl,16,,,
+2010,htl-k1,teuc mont,hl,1,,,
+2010,htl-k1,viol tric saxa,hl,1,,,
+2010,htl-k2,alli lusi,hl,3,,,
+2010,htl-k2,aren serp,hl,1,,,
+2010,htl-k2,echi vulg,hl,3,,,
+2010,htl-k2,erys sylv,hl,6,,,
+2010,htl-k2,fuma schl,hl,1,,,
+2010,htl-k2,jovi glob hirt,hl,3,,,
+2010,htl-k2,rese lute,hl,1,,,
+2010,htl-k2,sedu albu,hl,16,,,
+2010,htl-k2,teuc cham,hl,9,,,
+2010,htl-k2,vinc hiru,hl,1,,,
+2010,htl-k3,anth ramo,hl,2,,,
+2010,htl-k3,aren serp,hl,8,,,
+2010,htl-k3,card cras glau,hl,1,,,
+2010,htl-k3,card nuta nuta,hl,4,,,
+2010,htl-k3,hype perf,hl,2,,,
+2010,htl-k3,jovi glob hirt,hl,14,,,
+2010,htl-k3,rese lute,hl,1,,cf.,
+2010,htl-k3,sedu albu,hl,8,,,
+2010,htl-k3,teuc mont,hl,1,,,
+2010,htl-k4,anth ramo,hl,4,,,
+2010,htl-k4,erys sylv,hl,4,,,
+2010,htl-k4,euph cypa,hl,1,,,
+2010,htl-k4,jovi glob hirt,hl,10,,,
+2010,htl-k4,pelt alli,hl,2,,,
+2010,htl-k4,sedu albu,hl,8,,,
+2010,htl-k4,teuc cham,hl,2,,,
+2010,htl-k4,teuc mont,hl,2,,,
+2010,htl-k5,alli lusi,hl,1,,,
+2010,htl-k5,arab spec ies,hl,1,,,
+2010,htl-k5,aren serp,hl,10,,,
+2010,htl-k5,dory germ,hl,1,,,
+2010,htl-k5,sedu albu,hl,17,,,
+2010,htl-k6,anth ramo,hl,3,,,
+2010,htl-k6,anth vuln slat,hl,4,,,
+2010,htl-k6,aren serp,hl,11,,,
+2010,htl-k6,card cras glau,hl,1,,,
+2010,htl-k6,echi vulg,hl,3,,,
+2010,htl-k6,jovi glob hirt,hl,5,,,
+2010,htl-k6,poa bade,hl,1,,,
+2010,htl-k6,rese lute,hl,6,,,
+2010,htl-k6,salv glut,hl,1,,,
+2010,htl-k6,secu vari,hl,4,,,
+2010,htl-k6,sedu albu,hl,13,,,
+2010,htl-k6,tara sect rude,hl,1,,,
+2010,htl-k6,teuc cham,hl,8,,,
+2010,htl-k6,teuc mont,hl,4,,,
+2010,htl-k6,vinc hiru,hl,22,,,
+2010,htl-k7,anth ramo,hl,2,,,
+2010,htl-k7,aren serp,hl,9,,,
+2010,htl-k7,erys sylv,hl,6,,,
+2010,htl-k7,jovi glob hirt,hl,15,,,
+2010,htl-k7,lotu corn,hl,1,,,
+2010,htl-k7,orig vulg,hl,1,,,
+2010,htl-k7,pelt alli,hl,1,,,
+2010,htl-k7,sedu albu,hl,14,,,
+2010,htl-k7,teuc mont,hl,4,,,
+2010,htl-k8,anth vuln slat,hl,1,,,
+2010,htl-k8,aren serp,hl,9,,,
+2010,htl-k8,card cras glau,hl,1,,,
+2010,htl-k8,card nuta nuta,hl,4,,,
+2010,htl-k8,erys sylv,hl,5,,,
+2010,htl-k8,frax exce,hl,1,,,
+2010,htl-k8,hype perf,hl,1,,,
+2010,htl-k8,jovi glob hirt,hl,17,,,
+2010,htl-k8,lina geni,hl,1,,,
+2010,htl-k8,orig vulg,hl,3,,,
+2010,htl-k8,pote pusi,hl,3,,,
+2010,htl-k8,sedu albu,hl,8,,,
+2010,htl-k8,teuc cham,hl,5,,,
+2010,htl-k8,vinc hiru,hl,19,,,
+2010,htl-k8,viol coll,hl,1,,,
+2010,htl-k8,viol tric saxa,hl,1,,,
+2010,htl-z1,anth ramo,hl,4,,,
+2010,htl-z1,aren serp,hl,5,,,
+2010,htl-z1,erys sylv,hl,1,,,
+2010,htl-z1,jovi glob hirt,hl,2,,,
+2010,htl-z1,pelt alli,hl,10,,,
+2010,htl-z1,sedu albu,hl,22,,,
+2010,htl-z2,anth ramo,hl,2,,,
+2010,htl-z2,aren serp,hl,6,,,
+2010,htl-z2,erys sylv,hl,8,,,
+2010,htl-z2,jovi glob hirt,hl,4,,,
+2010,htl-z2,sedu albu,hl,23,,,
+2010,htl-z2,sese aust,hl,1,,,
+2010,htl-z3,anch offi,hl,2,,,
+2010,htl-z3,aren serp,hl,6,,,
+2010,htl-z3,card cras glau,hl,2,,,
+2010,htl-z3,hype perf,hl,4,,,
+2010,htl-z3,jovi glob hirt,hl,11,,,
+2010,htl-z3,pelt alli,hl,3,,,
+2010,htl-z3,poa prat,hl,17,,,
+2010,htl-z3,sedu albu,hl,19,,,
+2010,htl-z3,tara sect rude,hl,3,,,
+2010,htl-z3,viol coll,hl,4,,,
+2010,htl-z4,acon anth,hl,4,,,
+2010,htl-z4,anth ramo,hl,3,,,
+2010,htl-z4,aren serp,hl,20,,,
+2010,htl-z4,aspe cyna,hl,2,,,
+2010,htl-z4,card cras glau,hl,1,,,
+2010,htl-z4,erys sylv,hl,1,,,
+2010,htl-z4,heli numm obsc,hl,8,,,
+2010,htl-z4,jovi glob hirt,hl,7,,,
+2010,htl-z4,meli cili,hl,7,,,
+2010,htl-z4,orig vulg,hl,10,,,
+2010,htl-z4,pote pusi,hl,1,,,
+2010,htl-z4,sedu albu,hl,8,,,
+2010,htl-z4,sene vulg,hl,1,,cf.,
+2010,htl-z4,tara sect rude,hl,1,,,
+2010,htl-z4,teuc cham,hl,11,,,
+2010,htl-z4,vinc hiru,hl,7,,,
+2010,htl-z5,anth ramo,hl,8,,,
+2010,htl-z5,aren serp,hl,2,,,
+2010,htl-z5,aspe cyna,hl,3,,,
+2010,htl-z5,erys sylv,hl,3,,,
+2010,htl-z5,fuma schl,hl,1,,,
+2010,htl-z5,heli numm obsc,hl,10,,,
+2010,htl-z5,jovi glob hirt,hl,10,,,
+2010,htl-z5,orig vulg,hl,2,,,
+2010,htl-z5,rese lute,hl,5,,,
+2010,htl-z5,sedu albu,hl,16,,,
+2010,htl-z5,tara sect rude,hl,5,,,
+2010,htl-z5,teuc mont,hl,2,,,
+2010,htl-z5,viol coll,hl,1,,,
+2010,htl-z6,aren serp,hl,25,,,
+2010,htl-z6,erys sylv,hl,2,,,
+2010,htl-z6,jovi glob hirt,hl,12,,,
+2010,htl-z6,hack defl,hl,2,,,
+2010,htl-z6,orig vulg,hl,4,,,
+2010,htl-z6,sedu albu,hl,11,,,
+2010,htl-z7,aren serp,hl,24,,,
+2010,htl-z7,glob cord,hl,2,,,
+2010,htl-z7,jovi glob hirt,hl,2,,,
+2010,htl-z7,pelt alli,hl,1,,,
+2010,htl-z7,sedu albu,hl,8,,,
+2010,htl-z7,tara sect rude,hl,5,,,
+2010,htl-z7,teuc cham,hl,2,,,
+2010,htl-z7,vinc hiru,hl,8,,,
+2010,htl-z8,acon anth,hl,2,,,
+2010,htl-z8,aren serp,hl,12,,,
+2010,htl-z8,fuma schl,hl,12,,,
+2010,htl-z8,jovi glob hirt,hl,1,,,
+2010,htl-z8,pelt alli,hl,2,,,
+2010,htl-z8,rese lute,hl,5,,,
+2010,htl-z8,sedu albu,hl,10,,,
+2010,htl-z8,tara sect rude,hl,10,,,
+2010,htl-z8,teuc cham,hl,9,,,
+2010,htl-z8,vinc hiru,hl,12,,,
+2010,htl-z8,viol coll,hl,2,,,
+2010,krr-k1,alli lusi,hl,1,,,
+2010,krr-k1,card nuta nuta,hl,4,,,
+2010,krr-k1,gali luci,hl,1,,,
+2010,krr-k1,jovi glob hirt,hl,15,,,
+2010,krr-k1,sedu albu,hl,11,,,
+2010,krr-k2,anch offi,hl,8,,,
+2010,krr-k2,aren serp,hl,6,,,
+2010,krr-k2,bupl falc falc,hl,2,,,
+2010,krr-k2,gali luci,hl,1,,,
+2010,krr-k2,jovi glob hirt,hl,2,,,
+2010,krr-k2,medi lupu,hl,1,,,
+2010,krr-k2,prun maha,hl,1,,,
+2010,krr-k2,rese lute,hl,9,,,
+2010,krr-k2,rosa cani,hl,1,,,
+2010,krr-k2,sedu albu,hl,8,,,
+2010,krr-k2,tara sect rude,hl,2,,,
+2010,krr-k2,teuc mont,hl,3,,,
+2010,krr-k3,alli lusi,hl,2,,,
+2010,krr-k3,anch offi,hl,2,,,
+2010,krr-k3,aren serp,hl,5,,,
+2010,krr-k3,echi vulg,hl,2,,,
+2010,krr-k3,erys sylv,hl,2,,,
+2010,krr-k3,gali luci,hl,1,,,
+2010,krr-k3,jovi glob hirt,hl,2,,,
+2010,krr-k3,sedu albu,hl,22,,,
+2010,krr-k3,sese aust,hl,2,,,
+2010,krr-k3,sesl caer,hl,1,,,
+2010,krr-k3,verb offi,hl,3,,,
+2010,krr-k4,clin acin,hl,1,,,
+2010,krr-k4,alli lusi,hl,2,,,
+2010,krr-k4,anch offi,hl,1,,,
+2010,krr-k4,aren serp,hl,7,,,
+2010,krr-k4,bupl falc falc,hl,1,,,
+2010,krr-k4,gali luci,hl,2,,,
+2010,krr-k4,jovi glob hirt,hl,11,,,
+2010,krr-k4,medi lupu,hl,7,,,
+2010,krr-k4,meli cili,hl,2,,,
+2010,krr-k4,sedu albu,hl,16,,,
+2010,krr-k4,sese aust,hl,1,,,
+2010,krr-k4,verb offi,hl,2,,,
+2010,krr-k4,vinc hiru,hl,10,,,
+2010,krr-k5,aren serp,hl,3,,,
+2010,krr-k5,euph cypa,hl,1,,,
+2010,krr-k5,gali luci,hl,1,,,
+2010,krr-k5,jovi glob hirt,hl,11,,,
+2010,krr-k5,sedu albu,hl,10,,,
+2010,krr-k5,teuc mont,hl,1,,,
+2010,krr-k6,clin acin,hl,1,,,
+2010,krr-k6,ajug gene,hl,3,,,
+2010,krr-k6,bupl falc falc,hl,2,,,
+2010,krr-k6,jovi glob hirt,hl,11,,,
+2010,krr-k6,leon inca,hl,5,,,
+2010,krr-k6,rese lute,hl,2,,,
+2010,krr-k6,sedu albu,hl,19,,,
+2010,krr-k6,teuc mont,hl,5,,,
+2010,krr-k7,clin acin,hl,2,,,
+2010,krr-k7,alli lusi,hl,2,,,
+2010,krr-k7,aren serp,hl,3,,,
+2010,krr-k7,erys sylv,hl,5,,,
+2010,krr-k7,jovi glob hirt,hl,24,,,
+2010,krr-k7,rese lute,hl,2,,,
+2010,krr-k7,sedu albu,hl,7,,,
+2010,krr-k8,clin acin,hl,2,,,
+2010,krr-k8,alli lusi,hl,1,,,
+2010,krr-k8,aren serp,hl,3,,,
+2010,krr-k8,care humi,hl,3,,,
+2010,krr-k8,echi vulg,hl,1,,,
+2010,krr-k8,jovi glob hirt,hl,24,,,
+2010,krr-k8,pelt alli,hl,3,,,
+2010,krr-k8,rese lute,hl,2,,,
+2010,krr-k8,sedu albu,hl,15,,,
+2010,krr-z1,alli lusi,hl,7,,,
+2010,krr-z1,aren serp,hl,2,,,
+2010,krr-z1,jovi glob hirt,hl,24,,,
+2010,krr-z1,leon inca,hl,6,,,
+2010,krr-z1,meli cili,hl,4,,,
+2010,krr-z1,rese lute,hl,4,,,
+2010,krr-z1,scab ochr,hl,5,,,
+2010,krr-z1,sedu albu,hl,16,,,
+2010,krr-z1,tara sect rude,hl,1,,,
+2010,krr-z1,teuc cham,hl,2,,,
+2010,krr-z1,teuc mont,hl,2,,,
+2010,krr-z1,verb thap,hl,3,,,
+2010,krr-z2,aren serp,hl,1,,,
+2010,krr-z2,brom tect,hl,1,,cf.,
+2010,krr-z2,dory germ,hl,1,,,
+2010,krr-z2,erys sylv,hl,2,,,
+2010,krr-z2,gali luci,hl,2,,,
+2010,krr-z2,jovi glob hirt,hl,20,,,
+2010,krr-z2,micr minu,hl,1,,,
+2010,krr-z2,sedu albu,hl,12,,,
+2010,krr-z3,aren serp,hl,9,,,
+2010,krr-z3,care humi,hl,15,,,
+2010,krr-z3,gali luci,hl,1,,margin,
+2010,krr-z3,jovi glob hirt,hl,9,,,
+2010,krr-z3,meli cili,hl,1,,margin,
+2010,krr-z3,sedu albu,hl,12,,,
+2010,krr-z3,vinc hiru,hl,20,,,
+2010,krr-z4,anch offi,hl,3,,cf.,
+2010,krr-z4,aren serp,hl,2,,,
+2010,krr-z4,care humi,hl,2,,,
+2010,krr-z4,erys sylv,hl,3,,,
+2010,krr-z4,euph cypa,hl,1,,,
+2010,krr-z4,gali luci,hl,1,,,
+2010,krr-z4,jovi glob hirt,hl,8,,,
+2010,krr-z4,meli cili,hl,2,,,
+2010,krr-z4,sang mino mino,hl,4,,,
+2010,krr-z4,sedu albu,hl,20,,,
+2010,krr-z4,sesl caer,hl,2,,,
+2010,krr-z4,teuc mont,hl,3,,,
+2010,krr-z5,alli lusi,hl,3,,,
+2010,krr-z5,aren serp,hl,9,,germ bud,
+2010,krr-z5,card cras glau,hl,2,,,
+2010,krr-z5,care humi,hl,7,,,
+2010,krr-z5,jovi glob hirt,hl,23,,,
+2010,krr-z5,prun maha,hl,1,,,
+2010,krr-z5,scab ochr,hl,4,,,
+2010,krr-z5,sedu albu,hl,10,,,
+2010,krr-z5,sese aust,hl,16,,,
+2010,krr-z5,viol tric saxa,hl,2,,,
+2010,krr-z6,aren serp,hl,9,,,
+2010,krr-z6,care humi,hl,2,,,
+2010,krr-z6,fuma schl,hl,2,,,
+2010,krr-z6,gali luci,hl,6,,,
+2010,krr-z6,jovi glob hirt,hl,23,,,
+2010,krr-z6,lact vimi,hl,9,,,
+2010,krr-z6,leon inca,hl,3,,,
+2010,krr-z6,lina geni,hl,2,,,
+2010,krr-z6,sedu albu,hl,20,,,
+2010,krr-z7,anch offi,hl,1,,,
+2010,krr-z7,bupl falc falc,hl,3,,,
+2010,krr-z7,card nuta nuta,hl,2,,,
+2010,krr-z7,gali luci,hl,4,,,
+2010,krr-z7,jovi glob hirt,hl,14,,,
+2010,krr-z7,leon inca,hl,4,,,
+2010,krr-z7,rese lute,hl,2,,,
+2010,krr-z7,sedu albu,hl,19,,,
+2010,krr-z7,sese aust,hl,1,,,
+2010,krr-z8,clin acin,hl,1,,,
+2010,krr-z8,gali luci,hl,1,,,
+2010,krr-z8,jovi glob hirt,hl,18,,,
+2010,krr-z8,micr minu,hl,1,,,
+2010,krr-z8,sang mino mino,hl,2,,,
+2010,krr-z8,secu vari,hl,6,,,
+2010,krr-z8,sedu albu,hl,22,,,
+2011,htl-k1,ajug gene,hl,4,1,,
+2011,htl-k1,anch offi,hl,2,0,,
+2011,htl-k1,aren serp,hl,2,999,,
+2011,htl-k1,erys sylv,hl,8,0,,
+2011,htl-k1,heli numm glab,hl,4,0,,
+2011,htl-k1,jovi glob hirt,hl,11,0,,
+2011,htl-k1,hack defl,hl,6,11,,
+2011,htl-k1,sang mino mino,hl,3,2,,
+2011,htl-k1,sedu albu,hl,11,999,,
+2011,htl-k1,sene vulg,hl,1,0,,
+2011,htl-k1,tara sect rude,hl,2,0,,
+2011,htl-k1,teuc cham,hl,12,21,,
+2011,htl-k1,teuc mont,hl,1,1,,
+2011,htl-k1,card nuta nuta,hl,14,2,,
+2011,htl-k2,alli lusi,hl,1,1,,
+2011,htl-k2,aren serp,hl,3,999,,
+2011,htl-k2,echi vulg,hl,7,0,,
+2011,htl-k2,erys sylv,hl,1,0,,
+2011,htl-k2,jovi glob hirt,hl,5,0,,
+2011,htl-k2,rese lute,hl,2,0,,
+2011,htl-k2,sedu albu,hl,18,999,,
+2011,htl-k2,teuc cham,hl,2,2,,
+2011,htl-k2,card nuta nuta,hl,2,0,,
+2011,htl-k3,anth ramo,hl,2,0,,
+2011,htl-k3,aren serp,hl,1,999,,
+2011,htl-k3,pelt alli,hl,1,0,,
+2011,htl-k3,hype perf,hl,2,0,,
+2011,htl-k3,jovi glob hirt,hl,7,0,,
+2011,htl-k3,sedu albu,hl,7,999,,
+2011,htl-k3,teuc mont,hl,1,0,,
+2011,htl-k4,anth ramo,hl,4,1,,
+2011,htl-k4,card nuta nuta,hl,11,0,,
+2011,htl-k4,jovi glob hirt,hl,9,0,,
+2011,htl-k4,pelt alli,hl,1,0,,
+2011,htl-k4,orig vulg,hl,1,0,,
+2011,htl-k4,sedu albu,hl,7,999,,
+2011,htl-k4,teuc cham,hl,3,3,,
+2011,htl-k4,aren serp,hl,2,999,,
+2011,htl-k5,anch offi,hl,4,0,,
+2011,htl-k5,aren serp,hl,1,999,,
+2011,htl-k5,sedu albu,hl,8,999,,
+2011,htl-k6,anth ramo,hl,3,0,,
+2011,htl-k6,jovi glob hirt,hl,8,0,,
+2011,htl-k6,pelt alli,hl,2,0,,
+2011,htl-k6,rese lute,hl,4,0,,
+2011,htl-k6,salv glut,hl,5,0,,
+2011,htl-k6,secu vari,hl,2,0,,
+2011,htl-k6,sedu albu,hl,4,999,,
+2011,htl-k6,teuc cham,hl,15,15,,
+2011,htl-k6,teuc mont,hl,6,6,,
+2011,htl-k6,vinc hiru,hl,25,27,,
+2011,htl-k7,aren serp,hl,3,999,,
+2011,htl-k7,erys sylv,hl,6,3,,
+2011,htl-k7,jovi glob hirt,hl,16,0,,
+2011,htl-k7,orig vulg,hl,3,1,,
+2011,htl-k7,pelt alli,hl,1,0,,
+2011,htl-k7,pote pusi,hl,1,0,,
+2011,htl-k7,sedu albu,hl,19,999,,
+2011,htl-k7,teuc mont,hl,5,1,,
+2011,htl-k8,ajug gene,hl,1,0,,
+2011,htl-k8,card nuta nuta,hl,2,0,,
+2011,htl-k8,erys sylv,hl,4,0,,
+2011,htl-k8,frax exce,hl,1,0,,
+2011,htl-k8,heli numm glab,hl,1,0,,
+2011,htl-k8,hype perf,hl,4,1,,
+2011,htl-k8,jovi glob hirt,hl,20,0,,
+2011,htl-k8,hack defl,hl,4,1,,
+2011,htl-k8,orig vulg,hl,11,6,,
+2011,htl-k8,pote pusi,hl,8,0,,
+2011,htl-k8,sedu albu,hl,20,999,,
+2011,htl-k8,teuc cham,hl,9,19,,
+2011,htl-k8,vinc hiru,hl,20,20,frequency measured: 20 / flowers measured: 18,
+2011,htl-z1,anth ramo,hl,4,1,frequency measured: 1 / flowers measured: 0,
+2011,htl-z1,erys sylv,hl,1,6,,
+2011,htl-z1,jovi glob hirt,hl,5,0,,
+2011,htl-z1,meli cili,hl,7,3,frequency measured: 7 / flowers measured: 0,
+2011,htl-z1,pelt alli,hl,1,0,,
+2011,htl-z1,sedu albu,hl,25,999,,
+2011,htl-z1,clin acin,hl,4,5,,
+2011,htl-z2,anth ramo,hl,2,2,frequency measured: 0 / flowers measured: 0,
+2011,htl-z2,meli cili,hl,1,0,,
+2011,htl-z2,erys sylv,hl,14,7,,
+2011,htl-z2,jovi glob hirt,hl,7,0,,
+2011,htl-z2,sedu albu,hl,25,999,,
+2011,htl-z2,sese aust,hl,4,1,frequency measured: 1 / flowers measured: 0,
+2011,htl-z3,brac sylv,hl,1,1,,
+2011,htl-z3,heli numm glab,hl,9,5,,
+2011,htl-z3,hype perf,hl,24,11,frequency measured: 24 / flowers measured: 11,
+2011,htl-z3,jovi glob hirt,hl,4,0,,
+2011,htl-z3,pelt alli,hl,2,1,,
+2011,htl-z3,poa comp,hl,25,54,,
+2011,htl-z3,sedu albu,hl,9,999,,
+2011,htl-z3,viol coll,hl,1,0,,
+2011,htl-z4,acon anth,hl,6,2,frequency measured: 6 / flowers measured: 0,
+2011,htl-z4,anth ramo,hl,11,1,,
+2011,htl-z4,ajug gene,hl,4,4,,
+2011,htl-z4,aspe cyna,hl,6,2,,
+2011,htl-z4,micr perf,hl,2,2,,
+2011,htl-z4,heli numm obsc,hl,16,18,,
+2011,htl-z4,jovi glob hirt,hl,4,0,,
+2011,htl-z4,meli cili,hl,8,9,frequency measured: 8 / flowers measured: 7,
+2011,htl-z4,orig vulg,hl,11,12,,
+2011,htl-z4,sedu albu,hl,13,999,,
+2011,htl-z4,teuc cham,hl,14,27,,
+2011,htl-z4,vinc hiru,hl,4,1,,
+2011,htl-z5,cent scab bade,hl,2,0,,
+2011,htl-z5,anth ramo,hl,14,5,frequency measured: 7 / flowers measured: 0,
+2011,htl-z5,aspe cyna,hl,5,1,frequency measured: 3 / flowers measured: 1,
+2011,htl-z5,erys sylv,hl,8,12,,
+2011,htl-z5,heli numm obsc,hl,20,25,frequency measured: 15 / flowers measured: 6,
+2011,htl-z5,jovi glob hirt,hl,10,0,,
+2011,htl-z5,hack defl,hl,2,1,,
+2011,htl-z5,orig vulg,hl,6,4,,
+2011,htl-z5,sedu albu,hl,19,999,,
+2011,htl-z5,tara sect rude,hl,7,0,,
+2011,htl-z5,teuc mont,hl,8,36,,
+2011,htl-z5,viol coll,hl,2,0,,
+2011,htl-z5,clin acin,hl,1,1,frequency measured: 1 / flowers measured: 0,
+2011,htl-z5,micr perf,hl,1,1,,
+2011,htl-z6,erys sylv,hl,5,5,,
+2011,htl-z6,jovi glob hirt,hl,11,0,,
+2011,htl-z6,meli cili,hl,1,0,,
+2011,htl-z6,orig vulg,hl,17,13,,
+2011,htl-z6,sedu albu,hl,17,999,,
+2011,htl-z6,micr perf,hl,2,1,,
+2011,htl-z7,glob cord,hl,6,10,,
+2011,htl-z7,heli numm glab,hl,2,0,,
+2011,htl-z7,jovi glob hirt,hl,2,0,,
+2011,htl-z7,lina geni,hl,7,1,frequency measured: 4 / flowers measured: 0,
+2011,htl-z7,pelt alli,hl,1,1,frequency measured: 1 / flowers measured: 0,
+2011,htl-z7,sedu albu,hl,19,999,,
+2011,htl-z7,tara sect rude,hl,5,2,frequency measured: 5 / flowers measured: 0,
+2011,htl-z7,teuc cham,hl,2,2,,
+2011,htl-z7,vinc hiru,hl,10,9,,
+2011,htl-z8,acon anth,hl,2,1,frequency measured: 2 / flowers measured: 0,
+2011,htl-z8,ajug gene,hl,4,0,,
+2011,htl-z8,anth ramo,hl,10,0,frequency measured: 2 / flowers measured: 0,
+2011,htl-z8,card cras glau,hl,1,0,,
+2011,htl-z8,jovi glob hirt,hl,2,0,,
+2011,htl-z8,pelt alli,hl,3,1,,
+2011,htl-z8,rese lute,hl,14,7,frequency measured: 6 / flowers measured: 0,
+2011,htl-z8,sedu albu,hl,11,999,,
+2011,htl-z8,tara sect rude,hl,15,2,frequency measured: 7 / flowers measured: 0,
+2011,htl-z8,teuc cham,hl,12,5,frequency measured: 12 / flowers measured: 1,
+2011,htl-z8,vinc hiru,hl,13,9,,
+2011,krr-k1,alli lusi,hl,1,0,,
+2011,krr-k1,aren serp,hl,2,999,,
+2011,krr-k1,gali luci,hl,4,0,,
+2011,krr-k1,jovi glob hirt,hl,15,0,,
+2011,krr-k1,sedu albu,hl,14,999,,
+2011,krr-k2,ajug gene,hl,11,0,,
+2011,krr-k2,aren serp,hl,1,999,,
+2011,krr-k2,jovi glob hirt,hl,2,0,,
+2011,krr-k2,meli cili,hl,1,0,,
+2011,krr-k2,rese lute,hl,20,1,,
+2011,krr-k2,sedu albu,hl,16,999,,
+2011,krr-k2,teuc mont,hl,3,5,,
+2011,krr-k2,cent scab bade,hl,2,0,,
+2011,krr-k2,sile lati alba,hl,2,0,,
+2011,krr-k3,alli lusi,hl,2,0,,
+2011,krr-k3,anch offi,hl,1,0,,
+2011,krr-k3,erys sylv,hl,4,1,,
+2011,krr-k3,jovi glob hirt,hl,1,0,,
+2011,krr-k3,leon inca,hl,2,0,,
+2011,krr-k3,scab ochr,hl,2,0,,
+2011,krr-k3,sedu albu,hl,16,999,,
+2011,krr-k3,sese aust,hl,1,0,,
+2011,krr-k3,sesl caer,hl,2,0,,
+2011,krr-k3,teuc mont,hl,4,2,,
+2011,krr-k4,alli lusi,hl,5,0,,
+2011,krr-k4,aren serp,hl,9,999,,
+2011,krr-k4,gali luci,hl,1,0,,
+2011,krr-k4,jovi glob hirt,hl,9,0,,
+2011,krr-k4,meli cili,hl,3,0,,
+2011,krr-k4,sedu albu,hl,16,999,,
+2011,krr-k4,sang mino mino,hl,1,0,,
+2011,krr-k4,teuc botr,hl,12,8,,
+2011,krr-k4,vinc hiru,hl,12,11,,
+2011,krr-k4,cent scab bade,hl,2,0,,
+2011,krr-k5,clin acin,hl,1,0,,
+2011,krr-k5,card nuta nuta,hl,2,0,,
+2011,krr-k5,jovi glob hirt,hl,16,0,,
+2011,krr-k5,lact vimi,hl,7,0,,
+2011,krr-k5,meli cili,hl,1,0,,
+2011,krr-k5,sedu albu,hl,18,999,,
+2011,krr-k5,teuc mont,hl,1,6,,
+2011,krr-k6,clin acin,hl,3,5,,
+2011,krr-k6,ajug gene,hl,3,0,,
+2011,krr-k6,aren serp,hl,1,999,,
+2011,krr-k6,erys sylv,hl,2,0,,
+2011,krr-k6,gali luci,hl,1,0,,
+2011,krr-k6,jovi glob hirt,hl,13,0,,
+2011,krr-k6,lact vimi,hl,2,0,,
+2011,krr-k6,leon inca,hl,10,0,,
+2011,krr-k6,sedu albu,hl,24,999,,
+2011,krr-k6,teuc mont,hl,7,8,,
+2011,krr-k7,alli lusi,hl,2,0,,
+2011,krr-k7,aren serp,hl,4,999,,
+2011,krr-k7,erys sylv,hl,3,1,,
+2011,krr-k7,jovi glob hirt,hl,24,0,,
+2011,krr-k7,rese lute,hl,5,0,,
+2011,krr-k7,sedu albu,hl,20,999,,
+2011,krr-k8,clin acin,hl,2,1,,
+2011,krr-k8,anch offi,hl,1,0,,
+2011,krr-k8,aren serp,hl,5,999,,
+2011,krr-k8,care humi,hl,5,0,,
+2011,krr-k8,echi vulg,hl,5,4,,
+2011,krr-k8,jovi glob hirt,hl,25,0,,
+2011,krr-k8,lact vimi,hl,2,0,,
+2011,krr-k8,rese lute,hl,7,1,,
+2011,krr-k8,sedu albu,hl,18,999,,
+2011,krr-k8,heli numm obsc,hl,4,0,,
+2011,krr-z1,alli lusi,hl,8,0,,
+2011,krr-z1,aren serp,hl,1,999,,
+2011,krr-z1,jovi glob hirt,hl,20,0,,
+2011,krr-z1,leon inca,hl,11,5,,
+2011,krr-z1,meli cili,hl,6,1,,
+2011,krr-z1,rese lute,hl,6,4,frequency measured: 6 / flowers measured: 3,
+2011,krr-z1,scab ochr,hl,9,3,frequency measured: 9 / flowers measured: 3,
+2011,krr-z1,sedu albu,hl,13,999,,
+2011,krr-z1,teuc cham,hl,1,0,,
+2011,krr-z1,teuc mont,hl,3,6,,
+2011,krr-z2,dory germ,hl,2,0,,
+2011,krr-z2,gali luci,hl,4,3,frequency measured: 1 / flowers measured: 0,
+2011,krr-z2,jovi glob hirt,hl,22,0,,
+2011,krr-z2,leon inca,hl,2,0,,
+2011,krr-z2,sedu albu,hl,19,999,,
+2011,krr-z3,aren serp,hl,2,999,,
+2011,krr-z3,card nuta nuta,hl,3,0,,
+2011,krr-z3,care humi,hl,20,999,,
+2011,krr-z3,gali luci,hl,3,4,frequency measured: 3 / flowers measured: 0,
+2011,krr-z3,jovi glob hirt,hl,11,0,,
+2011,krr-z3,lact vimi,hl,1,0,,
+2011,krr-z3,leon inca,hl,1,0,,
+2011,krr-z3,lina geni,hl,3,4,frequency measured: 3 / flowers measured: 0,
+2011,krr-z3,meli cili,hl,1,0,,
+2011,krr-z3,sang mino mino,hl,1,0,,
+2011,krr-z3,sedu albu,hl,17,999,,
+2011,krr-z3,vinc hiru,hl,19,13,,
+2011,krr-z4,clin acin,hl,1,1,,
+2011,krr-z4,aren serp,hl,2,0,,
+2011,krr-z4,care humi,hl,4,0,,
+2011,krr-z4,euph cypa,hl,3,0,,
+2011,krr-z4,gali luci,hl,2,2,frequency measured: 2 / flowers measured: 1,
+2011,krr-z4,jovi glob hirt,hl,7,0,,
+2011,krr-z4,meli cili,hl,2,0,,
+2011,krr-z4,prun maha,hl,1,0,,
+2011,krr-z4,sang mino mino,hl,6,1,,
+2011,krr-z4,sedu albu,hl,22,999,,
+2011,krr-z4,sesl caer,hl,4,0,frequency measured: 2 / flowers measured: 0,
+2011,krr-z4,teuc mont,hl,4,13,,
+2011,krr-z5,alli lusi,hl,4,0,frequency measured: 2 / flowers measured: 0,
+2011,krr-z5,brom tect,hl,7,11,,
+2011,krr-z5,card nuta nuta,hl,1,0,,
+2011,krr-z5,care humi,hl,8,999,,
+2011,krr-z5,jovi glob hirt,hl,24,0,,
+2011,krr-z5,lact vimi,hl,1,0,,
+2011,krr-z5,scab ochr,hl,16,5,frequency measured: 12 / flowers measured: 3,
+2011,krr-z5,sedu albu,hl,24,0,,
+2011,krr-z5,sese aust,hl,15,1,frequency measured: 2 / flowers measured: 0,
+2011,krr-z5,card cras glau,hl,2,0,,
+2011,krr-z5,card nuta nuta,hl,2,0,,
+2011,krr-z6,care humi,hl,8,0,,
+2011,krr-z6,gali luci,hl,7,3,frequency measured: 5 / flowers measured: 0,
+2011,krr-z6,jovi glob hirt,hl,24,0,,
+2011,krr-z6,leon inca,hl,10,4,,
+2011,krr-z6,meli cili,hl,1,0,,
+2011,krr-z6,sedu albu,hl,22,0,,
+2011,krr-z6,teuc mont,hl,2,0,,
+2011,krr-z6,micr perf,hl,1,0,,
+2011,krr-z7,brom tect,hl,2,2,,
+2011,krr-z7,bupl falc falc,hl,6,4,frequency measured: 4 / flowers measured: 2,
+2011,krr-z7,card nuta nuta,hl,2,0,,
+2011,krr-z7,gali luci,hl,14,12,frequency measured: 14 / flowers measured: 8,
+2011,krr-z7,jovi glob hirt,hl,15,0,,
+2011,krr-z7,leon inca,hl,11,20,,
+2011,krr-z7,rese lute,hl,3,1,,
+2011,krr-z7,sedu albu,hl,22,999,,
+2011,krr-z8,gali luci,hl,12,10,frequency measured: 8 / flowers measured: 9,
+2011,krr-z8,jovi glob hirt,hl,20,0,,
+2011,krr-z8,sang mino mino,hl,2,0,,
+2011,krr-z8,secu vari,hl,22,11,frequency measured: 21 / flowers measured: 5,
+2011,krr-z8,sedu albu,hl,25,0,,
+2012,krr-z1,alli lusi,hl,10,0,,
+2012,krr-z1,jovi glob hirt,hl,18,0,,
+2012,krr-z1,leon inca,hl,10,12,,
+2012,krr-z1,meli cili,hl,3,0,,
+2012,krr-z1,scab ochr,hl,12,7,,
+2012,krr-z1,sedu albu,hl,9,999,,
+2012,krr-z1,sese aust,hl,1,0,seedling,
+2012,krr-z1,teuc cham,hl,2,1,,
+2012,krr-z1,teuc mont,hl,4,14,,
+2012,krr-z2,dory germ,hl,4,0,,
+2012,krr-z2,gali luci,hl,7,5,,
+2012,krr-z2,jovi glob hirt,hl,20,0,,
+2012,krr-z2,meli cili,hl,1,0,,
+2012,krr-z2,sedu albu,hl,15,999,,
+2012,krr-z3,card nuta nuta,hl,2,1,,
+2012,krr-z3,care humi,hl,21,999,,
+2012,krr-z3,erys sylv,hl,1,0,,
+2012,krr-z3,gali luci,hl,6,5,,
+2012,krr-z3,jovi glob hirt,hl,6,0,,
+2012,krr-z3,leon inca,hl,6,0,,
+2012,krr-z3,meli cili,hl,1,0,,
+2012,krr-z3,sang mino mino,hl,1,0,,
+2012,krr-z3,secu vari,hl,1,0,,
+2012,krr-z3,sedu albu,hl,5,999,,
+2012,krr-z3,vinc hiru,hl,14,8,,
+2012,krr-z3,medi lupu,hl,1,0,,
+2012,krr-z4,clin acin,hl,1,1,,
+2012,krr-z4,aren serp,hl,1,999,,
+2012,krr-z4,care humi,hl,4,999,,
+2012,krr-z4,euph cypa,hl,6,0,,
+2012,krr-z4,gali luci,hl,15,14,,
+2012,krr-z4,jovi glob hirt,hl,7,0,,
+2012,krr-z4,meli cili,hl,3,1,,
+2012,krr-z4,prun maha,hl,1,0,,
+2012,krr-z4,sang mino mino,hl,4,0,,
+2012,krr-z4,sedu albu,hl,9,999,,
+2012,krr-z4,sesl caer,hl,5,4,,
+2012,krr-z4,teuc mont,hl,7,32,,
+2012,krr-k5,clin acin,hl,1,0,,
+2012,krr-k5,jovi glob hirt,hl,13,0,,
+2012,krr-k5,meli cili,hl,1,0,,
+2012,krr-k5,sedu albu,hl,10,999,,
+2012,krr-k5,teuc mont,hl,2,9,,
+2012,krr-k5,medi lupu,hl,2,0,,
+2012,krr-k6,ajug gene,hl,3,0,,
+2012,krr-k6,anch offi,hl,3,0,,
+2012,krr-k6,erys sylv,hl,3,0,,
+2012,krr-k6,jovi glob hirt,hl,15,0,,
+2012,krr-k6,leon inca,hl,4,0,,
+2012,krr-k6,sedu albu,hl,8,999,,
+2012,krr-k6,teuc mont,hl,6,18,,
+2012,krr-k7,alli lusi,hl,1,0,,
+2012,krr-k7,jovi glob hirt,hl,25,0,,
+2012,krr-k7,sedu albu,hl,23,999,,
+2012,krr-k8,anch offi,hl,4,0,,
+2012,krr-k8,aren serp,hl,2,999,,
+2012,krr-k8,care humi,hl,4,0,,
+2012,krr-k8,echi vulg,hl,3,0,,
+2012,krr-k8,heli numm obsc,hl,1,0,,
+2012,krr-k8,jovi glob hirt,hl,25,0,,
+2012,krr-k8,lact vimi,hl,1,0,,
+2012,krr-k8,sedu albu,hl,18,999,,
+2012,krr-k8,hack defl,hl,3,3,,
+2012,htl-z5,clin acin,hl,1,0,,
+2012,htl-z5,anth ramo,hl,12,13,,
+2012,htl-z5,aspe cyna,hl,3,3,,
+2012,htl-z5,cent scab bade,hl,4,1,,
+2012,htl-z5,heli numm obsc,hl,14,25,,
+2012,htl-z5,jovi glob hirt,hl,2,0,,
+2012,htl-z5,meli cili,hl,3,1,,
+2012,htl-z5,orig vulg,hl,6,4,,
+2012,htl-z5,sedu albu,hl,4,999,,
+2012,htl-z5,teuc mont,hl,9,58,,
+2012,htl-z5,viol coll,hl,2,1,,
+2012,htl-z6,anth ramo,hl,2,0,,
+2012,htl-z6,aspe cyna,hl,1,1,,
+2012,htl-z6,hype perf,hl,3,2,,
+2012,htl-z6,jovi glob hirt,hl,7,0,,
+2012,htl-z6,meli cili,hl,10,4,,
+2012,htl-z6,orig vulg,hl,17,11,,
+2012,htl-z6,sedu albu,hl,6,999,,
+2012,htl-z7,clin acin,hl,3,2,,
+2012,htl-z7,aspe cyna,hl,10,11,,
+2012,htl-z7,glob cord,hl,5,2,,
+2012,htl-z7,heli numm glab,hl,10,12,,
+2012,htl-z7,jovi glob hirt,hl,1,0,,
+2012,htl-z7,lina geni,hl,17,7,,
+2012,htl-z7,meli cili,hl,8,9,,
+2012,htl-z7,pelt alli,hl,1,0,,
+2012,htl-z7,sedu albu,hl,7,999,,
+2012,htl-z7,teuc cham,hl,11,8,,
+2012,htl-z7,vinc hiru,hl,13,11,,
+2012,htl-z7,medi lupu,hl,7,4,,
+2012,htl-z8,acon anth,hl,3,1,,
+2012,htl-z8,ajug gene,hl,7,1,,
+2012,htl-z8,anth ramo,hl,9,1,,
+2012,htl-z8,aren serp,hl,2,999,,
+2012,htl-z8,heli numm obsc,hl,7,14,,
+2012,htl-z8,meli cili,hl,1,0,margin,
+2012,htl-z8,pelt alli,hl,1,1,,
+2012,htl-z8,sedu albu,hl,7,999,,
+2012,htl-z8,teuc cham,hl,15,16,,
+2012,htl-z8,teuc mont,hl,4,17,,
+2012,htl-z8,vinc hiru,hl,7,5,,
+2012,htl-z8,arte vulg,hl,1,0,,
+2012,htl-z8,viol tric saxa,hl,1,0,,
+2012,htl-k5,card nuta nuta,hl,1,0,,
+2012,htl-k5,jovi glob hirt,hl,1,0,,
+2012,htl-k6,anth ramo,hl,2,0,,
+2012,htl-k6,card nuta nuta,hl,1,0,,
+2012,htl-k6,erys sylv,hl,2,0,,
+2012,htl-k6,jovi glob hirt,hl,3,0,,
+2012,htl-k6,salv glut,hl,9,0,,
+2012,htl-k6,secu vari,hl,1,0,,
+2012,htl-k6,sedu albu,hl,2,0,,
+2012,htl-k6,teuc cham,hl,17,17,,
+2012,htl-k6,vinc hiru,hl,23,20,,
+2012,htl-k7,anth ramo,hl,1,0,,
+2012,htl-k7,erys sylv,hl,2,0,,
+2012,htl-k7,jovi glob hirt,hl,12,0,,
+2012,htl-k7,orig vulg,hl,3,3,,
+2012,htl-k7,pelt alli,hl,1,0,,
+2012,htl-k7,pote pusi,hl,2,0,,
+2012,htl-k7,sedu albu,hl,17,999,,
+2012,htl-k7,teuc mont,hl,5,9,,
+2012,htl-k8,ajug gene,hl,4,0,,
+2012,htl-k8,aspe cyna,hl,1,0,,
+2012,htl-k8,erys sylv,hl,7,2,,
+2012,htl-k8,heli numm glab,hl,2,0,,
+2012,htl-k8,jovi glob hirt,hl,21,0,,
+2012,htl-k8,orig vulg,hl,10,3,,
+2012,htl-k8,pote pusi,hl,3,0,,
+2012,htl-k8,sedu albu,hl,6,0,,
+2012,htl-k8,teuc cham,hl,10,10,,
+2012,htl-k8,teuc mont,hl,2,1,,
+2012,htl-k8,vinc hiru,hl,20,15,,
+2012,htl-k8,anth vuln slat,hl,1,0,,
+2012,htl-k8,pinu nigr nigr,hl,1,0,,
+2012,htl-k1,clin acin,hl,3,1,,
+2012,htl-k1,ajug gene,hl,8,0,,
+2012,htl-k1,erys sylv,hl,8,2,,
+2012,htl-k1,heli numm glab,hl,1,0,,
+2012,htl-k1,jovi glob hirt,hl,6,999,,
+2012,htl-k1,meli cili,hl,2,0,,
+2012,htl-k1,sang mino mino,hl,3,0,,
+2012,htl-k1,sedu albu,hl,15,999,,
+2012,htl-k1,tara sect rude,hl,1,0,,
+2012,htl-k1,teuc cham,hl,16,20,,
+2012,htl-k1,teuc mont,hl,3,15,,
+2012,htl-k1,viol coll,hl,2,0,,
+2012,htl-k2,alli lusi,hl,2,0,,
+2012,htl-k2,erys sylv,hl,1,1,,
+2012,htl-k2,jovi glob hirt,hl,4,0,,
+2012,htl-k2,rese lute,hl,2,0,,
+2012,htl-k2,sedu albu,hl,7,0,,
+2012,htl-k2,teuc cham,hl,2,0,,
+2012,htl-k3,anth ramo,hl,2,0,,
+2012,htl-k3,jovi glob hirt,hl,8,0,,
+2012,htl-k3,rese lute,hl,2,1,,
+2012,htl-k3,sedu albu,hl,3,999,,
+2012,htl-k4,anth ramo,hl,1,0,,
+2012,htl-k4,jovi glob hirt,hl,3,0,,
+2012,htl-k4,orig vulg,hl,1,0,,
+2012,htl-k4,sedu albu,hl,1,0,,
+2012,htl-k4,teuc cham,hl,2,0,,
+2012,htl-k4,fuma schl,hl,1,0,,
+2012,htl-z1,clin acin,hl,5,5,,
+2012,htl-z1,ajug gene,hl,4,0,,
+2012,htl-z1,anth ramo,hl,6,2,,
+2012,htl-z1,heli numm obsc,hl,1,1,,
+2012,htl-z1,jovi glob hirt,hl,15,0,,
+2012,htl-z1,meli cili,hl,23,34,,
+2012,htl-z1,pote pusi,hl,1,0,,
+2012,htl-z1,sedu albu,hl,24,999,,
+2012,htl-z2,clin acin,hl,1,1,,
+2012,htl-z2,anch offi,hl,4,0,,
+2012,htl-z2,erys sylv,hl,1,0,,
+2012,htl-z2,jovi glob hirt,hl,11,0,,
+2012,htl-z2,meli cili,hl,10,2,,
+2012,htl-z2,sedu albu,hl,22,999,,
+2012,htl-z2,sese aust,hl,25,16,,
+2012,htl-z3,brac sylv,hl,4,0,,
+2012,htl-z3,frax exce,hl,1,0,,
+2012,htl-z3,heli numm glab,hl,10,14,,
+2012,htl-z3,hype perf,hl,7,2,,
+2012,htl-z3,jovi glob hirt,hl,2,0,,
+2012,htl-z3,pelt alli,hl,3,1,,
+2012,htl-z3,poa comp,hl,22,60,,
+2012,htl-z3,sedu albu,hl,8,999,,
+2012,htl-z3,tara sect rude,hl,2,0,,
+2012,htl-z3,teuc mont,hl,3,7,,
+2012,htl-z4,clin acin,hl,3,1,,
+2012,htl-z4,acon anth,hl,6,3,,
+2012,htl-z4,ajug gene,hl,2,0,,
+2012,htl-z4,anth ramo,hl,10,3,,
+2012,htl-z4,aren serp,hl,3,999,,
+2012,htl-z4,aspe cyna,hl,5,3,,
+2012,htl-z4,heli numm obsc,hl,22,24,,
+2012,htl-z4,hype perf,hl,10,5,,
+2012,htl-z4,jovi glob hirt,hl,3,1,,
+2012,htl-z4,meli cili,hl,23,19,,
+2012,htl-z4,orig vulg,hl,8,4,,
+2012,htl-z4,pelt alli,hl,1,0,,
+2012,htl-z4,poa comp,hl,5,7,,
+2012,htl-z4,sedu albu,hl,1,0,,
+2012,htl-z4,teuc cham,hl,12,13,,
+2012,htl-z4,teuc mont,hl,5,14,,
+2012,htl-z4,vinc hiru,hl,3,1,,
+2012,krr-k1,alli lusi,hl,1,1,,
+2012,krr-k1,anch offi,hl,1,0,,
+2012,krr-k1,gali luci,hl,2,0,,
+2012,krr-k1,jovi glob hirt,hl,15,0,,
+2012,krr-k1,sedu albu,hl,15,0,,
+2012,krr-k2,clin acin,hl,2,0,,
+2012,krr-k2,ajug gene,hl,9,0,,
+2012,krr-k2,alli lusi,hl,1,0,,
+2012,krr-k2,card nuta nuta,hl,2,0,,
+2012,krr-k2,meli cili,hl,1,0,,
+2012,krr-k2,prun maha,hl,4,0,,
+2012,krr-k2,sedu albu,hl,2,999,,
+2012,krr-k2,sile lati alba,hl,1,0,,
+2012,krr-k2,teuc mont,hl,3,11,,
+2012,krr-k3,alli lusi,hl,3,0,,
+2012,krr-k3,aren serp,hl,1,999,,
+2012,krr-k3,cent scab bade,hl,2,0,,
+2012,krr-k3,echi vulg,hl,1,0,,
+2012,krr-k3,erys sylv,hl,1,0,,
+2012,krr-k3,gali luci,hl,2,0,,
+2012,krr-k3,leon inca,hl,1,0,,
+2012,krr-k3,meli cili,hl,1,0,,
+2012,krr-k3,sedu albu,hl,14,999,,
+2012,krr-k3,teuc mont,hl,3,6,,
+2012,krr-k3,anch offi,hl,1,0,,
+2012,krr-k4,alli lusi,hl,2,0,,
+2012,krr-k4,aren serp,hl,2,999,,
+2012,krr-k4,cent scab bade,hl,10,0,,
+2012,krr-k4,gali luci,hl,3,0,,
+2012,krr-k4,jovi glob hirt,hl,11,1,,
+2012,krr-k4,meli cili,hl,3,0,,
+2012,krr-k4,sang mino mino,hl,7,3,,
+2012,krr-k4,sedu albu,hl,8,999,,
+2012,krr-k4,teuc botr,hl,11,1,,
+2012,krr-k4,vinc hiru,hl,11,10,,
+2012,krr-k4,medi lupu,hl,2,0,,
+2012,krr-z5,alli lusi,hl,3,0,,
+2012,krr-z5,care humi,hl,8,999,,
+2012,krr-z5,jovi glob hirt,hl,24,0,,
+2012,krr-z5,lact vimi,hl,1,0,,
+2012,krr-z5,scab ochr,hl,11,3,,
+2012,krr-z5,sedu albu,hl,19,0,,
+2012,krr-z5,sese aust,hl,15,12,,
+2012,krr-z6,bupl falc falc,hl,1,0,,
+2012,krr-z6,card cras glau,hl,2,0,,
+2012,krr-z6,care humi,hl,9,999,,
+2012,krr-z6,gali luci,hl,8,9,,
+2012,krr-z6,jovi glob hirt,hl,23,0,,
+2012,krr-z6,leon inca,hl,16,11,,
+2012,krr-z6,scab ochr,hl,3,0,,
+2012,krr-z6,sedu albu,hl,17,999,,
+2012,krr-z6,teuc mont,hl,3,13,,
+2012,krr-z7,bupl falc falc,hl,6,3,,
+2012,krr-z7,gali luci,hl,21,27,,
+2012,krr-z7,jovi glob hirt,hl,13,0,,
+2012,krr-z7,leon inca,hl,9,5,,
+2012,krr-z7,sedu albu,hl,13,999,,
+2012,krr-z8,gali luci,hl,24,36,,
+2012,krr-z8,jovi glob hirt,hl,12,0,,
+2012,krr-z8,leon inca,hl,2,1,,
+2012,krr-z8,meli cili,hl,2,0,,
+2012,krr-z8,sang mino mino,hl,2,2,,
+2012,krr-z8,secu vari,hl,17,12,,
+2012,krr-z8,sedu albu,hl,5,0,,

@@ -1,7 +1,7 @@
 About this data set
 ===================
 
-**This is a data set from a monitoring study evaluating browsing (grazing) impacts of wild ungulates (*Ibex ibex* and *Rupicaprina rupicaprina*) by using fenced enclosures on two sites.**
+**This is a data set from a 3-year monitoring study evaluating browsing (grazing) impacts of wild ungulates (*Ibex ibex* and *Rupicaprina rupicaprina*) using fenced enclosures on two sites.**
 
 Two quadratic enclosures of approximately 2.2m height and 25m² area were erected in spring 2010 using metal poles and wire-mesh fence. Geographic coordinates (WGS-84, EPSG 4326) of site *HTL-Steig* (encoded as `HTL`) is 47.829177 N, 16.047711 E. Study site *Krumme Ries* (encoded as `KRR`) is located at 47.823072 N, 16.039845 E.
 
@@ -25,7 +25,7 @@ Meaning of columns is as follows:
 
 + `year`: year of sampling
 + `plot`: unique plot identifier
-+ `cell`: cell of sampling frame (25 cells of 10 × 10cm per 0.5 × 0.5m quadrat)
++ `cell`: cell of sampling frame (25 cells of 10 × 10cm per 0.5 × 0.5m square, see fig. 1)
 + `abbr`: abbreviation of the scientific species names (see the [vegsoup-standards](https://github.com/kardinal-eros/vegsoup-standards) repository for details, in particular the `austrian standard list 2008` data set).
 + `height`: plant height
 
@@ -43,7 +43,7 @@ Meaning of columns is as follows:
 + `rock`: proportion of bare rock surface (sums to 100 with parameters scree and soil)
 + `scree`: proportion of stones and loose gravel  (sums to 100 with parameters rock and soil)
 + `soil`: proportion of bare soil  (sums to 100 with parameters rock and scree)
-+ `litter`: cover of plant litetr
++ `litter`: cover of plant litter
 
 File `species.csv`: (;-separated, UTF-8) contains species frequency data of sampling frames.
 
