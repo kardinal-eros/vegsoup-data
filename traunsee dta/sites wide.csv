@@ -1,4 +1,4 @@
-plot,interim,physiognomy,date,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,latitude,longitude,accuracy,location,comment,geomorphology,soil,alliance,rope,comment,observer
+plot,interim,physiognomy,date,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,latitude,longitude,accuracy,location,comment,geomorphology,soil,alliance,rope,comment2,observer
 ts01,,forest,2011-09-10,75,0,15,30,70,5,0,10,4.5,1,0.3,16,16,W,50,0,1,30,47.865654N,13.816559E,10,Traunstein,,talus,Skeletthumusboden,Abieti-Piceion,,,"E. Stadler, R. Kaiser, U. Jaros & G. Pflugbeil "
 ts02,,forest,2011-09-10,97,20,0,50,90,5,10,0,5,1,0.3,16,16,W,50,0,1,2,47.865542N,13.816623E,10,Traunstein,,talus,Skeletthumusboden,Abieti-Piceion,,,"E. Stadler, R. Kaiser, U. Jaros & G. Pflugbeil "
 ts03,,forest,2011-09-10,70,40,0,40,55,1,10,0,4,1.1,0.3,16,16,W,55,0,1,45,47.865303N,13.816906E,10,Traunstein,,talus,Skeletthumusboden,Abieti-Piceion,,,"E. Stadler, R. Kaiser, U. Jaros & G. Pflugbeil "
@@ -57,3 +57,4 @@ ts55,tsy08,shrubery,2015-08-13,70,0,30,60,60,3,0,9,4.5,0.5,0.25,8,8,SW,75,90,0,0
 ts56,tsy09,forest,2015-08-13,95,35,50,3,80,1,23,15,3,0.8,0.1,16,16,NW,40,0,0,5,47.814763N,13.801735E,10,Spitzlstein,,,Rendzina,Cephalanthero-Fagenion,,,R. Kaiser & T. Eberl
 ts57,tsy10,forest,2015-08-13,97,80,25,5,80,3,24,16,2,0.6,0.3,16,16,W,30,0,0,0,47.815250N,13.800638E,10,Spitzlstein,,,Rendzina,Cephalanthero-Fagenion,,,R. Kaiser & T. Eberl
 ts58,tsy11,forest,2015-08-13,93,8,50,25,85,15,24,18,4,0.8,0.1,16,16,W,45,25,0,0,47.815438N,13.800007E,10,Spitzlstein,,,Rendzina,Cephalanthero-Fagenion,"rope betray: 47.815438N,13.800007E, rope range (±90m): 47.815490N,13.799700E",,R. Kaiser & T. Eberl
+ts59,,,2017-09-15,95,80,20,40,75,10,25,16,2.5,0.6,0.2,25,10,W,50,10,0,0,47.848170N,13.810550E,10,Eisenau,,,Rendzina,Tilenion platyphylli,,entlang der Uferböschung ab der Wasserlinie,R. Kaiser
