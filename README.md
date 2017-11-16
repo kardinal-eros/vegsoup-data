@@ -149,7 +149,7 @@ Other fields, such as, country, province (district), nearest village, and altitu
 **Geographic coordinates**  
 
 > `latitude` coordinate of latitude in decimal degrees (decimal is ».«) based on the WGS 1984 ellipsoid (EPSG:4326), a minus sign or a padding letter »S« and »N« means south and north of the equator, respectively (e.g. 12.345678S or -12.345678).  
-> `longitude` coordinate of latitude, a minus sign or padding letter »W« and »E» means west and east of the greenwich zero meridian, respectively  (eg. 87.654321W or -87.654321)  
+> `longitude` coordinate of longitude, a minus sign or padding letter »W« and »E» means west and east of the greenwich zero meridian, respectively  (eg. 87.654321W or -87.654321)  
 > `accuracy` coordinate uncertainty (precision) in meters
 
 **Data on vegetation**  
