@@ -1,297 +1,572 @@
-"plot";"abbr";"layer";"cov";"comment";"history"
-"bi01";"abie alba";"hl";"+";"";""
-"bi01";"abie alba";"sl";"1";"";""
-"bi01";"betu pend";"hl";"+";"";""
-"bi01";"camp flex";"ml";"+";"";""
-"bi01";"dryo cart";"hl";"+";"";""
-"bi01";"fran alnu";"hl";"+";"";""
-"bi01";"fran alnu";"sl";"2a";"";""
-"bi01";"hylo sple";"ml";"2a";"";""
-"bi01";"hypn cupr";"ml";"+";"";""
-"bi01";"lari deci deci";"tl";"3";"";""
-"bi01";"leuc glau";"ml";"+";"";""
-"bi01";"maia bifo";"hl";"+";"";""
-"bi01";"pice abie";"sl";"+";"";""
-"bi01";"pice abie";"tl";"1";"";""
-"bi01";"pleu schr";"ml";"1";"";""
-"bi01";"poly form";"ml";"+";"";""
-"bi01";"rubu sect rubu";"hl";"+";"";" | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01"
-"bi01";"vacc myrt";"hl";"2a";"";""
-"bi02";"abie alba";"hl";"+";"";""
-"bi02";"camp flex";"ml";"1";"";""
-"bi02";"dicr scop";"ml";"1";"";""
-"bi02";"fran alnu";"hl";"+";"";""
-"bi02";"hylo sple";"ml";"2a";"";""
-"bi02";"hypn cupr";"ml";"2a";"";""
-"bi02";"leuc glau";"ml";"1";"";""
-"bi02";"pice abie";"tl";"5";"";""
-"bi02";"pleu schr";"ml";"1";"";""
-"bi02";"poly form";"ml";"1";"";""
-"bi02";"quer robu";"hl";"+";"";""
-"bi02";"spha capi";"ml";"+";"";""
-"bi02";"vacc myrt";"hl";"+";"";""
-"bi03";"abie alba";"hl";"+";"";""
-"bi03";"aego poda";"hl";"+";"";""
-"bi03";"aven flex flex";"hl";"+";"";""
-"bi03";"betu pend";"hl";"+";"";""
-"bi03";"care cane cane";"hl";"1";"";" | Changed care cane To care cane cane 2012-11-27 19:22:01"
-"bi03";"care pilu pilu";"hl";"+";"";" | Changed care pilu To care pilu pilu 2012-11-27 19:22:01"
-"bi03";"fran alnu";"hl";"+";"";""
-"bi03";"fran alnu";"sl";"1";"";""
-"bi03";"junc effu";"hl";"1";"";""
-"bi03";"lari deci deci";"hl";"r";"";""
-"bi03";"oxal acet";"hl";"+";"";""
-"bi03";"pice abie";"hl";"+";"";""
-"bi03";"poly form";"ml";"+";"";""
-"bi03";"samb nigr";"hl";"+";"";""
-"bi03";"tara sect rude";"hl";"+";"";" | Changed tara offi To tara sect rude 2012-11-27 19:22:01"
-"bi03";"vacc myrt";"hl";"+";"";""
-"bi04";"abie alba";"hl";"1";"";""
-"bi04";"abie alba";"sl";"4";"";""
-"bi04";"abie alba";"tl";"1";"";""
-"bi04";"aven flex flex";"hl";"+";"";""
-"bi04";"betu pend";"sl";"+";"";""
-"bi04";"betu pend";"tl";"1";"";""
-"bi04";"camp flex";"ml";"+";"";""
-"bi04";"fran alnu";"hl";"1";"";""
-"bi04";"fran alnu";"sl";"2a";"";""
-"bi04";"hylo sple";"ml";"1";"";""
-"bi04";"hypn cupr";"ml";"1";"";""
-"bi04";"leuc glau";"ml";"+";"";""
-"bi04";"pice abie";"hl";"+";"";""
-"bi04";"pice abie";"sl";"1";"";""
-"bi04";"pice abie";"tl";"1";"";""
-"bi04";"pinu sylv";"tl";"+";"";""
-"bi04";"pleu schr";"ml";"1";"";""
-"bi04";"poly form";"ml";"+";"";""
-"bi04";"vacc myrt";"hl";"2a";"";""
-"bi05";"abie alba";"hl";"1";"";""
-"bi05";"abie alba";"sl";"+";"";""
-"bi05";"abie alba";"tl";"2b";"";""
-"bi05";"aven flex flex";"hl";"+";"";""
-"bi05";"dicr scop";"ml";"+";"";""
-"bi05";"dryo cart";"hl";"+";"";""
-"bi05";"fran alnu";"hl";"+";"";""
-"bi05";"fran alnu";"sl";"+";"";""
-"bi05";"hypn cupr";"ml";"1";"";""
-"bi05";"leuc glau";"ml";"+";"";""
-"bi05";"maia bifo";"hl";"+";"";""
-"bi05";"pice abie";"hl";"+";"";""
-"bi05";"pice abie";"tl";"4";"";""
-"bi05";"pleu schr";"ml";"2a";"";""
-"bi05";"poly form";"ml";"1";"";""
-"bi05";"sorb aucu aucu";"hl";"r";"";" | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01"
-"bi05";"vacc myrt";"hl";"+";"";""
-"bi06";"abie alba";"hl";"1";"";""
-"bi06";"abie alba";"sl";"1";"";""
-"bi06";"abie alba";"tl";"2a";"";""
-"bi06";"agro capi";"hl";"+";"";" | Changed agro tenu To agro capi 2012-11-27 19:22:01"
-"bi06";"aven flex flex";"hl";"1";"";""
-"bi06";"betu pend";"hl";"+";"";""
-"bi06";"betu pend";"sl";"+";"";""
-"bi06";"betu pend";"tl";"1";"";""
-"bi06";"camp flex";"ml";"1";"";""
-"bi06";"dicr scop";"ml";"1";"";""
-"bi06";"dryo cart";"hl";"+";"";""
-"bi06";"fran alnu";"hl";"1";"";""
-"bi06";"fran alnu";"sl";"2a";"";""
-"bi06";"hylo sple";"ml";"2a";"";""
-"bi06";"leuc glau";"ml";"+";"";""
-"bi06";"pice abie";"hl";"+";"";""
-"bi06";"pice abie";"sl";"+";"";""
-"bi06";"pinu sylv";"hl";"+";"";""
-"bi06";"pinu sylv";"tl";"3";"";""
-"bi06";"pleu schr";"ml";"2a";"";""
-"bi06";"poly form";"ml";"+";"";""
-"bi06";"rubu sect rubu";"hl";"+";"";" | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01"
-"bi06";"vacc myrt";"hl";"3";"";""
-"bi06";"visc laxu abie";"tl";"+";"";" | Changed visc abie To visc laxu abie 2012-11-27 19:22:01"
-"bi07";"abie alba";"hl";"1";"";""
-"bi07";"abie alba";"sl";"+";"";""
-"bi07";"abie alba";"tl";"4";"";""
-"bi07";"aven flex flex";"hl";"+";"";""
-"bi07";"bazz tril";"ml";"2a";"";""
-"bi07";"camp flex";"ml";"1";"";""
-"bi07";"fran alnu";"hl";"+";"";""
-"bi07";"fran alnu";"sl";"+";"";""
-"bi07";"hylo sple";"ml";"2a";"";""
-"bi07";"hypn cupr";"ml";"1";"";""
-"bi07";"pice abie";"hl";"+";"";""
-"bi07";"pice abie";"sl";"+";"";""
-"bi07";"pice abie";"tl";"2a";"";""
-"bi07";"pinu sylv";"tl";"+";"";""
-"bi07";"pleu schr";"ml";"3";"";""
-"bi07";"poly form";"ml";"3";"";""
-"bi07";"spha capi";"ml";"1";"";""
-"bi07";"vacc myrt";"hl";"2b";"";""
-"bi08";"abie alba";"sl";"2a";"";""
-"bi08";"abie alba";"tl";"2a";"";""
-"bi08";"aven flex flex";"hl";"+";"";""
-"bi08";"betu pend";"sl";"1";"";""
-"bi08";"betu pend";"tl";"4";"";""
-"bi08";"camp flex";"ml";"1";"";""
-"bi08";"dicr scop";"ml";"+";"";""
-"bi08";"fran alnu";"hl";"+";"";""
-"bi08";"fran alnu";"sl";"+";"";""
-"bi08";"hypn cupr";"ml";"2a";"";""
-"bi08";"leuc glau";"ml";"+";"";""
-"bi08";"pice abie";"sl";"1";"";""
-"bi08";"pice abie";"tl";"+";"";""
-"bi08";"pinu sylv";"sl";"+";"";""
-"bi08";"pinu sylv";"tl";"1";"";""
-"bi08";"pleu schr";"ml";"2a";"";""
-"bi08";"poly form";"ml";"1";"";""
-"bi08";"quer robu";"hl";"r";"";""
-"bi08";"vacc myrt";"hl";"3";"";""
-"bi09";"abie alba";"sl";"2a";"";""
-"bi09";"abie alba";"tl";"2a";"";""
-"bi09";"agro capi";"hl";"+";"";" | Changed agro tenu To agro capi 2012-11-27 19:22:01"
-"bi09";"ajug rept";"hl";"+";"";""
-"bi09";"aven flex flex";"hl";"2a";"";""
-"bi09";"betu pend";"sl";"+";"";""
-"bi09";"betu pend";"tl";"+";"";""
-"bi09";"care cane cane";"hl";"+";"";" | Changed care cane To care cane cane 2012-11-27 19:22:01"
-"bi09";"care digi";"hl";"+";"";""
-"bi09";"care pilu pilu";"hl";"1";"";" | Changed care pilu To care pilu pilu 2012-11-27 19:22:01"
-"bi09";"cory avel";"hl";"+";"";""
-"bi09";"dryo cart";"hl";"+";"";""
-"bi09";"fagu sylv";"sl";"+";"";""
-"bi09";"fagu sylv";"tl";"1";"";""
-"bi09";"fran alnu";"hl";"1";"";""
-"bi09";"fran alnu";"sl";"2a";"";""
-"bi09";"hypn cupr";"ml";"2a";"";""
-"bi09";"malu dome";"sl";"+";"";""
-"bi09";"lact mura";"hl";"+";"";" | Changed myce mura To lact mura 2012-11-27 19:22:01"
-"bi09";"pice abie";"sl";"+";"";""
-"bi09";"pice abie";"tl";"1";"";""
-"bi09";"pleu schr";"ml";"1";"";""
-"bi09";"prun aviu slat";"tl";"2a";"";" | Changed prun aviu To prun aviu slat 2012-11-27 19:22:01"
-"bi09";"quer robu";"hl";"+";"";""
-"bi09";"quer robu";"tl";"2b";"";""
-"bi09";"rubu sect rubu";"hl";"2b";"";" | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01"
-"bi09";"samb nigr";"hl";"+";"";""
-"bi09";"scro nodo";"hl";"r";"";""
-"bi09";"sorb aucu aucu";"hl";"+";"";" | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01"
-"bi09";"sorb aucu aucu";"tl";"+";"";" | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01"
-"bi09";"vacc myrt";"hl";"2a";"";""
-"bi09";"viol rivi";"hl";"+";"";""
-"bi10";"abie alba";"hl";"2b";"";""
-"bi10";"abie alba";"sl";"3";"";""
-"bi10";"abie alba";"tl";"1";"";""
-"bi10";"aven flex flex";"hl";"+";"";""
-"bi10";"bazz tril";"ml";"1";"";""
-"bi10";"betu pend";"sl";"+";"";""
-"bi10";"camp flex";"ml";"1";"";""
-"bi10";"dicr scop";"ml";"1";"";""
-"bi10";"dryo cart";"hl";"+";"";""
-"bi10";"fran alnu";"hl";"+";"";""
-"bi10";"fran alnu";"sl";"+";"";""
-"bi10";"hylo sple";"ml";"3";"";""
-"bi10";"hypn cupr";"ml";"1";"";""
-"bi10";"leuc glau";"ml";"+";"";""
-"bi10";"pice abie";"hl";"2a";"";""
-"bi10";"pice abie";"sl";"+";"";""
-"bi10";"pice abie";"tl";"4";"";""
-"bi10";"pleu schr";"ml";"2a";"";""
-"bi10";"poly form";"ml";"2a";"";""
-"bi10";"sorb aucu aucu";"hl";"+";"";" | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01"
-"bi10";"spha capi";"ml";"1";"";""
-"bi10";"vacc myrt";"hl";"2a";"";""
-"bi11";"abie alba";"hl";"+";"";""
-"bi11";"aven flex flex";"hl";"+";"";""
-"bi11";"betu pend";"sl";"2a";"";""
-"bi11";"betu pend";"tl";"2a";"";""
-"bi11";"camp flex";"ml";"+";"";""
-"bi11";"care cane cane";"hl";"+";"";" | Changed care cane To care cane cane 2012-11-27 19:22:01"
-"bi11";"fran alnu";"hl";"+";"";""
-"bi11";"fran alnu";"sl";"1";"";""
-"bi11";"hypn cupr";"ml";"+";"";""
-"bi11";"pice abie";"hl";"+";"";""
-"bi11";"pice abie";"sl";"1";"";""
-"bi11";"pice abie";"tl";"2b";"";""
-"bi11";"pinu sylv";"tl";"4";"";""
-"bi11";"poly form";"ml";"1";"";""
-"bi11";"quer robu";"tl";"+";"";""
-"bi11";"sorb aucu aucu";"hl";"+";"";" | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01"
-"bi11";"vacc myrt";"hl";"1";"";""
-"bi12";"abie alba";"hl";"1";"";""
-"bi12";"abie alba";"sl";"1";"";""
-"bi12";"abie nord";"hl";"2a";"";""
-"bi12";"betu pend";"hl";"1";"";""
-"bi12";"betu pend";"sl";"1";"";""
-"bi12";"call vulg";"hl";"+";"";""
-"bi12";"camp flex";"ml";"1";"";""
-"bi12";"dicr scop";"ml";"2b";"";""
-"bi12";"fran alnu";"hl";"2a";"";""
-"bi12";"fran alnu";"sl";"1";"";""
-"bi12";"hypn cupr";"ml";"2b";"";""
-"bi12";"pinu sylv";"hl";"+";"";""
-"bi12";"pleu schr";"ml";"1";"";""
-"bi12";"spha capi";"ml";"1";"";""
-"bi12";"vacc myrt";"hl";"5";"";""
-"bi13";"abie alba";"hl";"2a";"";""
-"bi13";"abie alba";"sl";"2a";"";""
-"bi13";"betu pend";"hl";"1";"";""
-"bi13";"betu pend";"sl";"1";"";""
-"bi13";"betu pend";"tl";"2a";"";""
-"bi13";"call vulg";"hl";"1";"";""
-"bi13";"camp flex";"ml";"1";"";""
-"bi13";"dicr scop";"ml";"1";"";""
-"bi13";"fran alnu";"hl";"+";"";""
-"bi13";"fran alnu";"sl";"2a";"";""
-"bi13";"hypn cupr";"ml";"+";"";""
-"bi13";"pice abie";"sl";"+";"";""
-"bi13";"pice abie";"tl";"1";"";""
-"bi13";"pinu sylv";"tl";"3";"";""
-"bi13";"pleu schr";"ml";"1";"";""
-"bi13";"vacc myrt";"hl";"2b";"";""
-"bi14";"acer pseu";"hl";"+";"";""
-"bi14";"acer pseu";"sl";"1";"";""
-"bi14";"acer pseu";"tl";"2b";"";""
-"bi14";"ajug rept";"hl";"1";"";""
-"bi14";"ange sylv sylv";"hl";"2a";"";" | Changed ange sylv To ange sylv sylv 2012-11-27 19:22:01"
-"bi14";"aven flex flex";"hl";"+";"";""
-"bi14";"betu pend";"tl";"2a";"";""
-"bi14";"brac sylv";"hl";"1";"";""
-"bi14";"call vulg";"hl";"1";"";""
-"bi14";"dact glom glom";"hl";"+";"";" | Changed dact glom To dact glom glom 2012-11-27 19:22:01"
-"bi14";"dryo fili";"hl";"+";"";""
-"bi14";"frax exce";"sl";"1";"";""
-"bi14";"frax exce";"tl";"2b";"";""
-"bi14";"gera robe";"hl";"2a";"";""
-"bi14";"glec hede";"hl";"1";"";""
-"bi14";"hypn cupr";"ml";"4";"";""
-"bi14";"malu dome";"sl";"+";"";""
-"bi14";"moeh trin";"hl";"+";"";""
-"bi14";"pice abie";"hl";"+";"";""
-"bi14";"pice abie";"sl";"1";"";""
-"bi14";"pice abie";"tl";"1";"";""
-"bi14";"poa nemo";"hl";"1";"";""
-"bi14";"poly form";"ml";"2b";"";""
-"bi14";"poly vulg";"hl";"+";"";""
-"bi14";"popu trem";"tl";"2b";"";""
-"bi14";"prim elat";"hl";"+";"";""
-"bi14";"rubu sect rubu";"hl";"2a";"";" | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01"
-"bi14";"sali capr";"sl";"+";"";""
-"bi14";"samb nigr";"sl";"1";"";""
-"bi14";"sani euro";"hl";"1";"";""
-"bi14";"urti dioi dioi";"hl";"3";"";" | Changed urti dioi To urti dioi dioi 2012-11-27 19:22:01"
-"bi14";"viol reic";"hl";"+";"";""
-"bi15";"abie alba";"hl";"+";"";""
-"bi15";"abie alba";"sl";"2a";"";""
-"bi15";"abie alba";"tl";"3";"";""
-"bi15";"bazz tril";"ml";"1";"";""
-"bi15";"camp flex";"ml";"+";"";""
-"bi15";"dicr scop";"ml";"1";"";""
-"bi15";"dryo cart";"hl";"+";"";""
-"bi15";"fran alnu";"hl";"+";"";""
-"bi15";"hylo sple";"ml";"2a";"";""
-"bi15";"hypn cupr";"ml";"2b";"";""
-"bi15";"leuc glau";"ml";"+";"";""
-"bi15";"pice abie";"hl";"+";"";""
-"bi15";"pice abie";"sl";"2b";"";""
-"bi15";"pice abie";"tl";"3";"";""
-"bi15";"pleu schr";"ml";"2a";"";""
-"bi15";"poly form";"ml";"1";"";""
-"bi15";"spha capi";"ml";"+";"";""
-"bi15";"vacc myrt";"hl";"+";"";""
+plot,abbr,layer,cov,voucher,comment,history
+bi01,abie alba,hl,+,,,
+bi01,betu pend,hl,+,,,
+bi01,dryo cart,hl,+,,,
+bi01,fran alnu,hl,+,,,
+bi01,maia bifo,hl,+,,,
+bi01,rubu sect rubu,hl,+,,, | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01
+bi01,vacc myrt,hl,2a,,,
+bi01,camp flex,ml,+,,,
+bi01,hylo sple,ml,2a,,,
+bi01,hypn cupr,ml,+,,,
+bi01,leuc glau,ml,+,,,
+bi01,pleu schr,ml,1,,,
+bi01,poly form,ml,+,,,
+bi01,abie alba,sl,1,,,
+bi01,fran alnu,sl,2a,,,
+bi01,pice abie,sl,+,,,
+bi01,lari deci deci,tl1,3,,,
+bi01,pice abie,tl1,1,,,
+bi02,abie alba,hl,+,,,
+bi02,fran alnu,hl,+,,,
+bi02,quer robu,hl,+,,,
+bi02,vacc myrt,hl,+,,,
+bi02,camp flex,ml,1,,,
+bi02,dicr scop,ml,1,,,
+bi02,hylo sple,ml,2a,,,
+bi02,hypn cupr,ml,2a,,,
+bi02,leuc glau,ml,1,,,
+bi02,pleu schr,ml,1,,,
+bi02,poly form,ml,1,,,
+bi02,spha capi,ml,+,,,
+bi02,pice abie,tl1,5,,,
+bi03,abie alba,hl,+,,,
+bi03,aego poda,hl,+,,,
+bi03,aven flex flex,hl,+,,,
+bi03,betu pend,hl,+,,,
+bi03,care cane cane,hl,1,,, | Changed care cane To care cane cane 2012-11-27 19:22:01
+bi03,care pilu pilu,hl,+,,, | Changed care pilu To care pilu pilu 2012-11-27 19:22:01
+bi03,fran alnu,hl,+,,,
+bi03,junc effu,hl,1,,,
+bi03,lari deci deci,hl,r,,,
+bi03,oxal acet,hl,+,,,
+bi03,pice abie,hl,+,,,
+bi03,samb nigr,hl,+,,,
+bi03,tara sect rude,hl,+,,, | Changed tara offi To tara sect rude 2012-11-27 19:22:01
+bi03,vacc myrt,hl,+,,,
+bi03,poly form,ml,+,,,
+bi03,fran alnu,sl,1,,,
+bi04,abie alba,hl,1,,,
+bi04,aven flex flex,hl,+,,,
+bi04,fran alnu,hl,1,,,
+bi04,pice abie,hl,+,,,
+bi04,vacc myrt,hl,2a,,,
+bi04,camp flex,ml,+,,,
+bi04,hylo sple,ml,1,,,
+bi04,hypn cupr,ml,1,,,
+bi04,leuc glau,ml,+,,,
+bi04,pleu schr,ml,1,,,
+bi04,poly form,ml,+,,,
+bi04,abie alba,sl,4,,,
+bi04,betu pend,sl,+,,,
+bi04,fran alnu,sl,2a,,,
+bi04,pice abie,sl,1,,,
+bi04,abie alba,tl1,1,,,
+bi04,betu pend,tl1,1,,,
+bi04,pice abie,tl1,1,,,
+bi04,pinu sylv,tl1,+,,,
+bi05,abie alba,hl,1,,,
+bi05,aven flex flex,hl,+,,,
+bi05,dryo cart,hl,+,,,
+bi05,fran alnu,hl,+,,,
+bi05,maia bifo,hl,+,,,
+bi05,pice abie,hl,+,,,
+bi05,sorb aucu aucu,hl,r,,, | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01
+bi05,vacc myrt,hl,+,,,
+bi05,dicr scop,ml,+,,,
+bi05,hypn cupr,ml,1,,,
+bi05,leuc glau,ml,+,,,
+bi05,pleu schr,ml,2a,,,
+bi05,poly form,ml,1,,,
+bi05,abie alba,sl,+,,,
+bi05,fran alnu,sl,+,,,
+bi05,abie alba,tl1,2b,,,
+bi05,pice abie,tl1,4,,,
+bi06,abie alba,hl,1,,,
+bi06,agro capi,hl,+,,, | Changed agro tenu To agro capi 2012-11-27 19:22:01
+bi06,aven flex flex,hl,1,,,
+bi06,betu pend,hl,+,,,
+bi06,dryo cart,hl,+,,,
+bi06,fran alnu,hl,1,,,
+bi06,pice abie,hl,+,,,
+bi06,pinu sylv,hl,+,,,
+bi06,rubu sect rubu,hl,+,,, | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01
+bi06,vacc myrt,hl,3,,,
+bi06,camp flex,ml,1,,,
+bi06,dicr scop,ml,1,,,
+bi06,hylo sple,ml,2a,,,
+bi06,leuc glau,ml,+,,,
+bi06,pleu schr,ml,2a,,,
+bi06,poly form,ml,+,,,
+bi06,abie alba,sl,1,,,
+bi06,betu pend,sl,+,,,
+bi06,fran alnu,sl,2a,,,
+bi06,pice abie,sl,+,,,
+bi06,abie alba,tl1,2a,,,
+bi06,betu pend,tl1,1,,,
+bi06,pinu sylv,tl1,3,,,
+bi06,visc laxu abie,tl1,+,,, | Changed visc abie To visc laxu abie 2012-11-27 19:22:01
+bi07,abie alba,hl,1,,,
+bi07,aven flex flex,hl,+,,,
+bi07,fran alnu,hl,+,,,
+bi07,pice abie,hl,+,,,
+bi07,vacc myrt,hl,2b,,,
+bi07,bazz tril,ml,2a,,,
+bi07,camp flex,ml,1,,,
+bi07,hylo sple,ml,2a,,,
+bi07,hypn cupr,ml,1,,,
+bi07,pleu schr,ml,3,,,
+bi07,poly form,ml,3,,,
+bi07,spha capi,ml,1,,,
+bi07,abie alba,sl,+,,,
+bi07,fran alnu,sl,+,,,
+bi07,pice abie,sl,+,,,
+bi07,abie alba,tl1,4,,,
+bi07,pice abie,tl1,2a,,,
+bi07,pinu sylv,tl1,+,,,
+bi08,aven flex flex,hl,+,,,
+bi08,fran alnu,hl,+,,,
+bi08,quer robu,hl,r,,,
+bi08,vacc myrt,hl,3,,,
+bi08,camp flex,ml,1,,,
+bi08,dicr scop,ml,+,,,
+bi08,hypn cupr,ml,2a,,,
+bi08,leuc glau,ml,+,,,
+bi08,pleu schr,ml,2a,,,
+bi08,poly form,ml,1,,,
+bi08,abie alba,sl,2a,,,
+bi08,betu pend,sl,1,,,
+bi08,fran alnu,sl,+,,,
+bi08,pice abie,sl,1,,,
+bi08,pinu sylv,sl,+,,,
+bi08,abie alba,tl1,2a,,,
+bi08,betu pend,tl1,4,,,
+bi08,pice abie,tl1,+,,,
+bi08,pinu sylv,tl1,1,,,
+bi09,agro capi,hl,+,,, | Changed agro tenu To agro capi 2012-11-27 19:22:01
+bi09,ajug rept,hl,+,,,
+bi09,aven flex flex,hl,2a,,,
+bi09,care cane cane,hl,+,,, | Changed care cane To care cane cane 2012-11-27 19:22:01
+bi09,care digi,hl,+,,,
+bi09,care pilu pilu,hl,1,,, | Changed care pilu To care pilu pilu 2012-11-27 19:22:01
+bi09,cory avel,hl,+,,,
+bi09,dryo cart,hl,+,,,
+bi09,fran alnu,hl,1,,,
+bi09,lact mura,hl,+,,, | Changed myce mura To lact mura 2012-11-27 19:22:01
+bi09,quer robu,hl,+,,,
+bi09,rubu sect rubu,hl,2b,,, | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01
+bi09,samb nigr,hl,+,,,
+bi09,scro nodo,hl,r,,,
+bi09,sorb aucu aucu,hl,+,,, | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01
+bi09,vacc myrt,hl,2a,,,
+bi09,viol rivi,hl,+,,,
+bi09,hypn cupr,ml,2a,,,
+bi09,pleu schr,ml,1,,,
+bi09,abie alba,sl,2a,,,
+bi09,betu pend,sl,+,,,
+bi09,fagu sylv,sl,+,,,
+bi09,fran alnu,sl,2a,,,
+bi09,malu dome,sl,+,,,
+bi09,pice abie,sl,+,,,
+bi09,abie alba,tl1,2a,,,
+bi09,betu pend,tl1,+,,,
+bi09,fagu sylv,tl1,1,,,
+bi09,pice abie,tl1,1,,,
+bi09,prun aviu slat,tl1,2a,,, | Changed prun aviu To prun aviu slat 2012-11-27 19:22:01
+bi09,quer robu,tl1,2b,,,
+bi09,sorb aucu aucu,tl1,+,,, | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01
+bi10,abie alba,hl,2b,,,
+bi10,aven flex flex,hl,+,,,
+bi10,dryo cart,hl,+,,,
+bi10,fran alnu,hl,+,,,
+bi10,pice abie,hl,2a,,,
+bi10,sorb aucu aucu,hl,+,,, | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01
+bi10,vacc myrt,hl,2a,,,
+bi10,bazz tril,ml,1,,,
+bi10,camp flex,ml,1,,,
+bi10,dicr scop,ml,1,,,
+bi10,hylo sple,ml,3,,,
+bi10,hypn cupr,ml,1,,,
+bi10,leuc glau,ml,+,,,
+bi10,pleu schr,ml,2a,,,
+bi10,poly form,ml,2a,,,
+bi10,spha capi,ml,1,,,
+bi10,abie alba,sl,3,,,
+bi10,betu pend,sl,+,,,
+bi10,fran alnu,sl,+,,,
+bi10,pice abie,sl,+,,,
+bi10,abie alba,tl1,1,,,
+bi10,pice abie,tl1,4,,,
+bi11,abie alba,hl,+,,,
+bi11,aven flex flex,hl,+,,,
+bi11,care cane cane,hl,+,,, | Changed care cane To care cane cane 2012-11-27 19:22:01
+bi11,fran alnu,hl,+,,,
+bi11,pice abie,hl,+,,,
+bi11,sorb aucu aucu,hl,+,,, | Changed sorb aucu To sorb aucu aucu 2012-11-27 19:22:01
+bi11,vacc myrt,hl,1,,,
+bi11,camp flex,ml,+,,,
+bi11,hypn cupr,ml,+,,,
+bi11,poly form,ml,1,,,
+bi11,betu pend,sl,2a,,,
+bi11,fran alnu,sl,1,,,
+bi11,pice abie,sl,1,,,
+bi11,betu pend,tl1,2a,,,
+bi11,pice abie,tl1,2b,,,
+bi11,pinu sylv,tl1,4,,,
+bi11,quer robu,tl1,+,,,
+bi12,abie alba,hl,1,,,
+bi12,abie nord,hl,2a,,,
+bi12,betu pend,hl,1,,,
+bi12,call vulg,hl,+,,,
+bi12,fran alnu,hl,2a,,,
+bi12,pinu sylv,hl,+,,,
+bi12,vacc myrt,hl,5,,,
+bi12,camp flex,ml,1,,,
+bi12,dicr scop,ml,2b,,,
+bi12,hypn cupr,ml,2b,,,
+bi12,pleu schr,ml,1,,,
+bi12,spha capi,ml,1,,,
+bi12,abie alba,sl,1,,,
+bi12,betu pend,sl,1,,,
+bi12,fran alnu,sl,1,,,
+bi13,abie alba,hl,2a,,,
+bi13,betu pend,hl,1,,,
+bi13,call vulg,hl,1,,,
+bi13,fran alnu,hl,+,,,
+bi13,vacc myrt,hl,2b,,,
+bi13,camp flex,ml,1,,,
+bi13,dicr scop,ml,1,,,
+bi13,hypn cupr,ml,+,,,
+bi13,pleu schr,ml,1,,,
+bi13,abie alba,sl,2a,,,
+bi13,betu pend,sl,1,,,
+bi13,fran alnu,sl,2a,,,
+bi13,pice abie,sl,+,,,
+bi13,betu pend,tl1,2a,,,
+bi13,pice abie,tl1,1,,,
+bi13,pinu sylv,tl1,3,,,
+bi14,acer pseu,hl,+,,,
+bi14,ajug rept,hl,1,,,
+bi14,ange sylv sylv,hl,2a,,, | Changed ange sylv To ange sylv sylv 2012-11-27 19:22:01
+bi14,aven flex flex,hl,+,,,
+bi14,brac sylv,hl,1,,,
+bi14,call vulg,hl,1,,,
+bi14,dact glom glom,hl,+,,, | Changed dact glom To dact glom glom 2012-11-27 19:22:01
+bi14,dryo fili,hl,+,,,
+bi14,gera robe,hl,2a,,,
+bi14,glec hede,hl,1,,,
+bi14,moeh trin,hl,+,,,
+bi14,pice abie,hl,+,,,
+bi14,poa nemo,hl,1,,,
+bi14,poly vulg,hl,+,,,
+bi14,prim elat,hl,+,,,
+bi14,rubu sect rubu,hl,2a,,, | Changed rubu frut To rubu sect rubu 2012-11-27 19:22:01
+bi14,sani euro,hl,1,,,
+bi14,urti dioi dioi,hl,3,,, | Changed urti dioi To urti dioi dioi 2012-11-27 19:22:01
+bi14,viol reic,hl,+,,,
+bi14,hypn cupr,ml,4,,,
+bi14,poly form,ml,2b,,,
+bi14,acer pseu,sl,1,,,
+bi14,frax exce,sl,1,,,
+bi14,malu dome,sl,+,,,
+bi14,pice abie,sl,1,,,
+bi14,sali capr,sl,+,,,
+bi14,samb nigr,sl,1,,,
+bi14,acer pseu,tl1,2b,,,
+bi14,betu pend,tl1,2a,,,
+bi14,frax exce,tl1,2b,,,
+bi14,pice abie,tl1,1,,,
+bi14,popu trem,tl1,2b,,,
+bi15,abie alba,hl,+,,,
+bi15,dryo cart,hl,+,,,
+bi15,fran alnu,hl,+,,,
+bi15,pice abie,hl,+,,,
+bi15,vacc myrt,hl,+,,,
+bi15,bazz tril,ml,1,,,
+bi15,camp flex,ml,+,,,
+bi15,dicr scop,ml,1,,,
+bi15,hylo sple,ml,2a,,,
+bi15,hypn cupr,ml,2b,,,
+bi15,leuc glau,ml,+,,,
+bi15,pleu schr,ml,2a,,,
+bi15,poly form,ml,1,,,
+bi15,spha capi,ml,+,,,
+bi15,abie alba,sl,2a,,,
+bi15,pice abie,sl,2b,,,
+bi15,abie alba,tl1,3,,,
+bi15,pice abie,tl1,3,,,
+bi16,agro capi,hl,1,,,
+bi16,agro stol,hl,2b,,,
+bi16,betu pend,hl,1,,,
+bi16,cala epig,hl,1,,,
+bi16,care lepo,hl,+,,,
+bi16,cirs palu,hl,+,,,
+bi16,cirs vulg,hl,+,,,
+bi16,dact glom glom,hl,2b,,,
+bi16,epil cili cili,hl,+,,,
+bi16,erig annu annu,hl,2a,,,
+bi16,fest prat prat,hl,1,,,
+bi16,fest rubr aggr,hl,1,,,
+bi16,hype perf,hl,+,,,
+bi16,hypo radi,hl,r,,,
+bi16,junc effu,hl,+,,,
+bi16,junc tenu,hl,+,,,
+bi16,lotu corn,hl,1,,,
+bi16,phle prat,hl,+,,,
+bi16,pice abie,hl,+,,,
+bi16,pinu sylv,hl,+,,,
+bi16,prun vulg,hl,+,,,
+bi16,ranu repe,hl,1,,,
+bi16,tana vulg,hl,1,,,
+bi16,trif prat prat,hl,1,,,
+bi16,tris flav flav,hl,+,,,
+bi16,tuss farf,hl,+,,,
+bi16,alnu inca,sl,1,,,
+bi16,betu pend,sl,2b,,,
+bi16,pice abie,sl,1,,,
+bi16,pinu sylv,sl,1,,,
+bi16,popu cana,sl,2a,,,
+bi16,sali alba,sl,1,,,
+bi16,sali capr,sl,1,,,
+bi16,sali cine,sl,1,,,
+bi16,sali purp,sl,2b,,,
+bi17,abie alba,hl,+,,,
+bi17,agro capi,hl,+,,,
+bi17,agro stol,hl,2b,,,
+bi17,alnu glut,hl,+,,,
+bi17,alnu inca,hl,+,,,
+bi17,anth odor,hl,2a,,,
+bi17,aven flex flex,hl,1,,,
+bi17,betu pend,hl,2a,,,
+bi17,call vulg,hl,2b,,,
+bi17,fest rubr aggr,hl,1,,,
+bi17,hier muro,hl,+,,,
+bi17,hype perf,hl,+,,,
+bi17,junc effu,hl,2a,,,
+bi17,lari deci deci,hl,+,,,
+bi17,lotu corn,hl,+,,,
+bi17,lyco clav clav,hl,1,,,
+bi17,pice abie,hl,+,,,
+bi17,pinu sylv,hl,+,,,
+bi17,popu trem,hl,+,,,
+bi17,sali purp,hl,+,,,
+bi17,vacc myrt,hl,+,,,
+bi17,alnu glut,sl,1,,,
+bi17,alnu inca,sl,+,,,
+bi17,betu pend,sl,3,,,
+bi17,pinu sylv,sl,1,,,
+bi17,popu cana,sl,+,,,
+bi17,sali alba,sl,+,,,
+bi17,sali capr,sl,1,,,
+bi18,cera holo,hl,+,,,
+bi18,cirs vulg,hl,r,,,
+bi18,dact glom glom,hl,+,,,
+bi18,erig annu annu,hl,+,,,
+bi18,fest rubr aggr,hl,5,,,
+bi18,hype perf,hl,+,,,
+bi18,lotu corn,hl,1,,,
+bi18,pice abie,hl,+,,,
+bi18,pinu sylv,hl,+,,,
+bi18,plan lanc,hl,+,,,
+bi18,popu trem,hl,+,,,
+bi18,quer robu,hl,r,,,
+bi18,tara sect rude,hl,1,,,
+bi18,tuss farf,hl,1,,,
+bi18,alnu glut,sl,4,,,
+bi18,betu pend,sl,2a,,,
+bi18,popu trem,sl,2a,,,
+bi18,sali vimi,sl,1,,,
+bi19,abie alba,hl,1,,,
+bi19,aven flex flex,hl,+,,,
+bi19,betu pend,hl,+,,,
+bi19,dryo cart,hl,+,,,
+bi19,fran alnu,hl,2a,,,
+bi19,gale pube pube,hl,1,,,
+bi19,junc effu,hl,+,,,
+bi19,pers mino,hl,+,,,
+bi19,pice abie,hl,+,,,
+bi19,rubu idae,hl,2a,,,
+bi19,rubu sect rubu,hl,2a,,,
+bi19,samb nigr,hl,+,,,
+bi19,sorb aucu aucu,hl,+,,,
+bi19,vacc myrt,hl,1,,,
+bi19,dicr scop,ml,+,,,
+bi19,hylo sple,ml,+,,,
+bi19,pleu schr,ml,1,,,
+bi19,poly form,ml,+,,,
+bi19,abie alba,sl,+,,,
+bi19,acer pseu,sl,+,,,
+bi19,betu pend,sl,+,,,
+bi19,fran alnu,sl,2a,,,
+bi19,lari deci deci,sl,1,,,
+bi19,pice abie,sl,+,,,
+bi19,quer robu,sl,+,,,
+bi19,care pilu pilu,hl,2b,,,
+bi20,aven flex flex,hl,+,,,
+bi20,care pilu pilu,hl,+,,,
+bi20,dryo cart,hl,+,,,
+bi20,dryo dila,hl,+,,,
+bi20,erec hier,hl,+,,,
+bi20,fran alnu,hl,1,,,
+bi20,rubu idae,hl,+,,,
+bi20,sorb aucu aucu,hl,+,,,
+bi20,vacc myrt,hl,1,,,
+bi20,dicr scop,ml,1,,,
+bi20,hylo sple,ml,2b,,,
+bi20,hypn jutl,ml,4,,,
+bi20,pleu schr,ml,2b,,,
+bi20,poly form,ml,2a,,,
+bi20,thui tama,ml,+,,,
+bi20,abie alba,sl,2a,,,
+bi20,fran alnu,sl,1,,,
+bi20,pice abie,sl,1,,,
+bi20,abie alba,tl2,4,,,
+bi20,pice abie,tl2,1,,,
+bi21,fran alnu,hl,r,,,
+bi21,hylo sple,ml,1,,,
+bi21,hypn jutl,ml,1,,,
+bi21,leuc glau,ml,+,,,
+bi21,poly form,ml,+,,,
+bi21,pice abie,tl1,5,,,
+bi22,abie alba,hl,1,,,
+bi22,aven flex flex,hl,+,,,
+bi22,care pilu pilu,hl,+,,,
+bi22,fran alnu,hl,2b,,,
+bi22,gale pube pube,hl,+,,,
+bi22,quer robu,hl,+,,,
+bi22,rubu sect rubu,hl,1,,,
+bi22,samb nigr,hl,r,,,
+bi22,sorb aucu aucu,hl,+,,,
+bi22,dicr scop,ml,+,,,
+bi22,hylo sple,ml,1,,,
+bi22,hypn ando,ml,+,,,
+bi22,pleu schr,ml,1,,,
+bi22,pice abie,tl1,5,,,
+bi23,abie alba,hl,+,,,
+bi23,dryo dila,hl,+,,,
+bi23,fran alnu,hl,+,,,
+bi23,vacc myrt,hl,+,,,
+bi23,dicr scop,ml,+,,,
+bi23,eurh stri,ml,+,,,
+bi23,hylo sple,ml,2a,,,
+bi23,hypn cupr,ml,+,,,
+bi23,hypn jutl,ml,1,,,
+bi23,leuc glau,ml,+,,,
+bi23,pleu schr,ml,1,,,
+bi23,poly form,ml,1,,,
+bi23,thui tama,ml,+,,,
+bi23,abie alba,sl,3,,,
+bi23,betu pend,sl,+,,,
+bi23,pice abie,sl,3,,,
+bi23,sorb aucu aucu,sl,1,,,
+bi23,abie alba,tl1,3,,,
+bi23,pice abie,tl1,4,,,
+bi23,abie alba,tl2,2a,,,
+bi23,betu pend,tl2,2a,,,
+bi23,sorb aucu aucu,tl2,+,,,
+bi24,abie alba,hl,+,,,
+bi24,fran alnu,hl,+,,,
+bi24,pice abie,hl,+,,,
+bi24,sorb aucu aucu,hl,+,,,
+bi24,vacc myrt,hl,3,,,
+bi24,camp flex,ml,1,,,
+bi24,dicr scop,ml,2a,,,
+bi24,hylo sple,ml,1,,,
+bi24,hypn jutl,ml,3,,,
+bi24,leuc glau,ml,+,,,
+bi24,pleu schr,ml,3,,,
+bi24,poly form,ml,1,,,
+bi24,abie alba,sl,4,,,
+bi24,fran alnu,sl,1,,,
+bi24,pice abie,sl,2b,,,
+bi24,abie alba,tl1,4,,,
+bi24,pice abie,tl1,2b,,,
+bi24,pinu sylv,tl1,1,,,
+bi24,visc laxu abie,tl1,+,,,
+bi24,abie alba,tl2,2b,,,
+bi24,betu pend,tl2,1,,,
+bi24,pice abie,tl2,2a,,,
+bi25,abie alba,hl,+,,,
+bi25,aven flex flex,hl,+,,,
+bi25,dryo cart,hl,+,,,
+bi25,fran alnu,hl,+,,,
+bi25,pice abie,hl,+,,,
+bi25,vacc myrt,hl,1,,,
+bi25,bazz tril,ml,+,,,
+bi25,hylo sple,ml,2a,,,
+bi25,hypn ando,ml,+,,,
+bi25,hypn jutl,ml,1,,,
+bi25,leuc glau,ml,2a,,,
+bi25,pleu schr,ml,2b,,,
+bi25,poly form,ml,2a,,,
+bi25,thui tama,ml,1,,,
+bi25,abie alba,sl,1,,,
+bi25,fran alnu,sl,+,,,
+bi25,pice abie,sl,+,,,
+bi25,abie alba,tl1,3,,,
+bi25,pice abie,tl1,2b,,,
+bi25,visc laxu abie,tl1,+,,,
+bi25,abie alba,tl2,1,,,
+bi25,betu pend,tl2,1,,,
+bi25,pice abie,tl2,4,,,
+bi26,abie alba,hl,+,,,
+bi26,aven flex flex,hl,+,,,
+bi26,fran alnu,hl,+,,,
+bi26,lari deci deci,hl,+,,,
+bi26,sorb aucu aucu,hl,+,,,
+bi26,vacc myrt,hl,+,,,
+bi26,dicr scop,ml,1,,,
+bi26,hylo sple,ml,2a,,,
+bi26,hypn jutl,ml,1,,,
+bi26,leuc glau,ml,1,,,
+bi26,pleu schr,ml,3,,,
+bi26,poly form,ml,2a,,,
+bi26,fran alnu,sl,+,,,
+bi26,abie alba,tl1,3,,,
+bi26,lari deci deci,tl1,2a,,,
+bi26,pice abie,tl1,3,,,
+bi26,abie alba,tl2,5,,,
+bi26,pice abie,tl2,1,,,
+bi27,abie alba,hl,+,,,
+bi27,dryo cart,hl,+,,,
+bi27,dryo dila,hl,+,,,
+bi27,lari deci deci,hl,+,,,
+bi27,vacc myrt,hl,1,,,
+bi27,bazz tril,ml,+,,,
+bi27,dicr scop,ml,1,,,
+bi27,eurh stri,ml,1,,,
+bi27,hylo sple,ml,2a,,,
+bi27,hypn jutl,ml,2a,,,
+bi27,leuc glau,ml,3,,,
+bi27,pleu schr,ml,2b,,,
+bi27,poly form,ml,+,,,
+bi27,thui tama,ml,1,,,
+bi27,abie alba,sl,3,,,
+bi27,fran alnu,sl,+,,,
+bi27,pice abie,sl,2a,,,
+bi27,abie alba,tl1,2a,,,
+bi27,lari deci deci,tl1,2b,,,
+bi27,pice abie,tl1,4,,,
+bi27,abie alba,tl2,3,,,
+bi27,pice abie,tl2,1,,,
+bi28,abie alba,hl,+,,,
+bi28,aven flex flex,hl,1,,,
+bi28,fran alnu,hl,+,,,
+bi28,lari deci deci,hl,+,,,
+bi28,pinu sylv,hl,+,,,
+bi28,rubu sect rubu,hl,+,,,
+bi28,vacc myrt,hl,1,,,
+bi28,atri undu,ml,+,,,
+bi28,eurh stri,ml,+,,,
+bi28,hypn cupr,ml,1,,,
+bi28,hypn jutl,ml,1,,,
+bi28,poly form,ml,1,,,
+bi28,abie alba,sl,2a,,,
+bi28,fran alnu,sl,2a,,,
+bi28,pice abie,sl,3,,,
+bi28,betu pend,tl1,3,,,
+bi28,lari deci deci,tl1,2b,,,
+bi28,pinu sylv,tl1,2b,,,
+bi28,abie alba,tl2,2a,,,
+bi28,betu pend,tl2,2b,,,
+bi28,pice abie,tl2,3,,,

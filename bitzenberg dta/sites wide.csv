@@ -1,0 +1,29 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,alliance,association,soil,comment,location,observer
+bi01,70,65,,10,15,35,,,,,,10,10,,,,,,2007-08-15,48.479626,13.540144,8,,Bazzanio-Piceetum Br.Bl. & Sissingh 1939,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi02,75,75,,0,2,20,,,,,,15,15,,,,,,2007-08-15,48.480139,13.540048,8,,Bazzanio-Piceetum Br.Bl. & Sissingh 1939,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi03,15,0,,5,5,5,,,,,,10,10,,,,,,2007-08-15,48.481208,13.537526,8,,Luzulo-Fagetum Mikyška 1972,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi04,95,20,,90,5,35,,,,,,15,15,,,,,,2007-08-15,48.482207,13.537404,8,,Avenella flexuosa-Betula pendula-Gesellschaft (prov.),,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi05,80,80,,2,5,10,,,,,,15,15,,,,,,2007-08-15,48.484416,13.538315,8,,Bazzanio-Piceetum Br.Bl. & Sissingh 1939,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi06,70,45,,20,60,25,,,,,,15,15,,,,,,2007-08-15,48.481715,13.541146,8,,Vaccinio myrtilli-Pinetum sylvestris typicum Juraszek 1928,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi07,80,80,,3,10,60,,,,,,15,15,,,,,,2007-08-15,48.481356,13.539856,8,,Bazzanio-Piceetum Br.Bl. & Sissingh 1939,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi08,75,60,,15,45,20,,,,,,5,20,,,,,,2007-08-15,48.481428,13.542118,8,,Avenella flexuosa-Betula pendula-Gesellschaft (prov.),,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi09,80,40,,10,65,15,,,,,,10,10,,,,,,2007-08-15,48.483567,13.543312,8,,Luzulo-Fagetum Mikyška 1972,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi10,70,70,,40,30,70,,,,,,15,15,,,,,,2007-08-15,48.481072,13.5443,8,,Bazzanio-Piceetum Br.Bl. & Sissingh 1939,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi11,90,90,,15,10,3,,,,,,15,15,,,,,,2007-08-15,48.480965,13.541687,8,,Vaccinio myrtilli-Pinetum sylvestris typicum Juraszek 1928,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi12,90,0,,5,90,50,,,,,,15,15,,,,,,2007-08-15,48.479448,13.540858,8,,Vaccinio myrtilli-Pinetum sylvestris typicum Juraszek 1928,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi13,60,55,,20,15,5,,,,,,15,15,,,,,,2007-08-15,48.479791,13.540805,8,,Vaccinio myrtilli-Pinetum sylvestris typicum Juraszek 1928,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi14,90,75,,15,70,50,,,,,,5,10,,,,,,2007-08-15,48.477556,13.541408,8,,Arunco-Aceretum Moor 1952 gymnocarpietosum prov.,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi15,90,85,,15,5,50,,,,,,15,15,,,,,,2007-08-15,48.478328,13.542106,8,,Bazzanio-Piceetum Br.Bl. & Sissingh 1939,,no layer higths estimated,"Bietzenberg, Münzkirchen",R. Kaiser & T. Eberl
+bi16,95,0,0,50,85,30,0,0,4,1,0.3,8,8,F,0,,,,2017-08-08,48.483028,13.541881,10,,,,bir01,"Bietzenberg, Münzkirchen",T. Eberl
+bi17,75,0,0,40,50,10,0,0,3,0.8,0.3,8,8,N,5,,,,2017-08-08,48.483309,13.541890,10,,,,bir02,"Bietzenberg, Münzkirchen",T. Eberl
+bi18,99,0,0,80,98,5,0,0,5,0.7,0.3,8,8,F,0,,,,2017-08-08,48.483586,13.542297,10,,,,bir03,"Bietzenberg, Münzkirchen",T. Eberl
+bi19,60,0,0,12,40,5,0,0,1.5,0.5,0.2,8,8,E,7,,,,2017-08-08,48.481920,13.544961,10,,,,bix01,"Bietzenberg, Münzkirchen",T. Eberl
+bi20,99,0,85,15,10,98,0,6,3,0.7,0.3,16,16,E,5,,,,2017-08-08,48.482090,13.544257,10,,,,bix02,"Bietzenberg, Münzkirchen",T. Eberl
+bi21,98,97,0,0,0.1,5,20,0,0,0.2,0.2,16,16,E,4,,,,2017-08-08,48.482623,13.543673,10,,,,bix03,"Bietzenberg, Münzkirchen",T. Eberl
+bi22,98,96,0,0,15,8,26,0,0,0.8,0.2,16,16,E,3,,,,2017-08-08,48.482563,13.544907,10,,,,bix04,"Bietzenberg, Münzkirchen",T. Eberl
+bi23,98,80,15,85,1,15,30,22,4,0.5,0.2,16,16,E,2,,,,2017-08-08,48.482528,13.544435,10,,,,bix05,"Bietzenberg, Münzkirchen",T. Eberl
+bi24,98,75,20,75,40,70,26,12,4,0.5,0.2,16,16,E,4,,,,2017-08-08,48.481131,13.543559,10,,,,bix06,"Bietzenberg, Münzkirchen",T. Eberl
+bi25,95,45,70,5,2,60,27,15,4,0.5,0.3,16,16,SE,7,,,,2017-08-08,48.480656,13.543130,10,,,,bix07,"Bietzenberg, Münzkirchen",T. Eberl
+bi26,95,80,0,85,2,65,28,0,4,0.5,0.3,16,16,SE,8,,,,2017-08-08,48.481059,13.544417,10,,,,bix08,"Bietzenberg, Münzkirchen",T. Eberl
+bi27,97,75,35,50,5,75,28,8,4,0.5,0.3,16,16,SE,4,,,,2017-08-08,48.480481,13.543541,10,,,,bix09,"Bietzenberg, Münzkirchen",T. Eberl
+bi28,96,70,45,50,5,10,16,10,4,0.5,0.2,16,16,SE,10,,,,2017-08-08,48.481015,13.543193,10,,,,bix10,"Bietzenberg, Münzkirchen",T. Eberl
