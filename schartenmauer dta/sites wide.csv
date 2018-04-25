@@ -1,0 +1,16 @@
+plot,date,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,latitude,longitude,accuracy,elevation,soil,location,plot,comment,alliance,association,observer
+sax01,2018-04-21,,,,,,,,,,,,,,,,,,,47.880380,14.568587,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax02,2018-04-21,,,,,,,,,,,,,,,,,,,47.880712,14.568404,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax03,2018-04-21,,,,,,,,,,,,,,,,,,,47.880925,14.568319,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax04,2018-04-21,,,,,,,,,,,,,,,,,,,47.881015,14.568176,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax05,2018-04-21,,,,,,,,,,,,,,,,,,,47.881299,14.568007,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax06,2018-04-21,,,,,,,,,,,,,,,,,,,47.881445,14.567873,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax07,2018-04-21,,,,,,,,,,,,,,,,,,,47.881888,14.567904,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax08,2018-04-21,,,,,,,,,,,,,,,,,,,47.882143,14.567739,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax09,2018-04-21,,,,,,,,,,,,,,,,,,,47.882580,14.567529,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax10,2018-04-21,,,,,,,,,,,,,,,,,,,47.883534,14.566824,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax11,2018-04-21,,,,,,,,,,,,,,,,,,,47.883429,14.566548,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax12,2018-04-21,,,,,,,,,,,,,,,,,,,47.883081,14.56690,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax13,2018-04-21,,,,,,,,,,,,,,,,,,,47.882666,14.567065,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax14,2018-04-21,,,,,,,,,,,,,,,,,,,47.881814,14.567480,10,,,Schartenmauer,,"planned, easy",,,R. Kaiser
+sax15,2018-04-21,,,,,,,,,,,,,,,,,,,47.881496,14.567534,10,,,Schartenmauer,,"planned, difficult",,,R. Kaiser
