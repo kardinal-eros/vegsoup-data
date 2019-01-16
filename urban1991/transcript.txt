@@ -1,0 +1,112 @@
+BEGIN HEAD
+plot                                           123456
+accuracy                                           22
+                                               555500
+                                               000000
+                                                     
+pls                                            211 22
+                                               097701
+                                                     
+slope                                          556443
+                                               000005
+                                                     
+elevation                                      111111
+                                               111223
+                                               555333
+                                                     
+hhl2                                            1    
+                                                .    
+                                               111111
+                                                     
+hcov                                           653688
+                                               000005
+                                                     
+mcov                                           000055
+                                                     
+richness                                       222243
+                                               183853
+                                                     
+END HEAD
+BEGIN TABLE
+Achnatherum calamagrostis                   hl 4432..
+Carduus defloratus ssp. viridis                +.+11+
+Chenopodium album s.lat.                       1++...
+Cirsium vulgare                                1++...
+Dactylis glomerata ssp. glomerata              +1....
+Galium pumilum                                 +++...
+Hieracium amplexicaule                         +++...
+Inula conyzae                                  ++....
+Laserpitium latifolium ssp. latifolium         +.++21
+Leontodon hispidus ssp. hyoseroides            ++11..
+Rosa glauca                                    111...
+Sambucus nigra                                 +.....
+Sedum dasyphyllum                              +1+...
+Silene vulgaris s.lat.                         +...11
+Sisymbrium officinale                          +.....
+Sonchus asper ssp. asper                       ++....
+Teucrium montanum                              ++.111
+Thalictrum minus ssp. saxatile                 ++....
+Thymus praecox ssp. polytrichus                +11++1
+Verbascum thapsus s.str.                       ++....
+Vincetoxicum hirundinaria                      +.+133
+Agrostis capillaris                            .+1...
+Avenula pratensis                              .++.++
+Galium anisophyllon                            .+++..
+Hieracium glaucum                              .+....
+Juniperus sabina                               .1+...
+Leucanthemum adustum ssp. adustum              .++...
+Lotus corniculatus s.str.                      .+..+1
+Orobanche teucrii                              .+....
+Poa alpina                                     .++...
+Rhamnus pumila                                 .+....
+Rhinanthus alectorolophus s.lat.               .+....
+Sedum album                                    .+..++
+Valeriana tripteris                            .+..+1
+Calamagrostis varia                            ..+1..
+Campanula cochleariifolia                      ..++++
+Primula auricula ssp. auricula                 ..++1.
+Rumex scutatus                                 ..+..+
+Saxifraga aizoides                             ..++..
+Adenostyles alpina                             ...+1+
+Brachypodium pinnatum s.str.                   ...+1+
+Buphthalmum salicifolium                       ...111
+Carex flacca ssp. flacca                       ...++1
+Carex ornithopoda ssp. ornithopoda             ...+++
+Eupatorium cannabinum                          ...++.
+Euphrasia salisburgensis s.str.                ...+..
+Globularia bisnagarica                         ...1..
+Juniperus communis ssp. communis               ...+..
+Molinia arundinacea                            ...2+.
+Pimpinella major var. major                    ...+1.
+Potentilla caulescens ssp. caulescens          ...+.+
+Salvia glutinosa                               ...+..
+Saxifraga paniculata                           ...+..
+Senecio ovatus ssp. ovatus                     ...+..
+Tortella tortuosa                              ...++1
+Anthericum ramosum                             ....22
+Aquilegia atrata                               ....21
+Arabidopsis arenosa                            ....11
+Astragalus glycyphyllos                        ....1+
+Campanula scheuchzeri                          ....+.
+Carex sempervirens ssp. sempervirens           ....+.
+Carlina acaulis s.lat.                         ....+.
+Digitalis grandiflora                          ....++
+Epipactis atrorubens                           ....11
+Epipactis helleborine s.lat.                   ....+.
+Globularia cordifolia s.str.                   ....+.
+Helianthemum nummularium ssp. grandiflorum     ....+.
+Hieracium humile                               ....+.
+Knautia maxima ssp. maxima                     ....1+
+Lactuca muralis                                ....+.
+Lilium martagon                                ....1+
+Linum catharticum                              ....++
+Mercurialis perennis s.str.                    ....+.
+Phyteuma orbiculare s.str.                     ....11
+Polygonatum verticillatum                      ....1+
+Rubus idaeus                                   ....+.
+Scabiosa lucida ssp. lucida                    ....+.
+Sesleria caerulea s.str.                       ....+.
+Taxus baccata                                  ....++
+Hieracium murorum                              .....+
+Polygonatum odoratum                           .....+
+END TABLE
