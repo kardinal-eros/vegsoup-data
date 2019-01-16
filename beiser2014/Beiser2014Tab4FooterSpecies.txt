@@ -1,0 +1,8 @@
+11: Aster bellidiastrum 1, Linum catharticum +, Lotus comiculatus +
+2: Hieracium bifidum +, Kemera saxatilis +, Lotus comiculatus +, Orobanchae teucrium r, Salix eleagnos +, Pinus sylvestris r
+10: Asplenium viride +, Carex mucronata +, Hieracium bifidum +, Kernera saxatilis +, Teucrium chamaedrys +, Valeriana tripteris +, Rhamnus saxatilis r
+4: Anthyllis vulneraria +, Biscutella laevigata +, Dryas octopetala 1
+9: Primula auricula r
+1: Salix eleagnos +, Salix purpurea +
+8: Parnassia palustris r, Potentilla caulescens +, Picea abies +, Pinus sylvestns +
+7: Athamanta cretensis +
