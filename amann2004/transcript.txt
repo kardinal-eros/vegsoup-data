@@ -1,0 +1,104 @@
+BEGIN HEAD
+plot                                              12345678
+accuracy                                          33333333
+                                                  00000000
+                                                          
+cov                                               1  11111
+                                                  09900000
+                                                  05500000
+                                                          
+elevation                                         11111111
+                                                  01112221
+                                                  91551255
+                                                  00000000
+                                                          
+slope                                             67666676
+                                                  00055505
+                                                          
+richness                                          34323333
+                                                  64574493
+                                                          
+END HEAD
+BEGIN TABLE
+Centaurea pseudophrygia                        hl +++22+22
+Chaerophyllum aureum                              222222++
+Chaerophyllum villarsii                           2+222222
+Dactylis glomerata ssp. glomerata                 ++++++++
+Holcus lanatus                                    r+++1111
+Origanum vulgare ssp. vulgare                     2222122+
+Phleum pratense s.str.                            ++1+1111
+Trifolium medium ssp. medium                      2221+22+
+Achillea millefolium agg.                         +1.+++11
+Clinopodium vulgare ssp. vulgare                  +111.212
+Galium mollugo agg.                               +111+++.
+Rumex scutatus                                    222+++r.
+Clinopodium alpinum ssp. alpinum                  +1+.+.+2
+Astragalus glycyphyllos                           2+.+r.++
+Rhinanthus alectorolophus ssp. alectorolophus     r+r.+.++
+Campanula trachelium                              ++++r...
+Fragaria vesca                                    11++.+..
+Galeopsis tetrahit s.str.                         2+1+.+..
+Heracleum sphondylium ssp. sphondylium            ++++.+..
+Lathyrus pratensis ssp. pratensis                 ++..++..
+Lathyrus sylvestris                               +r+..2..
+Leucanthemum vulgare agg.                         ++..+.+.
+Silene vulgaris ssp. vulgaris                     1+++....
+Stellaria graminea                                +1++....
+Vicia cracca s.str.                               ++++....
+Elymus caninus                                    r+...+..
+Brachypodium sylvaticum                           +1...1..
+Carduus defloratus s.lat.                         ++...+..
+Rubus idaeus                                      ++...+..
+Viola riviniana                                   +..+..+.
+Knautia maxima ssp. maxima                        +....+..
+Urtica dioica ssp. dioica                         r....r..
+Artemisia vulgaris                                2.......
+Dryopteris affinis                                r.......
+Salvia glutinosa                                  r.......
+Turritis glabra                                   r.......
+Carlina acaulis ssp. caulescens                   .++rr+++
+Scabiosa columbaria s.str.                        .++r+.+1
+Vincetoxicum hirundinaria                         .1.31132
+Plantago lanceolata                               .++.+.+1
+Galium pumilum                                    .+..++1.
+Lotus corniculatus s.str.                         .+..+.r+
+Thymus pulegioides s.lat.                         .1..1.22
+Centaurea scabiosa ssp. scabiosa                  .+1....+
+Geranium columbinum                               .rr...r.
+Crepis biennis                                    .+.+....
+Cuscuta epithymum ssp. epithymum                  .1....+.
+Silene nutans ssp. nutans                         .+....+.
+Festuca rubra                                     .+......
+Hieracium laevigatum                              .+......
+Leontodon hispidus s.lat.                         .r......
+Picris hieracioides s.lat.                        ..+r1.r+
+Agrimonia eupatoria                               ..+.r.r+
+Campanula rotundifolia s.str.                     ..+.+.11
+Crepis pyrenaica                                  ..1..1+.
+Viola hirta                                       ..+.++..
+Rubus sect. Rubus                                 ..+..+..
+Pimpinella major s.lat.                           ..+.....
+Tragopogon orientalis                             ..+.....
+Verbascum sp.                                     ..+.....
+Veronica chamaedrys ssp. chamaedrys               ...+.+..
+Euphrasia officinalis ssp. rostkoviana            ....+.++
+Pimpinella saxifraga ssp. saxifraga               ....+.++
+Geranium sylvaticum                               ....r+..
+Anthoxanthum odoratum s.str.                      ....+...
+Carex ornithopoda ssp. ornithopoda                ....+...
+Laserpitium latifolium ssp. latifolium            ....r...
+Cirsium eriophorum ssp. eriophorum                .....+..
+Poa nemoralis                                     .....+..
+Pteridium aquilinum                               .....2..
+Agrostis capillaris                               ......++
+Anthyllis vulneraria s.lat.                       ......++
+Daucus carota ssp. carota                         ......++
+Echium vulgare ssp. vulgare                       ......r.
+Hypochaeris radicata                              ......r.
+Ranunculus acris ssp. acris                       ......r.
+Centaurea jacea s.lat.                            .......r
+Helianthemum nummularium s.lat.                   .......+
+Thalictrum minus s.lat.                           .......+
+Trifolium aureum                                  .......+
+Viola canina s.lat.                               .......+
+END TABLE

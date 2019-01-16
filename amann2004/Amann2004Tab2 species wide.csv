@@ -1,0 +1,82 @@
+abbr,layer,taxon,1,2,3,4,5,6,7,8
+cent pseu,hl,Centaurea pseudophrygia,+,+,+,2,2,+,2,2
+chae aure,hl,Chaerophyllum aureum,2,2,2,2,2,2,+,+
+chae vill,hl,Chaerophyllum villarsii,2,+,2,2,2,2,2,2
+dact glom glom,hl,Dactylis glomerata,+,+,+,+,+,+,+,+
+holc lana,hl,Holcus lanatus,r,+,+,+,1,1,1,1
+orig vulg,hl,Origanum vulgare,2,2,2,2,1,2,2,+
+phle prat,hl,Phleum pratense,+,+,1,+,1,1,1,1
+trif medi medi,hl,Trifolium medium,2,2,2,1,+,2,2,+
+achi mill aggr,hl,Achillea millefolium s.l.,+,1,,+,+,+,1,1
+clin vulg vulg,hl,Calamintha clinopodium,+,1,1,1,,2,1,2
+carl acau caul,hl,Carlina acaulis ssp. simplex,,+,+,r,r,+,+,+
+gali moll aggr,hl,Galium mollugo s.l.,+,1,1,1,+,+,+,
+rume scut,hl,Rumex scutatus,2,2,2,+,+,+,r,
+clin alpi alpi,hl,Acinos alpinus,+,1,+,,+,,+,2
+astr glyc,hl,Astragalus glycyphyllos,2,+,,+,r,,+,+
+rhin alec alec,hl,Rhinanthus alectorolophus,r,+,r,,+,,+,+
+scab colu,hl,Scabiosa columbaria,,+,+,r,+,,+,1
+vinc hiru,hl,Vincetoxicum hirundinaria,,1,,3,1,1,3,2
+camp trac,hl,Campanula trachelium,+,+,+,+,r,,,
+frag vesc,hl,Fragaria vesca,1,1,+,+,,+,,
+gale tetr,hl,Galeopsis tetrahit,2,+,1,+,,+,,
+hera spho spho,hl,Heracleum sphondylium,+,+,+,+,,+,,
+picr hier slat,hl,Picris hieracioides,,,+,r,1,,r,+
+plan lanc,hl,Plantago lanceolata,,+,+,,+,,+,1
+agri eupa eupa,hl,Agrimonia eupatoria,,,+,,r,,r,+
+camp rotu,hl,Campanula rotundifolia,,,+,,+,,1,1
+gali pumi,hl,Galium pumilum,,+,,,+,+,1,
+lath prat prat,hl,Lathyrus pratensis,+,+,,,+,+,,
+lath sylv,hl,Lathyrus sylvestris,+,r,+,,,2,,
+leuc vulg aggr,hl,Leucanthemum vulgare s.l.,+,+,,,+,,+,
+lotu corn,hl,Lotus corniculatus,,+,,,+,,r,+
+sile vulg vulg,hl,Silene vulgaris,1,+,+,+,,,,
+stel gram,hl,Stellaria graminea,+,1,+,+,,,,
+thym pule slat,hl,Thymus pulegioides,,1,,,1,,2,2
+vici crac,hl,Vicia cracca,+,+,+,+,,,,
+elym cani,hl,Agropyron caninum,r,+,,,,+,,
+brac sylv,hl,Brachypodium sylvaticum,+,1,,,,1,,
+card defl slat,hl,Carduus defloratus s.l.,+,+,,,,+,,
+cent scab scab,hl,Centaurea scabiosa s.str.,,+,1,,,,,+
+crep pyre,hl,Crepis pyrenaica,,,1,,,1,+,
+euph offi rost,hl,Euphrasia rostkoviana,,,,,+,,+,+
+gera colu,hl,Geranium columbinum,,r,r,,,,r,
+pimp saxi saxi,hl,Pimpinella saxifraga,,,,,+,,+,+
+rubu idae,hl,Rubus idaeus,+,+,,,,+,,
+viol rivi,hl,Viola riviniana,+,,,+,,,+,
+viol hirt,hl,Viola hirta,,,+,,+,+,,
+agro capi,hl,Agrostis tenuis,,,,,,,+,+
+anth vuln slat,hl,Anthyllis vulneraria s.l.,,,,,,,+,+
+crep bien,hl,Crepis biennis,,+,,+,,,,
+cusc epit epit,hl,Cuscuta epithymum,,1,,,,,+,
+dauc caro caro,hl,Daucus carota,,,,,,,+,+
+gera sylv,hl,Geranium sylvaticum,,,,,r,+,,
+knau maxi,hl,Knautia dipsacifolia,+,,,,,+,,
+rubu sect rubu,hl,Rubus fruticosus s.l.,,,+,,,+,,
+sile nuta nuta,hl,Silene nutans,,+,,,,,+,
+urti dioi dioi,hl,Urtica dioica,r,,,,,r,,
+vero cham cham,hl,Veronica chamaedrys,,,,+,,+,,
+anth odor,hl,Anthoxanthum odoratum,,,,,+,,,
+arte vulg,hl,Artemisia vulgaris,2,,,,,,,
+care orni orni,hl,Carex ornithopoda,,,,,+,,,
+cent jace slat,hl,Centaurea jacea s.l.,,,,,,,,r
+cirs erio erio,hl,Cirsium eriophorum,,,,,,+,,
+dryo affi,hl,Dryopteris affinis s.l.,r,,,,,,,
+echi vulg,hl,Echium vulgare,,,,,,,r,
+fest rubr,hl,Festuca rubra s.l.,,+,,,,,,
+heli numm slat,hl,Helianthemum nummularium s.l.,,,,,,,,+
+hier laev,hl,Hieracium laevigatum,,+,,,,,,
+hypo radi,hl,Hypochoeris radicata,,,,,,,r,
+lase lati lati,hl,Laserpitium latifolium,,,,,r,,,
+leon hisp slat,hl,Leontodon hispidus s.l.,,r,,,,,,
+pimp majo slat,hl,Pimpinella major s.l.,,,+,,,,,
+poa nemo,hl,Poa nemoralis,,,,,,+,,
+pter aqui,hl,Pteridium aquilinum,,,,,,2,,
+ranu acri acri,hl,Ranunculus acris,,,,,,,r,
+salv glut,hl,Salvia glutinosa,r,,,,,,,
+thal minu slat,hl,Thalictrum minus,,,,,,,,+
+trag orie,hl,Tragopogon orientalis,,,+,,,,,
+trif aure,hl,Trifolium aureum,,,,,,,,+
+turr glab,hl,Turritis glabra,r,,,,,,,
+verb spec ies,hl,Verbascum sp.,,,+,,,,,
+viol cani slat,hl,Viola canina,,,,,,,,+

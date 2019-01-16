@@ -1,0 +1,9 @@
+plot,latitude,longitude,accuracy,location,date,cov,elevation,aspect,slope,remarks
+1,46.971581,10.061559,30,Herrabühl ,2004-09-06,100,1090,SSW,60,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis) unter felsigem Abhang, Steine bis ca. 20 cm im Durchmesser"
+2,46.971669,10.061669,30,Herrabühl ,2004-09-06,95,1110,SSW,70,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), Steine bis ca. 20 cm im Durchmesser "
+3,46.971949,10.061918,30,Herrabühl ,2004-09-06,95,1150,SSW,60,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), einzelne Steine bis ca. 40 cm im Durchmesser, aber überwiegend wesentlich kleiner"
+4,46.971428,10.063200,30,Kirchazug ,2004-09-06,100,1150,S,65,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), kaum größere Steine"
+5,46.972159,10.063501,30,Kirchazug ,2004-09-06,100,1210,SSW,65,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), kaum größere Steine"
+6,46.971388,10.065624,30,Hochzug ,2004-09-06,100,1220,SW,65,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), Steine bis ca. 20 cm im Durchmesser, recht ungleich groß"
+7,46.972062,10.066256,30,Hochzug ,2004-09-06,100,1250,S,70,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), wenig größere Steine"
+8,46.970864,10.065975,30,Hochzug ,2004-09-06,100,1150,SSW,65,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), kaum Steine"
