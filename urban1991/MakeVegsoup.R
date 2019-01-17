@@ -10,7 +10,7 @@ x <- read.verbatim(file, colnames = "Spaltennummer", verbose = T, layers = "@", 
 X0 <- species(x)
 
 #	and footer taxa
-file <- file.path(path, "Urban1991Tab3FooterSpecies.csv")
+file <- file.path(path, "Urban1991Tab3Footer species.csv")
 X1 <- species(file, sep = ",")[, 1:4]
 
 X <- bind(X0, X1)
