@@ -1,0 +1,29 @@
+Melica nutans: 262 +, 264 1
+Hieracium glaucum:  262 1, 338 +
+Scabiosa lucida:  261 1, 339 +
+Prunella grandiflora:  261 1, 346 +
+Asplenium ruta-muraria:  262 1, 264 +
+Schistidium apocarpum:  262 +, 264 +
+Picea abies:  339 +, 289 +
+Kernera saxatilis:  262 2, 330 +
+Fraxinus excelsior:  289 +, 375 +
+Thesium alpinum:  261 +
+Campanula rapunculoides:  368 +, 370 +
+Sambucus racemosa: 371 +, 377 +
+Verbascum sp.: 374 +, 377 + 
+Hippocrepis comosa:  261 1
+Fragaria vesca: 262 +
+Sorbus aria: 264 +
+Gymnocarpium robertianum: 264 1
+Rubus saxatilis: 264 +
+Thalictrum saxatile: 264 +
+Origanum vulgare: 339 +
+Fagus sylvatica: 289 +
+Salix eleagnos: 289 +
+Dryas octopetala: 289 +
+Thesium rostratum: 289 +
+Tolpis staticifolia: 289 1
+Campanula rotundifolia: 369 +
+Carlina vulgaris: 369 +
+Arabis hirsuta: 377 +
+Hypnum lacunosum: 378 +
