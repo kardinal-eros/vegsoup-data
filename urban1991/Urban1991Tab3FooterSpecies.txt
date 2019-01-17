@@ -1,5 +1,5 @@
 1: Sisymbrium officinale, Sambucus nigra
 2: Hieracium glaucum, Rhinanthus alectorolophus
 4: Senecio fuchsii, Juniperus communis, Euphrasia salisburgensis, Salvia glutinosa
-5: Mercurialis perennis, Helianthemum nummularium ssp. grandiflomm, Carlina acaulis, Campanula scheuchzeri, Epipactis helleborine, Scabiosa lucida, Carex sempervirens, Sesleria albicans, Rubus idaeus, Cicerbita muralis
-6 : Hieracium sylvaticum, Polygonatum odoratum
+5: Mercurialis perennis, Helianthemum nummularium ssp. grandiflorum, Carlina acaulis, Campanula scheuchzeri, Epipactis helleborine, Scabiosa lucida, Carex sempervirens, Sesleria albicans, Rubus idaeus, Cicerbita muralis
+6: Hieracium sylvaticum, Polygonatum odoratum
