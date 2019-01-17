@@ -1,0 +1,41 @@
+Höhe [m] x 10                    84  84  80  83  83 125 125
+Flaäche [m2]                      21  45  30  30  30  30  50
+Exposition                       S  SSW   S   S   S   S   S
+Neigung [°]                      40  40  25  30  35  35  35
+Kraut/Gras Deckung [%]           50  60  60  40  20  60  60
+Boden/Fels Deckung [%]           50  40  40  40  80  40  40
+Spaltennummer                     1   2   3   4   5   6   7
+                                                           
+Achnatherum calamagrostis         2   3   2   2   2   3   4
+                                                           
+Buphthalmum salicifolium          2   2   1   .   .   +   +
+Vincetoxicum hirundinaria         1   1   .   +   .   .   .
+Teucrium montanum                 2   2   1   1   +   .   .
+Carex humilis                     2   2   3   .   .   .   .
+Hieracium glaucum                 .   +   +   .   .   +   .
+Campanula cochleariifolia         +   +   .   .   .   1   2
+Tolpis staticifolium              .   .   .   .   .   3   2
+Petasites paradoxus               +   .   .   .   .   .   +
+                                                           
+Galium anisophyllon               .   +   +   1   +   .   +
+Salvia verticillata               1   2   2   2   2   .   .
+Calamagrostis varia               1   1   +   2   1   .   .
+Acinos alpinus                    +   +   1   +   .   .   .
+Sesleria albicans                 +   +   1   .   .   1   .
+Scabiosa lucida                   +   .   +   +   +   .   .
+Leontodon hispidus                +   .   .   .   +   +   +
+Euphrasia salisburgensis          +   +   .   .   .   +   +
+Carex flacca                      +   +   1   .   .   +   .
+Globularia cordifolia             .   +   +   +   .   .   +
+Carduus defloratus                .   1   +   .   .   +   1
+Gentianella ciliata               +   .   .   +   .   .   +
+Tortella tortuosa                 1   .   1   .   +   .   .
+Salix elaeagnos                   .   .   +   +   1   .   .
+Gentiana verna                    +   .   .   .   .   +   .
+Ligustrum vulgare                 .   +   +   .   .   .   .
+Viola hirta                       .   +   +   .   .   .   .
+Amelanchier ovalis                .   +   +   .   .   .   .
+Thymus praecox ssp. polytrichus   .   +   +   .   .   .   .
+Origanum vulgare                  .   .   +   +   .   .   .
+Ranunculus montanus               .   .   +   .   .   .   .
+Euphorbia cyparissias             .   .   .   +   1   .   .

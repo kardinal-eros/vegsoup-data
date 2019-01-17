@@ -1,0 +1,45 @@
+BEGIN HEAD
+Höhe [m] x 10              84  84  80  83  83 125 125
+Fläche [m2]                21  45  30  30  30  30  50
+Exposition                 S  SSW   S   S   S   S   S
+Neigung [°]                40  40  25  30  35  35  35
+Kraut/Gras Deckung [%]     50  60  60  40  20  60  60
+Boden/Fels Deckung [%]     50  40  40  40  80  40  40
+Spaltennummer               1   2   3   4   5   6   7
+END HEAD
+
+BEGIN TABLE
+achn cala              @hl  2   3   2   2   2   3   4
+
+buph sali              @hl  2   2   1   .   .   +   +
+vinc hiru              @hl  1   1   .   +   .   .   .
+teuc mont              @hl  2   2   1   1   +   .   .
+care humi              @hl  2   2   3   .   .   .   .
+hier glau cum          @hl  .   +   +   .   .   +   .
+camp coch              @hl  +   +   .   .   .   1   2
+chlo stat              @hl  .   .   .   .   .   3   2
+peta para              @hl  +   .   .   .   .   .   +
+
+gali anis              @hl  .   +   +   1   +   .   +
+salv vert              @hl  1   2   2   2   2   .   .
+cala vari              @hl  1   1   +   2   1   .   .
+clin alpi alpi         @hl  +   +   1   +   .   .   .
+sesl caer              @hl  +   +   1   .   .   1   .
+scab luci luci         @hl  +   .   +   +   +   .   .
+leon hisp slat         @hl  +   .   .   .   +   +   +
+euph sali              @hl  +   +   .   .   .   +   +
+care flac              @hl  +   +   1   .   .   +   .
+glob cord              @hl  .   +   +   +   .   .   +
+card defl viri         @hl  .   1   +   .   .   +   1
+gent cili              @hl  +   .   .   +   .   .   +
+tort tort              @ml  1   .   1   .   +   .   .
+sali elea elea         @hl  .   .   +   +   1   .   .
+gent vern vern         @hl  +   .   .   .   .   +   .
+ligu vulg              @hl  .   +   +   .   .   .   .
+viol hirt              @hl  .   +   +   .   .   .   .
+amel oval              @hl  .   +   +   .   .   .   .
+thym prae poly         @hl  .   +   +   .   .   .   .
+orig vulg              @hl  .   .   +   +   .   .   .
+ranu mont              @hl  .   .   +   .   .   .   .
+euph cypa              @hl  .   .   .   +   1   .   .
+END TABLE

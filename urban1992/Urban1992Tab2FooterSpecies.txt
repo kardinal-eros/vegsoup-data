@@ -1,0 +1,4 @@
+1: Carex montana, Picris hieracioides ssp. crepoides, Hippocrepis oomosa, Thesium alpinum
+2: Silene nutans, Galium album, Rosa pendulina, Thalictrum minus ssp. saxatile, Rosa canina
+3: Anthericum ramosum, Rhinanthus glacialis, Fraxinus excelsior
+6: Hieracium bupleuroides
