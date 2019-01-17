@@ -1,0 +1,80 @@
+BEGIN HEAD
+plot                                        1234567
+accuracy                                    2225511
+                                            0000000
+                                            0000000
+                                                   
+hcov                                        4234476
+                                            0000500
+                                                   
+plotsize                                    3462135
+                                            0003550
+                                                   
+slope                                       4443333
+                                            5055555
+                                                   
+richness                                     111123
+                                            8220494
+                                                   
+END HEAD
+BEGIN TABLE
+Achnatherum calamagrostis                hl 32333..
+Campanula cochleariifolia                   ++1++..
+Hieracium glaucum                           ++1....
+Leontodon hispidus ssp. hispidus            1+.....
+Linum catharticum                           ++..++.
+Poa cenisia                                 +.....+
+Rumex scutatus                              +++++..
+Silene vulgaris ssp. glareosa               1+.1+++
+Adenostyles alpina                          .+.+.+1
+Carduus defloratus ssp. viridis             .+1++++
+Euphrasia salisburgensis s.str.             .++.+..
+Gentianella aspera                          .++.+..
+Leontodon hispidus ssp. hyoseroides         .1.....
+Buphthalmum salicifolium                    ..+..++
+Calamagrostis varia                         ..+..+.
+Galium anisophyllon                         ..+..++
+Scabiosa lucida ssp. lucida                 ..+....
+Thymus praecox ssp. polytrichus             ..++1.+
+Hieracium bupleuroides                      ...r...
+Petasites paradoxus                         ...+...
+Teucrium montanum                           ...+1..
+Acer pseudoplatanus                         ....+..
+Agrostis alpina s.str.                      ....+..
+Gymnocarpium robertianum                    ....+..
+Primula auricula ssp. auricula              ....+..
+Aconitum lycoctonum s.lat.                  .....21
+Arabis hirsuta s.str.                       .....++
+Carex sempervirens ssp. sempervirens        .....+.
+Carlina acaulis ssp. acaulis                .....++
+Clinopodium alpinum ssp. alpinum            .....11
+Crepis pyrenaica                            .....++
+Dactylis glomerata ssp. glomerata           .....++
+Daphne mezereum                             .....+.
+Elymus caninus                              .....++
+Euphrasia officinalis ssp. picta            .....1+
+Galeobdolon montanum                        .....++
+Hippocrepis comosa                          .....+.
+Molinia caerulea agg.                       .....+.
+Myosotis alpestris                          .....++
+Origanum vulgare ssp. vulgare               .....1+
+Pimpinella major var. major                 .....1+
+Thesium alpinum                             .....+.
+Vincetoxicum hirundinaria                   .....22
+Viola biflora                               .....++
+Aconitum variegatum ssp. variegatum         ......+
+Athamanta cretensis                         ......+
+Campanula scheuchzeri                       ......+
+Carex ferruginea s.str.                     ......+
+Geranium robertianum s.str.                 ......+
+Hieracium villosum                          ......+
+Laserpitium latifolium ssp. latifolium      ......+
+Lotus corniculatus var. alpicola s.lat.     ......+
+Melica nutans s.str.                        ......+
+Phleum hirsutum                             ......+
+Pseudoleskea incurvata                      ......+
+Ranunculus breyninus                        ......+
+Ctenidium molluscum s.lat.               ml .....+.
+Syntrichia norvegica                        .....+.
+Tortella tortuosa                           .....1+
+END TABLE

@@ -1,0 +1,41 @@
+BEGIN HEAD
+Höhe (x 10 m)       134 134 110 116 128
+Exposition          SS0  S0  S0   S SSW
+Inklination (°)      45  40  45  35  35
+Deckung (%) KG       40  20  30  40  45
+SB                   60  80  70  60  55
+Geologie             hd  hd  hd  hd  hd
+Artenzahl             8  12  12  10  14
+Spalte                1   2   3   4   5
+END HEAD
+
+BEGIN TABLE
+achn cala       @hl   3   2   3   3   3
+hier glau cum   @hl   +   +   1   .   .
+
+rume scut       @hl   +   +   +   +   +
+camp coch       @hl   +   +   1   +   +
+sile vulg glar  @hl   1   +   .   1   +
+
+card defl viri  @hl   .   +   1   +   +
+euph sali       @hl   .   +   +   .   +
+gent aspe       @hl   .   +   +   .   +
+thym prae poly  @hl   .   .   +   +   1
+scab luci luci  @hl   .   .   +   .   .
+
+gali anis       @hl   .   .   +   .   .
+aden alpi       @hl   .   +   .   +   .
+peta para       @hl   .   .   .   +   .
+gymn robe       @hl   .   .   .   .   +
+linu cath       @hl   +   +   .   .   +
+leon hisp hisp  @hl   1   +   .   .   .
+teuc mont       @hl   .   .   .   +   1
+poa ceni        @hl   +   .   .   .   .
+leon hisp hyos  @hl   .   1   .   .   .
+cala vari       @hl   .   .   +   .   .
+buph sali       @hl   .   .   +   .   .
+hier bupl       @hl   .   .   .   r   .
+prim auri auri  @hl   .   .   .   .   +
+acer pseu       @hl   .   .   .   .   +
+agro alpi       @hl   .   .   .   .   +
+END TABLE
