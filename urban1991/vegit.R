@@ -35,7 +35,7 @@ if (FALSE) {
 	#	transform to matrix and ...
 	xx <- castFooter(paste0(file,"FooterSpecies.txt"), abundance.first = NA)
 	#	 ... save for later use
-	#	write.csv(species(xx), paste0(file,"FooterSpecies.csv"))
+	#	write.csv(species(xx), paste0(file,"Footer species.csv"))
 	
 	#	seek matches ...
 	xy <- linktaxa(xx$abbr, z$taxon, order = FALSE,
@@ -48,7 +48,7 @@ if (FALSE) {
 	a <- z$abbr[match(x$matched.taxon, z$taxon)]
 	
 	#	... and save temporary file
-	#	conetents to be copied to write.csv(species(xx), paste0(file,"FooterSpecies.csv"))
+	#	contents to be copied to write.csv(species(xx), paste0(file,"FooterSpecies.csv"))
 	write.csv2(a, "tmp.csv")	
 }
 
