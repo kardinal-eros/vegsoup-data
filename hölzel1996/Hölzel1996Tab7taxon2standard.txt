@@ -26,7 +26,7 @@ Deckung der Strauchschicht (%)    000000|00000000|0000000000000300
 Deckung der Krautschicht (%)      544432|34522224|322245.235545745
                                   000005|00005000|0505000000000000
 
-Deckung der Moosschicht (%)       051110|00001000|1100111000001010                                  
+Deckung der Moosschicht (%)       051110|00001000|1100111000001010
 
 END HEAD
 BEGIN TABLE
