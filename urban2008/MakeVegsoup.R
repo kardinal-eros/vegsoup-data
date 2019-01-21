@@ -26,7 +26,7 @@ assign(key, obj)
 obj$richness <- richness(obj, "sample")
 
 #	unique rownames
-rownames(obj) <- paste(key, rownames(obj), sep = ":")"Tab3", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
+rownames(obj) <- paste(key, rownames(obj), sep = ":")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
