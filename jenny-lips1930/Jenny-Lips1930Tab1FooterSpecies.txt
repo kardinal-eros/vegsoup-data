@@ -1,0 +1,11 @@
+2: Rubus spec r, Vicia silvatica +, Lathyrus pratensis r, Polygala chamaebuxus r, Helianthemum nummularium r, Satureia silvatica r, Orobanche alba r
+3: Populus tremula r, Fagus silvatica r, Thesium alpinum r, Acer pseudoplatanus r, Acer platanoides r, Lamium galeobdolon r, Knautia silvatica r, Taraxacum officinale r
+4: Corylus avellana r, Eupatorium cannabinum r, Tussilago farfara 1, Hieracium florentinum +
+5: Agrostis alba +, Calamagrostis varia 1, Gymnadenia conopsea r, Salix appendiculata r, Rubus spec r, Sanguisorba minor r, Bellidiastrum michelii r
+6: Carex ornithopoda +, Globularia cordifolia +
+7: Berberis vulgaris +, Acer pseudoplatanus r
+8: Silene nutans 1, Trifolium repens +, Anthyllis vulneraria r, Epilobium montanum r, Daucus carota r, Verbena officinalis r, Plantago lanceolata r, Scabiosa columbaria r
+9: Polygonatum officinale r, Hippocrepis comosa r, Viola hirta r, Angelica silvestris r, Laserpitium latifolium r
+10: Pimpinella major r, Heracleum montanum r, Orohanche reticulata +, Crepis blattarioides r
+11: Berberis vulgaris 1, Erucastrum obtusangulum r, Sanguisorba minor r, Potentilla puberula r, Hypericum perforatum r, Viola pinnata r, Daucus carota r, Cornus sanguinea r, Verbascum lychnitis r, Scabiosa columbaria r, Campanula rotundifolia r, Carlina vulgaris r, Globularia cordifolia r
+12: Calamagrostis varia r, Erucastrum obtusangulum r, Fragaria vesca r, Potentilla erecta r, Potentilla reptans r, Hypericum perforatum r, Pimpinella major r, Angelica silvestris r, Chrysanthemum vulgare r, Centaurea jacea r, Hieracium staticifolium r

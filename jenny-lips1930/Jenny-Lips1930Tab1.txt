@@ -1,0 +1,64 @@
+Aufnahme                              1            2            3            4            5            6            7            8            9           10           11           12
+                                                                                                                                                                                      
+Stipa calamagrostis                   1            1            +            1            3            4            4            2            +            +            2            4
+Vincetoxicum officinale               +            +            +            +            .            1            +            +            2            3            1            1
+Galeopsis angustifolia                +            +            +            .            .            .            .            .            .            .            +            +
+Reseda luteola                        .            +            .            +            .            .            .            .            .            .            .            .
+Scrophularia canina                   .            +            .            .            .            .            .            +            .            .            .            .
+Epilobium rosmarinifolium             .            .            .            .            .            .            .            .            .            .            1            .
+Calamintha nepetoides                 .            .            .            .            .            .            .            .            .            .            1            .
+                                                                                                                                                                                      
+Gypsophila repens                     1            +            1            +            .            .            .            +            .            .            .            +
+Rumex scutatus                        .            +            2            .            .            .            .            .            1            +            .            .
+Moehringia muscosa                    +            +            .            .            .            .            .            .            +            .            .            .
+Athamanta cretensis                   .            +            .            +            .            .            .            .            +            .            .            .
+Campanula cochleariifolia             .            .            .            .            +            .            .            .            +            +            .            +
+Petasites paradoxus                   .            .            .            .            1            .            .            +            .            .            .            .
+Linaria alpina                        .            .            .            .            +            .            .            .            .            .            .            +
+Dryopteris robertiana                 .            .            .            .            .            .            .            .            .            .            .            +
+                                                                                                                                                                                      
+Teucrium montanum                     .            +            2            .            .            3            3            +            +            .            1            .
+                                                                                                                                                                                      
+Galium mollugo                        +            +            +            +            +            1            +            1            +            +            1            +
+Buphthalmum salicifolium              .            +            +            +            +            +            .            +            +            .            +            .
+Carduus defloratus                    +            +            .            +            +            .            .            +            +            1            +            .
+Sesleria coerulea                     +            +            +            1            .            .            2            1            .            .            .            .
+Brachypodium pinnatum                 1            +            +            2            .            .            .            +            .            +            .            .
+Geranium robertianum                  +            3            2            +            .            .            .            .            +            2            .            +
+Orignum vulgare                       +            .            +            2            +            .            .            +            .            +            2            1
+Carex diversicolor                    +            +            +            +            .            1            .            .            .            .            .            .
+Silene vulgaris                       +            +            .            1            .            .            .            .            1            1            .            +
+Teucrium chamaedrys                   +            .            +            +            +            .            .            +            .            .            +            +
+Thymus serpyllum                      .            +            .            .            +            .            .            +            +            +            +            +
+Dactylis glomerata                    1            +            .            1            .            .            .            +            .            .            .            .
+Mercurialis perennis                  .            +            .            +            +            .            .            .            .            +            .            .
+Satureia vulgaris                     .            +            .            +            +            .            .            +            .            .            .            +
+Picea excelsa                         +            .            .            .            +            +            1            .            .            .            .            .
+Anthericum ramosum                    .            .            .            .            .            2            1            .            +            .            .            +
+Salix incana                          +            .            .            +            +            .            .            .            .            .            .            .
+Kernera saxatilis                     +            .            +            +            .            .            .            .            .            .            .            .
+Arabis hirsuta                        +            .            +            .            .            .            .            +            .            .            +            .
+Medicago lupulina                     +            .            .            +            .            .            .            +            .            .            .            .
+Fraxinus excelsior                    +            +            .            +            .            .            .            .            .            .            .            .
+Digitalis ambigua                     .            +            +            +            .            .            .            .            .            .            .            .
+Euphrasia salisburgensis              .            .            +            .            +            .            .            +            .            .            +            .
+Valeriana tripteris                   +            .            .            1            +            .            .            .            .            .            .            .
+Campanula trachelium                  .            .            .            +            .            .            .            .            +            +            .            .
+Leontodon hispidus                    1            .            .            +            .            .            .            +            .            .            +            .
+Hieracium murorum                     +            .            .            .            1            +            .            .            .            .            +            .
+Pinus silvestris                      .            .            .            .            .            +            +            .            .            .            +            .
+Molinia litoralis                     +            .            .            1            .            .            .            .            .            .            .            +
+Carex humilis                         .            +            .            +            .            .            .            .            .            .            .            .
+Helleborine latifolia                 .            .            .            .            .            +            +            .            .            .            .            .
+Aquilegia atrata                      .            .            .            .            +            .            .            .            +            .            .            +
+Clematis vitalba                      .            +            .            +            .            .            .            .            .            .            +            .
+Ranunculus geraniifolius              .            .            .            .            .            .            .            +            .            +            .            .
+Sedum album                           .            .            +            +            .            .            .            .            .            .            +            .
+Sorbus aria                           .            .            .            .            .            +            +            .            .            .            .            .
+Lotus corniculatus                    .            +            .            .            .            .            .            +            .            .            .            +
+Coronilla emerus                      +            .            .            +            .            .            .            .            .            .            .            .
+Coronilla vaginalis                   .            +            .            +            .            .            .            .            .            .            .            .
+Ligustrum vulgare                     .            .            .            .            .            1            1            .            .            .            .            .
+Satureia alpina                       .            +            .            .            .            .            .            +            .            .            .            .
+Verbascum nigrum                      .            .            .            .            +            .            .            +            .            .            .            .
+Cicerbita muralis                     .            .            +            +            .            .            .            .            .            .            .            .
