@@ -6,7 +6,7 @@ key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 
 #	read digitized table
 file <- file.path(path, "Amann2004Tab2 species wide.csv")
-X <- stackSpecies(file = file, sep = ",")
+X <- stackSpecies(file = file, sep = ",")[, 1:4]
 
 #   sites data including coordinates
 file <- file.path(path, "Amann2004Tab2 sites wide.csv")
