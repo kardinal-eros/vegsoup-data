@@ -1,0 +1,17 @@
+taxon                           layer cov
+Achnatherum calamagrostis       hl    3  
+Buphthalmum salicifolium              2a 
+Calamagrostis varia                   1  
+Carduus defloratus ssp. viridis       +  
+Chlorocrepis staticifolia             1  
+Euphrasia salisburgensis s.str.       +  
+Galium anisophyllon                   +  
+Gentianopsis ciliata                  +  
+Leontodon hispidus s.lat.             +  
+Linum catharticum                     +  
+Origanum vulgare ssp. vulgare         +  
+Orobanche teucrii                     +  
+Teucrium montanum                     1  
+Vincetoxicum hirundinaria             1  
+ 
+x: 11.24448, y: 47.59513, accuracy: 200, date: 2001-09-01, elevation: 1160, gridcell: 8433/1, hcov: 60, locality: Kocheler Berge, Hirschberg Südabfall, Rauhgrashalde, richness: 14

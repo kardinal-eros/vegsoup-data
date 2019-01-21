@@ -1,0 +1,37 @@
+library(vegsoup)
+require(bibtex)
+
+path <- "~/Documents/vegsoup-data/urban2008"
+key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+
+file <- file.path(path, "species.csv")
+# promote to class "Species"
+X <- species(file, sep = ",")[, 1:4]
+
+file <- file.path(path, "sites wide.csv")
+# promote to class "Sites"
+Y <- stackSites(file = file, sep = ",")
+
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
+# promote to class "SpeciesTaxonomy"
+XZ <- SpeciesTaxonomy(X, file.y = file)
+
+# promote to class "Vegsoup"
+obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
+
+#	assign result object
+assign(key, obj)
+
+#	richness
+obj$richness <- richness(obj, "sample")
+
+#	unique rownames
+rownames(obj) <- paste(key, rownames(obj), sep = ":")"Tab3", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
+
+#	save to disk
+do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
+write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE)
+
+#	tidy up
+rm(list = ls()[-grep(key, ls())])
+
