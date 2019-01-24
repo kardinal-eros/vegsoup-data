@@ -2,7 +2,7 @@ plot;abbr;layer;cov;comment;determined;history
 1;arte absi;hl;+;Artemisia absinthium;;
 1;arte camp;hl;1;Artemisia campestris;;
 1;camp trac;hl;+;C. trachelium;;
-1;card cras slat;hl;+;Carduus defloratus agg.;;
+1;card defl slat;hl;+;Carduus defloratus agg.;;
 1;carl vulg slat;hl;+;Carlina vulgaris agg.;;
 1;clin acin;hl;+;Acinos alpinus;;
 1;digi gran;hl;+;Digitalis grandiflora;;
@@ -22,7 +22,7 @@ plot;abbr;layer;cov;comment;determined;history
 1;thym prae slat;hl;+;Thymus praecox agg.;;
 1;vinc hiru;hl;+;Vincetoxicum hirundinaria;;
 2;arte camp;hl;+;Artemisia campestris;;
-2;card cras slat;hl;1;Carduus defloratus agg.;;
+2;card defl slat;hl;1;Carduus defloratus agg.;;
 2;digi gran;hl;+;Digitalis grandiflora;;
 2;echi vulg;hl;+;Echium vulgare;;
 2;erys sylv;hl;1;Erysimum sylvestre;;
@@ -59,7 +59,7 @@ plot;abbr;layer;cov;comment;determined;history
 4;amel oval;hl;+;Amelanchier ovalis;;
 4;anth odor aggr;hl;+;Anthoxanthum odoratum agg.;;
 4;arte camp;hl;+;Artemisia campestris;;
-4;card cras slat;hl;+;Carduus defloratus agg.;;
+4;card defl slat;hl;+;Carduus defloratus agg.;;
 4;dian cart slat;hl;+;Dianthus carthusianorum agg.;;
 4;fest stri sulc;hl;+;Festuca  rupicola;;
 4;gali moll aggr;hl;+;Galium mollugo agg.;;
@@ -78,7 +78,7 @@ plot;abbr;layer;cov;comment;determined;history
 4;vinc hiru;hl;+;Vincetoxicum hirundinaria;;
 4;wood alpi;hl;+;Woodsia alpina;;
 5;achi mill aggr;hl;+;Achillea millefolium agg.;;
-5;card cras slat;hl;+;Carduus defloratus agg.;;
+5;card defl slat;hl;+;Carduus defloratus agg.;;
 5;clin acin;hl;+;Acinos alpinus;;
 5;dian cart slat;hl;+;Dianthus carthusianorum agg.;;
 5;erys sylv;hl;1;Erysimum sylvestre;;
@@ -168,7 +168,7 @@ plot;abbr;layer;cov;comment;determined;history
 8;aste alpi;hl;+;Aster  alpinus;;
 8;homa pube pube;hl;+;Avenula pubescens;;
 8;cala vari;hl;+;Calamagrostis varia;;
-8;card cras slat;hl;+;Carduus defloratus agg.;;
+8;card defl slat;hl;+;Carduus defloratus agg.;;
 8;clin acin;hl;1;Acinos alpinus;;
 8;dian cart slat;hl;+;Dianthus carthusianorum agg.;;
 8;dian sylv;hl;1;Dianthus sylvestris;;
@@ -211,7 +211,7 @@ plot;abbr;layer;cov;comment;determined;history
 9;aspl tric slat;hl;+;Asplenium trichomanes;;
 9;aste alpi;hl;1;Aster  alpinus;;
 9;berb vulg;hl;+;Berberis vulgaris;;
-9;card cras slat;hl;+;Carduus defloratus agg.;;
+9;card defl slat;hl;+;Carduus defloratus agg.;;
 9;clin acin;hl;+;Acinos alpinus;;
 9;dian cart slat;hl;+;Dianthus carthusianorum agg.;;
 9;euph cypa;hl;+;Euphorbia cyparissias;;

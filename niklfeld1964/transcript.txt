@@ -5,7 +5,7 @@ Asperula cynanchica                               1
 Asplenium ruta-muraria                            +  
 Brachypodium pinnatum s.str.                      +  
 Bupleurum falcatum                                1  
-Carduus crassifolius ssp. glaucus                 +  
+Carduus defloratus ssp. glaucus                   +  
 Carex humilis                                     1  
 Coronilla coronata                                +  
 Dianthus carthusianorum ssp. carthusianorum       +  
