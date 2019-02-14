@@ -10,7 +10,7 @@ source(file.path(path, "MakeVegsoup 1.R"))
 source(file.path(path, "MakeVegsoup 2.R"))
 source(file.path(path, "MakeVegsoup 3.R"))
 
-obj <- bind(tab1, tab2, tab3)
+obj <- vegsoup::bind(tab1, tab2, tab3)
 
 #	order layer
 layers(obj)	 <- c("sl", "hl", "ml")

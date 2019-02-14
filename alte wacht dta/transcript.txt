@@ -11,6 +11,17 @@ cov                                          477999891799929
                                              055870855557908
 hcov                                         47781779 778929
                                              050050502505508
+hhl1                                                      0 
+                                             0000 00 0  11.0
+                                             .... .. .  ..2.
+                                             255645817111255
+hhl2                                            0          0
+                                             000.0000000000.
+                                             ...1..........1
+                                             111512111213215
+hsl                                          1           2  
+                                             .           .  
+                                             522003440054500
 htl1                                             12221 222  
                                              000055026057300
 htl2                                              1111 111  
@@ -72,7 +83,7 @@ Gypsophila repens                            222..1+......2+
 Helianthemum nummularium ssp. obscurum       ++1..+........+
 Juniperus communis ssp. communis             1....1.+......1
 Laserpitium latifolium ssp. latifolium       r+1..+++......+
-Leontodon hispidus ssp. pseudocrispus        ++...++...+..+.
+Leontodon hispidus ssp. dubius               ++...++...+..+.
 Lotus corniculatus s.lat.                    +..+.+++..+.+.+
 Poa molinieri                                121...r......r.
 Polygala chamaebuxus                         2....++1..+.+.r

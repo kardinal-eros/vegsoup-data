@@ -20,6 +20,18 @@ cov                                         433642629538
 hcov                                        333542528438
                                             820500870050
                                                         
+hhl1                                        000000000000
+                                            ............
+                                            444445435647
+                                                        
+hhl2                                        000000000000
+                                            ............
+                                            111113111122
+                                                        
+hsl                                         01222 1    2
+                                            ..... .    .
+                                            555552533235
+                                                        
 htl1                                                 1  
                                             000000000500
                                                         
@@ -119,7 +131,7 @@ Scabiosa columbaria s.str.                  .++.++.+..++
 Sorbus aria s.str.                          .+.+..+....+
 Rhamnus cathartica                          ..++++.....+
 Rosa subcollina                             ...r..+.....
-Leontodon hispidus ssp. pseudocrispus       ....++...1.+
+Leontodon hispidus ssp. dubius              ....++...1.+
 Crepis alpestris                            ......r.....
 Echium vulgare ssp. vulgare                 ......+....+
 Origanum vulgare ssp. vulgare               ......+..+++

@@ -7,7 +7,7 @@ file <- file.path(path, "footer species 1.csv")
 X1 <- read.csv2(file, colClasses = "character")
 X1 <- X1[, -grep("taxon", names(X1))]
 X1 <- species(X1)
-X <- bind(X0, X1)
+X <- vegsoup::bind(X0, X1)
 
 file <- file.path(path, "sites wide 1.csv")
 Y <- stackSites(file = file)
