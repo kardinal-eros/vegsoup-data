@@ -20,6 +20,16 @@ cov                                                         99689699499
 hcov                                                        99678499399
                                                             05085523700
                                                                        
+hhl1                                                        00    00 0 
+                                                            ..0000..0.0
+                                                            11....11.1.
+                                                            55131152172
+                                                                       
+hhl2                                                        00000000000
+                                                            ...........
+                                                            00000000000
+                                                            43342321345
+                                                                       
 hsl                                                         00000000000
                                                                        
 htl1                                                        00000000000
@@ -160,7 +170,7 @@ Ranunculus acris ssp. acris                                 ..........+
 Rumex alpestris                                             ..........r
 Silene nutans ssp. nutans                                   ..........1
 Silene vulgaris ssp. vulgaris                               ..........+
-Thlaspi coerulescens s.lat.                                 ..........r
+Noccaea caerulescens ssp. caerulescens                      ..........r
 Thymus praecox ssp. polytrichus                             ..........2
 Thymus pulegioides ssp. pulegioides                         ..........+
 Trifolium montanum ssp. montanum                            ..........1
