@@ -1,4 +1,5 @@
 library(vegsoup)
+library(rgdal)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/berchtesgaden dta"
@@ -47,12 +48,17 @@ obj$plsy <- 2
 #	order layer
 layers(obj)	 <- c("sl", "hl")
 
+#	site variable
+obj$site <- sapply(strsplit(rownames(obj), "-"), head, 1)
+
 names(obj)
 #	assign result object
 assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
