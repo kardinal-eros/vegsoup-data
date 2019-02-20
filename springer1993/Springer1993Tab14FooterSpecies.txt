@@ -1,0 +1,25 @@
+1: Silene vulgaris +, Galium sylvaticum +, Campanula trachelium +, Euphrasia salisburgensis +
+2: Allium senescens ssp. montanum +, Centaurea scabiosa +, Leontodon hispidus +, Asplenium ruta-muraria +, Gypsophila repens +, Anthyllis alpestris +, Aquilegia atrata +
+3: Linum viscosum +, Gentiana ciliata +, Stachys officinalis +, Globularia nudicaulis +
+4: Galium anisophyllum +, Silene vulgaris +, Rumex scutatus +, Heracleum austriacum +, Pimpinella major +
+5: Brachypodium pinnatum +, Pimpinella major +, Allium carinatum +, Dactylis glomerata +, Centaurea scabiosa +, Gentiana ciliata +
+6: Verbascum thapsus +, Gentiana ciliata +, Centaurea scabiosa +, Silene nutans +, Centaurea jacea +, Pimpinella major +
+7: Fagus sylvatica +, Globularia nudicaulis +, Helleborus niger +
+8: Carex alba 2, Cyclamen purpurascens +, Viola spec. +, Euphorbia amygdaloides +, Hepatica nobilis +, Hieracium bifidum +, Hypericum montanum +
+9: Platanthera bifolia +, Phyteuma orbiculare +, Globularia cordifolia +
+10: Aquilegia atrata +
+11: Biscutella laevigata +, Hypericum montanum +, Fagus sylvatica +, Phyteuma orbiculare +
+12: Trifolium montanum +, Linum viscosum 1, Leontodon incanus +
+13: Silene nutans +, Leontodon incanus +, Globularia nudicaulis +
+14: Trifolium montanum +, Hieracium sabaudum +, Asperula cynanchica 1, Cephalanthera rubra +, Astrantia major +, Bromus erectus +, Populus tremula +, Melampyrum sylvaticum +, Festuca rubra agg. +, Koeleria pyramidata +, Epipactis atrorubens +, Brachypodium pinnatum +
+15: Acer pseudoplatanus +, Galium anisophyllum +, Euphrasia rostkoviana +
+16: Populus tremula +, Sorbus aria +, Berberis vulgaris +, Viburnum lantana +, Galium pumilum +, Festuca rubra agg. +, Galium verum +, Asperula cynanchica 1, Digitalis grandiflora +, Globularia punctata +, Rubus saxatilis +, Hieracium laevigatum +, Hieracium hoppeanum +, Brachypodium pinnatum +
+17: Hieracium bifidum +
+18: Fraxinus excelsior +, Tilia platyphyllos +, Acer pseudoplatanus +, Rosa pendulina +, Hepatica nobilis +, Galium album +, Mercurialis perennis +, Allium senescens ssp. montanum +
+19: Globularia cordifolia +, Allium senescens ssp. montanum +, Epipactis atrorubens +, Viburnum lantana +, Ligustrum vulgare +, Rhamnus cathartica +, Juniperus communis r, Rosa pendulina +
+20: Populus tremula 1, Epipactis atrorubens +, Allium carinatum +, Aquilegia atrata +, Astrantia major +, Stachys officinalis +, Briza media +, Festuca rubra agg. +, Asperula cynanchica +, Orobanche gracilis +, Galium verum +, Sanguisorba minor +
+21: Euphrasia salisburgensis +, Galium sylvaticum x aristatum +, Orobanche caryophyllacea +
+22: Kernera saxatilis +, Rosa pendulina +, Cotoneaster tomentosus +, Euphrasia salisburgensis +
+23: Corylus avellana +, Carex mucronata 2, Globularia cordifolia +, Primula auricula +, Gypsophila repens +, Hieracium glaucum +, Valeriana saxatilis +, Linum catharticum +
+24: Thalictrum saxatile +, Euphrasia rostkoviana +
+25: Rubus saxatilis +, Sorbus aria +, Hepatica nobilis +, Valeriana montana +, Knautia sylvatica +, Carlina vulgaris +, Thesium alpinum +, Phyteuma orbiculare +
