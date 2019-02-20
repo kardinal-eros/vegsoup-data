@@ -1,0 +1,60 @@
+BEGIN HEAD
+Nr. d. Aufnahme              83   84   85   86   88   90
+Höhe in 10 m                 80   80   90   92   95  125
+Neigung in Grad              40   35   35   40   40   30
+Exposition                    W   SW   SW    W   SW    S
+Aufnahmefläche in qm        200  200  150  150  200  150
+Artenzahl                    40   37   35   30   29   34
+Bodenbedeckung in %          40   40   60   60   60   50
+
+END HEAD
+BEGIN TABLE
+orig vulg               @hl   +    .    +    +    .    +
+anth ramo               @hl   +    .    1    1    1    +
+lase lati lati          @hl   +    +    +    1    +    +
+buph sali               @hl   +    +    1    1    1    +
+rhin glac               @hl   1    +    1    1    +    +
+clin vulg vulg          @hl   +    +    +    +    +    .
+lase sile sile          @hl   +    .    1    2    2    .
+gali moll               @hl   1    +    .    .    +    +
+gale spec iosa          @hl   1    +    1    +    +    1
+camp trac               @hl   r    +    +    +    r    .
+sedu albu               @hl   1    +    .    r    .    +
+teuc mont               @hl   +    .    +    .    +    .
+vinc hiru               @hl   +    1    +    1    1    +
+arab alpi alpi          @hl   .    r    .    .    .    .
+sile vulg glar          @hl   1    1    +    +    +    1
+gyps repe               @hl   +    r    1    .    +    +
+rume scut               @hl   r    .    .    +    .    r
+chlo stat               @hl   .    .    1    .    .    2
+cala vari               @hl   1    1    1    1    1    +
+scab luci luci          @hl   +    +    1    1    .    +
+anth vuln alpi          @hl   +    +    +    +    +    .
+agro stol               @hl   +    +    1    1    .    1
+card defl viri          @hl   +    +    .    +    +    +
+clin alpi alpi          @hl   1    1    1    2    2    2
+thym prae poly          @hl   1    +    .    2    1    2
+gera robe               @hl   +    +    +    .    .    +
+camp sche               @hl   +    +    +    .    .    +
+pimp majo majo          @hl   .    +    +    +    +    .
+beto alop               @hl   +    .    r    1    .    +
+dact glom glom          @hl   +    .    +    r    .    +
+hier bifi               @hl   r    +    .    .    r    +
+elym cani               @hl   +    +    .    .    .    1
+medi lupu               @hl   .    r    .    .    +    +
+thes alpi               @hl   r    .    +    .    .    r
+hera aust aust          @hl   r    +    .    r    .    .
+aqui atra               @hl   .    .    +    1    r    .
+ranu nemo               @hl   +    +    +    .    .    .
+leon hisp slat          @hl   .    .    r    .    +    .
+luzu camp               @hl   +    .    +    .    .    .
+trif prat prat          @hl   .    r    .    .    .    r
+cent scab slat          @hl   .    .    r    +    .    .
+ange sylv sylv          @hl   r    r    .    .    .    .
+rume alpe               @hl   .    r    r    .    .    .
+prun gran               @hl   +    +    .    .    .    .
+poa alpi                @hl   +    +    .    .    .    .
+care ferr               @hl   .    +    .    r    .    .
+lotu corn               @hl   .    .    1    +    .    .
+hier vill               @hl   .    .    .    .    +    +
+END TABLE

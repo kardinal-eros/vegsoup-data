@@ -1,0 +1,94 @@
+BEGIN HEAD
+plot                                           123456
+accuracy                                            1
+                                               2211 0
+                                               550050
+                                               000000
+                                                     
+elevation                                           1
+                                               889992
+                                               000255
+                                                     
+slope                                          433443
+                                               055000
+                                                     
+hcov                                           446665
+                                               000000
+                                                     
+cov                                            446665
+                                               000000
+                                                     
+richness                                       433323
+                                               075094
+                                                     
+END HEAD
+BEGIN TABLE
+Agrostis stolonifera s.str.                 hl ++11.1
+Angelica sylvestris ssp. sylvestris            rr....
+Anthericum ramosum                             +.111+
+Anthyllis vulneraria ssp. alpicola             +++++.
+Betonica alopecuros                            +.r1.+
+Buphthalmum salicifolium                       ++111+
+Calamagrostis varia                            11111+
+Campanula scheuchzeri                          +++..+
+Campanula trachelium                           r+++r.
+Carduus defloratus ssp. viridis                ++.+++
+Clinopodium alpinum ssp. alpinum               111222
+Clinopodium vulgare ssp. vulgare               +++++.
+Dactylis glomerata ssp. glomerata              +.+r.+
+Elymus caninus                                 ++...1
+Epilobium alpestre                             r.....
+Galeopsis speciosa                             1+1++1
+Galium mollugo s.str.                          1+..++
+Geranium robertianum s.str.                    +++..+
+Gypsophila repens                              +r1.++
+Heracleum austriacum ssp. austriacum           r+.r..
+Heracleum sphondylium ssp. elegans             +.....
+Hieracium bifidum                              r+..r+
+Kernera saxatilis                              ++....
+Laserpitium latifolium ssp. latifolium         +++1++
+Laserpitium siler ssp. siler                   +.122.
+Luzula campestris s.str.                       +.+...
+Origanum vulgare ssp. vulgare                  +.++.+
+Poa alpina                                     ++....
+Prunella grandiflora                           ++....
+Ranunculus nemorosus                           +++...
+Rhinanthus glacialis                           1+11++
+Rumex scutatus                                 r..+.r
+Scabiosa lucida ssp. lucida                    ++11.+
+Sedum album                                    1+.r.+
+Silene vulgaris ssp. glareosa                  11+++1
+Teucrium montanum                              +.+.+.
+Thesium alpinum                                r.+..r
+Thymus praecox ssp. polytrichus                1+.212
+Verbascum thapsus s.str.                       +.....
+Vincetoxicum hirundinaria                      +1+11+
+Arabis alpina ssp. alpina                      .r....
+Carex ferruginea s.str.                        .+.r..
+Hypericum maculatum s.str.                     .+..+.
+Medicago lupulina                              .r..++
+Pimpinella major var. major                    .++++.
+Rumex alpestris                                .rr...
+Scrophularia nodosa                            .r....
+Trifolium pratense ssp. pratense               .r...r
+Valeriana saxatilis                            .r....
+Aquilegia atrata                               ..+1r.
+Centaurea scabiosa s.lat.                      ..r+..
+Chlorocrepis staticifolia                      ..1..2
+Helianthemum nummularium ssp. grandiflorum     ..+...
+Hieracium schultesii                           ..++..
+Hieracium valdepilosum                         ..+...
+Leontodon hispidus s.lat.                      ..r.+.
+Lotus corniculatus s.str.                      ..1+..
+Valeriana officinalis ssp. tenuifolia          ...r..
+Carex mucronata                                ....+.
+Hieracium villosum                             ....++
+Juncus monanthos                               ....+.
+Leucanthemum vulgare s.str.                    ....+.
+Potentilla erecta                              ....+.
+Achillea clavennae                             .....1
+Lamium maculatum                               .....+
+Linum catharticum                              .....+
+Sedum atratum s.lat.                           .....+
+Senecio ovatus ssp. ovatus                     .....r
+END TABLE
