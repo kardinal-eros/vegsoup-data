@@ -1,0 +1,106 @@
+Aufnahmenummer                  1     2     3     4     5     6     7     8
+                                                                           
+                                                                           
+Rumex scutatus                  .     2     +     2     1     2     2     2
+Vincetoxicum officinale         +     1     +     1     +     2     .     .
+Galeopsis ladanum               1     1     .     .     .     .     .     .
+Arabis arenosa                  .     +     .     +     .     .     .     .
+                                                                           
+                                                                           
+Rubus saxatilis                 +     +     +     .     .     1     .     +
+Campanula pusilla               .     .     .     .     .     .     .     1
+Saxifraga decipiens             .     .     .     .     .     .     .     2
+Sesleria caerulea               .     +     +     .     +     .     1     +
+Sedum album                     +     .     .     .     .     .     .     .
+Poa compressa                   .     +     .     .     .     .     .     .
+Coronilla coronata              +     .     .     .     .     .     .     .
+                                                                           
+Asplenium trichomanes           .     .     +     .     .     .     .     .
+Cicerbita muralis               .     +     1     +     1     .     1     +
+                                                                           
+Helleborine latifolia           .     +     +     +     .     .     .     .
+Arrhenatherum elatius           .     .     .     +     .     1     .     .
+Galium mollugo                  .     +     +     +     +     1     1     .
+Helleborus foetidus             .     1     +     +     .     .     .     .
+Aconitum lycoctonum             .     .     .     .     .     .     .     +
+Knautia silvatica               .     +     .     .     .     .     .     +
+Carex diversicolor              .     +     .     +     .     .     .     .
+                                                                           
+Campanula trachelium            .     +     +     .     .     .     .     .
+                                                                           
+Lathyrus vernus                 .     .     +     .     .     .     .     .
+Solidago virgaurea              .     .     +     .     .     .     .     .
+Linaria vulgaris                .     +     .     .     .     .     .     .
+Cerastium arvense               .     .     .     .     .     .     .     +
+Hieracium murorum               +     .     .     .     .     .     .     .
+Vicia sepium                    .     +     .     +     +     1     .     .
+Camptothecium lutescens         .     +     .     .     .     .     .     .
+                                                                           
+Eurhynchium striatum            .     .     .     .     +     .     .     .
+Hypnum cupressiforme            .     .     +     .     .     .     .     .
+                                                                           
+Teucrium chamaedrys             .     +     .     .     .     .     .     .
+Teucrium montanum               +     .     .     .     .     .     .     .
+Teucrium botrys                 +     .     .     .     .     .     .     .
+Bupleurum falcatum              +     .     .     .     .     .     .     .
+Origanum vulgare                +     +     .     .     .     .     .     .
+Euphorbia cyparissias           +     .     .     .     .     .     .     .
+Verbascum lychnitis             .     1     .     .     .     .     .     .
+Picris hieracioides             .     +     .     .     .     .     .     .
+Veronica teucrium               .     +     .     .     .     .     .     .
+Stachys rectus                  .     +     .     .     .     .     .     .
+Hypericum perforatum            .     +     .     .     .     .     .     .
+Brachypodium pinnatum           .     1     .     .     .     .     .     .
+                                                                           
+Viola hirta                     .     +     .     .     .     .     .     .
+Thuidium abietinum              .     +     .     .     .     .     .     .
+                                                                           
+Dryopteris robertiana           .     .     2     .     +     +     +     1
+Geranium robertianum            .     .     +     .     2     2     2     1
+Valeriana officinalis           .     .     .     +     .     2     1     1
+Lamium galeobdolon              .     .     1     .     1     1     1     +
+Scrophularia nodosa             .     .     +     +     .     .     .     .
+Angelica silvestris             .     .     .     +     .     1     +     +
+Prenanthes purpurea             .     .     +     .     .     .     .     .
+Brachythecium silvaticum        .     .     +     .     2     .     .     +
+                                                                           
+                                                                           
+Hylocomium proliferum           .     .     +     .     2     3     3     2
+Rhytidiadelphus triquetrus      .     .     +     .     3     2     1     1
+                                                                           
+Thuidium tamariscifolium        .     .     .     .     +     .     .     +
+                                                                           
+Rhodobryum roseum               .     .     .     .     +     .     +     +
+Ctenidium molluscum             .     .     +     .     2     .     +     .
+Neckera crispa                  .     .     +     .     .     .     .     .
+Mnium undulatum                 .     +     .     .     .     .     .     +
+Scleropodium purum              .     .     .     +     .     2     .     .
+Entodon schreberi               .     .     .     .     .     1     .     .
+                                                                           
+Corylus avellana                2     1     2     1     +     2     2     +
+Sorbus aria                     +     .     .     .     .     .     .     .
+Acer platanoides                .     .     +     .     .     .     +     +
+Acer pseudoplatanus             .     .     +     +     +     .     .     +
+Fraxinus excelsior              .     .     +     .     +     1     .     +
+Fagus silvatica                 .     .     .     .     .     .     +     .
+Ulmus montana                   .     .     +     +     .     .     .     +
+Cornus sanguinea                1     +     .     +     +     .     +     .
+Clematis vitalba                +     +     .     +     .     .     .     .
+Prunus avium                    +     .     .     .     .     .     +     .
+Prunus spinosa                  .     +     .     .     .     .     .     .
+Rhamnus cathartica              +     .     .     .     .     .     .     .
+Acer campestre                  .     +     .     .     .     .     .     .
+Lonicera xylosteum              .     +     +     .     +     .     +     +
+Ligustrum vulgare               .     +     .     .     .     .     .     .
+Sambucus nigra                  .     .     +     .     +     .     .     .
+                                                                           
+Corylus avellana                .     +     .     .     .     .     .     .
+Sorbus aria                     1     +     +     .     +     .     .     .
+Acer pseudoplatanus             .     .     +     .     +     +     .     +
+Tilia platyphyllos              .     .     .     .     +     .     .     +
+Fraxinus excelsior              .     +     +     .     .     .     .     .
+Quercus robur                   1     .     .     .     .     .     .     .
+Fagus silvatica                 +     +     1     +     +     .     +     +
+Ulmus montana                   .     .     +     .     +     .     .     .
+Acer campestre                  .     +     .     .     .     .     .     .
+Salix caprea                    .     .     .     .     +     .     .     .

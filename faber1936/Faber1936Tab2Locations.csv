@@ -1,0 +1,9 @@
+plot,latitude,longitude,accuracy,locality,expo,slope,description,pls,hcov,mcov
+1,48.538570,9.489248,2000,Gegen Schlattstall bei Oberlenningen,S,40,Kalkschutt mit toniger Beimengung,,,
+2,48.516353,9.470497,1000,Schröcke [Schrecke] bei Grabenstätten,S,40,,160,,
+3,48.526604,9.495610,2500,"Schlattstaller Steige, sehr weit geöffnete Schlucht",N,,,,,
+4,48.516353,9.470497,1000,Große Schröcke [Schrecke] bei Grabenstetten,E,40,,,,
+5,48.526604,9.495610,2500,"Schlattstaller Steige, im engeren Teil der Schlucht",N,40,,50,,90
+6,48.516353,9.470497,1000,Große Schröcke [Schrecke] bei Grabenstetten,E,,,100,,100
+7,48.516353,9.470497,1000,Schröcke [Schrecke] bei Grabenstätten,NE,35,,,,
+8,48.394048,9.761795,2000,Tiefenthal bei Blaubeuren,NNE,45,,,,

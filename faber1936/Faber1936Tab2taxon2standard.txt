@@ -1,0 +1,110 @@
+BEGIN HEAD
+Aufnahmenummer     1     2     3     4     5     6     7     8
+
+
+END HEAD
+BEGIN TABLE
+rume scut      @hl .     2     +     2     1     2     2     2
+vinc hiru      @hl +     1     +     1     +     2     .     .
+gale angu      @hl 1     1     .     .     .     .     .     .
+arab aren      @hl .     +     .     +     .     .     .     .
+
+
+rubu saxa      @hl +     +     +     .     .     1     .     +
+camp coch      @hl .     .     .     .     .     .     .     1
+saxi rosa rosa @hl .     .     .     .     .     .     .     2
+sesl caer      @hl .     +     +     .     +     .     1     +
+sedu albu      @hl +     .     .     .     .     .     .     .
+poa comp       @hl .     +     .     .     .     .     .     .
+coro coro      @hl +     .     .     .     .     .     .     .
+
+aspl tric slat @hl .     .     +     .     .     .     .     .
+lact mura      @hl .     +     1     +     1     .     1     +
+
+epip hell slat @hl .     +     +     +     .     .     .     .
+arrh elat      @hl .     .     .     +     .     1     .     .
+gali moll      @hl .     +     +     +     +     1     1     .
+hell foet      @hl .     1     +     +     .     .     .     .
+acon lyco slat @hl .     .     .     .     .     .     .     +
+knau maxi      @hl .     +     .     .     .     .     .     +
+care flac      @hl .     +     .     +     .     .     .     .
+
+camp trac      @hl .     +     +     .     .     .     .     .
+
+lath vern      @hl .     .     +     .     .     .     .     .
+soli virg virg @hl .     .     +     .     .     .     .     .
+lina vulg      @hl .     +     .     .     .     .     .     .
+cera arve slat @hl .     .     .     .     .     .     .     +
+hier muro      @hl +     .     .     .     .     .     .     .
+vici sepi      @hl .     +     .     +     +     1     .     .
+homa lute      @ml .     +     .     .     .     .     .     .
+
+eurh stri      @ml .     .     .     .     +     .     .     .
+hypn cupr      @ml .     .     +     .     .     .     .     .
+
+teuc cham      @hl .     +     .     .     .     .     .     .
+teuc mont      @hl +     .     .     .     .     .     .     .
+teuc botr      @hl +     .     .     .     .     .     .     .
+bupl falc falc @hl +     .     .     .     .     .     .     .
+orig vulg      @hl +     +     .     .     .     .     .     .
+euph cypa      @hl +     .     .     .     .     .     .     .
+verb lych      @hl .     1     .     .     .     .     .     .
+picr hier slat @hl .     +     .     .     .     .     .     .
+vero teuc      @hl .     +     .     .     .     .     .     .
+stac rect rect @hl .     +     .     .     .     .     .     .
+hype perf      @hl .     +     .     .     .     .     .     .
+brac pinn      @hl .     1     .     .     .     .     .     .
+
+viol hirt      @hl .     +     .     .     .     .     .     .
+abie abie slat @ml .     +     .     .     .     .     .     .
+
+gymn robe      @hl .     .     2     .     +     +     +     1
+gera robe      @hl .     .     +     .     2     2     2     1
+vale offi slat @hl .     .     .     +     .     2     1     1
+gale lute aggr @hl .     .     1     .     1     1     1     +
+scro nodo      @hl .     .     +     +     .     .     .     .
+ange sylv sylv @hl .     .     .     +     .     1     +     +
+pren purp      @hl .     .     +     .     .     .     .     .
+brac ruta      @ml .     .     +     .     2     .     .     +
+
+
+hylo sple      @ml .     .     +     .     2     3     3     2
+rhyt triq      @ml .     .     +     .     3     2     1     1
+
+thui tama      @ml .     .     .     .     +     .     .     +
+
+rhod rose um   @hl .     .     .     .     +     .     +     +
+cten moll slat @ml .     .     +     .     2     .     +     .
+neck cris      @ml .     .     +     .     .     .     .     .
+plag nium undu @ml .     +     .     .     .     .     .     +
+scle puru      @ml .     .     .     +     .     2     .     .
+pleu schr      @ml .     .     .     .     .     1     .     .
+
+cory avel      @sl 2     1     2     1     +     2     2     +
+sorb aria      @sl +     .     .     .     .     .     .     .
+acer plat      @sl .     .     +     .     .     .     +     +
+acer pseu      @sl .     .     +     +     +     .     .     +
+frax exce      @sl .     .     +     .     +     1     .     +
+fagu sylv      @sl .     .     .     .     .     .     +     .
+ulmu glab      @sl .     .     +     +     .     .     .     +
+corn sang slat @sl 1     +     .     +     +     .     +     .
+clem vita      @sl +     +     .     +     .     .     .     .
+prun aviu slat @sl +     .     .     .     .     .     +     .
+prun spin      @sl .     +     .     .     .     .     .     .
+rham cath      @sl +     .     .     .     .     .     .     .
+acer camp      @sl .     +     .     .     .     .     .     .
+loni xylo      @sl .     +     +     .     +     .     +     +
+ligu vulg      @sl .     +     .     .     .     .     .     .
+samb nigr      @sl .     .     +     .     +     .     .     .
+
+cory avel      @tl .     +     .     .     .     .     .     .
+sorb aria      @tl 1     +     +     .     +     .     .     .
+acer pseu      @tl .     .     +     .     +     +     .     +
+tili plat      @tl .     .     .     .     +     .     .     +
+frax exce      @tl .     +     +     .     .     .     .     .
+quer robu      @tl 1     .     .     .     .     .     .     .
+fagu sylv      @tl +     +     1     +     +     .     +     +
+ulmu glab      @tl .     .     +     .     +     .     .     .
+acer camp      @tl .     +     .     .     .     .     .     .
+sali capr      @tl .     .     .     .     +     .     .     .
+END TABLE
