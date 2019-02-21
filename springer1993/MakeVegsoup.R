@@ -32,7 +32,8 @@ obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")
 # assign header data stored as attributes in
 # imported original community table
 # omit dimnames, plot id (Releveé number) and class
-df.attr <- as.data.frame(attributes(x)[- c(1:3, 12)])
+
+df.attr <- header(x)
 rownames(df.attr) <- gsub(".", "", colnames(x), fixed = TRUE)
 # reorder by plot
 df.attr <- df.attr[match(rownames(obj), rownames(df.attr)), ] 
