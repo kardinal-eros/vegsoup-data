@@ -1,0 +1,114 @@
+BEGIN HEAD
+Aufnahmenummer         0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2
+                       1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
+
+Anzahl der Arten       2 1 4 3 2 3 3 2 4 3 3 3 3 3 3 3 2 2 2 3 2
+                       7 6 0 5 6 1 2 9 3 1 3 2 3 2 8 3 7 8 5 3 9
+END HEAD
+BEGIN TABLE
+
+fest vers pall     @hl 3 3 2 2 3 3 3 3 3 3 3 3 3 3 3 3 2 1 1 2 3
+minu lang          @hl . . . . . . . + . + 2 1 + . 2 . . . . . .
+
+phyt orbi          @hl + . + + + . . . . . . . . . . . . . . . .
+card defl summ     @hl + . + + 1 . . . . . . . . . . . . . . . .
+puls alpi slat     @hl 1 r r + . . . . . . . . . . . . . . . . .
+thes alpi          @hl + + + . . . . . . . . . . . . . . . . . .
+care firm          @hl 1 2 . . . . . . . . . . . . . . . . . . .
+
+euph cypa          @hl . . . . . . . + . . . . . . 1 + + . + + +
+gali luci          @hl . . . 1 . . . . . . . . . + + + 1 + + . +
+care humi          @hl . . . . . . . . . . . . . . . 1 1 + . + 2
+dian cart slat     @hl . . . . . . . . . . . . . . . . . . + . .
+erys sylv          @hl . . . . . . . . . . . . . . . + . . . . .
+teuc cham          @hl . . . . . . . . . . . . . . . + . . . . .
+alli cari cari     @hl . . . . . . . . . . . . . . . . r . . . .
+meli cili          @hl . . . . . . . . . . . . . . + . . . . . .
+abie abie slat     @hl . . . . . . . . . . . . . . + . . . + . .
+
+sesl caer          @hl 2 1 + + 2 + + . + + 1 + + 1 2 + 1 1 + 1 2
+achi clav          @hl + . . 2 + + + + + + + + 1 2 . . 1 + + 1 .
+clin alpi alpi     @hl . . + 1 . . . . + + 1 + 1 + 1 . + + + 1 .
+euph sali          @hl . . + + + + + + + + + . + r + . + . . + .
+cala vari          @hl . . + + . + . . 2 . 1 + r + + . + r + + .
+care mucr          @hl 3 . . . . 1 2 2 2 2 2 1 + 2 . + + . . . .
+jovi glob hirt     @hl . . + . . + + . + . + . + . 1 + . . 1 + +
+scab luci luci     @hl . . + + 1 . + + + + + 1 . . + . . . . . .
+card defl viri     @hl . . . . . . . + r . . + 2 + + + . + + 1 .
+rhin glac          @hl . . . . . + 1 1 2 + . 2 . . + . . . . . .
+hipp como          @hl . . 1 . . + . . . . 1 r + r . . + . . . +
+gent clus clus     @hl . . . r . . + + + + . . . . . . . . . . .
+care orni slat     @hl . + + . . . . . . . . . . . + . . . . + +
+gali anis          @hl . . . . . + . . . . . + + . . . . . . + .
+poly amar brac     @hl . + r . . . . . . . . . . . . + . . . . 1
+ranu hybr          @hl 1 . . . . . . . . + . r . . . . . . . . .
+aste alpi          @hl . . . . . . . . . + . r . . . . . + . . .
+
+anth vuln alpi     @hl . . . . . + . . . . . . . . . + . . . . .
+sene abro abro     @hl . . . 1 + . . . . . . . . . . . . . . . .
+viol bifl          @hl + . . . . + . . . . . . . . . . . . . . .
+
+vinc hiru          @hl . . + . . 1 + . + + + 1 2 + 2 1 1 + + + .
+buph sali          @hl . . . . . + . + r + . 1 1 1 + . . . . . +
+beto alop          @hl . . . . . . + + 1 + + 1 1 . + + . + . + .
+lase lati lati     @hl . . . . . . . . + . . . . . . . . + . . .
+moli caer aggr     @hl . . . . . . . + . . . + . . . . . . . . .
+
+glob cord          @hl 2 . 1 . r 1 2 2 2 2 1 1 + 1 2 + 2 + 1 . 1
+hier porr lium     @hl . . 1 1 + r 1 1 + + + . + + . + 1 . . + .
+prim auri slat     @hl + . . + . 1 1 1 2 2 + 2 . + + . . + . . .
+aspl ruta          @hl . . + . + . . + . . + . + . + + . . + + .
+pote caul          @hl . . + . + + . . + + + . . + . . . + . . +
+kern saxa          @hl + + + . + . . . r . + . . . . + . . . + .
+tris alpe          @hl 1 1 . . . + + . . + . r . + . . . . . . .
+camp prae          @hl . . + + + . . . . . . . . . . . . . . . 1
+hier bifi          @hl . . r r + . . . . . . . . . . . . . . + .
+camp coch          @hl 1 + . . . . . . . . . . . . . . . . . . .
+care brac          @hl . . . 2 + . . . . . . . . . . . . . . . .
+
+atha cret          @hl 1 + 1 2 1 . . + + 1 1 + . . . . 1 + . 1 +
+thal minu slat     @hl . . r + + + 1 + 1 + + 1 . + . 1 . . . . .
+camp cesp          @hl . . . + . + + . + + . . + r . 2 . . + + .
+aspe neil          @hl . . 2 1 . . . . . + + 2 + 1 . . 1 . . . .
+leon hisp hyos     @hl . . . . . . . . . . . r + + . + . . + + .
+lina alpi alpi     @hl . . . . . . 1 1 1 . . . . . . . . . . . .
+aden alpi          @hl . . . + . . . . . . . . . . . . . + . . .
+aëth saxa          @hl . . . . . . . . . . . . r r . . . . . . .
+gali meli          @hl . . . . . . + . + . . . . . . . . . . . .
+sedu atra atra     @hl . . . . . + . . . . . . . . . + . . . . .
+
+teuc mont          @hl . . 1 + . + 2 2 2 1 2 2 2 2 2 + 1 + + 1 1
+thym prae slat     @hl 1 . + . . + + . . + + 2 + + 1 . 1 + + . 2
+alli lusi          @hl . . + + + . + + + + . . + + + + + . + . +
+sese aust          @hl . . . . . r + . 1 . . . . + + + + + + + 1
+anth ramo          @hl . . + + + . + . 1 + . . . + + . . . . + 1
+anth vuln slat     @hl . . . . . . + + + . + . . . + . . . . . .
+cent scab slat     @hl . . + . . . . . r . . . . + . . . . . . +
+gali pumi          @hl . . + . . . . . . . . . . . . . + . . . .
+viol coll          @hl . . + . . . . . . . . . . . . + . . . . .
+carl acau slat     @hl . . . . . . . . + . . 1 . . . . . . . . .
+
+leon inca          @hl . . + + . . + + + . . + + . . . . + + + +
+poly cham          @hl + . 2 + . r . . . . . . 1 . + + . . . . 2
+amel oval          @hl . . . . . . r . . . . . . . . + . . . . r
+eric carn          @hl + . . . . . . . + . . . . . . . . . . . .
+crep alpe          @hl . . . . . . . . . . . . . . . . . . + 1 .
+
+linu cath          @hl 1 . . + . + + + . . . + + . + + . . . . .
+lotu corn          @hl . . + + . + . . + . . . + . + . + . . + .
+
+sedu albu          @hl . . . . . . . . + . 2 . . . + + . . + + .
+gent aust          @hl . . . . . + + . + . . + + . . . . . . . .
+poly odor          @hl . . . . . . . . r r . . . . . r . r + . .
+viol hirt          @hl . . . . . . . . . . + . . + . . . + . + .
+bupl falc falc     @hl . . + r 1 . . . . . . . . . . . . . . . .
+
+tort tort          @ml . + + + . + 1 2 2 + 2 . + 1 2 + + . + 1 +
+homa seri          @ml . + 2 + + . . . . . . . . . . . + + . + .
+schi apoc          @ml . . + . . . + + . . . . . + + . 1 . . . +
+clad pyxi          @ml . . . . . . . 1 2 + . . . + 2 . . . . . .
+ditr flex          @ml . + . . . . . + . . . . . . 1 . . . . . .
+rhyt rugo          @ml . . . . . . . . + . . . . . 1 . . . . . .
+neck cris          @ml . . . . 1 . . . . . . . . . . . . + . . .
+
+END TABLE
