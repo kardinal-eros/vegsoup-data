@@ -1,4 +1,4 @@
-plot,latitude,longitude,accuracy,location,date,cov,elevation,aspect,slope,remarks
+plot,latitude,longitude,accuracy,location,date,cov,elevation,expo,slope,remarks
 1,46.971581,10.061559,30,Herrabühl ,2004-09-06,100,1090,SSW,60,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis) unter felsigem Abhang, Steine bis ca. 20 cm im Durchmesser"
 2,46.971669,10.061669,30,Herrabühl ,2004-09-06,95,1110,SSW,70,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), Steine bis ca. 20 cm im Durchmesser "
 3,46.971949,10.061918,30,Herrabühl ,2004-09-06,95,1150,SSW,60,"stabilisierte Silikat-Schutthalde (Amphibolit, Gneis), einzelne Steine bis ca. 40 cm im Durchmesser, aber überwiegend wesentlich kleiner"
