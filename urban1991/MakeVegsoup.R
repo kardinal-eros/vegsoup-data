@@ -44,9 +44,12 @@ obj$hhl2 <- a$"KG.Höhe..cm." / 100
 obj$hcov <- a$"Deckung.KG...."
 obj$mcov <- a$"MP"
 
-
 #	unique rownames
 rownames(obj) <- paste(key, "Tab3", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
+
+#	assign alliance
+obj$alliance.code <- "THL-05C"
+obj$alliance <- "Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950"
 
 #	order layer
 layers(obj)	 <- c("hl")

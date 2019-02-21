@@ -37,6 +37,10 @@ rownames(obj) <- paste(key, "Tab2", sprintf("%01d", as.numeric(rownames(obj))), 
 #	order layers
 layers(obj) <- c("hl", "ml")
 
+#	assign alliance
+obj$alliance.code <- "SES-01A"
+obj$alliance <- "Seslerion caeruleae Br.-Bl. in Br.-Bl. et Jenny 1926"
+
 #	assign result object
 assign(key, obj)
 

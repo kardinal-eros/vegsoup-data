@@ -30,6 +30,10 @@ rownames(obj) <- paste(key, "Tab4", sprintf("%02d", as.numeric(rownames(obj))), 
 #	order layer
 layers(obj)	 <- c("hl")
 
+#	assign alliance
+obj$alliance.code <- "THL-05C"
+obj$alliance <- "Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950"
+
 #	assign result object
 assign(key, obj)
 

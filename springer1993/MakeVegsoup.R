@@ -48,6 +48,10 @@ obj$pls <- df.attr$"Aufnahmeflache..m."
 #	unique rownames
 rownames(obj) <- paste(key, "Tab14", sprintf("%01d", as.numeric(rownames(obj))), sep = ":")
 
+#	assign alliance
+obj$alliance.code <- "GER-02A"
+obj$alliance <- "Geranion sanguinei Tx. in T. Müller 1962"
+
 #	assign result object
 assign(key, obj)
 

@@ -48,6 +48,10 @@ obj$pls <- "Aufnahmefläche.in.qm"
 #	unique rownames
 rownames(obj) <- paste(key, "Tab3", sprintf("%01d", as.numeric(rownames(obj))), sep = ":")
 
+#	assign alliance
+obj$alliance.code <- "THL-05C"
+obj$alliance <- "Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950"
+
 #	assign result object
 assign(key, obj)
 

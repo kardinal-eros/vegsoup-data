@@ -14,4 +14,4 @@ Orobanche teucrii                     +
 Teucrium montanum                     1  
 Vincetoxicum hirundinaria             1  
  
-x: 11.24448, y: 47.59513, accuracy: 200, date: 2001-09-01, elevation: 1160, gridcell: 8433/1, hcov: 60, locality: Kocheler Berge, Hirschberg Südabfall, Rauhgrashalde, richness: 14
+x: 11.24448, y: 47.59513, accuracy: 200, date: 2001-09-01, elevation: 1160, gridcell: 8433/1, hcov: 60, locality: Kocheler Berge, Hirschberg Südabfall, Rauhgrashalde, alliance.code: THL-05C, alliance: Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950, richness: 14

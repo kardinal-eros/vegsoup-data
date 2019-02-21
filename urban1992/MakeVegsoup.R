@@ -44,6 +44,10 @@ obj$hcov <- a$"Kraut.Gras.Deckung...."
 #	unique rownames
 rownames(obj) <- paste(key, "Tab2", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
 
+#	assign alliance
+obj$alliance.code <- "THL-05C"
+obj$alliance <- "Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950"
+
 #	order layer
 layers(obj)	 <- c("hl", "ml")
 

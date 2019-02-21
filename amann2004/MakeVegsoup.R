@@ -25,6 +25,10 @@ rownames(obj) <- paste(key, "Tab2", sprintf("%02d", as.numeric(rownames(obj))), 
 #	order layer
 layers(obj)	 <- c("hl")
 
+#	assign alliance
+obj$alliance.code <- "THL-07A"
+obj$alliance <- "Galeopsion Oberd. 1957"
+
 #	assign result object
 assign(key, obj)
 

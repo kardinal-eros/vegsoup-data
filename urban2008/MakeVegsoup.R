@@ -19,6 +19,10 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 # promote to class "Vegsoup"
 obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
 
+#	assign alliance
+obj$alliance.code <- "THL-05C"
+obj$alliance <- "Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950"
+
 #	assign result object
 assign(key, obj)
 
