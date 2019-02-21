@@ -3,5 +3,4 @@
 85: Helianthemum grandiflorum +, Hieracium valdepilosum +, Hieracium schultesii +
 86: Hieracium schultesii +, Valeriana collina r
 88: Carex mucronata +, Hypericum maculatum +, Chrysanthemum leucanthemum +, Juncus monanthos +, Potentilla erecta +
-89: Saxifraga rotundifolia +, Adenostyles alliariae 1, Lonicera alpigena +, Hieracium incisum +, Impatiens noli-tangere +, Stellaria nemorum +, Senecio nemorensis ssp. fuchsii +, Deschampsia cespitosa r, Hieracium schultesii r, Alchemilla hoppeana r, Geranium sylvaticum r
 90: Achillea clavenae 1, Linum catharticum +, Lamium maculatum +, Sedum atratum +, Senecio nemorensis ssp. fuchsii r

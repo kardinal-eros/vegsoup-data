@@ -32,7 +32,7 @@ orig vulg        @hl   +            .            +            2            +    
 care flac        @hl   +            +            +            +            .            1            .            .            .            .            .            .
 sile vulg glar   @hl   +            +            .            1            .            .            .            .            1            1            .            +
 teuc cham        @hl   +            .            +            +            +            .            .            +            .            .            +            +
-thym serp        @hl   .            +            .            .            +            .            .            +            +            +            +            +
+thym prae slat   @hl   .            +            .            .            +            .            .            +            +            +            +            +
 dact glom glom   @hl   1            +            .            1            .            .            .            +            .            .            .            .
 merc pere        @hl   .            +            .            +            +            .            .            .            .            +            .            .
 clin vulg vulg   @hl   .            +            .            +            +            .            .            +            .            .            .            +
