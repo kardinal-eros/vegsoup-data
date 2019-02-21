@@ -1,24 +1,24 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "~/Documents/vegsoup-data/lippert1996"
+path <- "~/Documents/vegsoup-data/lippert1966"
 key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 
 #	read digitized table 
-file <- file.path(path, "Lippert1996Tab3taxon2standard.txt")
+file <- file.path(path, "Lippert1966Tab3taxon2standard.txt")
 x <- xx <- read.verbatim(file, "Nr. d. Aufnahme", layers = "@", vertical = FALSE)
 
 X0 <- species(x)[, 1:4]
 
 #	and footer taxa
-file <- file.path(path, "Lippert1996Tab3Footer species.csv")
+file <- file.path(path, "Lippert1966Tab3Footer species.csv")
 X1 <- species(file, sep = ",")[, 1:4]
 
 X <- bind(X0, X1)
 
 
 #   sites data including coordinates
-file <- "~/Documents/vegsoup-data/lippert1996/Lippert1996Tab3Locations.csv"
+file <- "~/Documents/vegsoup-data/lippert1966/Lippert1966Tab3Locations.csv"
 Y <- stackSites(file = file, sep =",")
 
 # taxonomy reference list

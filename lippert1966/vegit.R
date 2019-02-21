@@ -2,10 +2,10 @@ library(vegit)
 library(linktaxa)
 library(vegsoup)
 
-setwd("~/Documents/vegsoup-data/lippert1996")
+setwd("~/Documents/vegsoup-data/lippert1966")
 
 #	match taxa
-file <- "Lippert1996Tab3"
+file <- "Lippert1966Tab3"
 x <- paste0(file, ".csv")
 csv2txt(x,  header.rows = 7, vertical = FALSE, width = 5, overwrite = FALSE)
 x <- readLines(paste0(file, ".txt"))
