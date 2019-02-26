@@ -1,0 +1,38 @@
+BEGIN HEAD
+Nr. der Aufnahme                        1     2     3     4     5     6     7     8     9
+Größe der Aufnahmefläche in qm.        20    50   100    50    40    10    50    50    50
+Seehöhe, Meter ü. Meer               1600  1600  1600  1650  1700  1720  1730  1800  1830
+Himmelslage                             N     N     S    NO     W     N     W     N    NW
+Neigung in Graden                      10    35    20    30    35    30    35    40    35
+Approx. Schneedauer in Monaten          7     7     6     6     6     8     6     8     6
+Deckungsgrad in %                      20    10    15    10    30    20    15     2    15
+END HEAD
+
+BEGIN TABLE
+sile vulg glar                   @hl    2     2     3     2     +     1     3     2     2
+rume scut                        @hl    2     2     1     +     1     1     2     1     2
+fest laxa                        @hl    2     1     1     1     2     +     +     1     1
+atha cret                        @hl    +     .     .     +     1     .     1     .     1
+scro jura                        @hl    +     .     .     .     .     .     .     .     .
+
+poa mino                         @hl    +     +     .     +     .     +     .     +     .
+ranu hybr                        @hl    .     .     +     +     .     .     .     .     +
+lina alpi alpi                   @hl    .     .     .     .     .     +     .     +     +
+vale mont                        @hl    .     .     .     +     .     .     .     .     .
+junc mona                        @hl    +     .     .     .     .     .     .     .     .
+
+cera cari aust                   @hl    +     .     +     1     +     2     +     1     1
+nocc rotu rotu                   @hl    .     1     .     .     1     1     .     .     1
+moeh cili                        @hl    +     +     +     .     .     +     .     +     .
+
+camp coch                        @hl    +     .     .     1     +     .     .     +     .
+gymn robe                        @hl    +     +     +     .     .     .     .     .     .
+tris arge                        @hl    .     +     1     .     .     .     .     .     2
+aden alpi                        @hl    .     +     .     .     .     .     +     .     .
+achi atra                        @hl    .     .     +     .     .     +     .     .     .
+arab alpi alpi                   @hl    .     .     .     .     .     +     .     .     .
+
+achi clav                        @hl    .     .     +     .     1     .     1     .     +
+paed lute                        @hl    +     1     .     .     .     .     .     .     .
+bisc laev laev                   @hl    +     4     .     +     .     .     .     .     .
+END TABLE

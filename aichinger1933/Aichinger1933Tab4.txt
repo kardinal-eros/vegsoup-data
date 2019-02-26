@@ -1,0 +1,35 @@
+Nr. der Aufnahme                      1     2     3     4     5     6     7     8     9
+
+Größe der Aufnahmefläche in qm.      20    50   100    50    40    10    50    50    50
+Seehöhe, Meter ü. Meer             1600  1600  1600  1650  1700  1720  1730  1800  1830
+Himmelslage                           N     N     S    NO     W     N     W     N    NW
+Neigung in Graden                    IO    35    20    30    35    30    35    40    35
+Approx. Schneedauer in Monaten        7     7     6     6     6     8     6     8     6
+Deckungsgrad in %                    20    10    15    10    30    20    15     2    15
+                                                                                       
+Silene alpina                         2     2     3     2     +     1     3     2     2
+Rumex scutatus                        2     2     1     +     1     1     2     1     2
+Festuca laxa                          2     1     1     1     2    +      +     1     1
+Athamanta cretensis                   +     .     .     +     1     .     1     .     1
+Scrophularia Hoppei                   +     .     .     .     +     +     +     +     *
+                                                                                       
+Poa minor                             +     +     .     +     .     +     .     +     .
+Ranunculus hybridus                   3     .     +     +     .     .     .     .     +
+Linaria alpina                        .     .     .     .     .     +     .     +     +
+Valeriana montana                     .     .     .     +     .     .     .     .     .
+Juncus monanthos                      +     .     .     .     .     .     .     .     .
+                                                                                       
+Cerastium carinthiacum                +     1     +     1     +     2     +     1     1
+Thlaspi rotundifolium                 .     1     .     .     1     1     .     .     1
+Moehringia ciliata                    +     +     +     .     +     +     .     +     +
+                                                                                       
+Campanula cochleariifolia             +     .     .     1     +     .     .     +     .
+Dryopteris Robertiana                 +     +     +     .     .     .     .     .     .
+Trisetum argenteum                    .     +     I     .     .     .     .     .     2
+Adenostyles glabra                    .     +     .     .     .     .     +     .     .
+Achillea atrata                       1     .     +     .     .     +     .     .     .
+Arabis alpina                         .     .     .     .     .     +     .     .     .
+                                                                                       
+Achillea clavenae                     .     .     +     .     1     .     1     .     +
+Veronica lutea                        +     1     .     .     .     .     .     .     1
+Biscutella laevigata                  +     4     .     +     1     .     .     +     +
