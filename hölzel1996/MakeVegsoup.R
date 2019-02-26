@@ -49,7 +49,7 @@ obj$mcov <- a$"Deckung.der.Moosschicht...."
 rownames(obj) <- paste(key, "Tab3", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
 
 #	order layer
-layers(obj)	 <- c("hl", "sl")
+layers(obj)	 <- c("sl", "hl", "ml")
 
 #	assign alliance
 obj$alliance.code <- "THL-05C"

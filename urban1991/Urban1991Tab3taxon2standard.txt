@@ -63,7 +63,7 @@ care flac                         @hl   .   .   .   +   +   1
 buph sali                         @hl   .   .   .   1   1   1
 care orni orni                    @hl   .   .   .   +   +   +
 lotu corn                         @hl   .   +   .   .   +   1
-tort tort                         @hl   .   .   .   +   +   1
+tort tort                         @ml   .   .   .   +   +   1
 gali anis                         @hl   .   +   +   +   .   .
 chen albu slat                    @hl   1   +   +   .   .   .
 inul cony                         @hl   +   +   .   .   .   .

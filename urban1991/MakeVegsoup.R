@@ -52,7 +52,7 @@ obj$alliance.code <- "THL-05C"
 obj$alliance <- "Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950"
 
 #	order layer
-layers(obj)	 <- c("hl")
+layers(obj)	 <- c("hl", "ml")
 
 #	assign result object
 assign(key, obj)

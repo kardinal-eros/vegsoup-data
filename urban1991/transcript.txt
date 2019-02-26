@@ -82,7 +82,6 @@ Potentilla caulescens ssp. caulescens          ...+.+
 Salvia glutinosa                               ...+..
 Saxifraga paniculata                           ...+..
 Senecio ovatus ssp. ovatus                     ...+..
-Tortella tortuosa                              ...++1
 Anthericum ramosum                             ....22
 Aquilegia atrata                               ....21
 Arabidopsis arenosa                            ....11
@@ -109,4 +108,5 @@ Sesleria caerulea s.str.                       ....+.
 Taxus baccata                                  ....++
 Hieracium murorum                              .....+
 Polygonatum odoratum                           .....+
+Tortella tortuosa                           ml ...++1
 END TABLE

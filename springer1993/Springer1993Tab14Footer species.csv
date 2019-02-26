@@ -1,5 +1,5 @@
 plot,abbr,layer,cov
-1,sile vulg slat,hl,+
+1,sile vulg vulg,hl,+
 1,gali sylv,hl,+
 1,camp trac,hl,+
 1,euph sali,hl,+
@@ -15,7 +15,7 @@ plot,abbr,layer,cov
 3,beto offi offi,hl,+
 3,glob nudi,hl,+
 4,gali anis,hl,+
-4,sile vulg slat,hl,+
+4,sile vulg vulg,hl,+
 4,rume scut,hl,+
 4,hera aust aust,hl,+
 4,pimp majo slat,hl,+
