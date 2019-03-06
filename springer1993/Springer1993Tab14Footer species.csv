@@ -28,7 +28,7 @@ plot,abbr,layer,cov
 6,verb thap,hl,+
 6,gent cili,hl,+
 6,cent scab slat,hl,+
-6,sile nuta slat,hl,+
+6,sile nuta nuta,hl,+
 6,cent jace slat,hl,+
 6,pimp majo slat,hl,+
 7,fagu sylv,hl,+
@@ -52,14 +52,14 @@ plot,abbr,layer,cov
 12,trif mont mont,hl,+
 12,linu visc,hl,1
 12,leon inca,hl,+
-13,sile nuta slat,hl,+
+13,sile nuta nuta,hl,+
 13,leon inca,hl,+
 13,glob nudi,hl,+
 14,trif mont mont,hl,+
 14,hier saba,hl,+
 14,aspe cyna,hl,1
 14,ceph rubr,hl,+
-14,astr majo,hl,+
+14,astr majo majo,hl,+
 14,brom erec,hl,+
 14,popu trem,hl,+
 14,mela sylv,hl,+
