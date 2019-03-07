@@ -38,7 +38,7 @@ rownames(df.attr) <- colnames(x)
 df.attr <- df.attr[match(rownames(obj), rownames(df.attr)), ] 
 
 # give names and assign variables
-obj$elevation <- df.attr$"Höhe.in.10.m"
+obj$elevation <- df.attr$"Höhe.in.10.m" * 10
 obj$expo <- as.character(df.attr$Exposition)
 obj$slope <- df.attr$"Neigung.in.Grad"
 obj$cov <- obj$hcov <- df.attr$"Bodenbedeckung.in.."

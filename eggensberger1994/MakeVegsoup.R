@@ -33,7 +33,7 @@ a <- a[match(rownames(obj), rownames(a)), ]
 obj$pls <- NA
 obj$expo <- as.character(a$Exposition)
 obj$slope <- a$"Inklination...."
-obj$elevation <- a$"Höhe..x.10.m."
+obj$elevation <- a$"Höhe..x.10.m." * 10
 obj$hcov <- a$"Deckung.....KG"
 
 #	unique rownames

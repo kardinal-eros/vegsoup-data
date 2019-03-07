@@ -8,6 +8,7 @@ accuracy                                            1
 elevation                                           1
                                                889992
                                                000255
+                                               000000
                                                      
 slope                                          433443
                                                055000

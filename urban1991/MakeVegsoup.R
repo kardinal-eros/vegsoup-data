@@ -38,7 +38,7 @@ a <- a[match(rownames(obj), rownames(a)), ]
 obj$pls <- a$"Fläche..m2."
 obj$expo <- as.character(a$Exposition)
 obj$slope <- a$"Inklination...."
-obj$elevation <- a$"Höhe..m...x10."
+obj$elevation <- a$"Höhe..m...x10." * 10
 
 obj$hhl2 <- a$"KG.Höhe..cm." / 100
 obj$hcov <- a$"Deckung.KG...."

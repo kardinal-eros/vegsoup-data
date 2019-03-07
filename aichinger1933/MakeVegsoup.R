@@ -6,7 +6,7 @@ key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 
 #	read prepared digitized table
 file <- file.path(path, "Aichinger1933Tab4taxon2standard.txt")
-x <- xx <- read.verbatim(file, "Nr. der Aufnahme", layers = "@", vertical = FALSE)
+x <- read.verbatim(file, "Nr. der Aufnahme", layers = "@", vertical = FALSE)
 
 X0 <- species(x)[, 1:4]
 
@@ -26,6 +26,13 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 
 # promote to class "Vegsoup"
 obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")
+
+#	assign header data
+obj$pls <- header(x)$"Größe.der.Aufnahmefläche.in.qm."
+obj$elevation <- header(x)$"Seehöhe..Meter.ü..Meer"
+obj$expo <- header(x)$Himmelslage
+obj$slope <- header(x)$"Neigung.in.Graden"
+obj$cov <- header(x)$"Deckungsgrad.in.."
 
 #	unique rownames
 rownames(obj) <- paste(key, "Tab4", sprintf("%01d", as.numeric(rownames(obj))), sep = ":")

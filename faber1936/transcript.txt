@@ -90,7 +90,6 @@ Prenanthes purpurea                     ..+.....
 Arrhenatherum elatius                   ...+.1..
 Valeriana officinalis s.lat.            ...+.211
 Angelica sylvestris ssp. sylvestris     ...+.1++
-Rhodobryum roseum                       ....+.++
 Campanula cochleariifolia               .......1
 Saxifraga rosacea ssp. rosacea          .......2
 Aconitum lycoctonum s.lat.              .......+
@@ -107,5 +106,6 @@ Neckera crispa                          ..+.....
 Scleropodium purum                      ...+.2..
 Eurhynchium striatum                    ....+...
 Thuidium tamariscinum                   ....+..+
+Rhodobryum roseum                       ....+.++
 Pleurozium schreberi                    .....1..
 END TABLE

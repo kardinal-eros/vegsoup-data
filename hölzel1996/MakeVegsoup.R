@@ -39,7 +39,7 @@ obj$pls <- 16 # page 13 in publication states areas between 10 and 25 m^2 for gr
 
 obj$expo <- compass(a$"Exposition")
 obj$slope <- a$"Hangneigung..Grad."
-obj$elevation <- a$"Meereshöhe..10m."
+obj$elevation <- a$"Meereshöhe..10m." * 10
 
 obj$hcov <- a$"Deckung.der.Krautschicht...."
 obj$scov <- a$"Deckung.der.Strauchschicht...."

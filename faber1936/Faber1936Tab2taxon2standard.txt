@@ -73,7 +73,7 @@ rhyt triq      @ml .     .     +     .     3     2     1     1
 
 thui tama      @ml .     .     .     .     +     .     .     +
 
-rhod rose um   @hl .     .     .     .     +     .     +     +
+rhod rose um   @ml .     .     .     .     +     .     +     +
 cten moll slat @ml .     .     +     .     2     .     +     .
 neck cris      @ml .     .     +     .     .     .     .     .
 plag nium undu @ml .     +     .     .     .     .     .     +
