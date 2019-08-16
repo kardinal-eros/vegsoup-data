@@ -1,0 +1,94 @@
+BEGIN HEAD
+plot                                       mmmmm
+                                           mmmmm
+                                           00000
+                                           12345
+accuracy                                   11115
+                                           00000
+                                                
+bare                                       00000
+                                                
+cov                                        11111
+                                           00000
+                                           00000
+                                                
+hcov                                       11111
+                                           00000
+                                           00000
+                                                
+hhl1                                       1111 
+                                           .... 
+                                           43330
+                                                
+hhl2                                        11  
+                                            ..  
+                                           11410
+                                                
+hsl                                        00000
+                                                
+htl1                                       00000
+                                                
+htl2                                       00000
+                                                
+mcov                                       11110
+                                                
+plsx                                       44445
+                                                
+plsy                                       44445
+                                                
+rock                                       00000
+                                                
+scov                                       00000
+                                                
+slope                                      00000
+                                                
+stones                                     00000
+                                                
+t1cov                                      00000
+                                                
+t2cov                                      00000
+                                                
+richness                                   11111
+                                           60456
+                                                
+END HEAD
+BEGIN TABLE
+Carex paniculata ssp. paniculata        hl 22.3.
+Cirsium arvense                            11+2.
+Cirsium oleraceum                          2.2r.
+Elytrigia repens                           +....
+Festuca rubra                              +....
+Filipendula ulmaria                        211.1
+Galium album s.str.                        21+2.
+Geum rivale                                +..r+
+Lathyrus pratensis ssp. pratensis          +....
+Lysimachia vulgaris                        2212.
+Lythrum salicaria                          +212.
+Phalaris arundinacea                       3354.
+Scirpus sylvaticus                         22.+.
+Scrophularia nodosa                        +....
+Valeriana officinalis ssp. officinalis     1.+1.
+Vicia cracca s.str.                        +.+1.
+Carex acutiformis                          .4...
+Deschampsia cespitosa                      .r..+
+Caltha palustris                           ..+1.
+Galeopsis tetrahit s.str.                  ..1..
+Juncus effusus ssp. effusus                ..r..
+Mentha longifolia                          ..+..
+Urtica dioica ssp. dioica                  ..+..
+Angelica sylvestris ssp. sylvestris        ...r1
+Carex hirta                                ...+.
+Phleum pratense s.str.                     ...r.
+Carex flava agg.                           ....1
+Carex pallescens                           ....1
+Carex panicea                              ....2
+Galium uliginosum                          ....+
+Lychnis flos-cuculi                        ....+
+Molinia caerulea s.str.                    ....3
+Myosotis palustris agg.                    ....+
+Potentilla erecta                          ....2
+Ranunculus acris ssp. acris                ....+
+Ranunculus auricomus agg.                  ....1
+Trollius europaeus                         ....+
+Valeriana dioica                           ....1
+END TABLE
