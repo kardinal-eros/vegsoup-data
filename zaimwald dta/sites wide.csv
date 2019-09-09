@@ -1,19 +1,19 @@
 plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
-zw01;97;15;80;7;12;1;28;20;5;0,3;0,1;16;16;N;10;3;0;0;2019-08-05;13.513900;47.391533;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw02;98;0;97;6;7;8;0;15;5;0,3;0,1;16;16;NW;20;8;0;0;2019-08-05;13.514373;47.391591;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw03;95;0;0;0;95;1;0;0;0;0,9;0,1;4;4;NW;40;0;0;20;2019-08-05;13.514340;47.391861;10;Arrhenatherion elatioris Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw04;97;0;95;15;10;4;0;13;5;0,4;0,1;16;16;N;15;0;0;0;2019-08-05;13.515427;47.392070;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw05;98;18;93;4;2;25;22;15;5;0,3;0,1;16;16;N;20;25;0;0;2019-08-05;13.514933;47.391964;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw06;98;85;0;35;65;3;18;0;6;0,6;0,1;16;16;N;3;0;0;0;2019-08-05;13.515986;47.392478;10;undetermined;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw07;95;85;0;20;60;3;18;0;6;0,5;0,1;16;16;N;20;0;0;0;2019-08-05;13.516465;47.392495;10;undetermined;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw08;92;0;15;10;60;40;0;6;3;0,9;0,1;16;16;N;15;0;0;8;2019-08-05;13.516722;47.392767;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw09;99;0;15;8;85;55;0;6;3;0,9;0,1;16;16;N;15;0;0;1;2019-08-05;13.517210;47.392825;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw10;98;0;85;15;60;35;0;8;4;0,8;0,1;32;8;N;35;0;0;0;2019-08-05;13.517665;47.392416;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw11;99;0;20;10;95;60;0;6;3;0,7;0,1;16;16;N;30;0;0;0;2019-08-05;13.517695;47.392618;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw12;98;0;93;12;70;5;0;8;4;0,6;0,1;32;8;N;20;0;0;0;2019-08-05;13.518749;47.393060;10;undetermined;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw13;99;0;12;8;95;40;0;6;3;1;0,1;16;16;N;35;0;0;0;2019-08-05;13.519017;47.392880;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw14;99;0;15;7;97;50;0;7;3;0,6;0,1;16;16;N;35;0;0;0;2019-08-05;13.519591;47.393159;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw15;16;0;0;1;15;0;0;0;1,5;0,5;0,1;4;4;N;35;0;0;100;2019-08-05;13.520277;47.393226;10;Petasition paradoxi Zollitsch ex Lippert 1966;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw16;18;0;0;0;18;0;0;0;0;0,9;0,1;4;4;N;40;0;0;100;2019-08-05;13.520268;47.393332;10;Petasition paradoxi Zollitsch ex Lippert 1966;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw17;99;0;98;2;7;1;0;8;3;0,3;0,1;16;16;N;20;0;0;0;2019-08-05;13.515384;47.392521;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
-zw18;99;98;0;0;2;15;15;0;0;0,3;0,1;16;16;N;35;0;0;0;2019-08-05;13.515116;47.392397;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw01;97;15;80;7;12;1;28;20;5;0,3;0,1;16;16;N;10;3;0;0;2019-08-05;47.391533;13.513900;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw02;98;0;97;6;7;8;0;15;5;0,3;0,1;16;16;NW;20;8;0;0;2019-08-05;47.391591;13.514373;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw03;95;0;0;0;95;1;0;0;0;0,9;0,1;4;4;NW;40;0;0;20;2019-08-05;47.391861;13.514340;10;Arrhenatherion elatioris Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw04;97;0;95;15;10;4;0;13;5;0,4;0,1;16;16;N;15;0;0;0;2019-08-05;47.392070;13.515427;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw05;98;18;93;4;2;25;22;15;5;0,3;0,1;16;16;N;20;25;0;0;2019-08-05;47.391964;13.514933;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw06;98;85;0;35;65;3;18;0;6;0,6;0,1;16;16;N;3;0;0;0;2019-08-05;47.392478;13.515986;10;undetermined;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw07;95;85;0;20;60;3;18;0;6;0,5;0,1;16;16;N;20;0;0;0;2019-08-05;47.392495;13.516465;10;undetermined;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw08;92;0;15;10;60;40;0;6;3;0,9;0,1;16;16;N;15;0;0;8;2019-08-05;47.392767;13.516722;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw09;99;0;15;8;85;55;0;6;3;0,9;0,1;16;16;N;15;0;0;1;2019-08-05;47.392825;13.517210;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw10;98;0;85;15;60;35;0;8;4;0,8;0,1;32;8;N;35;0;0;0;2019-08-05;47.392416;13.517665;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw11;99;0;20;10;95;60;0;6;3;0,7;0,1;16;16;N;30;0;0;0;2019-08-05;47.392618;13.517695;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw12;98;0;93;12;70;5;0;8;4;0,6;0,1;32;8;N;20;0;0;0;2019-08-05;47.393060;13.518749;10;undetermined;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw13;99;0;12;8;95;40;0;6;3;1;0,1;16;16;N;35;0;0;0;2019-08-05;47.392880;13.519017;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw14;99;0;15;7;97;50;0;7;3;0,6;0,1;16;16;N;35;0;0;0;2019-08-05;47.393159;13.519591;10;Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw15;16;0;0;1;15;0;0;0;1,5;0,5;0,1;4;4;N;35;0;0;100;2019-08-05;47.393226;13.520277;10;Petasition paradoxi Zollitsch ex Lippert 1966;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw16;18;0;0;0;18;0;0;0;0;0,9;0,1;4;4;N;40;0;0;100;2019-08-05;47.393332;13.520268;10;Petasition paradoxi Zollitsch ex Lippert 1966;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw17;99;0;98;2;7;1;0;8;3;0,3;0,1;16;16;N;20;0;0;0;2019-08-05;47.392521;13.515384;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
+zw18;99;98;0;0;2;15;15;0;0;0,3;0,1;16;16;N;35;0;0;0;2019-08-05;47.392397;13.515116;10;Fagion sylvaticae Luquet 1926;;;;Oberer Zaimwald;T. Eberl & R. Kaiser
