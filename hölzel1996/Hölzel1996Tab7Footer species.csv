@@ -8,12 +8,12 @@ plot,abbr,layer,cov
 262,hier glau cum,hl,1
 262,kern saxa,hl,2
 262,meli nuta,hl,+
-262,schi apoc,hl,+
+262,schi apoc,ml,+
 264,aspl ruta,hl,+
 264,gymn robe,hl,1
 264,meli nuta,hl,1
 264,rubu saxa,hl,+
-264,schi apoc,hl,+
+264,schi apoc,ml,+
 264,sorb aria,hl,+
 264,thal minu saxa,hl,+
 289,chlo stat,hl,1
@@ -40,4 +40,4 @@ plot,abbr,layer,cov
 377,samb race,hl,+
 377,verb spec ies,hl,+
 377,samb race,sl,+
-378,hypn cupr lacu,hl,+
+378,hypn cupr lacu,ml,+
