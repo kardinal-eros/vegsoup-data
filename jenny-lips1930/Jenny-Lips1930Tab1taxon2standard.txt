@@ -9,7 +9,7 @@ gale angu        @hl   +            +            +            .            .    
 rese lute        @hl   .            +            .            +            .            .            .            .            .            .            .            .
 scro cani        @hl   .            +            .            .            .            .            .            +            .            .            .            .
 epil dodo        @hl   .            .            .            .            .            .            .            .            .            .            1            .
-cala nepe        @hl   .            .            .            .            .            .            .            .            .            .            1            .
+clin nepe        @hl   .            .            .            .            .            .            .            .            .            .            1            .
 
 gyps repe        @hl   1            +            1            +            .            .            .            +            .            .            .            +
 rume scut        @hl   .            +            2            .            .            .            .            .            1            +            .            .
