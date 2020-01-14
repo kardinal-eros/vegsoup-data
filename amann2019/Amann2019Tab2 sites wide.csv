@@ -1,0 +1,4 @@
+plot,latitude,longitude,accuracy,location,pls,date,cov,hcov,scov,mcov,elevation,expo,remarks
+V-002,47.17100,9.59689,200,"Rätikon, Saminatal, rechts der Samina, zwischen Falleck und Vorgoppatobel, AUT",10,2016-08-04,70,70,0,0,860,WNW,"Steile kiesige Böschung zwischen Straße und Wildbach, künstlich entstanden, Böschung ist unten gegen den Wildbach durch große Blöcke gesichert"
+V-003,47.17100,9.59689,200,"Rätikon, Saminatal, rechts der Samina, zwischen Falleck und Vorgoppatobel, AUT",1,2016-08-04,70,70,0,0,860,WNW,"Kleiner Bestand an einer Schuttrinne ob der Straße, bildet Saum zwischen Wald und Schuttrinne"
+V-004,47.17100,9.59689,200,"Rätikon, Saminatal, rechts der Samina, zwischen Falleck und Vorgoppatobel, AUT",10,2016-08-04,50,50,0,0,860,WNW,"Kleine Rüfe, grobkiesig, steil"
