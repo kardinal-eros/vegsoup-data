@@ -14,7 +14,6 @@ file <- file.path(path, "species.csv")
 X <- species(file, sep = ",")#[, 1:4]
 
 file <- file.path(path, "sites wide.csv")
-
 #	promote to class "Sites"
 Y <- stackSites(file = file, sep = ",")
 
