@@ -2,7 +2,7 @@ library(vegsoup)
 require(bibtex)
 
 
-path <- "/Users/roli/Documents/vegsoup-data/talus slopes"
+path <- "/Users/roli/Documents/vegsoup-data/talus slopes dta"
 key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 
 #	cd '/Users/roli/Documents/vegsoup-data/talus slopes'
