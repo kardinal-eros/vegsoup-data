@@ -1,0 +1,146 @@
+BEGIN HEAD
+plot                                              aaaaaaaaaaa
+                                                  iiiiiiiiiii
+                                                  00000000011
+                                                  12345678901
+accuracy                                          55555555555
+                                                             
+cov                                                 11   1111
+                                                  99009990000
+                                                  99009690000
+                                                             
+expo                                              00000000000
+                                                             
+hcov                                              99999999999
+                                                  88998089780
+                                                             
+hhl1                                              1111 011110
+                                                  .... ......
+                                                  23231852126
+                                                             
+hhl2                                              00000000000
+                                                  ...........
+                                                  44554355442
+                                                             
+hsl                                               00000000000
+                                                             
+htl1                                              00000000000
+                                                             
+htl2                                              00000000000
+                                                             
+mcov                                              3113341 649
+                                                  05050005555
+                                                             
+plsx                                              44444444444
+                                                             
+plsy                                              44444444444
+                                                             
+scov                                              00000000000
+                                                             
+slope                                             00000000000
+                                                             
+t1cov                                             00000000000
+                                                             
+t2cov                                             00000000000
+                                                             
+richness                                          32222221432
+                                                  22043739235
+                                                             
+END HEAD
+BEGIN TABLE
+Aegopodium podagraria                          hl +1.........
+Arrhenatherum elatius                             11+..21....
+Calystegia sepium s.str.                          11+.+++..+.
+Carex brizoides                                   1.+241.5.4.
+Carex hirta                                       1..........
+Centaurea jacea ssp. jacea                        +....+.....
+Cerastium holosteoides                            +..+.++.+..
+Chaerophyllum hirsutum s.str.                     2.....+....
+Crepis biennis                                    11.+.12..+.
+Dactylis glomerata ssp. glomerata                 221+122111.
+Equisetum arvense                                 11.......+.
+Festuca rubra ssp. rubra                          1...+2..+1.
+Galium album s.str.                               +++++211+2.
+Geranium phaeum ssp. phaeum                       +..........
+Heracleum sphondylium ssp. sphondylium            12...12....
+Holcus lanatus                                    +.1+211231.
+Homalotrichon pubescens ssp. pubescens            2..++1...2.
+Lathyrus pratensis ssp. pratensis                 ++++111++1.
+Lotus corniculatus s.str.                         +....+.1.++
+Phleum pratense s.str.                            12212221+1.
+Pimpinella major var. major                       +........+.
+Poa trivialis                                     22222.21+2.
+Ranunculus acris ssp. acris                       +1+++++++++
+Rhinanthus alectorolophus ssp. alectorolophus     +......+...
+Rumex acetosa                                     +..+.++1...
+Rumex obtusifolius ssp. obtusifolius              +1.........
+Taraxacum sect. Ruderalia                         ++..r......
+Trifolium pratense ssp. pratense                  ++...2.....
+Trisetum flavescens ssp. flavescens               ++..+2...1.
+Veronica chamaedrys ssp. chamaedrys               ++...+.1+..
+Vicia cracca s.str.                               1.....+....
+Vicia sepium                                      11..1.1....
+Elytrigia repens                                  .2.........
+Mentha longifolia                                 .+.........
+Ranunculus repens                                 .+......+..
+Urtica dioica ssp. dioica                         .2....+....
+Alopecurus pratensis                              ..1+..3....
+Cardamine pratensis s.str.                        ..+.....+..
+Carex acutiformis                                 ..5......+.
+Carex randalpina                                  ..15.++..2.
+Equisetum palustre                                ..+++..++.1
+Filipendula ulmaria ssp. ulmaria                  ..222.++1++
+Geum rivale                                       ..+++..1++.
+Lythrum salicaria                                 ..+++...+.+
+Persicaria bistorta                               ..211.+222.
+Scirpus sylvaticus                                ..+.+...1..
+Anthoxanthum odoratum s.str.                      ...+11.222.
+Campanula patula                                  ...r.......
+Crepis paludosa                                   ...+2......
+Galium palustre ssp. palustre                     ...2....1..
+Poa pratensis                                     ...+.2.21..
+Festuca pratensis s.str.                          ....+...+1.
+Fallopia japonica                                 .....+.....
+Luzula multiflora s.str.                          .....+..++.
+Medicago lupulina                                 .....+.....
+Plantago lanceolata                               .....+..++.
+Galium aparine s.str.                             ......+....
+Glechoma hederacea                                ......+..+.
+Potentilla erecta                                 .......+1.2
+Agrostis stolonifera s.str.                       ........1..
+Carex echinata                                    ........+..
+Carex elata ssp. elata                            ........1+.
+Carex leporina                                    ........+..
+Carex pallescens                                  ........++.
+Carex paniculata ssp. paniculata                  ........+..
+Cirsium rivulare                                  ........1..
+Deschampsia cespitosa                             ........+..
+Eriophorum angustifolium                          ........+..
+Hypericum maculatum s.str.                        ........++.
+Juncus effusus ssp. effusus                       ........2.+
+Juncus filiformis                                 ........+..
+Molinia caerulea s.str.                           ........2.3
+Myosotis palustris agg.                           ........+..
+Stellaria graminea                                ........++.
+Trifolium repens ssp. repens                      ........+..
+Valeriana dioica                                  ........+.+
+Ajuga reptans                                     .........+.
+Betonica officinalis                              .........+.
+Cynosurus cristatus                               .........2.
+Angelica sylvestris ssp. sylvestris               ..........r
+Carex acuta                                       ..........2
+Carex flacca ssp. flacca                          ..........+
+Carex flava var. flava                            ..........1
+Carex nigra                                       ..........2
+Carex panicea                                     ..........2
+Cirsium oleraceum                                 ..........r
+Dactylorhiza majalis s.lat.                       ..........+
+Juncus articulatus                                ..........1
+Juncus inflexus                                   ..........+
+Linum catharticum                                 ..........+
+Lysimachia nummularia                             ..........1
+Mentha × verticillata s.str.                      ..........+
+Prunella vulgaris                                 ..........1
+Ranunculus sp.                                    ..........+
+Trifolium hybridum ssp. hybridum                  ..........+
+END TABLE
