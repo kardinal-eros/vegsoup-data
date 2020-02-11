@@ -21,7 +21,7 @@ coordinates(obj) <- ~longitude+latitude
 proj4string(obj) <- CRS("+init=epsg:4326")
 
 #	recode layer
-obj <- turboveglayers(obj, "hl") # no layer is herb layer
+obj <- turbovegLayers(obj, "hl") # no layer is herb layer
 
 #	assign result object
 assign(key, obj)

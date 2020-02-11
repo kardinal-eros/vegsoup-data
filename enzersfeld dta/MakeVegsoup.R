@@ -21,7 +21,7 @@ coordinates(obj) <- ~longitude+latitude
 proj4string(obj) <- CRS("+init=epsg:4326")
 
 #	recode layer
-obj <- turboveglayers(obj)
+obj <- turbovegLayers(obj)
 
 #	collapse layers
 obj <- layers(obj, collapse = c("hl", "hl"))
