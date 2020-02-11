@@ -31,9 +31,10 @@ proj4string(obj) <- CRS("+init=epsg:4326")
 
 #	assign result object
 key1 <- unique(sapply(key, gsub, pattern = "[0-9-]", replacement = ""))
-key2 <- paste(sapply(key, gsub, pattern = "[[:alpha:]]", replacement = ""), collapse = "-")
+key2 <- paste(sapply(key, gsub, pattern = "[[:alpha:]]", replacement = ""), collapse = "and")
 
 key <- paste0(key1, key2)
+
 assign(key, obj)
 
 #	richness

@@ -97,7 +97,9 @@ x <- x[ -match(ii, x) ]
 
 #	run update
 #	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.
+
 build = FALSE
+
 if (build) {
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {
 		cat(x, "\n")
@@ -107,7 +109,7 @@ if (build) {
 
 #	biblographic entities	
 x <- sapply(file.path(path, x), function (x) {
-	ReadBib(file.path(x, "references.bib"))	
+	read.bib(file.path(x, "references.bib"))	
 }, simplify = FALSE)
 
 #	write bibliography
@@ -126,12 +128,12 @@ a <- sapply(a, function (x) {
 
 #	load objects
 for (i in seq_along(f)) {
-	load(file.path(f[i], paste0(k[i], ".rda")))
-	ii <- get(k[i])
-	ii$key = k[i]
-	ii$author = a[i]
-	ii$title = n[i]
-	assign(k[i], ii)
+	load(file.path(f[ i ], paste0(k[ i ], ".rda")))
+	ii <- get(k[ i ])
+	ii$key = k[ i ]
+	ii$author = a[ i ]
+	ii$title = n[ i ]
+	assign(k[ i ], ii)
 }
 
 #	applied coverscales
@@ -140,6 +142,18 @@ sapply(sapply(mget(k), coverscale), slot, "name")
 #	compress and bind all objects
 l <- sapply(mget(k), function (x) compress(x, retain = c("author", "title", "accuracy", "observer")))
 X <- do.call("bind", l)
+
+#	summary for README.md
+src <- as.data.frame(table(X$author))
+names(src) <- c("author", "plots")
+
+rk <- grep("R Kaiser", src$author)
+te <- grep("T Eberl", src$author)
+
+rkte <- src[ unique(c(rk, te)), ]
+sum(rkte$plots)
+lit <- src[ -unique(c(rk, te)), ]
+sum(lit$plots)
 
 #	save to disk
 save(X, file = file.path(path, "mirror", "mirror.rda"))

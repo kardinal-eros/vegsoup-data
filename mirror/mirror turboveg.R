@@ -84,11 +84,11 @@ l <- sapply(mget(k), function (x) compress(x, retain = c("author"))) # retain = 
 X <- do.call("bind", l)
 
 #	save to disk
-save(X, file = file.path(path, "mirror", "mirror dev.rda"))
+save(X, file = file.path(path, "mirror", "mirror turboveg.rda"))
 
 #	write ESRI Shapefile
 x <- data.frame(coordinates(X), sites(X))
 coordinates(x) <- ~longitude + latitude
 proj4string(x) <- CRS("+init=epsg:4326")
 dsn <- file.path(path.expand(path), "mirror")
-writeOGR(x, dsn, "mirror dev", driver = "ESRI Shapefile", overwrite_layer = TRUE)
+writeOGR(x, dsn, "mirror turboveg", driver = "ESRI Shapefile", overwrite_layer = TRUE)
