@@ -4,27 +4,28 @@
 -->
 
 ```{r setup, include = TRUE, echo = FALSE, cache = FALSE}
-BibOptions(check.entries = FALSE, style = "markdown",
-cite.style = "draft", bib.style = "draft")
-
 library(vegsoup)
 library(RefManageR)
 
-path <- "~/Documents/vegsoup-data"
+BibOptions(check.entries = FALSE, style = "markdown",
+cite.style = "draft", bib.style = "draft")
 
+path <- "~/Documents/vegsoup-data"
 x <- list.files(path)
 
 ii <- c(
 #	other files
 	"CHANGES.md",
 	"README.md",
-	"README.png",	
+	"README.png",
 	"mirror",
-#	unfished data sets	
+	"givd",	
+#	unfished data sets
 	"dirnböck1999",
+	"brunner2011",
 	"dunzendorfer1980",
-	"ewald2013",
 	"greimler1996",
+	"greimler1997",
 	"grims1982",
 	"hohewand fence dta",
 	"hohewand transect dta",
@@ -34,22 +35,64 @@ ii <- c(
 	"pflugbeil2012",
 	"prebersee dta",
 	"ruttner1994",
+	"sobotik1998",
 	"schwarz1989",
 	"stadler1991",
 	"stadler1992",
-	"stadler2011",
 	"surina2004",
 	"urban1992",
 	"urban2008",
+	"urhamerberg dta",
+#	occurrence plots only
+	"alt ems dta",
+	"adnet dta",
+	"bräumauer dta",
+	"glasenbachklamm dta",
+	"graswang dta",
+	"illschlucht dta",
+	"jansenmäuer dta",
+	"kreuzmauer dta",
+	"lichtl dta",
+	"luegstein dta",
+	"montikel dta",
+	"priental dta",
+	"reitnerkogel dta",
+	"schartenmauer dta",
+	"schieferstein dta",
+	"schrattenboden dta",
+	"wirlingwand dta",
+	"ybbs and türnitz prealps dta",
+	"zwurms meschach dta",	
 #	independent taxonomy
 	"crete dta",
-	"cape hallet lichen dta",
 	"javakheti dta",
+	"cape hallet lichen dta",
 	"salzkammergut lichen dta",
-	"kalkalpen lichen dta"	
+	"kalkalpen lichen dta",
+#	turboveg taxonomy (keep in sync with mirror dev.R)
+	"aspro dta",
+	"donauauen dta",
+	"enzersfeld dta",
+	"fischamend dta",	
+	"hainburg dta",
+	"kirchdorf and steyr-land dta",
+	"mountain hay meadows dta",
+	"nackter sattel dta",
+	"neusiedlersee dta",
+	"pilgersdorf dta",
+	"ravine forest dta",	
+	"reichraming dta",
+	"sankt margarethen dta",
+	"seekirchen dta",	
+	"südburgenland dta",
+	"traun and steyr and ennstal dta",
+	"vorarlberg dta",
+	"wien dta",
+	"wienerwald dta",
+	"witzelsdorf dta"
 )
 
-x <- x[-match(ii, x)]
+x <- x[ -match(ii, x) ]
 
 #	biblographic entities
 x <- sapply(file.path(path, x), function (x) {
