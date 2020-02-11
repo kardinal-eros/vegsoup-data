@@ -2,8 +2,8 @@ library(vegsoup)
 library(bibtex)
 
 path <- "~/Documents/vegsoup-data/eckkrammer2003"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
-key <- key[[1]]
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
+key <- key[[ 1 ]]
 
 
 source(file.path(path, "MakeVegsoup 1.R"))
@@ -23,6 +23,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(bib[[ 1 ]]$author, collapse = ", "), bib[[ 1 ]]$author)
+obj$citation <- format(bib[[ 1 ]], style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

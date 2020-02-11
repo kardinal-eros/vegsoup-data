@@ -2,7 +2,7 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/javakheti dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- "~/Documents/vegsoup-data/javakheti dta/species.csv"
 # promote to class "Species"

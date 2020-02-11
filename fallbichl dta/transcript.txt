@@ -4,37 +4,6 @@ plot                                    ffffff
                                         000000
                                         111222
                                         abcabc
-accuracy                                111111
-                                        000000
-                                              
-cov                                     999999
-                                        598885
-                                              
-hcov                                    989989
-                                        408885
-                                              
-hsl                                     000000
-                                              
-htl1                                    000000
-                                              
-htl2                                    000000
-                                              
-mcov                                     8 11 
-                                        251052
-                                              
-plsx                                    555555
-                                              
-plsy                                    555555
-                                              
-scov                                    000000
-                                              
-slope                                       1 
-                                        305503
-                                              
-tcov1                                   000000
-                                              
-tcov2                                   000000
-                                              
 richness                                312313
                                         582983
                                               

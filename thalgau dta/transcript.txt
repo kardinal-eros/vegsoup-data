@@ -3,40 +3,6 @@ plot                                       tttt
                                            hhhh
                                            0000
                                            1234
-accuracy                                   1111
-                                           0000
-                                               
-bare                                       0000
-                                               
-hcov                                       7999
-                                           5570
-                                               
-hsl                                        0000
-                                               
-htl1                                       0000
-                                               
-htl2                                       0000
-                                               
-mcov                                       51  
-                                           0531
-                                               
-plsx                                       4444
-                                               
-plsy                                       4444
-                                               
-rock                                       0000
-                                               
-scov                                       0000
-                                               
-slope                                      3234
-                                           0000
-                                               
-stones                                     0000
-                                               
-t1cov                                      0000
-                                               
-t2cov                                      0000
-                                               
 richness                                   3433
                                            6000
                                                

@@ -17,30 +17,6 @@ plot                                         PPPPPPPPPP
                                              ::::::::::
                                              0000000001
                                              1234567890
-pls                                          5555555555
-                                             0000000000
-                                             0000000000
-                                                       
-expo                                         1111112211
-                                             9999990099
-                                             5487674257
-                                             0030020501
-                                                       
-slope                                           2      
-                                             3330338399
-                                                       
-hcov                                         311 121121
-                                             0005005000
-                                                       
-mcov                                         5798584544
-                                             0000005000
-                                                       
-cov                                          6798695655
-                                             0550000000
-                                                       
-Slope                                        3215315565
-                                             5050500050
-                                                       
 richness                                     6446455545
                                              4216478664
                                                        
@@ -165,7 +141,7 @@ Pseudevernia furfuracea s.lat.               ....1.+...
 Grimmia funalis                              ....+..1..
 Hypnum cupressiforme                         ....+...+.
 Pertusaria glomerata                         ....+.....
-Astragalus alpinus                           .....2....
+Astragalus alpinus ssp. alpinus              .....2....
 Flavocetraria nivalis                        .....1....
 Avenula versicolor                           .....+....
 Campanula alpina                             .....+....

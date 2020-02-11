@@ -3,62 +3,6 @@ plot                                            gg
                                                 oo
                                                 00
                                                 12
-accuracy                                        22
-                                                00
-                                                  
-bare                                            00
-                                                  
-cov                                             99
-                                                55
-                                                  
-hcov                                            75
-                                                05
-                                                  
-hhl1                                            00
-                                                ..
-                                                76
-                                                  
-hhl2                                            00
-                                                ..
-                                                12
-                                                55
-                                                  
-hsl                                              2
-                                                 .
-                                                35
-                                                  
-htl1                                            11
-                                                16
-                                                  
-htl2                                             1
-                                                92
-                                                  
-mcov                                            11
-                                                50
-                                                  
-plsx                                            13
-                                                62
-                                                  
-plsy                                            1 
-                                                68
-                                                  
-rock                                            35
-                                                00
-                                                  
-scov                                            86
-                                                00
-                                                  
-slope                                           43
-                                                50
-                                                  
-stones                                          00
-                                                  
-t1cov                                           67
-                                                05
-                                                  
-t2cov                                           52
-                                                05
-                                                  
 richness                                        65
                                                 97
                                                   

@@ -3,46 +3,6 @@ plot                               pp
                                    ss
                                    00
                                    12
-accuracy                           11
-                                   00
-                                     
-altitude                           66
-                                   67
-                                   84
-                                     
-bare                               00
-                                     
-cov                                87
-                                   00
-                                     
-debris                             00
-                                     
-hcov                               87
-                                   00
-                                     
-hhl1                               00
-                                     
-hhl2                               00
-                                     
-hsl                                00
-                                     
-htl                                00
-                                     
-mcov                               33
-                                     
-plsx                               34
-                                     
-plsy                               14
-                                     
-rock                               00
-                                     
-scov                               01
-                                     
-slope                              87
-                                   05
-                                     
-tcov                               00
-                                     
 richness                           12
                                    54
                                      

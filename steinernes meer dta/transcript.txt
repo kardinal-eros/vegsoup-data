@@ -3,44 +3,6 @@ plot                                         sssss
                                              mmmmm
                                              00000
                                              12345
-accuracy                                     11111
-                                             00000
-                                                  
-bare                                            11
-                                             52355
-                                                  
-cov                                          99988
-                                             58755
-                                                  
-hcov                                         89978
-                                             55350
-                                                  
-hsl                                          00000
-                                                  
-htl1                                         00000
-                                                  
-htl2                                         00000
-                                                  
-mcov                                         2 12 
-                                             55005
-                                                  
-plsx                                         44444
-                                                  
-plsy                                         44444
-                                                  
-rock                                         00000
-                                                  
-scov                                         00000
-                                                  
-slope                                        213  
-                                             00000
-                                                  
-stones                                       00000
-                                                  
-tcov1                                        00000
-                                                  
-tcov2                                        00000
-                                                  
 richness                                     2221 
                                              44629
                                                   

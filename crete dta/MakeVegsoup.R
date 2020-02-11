@@ -2,7 +2,7 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/crete dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- file.path(path, "species.csv")
 #	promote to class "Species"

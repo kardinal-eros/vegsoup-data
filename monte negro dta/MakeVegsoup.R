@@ -2,7 +2,7 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/monte negro dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- file.path(path, "species.csv")
 #	promote to class "Species"
@@ -30,7 +30,7 @@ obj$richness <- richness(obj, "sample")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
-write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE)
+write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE, select = "richness")
 
 #	tidy up
 rm(list = ls()[-grep(key, ls())])

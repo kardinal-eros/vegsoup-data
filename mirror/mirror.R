@@ -5,6 +5,11 @@ library(vegsoup)
 library(RefManageR)
 library(knitr)
 library(rgdal)
+library(naturalsort)
+library(bibtex)
+library(stringr)
+
+rm(list = ls())
 
 path <- "~/Documents/vegsoup-data"
 x <- list.files(path)
@@ -15,8 +20,10 @@ ii <- c(
 	"README.md",
 	"README.png",	
 	"mirror",
-#	unfished data sets	
+	"givd",	
+#	unfished data sets
 	"dirnböck1999",
+	"brunner2011",
 	"dunzendorfer1980",
 	"greimler1996",
 	"greimler1997",
@@ -29,6 +36,7 @@ ii <- c(
 	"pflugbeil2012",
 	"prebersee dta",
 	"ruttner1994",
+	"sobotik1998",
 	"schwarz1989",
 	"stadler1991",
 	"stadler1992",
@@ -36,6 +44,26 @@ ii <- c(
 	"urban1992",
 	"urban2008",
 	"urhamerberg dta",
+#	occurrence plots only
+	"alt ems dta",
+	"adnet dta",
+	"bräumauer dta",
+	"glasenbachklamm dta",
+	"graswang dta",
+	"illschlucht dta",
+	"jansenmäuer dta",
+	"kreuzmauer dta",
+	"lichtl dta",
+	"luegstein dta",
+	"montikel dta",
+	"priental dta",
+	"reitnerkogel dta",
+	"schartenmauer dta",
+	"schieferstein dta",
+	"schrattenboden dta",
+	"wirlingwand dta",
+	"ybbs and türnitz prealps dta",
+	"zwurms meschach dta",	
 #	independent taxonomy
 	"crete dta",
 	"javakheti dta",
@@ -58,17 +86,19 @@ ii <- c(
 	"sankt margarethen dta",
 	"seekirchen dta",	
 	"südburgenland dta",
+	"traun and steyr and ennstal dta",
 	"vorarlberg dta",
 	"wien dta",
 	"wienerwald dta",
 	"witzelsdorf dta"
 )
 
-x <- x[-match(ii, x)]
+x <- x[ -match(ii, x) ]
 
 #	run update
 #	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.
-if (FALSE) {
+build = TRUE
+if (build) {
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {
 		cat(x, "\n")
 		source(x)

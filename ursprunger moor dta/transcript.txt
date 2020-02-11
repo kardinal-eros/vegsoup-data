@@ -3,46 +3,6 @@ plot                            uuuuuu
                                 mmmmmm
                                 000000
                                 123456
-accuracy                        111111
-                                      
-bare                               1  
-                                000500
-                                      
-cov                              1    
-                                309899
-                                509532
-                                      
-hcov                            399469
-                                055050
-                                      
-hsl                             003000
-                                      
-htl1                            000000
-                                      
-htl2                            000000
-                                      
-mcov                            389868
-                                050000
-                                      
-plsx                            444444
-                                      
-plsy                            444444
-                                      
-rock                            000000
-                                      
-scov                            001000
-                                      
-slope                           000000
-                                      
-stones                          000000
-                                      
-t1cov                           000000
-                                      
-t2cov                           000000
-                                      
-water                           1     
-                                500054
-                                      
 richness                        112221
                                 896025
                                       
@@ -79,7 +39,7 @@ Sphagnum cuspidatum             r+121+
 Sphagnum magellanicum           +4223r
 Sphagnum rubellum               +121+.
 Aulacomnium palustre            .r21..
-Cephalozia connivens            .rr+++
+Cephalozia connivens            .rr+++
 Polytrichum strictum            .+....
 Sphagnum capillifolium          .+....
 Cephalozia bicuspidata          ..+...

@@ -3,7 +3,7 @@ require(bibtex)
 
 
 path <- "/Users/roli/Documents/vegsoup-data/talus slopes dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	cd '/Users/roli/Documents/vegsoup-data/talus slopes'
 #	sudo /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to csv:"Text - txt - csv (StarCalc)":44,34,76 species.ods
@@ -36,9 +36,13 @@ assign(key, obj)
 #	richness
 obj$richness <- richness(obj, "sample")
 
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
+
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
-write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE)
+write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE, select = "richness")
 
 #	tidy up
 rm(list = ls()[-grep(key, ls())])

@@ -2,11 +2,11 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/springer1990"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	read digitized table 
 file <- file.path(path, "Springer1990Tab5taxon2standard.txt")
-x <- xx <- read.verbatim(file, "Releveé number", layers = "@")
+x <- xx <- read.verbatim(file, "Laufende Nummer", layers = "@")
 
 X <- species(x)[, 1:4]
 
@@ -51,6 +51,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

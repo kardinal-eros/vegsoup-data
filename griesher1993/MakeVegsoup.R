@@ -3,7 +3,7 @@ require(bibtex)
 require(naturalsort)
 
 path <- "~/Documents/vegsoup-data/griesher1993"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	main table
 file <- file.path(path, "Griehser1993Tab1.txt")

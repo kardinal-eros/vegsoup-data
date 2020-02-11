@@ -4,46 +4,6 @@ plot                                          bbbbb
                                               00000
                                               11234
                                               abaaa
-accuracy                                      11111
-                                              00000
-                                                   
-altitude                                      78888
-                                              74434
-                                              53040
-                                                   
-cov                                           1  1 
-                                              09909
-                                              08503
-                                                   
-hcov                                             1 
-                                              99904
-                                              95500
-                                                   
-hsl                                           00205
-                                                   
-htl1                                          00000
-                                                   
-htl2                                          00000
-                                                   
-mcov                                             21
-                                              58800
-                                                   
-plsx                                              1
-                                              55240
-                                                   
-plsy                                              1
-                                              55480
-                                                   
-scov                                              8
-                                              00100
-                                                   
-slope                                             1
-                                              00700
-                                                   
-t1cov                                         00000
-                                                   
-t2cov                                         00000
-                                                   
 richness                                      22223
                                               67835
                                                    

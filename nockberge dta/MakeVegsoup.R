@@ -2,7 +2,7 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/nockberge dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 key <- key[[1]]
 
 #	there are two data partitions with prefix 1 and 2
@@ -50,6 +50,10 @@ layers(obj)	 <- c("ml", "hl")
  
 #	assign result object
 assign(key, obj)
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

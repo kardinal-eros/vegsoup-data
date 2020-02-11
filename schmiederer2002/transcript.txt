@@ -33,4 +33,6 @@ Cetraria islandica ssp. islandica        ml    1
 Flavocetraria nivalis                          +  
 Thamnolia vermicularis var. vermicularis       1  
  
-x: 14.12872, y: 47.28061, accuracy: 20, altitude: 2330, comment: basenreicher niedriger Rasen von Salix retusa dominiert, trocken bis frisch, SSO des Melleck, nördlichster großer Marmorzug, , cov: 95, date: 2001-08-08, expo: SE, geology: Marmor, geomorphology: Rücken (flache Rippe), hcov: 90, hhl1: 7, hhl2: 7, location: Melleck, mcov: 5, plsx: 4, plsy: 2, precision.vertical: 20, slope: 20, richness: 33
+x: 14.12872, y: 47.28061, accuracy: 20, altitude: 2330, comment: basenreicher niedriger Rasen von Salix retusa dominiert, trocken bis frisch, SSO des Melleck, nördlichster großer Marmorzug, , cov: 95, date: 2001-08-08, expo: SE, geology: Marmor, geomorphology: Rücken (flache Rippe), hcov: 90, hhl1: 7, hhl2: 7, location: Melleck, mcov: 5, plsx: 4, plsy: 2, precision.vertical: 20, slope: 20, richness: 33, author: C Schmiederer, citation: Schmiederer C (2002). “Die alpinen Pflanzengesellschaften der Rettlkirchspitze
+(Wölzer Tauern, Steiermark).” _Joannea Botanik_, *3*, 77-139. <URL:
+http://www.museum-joanneum.at/upload/file/JoBot_03_05_1_.pdf>.

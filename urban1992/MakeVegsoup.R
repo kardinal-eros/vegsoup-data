@@ -2,11 +2,11 @@ require(vegsoup)
 library(bibtex)
 
 path <- "/Users/roli/Documents/vegsoup-data/urban1992"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	read prepared digitized table
 file <- file.path(path, "Urban1992Tab2taxon2standard.txt")
-x <- read.verbatim(file, colnames = "Spaltennummer", verbose = T, layers = "@", vertical = FALSE)
+x <- read.verbatim(file, colnames = "Spaltennummer", layers = "@", vertical = FALSE)
 X0 <- species(x)
 
 #	and footer taxa
@@ -56,6 +56,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

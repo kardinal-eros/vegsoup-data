@@ -3,7 +3,7 @@ library(vegit)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/enzersfeld dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- file.path(path, paste0(key, ".xml"))
 

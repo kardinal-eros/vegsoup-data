@@ -28,7 +28,7 @@ close(con)
 
 #	read digitized table 
 file <- "~/Documents/vegsoup-data/surina2004/Surina2004Tab1taxon2standard.txt"
-x <- read.verbatim(file, "Releveé number", verbose = T)
+x <- read.verbatim(file, "Releveé number")
 
 # promote to class "Species"
 x.df <- data.frame(abbr = rownames(x),

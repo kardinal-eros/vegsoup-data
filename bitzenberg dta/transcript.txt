@@ -3,55 +3,6 @@ plot                                     bbbbbbbbbbbbbbbbbbbbbbbbbbbb
                                          iiiiiiiiiiiiiiiiiiiiiiiiiiii
                                          0000000001111111111222222222
                                          1234567890123456789012345678
-accuracy                                                1111111111111
-                                         8888888888888880000000000000
-                                                                     
-cov                                      7719878787996999796999999999
-                                         0555000500000005590988885576
-                                                                     
-hcov                                                         0       
-                                         1    614631917 85941.1 4    
-                                         5255500550005055080015102255
-                                                                     
-hhl1                                                     000000000000
-                                         NNNNNNNNNNNNNNN ............
-                                         AAAAAAAAAAAAAAA1875728555555
-                                                                     
-hhl2                                                    0000000000000
-                                         NNNNNNNNNNNNNNN.............
-                                         AAAAAAAAAAAAAAA3332322223332
-                                                                     
-hsl                                                        1         
-                                         NNNNNNNNNNNNNNN   .         
-                                         AAAAAAAAAAAAAAA4355300444444
-                                                                     
-htl1                                     NNNNNNNNNNNNNNN     22322221
-                                         AAAAAAAAAAAAAAA0000006067886
-                                                                     
-htl2                                     NNNNNNNNNNNNNNN       211  1
-                                         AAAAAAAAAAAAAAA0000600225080
-                                                                     
-mcov                                     32 3126217 5 5531  9  176671
-                                         5055050050305000055858500550
-                                                                     
-plsx                                     1111111 11111 1    111111111
-                                         0505555505555558888666666666
-                                                                     
-plsy                                     111111121111111    111111111
-                                         0505555005555058888666666666
-                                                                     
-scov                                     1  9 2 1141 21154811  87 855
-                                         0050203500550550002500555500
-                                                                     
-slope                                    NNNNNNNNNNNNNNN            1
-                                         AAAAAAAAAAAAAAA0507543247840
-                                                                     
-t1cov                                    67 28486479 578     99874877
-                                         5500050000005550000076055050
-                                                                     
-t2cov                                    NNNNNNNNNNNNNNN    8  127 34
-                                         AAAAAAAAAAAAAAA0000500500055
-                                                                     
 richness                                 11111111211112132121 1111111
                                          5353373457321742472764656364
                                                                      

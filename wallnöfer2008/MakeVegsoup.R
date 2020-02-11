@@ -3,11 +3,11 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/wallnöfer2008"
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 key <- bib$key
 
 file <- file.path(path, "species wide.csv")
-X <- stackSpecies(file = file, schema = c("taxon", "layer"), sep = ",", verbose = T)[, 1:4]
+X <- stackSpecies(file = file, schema = c("taxon", "layer"), sep = ",")[, 1:4]
 
 file <- file.path(path, "sites wide.csv")
 Y <- stackSites(file = file, sep = ",")
@@ -49,6 +49,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

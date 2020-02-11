@@ -3,7 +3,7 @@ library(vegit)
 require(bibtex)
 
 path <- "/Users/roli/Documents/vegsoup-data/traun and steyr and ennstal dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	build objects from turboveg XML files
 

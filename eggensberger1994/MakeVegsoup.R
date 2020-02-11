@@ -2,12 +2,12 @@ require(vegsoup)
 library(bibtex)
 
 path <- "/Users/roli/Documents/vegsoup-data/eggensberger1994"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	table 10
 #	read prepared digitized table
 file <- file.path(path, "Eggensberger1994Tab10taxon2standard.txt")
-x <- read.verbatim(file, colnames = "Spalte", verbose = T, layers = "@", vertical = FALSE)
+x <- read.verbatim(file, colnames = "Spalte", layers = "@", vertical = FALSE)
 X <- species(x)
 
 #   sites data including coordinates
@@ -44,7 +44,7 @@ tab10 <- obj
 #	table 11
 #	read prepared digitized table
 file <- file.path(path, "Eggensberger1994Tab11taxon2standard.txt")
-x <- read.verbatim(file, colnames = "Spalte", verbose = T, layers = "@", vertical = FALSE)
+x <- read.verbatim(file, colnames = "Spalte", layers = "@", vertical = FALSE)
 #	see line 60 in stack.species
 #	X <- species(x)
 
@@ -105,6 +105,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

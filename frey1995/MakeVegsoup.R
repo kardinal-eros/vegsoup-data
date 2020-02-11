@@ -3,7 +3,7 @@ library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/frey1995"
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 key <- bib$key
 
 #	authored translate lists
@@ -22,13 +22,15 @@ names(zz) <- c("taxon", "abbr")
 x <- file.path(path, "Frey1995Tab4.txt")
 X <- read.verbatim(x, layers = "@", colnames = "RELEVE NO.")
 X1 <- species(X)
+X1$plot <- gsub(".", "", X1$plot, fixed = TRUE)
 
 Y <- stackSites(header(X), schema = "rownames")
+Y$plot <- gsub(".", "", Y$plot, fixed = TRUE)
 
 #	footer species
 x <- file.path(path, "Frey1995Tab4FooterSpecies.csv")
 X2 <- species(x, sep = ",")
-X2$plot <- gsub(" ", ".", X2$plot, fixed = TRUE)
+X2$plot <- gsub(" ", "", X2$plot, fixed = TRUE)
 
 X <- vegsoup::bind(X1, X2)
 X$abbr <- tolower(X$abbr)
@@ -99,6 +101,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

@@ -2,7 +2,7 @@ require(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/erschbamer1992"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- file.path(path, "Erschbamer1992Tab4.txt")
 
@@ -11,16 +11,16 @@ x1 <- read.verbatim(file, colnames = "Aufnahme Nr.")
 
 # extract header (sites) data from VegsoupVerbatim object
 y1 <- header(x1)
+
 # translate and groome names
-names(y1) <- c("altitude", "aspect", "slope", "cover", "pH", "block")
+names(y1) <- c("plot", "altitude", "aspect", "slope", "cover", "pH", "block")
+
 # promote to Sites object	
 y1$plot <- rownames(y1) # header returns plot names as rownames 
 y1 <- stackSites(y1, schema = "plot")
-y1
 
 # promote table body to Species object
 x1 <- species(x1)
-richness(x1)
 
 # get species from table footer
 # a listing of species not covered by the main table and plot where they occur in
@@ -32,8 +32,6 @@ x2$plot <- sprintf("%03d", as.numeric(x2$plot))
 richness(x2)
 # bind species in table footer with main table
 X <- bind(x1, x2)
-X
-richness(X)
 
 #   additional sites data including coordinates as a tab delimited file
 file <- file.path(path, "Erschbamer1992Tab4Locations.txt")
@@ -43,14 +41,13 @@ head(y2)
 y2$nr <- sprintf("%03d", as.numeric(y2$nr))
 # promote to class "Sites"
 y2 <- stackSites(y2, schema = "nr")
-y2
 
 #	bind with sites data from table header
 Y <- bind(y1, y2)
 
 # taxonomy reference list
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
-Z <- taxonomy(Z)
+Z <- taxonomy(file, sep = ";")
 
 # groome abundance scale codes to fit the standard
 # of the extended Braun-Blanquet scale used in the origional publication
@@ -68,6 +65,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

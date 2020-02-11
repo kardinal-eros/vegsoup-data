@@ -3,59 +3,6 @@ plot                                            rrr
                                                 bbb
                                                 000
                                                 123
-accuracy                                        111
-                                                000
-                                                   
-bare                                            000
-                                                   
-cov                                             999
-                                                570
-                                                   
-hcov                                            877
-                                                000
-                                                   
-hhl1                                            000
-                                                ...
-                                                755
-                                                   
-hhl2                                            000
-                                                ...
-                                                222
-                                                   
-hsl                                             554
-                                                   
-htl1                                            211
-                                                205
-                                                   
-htl2                                            1 1
-                                                472
-                                                   
-mcov                                             11
-                                                700
-                                                   
-plsx                                            121
-                                                650
-                                                   
-plsy                                            112
-                                                605
-                                                   
-rock                                            132
-                                                550
-                                                   
-scov                                            346
-                                                550
-                                                   
-slope                                            52
-                                                000
-                                                   
-soil                                            000
-                                                   
-t1cov                                           654
-                                                005
-                                                   
-t2cov                                           557
-                                                005
-                                                   
 richness                                        467
                                                 741
                                                    

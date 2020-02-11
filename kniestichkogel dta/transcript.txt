@@ -3,26 +3,6 @@ plot                                 kkk
                                      nnn
                                      000
                                      123
-accuracy                               1
-                                     952
-                                        
-cov                                   11
-                                     900
-                                     800
-                                        
-hcov                                 759
-                                     055
-                                        
-mcov                                 999
-                                     098
-                                        
-plsx                                 655
-                                        
-plsy                                 445
-                                        
-slope                                1 2
-                                     050
-                                        
 richness                             211
                                      471
                                         

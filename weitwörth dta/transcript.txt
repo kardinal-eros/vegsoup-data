@@ -3,36 +3,6 @@ plot                                          wwww
                                               wwww
                                               0000
                                               1234
-accuracy                                      1111
-                                              0000
-                                                  
-cov                                           9998
-                                              8860
-                                                  
-hcov                                          9998
-                                              6750
-                                                  
-hsl                                           0000
-                                                  
-htl1                                          0000
-                                                  
-htl2                                          0000
-                                                  
-mcov                                          342 
-                                              5553
-                                                  
-plsx                                          4444
-                                                  
-plsy                                          4444
-                                                  
-scov                                          0000
-                                                  
-slope                                         0000
-                                                  
-t1cov                                         0000
-                                                  
-t2cov                                         0000
-                                                  
 richness                                      2212
                                               2468
                                                   

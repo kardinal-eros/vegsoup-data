@@ -4,7 +4,7 @@ require(bibtex)
 #	Note, species data for 45 plots was not digitized, although sites data is available
 
 path <- "~/Documents/vegsoup-data/kalkalpen lichen dta"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- "~/Documents/vegsoup-data/kalkalpen lichen dta/species.csv"
 # promote to class "Species"

@@ -3,49 +3,6 @@ plot                                             bbbbbbb
                                                  mmmmmmm
                                                  0000000
                                                  1234567
-accuracy                                              11
-                                                 5555500
-                                                        
-cov                                                111  
-                                                 990009N
-                                                 850009A
-                                                        
-hcov                                             9776399
-                                                 0500077
-                                                        
-hhl1                                                  0 
-                                                 000  .0
-                                                 ...  4.
-                                                 6991153
-                                                        
-hhl2                                             0000000
-                                                 .......
-                                                 1212125
-                                                        
-mcov                                             6999924
-                                                 0505505
-                                                        
-plsx                                                   1
-                                                 3443546
-                                                        
-plsy                                                   1
-                                                 3646746
-                                                        
-slope                                             NNNNN 
-                                                 3AAAAA0
-                                                        
-hsl                                              NNNNNN5
-                                                 AAAAAA0
-                                                        
-htl1                                             NNNNNN2
-                                                 AAAAAA0
-                                                        
-scov                                             NNNNNN5
-                                                 AAAAAA0
-                                                        
-t1cov                                            NNNNNN7
-                                                 AAAAAA0
-                                                        
 richness                                         2233331
                                                  9368697
                                                         

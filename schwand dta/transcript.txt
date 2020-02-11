@@ -3,43 +3,6 @@ plot                                   ss
                                        ww
                                        00
                                        12
-accuracy                               55
-                                         
-bare                                   00
-                                         
-cov                                    99
-                                       58
-                                         
-hcov                                   12
-                                       00
-                                         
-hsl                                    55
-                                         
-htl1                                   00
-                                         
-mcov                                   35
-                                         
-plsx                                   55
-                                       00
-                                         
-plsy                                   33
-                                         
-rock                                   00
-                                         
-scov                                   67
-                                       50
-                                         
-slope                                  00
-                                         
-soil                                   00
-                                         
-stones                                 00
-                                         
-tcov1                                  00
-                                         
-tcov2                                  79
-                                       00
-                                         
 richness                               33
                                        31
                                          

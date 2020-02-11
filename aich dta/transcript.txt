@@ -3,46 +3,6 @@ plot                                              aaaaaaaaaaa
                                                   iiiiiiiiiii
                                                   00000000011
                                                   12345678901
-accuracy                                          55555555555
-                                                             
-cov                                                 11   1111
-                                                  99009990000
-                                                  99009690000
-                                                             
-expo                                              00000000000
-                                                             
-hcov                                              99999999999
-                                                  88998089780
-                                                             
-hhl1                                              1111 011110
-                                                  .... ......
-                                                  23231852126
-                                                             
-hhl2                                              00000000000
-                                                  ...........
-                                                  44554355442
-                                                             
-hsl                                               00000000000
-                                                             
-htl1                                              00000000000
-                                                             
-htl2                                              00000000000
-                                                             
-mcov                                              3113341 649
-                                                  05050005555
-                                                             
-plsx                                              44444444444
-                                                             
-plsy                                              44444444444
-                                                             
-scov                                              00000000000
-                                                             
-slope                                             00000000000
-                                                             
-t1cov                                             00000000000
-                                                             
-t2cov                                             00000000000
-                                                             
 richness                                          32222221432
                                                   22043739235
                                                              
@@ -112,7 +72,7 @@ Carex echinata                                    ........+..
 Carex elata ssp. elata                            ........1+.
 Carex leporina                                    ........+..
 Carex pallescens                                  ........++.
-Carex paniculata ssp. paniculata                  ........+..
+Carex panicea                                     ........+.2
 Cirsium rivulare                                  ........1..
 Deschampsia cespitosa                             ........+..
 Eriophorum angustifolium                          ........+..
@@ -132,7 +92,6 @@ Carex acuta                                       ..........2
 Carex flacca ssp. flacca                          ..........+
 Carex flava var. flava                            ..........1
 Carex nigra                                       ..........2
-Carex panicea                                     ..........2
 Cirsium oleraceum                                 ..........r
 Dactylorhiza majalis s.lat.                       ..........+
 Juncus articulatus                                ..........1

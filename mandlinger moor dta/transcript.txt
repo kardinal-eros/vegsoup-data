@@ -3,51 +3,6 @@ plot                                       mmmmm
                                            mmmmm
                                            00000
                                            12345
-accuracy                                   11115
-                                           00000
-                                                
-bare                                       00000
-                                                
-cov                                        11111
-                                           00000
-                                           00000
-                                                
-hcov                                       11111
-                                           00000
-                                           00000
-                                                
-hhl1                                       1111 
-                                           .... 
-                                           43330
-                                                
-hhl2                                        11  
-                                            ..  
-                                           11410
-                                                
-hsl                                        00000
-                                                
-htl1                                       00000
-                                                
-htl2                                       00000
-                                                
-mcov                                       11110
-                                                
-plsx                                       44445
-                                                
-plsy                                       44445
-                                                
-rock                                       00000
-                                                
-scov                                       00000
-                                                
-slope                                      00000
-                                                
-stones                                     00000
-                                                
-t1cov                                      00000
-                                                
-t2cov                                      00000
-                                                
 richness                                   11111
                                            60456
                                                 

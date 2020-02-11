@@ -3,42 +3,6 @@ plot                                       ggggg
                                            eeeee
                                            00000
                                            12345
-accuracy                                   11111
-                                           00000
-                                                
-bare                                       53000
-                                                
-cov                                        99999
-                                           57998
-                                                
-hcov                                       99999
-                                           56758
-                                                
-hsl                                        00000
-                                                
-htl1                                       00000
-                                                
-htl2                                       00000
-                                                
-mcov                                         11 
-                                           11551
-                                                
-plsx                                       44444
-                                                
-plsy                                       44444
-                                                
-rock                                       00000
-                                                
-scov                                       00000
-                                                
-slope                                      00000
-                                                
-stones                                     00000
-                                                
-t1cov                                      00000
-                                                
-t2cov                                      00000
-                                                
 richness                                   45444
                                            70562
                                                 

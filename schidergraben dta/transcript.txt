@@ -3,43 +3,6 @@ plot                                       ss
                                            gg
                                            00
                                            12
-accuracy                                   22
-                                           00
-                                             
-cov                                        98
-                                           00
-                                             
-hcov                                       96
-                                           00
-                                             
-hhl1                                       00
-                                             
-hhl2                                       00
-                                             
-hsl                                        00
-                                             
-htl1                                       00
-                                             
-htl2                                       00
-                                             
-mcov                                       52
-                                           00
-                                             
-plsx                                       11
-                                           00
-                                             
-plsy                                       11
-                                           00
-                                             
-scov                                       77
-                                           00
-                                             
-slope                                      00
-                                             
-t1cov                                      00
-                                             
-t2cov                                      03
-                                             
 richness                                   45
                                            71
                                              

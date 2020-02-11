@@ -11,7 +11,6 @@ elevation                                                 1
                                                        AAA0AAAAAAAAAAA
                                                                       
 slope                                                  NNN NNNNNNNNNNN
-                                                       AAA5AAAAAAAAAAA
                                                                       
 pls                                                    NNN1NNNNNNNNNNN
                                                        AAA0AAAAAAAAAAA

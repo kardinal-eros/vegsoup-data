@@ -3,47 +3,6 @@ plot                                     gg
                                          ss
                                          00
                                          12
-accuracy                                 11
-                                         00
-                                           
-bare                                     2 
-                                         00
-                                           
-cov                                      79
-                                         08
-                                           
-hcov                                     89
-                                         00
-                                           
-hsl                                      42
-                                           
-htl1                                     22
-                                         37
-                                           
-htl2                                     1 
-                                         80
-                                           
-mcov                                     31
-                                           
-plsx                                     11
-                                         66
-                                           
-plsy                                     11
-                                         66
-                                           
-rock                                     00
-                                           
-scov                                     51
-                                           
-slope                                    24
-                                           
-stones                                   00
-                                           
-t1cov                                    34
-                                         00
-                                           
-t2cov                                    50
-                                           
 richness                                 14
                                          33
                                            

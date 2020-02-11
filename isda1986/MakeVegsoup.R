@@ -1,9 +1,10 @@
 #	outdated make script!
+
 library(vegsoup)
 require(bibtex)
 
 path <- "~/Documents/vegsoup-data/isda1986"
-key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- "~/Documents/vegsoup-data/isda1986/Isda1986Tab1.txt"
 x <- read.verbatim(file, "Aufnahmenummer")
@@ -21,7 +22,7 @@ names(Y) <- c("plot", "location.short", "location", "tms")
 
 Y <- data.frame(Y, t(sapply(Y[,4], str2latlng, USE.NAMES = FALSE)))
 names(Y)[grep("precision", names(Y))] <- "accuracy"
-Y <- stackSites(Y, zeros = TRUE)
+Y <- stackSites(Y, zeros = FALSE)
 
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
 XZ <- SpeciesTaxonomy(X, file.y = file)
@@ -55,6 +56,10 @@ assign(key, obj)
 
 #	richness
 obj$richness <- richness(obj, "sample")
+
+#	add citation
+obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
+obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))

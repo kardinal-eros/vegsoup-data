@@ -3,52 +3,6 @@ plot                                              hhhhhhh
                                                   sssssss
                                                   0000000
                                                   1234567
-accuracy                                          1112222
-                                                  0000000
-                                                         
-altitude                                          1111111
-                                                  1102111
-                                                  7491975
-                                                  0200000
-                                                         
-bare                                              1334111
-                                                         
-cov                                               6763655
-                                                  0000381
-                                                         
-hcov                                              5244555
-                                                  0555560
-                                                         
-mcov                                              454 1  
-                                                  0055033
-                                                         
-plsx                                              8888888
-                                                         
-plsy                                              8888888
-                                                         
-precision.vertical                                   1111
-                                                  5550000
-                                                         
-rock                                              4346345
-                                                  0002500
-                                                         
-scov                                               N 1111
-                                                  2A20000
-                                                         
-slope                                             8878888
-                                                  0000000
-                                                         
-stones                                            3114110
-                                                         
-htl1                                              NNN    
-                                                  AAA0008
-                                                         
-htl2                                              NNN    
-                                                  AAA0000
-                                                         
-tcov1                                             NNNNNN 
-                                                  AAAAAA5
-                                                         
 richness                                          1142323
                                                   1842394
                                                          

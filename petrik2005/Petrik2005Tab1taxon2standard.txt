@@ -1,6 +1,6 @@
 BEGIN HEAD
 
-Releve number                                                        1
+Relevee number                                                       1
                                  1   2   3   4   5   6   7   8   9   0
 
 END HEAD
@@ -72,7 +72,7 @@ teph inte capi                   .   .   r   +   .   .   .   .   .   .
 astr frig frig                   .   +   .   .   .   .   .   .   .   .
 sesl sadl tatr                   .   .   .   +   .   .   .   .   .   .
 sela sela                        .   .   .   .   .   .   .   .   .   r
-thmy pulc sude                   .   .   .   .   .   .   .   .   .   +
+thym pulc sude                   .   .   .   .   .   .   .   .   .   +
 
 fest vers pall                   b   a   b   a   1   a   a   b   a   a
 hedy hedy hedy                   +   +   .   +   .   1   .   .   .   .
