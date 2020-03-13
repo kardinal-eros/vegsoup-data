@@ -33,6 +33,9 @@ install_github("rforge/vegsoup/pkg")
 To load a data set into an *R* session you may either download a particular `*.rda` file and attach it to your *R*-session (first navigate to the respective `*.rda` file, then right-click on the file, a further click on *View Raw* will download the file.), or load the data directly from inside an R session:
 
 ```R
+# if needed
+install.packages("RCurl")
+
 library(vegsoup)
 library(RCurl)  
 
