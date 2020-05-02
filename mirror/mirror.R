@@ -47,11 +47,11 @@ ii <- c(
 #	occurrence plots only
 	"alt ems dta",
 	"adnet dta",
-	"bräumauer dta",
+	"bräumauer dta",
 	"glasenbachklamm dta",
 	"graswang dta",
 	"illschlucht dta",
-	"jansenmäuer dta",
+	"jansenmäuer dta",
 	"kreuzmauer dta",
 	"lichtl dta",
 	"luegstein dta",
@@ -62,7 +62,7 @@ ii <- c(
 	"schieferstein dta",
 	"schrattenboden dta",
 	"wirlingwand dta",
-	"ybbs and türnitz prealps dta",
+	"ybbs and türnitz prealps dta",
 	"zwurms meschach dta",	
 #	independent taxonomy
 	"crete dta",
@@ -85,13 +85,16 @@ ii <- c(
 	"reichraming dta",
 	"sankt margarethen dta",
 	"seekirchen dta",	
-	"südburgenland dta",
+	"südburgenland dta",
 	"traun and steyr and ennstal dta",
 	"vorarlberg dta",
 	"wien dta",
 	"wienerwald dta",
 	"witzelsdorf dta"
 )
+
+
+stopifnot(all(ii %in% x))
 
 x <- x[ -match(ii, x) ]
 
