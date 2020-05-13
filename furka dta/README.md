@@ -4,7 +4,7 @@ About this data set
 Author
 ------
 
-Christin Körner (ch.koerner@unibas.ch)
+Christin Körner (ch.koerner@unibas.ch) and Heiner Lenzin (heiner.lenzin@unibas.ch)
 
 Cover abundance codes
 ---------------------
