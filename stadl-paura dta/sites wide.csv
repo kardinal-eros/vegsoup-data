@@ -50,17 +50,24 @@ sp048;97;97;7;1;7;1;18;15;2;0,15;0,05;16;16;F;0;0;2013-05-16;48.079170;13.837890
 sp049;98;80;90;7;5;1;30;12;4;0,2;0,1;16;16;F;0;0;2013-05-16;48.079509;13.837341;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
 sp050;97;20;25;50;97;5;14;10;5;0,5;0,3;16;16;F;0;0;2013-05-16;48.080639;13.837806;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
 sp051;98;97;0;7;45;1;10;0;4;0,3;0,1;16;16;F;0;0;2013-05-16;48.081188;13.839238;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp052;96;0;2;85;94;1;0;6;2;0,35;0,2;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079217;13.843711;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp053;95;0;3;60;90;1;0;10;2,5;0,5;0,1;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079332;13.843022;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp054;99;0;7;90;90;4;0;8;4;0,8;0,25;16;16;F;0;0;2013-05-16;48.078734;13.842349;6;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp055;100;0;95;15;100;0;0;10;5;1;0,1;16;16;F;0;0;2013-05-16;48.078341;13.842070;4;Braunerde;REK;unclassified;unclassified;R. Kaiser & T. Eberl
-sp056;99;0;0;75;98;1;0;0;4;1;0,1;16;16;F;0;0;2013-05-16;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp052-2013;96;0;2;85;93;1;0;6;2;0,35;0,2;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079217;13.843711;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp052-2020;97;0;5;70;95;3;0;9;4,5;0,7;0,25;16;16;F;0;0;2020-05-22;48.079217;13.843711;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
+sp053-2013;95;0;3;60;90;1;0;10;2,5;0,5;0,1;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079332;13.843022;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp053-2020;99;0;5;70;90;15;0;11;5;0,7;0,3;16;16;F;0;0;2020-05-22;48.079332;13.843022;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
+sp054-2013;99;0;7;90;90;4;0;8;4;0,8;0,25;16;16;F;0;0;2013-05-16;48.078734;13.842349;6;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp054-2020;99;0;15;85;80;7;0;11;5;0,7;0,2;16;16;F;0;0;2020-05-22;48.078734;13.842349;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
+sp055-2013;100;0;95;15;100;1;0;10;5;1;0,1;16;16;F;0;0;2013-05-16;48.078341;13.842070;4;Braunerde;REK;unclassified;unclassified;R. Kaiser & T. Eberl
+sp055-2020;100;0;45;5;99;10;0;14;4;0,9;0,5;16;16;F;0;0;2020-05-22;48.078341;13.842070;5;Braunerde;REK;unclassified;unclassified;R. Kaiser
+sp056-2013;99;0;0;75;98;1;0;0;4;1;0,1;16;16;F;0;0;2013-05-16;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp056-2020;100;0;5;10;55;5;0;10;6;0,7;0,3;16;16;F;0;0;2020-05-22;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
 sp057;97;50;50;20;80;1;25;20;4,5;0,4;0,2;16;16;F;0;0;2013-07-12;48.074465;13.832050;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
 sp058;98;80;40;0;60;1;24;18;0;0,2;0,2;16;16;F;0;0;2013-07-12;48.076460;13.827254;15;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp059;93;0;0;15;80;1;0;0;4;0,8;0,3;16;16;SW;15;0;2013-07-12 & 2013-08-28;48.083177;13.841486;15;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp059-2013;93;0;0;15;80;1;0;0;4;0,8;0,3;16;16;SW;15;0;2013-07-12 & 2013-08-28;48.083177;13.841486;15;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp059-2020;97;0;0;90;75;5;0;0;6;0,6;0,1;16;16;SW;15;0;2020-05-22;48.083177;13.841486;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
 sp060;98;95;10;7;90;1;25;20;3,5;0,6;0,3;16;16;F;0;0;2013-07-12;48.071648;13.837227;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
 sp061;98;85;15;10;25;1;26;22;4;0,3;0,2;16;16;F;0;0;2013-07-12;48.070798;13.837619;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp062;75;0;0;65;73;1;0;0;3;1,2;0,5;32;8;SW;25;0;2013-07-16;48.083168;13.842189;10;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp062-2013;75;0;0;65;73;1;0;0;3;1,2;0,5;32;8;SW;25;0;2013-07-16;48.083168;13.842189;10;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
+sp062-2020;80;0;0;60;75;1;0;0;4,5;0,8;0,25;32;8;SW;25;0;2020-05-22;48.083168;13.842189;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
 sp063;100;80;60;8;10;1;14;12;8;0,35;0,15;32;8;SW;20;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.086200;13.839460;10;Braunerde & Ausand;LW;Tilio-Acerion;unclassified;R. Kaiser
 sp064;100;85;60;55;80;3;24;18;8;0,3;0,2;16;16;S;15;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.086384;13.839551;10;Braunerde;LW;Tilio-Acerion;unclassified;R. Kaiser
 sp065;99;80;20;25;70;1;24;19;5;0,6;0,15;16;16;S;35;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.087037;13.839813;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser
@@ -68,80 +75,83 @@ sp066;100;75;75;10;15;1;25;20;4;0,6;0,1;16;16;S;45;0;2014-07-31 & 2015-05-05;48.
 sp067;98;70;40;60;80;1;22;18;5;0,4;0,15;16;16;F;0;0;2014-07-01 & 2014-07-31 & 2015-05-05;48.081770;13.843750;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser
 sp068;100;0;55;85;7;5;0;11;8;0,3;0,1;16;16;F;0;0;2014-07-31 & 2015-05-05;48.085280;13.839160;20;Mull;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser
 sp069;100;60;75;70;10;0;16;12;8;0,3;0,1;16;16;F;0;0;2014-07-31 & 2015-05-05;48.085560;13.839680;20;Mull & Ausand;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser
-sp070;60;0;0;0;20;40;0;0;0;0,3;0,1;2;2;N;50;0;2013-07-28 & 2015-05-05;48.085090;13.839800;10;Kalktuff;TQ;Cratoneurion;;R. Kaiser
-sp071;97;60;0;25;60;95;18;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.836802;48.076548;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp072;93;90;15;3;15;1;18;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.836259;48.076118;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp073;97;92;12;5;15;1;20;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.835021;48.076403;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp074;85;30;0;5;65;20;14;0;3;0,6;0,1;16;16;F;0;0;﻿2019-05-18;13.835503;48.076952;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp075;97;50;0;70;40;80;18;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.836286;48.077607;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp076;75;65;0;2;40;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.834952;48.077440;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp077;50;15;25;5;15;1;20;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.834058;48.077389;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp078;99;0;0;40;95;5;0;0;3,5;1;0,1;16;16;F;0;0;﻿2019-05-18;13.832955;48.077665;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp079;93;0;0;10;90;1;0;0;1,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.832408;48.078042;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp080;95;85;12;20;90;1;25;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.832015;48.076853;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp081;93;80;15;3;55;1;25;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.833540;48.076882;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp082;99;30;65;5;60;1;15;5;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.832192;48.075979;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp083;93;50;20;20;75;1;17;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.832210;48.074921;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp084;95;55;25;3;80;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.832563;48.073928;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp085;97;60;20;0;80;1;24;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.833316;48.072295;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp086;95;93;0;1;30;1;16;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.833856;48.074746;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp087;97;95;0;2;25;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.834125;48.074215;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp088;97;80;0;80;25;95;16;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;13.837943;48.077018;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp089;65;60;0;1;3;25;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.838640;48.075878;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp090;100;0;0;0;100;5;0;0;0;0,5;0,1;4;4;F;0;0;﻿2019-05-19;13.838225;48.076335;10;Braunerde;Wi;;;R. Kaiser & T. Eberl
-sp091;97;95;0;3;20;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.840036;48.076267;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp092;96;93;0;3;70;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.839963;48.075711;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp093;95;94;0;2;30;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.840038;48.074883;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp094;97;96;0;1;25;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.837697;48.074333;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp095;95;95;0;5;15;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.838752;48.074081;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp096;85;80;0;5;1;12;10;0;3;0,3;0,1;16;16;F;0;0;﻿2019-05-19;13.839193;48.073755;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp097;95;65;30;7;40;1;18;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.841126;48.075406;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp098;95;25;55;15;90;1;18;14;4;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.841175;48.074785;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp099;99;65;15;5;97;1;22;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.841089;48.074136;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp100;93;73;20;12;20;1;20;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.840640;48.073464;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp101;97;0;0;15;95;1;0;0;2,5;0,6;0,1;16;16;F;0;0;﻿2019-05-19;13.839052;48.072918;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp102;97;90;0;8;20;65;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.836004;48.074261;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp103;97;95;0;4;25;5;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.834875;48.075380;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp104;95;20;40;30;65;5;14;9;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.837470;48.075202;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp105;97;0;0;0;97;2;0;0;0;0,6;0,1;4;4;F;0;0;﻿2019-05-19;13.834929;48.074257;10;Braunerde;Wi;;;R. Kaiser & T. Eberl
-sp106;93;65;20;6;35;3;14;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.833772;48.073573;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp107;93;65;0;3;8;75;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.835632;48.072688;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp108;95;60;35;7;75;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;13.837291;48.072986;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp109;97;75;30;7;30;1;24;15;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;13.837544;48.072493;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp110;97;70;15;5;80;1;24;10;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;13.836775;48.072143;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp111;93;0;0;0;93;1;0;0;0;0,9;0,1;8;2;F;0;0;﻿2019-05-20;13.833292;48.071323;10;Braunerde;Wi;;;R. Kaiser & T. Eberl
-sp112;95;50;35;20;70;1;25;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;13.834074;48.071626;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp113;97;95;0;2;80;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;13.834987;48.072013;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp114;99;97;0;3;7;1;6;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;13.832610;48.071553;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp115;65;0;40;10;50;1;0;7;2,5;0,5;0,1;16;16;F;0;0;﻿2019-05-20;13.832291;48.072103;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp116;95;75;20;20;20;1;28;15;5;0,4;0,1;16;16;F;0;0;﻿2019-05-20;13.831448;48.075084;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp117;95;93;0;3;45;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;13.830650;48.074373;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp118;96;90;20;15;30;1;9;6;3;0,5;0,1;16;16;F;0;0;2019-05-23;13.842397;48.076726;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp119;95;92;0;10;40;3;12;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;13.842095;48.076255;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp120;96;4;92;7;80;1;15;8;3;0,5;0,1;32;8;F;0;0;2019-05-23;13.842349;48.075950;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp121;90;50;5;3;50;1;15;7;3;0,7;0,1;32;8;F;0;0;2019-05-23;13.842588;48.076271;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp122;38;0;0;5;35;1;0;0;3;0,5;0,1;16;16;E;35;0;2019-05-23;13.842859;48.076312;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp123;92;75;20;10;45;1;18;12;3;0,6;0,1;16;16;E;30;0;2019-05-23;13.842221;48.075013;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp124;98;10;40;8;97;1;18;12;3;0,8;0,1;16;16;F;0;0;2019-05-23;13.841711;48.074572;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp125;85;0;0;0;85;1;0;0;0;0,6;0,1;2;8;SE;30;0;2019-05-23;13.841137;48.073233;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp126;97;95;0;1;20;1;13;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;13.830942;48.071400;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp127;96;80;15;7;55;1;18;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;13.829715;48.071990;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp128;97;85;10;20;25;1;15;10;5;0,5;0,1;16;16;F;0;0;2019-05-23;13.830356;48.072606;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp129;95;85;12;8;35;1;22;14;3;0,5;0,1;16;16;F;0;0;2019-05-23;13.829817;48.072841;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp130;96;70;25;10;25;1;22;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;13.829965;48.073471;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp131;97;0;0;30;93;1;0;0;3;0,8;0,1;16;16;F;0;0;2019-05-23;13.828185;48.075770;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp132;96;70;15;0;90;1;25;15;0;0,5;0,1;16;16;F;0;0;2019-05-23;13.827878;48.076662;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp133;96;75;20;7;20;1;25;15;4;0,5;0,1;16;16;F;0;0;2019-05-23;13.829882;48.077076;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp134;92;70;20;3;10;1;28;20;4;0,5;0,1;16;16;W;25;0;2019-05-23;13.831245;48.076817;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp135;99;85;3;0;7;95;15;8;0;0,5;0,1;16;16;F;0;0;2019-05-23;13.830051;48.075635;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp136;92;50;25;70;25;1;27;20;5;0,5;0,1;16;16;SE;35;0;2019-05-24;13.841802;48.073178;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp137;94;70;25;30;30;1;26;18;5;0,5;0,1;16;16;SE;20;0;2019-05-24;13.839898;48.072293;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp138;99;50;0;80;35;1;26;0;4;0,5;0,1;16;16;F;0;0;2019-05-24;13.838027;48.071767;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp139;97;40;50;20;80;1;26;18;4;0,5;0,1;16;16;F;0;0;2019-05-24;13.836039;48.071261;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp140;99;40;50;30;55;1;27;8;4;0,5;0,1;16;16;F;0;0;2019-05-24;13.835700;48.070640;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp141;98;45;40;20;98;1;26;14;5;0,9;0,1;16;16;F;0;0;2019-05-24;13.829597;48.071071;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp142;95;80;20;3;35;1;26;18;3;0,5;0,1;16;16;W;35;0;2019-05-24;13.829516;48.072816;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp143;97;85;12;2;90;1;26;18;4;0,5;0,1;16;16;W;30;0;2019-05-24;13.829520;48.073554;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp144;97;93;0;0;55;1;20;0;0;0,5;0,1;16;16;S;30;0;2019-05-24;13.829145;48.074580;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp145;95;85;10;2;70;1;26;18;3;0,5;0,1;16;16;SW;30;0;2019-05-24;13.827634;48.075826;10;Braunerde;;;;R. Kaiser & T. Eberl
-sp146;99;65;15;25;97;1;28;20;4;0,7;0,1;16;16;F;0;0;2019-05-24;13.828887;48.077514;10;Ausand;;;;R. Kaiser & T. Eberl
+sp070;60;0;0;0;20;40;0;0;0;0,3;0,1;2;2;N;50;0;2013-07-28 & 2015-05-05;48.085090;13.839800;10;Kalktuff;TQ;Cratoneurion;unclassified;R. Kaiser
+sp071;97;60;0;25;60;95;18;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076548;13.836802;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp072;93;90;15;3;15;1;18;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076118;13.836259;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp073;97;92;12;5;15;1;20;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076403;13.835021;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp074;85;30;0;5;65;20;14;0;3;0,6;0,1;16;16;F;0;0;﻿2019-05-18;48.076952;13.835503;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp075;97;50;0;70;40;80;18;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077607;13.836286;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp076;75;65;0;2;40;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077440;13.834952;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp077;50;15;25;5;15;1;20;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077389;13.834058;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp078;99;0;0;40;95;5;0;0;3,5;1;0,1;16;16;F;0;0;﻿2019-05-18;48.077665;13.832955;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp079;93;0;0;10;90;1;0;0;1,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.078042;13.832408;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp080;95;85;12;20;90;1;25;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076853;13.832015;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp081;93;80;15;3;55;1;25;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076882;13.833540;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp082;99;30;65;5;60;1;15;5;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.075979;13.832192;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp083;93;50;20;20;75;1;17;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074921;13.832210;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp084;95;55;25;3;80;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.073928;13.832563;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp085;97;60;20;0;80;1;24;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.072295;13.833316;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp086;95;93;0;1;30;1;16;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074746;13.833856;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp087;97;95;0;2;25;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074215;13.834125;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp088;97;80;0;80;25;95;16;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077018;13.837943;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp089;65;60;0;1;3;25;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075878;13.838640;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp090;100;0;0;0;100;5;0;0;0;0,5;0,1;4;4;F;0;0;﻿2019-05-19;48.076335;13.838225;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
+sp091;97;95;0;3;20;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.076267;13.840036;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp092;96;93;0;3;70;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075711;13.839963;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp093;95;94;0;2;30;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074883;13.840038;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp094;97;96;0;1;25;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074333;13.837697;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp095;95;95;0;5;15;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074081;13.838752;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp096;85;80;0;5;1;12;10;0;3;0,3;0,1;16;16;F;0;0;﻿2019-05-19;48.073755;13.839193;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp097;95;65;30;7;40;1;18;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075406;13.841126;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp098;95;25;55;15;90;1;18;14;4;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074785;13.841175;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp099;99;65;15;5;97;1;22;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074136;13.841089;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp100;93;73;20;12;20;1;20;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.073464;13.840640;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp101;97;0;0;15;95;1;0;0;2,5;0,6;0,1;16;16;F;0;0;﻿2019-05-19;48.072918;13.839052;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp102;97;90;0;8;20;65;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074261;13.836004;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp103;97;95;0;4;25;5;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075380;13.834875;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp104;95;20;40;30;65;5;14;9;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075202;13.837470;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp105;97;0;0;0;97;2;0;0;0;0,6;0,1;4;4;F;0;0;﻿2019-05-19;48.074257;13.834929;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
+sp106;93;65;20;6;35;3;14;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.073573;13.833772;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp107;93;65;0;3;8;75;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.072688;13.835632;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp108;95;60;35;7;75;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.072986;13.837291;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp109;97;75;30;7;30;1;24;15;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;48.072493;13.837544;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp110;97;70;15;5;80;1;24;10;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;48.072143;13.836775;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp111;93;0;0;0;93;1;0;0;0;0,9;0,1;8;2;F;0;0;﻿2019-05-20;48.071323;13.833292;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
+sp112;95;50;35;20;70;1;25;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.071626;13.834074;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp113;97;95;0;2;80;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.072013;13.834987;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp114;99;97;0;3;7;1;6;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.071553;13.832610;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp115;65;0;40;10;50;1;0;7;2,5;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.072103;13.832291;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp116;95;75;20;20;20;1;28;15;5;0,4;0,1;16;16;F;0;0;﻿2019-05-20;48.075084;13.831448;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp117;95;93;0;3;45;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.074373;13.830650;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp118;96;90;20;15;30;1;9;6;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.076726;13.842397;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp119;95;92;0;10;40;3;12;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.076255;13.842095;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp120;96;4;92;7;80;1;15;8;3;0,5;0,1;32;8;F;0;0;2019-05-23;48.075950;13.842349;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp121;90;50;5;3;50;1;15;7;3;0,7;0,1;32;8;F;0;0;2019-05-23;48.076271;13.842588;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp122;38;0;0;5;35;1;0;0;3;0,5;0,1;16;16;E;35;0;2019-05-23;48.076312;13.842859;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp123;92;75;20;10;45;1;18;12;3;0,6;0,1;16;16;E;30;0;2019-05-23;48.075013;13.842221;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp124;98;10;40;8;97;1;18;12;3;0,8;0,1;16;16;F;0;0;2019-05-23;48.074572;13.841711;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp125;85;0;0;0;85;1;0;0;0;0,6;0,1;2;8;SE;30;0;2019-05-23;48.073233;13.841137;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
+sp126;97;95;0;1;20;1;13;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.071400;13.830942;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp127;96;80;15;7;55;1;18;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.071990;13.829715;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp128;97;85;10;20;25;1;15;10;5;0,5;0,1;16;16;F;0;0;2019-05-23;48.072606;13.830356;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp129;95;85;12;8;35;1;22;14;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.072841;13.829817;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp130;96;70;25;10;25;1;22;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.073471;13.829965;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp131;97;0;0;30;93;1;0;0;3;0,8;0,1;16;16;F;0;0;2019-05-23;48.075770;13.828185;10;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp132;96;70;15;0;90;1;25;15;0;0,5;0,1;16;16;F;0;0;2019-05-23;48.076662;13.827878;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp133;96;75;20;7;20;1;25;15;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.077076;13.829882;10;Braunerde;MBW;Eu-Fagenion;Mercuriali-Fagetum cariectosum albae;R. Kaiser & T. Eberl
+sp134;92;70;20;3;10;1;28;20;4;0,5;0,1;16;16;W;25;0;2019-05-23;48.076817;13.831245;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp135;99;85;3;0;7;95;15;8;0;0,5;0,1;16;16;F;0;0;2019-05-23;48.075635;13.830051;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
+sp136;92;50;25;70;25;1;27;20;5;0,5;0,1;16;16;SE;35;0;2019-05-24;48.073178;13.841802;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp137;94;70;25;30;30;1;26;18;5;0,5;0,1;16;16;SE;20;0;2019-05-24;48.072293;13.839898;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp138;99;50;0;80;35;1;26;0;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.071767;13.838027;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp139;97;40;50;20;80;1;26;18;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.071261;13.836039;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp140;99;40;50;30;55;1;27;8;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.070640;13.835700;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
+sp141;98;45;40;20;98;1;26;14;5;0,9;0,1;16;16;F;0;0;2019-05-24;48.071071;13.829597;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
+sp142;95;80;20;3;35;1;26;18;3;0,5;0,1;16;16;W;35;0;2019-05-24;48.072816;13.829516;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp143;97;85;12;2;90;1;26;18;4;0,5;0,1;16;16;W;30;0;2019-05-24;48.073554;13.829520;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp144;97;93;0;0;55;1;20;0;0;0,5;0,1;16;16;S;30;0;2019-05-24;48.074580;13.829145;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp145;95;85;10;2;70;1;26;18;3;0,5;0,1;16;16;SW;30;0;2019-05-24;48.075826;13.827634;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
+sp146;99;65;15;25;97;1;28;20;4;0,7;0,1;16;16;F;0;0;2019-05-24;48.077514;13.828887;10;Ausand;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser & T. Eberl
+sp147-2020;97;0;0;75;85;7;0;0;2;0,7;0,1;16;16;F;0;;2020-05-22;48.082654;13.841278;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser
+sp148-2020;95;0;0;30;85;7;0;0;1;0,55;0,2;16;16;F;0;;2020-05-22;48.078877;13.840065;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser
+sp149-2020;93;0;0;30;93;10;0;0;2,5;0,7;0,25;16;16;F;0;;2020-05-22;48.079772;13.841828;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser
