@@ -1,0 +1,146 @@
+BEGIN HEAD
+plot                                          sssss
+                                              wwwww
+                                              wwwww
+                                              00000
+                                              12345
+accuracy                                      11111
+                                              00000
+                                                   
+cov                                           99999
+                                              99879
+                                                   
+hcov                                          99679
+                                              87555
+                                                   
+hhl1                                          00000
+                                              .....
+                                              11111
+                                                   
+hhl2                                          00000
+                                              .....
+                                              44455
+                                                   
+hsl                                           44446
+                                                   
+htl1                                          11133
+                                              77600
+                                                   
+htl2                                           1122
+                                              00000
+                                                   
+mcov                                          12   
+                                              80515
+                                                   
+plsx                                          11122
+                                              66655
+                                                   
+plsy                                          111  
+                                              66667
+                                                   
+scov                                             13
+                                              11150
+                                                   
+slope                                           2  
+                                              00043
+                                                   
+t1cov                                         55576
+                                              00505
+                                                   
+t2cov                                           222
+                                              06055
+                                                   
+richness                                      22333
+                                              47582
+                                                   
+END HEAD
+BEGIN TABLE
+Alnus glutinosa                           tl1 332..
+Alnus incana                                  22...
+Acer pseudoplatanus                           ..3..
+Ulmus glabra                                  ..2..
+Carpinus betulus                              ...2.
+Fagus sylvatica                               ...4.
+Tilia cordata                                 ...22
+Fraxinus excelsior                            ....3
+Quercus robur                                 ....2
+Fraxinus excelsior                        tl2 .2...
+Acer pseudoplatanus                           ..2.2
+Carpinus betulus                              ..122
+Fagus sylvatica                               ..12.
+Ulmus glabra                                  ..2..
+Clematis vitalba                              ...1.
+Tilia cordata                                 ...12
+Cornus sanguinea ssp. sanguinea            sl +..1.
+Prunus padus ssp. padus                       +....
+Fraxinus excelsior                            .+...
+Sambucus nigra                                .+.++
+Euonymus europaeus                            ..+..
+Clematis vitalba                              ...1.
+Corylus avellana                              ...13
+Fagus sylvatica                               ...1+
+Tilia cordata                                 ...+.
+Ulmus glabra                                  ...++
+Acer campestre                                ....+
+Acer pseudoplatanus                        hl r..++
+Aegopodium podagraria                         12++1
+Allium ursinum ssp. ursinum                   22235
+Arum maculatum                                1+.+.
+Carex pendula                                 111..
+Carex remota ssp. remota                      +.+..
+Circaea lutetiana ssp. lutetiana              ++++r
+Deschampsia cespitosa                         ++2..
+Ficaria verna ssp. verna                      43++.
+Fraxinus excelsior                            +.+1+
+Galeobdolon montanum                          ++122
+Leucojum vernum                               +2...
+Paris quadrifolia                             +++++
+Polygonatum multiflorum                       +..+1
+Pulmonaria officinalis s.str.                 +++.+
+Rubus caesius                                 121+.
+Solidago gigantea ssp. serotina               321..
+Symphytum tuberosum s.lat.                    11..+
+Ulmus glabra                                  +.+++
+Urtica dioica ssp. dioica                     +++.+
+Carex sylvatica ssp. sylvatica                .++1+
+Equisetum telmateia                           .+r..
+Galium aparine s.str.                         .1+.+
+Glechoma hederacea                            .++.+
+Lamium maculatum                              .+...
+Phalaris arundinacea                          .+...
+Primula elatior s.str.                        .1...
+Salvia glutinosa                              .++..
+Anemone nemorosa                              ..+1.
+Athyrium filix-femina                         ..+..
+Brachypodium sylvaticum                       ..21+
+Campanula trachelium                          ..+..
+Dryopteris carthusiana s.str.                 ..+.+
+Geum urbanum                                  ..++.
+Hedera helix                                  ..+..
+Quercus robur                                 ..+r+
+Rubus sect. Rubus                             ..+..
+Stachys sylvatica                             ..+++
+Ajuga reptans                                 ...+.
+Aposeris foetida                              ...+.
+Carex digitata                                ...+.
+Carpinus betulus                              ...++
+Clematis vitalba                              ...1.
+Corylus avellana                              ...+.
+Crataegus monogyna                            ...r.
+Dryopteris filix-mas s.str.                   ...r+
+Euonymus europaeus                            ...r.
+Euphorbia amygdaloides ssp. amygdaloides      ...+.
+Fagus sylvatica                               ...+.
+Galium odoratum                               ...1.
+Hepatica nobilis                              ...+.
+Lilium martagon                               ...1+
+Mercurialis perennis s.str.                   ...++
+Phyteuma spicatum ssp. spicatum               ...+.
+Sorbus aucuparia ssp. aucuparia               ...r.
+Tilia cordata                                 ...+.
+Acer campestre                                ....+
+Cornus sanguinea ssp. sanguinea               ....+
+Equisetum arvense                             ....+
+Euphorbia dulcis                              ....+
+Rhamnus cathartica                            ....r
+END TABLE
