@@ -1,0 +1,87 @@
+BEGIN HEAD
+plot                                          hhhhhhh
+                                              aaaaaaa
+                                              0000000
+                                              1234567
+accuracy                                      1111111
+                                              0000000
+                                                     
+cov                                            1   1 
+                                              9099909
+                                              8099909
+                                                     
+hcov                                               1 
+                                              9999909
+                                              0978809
+                                                     
+hhl1                                          000 000
+                                              ... ...
+                                              9791777
+                                                     
+hhl2                                          0000000
+                                              .......
+                                              1111111
+                                                     
+hsl                                           0000000
+                                                     
+htl1                                          0000000
+                                                     
+htl2                                          0000000
+                                                     
+mcov                                          3 1    
+                                              0505535
+                                                     
+plsx                                          4444444
+                                                     
+plsy                                          4444444
+                                                     
+scov                                          0000000
+                                                     
+t1cov                                         0000000
+                                                     
+t2cov                                         0000000
+                                                     
+richness                                      2 12111
+                                              0850513
+                                                     
+END HEAD
+BEGIN TABLE
+Ajuga reptans                              hl 2......
+Alopecurus pratensis                          3r42333
+Anthoxanthum odoratum s.str.                  2..3...
+Carex sylvatica ssp. sylvatica                +.+....
+Chaerophyllum hirsutum s.str.                 r......
+Cirsium oleraceum                             1......
+Festuca pratensis s.str.                      1.+r2..
+Holcus lanatus                                2..32..
+Lolium perenne                                1......
+Lychnis flos-cuculi                           +.r....
+Plantago lanceolata                           +..+...
+Poa pratensis                                 +.12111
+Poa trivialis                                 1322333
+Ranunculus acris ssp. acris                   3...+..
+Ranunculus repens                             213.22.
+Rumex acetosa                                 +.+r...
+Taraxacum sect. Ruderalia                     +r.+121
+Trifolium pratense ssp. pratense              2.+....
+Trifolium repens ssp. repens                  11++.22
+Trisetum flavescens ssp. flavescens           1......
+Heracleum sphondylium ssp. sphondylium        .r.r...
+Lolium multiflorum                            .5..233
+Poa annua ssp. annua                          .1+1111
+Cerastium holosteoides                        ..r+..+
+Glechoma hederacea                            ..r1..1
+Lysimachia nemorum                            ..+....
+Potentilla reptans                            ..+....
+Bromus hordeaceus ssp. hordeaceus             ...2...
+Dactylis glomerata ssp. glomerata             ...11.1
+Rumex obtusifolius ssp. obtusifolius          ...+12.
+Silene dioica                                 ...+...
+Veronica arvensis                             ...r...
+Veronica filiformis                           ...r+.1
+Bellis perennis                               ....+.+
+Veronica serpyllifolia ssp. serpyllifolia     ....r..
+Capsella bursa-pastoris s.str.                .....1.
+Elytrigia repens                              .....1.
+Plantago major s.lat.                         ......+
+END TABLE
