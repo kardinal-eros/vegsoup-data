@@ -1,0 +1,157 @@
+BEGIN HEAD
+plot                                          ssss
+                                              zzzz
+                                              0000
+                                              1234
+accuracy                                      1111
+                                              0000
+                                                  
+cov                                           9999
+                                              9979
+                                                  
+hcov                                          6986
+                                              0005
+                                                  
+hhl1                                          0000
+                                              ....
+                                              5565
+                                                  
+hhl2                                          0000
+                                              ....
+                                              1111
+                                                  
+hsl                                            1  
+                                               .  
+                                              2535
+                                                  
+htl1                                          2222
+                                              2232
+                                                  
+htl2                                             1
+                                              0004
+                                                  
+mcov                                          975 
+                                              8002
+                                                  
+plsx                                          1111
+                                              6666
+                                                  
+plsy                                          1111
+                                              6666
+                                                  
+rock                                          0000
+                                                  
+scov                                          1115
+                                              5555
+                                                  
+slope                                         5435
+                                                  
+t1cov                                         9889
+                                              0505
+                                                  
+t2cov                                            1
+                                              0000
+                                                  
+richness                                      4443
+                                              9644
+                                                  
+END HEAD
+BEGIN TABLE
+Picea abies                               tl1 5552
+Acer pseudoplatanus                           ...2
+Fagus sylvatica                               ...3
+Fraxinus excelsior                            ...2
+Acer pseudoplatanus                       tl2 ...1
+Picea abies                                   ...2
+Cornus sanguinea ssp. sanguinea            sl r...
+Corylus avellana                              11.3
+Frangula alnus                                1..r
+Ligustrum vulgare                             1.rr
+Lonicera xylosteum                            1r+1
+Sambucus nigra                                222.
+Viburnum lantana                              r..r
+Viburnum opulus                               r...
+Acer pseudoplatanus                           .r.1
+Berberis vulgaris                             .r..
+Ulmus glabra                                  .r..
+Fagus sylvatica                               ...2
+Fraxinus excelsior                            ...r
+Picea abies                                   ...r
+Sorbus aria s.str.                            ...r
+Acer pseudoplatanus                        hl ++++
+Aegopodium podagraria                         ++.+
+Ajuga reptans                                 +.r.
+Aposeris foetida                              11..
+Berberis vulgaris                             rr.r
+Brachypodium sylvaticum                       12+.
+Cardamine trifolia                            +..+
+Carex alba                                    +212
+Carex ornithopodoides                         ++..
+Chaerophyllum hirsutum s.str.                 ++..
+Clematis vitalba                              11++
+Cornus sanguinea ssp. sanguinea               rrr.
+Corylus avellana                              1+..
+Cypripedium calceolus                         111.
+Daphne mezereum                               rr+r
+Euonymus europaeus                            r...
+Fragaria vesca                                ++++
+Frangula alnus                                +...
+Fraxinus excelsior                            +1++
+Glechoma hederacea                            +.r.
+Hedera helix                                  ++..
+Helleborus niger                              r..1
+Hepatica nobilis                              ++.1
+Lactuca muralis                               +.+.
+Ligustrum vulgare                             +.r+
+Listera ovata                                 1+1+
+Lonicera xylosteum                            +r+.
+Melica nutans s.str.                          +...
+Mercurialis perennis s.str.                   3332
+Oxalis acetosella                             3231
+Paris quadrifolia                             +++r
+Petasites albus                               +1..
+Polygonatum verticillatum                     +.r.
+Primula elatior s.str.                        +.+.
+Rosa arvensis                                 r...
+Rubus idaeus                                  221+
+Salvia glutinosa                              1+1+
+Sambucus nigra                                +++.
+Senecio ovatus ssp. ovatus                    rr..
+Sorbus aria s.str.                            r...
+Sorbus aucuparia ssp. aucuparia               r..r
+Tilia platyphyllos                            r.r.
+Valeriana tripteris                           +...
+Viburnum lantana                              r...
+Vincetoxicum hirundinaria                     r...
+Viola collina                                 r.r.
+Viola reichenbachiana                         +.r+
+Athyrium filix-femina                         .+r.
+Calamagrostis varia                           .+..
+Cardamine enneaphyllos                        .+.2
+Cirsium oleraceum                             .+r.
+Dactylorhiza maculata s.lat.                  .r..
+Dryopteris borreri                            .+..
+Dryopteris filix-mas s.str.                   .+r.
+Euphorbia amygdaloides ssp. amygdaloides      .+.+
+Galeobdolon montanum                          .1+.
+Geranium robertianum s.str.                   .+r.
+Gymnocarpium robertianum                      .r..
+Picea abies                                   .rrr
+Polystichum aculeatum s.str.                  .+r.
+Rubus saxatilis                               .+++
+Salix appendiculata s.str.                    .r..
+Solidago gigantea ssp. serotina               .+..
+Tussilago farfara                             .+..
+Ulmus glabra                                  .rr.
+Viburnum opulus                               .r.r
+Angelica sylvestris ssp. sylvestris           ..r+
+Cardamine impatiens                           ..r.
+Carex sylvatica ssp. sylvatica                ..+.
+Deschampsia cespitosa                         ..r+
+Dryopteris carthusiana s.str.                 ..r.
+Ranunculus repens                             ..r.
+Silene dioica                                 ..r.
+Solanum dulcamara                             ..r.
+Urtica dioica ssp. dioica                     ..+.
+Rubus caesius                                 ...+
+END TABLE

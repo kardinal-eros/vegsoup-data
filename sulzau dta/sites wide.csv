@@ -1,0 +1,5 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;date;latitude;longitude;accuracy;soil;type;alliance;association;observer
+sz01;99;90;0;15;60;98;22;0;2;0,5;0,1;16;16;NE;5;0;2019-05-26;47.516327;13.163275;10;;;;;R. Kaiser & T. Eberl
+sz02;99;85;0;15;90;70;22;0;1,5;0,5;0,1;16;16;NE;4;0;2019-05-26;47.516529;13.163175;10;;;;;R. Kaiser & T. Eberl
+sz03;97;80;0;15;80;50;23;0;3;0,6;0,1;16;16;NE;3;0;2019-05-26;47.516414;13.163536;10;;;;;R. Kaiser & T. Eberl
+sz04;99;95;10;55;65;2;22;14;5;0,5;0,1;16;16;E;5;0;2019-05-26;47.516182;13.162690;10;;;;;R. Kaiser & T. Eberl
