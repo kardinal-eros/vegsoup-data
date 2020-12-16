@@ -17,13 +17,13 @@ X <- stackSpecies(x.df)[, 1:4]
 
 Y <- read.delim("~/Documents/vegsoup-data/isda1986/Isda1986Tab1Locations.txt",
 	header = FALSE, colClasses = "character")
-names(Y) <- c("plot", "location.short", "location", "tms")
+names(Y) <- c("plot", "location.short", "location", "tms", "observer", "date", "remarks")
 #	Y$plot <- type.convert(Y$plot)
 
 Y <- data.frame(Y, t(sapply(Y[,4], str2latlng, USE.NAMES = FALSE)))
 names(Y)[grep("precision", names(Y))] <- "accuracy"
 Y <- stackSites(Y, zeros = FALSE)
-
+Y
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
 XZ <- SpeciesTaxonomy(X, file.y = file)
 

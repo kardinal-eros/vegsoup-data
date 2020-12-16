@@ -11,7 +11,7 @@ X <- X[, 1:4]
 
 file <- file.path(path, "sites wide.csv")
 #	promote to class "Sites"
-Y <- stackSites(file = file)
+Y <- stackSites(file = file, sep = ",")
 
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
 #	promote to class "SpeciesTaxonomy"

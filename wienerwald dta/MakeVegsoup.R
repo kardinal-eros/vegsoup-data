@@ -44,7 +44,7 @@ obj4 <- read.XML(file)
 coverscale(obj4) <- "braun.blanquet2"     # to match obj*
 
 #	concatenate objects
-obj <- bind(obj1, obj2, obj3, obj4)
+obj <- vegsoup::bind(obj1, obj2, obj3, obj4)
 
 #	recode layer
 obj <- turbovegLayers(obj, "hl") # no layer is herb layer

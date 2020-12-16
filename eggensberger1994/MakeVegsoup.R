@@ -91,7 +91,7 @@ rownames(obj) <- paste(key, "Tab11", sprintf("%02d", as.numeric(rownames(obj))),
 tab11 <- obj
 
 #	combine tables
-obj <- bind(tab10, tab11)
+obj <- vegsoup::bind(tab10, tab11)
 
 #	order layer
 layers(obj)	 <- c("hl", "ml")

@@ -1,219 +1,219 @@
-plot,x,y
-6001,721630,228500
-6002,755500,234990
-7001,753820,215840
-7002,755000,217120
-7003,754890,217190
-7004,754810,219480
-7005,754730,220330
-7006,726630,222280
-7007,726670,222380
-7008,726510,222630
-7009,723370,226260
-7010,723450,226250
-7011,752120,213760
-7012,752110,213920
-7013,750860,213620
-7014,723410,226900
-7015,723180,227000
-7016,723120,227080
-7017,721940,230480
-7018,721820,230280
-7019,747460,214710
-7020,747120,215020
-7021,747700,215980
-7022,748610,216040
-7023,752400,213900
-7024,747760,214350
-7030,746160,218180
-7031,746270,217840
-7032,746660,217520
-7033,745150,218450
-7034,753630,215110
-7035,753740,215030
-7036,753860,214880
-7037,754050,214870
-7038,753720,216470
-7039,753610,222230
-7040,754380,222500
-7041,754270,222750
-7042,721210,227920
-7043,721460,228290
-7044,721180,234700
-7045,755620,234990
-7046,749740,212830
-7047,749560,212400
-7048,749380,212110
-7049,744160,211760
-7050,738040,222480
-7051,738050,222330
-7052,737690,222270
-7053,736630,222310
-7054,755750,236750
-7055,755480,237560
-7056,755850,238010
-7057,752200,225380
-7058,752510,225490
-7061,737030,221650
-7062,736700,221690
-7063,750570,232050
-7064,750400,232100
-7066,734980,221450
-7067,744650,221010
-7068,744490,221160
-8001,751080,213590
-8002,751750,213120
-8002,754970,217160
-8003,751240,213470
-8004,752220,213680
-8005,752030,213840
-8006,750870,213660
-8007,747850,214330
-8008,747350,214820
-8009,746960,215200
-8010,747600,216180
-8011,748480,215930
-8012,748350,215990
-8013,752510,213930
-8014,754380,213720
-8015,754420,213900
-8016,754540,213410
-8017,753640,222440
-8018,753650,222150
-8019,754170,222420
-8020,753850,221760
-8021,754180,222850
-8022,750580,213960
-8023,752520,213970
-8024,721720,228380
-8025,721670,228330
-8026,720900,235180
-8027,720950,235140
-8028,721070,234650
-8029,747180,226750
-8030,747250,226890
-8031,747290,226760
-8032,747270,226720
-8033,747220,226700
-8034,755710,234980
-8035,744680,211370
-8036,744230,211340
-8037,739370,223120
-8038,739530,223200
-8039,739760,223320
-8040,740050,223360
-8041,740670,223350
-8042,755610,236750
-8043,755620,237440
-8044,755920,238030
-8045,752020,225250
-8046,751210,216440
-8047,750260,214400
-8048,750120,214720
-8049,750150,214690
-8050,749980,214890
-8051,750030,214830
-8052,750560,224340
-8053,750280,224260
-8054,750130,224060
-8055,750300,224050
-8056,731820,211620
-8057,731700,211480
-8058,731660,211520
-8059,731920,211680
-8060,733460,212450
-8061,733800,216450
-8062,753250,207510
-8063,753230,206930
-8064,753210,207060
-8065,753200,207600
-8066,751990,217400
-8067,755500,237850
-8068,755570,237930
-8069,754870,238420
-8070,747700,213170
-8071,747730,213150
-8072,747720,213190
-8073,747520,213330
-8074,750130,216420
-8075,750060,216710
-8076,749890,216390
-8077,749750,216280
-8078,750020,215720
-8079,750260,215610
-8080,753110,236420
-8081,754550,238600
-8082,753670,236930
-8083,728610,224660
-9001,753920,215840
-9003,754890,219360
-9004,754650,220070
-9005,754770,219560
-9006,726650,222560
-9007,726680,222530
-9008,726510,222590
-9009,723140,226000
-9010,723090,225840
-9011,723500,226810
-9012,723470,226860
-9013,721880,230380
-9014,721980,230460
-9015,721930,230370
-9016,749530,213330
-9017,747400,214750
-9018,746830,215350
-9019,746200,218100
-9020,746340,217800
-9021,746380,217770
-9022,746500,217680
-9023,747920,215870
-9024,753670,215160
-9025,753640,214870
-9026,753940,214950
-9027,754110,215070
-9028,753690,216480
-9029,753730,216380
-9030,749730,212810
-9031,749330,212190
-9032,750180,212850
-9033,744410,211350
-9034,744470,211460
-9035,751650,216970
-9036,751610,217040
-9037,751540,216870
-9038,751450,216730
-9039,752080,217390
-9040,755560,237900
-9041,754860,238690
-9100,748360,214550
-9101,710420,231800
-9101,756250,201250
-9102,753250,223900
-9103,753040,223810
-9104,751950,222780
-9105,746850,228170
-9106,753320,216120
-9107,746030,226280
-9200,748720,215580
-9201,748900,215330
-9202,749440,215190
-9203,749810,215000
-9204,728370,208130
-9205,763450,205200
-9205,763450,205200
-9206,763460,205120
-9206,763460,205120
-9211,759720,204550
-9211,759720,204550
-9212,759600,204550
-9212,759600,204550
-9214,759450,204600
-9214,759450,204600
-9220,757700,212230
-9221,758700,210250
-9223,757500,212230
-9224,758700,210250
-9227,763500,204400
-9227,763500,204400
-9230,755250,212500
-9235,755850,211820
+plot,x,y,observer,date,remarks
+6001,721630,228500,H.U. Frey,1995-01-01,date is year of publication
+6002,755500,234990,H.U. Frey,1995-01-01,date is year of publication
+7001,753820,215840,H.U. Frey,1995-01-01,date is year of publication
+7002,755000,217120,H.U. Frey,1995-01-01,date is year of publication
+7003,754890,217190,H.U. Frey,1995-01-01,date is year of publication
+7004,754810,219480,H.U. Frey,1995-01-01,date is year of publication
+7005,754730,220330,H.U. Frey,1995-01-01,date is year of publication
+7006,726630,222280,H.U. Frey,1995-01-01,date is year of publication
+7007,726670,222380,H.U. Frey,1995-01-01,date is year of publication
+7008,726510,222630,H.U. Frey,1995-01-01,date is year of publication
+7009,723370,226260,H.U. Frey,1995-01-01,date is year of publication
+7010,723450,226250,H.U. Frey,1995-01-01,date is year of publication
+7011,752120,213760,H.U. Frey,1995-01-01,date is year of publication
+7012,752110,213920,H.U. Frey,1995-01-01,date is year of publication
+7013,750860,213620,H.U. Frey,1995-01-01,date is year of publication
+7014,723410,226900,H.U. Frey,1995-01-01,date is year of publication
+7015,723180,227000,H.U. Frey,1995-01-01,date is year of publication
+7016,723120,227080,H.U. Frey,1995-01-01,date is year of publication
+7017,721940,230480,H.U. Frey,1995-01-01,date is year of publication
+7018,721820,230280,H.U. Frey,1995-01-01,date is year of publication
+7019,747460,214710,H.U. Frey,1995-01-01,date is year of publication
+7020,747120,215020,H.U. Frey,1995-01-01,date is year of publication
+7021,747700,215980,H.U. Frey,1995-01-01,date is year of publication
+7022,748610,216040,H.U. Frey,1995-01-01,date is year of publication
+7023,752400,213900,H.U. Frey,1995-01-01,date is year of publication
+7024,747760,214350,H.U. Frey,1995-01-01,date is year of publication
+7030,746160,218180,H.U. Frey,1995-01-01,date is year of publication
+7031,746270,217840,H.U. Frey,1995-01-01,date is year of publication
+7032,746660,217520,H.U. Frey,1995-01-01,date is year of publication
+7033,745150,218450,H.U. Frey,1995-01-01,date is year of publication
+7034,753630,215110,H.U. Frey,1995-01-01,date is year of publication
+7035,753740,215030,H.U. Frey,1995-01-01,date is year of publication
+7036,753860,214880,H.U. Frey,1995-01-01,date is year of publication
+7037,754050,214870,H.U. Frey,1995-01-01,date is year of publication
+7038,753720,216470,H.U. Frey,1995-01-01,date is year of publication
+7039,753610,222230,H.U. Frey,1995-01-01,date is year of publication
+7040,754380,222500,H.U. Frey,1995-01-01,date is year of publication
+7041,754270,222750,H.U. Frey,1995-01-01,date is year of publication
+7042,721210,227920,H.U. Frey,1995-01-01,date is year of publication
+7043,721460,228290,H.U. Frey,1995-01-01,date is year of publication
+7044,721180,234700,H.U. Frey,1995-01-01,date is year of publication
+7045,755620,234990,H.U. Frey,1995-01-01,date is year of publication
+7046,749740,212830,H.U. Frey,1995-01-01,date is year of publication
+7047,749560,212400,H.U. Frey,1995-01-01,date is year of publication
+7048,749380,212110,H.U. Frey,1995-01-01,date is year of publication
+7049,744160,211760,H.U. Frey,1995-01-01,date is year of publication
+7050,738040,222480,H.U. Frey,1995-01-01,date is year of publication
+7051,738050,222330,H.U. Frey,1995-01-01,date is year of publication
+7052,737690,222270,H.U. Frey,1995-01-01,date is year of publication
+7053,736630,222310,H.U. Frey,1995-01-01,date is year of publication
+7054,755750,236750,H.U. Frey,1995-01-01,date is year of publication
+7055,755480,237560,H.U. Frey,1995-01-01,date is year of publication
+7056,755850,238010,H.U. Frey,1995-01-01,date is year of publication
+7057,752200,225380,H.U. Frey,1995-01-01,date is year of publication
+7058,752510,225490,H.U. Frey,1995-01-01,date is year of publication
+7061,737030,221650,H.U. Frey,1995-01-01,date is year of publication
+7062,736700,221690,H.U. Frey,1995-01-01,date is year of publication
+7063,750570,232050,H.U. Frey,1995-01-01,date is year of publication
+7064,750400,232100,H.U. Frey,1995-01-01,date is year of publication
+7066,734980,221450,H.U. Frey,1995-01-01,date is year of publication
+7067,744650,221010,H.U. Frey,1995-01-01,date is year of publication
+7068,744490,221160,H.U. Frey,1995-01-01,date is year of publication
+8001,751080,213590,H.U. Frey,1995-01-01,date is year of publication
+8002,751750,213120,H.U. Frey,1995-01-01,date is year of publication
+8002,754970,217160,H.U. Frey,1995-01-01,date is year of publication
+8003,751240,213470,H.U. Frey,1995-01-01,date is year of publication
+8004,752220,213680,H.U. Frey,1995-01-01,date is year of publication
+8005,752030,213840,H.U. Frey,1995-01-01,date is year of publication
+8006,750870,213660,H.U. Frey,1995-01-01,date is year of publication
+8007,747850,214330,H.U. Frey,1995-01-01,date is year of publication
+8008,747350,214820,H.U. Frey,1995-01-01,date is year of publication
+8009,746960,215200,H.U. Frey,1995-01-01,date is year of publication
+8010,747600,216180,H.U. Frey,1995-01-01,date is year of publication
+8011,748480,215930,H.U. Frey,1995-01-01,date is year of publication
+8012,748350,215990,H.U. Frey,1995-01-01,date is year of publication
+8013,752510,213930,H.U. Frey,1995-01-01,date is year of publication
+8014,754380,213720,H.U. Frey,1995-01-01,date is year of publication
+8015,754420,213900,H.U. Frey,1995-01-01,date is year of publication
+8016,754540,213410,H.U. Frey,1995-01-01,date is year of publication
+8017,753640,222440,H.U. Frey,1995-01-01,date is year of publication
+8018,753650,222150,H.U. Frey,1995-01-01,date is year of publication
+8019,754170,222420,H.U. Frey,1995-01-01,date is year of publication
+8020,753850,221760,H.U. Frey,1995-01-01,date is year of publication
+8021,754180,222850,H.U. Frey,1995-01-01,date is year of publication
+8022,750580,213960,H.U. Frey,1995-01-01,date is year of publication
+8023,752520,213970,H.U. Frey,1995-01-01,date is year of publication
+8024,721720,228380,H.U. Frey,1995-01-01,date is year of publication
+8025,721670,228330,H.U. Frey,1995-01-01,date is year of publication
+8026,720900,235180,H.U. Frey,1995-01-01,date is year of publication
+8027,720950,235140,H.U. Frey,1995-01-01,date is year of publication
+8028,721070,234650,H.U. Frey,1995-01-01,date is year of publication
+8029,747180,226750,H.U. Frey,1995-01-01,date is year of publication
+8030,747250,226890,H.U. Frey,1995-01-01,date is year of publication
+8031,747290,226760,H.U. Frey,1995-01-01,date is year of publication
+8032,747270,226720,H.U. Frey,1995-01-01,date is year of publication
+8033,747220,226700,H.U. Frey,1995-01-01,date is year of publication
+8034,755710,234980,H.U. Frey,1995-01-01,date is year of publication
+8035,744680,211370,H.U. Frey,1995-01-01,date is year of publication
+8036,744230,211340,H.U. Frey,1995-01-01,date is year of publication
+8037,739370,223120,H.U. Frey,1995-01-01,date is year of publication
+8038,739530,223200,H.U. Frey,1995-01-01,date is year of publication
+8039,739760,223320,H.U. Frey,1995-01-01,date is year of publication
+8040,740050,223360,H.U. Frey,1995-01-01,date is year of publication
+8041,740670,223350,H.U. Frey,1995-01-01,date is year of publication
+8042,755610,236750,H.U. Frey,1995-01-01,date is year of publication
+8043,755620,237440,H.U. Frey,1995-01-01,date is year of publication
+8044,755920,238030,H.U. Frey,1995-01-01,date is year of publication
+8045,752020,225250,H.U. Frey,1995-01-01,date is year of publication
+8046,751210,216440,H.U. Frey,1995-01-01,date is year of publication
+8047,750260,214400,H.U. Frey,1995-01-01,date is year of publication
+8048,750120,214720,H.U. Frey,1995-01-01,date is year of publication
+8049,750150,214690,H.U. Frey,1995-01-01,date is year of publication
+8050,749980,214890,H.U. Frey,1995-01-01,date is year of publication
+8051,750030,214830,H.U. Frey,1995-01-01,date is year of publication
+8052,750560,224340,H.U. Frey,1995-01-01,date is year of publication
+8053,750280,224260,H.U. Frey,1995-01-01,date is year of publication
+8054,750130,224060,H.U. Frey,1995-01-01,date is year of publication
+8055,750300,224050,H.U. Frey,1995-01-01,date is year of publication
+8056,731820,211620,H.U. Frey,1995-01-01,date is year of publication
+8057,731700,211480,H.U. Frey,1995-01-01,date is year of publication
+8058,731660,211520,H.U. Frey,1995-01-01,date is year of publication
+8059,731920,211680,H.U. Frey,1995-01-01,date is year of publication
+8060,733460,212450,H.U. Frey,1995-01-01,date is year of publication
+8061,733800,216450,H.U. Frey,1995-01-01,date is year of publication
+8062,753250,207510,H.U. Frey,1995-01-01,date is year of publication
+8063,753230,206930,H.U. Frey,1995-01-01,date is year of publication
+8064,753210,207060,H.U. Frey,1995-01-01,date is year of publication
+8065,753200,207600,H.U. Frey,1995-01-01,date is year of publication
+8066,751990,217400,H.U. Frey,1995-01-01,date is year of publication
+8067,755500,237850,H.U. Frey,1995-01-01,date is year of publication
+8068,755570,237930,H.U. Frey,1995-01-01,date is year of publication
+8069,754870,238420,H.U. Frey,1995-01-01,date is year of publication
+8070,747700,213170,H.U. Frey,1995-01-01,date is year of publication
+8071,747730,213150,H.U. Frey,1995-01-01,date is year of publication
+8072,747720,213190,H.U. Frey,1995-01-01,date is year of publication
+8073,747520,213330,H.U. Frey,1995-01-01,date is year of publication
+8074,750130,216420,H.U. Frey,1995-01-01,date is year of publication
+8075,750060,216710,H.U. Frey,1995-01-01,date is year of publication
+8076,749890,216390,H.U. Frey,1995-01-01,date is year of publication
+8077,749750,216280,H.U. Frey,1995-01-01,date is year of publication
+8078,750020,215720,H.U. Frey,1995-01-01,date is year of publication
+8079,750260,215610,H.U. Frey,1995-01-01,date is year of publication
+8080,753110,236420,H.U. Frey,1995-01-01,date is year of publication
+8081,754550,238600,H.U. Frey,1995-01-01,date is year of publication
+8082,753670,236930,H.U. Frey,1995-01-01,date is year of publication
+8083,728610,224660,H.U. Frey,1995-01-01,date is year of publication
+9001,753920,215840,H.U. Frey,1995-01-01,date is year of publication
+9003,754890,219360,H.U. Frey,1995-01-01,date is year of publication
+9004,754650,220070,H.U. Frey,1995-01-01,date is year of publication
+9005,754770,219560,H.U. Frey,1995-01-01,date is year of publication
+9006,726650,222560,H.U. Frey,1995-01-01,date is year of publication
+9007,726680,222530,H.U. Frey,1995-01-01,date is year of publication
+9008,726510,222590,H.U. Frey,1995-01-01,date is year of publication
+9009,723140,226000,H.U. Frey,1995-01-01,date is year of publication
+9010,723090,225840,H.U. Frey,1995-01-01,date is year of publication
+9011,723500,226810,H.U. Frey,1995-01-01,date is year of publication
+9012,723470,226860,H.U. Frey,1995-01-01,date is year of publication
+9013,721880,230380,H.U. Frey,1995-01-01,date is year of publication
+9014,721980,230460,H.U. Frey,1995-01-01,date is year of publication
+9015,721930,230370,H.U. Frey,1995-01-01,date is year of publication
+9016,749530,213330,H.U. Frey,1995-01-01,date is year of publication
+9017,747400,214750,H.U. Frey,1995-01-01,date is year of publication
+9018,746830,215350,H.U. Frey,1995-01-01,date is year of publication
+9019,746200,218100,H.U. Frey,1995-01-01,date is year of publication
+9020,746340,217800,H.U. Frey,1995-01-01,date is year of publication
+9021,746380,217770,H.U. Frey,1995-01-01,date is year of publication
+9022,746500,217680,H.U. Frey,1995-01-01,date is year of publication
+9023,747920,215870,H.U. Frey,1995-01-01,date is year of publication
+9024,753670,215160,H.U. Frey,1995-01-01,date is year of publication
+9025,753640,214870,H.U. Frey,1995-01-01,date is year of publication
+9026,753940,214950,H.U. Frey,1995-01-01,date is year of publication
+9027,754110,215070,H.U. Frey,1995-01-01,date is year of publication
+9028,753690,216480,H.U. Frey,1995-01-01,date is year of publication
+9029,753730,216380,H.U. Frey,1995-01-01,date is year of publication
+9030,749730,212810,H.U. Frey,1995-01-01,date is year of publication
+9031,749330,212190,H.U. Frey,1995-01-01,date is year of publication
+9032,750180,212850,H.U. Frey,1995-01-01,date is year of publication
+9033,744410,211350,H.U. Frey,1995-01-01,date is year of publication
+9034,744470,211460,H.U. Frey,1995-01-01,date is year of publication
+9035,751650,216970,H.U. Frey,1995-01-01,date is year of publication
+9036,751610,217040,H.U. Frey,1995-01-01,date is year of publication
+9037,751540,216870,H.U. Frey,1995-01-01,date is year of publication
+9038,751450,216730,H.U. Frey,1995-01-01,date is year of publication
+9039,752080,217390,H.U. Frey,1995-01-01,date is year of publication
+9040,755560,237900,H.U. Frey,1995-01-01,date is year of publication
+9041,754860,238690,H.U. Frey,1995-01-01,date is year of publication
+9100,748360,214550,H.U. Frey,1995-01-01,date is year of publication
+9101,710420,231800,H.U. Frey,1995-01-01,date is year of publication
+9101,756250,201250,H.U. Frey,1995-01-01,date is year of publication
+9102,753250,223900,H.U. Frey,1995-01-01,date is year of publication
+9103,753040,223810,H.U. Frey,1995-01-01,date is year of publication
+9104,751950,222780,H.U. Frey,1995-01-01,date is year of publication
+9105,746850,228170,H.U. Frey,1995-01-01,date is year of publication
+9106,753320,216120,H.U. Frey,1995-01-01,date is year of publication
+9107,746030,226280,H.U. Frey,1995-01-01,date is year of publication
+9200,748720,215580,H.U. Frey,1995-01-01,date is year of publication
+9201,748900,215330,H.U. Frey,1995-01-01,date is year of publication
+9202,749440,215190,H.U. Frey,1995-01-01,date is year of publication
+9203,749810,215000,H.U. Frey,1995-01-01,date is year of publication
+9204,728370,208130,H.U. Frey,1995-01-01,date is year of publication
+9205,763450,205200,H.U. Frey,1995-01-01,date is year of publication
+9205,763450,205200,H.U. Frey,1995-01-01,date is year of publication
+9206,763460,205120,H.U. Frey,1995-01-01,date is year of publication
+9206,763460,205120,H.U. Frey,1995-01-01,date is year of publication
+9211,759720,204550,H.U. Frey,1995-01-01,date is year of publication
+9211,759720,204550,H.U. Frey,1995-01-01,date is year of publication
+9212,759600,204550,H.U. Frey,1995-01-01,date is year of publication
+9212,759600,204550,H.U. Frey,1995-01-01,date is year of publication
+9214,759450,204600,H.U. Frey,1995-01-01,date is year of publication
+9214,759450,204600,H.U. Frey,1995-01-01,date is year of publication
+9220,757700,212230,H.U. Frey,1995-01-01,date is year of publication
+9221,758700,210250,H.U. Frey,1995-01-01,date is year of publication
+9223,757500,212230,H.U. Frey,1995-01-01,date is year of publication
+9224,758700,210250,H.U. Frey,1995-01-01,date is year of publication
+9227,763500,204400,H.U. Frey,1995-01-01,date is year of publication
+9227,763500,204400,H.U. Frey,1995-01-01,date is year of publication
+9230,755250,212500,H.U. Frey,1995-01-01,date is year of publication
+9235,755850,211820,H.U. Frey,1995-01-01,date is year of publication

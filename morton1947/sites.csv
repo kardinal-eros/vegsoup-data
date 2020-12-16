@@ -17,7 +17,7 @@ Morton1947:1158a;rock;0
 Morton1947:1158a;stones;0
 Morton1947:1158a;bare;0
 Morton1947:1158a;soil;
-Morton1947:1158a;date;15.07.1947
+Morton1947:1158a;date;1947-07-15
 Morton1947:1158a;altitude;730
 Morton1947:1158a;precision.vertical;50
 Morton1947:1158a;accuracy;200
@@ -43,7 +43,7 @@ Morton1947:1159;rock;0
 Morton1947:1159;stones;0
 Morton1947:1159;bare;0
 Morton1947:1159;soil;
-Morton1947:1159;date;15.07.1947
+Morton1947:1159;date;1947-07-15
 Morton1947:1159;altitude;720
 Morton1947:1159;precision.vertical;50
 Morton1947:1159;accuracy;200
@@ -69,7 +69,7 @@ Morton1947:1170a;rock;0
 Morton1947:1170a;stones;0
 Morton1947:1170a;bare;0
 Morton1947:1170a;soil;
-Morton1947:1170a;date;09.08.1947
+Morton1947:1170a;date;1939-08-09
 Morton1947:1170a;altitude;1150
 Morton1947:1170a;precision.vertical;50
 Morton1947:1170a;accuracy;200
@@ -95,7 +95,7 @@ Morton1947:453;rock;0
 Morton1947:453;stones;0
 Morton1947:453;bare;0
 Morton1947:453;soil;
-Morton1947:453;date;18.08.1939
+Morton1947:453;date;1939-08-18
 Morton1947:453;altitude;720
 Morton1947:453;precision.vertical;50
 Morton1947:453;accuracy;200
@@ -121,7 +121,7 @@ Morton1947:453a;rock;0
 Morton1947:453a;stones;0
 Morton1947:453a;bare;0
 Morton1947:453a;soil;
-Morton1947:453a;date;18.08.1939
+Morton1947:453a;date;1939-08-18
 Morton1947:453a;altitude;720
 Morton1947:453a;precision.vertical;50
 Morton1947:453a;accuracy;200
@@ -147,7 +147,7 @@ Morton1947:456;rock;0
 Morton1947:456;stones;0
 Morton1947:456;bare;0
 Morton1947:456;soil;
-Morton1947:456;date;18.08.1939
+Morton1947:456;date;1939-08-18
 Morton1947:456;altitude;710
 Morton1947:456;precision.vertical;50
 Morton1947:456;accuracy;200
@@ -155,3 +155,9 @@ Morton1947:456;longitude;14,052
 Morton1947:456;latitude;47,5286
 Morton1947:456;comment;Nr. 456
 Morton1947:456;location;Schutthalde bei Untergrimming
+Morton1947:1158a;observer;F. Morton
+Morton1947:1159;observer;F. Morton
+Morton1947:1170a;observer;F. Morton
+Morton1947:453;observer;F. Morton
+Morton1947:453a;observer;F. Morton
+Morton1947:456;observer;F. Morton

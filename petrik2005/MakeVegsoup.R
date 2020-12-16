@@ -27,10 +27,10 @@ X$cov <- gsub("b", "2b", X$cov)
 
 #   sites data including coordinates
 file <- file.path(path, "Petrik2005Tab1TLocations.csv")
-Y <- read.csv2(file, colClasses = "character")
+Y <- read.csv(file, colClasses = "character")
 names(Y)[1] <- "plot"
 # promote to class "Sites"
-Y <- stackSites(Y)
+Y <- stackSites(file = file, sep = ",", schema = "Releve nr.")
 
 # taxonomy reference list
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
@@ -39,8 +39,8 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 # promote to class "Vegsoup"
 obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
 #	grome names
-names(obj)[1:9] <- c("pls", "expo", "slope", "elevation",
-	"hcov", "mcov", "cov", "bedrock", "date")
+names(obj) <-  c("accuracy", "elevation", "pls", "expo", "mcov", "hcov", "cov", "date", "geology", "observer", "slope")
+
 obj$alliance <- "Oxytropido carpaticae-Elynetum"		
 
 #	unique rownames

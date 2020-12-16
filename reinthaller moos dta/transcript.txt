@@ -33,5 +33,4 @@ Sphagnum magellanicum                              1
 undetermined bryophyte(s)                          +  
 Picea abies                                  sl    +  
  
-x: 13.52611, y: 47.91597, accuracy: 5, alliance: Caricion davallianae, bare: 0, comment: Ausbildung mit Torfmoosen, cov: 97, date: 2012-08-16, debris: 0, expo: S, hcov: 95, hhl1: 0,45, hhl2: 0,3, hsl: 0, htl: 0, location: Attersee, reintahller Moos, mcov: 35, observer: R. Kaiser, plsx: 4, plsy: 4, rock: 0, scov: 0, slope: 35, syntaxon: Junco obtusiflori-Schoenetum nigricantis Allorge 1921, tcov: 0, richness: 32, author: R Kaiser, citation: Kaiser R (2012). “Reinthaller Moos.” Spring fen in the Reinthaller Moos (Upper
-Austria, Austria).
+x: 13.52611, y: 47.91597, accuracy: 5, alliance: Caricion davallianae, bare: 0, comment: Ausbildung mit Torfmoosen, cov: 97, date: 2012-08-16, debris: 0, expo: S, hcov: 95, hhl1: 0,45, hhl2: 0,3, hsl: 0, htl: 0, location: Attersee, reintahller Moos, mcov: 35, observer: R. Kaiser, plsx: 4, plsy: 4, rock: 0, scov: 0, slope: 35, syntaxon: Junco obtusiflori-Schoenetum nigricantis Allorge 1921, tcov: 0, richness: 32, author: R Kaiser, citation: Kaiser R (2012). “Reinthaller Moos.” Spring fen in the Reinthaller Moos (Upper Austria, Austria).

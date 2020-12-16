@@ -1,53 +1,52 @@
-065	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15
-064	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15
-107	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15
-254	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15
-250	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15
-259	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15
-229	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-432	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-373	d	Dolomiten,Padonzug SW Pordoi-Joch	x=8729&y=5796&z=14
-212	o2	Wallhorner Mähder NE Prägraten	x=8755&y=5760&z=14,x=8756&y=5760&z=14
-246	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15
-138	w	Grieswies-Mähder NW Kolm-Saigurn	x=8782&y=5757&z=14
-137	w	Grieswies-Mähder NW Kolm-Saigurn	x=8782&y=5757&z=14
-274	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15
-070	m	Mauskarkogel WNW Hofgasteiner Haus	x=17571&s=&y=11505&z=15,x=17572&s=&y=11505&z=15
-235	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-186	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-187	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-325	k	Kals,Grei-Wiesen	x=8768&y=5761&z=14,x=8769&y=5761&z=14
-264	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-262	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-322	k	Kals,Grei-Wiesen	x=8768&y=5761&z=14,x=8769&y=5761&z=14
-267	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-268	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-266	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15
-208	o2	Wallhorner Mähder NE Prägraten	x=8755&y=5760&z=14,x=8756&y=5760&z=14
-193	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-194	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-173	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-175	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-176	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-200	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-164	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14
-532	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14
-240	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14
-241	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14
-242	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14
-211	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14
-012	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14
-001	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14
-010	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14
-009	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14
-061	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15
-125	w	Grieswies-Mähder NW Kolm-Saigurn	x=8782&y=5757&z=14
-074	c	Rockfeld-Alm WNW Hofgasteiner Haus	x=8785&y=5753&z=14
-073	c	Rockfeld-Alm WNW Hofgasteiner Haus	x=8785&y=5753&z=14
-056	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15
-034	h	Gamskarkogel WSW Hüttschlag im Großarltal	x=17582&s=&y=11503&z=15,x=17582&s=&y=11504&z=15
-031	h	Gamskarkogel WSW Hüttschlag im Großarltal	x=17582&s=&y=11503&z=15,x=17582&s=&y=11504&z=15
-032	h	Gamskarkogel WSW Hüttschlag im Großarltal	x=17582&s=&y=11503&z=15,x=17582&s=&y=11504&z=15
-041	m	Mauskarkogel WNW Hofgasteiner Haus	x=17571&s=&y=11505&z=15,x=17572&s=&y=11505&z=15
-042	m	Mauskarkogel WNW Hofgasteiner Haus	x=17571&s=&y=11505&z=15,x=17572&s=&y=11505&z=15
-
+065	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15	M. Isda	1986-01-01	date is year of publication
+064	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15	M. Isda	1986-01-01	date is year of publication
+107	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15	M. Isda	1986-01-01	date is year of publication
+254	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15	M. Isda	1986-01-01	date is year of publication
+250	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15	M. Isda	1986-01-01	date is year of publication
+259	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15	M. Isda	1986-01-01	date is year of publication
+229	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+432	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+373	d	Dolomiten,Padonzug SW Pordoi-Joch	x=8729&y=5796&z=14	M. Isda	1986-01-01	date is year of publication
+212	o2	Wallhorner Mähder NE Prägraten	x=8755&y=5760&z=14,x=8756&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+246	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15	M. Isda	1986-01-01	date is year of publication
+138	w	Grieswies-Mähder NW Kolm-Saigurn	x=8782&y=5757&z=14	M. Isda	1986-01-01	date is year of publication
+137	w	Grieswies-Mähder NW Kolm-Saigurn	x=8782&y=5757&z=14	M. Isda	1986-01-01	date is year of publication
+274	g2	Glockner-Gruppe, Albitzen ENE Karl Volkert-Haus	x=17547&s=&y=11516&z=15,x=17548&s=&y=11516&z=15	M. Isda	1986-01-01	date is year of publication
+070	m	Mauskarkogel WNW Hofgasteiner Haus	x=17571&s=&y=11505&z=15,x=17572&s=&y=11505&z=15	M. Isda	1986-01-01	date is year of publication
+235	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+186	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+187	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+325	k	Kals,Grei-Wiesen	x=8768&y=5761&z=14,x=8769&y=5761&z=14	M. Isda	1986-01-01	date is year of publication
+264	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+262	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+322	k	Kals,Grei-Wiesen	x=8768&y=5761&z=14,x=8769&y=5761&z=14	M. Isda	1986-01-01	date is year of publication
+267	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+268	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+266	g1	Glockner-Gruppe, Pockhorner Wiesen NW Rasthaus Schöneck an der Glocknerstraße	x=17548&s=&y=11517&z=15,x=17549&s=&y=11517&z=15	M. Isda	1986-01-01	date is year of publication
+208	o2	Wallhorner Mähder NE Prägraten	x=8755&y=5760&z=14,x=8756&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+193	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+194	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+173	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+175	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+176	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+200	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+164	o1	Osttirol (Venediger-Gruppe), Sajat-Mähder NW Prägraten	x=8754&y=5760&z=14,x=8755&y=5760&z=14	M. Isda	1986-01-01	date is year of publication
+532	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14	M. Isda	1986-01-01	date is year of publication
+240	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14	M. Isda	1986-01-01	date is year of publication
+241	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14	M. Isda	1986-01-01	date is year of publication
+242	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14	M. Isda	1986-01-01	date is year of publication
+211	s	Südliche karnische Alpen,Südwest-bis Südhänge des M.Pallone-M.Festons-M.Morgenleit-Zuges bei Sauris di sopra	x=8768&y=5797&z=14,x=8769&y=5797&z=14	M. Isda	1986-01-01	date is year of publication
+012	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14	M. Isda	1986-01-01	date is year of publication
+001	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14	M. Isda	1986-01-01	date is year of publication
+010	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14	M. Isda	1986-01-01	date is year of publication
+009	t	Toferer Alm WSW Hüttschlag im Großarltal	x=8791&y=5751&z=14	M. Isda	1986-01-01	date is year of publication
+061	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15	M. Isda	1986-01-01	date is year of publication
+125	w	Grieswies-Mähder NW Kolm-Saigurn	x=8782&y=5757&z=14	M. Isda	1986-01-01	date is year of publication
+074	c	Rockfeld-Alm WNW Hofgasteiner Haus	x=8785&y=5753&z=14	M. Isda	1986-01-01	date is year of publication
+073	c	Rockfeld-Alm WNW Hofgasteiner Haus	x=8785&y=5753&z=14	M. Isda	1986-01-01	date is year of publication
+056	l	Leidalm-Mähder NNW Hofgasteiner Haus (SW Markt Hofgastein)	x=17572&s=&y=11501&z=15	M. Isda	1986-01-01	date is year of publication
+034	h	Gamskarkogel WSW Hüttschlag im Großarltal	x=17582&s=&y=11503&z=15,x=17582&s=&y=11504&z=15	M. Isda	1986-01-01	date is year of publication
+031	h	Gamskarkogel WSW Hüttschlag im Großarltal	x=17582&s=&y=11503&z=15,x=17582&s=&y=11504&z=15	M. Isda	1986-01-01	date is year of publication
+032	h	Gamskarkogel WSW Hüttschlag im Großarltal	x=17582&s=&y=11503&z=15,x=17582&s=&y=11504&z=15	M. Isda	1986-01-01	date is year of publication
+041	m	Mauskarkogel WNW Hofgasteiner Haus	x=17571&s=&y=11505&z=15,x=17572&s=&y=11505&z=15	M. Isda	1986-01-01	date is year of publication
+042	m	Mauskarkogel WNW Hofgasteiner Haus	x=17571&s=&y=11505&z=15,x=17572&s=&y=11505&z=15	M. Isda	1986-01-01	date is year of publication

@@ -15,7 +15,7 @@ X2 <- stackSpecies(file = file)[, c(1:4)]
 file <- file.path(path, "species wide mat.csv")
 X3 <- stackSpecies(file = file)[, c(1:4)]
 
-X <- bind(X1, X2, X3)
+X <- vegsoup::bind(X1, X2, X3)
 
 file <- file.path(path, "sites wide.csv")
 Y <- stackSites(file = file)

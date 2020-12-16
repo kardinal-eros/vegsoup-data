@@ -1,17 +1,17 @@
-"plot";"latitude";"longitude";"accuracy";"elevation";"syntaxon";"location";"date";"remarks"
-14;"48.108749N";"12.751801E";200;370;"Carici pilosae-Fagetum";"Hangwald bei der Enzerling[Lohjörglbach]-Mündung, St. Radegund";"1995-05-01";
-15;"48.108749N";"12.751801E";200;370;"Carici pilosae-Fagetum";"Hangwald bei der Enzerling[Lohjörglbach]-Mündung, St. Radegund";"1995-05-01";
-16;"48.108749N";"12.751801E";200;370;"Carici pilosae-Fagetum";"Hangwald bei der Enzerling[Lohjörglbach]-Mündung, St. Radegund";"1995-05-01";
-17;"48.096082N";"12.759783E";500;"370-440";"Carici pilosae-Fagetum";"Hangwald unterh. St. Radegund";"1995-05-06";
-22;"48.096082N";"12.759783E";500;"370-440";"Galio odorati-Fagetum";"Hangwald unterh. St. Radegund";"1995-05-06";
-23;"48.096082N";"12.759783E";500;"370-440";"Galio odorati-Fagetum";"Hangwald unterh. St. Radegund";"1995-05-06";
-24;"48.096082N";"12.759783E";500;"370-440";"Galio odorati-Fagetum";"Hangwald unterh. St. Radegund";"1995-05-06";
-25;"48.096082N";"12.759783E";500;"370-440";"Carici pilosae-Fagetum";"Hangwald unterh. St. Radegund";"1995-05-06";
-55;"48.055480N";"12.801197E";2000;"380-420";"Carici pilosae-Fagetum";"Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething";"1995-05-16";
-56;"48.055480N";"12.801197E";2000;"380-420";"Galio odorati-Fagetum";"Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething";"1995-05-16";
-57;"48.055480N";"12.801197E";2000;"380-420";"Galio odorati-Fagetum";"Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething";"1995-05-16";
-58;"48.055480N";"12.801197E";2000;"380-420";"Galio odorati-Fagetum";"Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething";"1995-05-16";
-61;"48.063454N";"12.794223E";500;"380-420";"Carici pilosae-Fagetum";"Hangwald bei Simling, Gem. Ostermiething";"1995-06-03";
-64;"48.063454N";"12.794223E";500;"380-420";"Galio odorati-Fagetum";"Hangwald bei Simling, Gem. Ostermiething";"1995-06-03";
-67;"48.063454N";"12.794223E";500;"380-420";"Galio odorati-Fagetum";"Hangwald bei Simling, Gem. Ostermiething";"1995-06-03";
-93;"48.103480N";"12.756600E";200;400;"Carici pilosae-Fagetum";"Wald beim Lohjörgl, St. Radegund";"1995-06-24";
+plot;latitude;longitude;accuracy;elevation;syntaxon;location;date;remarks;observer
+14;48.108749N;12.751801E;200;370;Carici pilosae-Fagetum;Hangwald bei der Enzerling[Lohjörglbach]-Mündung, St. Radegund;1995-05-01;;R. Krisai
+15;48.108749N;12.751801E;200;370;Carici pilosae-Fagetum;Hangwald bei der Enzerling[Lohjörglbach]-Mündung, St. Radegund;1995-05-01;;R. Krisai
+16;48.108749N;12.751801E;200;370;Carici pilosae-Fagetum;Hangwald bei der Enzerling[Lohjörglbach]-Mündung, St. Radegund;1995-05-01;;R. Krisai
+17;48.096082N;12.759783E;500;370-440;Carici pilosae-Fagetum;Hangwald unterh. St. Radegund;1995-05-06;;R. Krisai
+22;48.096082N;12.759783E;500;370-440;Galio odorati-Fagetum;Hangwald unterh. St. Radegund;1995-05-06;;R. Krisai
+23;48.096082N;12.759783E;500;370-440;Galio odorati-Fagetum;Hangwald unterh. St. Radegund;1995-05-06;;R. Krisai
+24;48.096082N;12.759783E;500;370-440;Galio odorati-Fagetum;Hangwald unterh. St. Radegund;1995-05-06;;R. Krisai
+25;48.096082N;12.759783E;500;370-440;Carici pilosae-Fagetum;Hangwald unterh. St. Radegund;1995-05-06;;R. Krisai
+55;48.055480N;12.801197E;2000;380-420;Carici pilosae-Fagetum;Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething;1995-05-16;;R. Krisai
+56;48.055480N;12.801197E;2000;380-420;Galio odorati-Fagetum;Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething;1995-05-16;;R. Krisai
+57;48.055480N;12.801197E;2000;380-420;Galio odorati-Fagetum;Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething;1995-05-16;;R. Krisai
+58;48.055480N;12.801197E;2000;380-420;Galio odorati-Fagetum;Hangwald südl.[?] d. Ettenauer Straße, Gem. Ostermiething;1995-05-16;;R. Krisai
+61;48.063454N;12.794223E;500;380-420;Carici pilosae-Fagetum;Hangwald bei Simling, Gem. Ostermiething;1995-06-03;;R. Krisai
+64;48.063454N;12.794223E;500;380-420;Galio odorati-Fagetum;Hangwald bei Simling, Gem. Ostermiething;1995-06-03;;R. Krisai
+67;48.063454N;12.794223E;500;380-420;Galio odorati-Fagetum;Hangwald bei Simling, Gem. Ostermiething;1995-06-03;;R. Krisai
+93;48.103480N;12.756600E;200;400;Carici pilosae-Fagetum;Wald beim Lohjörgl, St. Radegund;1995-06-24;;R. Krisai

@@ -1,13 +1,13 @@
-plot;latitude;longitude;accuracy;location
-474;47.420364;13.059862;500;Salzburg, Hochkönig, Grat W vom Gipfel, 2910 m, Felsfläche, mit Frostschutt bedeckt
-477;47.420625;13.064844;500;Salzburg, Hochkönig, E vom Gipfel, 2890 m, Frostschuttfläche
-359;47.682928;14.021123;500;Steiermark, Totes Gebirge, Feuertalberg, S-Flanke, 2160 m, ruhender Hangschutt
-4/5;47.619544;15.140316;1000;Steiermark, Hochschwab-Gipfelplateau, Untere Doline/Schwabenleiten, 2200-2270 m, Schutt zwischen Schrägtreppen, Girlandenpechrendsina
-2/4;47.61801;15.142569;5000;Steiermark, Hochschwab-Gipfelplateau, Böndl/Ostabbruch, 2200-2270 m, Strukturboden der Girlandenabsätze, Girlandenpechrendsina
-2/1;47.61801;15.142569;200;Steiermark, Hochschwab-Gipfelplateau, Hauptgipfel, 2200-2270 m, anstehender Fels, Polster- u. Moderrendsina
-2/2;47.61801;15.142569;200;Steiermark, Hochschwab-Gipfelplateau, Hauptgipfel, 2200-2270 m, anstehender Fels, Polster- u. Moderrendsina
-2/3;47.614062;15.131171;200;Steiermark, Hochschwab-Gipfelplateau, G'hacktkogel, 2200-2270 m, Gipfel, Frostschutt, Polster- u. Moderrendsina
-2/5;47.619544;15.140316;1000;Steiermark, Hochschwab-Gipfelplateau, Obere Doline, Schwabenleiten, Absätze der Schrägtreppen, Girlandenpechrendsina
-356;47.689298;14.025246;100;Oberösterreich, Totes Gebirge, Feuertalberg, Oberösterreich, am Grat 400 m NNE vom Gipfel, 2340 m, Felsplatte
-358;47.686929;14.022929;50;Steiermark, Totes Gebirge, Feuertalberg, am Grat 100 m NNE vom Gipfel, 2360 m, Frostschuttfläche
-Gr1;47.623347;15.159624;100;Steiermark, Hochschwab, E der Eismauer, ca. 0,8 km E vom Schiestlhaus bzw. 0,3 km NE der Weggabelung Schiestlhaus - Seewiesen, 2050 m, zerrüttete, gestufte Felswand gegen Gratkante, windexponiert
+plot,latitude,longitude,accuracy,location,observer,date,remarks
+474,47.420364,13.059862,500,"Salzburg, Hochkönig, Grat W vom Gipfel, 2910 m, Felsfläche, mit Frostschutt bedeckt",E. Hörandl,1991-01-01,date is year of publication
+477,47.420625,13.064844,500,"Salzburg, Hochkönig, E vom Gipfel, 2890 m, Frostschuttfläche",E. Hörandl,1991-01-01,date is year of publication
+359,47.682928,14.021123,500,"Steiermark, Totes Gebirge, Feuertalberg, S-Flanke, 2160 m, ruhender Hangschutt",E. Hörandl,1991-01-01,date is year of publication
+4/5,47.619544,15.140316,1000,"Steiermark, Hochschwab-Gipfelplateau, Untere Doline/Schwabenleiten, 2200-2270 m, Schutt zwischen Schrägtreppen, Girlandenpechrendsina",E. Hörandl,1991-01-01,date is year of publication
+2/4,47.61801,15.142569,5000,"Steiermark, Hochschwab-Gipfelplateau, Böndl/Ostabbruch, 2200-2270 m, Strukturboden der Girlandenabsätze, Girlandenpechrendsina",E. Hörandl,1991-01-01,date is year of publication
+2/1,47.61801,15.142569,200,"Steiermark, Hochschwab-Gipfelplateau, Hauptgipfel, 2200-2270 m, anstehender Fels, Polster- u. Moderrendsina",E. Hörandl,1991-01-01,date is year of publication
+2/2,47.61801,15.142569,200,"Steiermark, Hochschwab-Gipfelplateau, Hauptgipfel, 2200-2270 m, anstehender Fels, Polster- u. Moderrendsina",E. Hörandl,1991-01-01,date is year of publication
+2/3,47.614062,15.131171,200,"Steiermark, Hochschwab-Gipfelplateau, G'hacktkogel, 2200-2270 m, Gipfel, Frostschutt, Polster- u. Moderrendsina",E. Hörandl,1991-01-01,date is year of publication
+2/5,47.619544,15.140316,1000,"Steiermark, Hochschwab-Gipfelplateau, Obere Doline, Schwabenleiten, Absätze der Schrägtreppen, Girlandenpechrendsina",E. Hörandl,1991-01-01,date is year of publication
+356,47.689298,14.025246,100,"Oberösterreich, Totes Gebirge, Feuertalberg, Oberösterreich, am Grat 400 m NNE vom Gipfel, 2340 m, Felsplatte",E. Hörandl,1991-01-01,date is year of publication
+358,47.686929,14.022929,50,"Steiermark, Totes Gebirge, Feuertalberg, am Grat 100 m NNE vom Gipfel, 2360 m, Frostschuttfläche",E. Hörandl,1991-01-01,date is year of publication
+Gr1,47.623347,15.159624,100,"Steiermark, Hochschwab, E der Eismauer, ca. 0,8 km E vom Schiestlhaus bzw. 0,3 km NE der Weggabelung Schiestlhaus - Seewiesen, 2050 m, zerrüttete, gestufte Felswand gegen Gratkante, windexponiert",E. Hörandl,1991-01-01,date is year of publication

@@ -1,2 +1,2 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;soil;date;latitude;longitude;accuracy;syntaxon;comment;description
-st01;40;0;0;0;35;20;0;0;0;0,3;0,5;4;4;SW;65;60;0;0;2012-06-19;47.227133N;12.58880E;5;unclassified;;Trockenrasenfragment an Felsen neben der Straße
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;soil;date;latitude;longitude;accuracy;syntaxon;comment;description;observer
+st01;40;0;0;0;35;20;0;0;0;0,3;0,5;4;4;SW;65;60;0;0;2012-06-19;47.227133N;12.58880E;5;unclassified;;Trockenrasenfragment an Felsen neben der Straße;R. Kaiser

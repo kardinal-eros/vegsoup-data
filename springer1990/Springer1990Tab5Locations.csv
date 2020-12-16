@@ -1,8 +1,8 @@
-plot;longitude;latitude;accuracy;locality
-1;13.026084;47.546394;50;oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln
-2;13.026084;47.546394;50;oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln
-3;13.026084;47.546394;50;oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln
-4;13.026084;47.546394;50;oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln
-5;13.026084;47.546394;50;oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln
-6;13.026084;47.546394;50;oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln
-7;13.056819;47.562112;50;südwestlich des Schneibsteingipfels (alle im Nationalpark Berchtesgaden)
+plot,longitude,latitude,accuracy,locality,observer,date,remarks
+1,13.026084,47.546394,50,oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln,S. Springer,1990-01-01,date is year of publication
+2,13.026084,47.546394,50,oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln,S. Springer,1990-01-01,date is year of publication
+3,13.026084,47.546394,50,oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln,S. Springer,1990-01-01,date is year of publication
+4,13.026084,47.546394,50,oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln,S. Springer,1990-01-01,date is year of publication
+5,13.026084,47.546394,50,oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln,S. Springer,1990-01-01,date is year of publication
+6,13.026084,47.546394,50,oberster Bereich der aufgelassenen Roßfeldalm am Fagsteln,S. Springer,1990-01-01,date is year of publication
+7,13.056819,47.562112,50,südwestlich des Schneibsteingipfels (alle im Nationalpark Berchtesgaden),S. Springer,1990-01-01,date is year of publication

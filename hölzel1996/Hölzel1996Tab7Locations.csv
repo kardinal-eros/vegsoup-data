@@ -1,31 +1,31 @@
-plot,locality,latitude,longitude,accuracy
-261,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-262,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-264,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-338,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-339,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-289,"Auerberg, Loisachblick",47.573634,11.154710,1000
-346,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-340,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-341,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-342,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-343,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-344,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-345,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-347,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200
-329,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-330,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-331,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-332,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-368,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-369,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-370,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-371,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-372,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-373,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-374,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-375,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-376,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-377,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-378,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
-379,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500
+plot,locality,latitude,longitude,accuracy,observer,date,remarks
+261,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+262,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+264,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+338,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+339,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+289,"Auerberg, Loisachblick",47.573634,11.154710,1000,N. Hölzel,1996-01-01,date is year of publication
+346,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+340,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+341,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+342,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+343,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+344,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+345,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+347,Kuhfluchtgraben bei Farchant,47.527907,11.136221,200,N. Hölzel,1996-01-01,date is year of publication
+329,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+330,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+331,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+332,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+368,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+369,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+370,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+371,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+372,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+373,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+374,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+375,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+376,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+377,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+378,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication
+379,"östl. Zams, Weg zur Steinseehütte",47.176141,10.606337,500,N. Hölzel,1996-01-01,date is year of publication

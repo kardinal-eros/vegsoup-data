@@ -1,11 +1,11 @@
 library(vegsoup)
 require(bibtex)
 
-#	note, minor issues for plot names in read.verbatim
+# note, minor issues for plot names in read.verbatim
 path <- "~/Documents/vegsoup-data/pils1994"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
-#	read prepared digitized table 
+# read prepared digitized table 
 file <- file.path(path, "Pils1994Tab8taxon2standard.txt")
 x <- read.verbatim(file, "Aufnahmenummer", layers = "@")
 X0 <- species(x)[, 1:4]
@@ -16,14 +16,12 @@ file <- file.path(path, "Pils1994Tab8FooterSpecies.csv")
 X1 <- read.csv2(file, colClasses = "character")
 X1 <- X1[, -grep("taxon", names(X1))]
 X1 <- species(X1)
-X <- bind(X0, X1)
+X <- vegsoup::bind(X0, X1)
 
-#   sites data including coordinates
+# sites data including coordinates
 file <- file.path(path, "Pils1994Tab8Locations.csv")
-Y <- read.csv2(file, colClasses = "character")
-names(Y)[1] <- "plot"
 # promote to class "Sites"
-Y <- stackSites(Y)
+Y <- stackSites(file = file, sep = ",")
 
 # taxonomy reference list
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"

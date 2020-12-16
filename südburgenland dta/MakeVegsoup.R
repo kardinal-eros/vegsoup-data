@@ -36,7 +36,7 @@ obj2 <- do.call("bind", obj2)
 obj2 <- turbovegLayers(obj2, "hl") # no layer is herb layer
 
 #	concatenate objects
-obj <- bind(obj1, obj2)
+obj <- vegsoup::bind(obj1, obj2)
 
 #	collapse juveniles layers
 obj <- layers(obj, c("hl", "sl2", "tl2", "tl3", "hl", "tl1", "sl1", "ml"))

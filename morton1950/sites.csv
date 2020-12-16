@@ -17,7 +17,7 @@ Morton1950:10/49;rock;0
 Morton1950:10/49;stones;0
 Morton1950:10/49;bare;0
 Morton1950:10/49;soil;
-Morton1950:10/49;date;12.10.1949
+Morton1950:10/49;date;1949-10-12
 Morton1950:10/49;altitude;1260
 Morton1950:10/49;precision.vertical;50
 Morton1950:10/49;accuracy;200
@@ -43,7 +43,7 @@ Morton1950:1322;rock;0
 Morton1950:1322;stones;0
 Morton1950:1322;bare;0
 Morton1950:1322;soil;
-Morton1950:1322;date;08.08.1949
+Morton1950:1322;date;1949-08-08
 Morton1950:1322;altitude;1100
 Morton1950:1322;precision.vertical;50
 Morton1950:1322;accuracy;200
@@ -69,7 +69,7 @@ Morton1950:1323;rock;0
 Morton1950:1323;stones;0
 Morton1950:1323;bare;0
 Morton1950:1323;soil;
-Morton1950:1323;date;22.08.1949
+Morton1950:1323;date;1949-08-22
 Morton1950:1323;altitude;820
 Morton1950:1323;precision.vertical;50
 Morton1950:1323;accuracy;200
@@ -95,7 +95,7 @@ Morton1950:1324;rock;0
 Morton1950:1324;stones;0
 Morton1950:1324;bare;0
 Morton1950:1324;soil;
-Morton1950:1324;date;22.08.1949
+Morton1950:1324;date;1949-08-22
 Morton1950:1324;altitude;840
 Morton1950:1324;precision.vertical;50
 Morton1950:1324;accuracy;200
@@ -121,7 +121,7 @@ Morton1950:1327;rock;0
 Morton1950:1327;stones;0
 Morton1950:1327;bare;0
 Morton1950:1327;soil;
-Morton1950:1327;date;22.08.1949
+Morton1950:1327;date;1949-08-22
 Morton1950:1327;altitude;1000
 Morton1950:1327;precision.vertical;50
 Morton1950:1327;accuracy;200
@@ -147,7 +147,7 @@ Morton1950:1328;rock;0
 Morton1950:1328;stones;0
 Morton1950:1328;bare;0
 Morton1950:1328;soil;
-Morton1950:1328;date;22.08.1949
+Morton1950:1328;date;1949-08-22
 Morton1950:1328;altitude;840
 Morton1950:1328;precision.vertical;50
 Morton1950:1328;accuracy;200
@@ -173,7 +173,7 @@ Morton1950:1330;rock;0
 Morton1950:1330;stones;0
 Morton1950:1330;bare;0
 Morton1950:1330;soil;
-Morton1950:1330;date;27.08.1949
+Morton1950:1330;date;1949-08-27
 Morton1950:1330;altitude;1360
 Morton1950:1330;precision.vertical;50
 Morton1950:1330;accuracy;200
@@ -199,7 +199,7 @@ Morton1950:1344;rock;0
 Morton1950:1344;stones;0
 Morton1950:1344;bare;0
 Morton1950:1344;soil;
-Morton1950:1344;date;05.09.1949
+Morton1950:1344;date;1949-09-05
 Morton1950:1344;altitude;1100
 Morton1950:1344;precision.vertical;50
 Morton1950:1344;accuracy;200
@@ -225,7 +225,7 @@ Morton1950:1344a;rock;0
 Morton1950:1344a;stones;0
 Morton1950:1344a;bare;0
 Morton1950:1344a;soil;
-Morton1950:1344a;date;22.09.1949
+Morton1950:1344a;date;1949-09-22
 Morton1950:1344a;altitude;1100
 Morton1950:1344a;precision.vertical;50
 Morton1950:1344a;accuracy;200
@@ -251,7 +251,7 @@ Morton1950:1345;rock;0
 Morton1950:1345;stones;0
 Morton1950:1345;bare;0
 Morton1950:1345;soil;
-Morton1950:1345;date;22.09.1949
+Morton1950:1345;date;1949-09-22
 Morton1950:1345;altitude;1100
 Morton1950:1345;precision.vertical;50
 Morton1950:1345;accuracy;200
@@ -277,7 +277,7 @@ Morton1950:2/49;rock;0
 Morton1950:2/49;stones;0
 Morton1950:2/49;bare;0
 Morton1950:2/49;soil;
-Morton1950:2/49;date;17.06.1949
+Morton1950:2/49;date;1949-06-17
 Morton1950:2/49;altitude;1400
 Morton1950:2/49;precision.vertical;50
 Morton1950:2/49;accuracy;200
@@ -303,7 +303,7 @@ Morton1950:5/56;rock;0
 Morton1950:5/56;stones;0
 Morton1950:5/56;bare;0
 Morton1950:5/56;soil;
-Morton1950:5/56;date;03.07.1949
+Morton1950:5/56;date;1949-07-03
 Morton1950:5/56;altitude;1350
 Morton1950:5/56;precision.vertical;50
 Morton1950:5/56;accuracy;200
@@ -329,7 +329,7 @@ Morton1950:6/46;rock;0
 Morton1950:6/46;stones;0
 Morton1950:6/46;bare;0
 Morton1950:6/46;soil;
-Morton1950:6/46;date;03.07.1949
+Morton1950:6/46;date;1949-07-03
 Morton1950:6/46;altitude;1350
 Morton1950:6/46;precision.vertical;50
 Morton1950:6/46;accuracy;200
@@ -355,7 +355,7 @@ Morton1950:9/49;rock;0
 Morton1950:9/49;stones;0
 Morton1950:9/49;bare;0
 Morton1950:9/49;soil;
-Morton1950:9/49;date;12.10.1949
+Morton1950:9/49;date;1949-10-12
 Morton1950:9/49;altitude;1310
 Morton1950:9/49;precision.vertical;50
 Morton1950:9/49;accuracy;200
@@ -363,3 +363,17 @@ Morton1950:9/49;longitude;13,53196
 Morton1950:9/49;latitude;47,60505
 Morton1950:9/49;comment;J. Pilz
 Morton1950:9/49;location;Südabfall des Rosenkogel
+Morton1950:10/49;observer;F. Morton
+Morton1950:1322;observer;F. Morton
+Morton1950:1323;observer;F. Morton
+Morton1950:1324;observer;F. Morton
+Morton1950:1327;observer;F. Morton
+Morton1950:1328;observer;F. Morton
+Morton1950:1330;observer;F. Morton
+Morton1950:1344;observer;F. Morton
+Morton1950:1344a;observer;F. Morton
+Morton1950:1345;observer;F. Morton
+Morton1950:2/49;observer;J. Pilz
+Morton1950:5/56;observer;J. Pilz
+Morton1950:6/46;observer;J. Pilz
+Morton1950:9/49;observer;J. Pilz

@@ -6,7 +6,7 @@ plot;abbr;layer;cover
 1;eupa cann;hl;1
 1;frag vesc;hl;+
 1;lase sile sile;hl;+
-1;phyt spic;hl;+
+1;phyt spic spic;hl;+
 1;poly cham;hl;+
 1;salv glut;hl;+
 1;sesl caer;hl;+
@@ -28,7 +28,7 @@ plot;abbr;layer;cover
 2;lact mura;hl;+
 2;meli nuta;hl;+
 2;merc pere;hl;+
-2;phyt spic;hl;+
+2;phyt spic spic;hl;+
 2;salv glut;hl;2
 2;soli virg virg;hl;+
 2;stac sylv;hl;+

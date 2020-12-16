@@ -20,7 +20,7 @@ coverscale(obj2) <- "braun.blanquet"
 obj2 <- turbovegLayers(obj2)       # all herb layer 
 
 #	concatenate objects
-obj <- bind(obj1, obj2)
+obj <- vegsoup::bind(obj1, obj2)
 
 #	assign coordiantes
 obj$longitude <- char2dd(obj$e_coord)

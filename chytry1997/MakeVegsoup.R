@@ -86,6 +86,10 @@ proj4string(obj) <- CRS("+init=epsg:4326")
 
 obj$accuracy <- 20 # rough guess
 
+obj$observer <- "M. Chytrý, & J. Sádlo"
+
+obj$date <- as.character(strftime(paste0(obj$Year,"-", obj$Month, "-", obj$Day), format = "%Y-%m-%d"))
+
 #	assign rownames and groome data structure
 rownames(obj) <- paste(key, rownames(obj), sep = ":")
 
@@ -125,7 +129,7 @@ if (FALSE) {
 	Chytry1995 <- Chytry1995[match(paste("Chytry1995:Tab8", c(2:4, 6), sep = ":"), rownames(Chytry1995)), ]
 	
 	#	bind data sets
-	obj <- bind(obj, Chytry1995, Chytry1996)
+	obj <- vegsoup::bind(obj, Chytry1995, Chytry1996)
 	layers(obj) <- c("tl", "sl", "hl", "ml")
 	
 	#	assign syntaxa

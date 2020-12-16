@@ -1,22 +1,22 @@
-plot,location,elevation,hydrology,bedrock
-017,Erlacher Bock - Zunderwand,1900m,Wasser rasch fließend,über Wettersteindolomit
-018,Erlacher Bock,20m unter 017,Wasser rasch fließend,über Wettersteindolomit
-057,Lahnernock - Grundalm,1800m,Wasser sehr rasch fließend,über Hauptdolomit
-011,Oswalder Bock,1900m,Wassermäßig fließend,über phyllonitschen Schiefern und Karbonaten
-048,Schiestlboden,2000m,Wassermäßig fließend,über auf gewitterter Grundmoräne
-002,Naßbodensee - Zunderwand,1800m,Wasser ziemlich fließend,über Wettersteindolomit
-010,Weißscharte,1900m,Wassermäßig fließend,über Wettersteindolomit
-036,Heiligenbach,1900m,Wasser kaum fließend,über Wettersteindolomit
-009,Bärengrube,1800m,Wassermäßig fließend,über Kalk und Glimmerschiefer
-059,Bärengrubenalm,1700m,rasch fließendes Wasser,über Kalk und Glimmerschiefer
-029,Winkel - Reichenau,1300m,Hangsickerquelle über Kalkschotter und Geröll
-031,Langalmtal – Erlacherhütte,1650m,Wassermäßig fließend,über Wettersteindolomit
-026,Hofalm,1700m,Hangsickerquelle über Geröll aus Wettersteindolomit
-012,Eisentalhöhe,1900m,Wasser wenig fließend,über Wettersteindolomit
-023,Sauereggnock,1850m,Wasserfall über Hauptdolomit,Kalk und Mergel
-024,Sauereggnock,15m oberhalb des Wasserfalls (023),Wasserfall über Hauptdolomit,Kalk und Mergel
-035,Heiligenbach,1900m,Wasser wenig fließend,über Wettersteindolomit
-049,Grundalm,1700m,Wasser rasch fließend,über Wettersteinkalk
-046,Windeben,1850m,Wasser rasch fließend,über auf gewitterter Grundmoräne
-025,Hofalm,1750m,Wassermäßig fließend,über Wettersteindolomit
-039,Wald zur Kollerhütte,1750m,Wasser wenig fließend,über Waldboden
+plot,location,elevation,hydrology,bedrock,date,remarks,observer
+017,Erlacher Bock - Zunderwand,1900,Wasser rasch fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+018,Erlacher Bock,1880,Wasser rasch fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+057,Lahnernock - Grundalm,1800,Wasser sehr rasch fließend,über Hauptdolomit,1989-01-01,date is year of publication,K. Dullnig
+011,Oswalder Bock,1900,Wassermäßig fließend,über phyllonitschen Schiefern und Karbonaten,1989-01-01,date is year of publication,K. Dullnig
+048,Schiestlboden,2000,Wassermäßig fließend,über auf gewitterter Grundmoräne,1989-01-01,date is year of publication,K. Dullnig
+002,Naßbodensee - Zunderwand,1800,Wasser ziemlich fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+010,Weißscharte,1900,Wassermäßig fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+036,Heiligenbach,1900,Wasser kaum fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+009,Bärengrube,1800,Wassermäßig fließend,über Kalk und Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+059,Bärengrubenalm,1700,rasch fließendes Wasser,über Kalk und Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+029,Winkel - Reichenau,1300,Hangsickerquelle über Kalkschotter und Geröll,,1989-01-01,date is year of publication,K. Dullnig
+031,Langalmtal – Erlacherhütte,1650,Wassermäßig fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+026,Hofalm,1700,Hangsickerquelle über Geröll aus Wettersteindolomit,,1989-01-01,date is year of publication,K. Dullnig
+012,Eisentalhöhe,1900,Wasser wenig fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+023,Sauereggnock,1850,Wasserfall über Hauptdolomit,Kalk und Mergel,1989-01-01,date is year of publication,K. Dullnig
+024,Sauereggnock,1835,Wasserfall über Hauptdolomit,Kalk und Mergel,1989-01-01,date is year of publication,K. Dullnig
+035,Heiligenbach,1900,Wasser wenig fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+049,Grundalm,1700,Wasser rasch fließend,über Wettersteinkalk,1989-01-01,date is year of publication,K. Dullnig
+046,Windeben,1850,Wasser rasch fließend,über auf gewitterter Grundmoräne,1989-01-01,date is year of publication,K. Dullnig
+025,Hofalm,1750,Wassermäßig fließend,über Wettersteindolomit,1989-01-01,date is year of publication,K. Dullnig
+039,Wald zur Kollerhütte,1750,Wasser wenig fließend,über Waldboden,1989-01-01,date is year of publication,K. Dullnig

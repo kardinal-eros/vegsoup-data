@@ -24,7 +24,7 @@ make <- function (tab = 16) {
 	x2 <- castFooter(file, first = FALSE, layers = "@")
 	x2 <- species(x2)
 	
-	X <- bind(x1, x2)
+	X <- vegsoup::bind(x1, x2)
 	species(X) <- zz
 	
 	y1 <- header(x)
@@ -35,7 +35,7 @@ make <- function (tab = 16) {
 	
 	file <- file.path(path, paste0("Greimler1997Tab", tab, "Locations.csv"))
 	y2 <- stackSites(file = file, sep = ",", zeros = TRUE)
-	Y <- bind(y1, y2)
+	Y <- vegsoup::bind(y1, y2)
 	
 	obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet2")
 		

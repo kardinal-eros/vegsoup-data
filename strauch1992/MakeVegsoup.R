@@ -19,7 +19,7 @@ X$plot <- gsub(".", "", X$plot, fixed = TRUE)
 #	sites
 Y <- read.delim("~/Documents/vegsoup-data/strauch1992/Strauch1992Tab2Locations.txt",
 	header = FALSE, colClasses = "character")
-names(Y) <- c("plot", "location", "tms")
+names(Y) <- c("plot", "location", "tms", "date", "remarks", "observer")
 
 Y <- data.frame(Y, t(sapply(Y[,3], str2latlng, USE.NAMES = FALSE)))
 names(Y)[grep("precision", names(Y))] <- "accuracy"

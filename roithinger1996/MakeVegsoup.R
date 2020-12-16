@@ -16,12 +16,12 @@ X1 <- species(x)
 file <- file.path(path, "Roithinger1996TabAFooterSpecies.csv")
 X2 <- species(file, sep = ";")[, 1:4]
 X2$plot <- sprintf("%03d", as.numeric(X2$plot))
-X <- bind(X1, X2)
+X <- vegsoup::bind(X1, X2)
 
 #   sites data including coordinates
 file <- file.path(path, "Roithinger1996TabALocations.csv")
 # promote to class "Sites"
-Y <- stackSites(file = file)
+Y <- stackSites(file = file, sep = ",")
 Y$plot <- sprintf("%03d", as.numeric(Y$plot))
 
 # taxonomy reference list
@@ -47,11 +47,11 @@ obj$slope <- a$"Inklination.in.Grad"
 obj$pls <- a$"Größe.der.Aufnahmefläche.in.m2"
 obj$cov <- obj$cov <- a$"Gesamtdeckung.in.."
 obj$hcov <- obj$hhl <- a$"Höhe.der.Vegetationsdecke.in.cm"
-names(obj)[3] <- "scov"
-names(obj)[4] <- "hsl"
-names(obj)[5] <- "zcov"
-names(obj)[6] <- "hzl"
-names(obj)[7] <- "mcov"
+names(obj)[9] <- "scov"
+names(obj)[3] <- "hsl"
+names(obj)[10] <- "zcov"
+names(obj)[4] <- "hzl"
+names(obj)[6] <- "mcov"
 
 #	syntaxa assigment missing
 obj$alliance <- ""

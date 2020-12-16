@@ -12,7 +12,7 @@ X <- species(x)[, 1:4]
 
 #   sites data including coordinates
 file <- "~/Documents/vegsoup-data/springer1990/Springer1990Tab5Locations.csv"
-Y <- stackSites(file = file)
+Y <- stackSites(file = file, sep = ",")
 
 # taxonomy reference list
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"

@@ -80,7 +80,7 @@ meli nuta                  @hl . r . . . . . . . . . . . . .
 merc pere                  @hl r 2 . . . . . . . . . . . . .
 meum atha                  @hl . 3 . . . . . . . . . . . . .
 myos sylv                  @hl . r . r . . . . . . . . . . .
-phyt spic                  @hl r . . . . . . . . . . . . . .
+phyt spic spic             @hl r . . . . . . . . . . . . . .
 pinu mugo                  @hl r + + . . . . . . . . . . . .
 puls alpi alpi             @hl + . . . . . . . . . . . . . .
 ranu lanu                  @hl . r . . . . . . . . . . . . .

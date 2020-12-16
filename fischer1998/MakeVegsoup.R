@@ -22,13 +22,13 @@ tab2 <- read.verbatim(tab2, colnames = "Aufnahmenummer", vertical = FALSE, layer
 loc1 <- file.path(path, "Fischer1998Tab1Locations.csv")
 loc2 <- file.path(path, "Fischer1998Tab2Locations.csv")
 
-loc1 <- stackSites(file = loc1, sep = "\t", dec = ".")
-loc2 <- stackSites(file = loc2, sep = "\t", dec = ".")
+loc1 <- stackSites(file = loc1, sep = ",", dec = ".")
+loc2 <- stackSites(file = loc2, sep = ",", dec = ".")
 
 x1 <- species(tab1)
 x2 <- species(tab2)
-y1 <- bind(sites(tab1), loc1)
-y2 <- bind(sites(tab2), loc2)
+y1 <- vegsoup::bind(sites(tab1), loc1)
+y2 <- vegsoup::bind(sites(tab2), loc2)
 
 #	translate taxon names
 species(x1) <- zz
@@ -47,10 +47,11 @@ rownames(X1) <- paste(key, "Tab1", sprintf("%02d", as.numeric(rownames(X1))), se
 rownames(X2) <- paste(key, "Tab2", sprintf("%02d", as.numeric(rownames(X2))), sep = ":")
 
 #	bind objects
-obj <- bind(X1, X2)
+obj <- vegsoup::bind(X1, X2)
 
 #	groome names
-names(obj) <- c("accuracy", "association", "plot", "pls", "tcov", "hcov", "scov", "expo", "slope", "locality", "elevation", "mcov")
+names(obj) <- c("accuracy", "association", "pls", "plot", "date", "tcov", "hcov", "scov", "expo", "slope",
+	"location", "observer", "remarks", "elevation", "mcov")
 sites(obj) <- sites(obj)[ ,-grep("plot", names(obj)) ]
 
 #	order layer

@@ -21,7 +21,7 @@ species(X) <- join(z, Z)
 X$cov[X$cov == "1"] <- "+"
 
 file <- file.path(path, "Gruber2006Locations.csv")
-Y <- stackSites(file = file, sep = ";")
+Y <- stackSites(file = file, sep = ",")
 
 obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet2")
 

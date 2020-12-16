@@ -54,7 +54,8 @@ y <- read.csv(x)
 #	assign coordinates of village Flums as center of study area (cp. page 12)
 obj$x <- 744400 
 obj$y <- 217600
-	
+
+#	assign available coordinates and additional variables	
 i <- match(rownames(obj), y$plot)
 y <- y[ i[ !is.na(i) ], ]
 i <- match(y$plot, rownames(obj))
@@ -62,6 +63,9 @@ obj$x[ i ] <- y$x
 obj$y[ i ] <- y$y
 obj$accuracy <- 10000
 obj$accuracy[ i ] <- 50 # rough guess
+obj$date[ i ] <- y$date
+obj$observer[ i ] <- y$observer
+obj$remarks[ i ] <- y$remarks
 
 coordinates(obj) <- ~x+y
 proj4string(obj) <- CRS("+init=epsg:21781")
@@ -75,7 +79,7 @@ layers(obj)	 <- c("tl", "sl", "hl", "ml")
 rownames(obj) <- paste(key, rownames(obj), sep = ":")
 
 #	groome names
-names(obj)[ 1:4 ] <- c("expo", "slope", "elevation", "group")
+names(obj)[ 1:5 ] <- c("expo", "slope", "elevation", "group", "number")
 
 #	expand association labels
 obj$association <- factor(obj$group,

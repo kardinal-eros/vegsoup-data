@@ -1,13 +1,13 @@
-plot,elevation,slope,expo,soil1,soil2,soli3,pls,locality,latitude,longitude,accuracy,description
-1,480,30,E,KaIk,F.E.,bewegl. tätig,20,"Brand, Wiggis",47.07030,9.04789,100,"Feinschutt mit ziemlich viel Feinerde diese schon oberflächlich liegend Schutt hart verbacken, so daß oberflächliches Material leicht abrutscht. Initialphase."
-2,500,35,E,Kalk,B.G.F.E.,s. bewegl. tätig,100,"Mettlen, Wiggis",47.07465,9.04941,100,"sehr bewegliches Grobgeroll, Feinerde spärlich in 5-50 cm Tiefe. bis zu dieser Tiefe viele Nährwurzeln."
-3,500,32,E,Kalk,F.E.,s. bewegl. tätig,100,"Mettlen, Wiggis",47.07465,9.04941,100,"unter einer Wasserrinne Steinluftschicht 5 cm, luckiger Vegetationsschluß."
-4,500,33,E,Kalk,B.G.E.,bewegl. tätig,25,"Schneisingen, Wiggis",47.09232,9.05471,300,"Steinluftschicht 5 cm, offene Optimalphase, 40 % vegetationsbedeckt, außerhalb der Probeflache Geranium sanguineum, Prunella grandiflora, Campanula rotundifolia."
-5,650,30,SE,Bergsturz Kalk,R.G.F.(E.),wen. bewegl. nicht tätig,50,Klöntal,47.05067,9.03635,500,"Assoziationasfragment, Vegetation 30-40% deckend."
-6,650,33,S,Kalk,B.G.E.,bewegl. tätig,50,Weißrisi [Wissrisi],47.04049,9.08353,50,"Terrassenbildung durch Stipa calamagrostis, auf den Terrassenflachen viel Feinerde, 10 % vegetationsbedeckt."
-7,700,30,SSE,Kalk,B.G.F.(E.),bewegl. nicht tätig,50,Weißrisi  [Wissrisi],47.04106,9.08411,50,"viel humusarme Femerde, Vegetation sehr offen."
-8,820,36,S,Kalk,G.F.E.,wen. bewegl. tätig,100,"Büttenen, Klöntal",47.05192,9.02895,200,"wenig beweglicher Feinschutt mit viel Feinerde, etwas tatig und berieselt, stark terrassiert, einzelne Moose."
-9,900,35,E,Kalk,G.E.,bewegl. etw. tätig,16,Weg zur Pantenbrücke [Pantenbrugg],46.87615,8.97793,200,"15 cm Steinluftschicht darunter 5 cm reichlich durchwurzelte, humusreiche Erde, dann humusarme Femerde mit spärlichen Wurzeln."
-10,900,35,E,Kalk,G.F.(E.),s. bewegl. tätig,50,Tierfehd,46.88005,8.97739,300,"15 cm Steinluftschicht, sehr beweglich und etwas tätig."
-11,650,35,S,Kalk,B.G.(E.),bewegl. tätig,100,Felsberg bei Chur [Gross Rüfi],46.84965,9.47273,300,"Steinluftschicht 15-20 cm, Wurzelschicht 30-40 cm mit viel humusarmer Feinerde, Aufnahme mit Dr. Braun-Blanquet."
-12,860,30,E,Kalk,G.(E.),NA,NA,Lauterbrunnental,46.57570,7.90611,1000,Dr. Braun-Blanquet.
+plot,elevation,slope,expo,soil1,soil2,soli3,pls,locality,latitude,longitude,accuracy,description,observer,date,remarks
+1,480,30,E,KaIk,F.E.,bewegl. tätig,20,"Brand, Wiggis",47.07030,9.04789,100,"Feinschutt mit ziemlich viel Feinerde diese schon oberflächlich liegend Schutt hart verbacken, so daß oberflächliches Material leicht abrutscht. Initialphase.",J. Jenny-Lips,1930-01-01,date is year of publication
+2,500,35,E,Kalk,B.G.F.E.,s. bewegl. tätig,100,"Mettlen, Wiggis",47.07465,9.04941,100,"sehr bewegliches Grobgeroll, Feinerde spärlich in 5-50 cm Tiefe. bis zu dieser Tiefe viele Nährwurzeln.",J. Jenny-Lips,1930-01-01,date is year of publication
+3,500,32,E,Kalk,F.E.,s. bewegl. tätig,100,"Mettlen, Wiggis",47.07465,9.04941,100,"unter einer Wasserrinne Steinluftschicht 5 cm, luckiger Vegetationsschluß.",J. Jenny-Lips,1930-01-01,date is year of publication
+4,500,33,E,Kalk,B.G.E.,bewegl. tätig,25,"Schneisingen, Wiggis",47.09232,9.05471,300,"Steinluftschicht 5 cm, offene Optimalphase, 40 % vegetationsbedeckt, außerhalb der Probeflache Geranium sanguineum, Prunella grandiflora, Campanula rotundifolia.",J. Jenny-Lips,1930-01-01,date is year of publication
+5,650,30,SE,Bergsturz Kalk,R.G.F.(E.),wen. bewegl. nicht tätig,50,Klöntal,47.05067,9.03635,500,"Assoziationasfragment, Vegetation 30-40% deckend.",J. Jenny-Lips,1930-01-01,date is year of publication
+6,650,33,S,Kalk,B.G.E.,bewegl. tätig,50,Weißrisi [Wissrisi],47.04049,9.08353,50,"Terrassenbildung durch Stipa calamagrostis, auf den Terrassenflachen viel Feinerde, 10 % vegetationsbedeckt.",J. Jenny-Lips,1930-01-01,date is year of publication
+7,700,30,SSE,Kalk,B.G.F.(E.),bewegl. nicht tätig,50,Weißrisi  [Wissrisi],47.04106,9.08411,50,"viel humusarme Femerde, Vegetation sehr offen.",J. Jenny-Lips,1930-01-01,date is year of publication
+8,820,36,S,Kalk,G.F.E.,wen. bewegl. tätig,100,"Büttenen, Klöntal",47.05192,9.02895,200,"wenig beweglicher Feinschutt mit viel Feinerde, etwas tatig und berieselt, stark terrassiert, einzelne Moose.",J. Jenny-Lips,1930-01-01,date is year of publication
+9,900,35,E,Kalk,G.E.,bewegl. etw. tätig,16,Weg zur Pantenbrücke [Pantenbrugg],46.87615,8.97793,200,"15 cm Steinluftschicht darunter 5 cm reichlich durchwurzelte, humusreiche Erde, dann humusarme Femerde mit spärlichen Wurzeln.",J. Jenny-Lips,1930-01-01,date is year of publication
+10,900,35,E,Kalk,G.F.(E.),s. bewegl. tätig,50,Tierfehd,46.88005,8.97739,300,"15 cm Steinluftschicht, sehr beweglich und etwas tätig.",J. Jenny-Lips,1930-01-01,date is year of publication
+11,650,35,S,Kalk,B.G.(E.),bewegl. tätig,100,Felsberg bei Chur [Gross Rüfi],46.84965,9.47273,300,"Steinluftschicht 15-20 cm, Wurzelschicht 30-40 cm mit viel humusarmer Feinerde, Aufnahme mit Dr. Braun-Blanquet.",J. Jenny-Lips,1930-01-01,date is year of publication
+12,860,30,E,Kalk,G.(E.),NA,NA,Lauterbrunnental,46.57570,7.90611,1000,Dr. Braun-Blanquet.,J. Jenny-Lips,1930-01-01,date is year of publication

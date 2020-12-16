@@ -8,7 +8,7 @@ source(file.path(path, "MakeVegsoup1.R"))
 source(file.path(path, "MakeVegsoup2.R"))
 
 #	bind data sets
-obj <- bind(tab1, tab2)
+obj <- vegsoup::bind(tab1, tab2)
 
 #	assign result object
 assign(key, obj)

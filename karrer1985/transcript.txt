@@ -1,5 +1,9 @@
 BEGIN HEAD
 plot                                        1234
+accuracy                                    5555
+                                            0000
+                                            0000
+                                                
 cov                                           6 
                                             5303
                                                 

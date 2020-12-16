@@ -1,6 +1,6 @@
 BEGIN HEAD
 plot                                          123456789
-accurcy                                       1        
+accuracy                                      1        
                                               035135351
                                               000500000
                                               000000000

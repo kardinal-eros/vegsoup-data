@@ -1,37 +1,39 @@
-plot;variable;value;;
-fk01;date;2011-10-30;;
-fk01;cov;95;;
-fk01;hcov;95;;
-fk01;mcov;10;;
-fk01;hhl1;0,7;;
-fk01;hhl2;0,2;;
-fk01;expo;S;;
-fk01;slope;45;;
-fk01;rock;4;;
-fk01;bare;1;;
-fk01;stones;0;;
-fk01;plsx;4;;
-fk01;plsy;4;;
-fk01;location;Tonalm E Frommerkogl;;
-fk01;latitude;47.469890N;;,
-fk01;longitude;13.331850E;;
-fk01;accuracy;8;;
-fk01;altitude;1850;;
-fk02;date;2011-10-30;;
-fk02;cov;99;;
-fk02;hcov;99;;
-fk02;mcov;5;;
-fk02;hhl1;0,7;;
-fk02;hhl2;0,2;;
-fk02;expo;S;;
-fk02;slope;50;;
-fk02;rock;1;;
-fk02;bare;0;;
-fk02;stones;0;;
-fk02;plsx;4;;
-fk02;plsy;4;;
-fk02;location;Tonalm E Frommerkogl;;
-fk02;latitude;47.470030N;;
-fk02;longitude;13.332497E;;
-fk02;accuracy;20;;
-fk02;altitude;1850;;
+plot,variable,value,,
+fk01,date,2011-10-30,,
+fk01,cov,95,,
+fk01,hcov,95,,
+fk01,mcov,10,,
+fk01,hhl1,0.7,,
+fk01,hhl2,0.2,,
+fk01,expo,S,,
+fk01,slope,45,,
+fk01,rock,4,,
+fk01,bare,1,,
+fk01,stones,0,,
+fk01,plsx,4,,
+fk01,plsy,4,,
+fk01,location,Tonalm E Frommerkogl,,
+fk01,latitude,47.469890N,,","
+fk01,longitude,13.331850E,,
+fk01,accuracy,8,,
+fk01,altitude,1850,,
+fk02,date,2011-10-30,,
+fk02,cov,99,,
+fk02,hcov,99,,
+fk02,mcov,5,,
+fk02,hhl1,0.7,,
+fk02,hhl2,0.2,,
+fk02,expo,S,,
+fk02,slope,50,,
+fk02,rock,1,,
+fk02,bare,0,,
+fk02,stones,0,,
+fk02,plsx,4,,
+fk02,plsy,4,,
+fk02,location,Tonalm E Frommerkogl,,
+fk02,latitude,47.470030N,,
+fk02,longitude,13.332497E,,
+fk02,accuracy,20,,
+fk02,altitude,1850,,
+fk01,observer,R. Kaiser,,
+fk02,observer,R. Kaiser,,

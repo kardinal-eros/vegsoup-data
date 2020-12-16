@@ -1,126 +1,126 @@
-plot	date	location	xyztms	syntaxon	code	expo	slope.str	slope	pls	plsx	plsy
-186	1996-04-28 & 1996-07-23	Hallenartiger Wald südlich der Straße nach Straßham, Gde. Wilhering	x=8836&y=5673&z=14,x=8836&y=5674&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	1-3	0	300	17	17
-191	1995-01-01	Leitenwald 700m SE von Sinnersdorf / Weißkirchen	x=8836&y=5683&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NNW	30	0	300	17	17
-487	2003-06-07	500m SE vom Bahnhof Nettingsdorf, Neuhofen, NW-exponierte Leiten zum Kremstal	x=17682&s=&y=11364&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	SE	30	0	300	17	17
-975	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	15-30	0	400	20	20
-968	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	ESE	40-45	0	300	17	17
-970	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	ESE	30-40	0	400	20	20
-976	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	30-40	0	400	20	20
-488	2003-06-07	400m SSE vom Petersberger SW von Kremsdorf, Ansfelden SW-Hang eines Tobels	x=35366&s=&y=22727&z=16,x=35366&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	SW	30-40	0	300	17	17
-12	1997-06-21	Aschachtal NW von Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NE	20-30	0	200	14	14
-845	2005-06-24	Hangwald bei Zell/Pram	x=8812&y=5673&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NW	30-40	0	400	20	20
-79	1997-06-09	Am Simsenbergbach nahe der Fischzucht SSE von Hofkirchen i.T.	x=8846&y=5687&z=14,x=8847&y=5687&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	15-30	0	300	17	17
-14	1997-06-21	Unter der Straße an der Aschach W der Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NE	5-10	0	200	14	14
-183	1997-06-06	Wasserloser Bach SE der Kläranlage nördlich von Gmunden	x=17640&s=&y=11398&z=15,x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	1-5	0	300	17	17
-85	1997-06-24	Wald am Oberdammbach 500m NNW von Kote 399, ca 2,5km W. von Laussa	x=17695&s=&y=11394&z=15,x=17696&s=&y=11394&z=15,x=17695&s=&y=11395&z=15,x=17696&s=&y=11395&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	5-20	0	200	14	14
-90	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	30-40	0	300	17	17
-489	2003-06-08	Wald 750m südlich von der Tillysburg, St.Florian	x=17696&s=&y=11364&z=15	Corydalido-Aceretum Moor 1938, tilietosum, Fazies von Carex pilosa	T160101	E	30	0	300	17	17
-89	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	N	30	0	300	17	17
-974	2005-05-31	Kremsleiten S von Kematen bei Bruck	x=35352&s=&y=22753&z=16	Corydalido-Aceretum Moor 1938, typicum	T1602	W	30	0	200	14	14
-507	1999-05-03	Hang an der Zellerache bei Autobahnabfahrt Mondsee, länglicher Bereich oberhalb des befestigten Ufers	x=17597&s=&y=11410&z=15,x=17598&s=&y=11410&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	E	1-10	0	400	20	20
-583	2004-07-15	N-exponierter Hang 1km östlich von Mühlheim/Inn, stark ruselnder, schottriger Unterhang	x=17588&s=&y=11351&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	N	45	0	200	14	14
-54	1996-05-14	Landschaftsschutzgebiet Fasanenau, Regau	x=17626&s=&y=11389&z=15,x=17626&s=&y=11390&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	400	20	20
-756	2005-07-19	Eschenau an Wangauer Ache E von Rehrlmoos Nähe Autobahn	x=17605&s=&y=11413&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14
-548	2000-05-03	Au bei Alkoven zwischen Aschach und Innbach	x=4416&y=2836&z=13,x=4416&y=2837&z=13	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14
-28	1997-05-26	Bachgehölz südlich des Naturschutzgebietes *Quellflur bei Grueb*, Gde. Tiefgraben	x=17594&s=&y=11407&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	300	17	17
-684	2004-07-15	Pranzlgraben NE von Molln (Aufn.: Prack)	x=8842&y=5702&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	S	30	0	200	14	14
-484	2003-05-28	Konglomerat-Schuttwald in Unterhang am Naturschutzgebiet Hobelsberg, Gde. Frankenburg	x=17607&s=&y=11383&z=15,x=17606&s=&y=11383&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	NNE	20	0	250	16	16
-748	2005-07-19	Graben nördlich von Rehrlmoos, Gde. Innerschwand	x=17604&s=&y=11412&z=15,x=17605&s=&y=11412&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	W	30	0	300	17	17
-597	2004-07-15	Bei Dornleiten, SW von Wartberg ob der Aist, Minitobel mit allseitiger Neigung	x=8850&y=5671&z=14,x=8851&y=5671&z=14,x=8850&y=5672&z=14,x=8851&y=5672&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	EW	20-40	0	300	17	17
-612	2004-07-15	Pranzlgraben NE von Rabach, Molln	x=8842&y=5702&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	S	10-20	0	200	14	14
-82	1996-05-11 & 1996-07-18	Mittlerer Unterhangbereich mit mäßiger Neigung am Westabhang des Kürnbergs	x=17678&s=&y=11350&z=15	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	SW	5-20	0	500	22	22
-47	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	3-8	0	400	20	20
-759	2005-07-19	Eschenwald S von Straß i.A.	x=8804&y=5701&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	2-3	0	400	20	20
-60	1997-06-02	Eschenwald N vom Zementwerk in Kirchdorf	x=8803&y=5701&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	F	0	0	100	10	10
-57	1996-06-02 & 1996-07-23	Teilweise muldenartiger Mittelhangbereich / Axberg Ost	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	0-5	0	400	20	20
-53	1996-06-02 & 1996-07-23	Mittelhang bei Axberg	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	10-20	0	500	22	22
-37	1996-04-28 & 1996-07-23	Unterhang mit vielen Altbäumen beim Zunderfeld, Wilhering	x=4418&y=2837&z=13	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	NE	5-10	0	400	20	20
-36	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	6-12	0	600	24	24
-55	1996-06-02 & 1996-07-23	Verflachender Hangbereich unmittelbar oberhalb eines ca. 2-3m ins Gelände eingeschnittenen Baches bei Axberg	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	SSE	2-10	0	400	20	20
-48	1996-05-11 & 1996-07-23	Wald bei Reith Gde. Wilhering SSW von der Ortschaft Mühlbach	x=8836&y=5675&z=14,x=8837&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	E	2-4	0	400	20	20
-95	1997-06-21	Aschachtal östl. von *In der Raad*	x=17649&s=&y=11339&z=15	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	NW	20	0	300	17	17
-783	2005-07-16	Hangwald am Gegenbach W der Teufelsschüssel, Gde. Schwarzenberg	x=8821&y=5643&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	W	30-40	0	250	16	16
-735	2005-07-20	Beiderseits geneigte Uferböschung am Schwemmbach S vom Rubner Teich, Unterweißenbach nahe Moserwirt	x=8867&y=5662&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	10-30	0	200	14	14
-731	2005-07-20	Hang zur Maltsch bei *Alte Säge*, Gde. Sandl	x=4428&y=2826&z=13	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	S	10-35	0	150	12	12
-732	2005-07-20	Schmaler steiler Bachuferstreifen beidseitig inmitten jungem Fichtenforst an Straßenböschung W vom Tanner Moor, Liebenau	x=8867&y=5660&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	20-40	0	70	8	8
-734	2005-07-20	Beiderseits geneigte Uferböschung am Altteichbach südl vom Rubner Teich, Liebenau	x=17735&s=&y=11323&z=15,x=17736&s=&y=11323&z=15,x=17736&s=&y=11324&z=15	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	20-30	0	150	12	12
-105	1997-07-17	NE vom Steyr-Ursprung, N von Baumschlagreith am Bach aus dem Hochsteingraben	x=17667&s=&y=11438&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	N	1-3	0	300	17	17
-AN	1997-07-17	Hang beim Waldbachursprung, Echerntal, Hallstatt	x=17621&s=&y=11452&z=15,x=17622&s=&y=11452&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	N	30	0	150	12	12
-108	1997-07-17	NE vom Steyr-Ursprung, N von Baumschlagreith am Bach aus dem Hochsteingraben	x=17667&s=&y=11438&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	NE	1-3	0	300	17	17
-AP	1997-07-24	Echerntal 700m S von *Jhtt. Werkstatt*	x=17623&s=&y=11451&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	N	30-40	0	300	17	17
-111	1997-07-17	Abfall zur Steyr beim Steyr-Ursprung	x=17666&s=&y=11438&z=15	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	N	20-30	0	200	14	14
-112	1997-07-17	Höher liegender Alluvialbereich ca.150m unterhalb Steyr-Ursprung	x=35333&s=&y=22876&z=16,x=35333&s=&y=22877&z=16	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	F	0	0	400	20	20
-106	1997-07-17	Ca. 100m N vom Steyr-Ursprung	x=70665&s=&y=45754&z=17	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	NE	1-3	0	300	17	17
-109	1997-07-17	An der Steyr am Bach bei Baumschlagreith 600m NE vom Steyr-Ursprung	x=141335&s=&y=91506&z=18	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	E	1-3	0	300	17	17
-838	2005-07-01	Hang beim Palmgraben E St.Pankratz	x=8839&y=5709&z=14,x=8839&y=5710&z=14	Sorbo ariae-Aceretum pseudoplatani Moor 52, typicum	T2001	S	30	0	300	17	17
-667	2004-07-21	Steilhang 1km westlich von Weißenbach nördlich von Bad Goisern, 50m nach Brücke über den Bach	x=35245&s=&y=22872&z=16,x=35245&s=&y=22873&z=16	Sorbo ariae-Aceretum pseudoplatani Moor 52, typicum	T2001	S	40-45	0	200	14	14
-490	2003-06-14	Am Südende des Hopfinggraben am Talausgang eines kleinen Baches	x=8842&y=5709&z=14,x=8843&y=5709&z=14	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	NW	40-50	0	100	10	10
-614	2004-07-15	Felsiger Unterhang an der Straße Richtung Jaidhaus S vom Kienberg (südl. Breitenau/Molln)	x=17689&s=&y=11410&z=15	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	50	0	100	10	10
-659	2004-07-22	300m S Koppenbrüllerhöhle zwischen Weg und der Traun	x=70531&s=&y=45796&z=17	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	W	40-45	0	300	17	17
-660	2004-07-22	Steilhang unterhalb kleiner Felswand am  Weg über den Gangsteiggraben 300m S von Koppenbrüllerhöhle	x=35265&s=&y=22899&z=16	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	40	0	150	12	12
-722	2005-07-21	Steilhang an der Forststraße beim Großen Bach oberhalb der Straße bei einer fix montierten Holzleiter, Großraming	x=35403&s=&y=22836&z=16,x=35403&s=&y=22837&z=16,x=35403&s=&y=22838&z=16	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	W	40-70	0	30	5	5
-695	2005-07-28	Unterhalb eines Felsbereiches in der Planwiesen, Gde. Grünburg	x=8838&y=5703&z=14	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	40	0	150	12	12
-828	2005-07-01	Unterhang unter einer Felswand bei der Einmündung des Weißenbaches in die Steyr südl. Steyrbrücke, Gde. Klaus	x=70692&s=&y=45693&z=17,x=70692&s=&y=45694&z=17	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	40	0	200	14	14
-611	2004-07-15	Nordhang an der Krummen Steyrling zwischen Au und Rabach, (Aufn.: Prack)	x=17682&s=&y=11405&z=15,x=17683&s=&y=11405&z=15	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	N	30-40	0	300	17	17
-683	2004-07-15	Nordhang an der Krummen Steyrerling zwischen Au und Rabach, (Aufn.: Prack)	x=17682&s=&y=11405&z=15,x=17683&s=&y=11405&z=15	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	N	30	0	200	14	14
-654	2004-07-22	Süd exponierter Steilhang rechtsufrig vom Rindbach oberhalb eines Pfades östlich der Ortschaft Rindbach, Ebensee	x=35280&s=&y=22834&z=16,x=35281&s=&y=22834&z=16	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	S	25-40	0	200	14	14
-670	2004-07-21	Hangwald SW vom Rindbachwasserfall, Ebensee	x=70565&s=&y=45669&z=17	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	NW	20-35	0	400	20	20
-630	2004-07-01	Ennsleiten 1km südlich der Abzweigung nach Weyr-Markt	x=17716&s=&y=11411&z=15	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	W	40	0	300	17	17
-492	2003-06-14	Hopfing/Molln, am Beginn des Aufstiegs zur Feichtau beim Militärschranken bzw. beim Parkplatz, unterhalb der Zufahrtsstraße	x=4421&y=2854&z=13,x=4422&y=2854&z=13	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	S	40	0	200	14	14
-898	2005-06-12	Ennsleiten bei Staning, Gde. Dietach	x=8850&y=5688&z=14	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	E	40	0	300	17	17
-C15	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21						
-C14	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21						
-C19	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21						
-994	2006-09-16	Linden-Felswald am Westabhang des Spitzelsteins am Traunsee, 5-10m oberhalb des Sees	x=35280&s=&y=22830&z=16,x=35280&s=&y=22831&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., seslerietosum Willner 2007	T2101	W	40-60	0	150	12	12
-482	2003-05-31	Ennsleiten, 500m SE von der Autobahnspinne bei Enns	x=17702&s=&y=11363&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	25-40	0	200	14	14
-483	2003-05-31	Ennsleiten, 1km SSE von der Autobahnspinne bei Enns	x=17702&s=&y=11364&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	30-45	0	200	14	14
-900	2005-06-12	Ennsleiten bei Staning, Gde. Dietach	x=8850&y=5688&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	40	0	400	20	20
-104	1997-06-24	Kalksteinmauer Laussa, Ost-Teil, Schutthang unterhalb der Mauer	x=8849&y=5698&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30-45	0	300	17	17
-625	2004-07-01	Stark kalkschuttnachliefernder Abhang am Südende vom Höhenberg nördlich von Großraming	x=35417&s=&y=22804&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	40	0	300	17	17
-626	2004-07-01	Stark kalkschuttnachliefernder Abhang am Südende vom Höhenberg nördlich von Großraming	x=35417&s=&y=22804&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	40	0	200	14	14
-717	2005-07-22	Schmaler steiler Bachbegleitstreifen am Erlgraben bei Ottsdorf, Gde. Micheldorf	x=35333&s=&y=22812&z=16,x=35334&s=&y=22812&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	5-30	0	100	10	10
-579	2004-07-01	Hangwald am Inn SW von Obernberg	x=8825&y=5693&z=14,x=8826&y=5693&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NE	40	0	300	17	17
-594	2004-07-01	Lindenhangwald 500m E von *In der Thann*, Gde. Wolfern	x=35385&s=&y=22749&z=16,x=35386&s=&y=22749&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NW	20	0	300	17	17
-448	2003-05-25	500m E von Unterwallern (an der Steyr gegenüber von Aschach/St) Steilhang mit einzelnen Konglomeratfelsen und rieseliger Schuttfläche	x=17686&s=&y=11388&z=15,x=17686&s=&y=11389&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	30	0	300	17	17
-899	2005-06-12	Ennsleiten bei Staning, Hangfuß, Gde. Dietach	x=8850&y=5688&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	5-15	0	300	17	17
-568	2004-07-07	Eschen-Unterhangwald zwischen Puchenau und Ottensheim	x=8838&y=5673&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30	0	200	14	14
-569	2004-07-01	Hang bei Lindham, SW von Walding	x=17670&s=&y=11343&z=15,x=17671&s=&y=11343&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-30	0	300	17	17
-570	2004-07-01	1km WSW [?WNW?]von Freudenstein nördlich von Goldwörth	x=4416&y=2835&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-30	0	300	17	17
-866	2005-06-14	Leiten S von Kristein unmittelbar N der Autobahn, Gde. Enns	x=17699&s=&y=11362&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	N	20	0	400	20	20
-592	2004-07-01	Eschenhangwald 500m E von In der Thann, Gde. Wolfern, 	x=35385&s=&y=22749&z=16,x=35386&s=&y=22749&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	15-20	0	300	17	17
-601	2004-07-01	NW-exponierte Almleiten bei Almau NE von Viechtwang	x=8828&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NNW	45	0	300	17	17
-578	2004-07-01	Katzenbergleithen 400m NNW von Grub SW von Obernberg	x=70383&s=&y=45394&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NW	40	0	300	17	17
-534	2003-07-27	Wald 550m westlich von Tobra zwischen Arbing und Perg direkt nördlich der Bundesstraße	x=35440&s=&y=22717&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30-40	0	300	17	17
-565	2004-07-07	Schluchtwald in engem Tal bei Oberpuchenau	x=4419&y=2836&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	30-40	0	300	17	17
-577	2004-07-01	Katzenbergleiten 400m nnw von Grub sw von Obernberg	x=70383&s=&y=45394&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NW	40-45	0	400	20	20
-533	2003-07-17	300m W von Strohberg westlich von Arbing direkt anschließend an die Bundesstraße	x=70881&s=&y=45435&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	10-25	0	300	17	17
-978	2005-05-31	Hang am Reiflbach S von Kematen	x=8837&y=5688&z=14,x=8837&y=5689&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NE	30	0	300	17	17
-125	1997-07-16	Naturschutzgebiet Große Mühl, bestockte Blockhalde im Mittelhang	x=17655&s=&y=11330&z=15,x=17656&s=&y=11330&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	20-30	0	300	17	17
-903	2005-06-12	Auf Stock gesetzer, ca. 30-40-jähriger Eschenhangwald mit feiner Schuttnachlieferung bei Winkling, Gde. Kronstorf	x=8850&y=5687&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NE	30	0	300	17	17
-702	2005-07-22	Nur 4m hoher Steilhang zum Schwarzenbach nördlich vom Bürgl, St.Wolfgang	x=35223&s=&y=22854&z=16,x=35224&s=&y=22854&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SW	30-50	0	200	14	14
-449	2003-05-25	500m E von Unterwallern an der Steyr gegenüber Aschach/St., Steilhang mit einzelnen Konglomertafelsen und rieseliger Schuttfläche	x=35372&s=&y=22777&z=16,x=35372&s=&y=22778&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	30-35	0	300	17	17
-656	2004-07-22	Süd exponierter Steilhang rechtsufrig vom Rindbach oberhalb eines Pfades östlich der Ortschaft Rindbach	x=35280&s=&y=22834&z=16,x=35281&s=&y=22834&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	45	0	400	20	20
-114	1997-06-24	Unterhang der Ennsleiten bei Breitenfurt, Ternberg, Schutt- und Müll-reich	x=8845&y=5700&z=14,x=8846&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-30	0	300	17	17
-602	2004-07-01	NW exponierte Almleiten östlich von Almau NE von Viechtwang	x=8828&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NNE	40-45	0	200	14	14
-644	2004-08-08	Niederterrassenabfall zur Ager bei Niederharrern zwischen Lambach und Schwanenstadt	x=17642&s=&y=11379&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SSE	45	0	300	17	17
-527	2003-07-17	1km östlich von St. Nikola zwischen Bundesstraße und Bahn bei kleinem Parkplatz	x=70960&s=&y=45436&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	40	0	200	14	14
-651	2004-09-08	Schluchtwald im Rannatal 1km östlich von Dorf am rechten Rannaufer unterer Mittelhang	x=17638&s=&y=11323&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	30	0	400	20	20
-526	2003-07-17	Wald bei Burg Clam im Unterhangbereich	x=35458&s=&y=22721&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	N	15-30	0	400	20	20
-122	1997-06-24	Unterhang der Ennsleiten bei Breitenfurt, Losenstein, schuttreich	x=8847&y=5700&z=14,x=8848&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-40	0	300	17	17
-703	2005-07-22	Hang zur Ischl bei Aschau	x=4404&y=2857&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30	0	300	17	17
-1029	2004-07-01	Nordhang an der Krummen Steyrling zwischen Au und Rabach	x=17682&s=&y=11405&z=15,x=17683&s=&y=11405&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	N	40	0	300	17	17
-C21	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102						
-C18	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102						
-C24	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102						
-C13	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102						
-C20	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102						
-652	2004-09-08	Schluchtwald im Rannatal 1,5km südöstlich von Dorf	x=17638&s=&y=11324&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., moehringietosum muscosae	T2103	SE	40	0	300	17	17
-653	2004-09-08	Schluchtwald im Rannatal 1,5km südöstlich von Dorf, Mittelhang auf Blockschutthalde	x=17638&s=&y=11324&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., moehringietosum muscosae	T2103	E	35	0	300	17	17
-101	1997-06-21	Sehr blockreicher, feinerdearmer Schluchtwald im Aschachtal	x=2206&y=1417&z=12	Aceri-Tilietum platyphylli Faber 1936 s.l., moehringietosum muscosae	T2103	NW	30	0	500	22	22
-127	1994-08-05	Ahorn-Linden-Blockwald im nördlichen Teil des Kl. Kösslbachtales, Gde. Waldkirchen	x=8819&y=5663&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., festucetosum altissimae (Klika 1959) Willner comb. nov.	T2104	SO	20-30	0	400	20	20
-97	1997-07-16	Unterhang an der Kl. Mühl nördl. von Starz	x=17651&s=&y=11325&z=15,x=17651&s=&y=11326&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	W	25	0	300	17	17
-478	2003-05-31	Guttenbrunner Leiten an der Aist, wärmebegünstigter Unterhang	x=4427&y=2834&z=13,x=4428&y=2834&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SSE	30	0	250	16	16
-926	2005-06-10	Unterhang am Ausgang des Pesenbachtales bei Bad Mühllacken	x=35326&s=&y=22680&z=16,x=35327&s=&y=22680&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	E	30-40	0	300	17	17
-1031	1997-07-14	An der Aist, 1,5km SE von Hundsdorf S von Gutau	x=17713&s=&y=11336&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SE	5-10	0	300	17	17
-121	1997-07-14	Unterhang Aisttal, 1,5km SE von Hundsdorf S von Gutau	x=17713&s=&y=11336&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SE	30-40	0	400	20	20
-120	1997-07-14	Mittelhang Aisttal, 1,5km SE von Hundsdorf S von Gutau	x=17713&s=&y=11336&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SE	30-45	0	300	17	17
+plot	date	location	xyztms	syntaxon	code	expo	slope.str	slope	pls	plsx	plsy	observer
+186	1996-04-28 & 1996-07-23	Hallenartiger Wald südlich der Straße nach Straßham, Gde. Wilhering	x=8836&y=5673&z=14,x=8836&y=5674&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	1-3	0	300	17	17	M. Strauch
+191	1995-01-01	Leitenwald 700m SE von Sinnersdorf / Weißkirchen	x=8836&y=5683&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NNW	30	0	300	17	17	M. Strauch
+487	2003-06-07	500m SE vom Bahnhof Nettingsdorf, Neuhofen, NW-exponierte Leiten zum Kremstal	x=17682&s=&y=11364&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	SE	30	0	300	17	17	M. Strauch
+975	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	15-30	0	400	20	20	M. Strauch
+968	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	ESE	40-45	0	300	17	17	M. Strauch
+970	2005-05-31	Kremsleiten N Neuhofen/Kr.	x=8839&y=5684&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	ESE	30-40	0	400	20	20	M. Strauch
+976	2005-05-31	Kremsleiten bei Solenau S von Kematen	x=8838&y=5689&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	30-40	0	400	20	20	M. Strauch
+488	2003-06-07	400m SSE vom Petersberger SW von Kremsdorf, Ansfelden SW-Hang eines Tobels	x=35366&s=&y=22727&z=16,x=35366&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	SW	30-40	0	300	17	17	M. Strauch
+12	1997-06-21	Aschachtal NW von Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NE	20-30	0	200	14	14	M. Strauch
+845	2005-06-24	Hangwald bei Zell/Pram	x=8812&y=5673&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NW	30-40	0	400	20	20	M. Strauch
+79	1997-06-09	Am Simsenbergbach nahe der Fischzucht SSE von Hofkirchen i.T.	x=8846&y=5687&z=14,x=8847&y=5687&z=14	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	15-30	0	300	17	17	M. Strauch
+14	1997-06-21	Unter der Straße an der Aschach W der Ruine Stauf	x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	NE	5-10	0	200	14	14	M. Strauch
+183	1997-06-06	Wasserloser Bach SE der Kläranlage nördlich von Gmunden	x=17640&s=&y=11398&z=15,x=35365&s=&y=22728&z=16	Corydalido-Aceretum Moor 1938, tilietosum	T1601	W	1-5	0	300	17	17	M. Strauch
+85	1997-06-24	Wald am Oberdammbach 500m NNW von Kote 399, ca 2,5km W. von Laussa	x=17695&s=&y=11394&z=15,x=17696&s=&y=11394&z=15,x=17695&s=&y=11395&z=15,x=17696&s=&y=11395&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	5-20	0	200	14	14	M. Strauch
+90	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalido-Aceretum Moor 1938, tilietosum	T1601	E	30-40	0	300	17	17	M. Strauch
+489	2003-06-08	Wald 750m südlich von der Tillysburg, St.Florian	x=17696&s=&y=11364&z=15	Corydalido-Aceretum Moor 1938, tilietosum, Fazies von Carex pilosa	T160101	E	30	0	300	17	17	M. Strauch
+89	1997-06-01	Leiten an der Bundesstraße unmittelbar südlich von Hehenberg bei Bad Hall	x=17697&s=&y=11396&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	N	30	0	300	17	17	M. Strauch
+974	2005-05-31	Kremsleiten S von Kematen bei Bruck	x=35352&s=&y=22753&z=16	Corydalido-Aceretum Moor 1938, typicum	T1602	W	30	0	200	14	14	M. Strauch
+507	1999-05-03	Hang an der Zellerache bei Autobahnabfahrt Mondsee, länglicher Bereich oberhalb des befestigten Ufers	x=17597&s=&y=11410&z=15,x=17598&s=&y=11410&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	E	1-10	0	400	20	20	M. Strauch
+583	2004-07-15	N-exponierter Hang 1km östlich von Mühlheim/Inn, stark ruselnder, schottriger Unterhang	x=17588&s=&y=11351&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	N	45	0	200	14	14	M. Strauch
+54	1996-05-14	Landschaftsschutzgebiet Fasanenau, Regau	x=17626&s=&y=11389&z=15,x=17626&s=&y=11390&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	400	20	20	M. Strauch
+756	2005-07-19	Eschenau an Wangauer Ache E von Rehrlmoos Nähe Autobahn	x=17605&s=&y=11413&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14	M. Strauch
+548	2000-05-03	Au bei Alkoven zwischen Aschach und Innbach	x=4416&y=2836&z=13,x=4416&y=2837&z=13	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	200	14	14	M. Strauch
+28	1997-05-26	Bachgehölz südlich des Naturschutzgebietes *Quellflur bei Grueb*, Gde. Tiefgraben	x=17594&s=&y=11407&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	F	0	0	300	17	17	M. Strauch
+684	2004-07-15	Pranzlgraben NE von Molln (Aufn.: Prack)	x=8842&y=5702&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	S	30	0	200	14	14	M. Strauch
+484	2003-05-28	Konglomerat-Schuttwald in Unterhang am Naturschutzgebiet Hobelsberg, Gde. Frankenburg	x=17607&s=&y=11383&z=15,x=17606&s=&y=11383&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	NNE	20	0	250	16	16	M. Strauch
+748	2005-07-19	Graben nördlich von Rehrlmoos, Gde. Innerschwand	x=17604&s=&y=11412&z=15,x=17605&s=&y=11412&z=15	Corydalido-Aceretum Moor 1938, typicum	T1602	W	30	0	300	17	17	M. Strauch
+597	2004-07-15	Bei Dornleiten, SW von Wartberg ob der Aist, Minitobel mit allseitiger Neigung	x=8850&y=5671&z=14,x=8851&y=5671&z=14,x=8850&y=5672&z=14,x=8851&y=5672&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	EW	20-40	0	300	17	17	M. Strauch
+612	2004-07-15	Pranzlgraben NE von Rabach, Molln	x=8842&y=5702&z=14	Corydalido-Aceretum Moor 1938, typicum	T1602	S	10-20	0	200	14	14	M. Strauch
+82	1996-05-11 & 1996-07-18	Mittlerer Unterhangbereich mit mäßiger Neigung am Westabhang des Kürnbergs	x=17678&s=&y=11350&z=15	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	SW	5-20	0	500	22	22	M. Strauch
+47	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	3-8	0	400	20	20	M. Strauch
+759	2005-07-19	Eschenwald S von Straß i.A.	x=8804&y=5701&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	2-3	0	400	20	20	M. Strauch
+60	1997-06-02	Eschenwald N vom Zementwerk in Kirchdorf	x=8803&y=5701&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	F	0	0	100	10	10	M. Strauch
+57	1996-06-02 & 1996-07-23	Teilweise muldenartiger Mittelhangbereich / Axberg Ost	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	0-5	0	400	20	20	M. Strauch
+53	1996-06-02 & 1996-07-23	Mittelhang bei Axberg	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	10-20	0	500	22	22	M. Strauch
+37	1996-04-28 & 1996-07-23	Unterhang mit vielen Altbäumen beim Zunderfeld, Wilhering	x=4418&y=2837&z=13	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	NE	5-10	0	400	20	20	M. Strauch
+36	1996-05-11 & 1996-07-23	Wald zwischen Thalham und Straßham Gde. Wilhering	x=8836&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	N	6-12	0	600	24	24	M. Strauch
+55	1996-06-02 & 1996-07-23	Verflachender Hangbereich unmittelbar oberhalb eines ca. 2-3m ins Gelände eingeschnittenen Baches bei Axberg	x=8834&y=5677&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	SSE	2-10	0	400	20	20	M. Strauch
+48	1996-05-11 & 1996-07-23	Wald bei Reith Gde. Wilhering SSW von der Ortschaft Mühlbach	x=8836&y=5675&z=14,x=8837&y=5675&z=14	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	E	2-4	0	400	20	20	M. Strauch
+95	1997-06-21	Aschachtal östl. von *In der Raad*	x=17649&s=&y=11339&z=15	Corydalido-Aceretum Moor 1938, caricetosum brizoides	T1603	NW	20	0	300	17	17	M. Strauch
+783	2005-07-16	Hangwald am Gegenbach W der Teufelsschüssel, Gde. Schwarzenberg	x=8821&y=5643&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	W	30-40	0	250	16	16	M. Strauch
+735	2005-07-20	Beiderseits geneigte Uferböschung am Schwemmbach S vom Rubner Teich, Unterweißenbach nahe Moserwirt	x=8867&y=5662&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	10-30	0	200	14	14	M. Strauch
+731	2005-07-20	Hang zur Maltsch bei *Alte Säge*, Gde. Sandl	x=4428&y=2826&z=13	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	S	10-35	0	150	12	12	M. Strauch
+732	2005-07-20	Schmaler steiler Bachuferstreifen beidseitig inmitten jungem Fichtenforst an Straßenböschung W vom Tanner Moor, Liebenau	x=8867&y=5660&z=14	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	20-40	0	70	8	8	M. Strauch
+734	2005-07-20	Beiderseits geneigte Uferböschung am Altteichbach südl vom Rubner Teich, Liebenau	x=17735&s=&y=11323&z=15,x=17736&s=&y=11323&z=15,x=17736&s=&y=11324&z=15	Ulmo-Aceretum Beger 1922, typicum Willner 2007 (*Böhmerwald-Ausbildung*)	T1901	NESW	20-30	0	150	12	12	M. Strauch
+105	1997-07-17	NE vom Steyr-Ursprung, N von Baumschlagreith am Bach aus dem Hochsteingraben	x=17667&s=&y=11438&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	N	1-3	0	300	17	17	M. Strauch
+AN	1997-07-17	Hang beim Waldbachursprung, Echerntal, Hallstatt	x=17621&s=&y=11452&z=15,x=17622&s=&y=11452&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	N	30	0	150	12	12	M. Strauch
+108	1997-07-17	NE vom Steyr-Ursprung, N von Baumschlagreith am Bach aus dem Hochsteingraben	x=17667&s=&y=11438&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	NE	1-3	0	300	17	17	M. Strauch
+AP	1997-07-24	Echerntal 700m S von *Jhtt. Werkstatt*	x=17623&s=&y=11451&z=15	Ulmo-Aceretum Beger 1922, phyllitidetosum Moor 1975 (*Kalkalpen-Ausbildung*)	T1902	N	30-40	0	300	17	17	M. Strauch
+111	1997-07-17	Abfall zur Steyr beim Steyr-Ursprung	x=17666&s=&y=11438&z=15	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	N	20-30	0	200	14	14	M. Strauch
+112	1997-07-17	Höher liegender Alluvialbereich ca.150m unterhalb Steyr-Ursprung	x=35333&s=&y=22876&z=16,x=35333&s=&y=22877&z=16	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	F	0	0	400	20	20	M. Strauch
+106	1997-07-17	Ca. 100m N vom Steyr-Ursprung	x=70665&s=&y=45754&z=17	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	NE	1-3	0	300	17	17	M. Strauch
+109	1997-07-17	An der Steyr am Bach bei Baumschlagreith 600m NE vom Steyr-Ursprung	x=141335&s=&y=91506&z=18	Übergang Ulmo-Aceretum Beger 1922 - Sorbo ariae-Aceretum pseudoplatani	T19-20	E	1-3	0	300	17	17	M. Strauch
+838	2005-07-01	Hang beim Palmgraben E St.Pankratz	x=8839&y=5709&z=14,x=8839&y=5710&z=14	Sorbo ariae-Aceretum pseudoplatani Moor 52, typicum	T2001	S	30	0	300	17	17	M. Strauch
+667	2004-07-21	Steilhang 1km westlich von Weißenbach nördlich von Bad Goisern, 50m nach Brücke über den Bach	x=35245&s=&y=22872&z=16,x=35245&s=&y=22873&z=16	Sorbo ariae-Aceretum pseudoplatani Moor 52, typicum	T2001	S	40-45	0	200	14	14	M. Strauch
+490	2003-06-14	Am Südende des Hopfinggraben am Talausgang eines kleinen Baches	x=8842&y=5709&z=14,x=8843&y=5709&z=14	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	NW	40-50	0	100	10	10	M. Strauch
+614	2004-07-15	Felsiger Unterhang an der Straße Richtung Jaidhaus S vom Kienberg (südl. Breitenau/Molln)	x=17689&s=&y=11410&z=15	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	50	0	100	10	10	M. Strauch
+659	2004-07-22	300m S Koppenbrüllerhöhle zwischen Weg und der Traun	x=70531&s=&y=45796&z=17	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	W	40-45	0	300	17	17	M. Strauch
+660	2004-07-22	Steilhang unterhalb kleiner Felswand am  Weg über den Gangsteiggraben 300m S von Koppenbrüllerhöhle	x=35265&s=&y=22899&z=16	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	40	0	150	12	12	M. Strauch
+722	2005-07-21	Steilhang an der Forststraße beim Großen Bach oberhalb der Straße bei einer fix montierten Holzleiter, Großraming	x=35403&s=&y=22836&z=16,x=35403&s=&y=22837&z=16,x=35403&s=&y=22838&z=16	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	W	40-70	0	30	5	5	M. Strauch
+695	2005-07-28	Unterhalb eines Felsbereiches in der Planwiesen, Gde. Grünburg	x=8838&y=5703&z=14	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	40	0	150	12	12	M. Strauch
+828	2005-07-01	Unterhang unter einer Felswand bei der Einmündung des Weißenbaches in die Steyr südl. Steyrbrücke, Gde. Klaus	x=70692&s=&y=45693&z=17,x=70692&s=&y=45694&z=17	Sorbo ariae-Aceretum pseudoplatani Moor 52, molinietosum	T2002	S	40	0	200	14	14	M. Strauch
+611	2004-07-15	Nordhang an der Krummen Steyrling zwischen Au und Rabach, (Aufn.: Prack)	x=17682&s=&y=11405&z=15,x=17683&s=&y=11405&z=15	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	N	30-40	0	300	17	17	M. Strauch
+683	2004-07-15	Nordhang an der Krummen Steyrerling zwischen Au und Rabach, (Aufn.: Prack)	x=17682&s=&y=11405&z=15,x=17683&s=&y=11405&z=15	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	N	30	0	200	14	14	M. Strauch
+654	2004-07-22	Süd exponierter Steilhang rechtsufrig vom Rindbach oberhalb eines Pfades östlich der Ortschaft Rindbach, Ebensee	x=35280&s=&y=22834&z=16,x=35281&s=&y=22834&z=16	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	S	25-40	0	200	14	14	M. Strauch
+670	2004-07-21	Hangwald SW vom Rindbachwasserfall, Ebensee	x=70565&s=&y=45669&z=17	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	NW	20-35	0	400	20	20	M. Strauch
+630	2004-07-01	Ennsleiten 1km südlich der Abzweigung nach Weyr-Markt	x=17716&s=&y=11411&z=15	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	W	40	0	300	17	17	M. Strauch
+492	2003-06-14	Hopfing/Molln, am Beginn des Aufstiegs zur Feichtau beim Militärschranken bzw. beim Parkplatz, unterhalb der Zufahrtsstraße	x=4421&y=2854&z=13,x=4422&y=2854&z=13	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	S	40	0	200	14	14	M. Strauch
+898	2005-06-12	Ennsleiten bei Staning, Gde. Dietach	x=8850&y=5688&z=14	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21	E	40	0	300	17	17	M. Strauch
+C15	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21							P. Prack
+C14	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21							P. Prack
+C19	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Übergang Aceri-Tilietum platyphylli Faber 1936 s.l. - Sorbo ariae-Aceretum	T20-21							P. Prack
+994	2006-09-16	Linden-Felswald am Westabhang des Spitzelsteins am Traunsee, 5-10m oberhalb des Sees	x=35280&s=&y=22830&z=16,x=35280&s=&y=22831&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., seslerietosum Willner 2007	T2101	W	40-60	0	150	12	12	M. Strauch
+482	2003-05-31	Ennsleiten, 500m SE von der Autobahnspinne bei Enns	x=17702&s=&y=11363&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	25-40	0	200	14	14	M. Strauch
+483	2003-05-31	Ennsleiten, 1km SSE von der Autobahnspinne bei Enns	x=17702&s=&y=11364&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	30-45	0	200	14	14	M. Strauch
+900	2005-06-12	Ennsleiten bei Staning, Gde. Dietach	x=8850&y=5688&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	40	0	400	20	20	M. Strauch
+104	1997-06-24	Kalksteinmauer Laussa, Ost-Teil, Schutthang unterhalb der Mauer	x=8849&y=5698&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30-45	0	300	17	17	M. Strauch
+625	2004-07-01	Stark kalkschuttnachliefernder Abhang am Südende vom Höhenberg nördlich von Großraming	x=35417&s=&y=22804&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	40	0	300	17	17	M. Strauch
+626	2004-07-01	Stark kalkschuttnachliefernder Abhang am Südende vom Höhenberg nördlich von Großraming	x=35417&s=&y=22804&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	40	0	200	14	14	M. Strauch
+717	2005-07-22	Schmaler steiler Bachbegleitstreifen am Erlgraben bei Ottsdorf, Gde. Micheldorf	x=35333&s=&y=22812&z=16,x=35334&s=&y=22812&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	5-30	0	100	10	10	M. Strauch
+579	2004-07-01	Hangwald am Inn SW von Obernberg	x=8825&y=5693&z=14,x=8826&y=5693&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NE	40	0	300	17	17	M. Strauch
+594	2004-07-01	Lindenhangwald 500m E von *In der Thann*, Gde. Wolfern	x=35385&s=&y=22749&z=16,x=35386&s=&y=22749&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NW	20	0	300	17	17	M. Strauch
+448	2003-05-25	500m E von Unterwallern (an der Steyr gegenüber von Aschach/St) Steilhang mit einzelnen Konglomeratfelsen und rieseliger Schuttfläche	x=17686&s=&y=11388&z=15,x=17686&s=&y=11389&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	30	0	300	17	17	M. Strauch
+899	2005-06-12	Ennsleiten bei Staning, Hangfuß, Gde. Dietach	x=8850&y=5688&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	5-15	0	300	17	17	M. Strauch
+568	2004-07-07	Eschen-Unterhangwald zwischen Puchenau und Ottensheim	x=8838&y=5673&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30	0	200	14	14	M. Strauch
+569	2004-07-01	Hang bei Lindham, SW von Walding	x=17670&s=&y=11343&z=15,x=17671&s=&y=11343&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-30	0	300	17	17	M. Strauch
+570	2004-07-01	1km WSW [?WNW?]von Freudenstein nördlich von Goldwörth	x=4416&y=2835&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-30	0	300	17	17	M. Strauch
+866	2005-06-14	Leiten S von Kristein unmittelbar N der Autobahn, Gde. Enns	x=17699&s=&y=11362&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	N	20	0	400	20	20	M. Strauch
+592	2004-07-01	Eschenhangwald 500m E von In der Thann, Gde. Wolfern, 	x=35385&s=&y=22749&z=16,x=35386&s=&y=22749&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	15-20	0	300	17	17	M. Strauch
+601	2004-07-01	NW-exponierte Almleiten bei Almau NE von Viechtwang	x=8828&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NNW	45	0	300	17	17	M. Strauch
+578	2004-07-01	Katzenbergleithen 400m NNW von Grub SW von Obernberg	x=70383&s=&y=45394&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NW	40	0	300	17	17	M. Strauch
+534	2003-07-27	Wald 550m westlich von Tobra zwischen Arbing und Perg direkt nördlich der Bundesstraße	x=35440&s=&y=22717&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30-40	0	300	17	17	M. Strauch
+565	2004-07-07	Schluchtwald in engem Tal bei Oberpuchenau	x=4419&y=2836&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	30-40	0	300	17	17	M. Strauch
+577	2004-07-01	Katzenbergleiten 400m nnw von Grub sw von Obernberg	x=70383&s=&y=45394&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NW	40-45	0	400	20	20	M. Strauch
+533	2003-07-17	300m W von Strohberg westlich von Arbing direkt anschließend an die Bundesstraße	x=70881&s=&y=45435&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	10-25	0	300	17	17	M. Strauch
+978	2005-05-31	Hang am Reiflbach S von Kematen	x=8837&y=5688&z=14,x=8837&y=5689&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NE	30	0	300	17	17	M. Strauch
+125	1997-07-16	Naturschutzgebiet Große Mühl, bestockte Blockhalde im Mittelhang	x=17655&s=&y=11330&z=15,x=17656&s=&y=11330&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	20-30	0	300	17	17	M. Strauch
+903	2005-06-12	Auf Stock gesetzer, ca. 30-40-jähriger Eschenhangwald mit feiner Schuttnachlieferung bei Winkling, Gde. Kronstorf	x=8850&y=5687&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NE	30	0	300	17	17	M. Strauch
+702	2005-07-22	Nur 4m hoher Steilhang zum Schwarzenbach nördlich vom Bürgl, St.Wolfgang	x=35223&s=&y=22854&z=16,x=35224&s=&y=22854&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SW	30-50	0	200	14	14	M. Strauch
+449	2003-05-25	500m E von Unterwallern an der Steyr gegenüber Aschach/St., Steilhang mit einzelnen Konglomertafelsen und rieseliger Schuttfläche	x=35372&s=&y=22777&z=16,x=35372&s=&y=22778&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SE	30-35	0	300	17	17	M. Strauch
+656	2004-07-22	Süd exponierter Steilhang rechtsufrig vom Rindbach oberhalb eines Pfades östlich der Ortschaft Rindbach	x=35280&s=&y=22834&z=16,x=35281&s=&y=22834&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	45	0	400	20	20	M. Strauch
+114	1997-06-24	Unterhang der Ennsleiten bei Breitenfurt, Ternberg, Schutt- und Müll-reich	x=8845&y=5700&z=14,x=8846&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-30	0	300	17	17	M. Strauch
+602	2004-07-01	NW exponierte Almleiten östlich von Almau NE von Viechtwang	x=8828&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	NNE	40-45	0	200	14	14	M. Strauch
+644	2004-08-08	Niederterrassenabfall zur Ager bei Niederharrern zwischen Lambach und Schwanenstadt	x=17642&s=&y=11379&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	SSE	45	0	300	17	17	M. Strauch
+527	2003-07-17	1km östlich von St. Nikola zwischen Bundesstraße und Bahn bei kleinem Parkplatz	x=70960&s=&y=45436&z=17	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	40	0	200	14	14	M. Strauch
+651	2004-09-08	Schluchtwald im Rannatal 1km östlich von Dorf am rechten Rannaufer unterer Mittelhang	x=17638&s=&y=11323&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	E	30	0	400	20	20	M. Strauch
+526	2003-07-17	Wald bei Burg Clam im Unterhangbereich	x=35458&s=&y=22721&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	N	15-30	0	400	20	20	M. Strauch
+122	1997-06-24	Unterhang der Ennsleiten bei Breitenfurt, Losenstein, schuttreich	x=8847&y=5700&z=14,x=8848&y=5700&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	20-40	0	300	17	17	M. Strauch
+703	2005-07-22	Hang zur Ischl bei Aschau	x=4404&y=2857&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	S	30	0	300	17	17	M. Strauch
+1029	2004-07-01	Nordhang an der Krummen Steyrling zwischen Au und Rabach	x=17682&s=&y=11405&z=15,x=17683&s=&y=11405&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., typicum	T2102	N	40	0	300	17	17	M. Strauch
+C21	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102							P. Prack
+C18	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102							P. Prack
+C24	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102							P. Prack
+C13	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102							P. Prack
+C20	2007-01-01	Unteres Steyrtal (Aufnahme: Prack)	x=1106&y=710&z=11	Aceri-Tilietum platyphylli Faber 1936 s.l., sambucetosum nigrae	T2102							P. Prack
+652	2004-09-08	Schluchtwald im Rannatal 1,5km südöstlich von Dorf	x=17638&s=&y=11324&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., moehringietosum muscosae	T2103	SE	40	0	300	17	17	M. Strauch
+653	2004-09-08	Schluchtwald im Rannatal 1,5km südöstlich von Dorf, Mittelhang auf Blockschutthalde	x=17638&s=&y=11324&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., moehringietosum muscosae	T2103	E	35	0	300	17	17	M. Strauch
+101	1997-06-21	Sehr blockreicher, feinerdearmer Schluchtwald im Aschachtal	x=2206&y=1417&z=12	Aceri-Tilietum platyphylli Faber 1936 s.l., moehringietosum muscosae	T2103	NW	30	0	500	22	22	M. Strauch
+127	1994-08-05	Ahorn-Linden-Blockwald im nördlichen Teil des Kl. Kösslbachtales, Gde. Waldkirchen	x=8819&y=5663&z=14	Aceri-Tilietum platyphylli Faber 1936 s.l., festucetosum altissimae (Klika 1959) Willner comb. nov.	T2104	SO	20-30	0	400	20	20	M. Strauch
+97	1997-07-16	Unterhang an der Kl. Mühl nördl. von Starz	x=17651&s=&y=11325&z=15,x=17651&s=&y=11326&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	W	25	0	300	17	17	M. Strauch
+478	2003-05-31	Guttenbrunner Leiten an der Aist, wärmebegünstigter Unterhang	x=4427&y=2834&z=13,x=4428&y=2834&z=13	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SSE	30	0	250	16	16	M. Strauch
+926	2005-06-10	Unterhang am Ausgang des Pesenbachtales bei Bad Mühllacken	x=35326&s=&y=22680&z=16,x=35327&s=&y=22680&z=16	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	E	30-40	0	300	17	17	M. Strauch
+1031	1997-07-14	An der Aist, 1,5km SE von Hundsdorf S von Gutau	x=17713&s=&y=11336&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SE	5-10	0	300	17	17	M. Strauch
+121	1997-07-14	Unterhang Aisttal, 1,5km SE von Hundsdorf S von Gutau	x=17713&s=&y=11336&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SE	30-40	0	400	20	20	M. Strauch
+120	1997-07-14	Mittelhang Aisttal, 1,5km SE von Hundsdorf S von Gutau	x=17713&s=&y=11336&z=15	Aceri-Tilietum platyphylli Faber 1936 s.l., aruncuetosum	T2106	SE	30-45	0	300	17	17	M. Strauch

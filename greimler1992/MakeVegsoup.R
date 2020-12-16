@@ -18,7 +18,7 @@ file <- file.path(path, "Greimler1992Tab2Footer species.csv")
 X1 <- species(file, sep = ",")[, 1:4]
 
 #	bind
-X <- bind(X0, X1)
+X <- vegsoup::bind(X0, X1)
 
 #   sites data including coordinates
 file <- "~/Documents/vegsoup-data/greimler1992/Greimler1992Tab2Locations.csv"

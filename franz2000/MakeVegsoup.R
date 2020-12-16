@@ -33,11 +33,11 @@ x$layer[ c(1,2,10,17,23:26) ] <- "ml"
 XX <- species(x)
 XX$plot <- sprintf("%02d", as.numeric(XX$plot))
 
-X <- bind(X, XX)
+X <- vegsoup::bind(X, XX)
 
 #	sites
 file <- file.path(path, "Franz2000Tab1Locations.csv")
-Y <- stackSites(file = file, schema = "Laufende Nr.", sep = ";", zeros = TRUE)
+Y <- stackSites(file = file, schema = "Laufende Nr.", sep = ",", zeros = TRUE)
 Y$plot <- sprintf("%02d", as.numeric(Y$plot))
 
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
@@ -56,6 +56,9 @@ obj$association <- "Carici bigelowii-Loiseleurietum procumbentis"
 
 #	unique rownames
 rownames(obj) <- paste(key, "Tab1", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
+
+#	groome names
+names(obj)[ c(5,6,7,9,12) ] <- c("expo", "pls", "cov", "slope", "elevation")
 
 #	assign result object
 assign(key, obj)

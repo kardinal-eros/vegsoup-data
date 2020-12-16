@@ -43,7 +43,7 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 obj2 <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")
 
 #	bind data partitions
-obj <- bind(obj1, obj2)
+obj <- vegsoup::bind(obj1, obj2)
 
 #	order layer
 layers(obj)	 <- c("ml", "hl")

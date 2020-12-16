@@ -56,7 +56,7 @@ Galium pumilum                             .+..
 Heracleum sphondylium ssp. sphondylium     .+..
 Hypericum montanum                         .+..
 Knautia maxima ssp. maxima                 .+..
-Phyteuma spicatum                          .+..
+Phyteuma spicatum ssp. spicatum            .+..
 Polypodium vulgare s.str.                  .+..
 Quercus robur                              .+..
 Rosa arvensis                              .r..

@@ -7,7 +7,7 @@ bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- b
 source("~/Documents/vegsoup-data/medicus2010/MakeVegsoup 1.R")
 source("~/Documents/vegsoup-data/medicus2010/MakeVegsoup 2.R")
 
-obj <- bind(tab1, tab2)
+obj <- vegsoup::bind(tab1, tab2)
 
 #	order layer
 layers(obj)	 <- c("tl", "sl", "hl", "ml")

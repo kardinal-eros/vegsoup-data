@@ -49,7 +49,7 @@ apos foet                 @hl .++..+.2...+++.2
 hepa nobi                 @hl 1+..1+++....+...
 gale mont                 @hl +.+..+..31...1.+
 euph amyg amyg            @hl +....+.+...+++2.
-phyt spic                 @hl .+++..++.....+.+
+phyt spic spic            @hl .+++..++.....+.+
 hede heli                 @hl +.+1.+1+.....+..
 pulm offi                 @hl ++.....+1...++..
 aego poda                 @hl 1...1+.....2+...

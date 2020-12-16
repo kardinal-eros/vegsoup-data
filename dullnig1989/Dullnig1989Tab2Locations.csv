@@ -1,15 +1,15 @@
-plot,location,elevation,hydrology,bedrock
-047,Mayerlingalm,1750m,Wasser sehr rasch fließend, über Glimmerschiefer
-022,Lamprechtalm,1800m,Wasser rasch fließend, über phyllonitischen Schiefern
-055,Bärngrube,2000m,Wasser mäßig fließend, über Glimmerschiefer
-034,Hoisbauerhütte,1600m,Quellursprung mit ziemlich fließendem Wasser, über Glimmerschiefer
-051,Bergeralm,1800m,Quelle am Rand eines Flachmoores Wasser wenig fließend , über aufgewitterter Endmoräne
-063,Thomannbaueralm,1800m,Quellursprung mit zum Teil überhängenden Moospolstern
-037,Feldneralm,1870m,Wasser rasch fließend, über Glimmerschiefer
-019,Lamprechtalm,1800m,Wasser mäßig fließend, über phyllonitischon Schiefern und Glimmerschiefer
-008,Südhang des Stilecks,1750m,Wasser mäßig fließend, über Feinschutt verzahnt mit Flachmoorbereichen
-003,Thomannbaueralm,1850m,Wasser mäßig fließend, über Glimmerschiefer
-021,Südhang des Langnocks,1800m,Wasser mäßig fließend, über phyllonitischen Schiefern und Glimmerschiefer
-005,Thomannbaueralm,20 m unter 003, Wasser wenig fließend, über Glimmerschieferblöcken
-041,Stangalm,1900m,Wasser rasch fließend,über Konglomeraten
-016,Karlnock,2150m,Wasser sehr rasch fließend,über großen Konglomeratblöcken
+plot,location,elevation,hydrology,bedrock,date,remarks,observer
+047,Mayerlingalm,1750,Wasser sehr rasch fließend, über Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+022,Lamprechtalm,1800,Wasser rasch fließend, über phyllonitischen Schiefern,1989-01-01,date is year of publication,K. Dullnig
+055,Bärngrube,2000,Wasser mäßig fließend, über Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+034,Hoisbauerhütte,1600,Quellursprung mit ziemlich fließendem Wasser, über Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+051,Bergeralm,1800,Quelle am Rand eines Flachmoores Wasser wenig fließend , über aufgewitterter Endmoräne,1989-01-01,date is year of publication,K. Dullnig
+063,Thomannbaueralm,1800,Quellursprung mit zum Teil überhängenden Moospolstern,,1989-01-01,date is year of publication,K. Dullnig
+037,Feldneralm,1870,Wasser rasch fließend, über Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+019,Lamprechtalm,1800,Wasser mäßig fließend, über phyllonitischon Schiefern und Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+008,Südhang des Stilecks,1750,Wasser mäßig fließend, über Feinschutt verzahnt mit Flachmoorbereichen,1989-01-01,date is year of publication,K. Dullnig
+003,Thomannbaueralm,1850,Wasser mäßig fließend, über Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+021,Südhang des Langnocks,1800,Wasser mäßig fließend, über phyllonitischen Schiefern und Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig
+005,Thomannbaueralm,1830, Wasser wenig fließend, über Glimmerschieferblöcken,1989-01-01,date is year of publication,K. Dullnig
+041,Stangalm,1900,Wasser rasch fließend,über Konglomeraten,1989-01-01,date is year of publication,K. Dullnig
+016,Karlnock,2150,Wasser sehr rasch fließend,über großen Konglomeratblöcken,1989-01-01,date is year of publication,K. Dullnig

@@ -92,7 +92,7 @@ Ligustrum vulgare                                  1+21
 Lilium martagon                                    +.+.
 Lonicera xylosteum                                 ++1+
 Melica nutans s.str.                               +.+.
-Phyteuma spicatum                                  +r+.
+Phyteuma spicatum ssp. spicatum                    +r+.
 Poa nemoralis                                      r++.
 Prunus avium s.lat.                                11++
 Prunus padus ssp. padus                            +...

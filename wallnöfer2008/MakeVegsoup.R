@@ -36,7 +36,7 @@ proj4string(obj2) <- CRS("+init=epsg:31258")
 obj1 <- spTransform(obj1, CRS("+init=epsg:4326"))
 obj2 <- spTransform(obj2, CRS("+init=epsg:4326"))
 
-obj <- bind(obj1, obj2)
+obj <- vegsoup::bind(obj1, obj2)
 
 #	order layer
 layers(obj)	 <- c("tl", "sl", "hl")

@@ -15,11 +15,11 @@ X0$plot <- gsub(".", "", X0$plot, fixed = TRUE)
 file <- file.path(path, "Springer1993Tab14Footer species.csv")
 X1 <- species(file, sep = ",")[, 1:4]
 
-X <- bind(X0, X1)
+X <- vegsoup::bind(X0, X1)
 
 #   sites data including coordinates
 file <- "~/Documents/vegsoup-data/springer1993/Springer1993Tab14Locations.csv"
-Y <- stackSites(file = file, sep = ";")
+Y <- stackSites(file = file, sep = ",")
 
 # taxonomy reference list
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"

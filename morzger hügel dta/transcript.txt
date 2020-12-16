@@ -120,7 +120,7 @@ Corydalis cava                                  .+.+.
 Daphne mezereum                                 .rr1.
 Leucojum vernum                                 .+.+.
 Lilium martagon                                 .+++.
-Phyteuma spicatum                               .+++.
+Phyteuma spicatum ssp. spicatum                 .+++.
 Polygonatum multiflorum                         .+11+
 Pulmonaria officinalis s.str.                   .1++.
 Sanicula europaea                               .1.++

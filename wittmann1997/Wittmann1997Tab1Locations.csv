@@ -1,12 +1,12 @@
-plot;longitude;latitude;accuracy;date;locality
-01;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-02;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-03;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-04;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-05;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-06;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-07;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-08;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-09;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-10;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
-11;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte
+plot;longitude;latitude;accuracy;date;locality;observer
+1;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+2;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+3;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+4;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+5;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+6;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+7;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+8;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+9;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+10;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl
+11;12.975315;47.791823;250;1984-08-16;Flachgau, W der Stadt Salzburg, Wals, Gelände der Schwarzenbergkaseme, kurzlebige, schlammige, Wasserlachen bei der Panzerwerkstätte;H. Wittmann & P. Pilsl

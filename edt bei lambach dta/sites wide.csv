@@ -1,9 +1,9 @@
-"plot";"cov";"t1cov";"t2cov";"scov";"hcov";"mcov";"bare";"stones";"rock";"htl1";"htl2";"hsl";"hhl1";"hhl2";"plsx";"plsy";"expo";"slope";"date";"soil";"comment";"altitude";"longitude";"latitude";"accuracy";"vertical.precision"
-"el01";50;0;0;0;50;0;20;30;0;0;0;0;0,5;0,1;2;8;"S";5;"2011-11-06";"kiesiger Sand";;345;"13.900509E";"48.083153N";5;10
-"el02";96;92;10;35;90;5;4;0;0;22;12;4;0,5;0,05;16;16;"F";0;"2011-11-06";"grauer Auenboden";;345;"13.899124E";"48.084197N";5;10
-"el03";96;60;20;80;80;5;4;0;0;23;12;4;0,5;0,1;16;16;"F";0;"2011-11-06";"grauer Auenboden";;345;"13.899005E";"48.084108N";5;10
-"el04";97;92;8;65;80;3;3;0;0;22;12;4;0,6;0,1;16;16;"F";0;"2011-11-06";"grauer Auenboden";;345;"13.900527E";"48.083280N";5;10
-"el05";96;90;0;45;65;15;4;0;0;13;0;4;0,7;0,2;16;16;"F";0;"2011-11-06";"grauer Auenboden";;345;"13.901433E";"48.083324N";5;10
-"el06";100;65;10;15;98;10;0;0;0;24;12;4;1,2;0,3;16;16;"F";0;"2011-11-06";"grauer Auenboden";;345;"13.901837E";"48.083044N";5;10
-"el07";97;92;10;45;70;2;3;0;0;22;12;4;0,7;0,1;32;8;"F";0;"2011-11-06";"Sand";;345;"13.903342E";"48.082868N";5;10
-"el08";99;95;25;10;95;1;0;0;0;25;20;3;0,4;0,3;16;16;"F";0;"2013-07-12";"Braunerde";;999;"13.899490E";"48.085247N";20;999
+plot,cov,t1cov,t2cov,scov,hcov,mcov,bare,stones,rock,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,date,soil,comment,altitude,longitude,latitude,accuracy,vertical.precision,observer,location
+el01,50,0,0,0,50,0,20,30,0,0,0,0,0.5,0.1,2,8,S,5,2011-11-06,kiesiger Sand,,345,13.900509E,48.083153N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el02,96,92,10,35,90,5,4,0,0,22,12,4,0.5,0.05,16,16,F,0,2011-11-06,grauer Auenboden,,345,13.899124E,48.084197N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el03,96,60,20,80,80,5,4,0,0,23,12,4,0.5,0.1,16,16,F,0,2011-11-06,grauer Auenboden,,345,13.899005E,48.084108N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el04,97,92,8,65,80,3,3,0,0,22,12,4,0.6,0.1,16,16,F,0,2011-11-06,grauer Auenboden,,345,13.900527E,48.083280N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el05,96,90,0,45,65,15,4,0,0,13,0,4,0.7,0.2,16,16,F,0,2011-11-06,grauer Auenboden,,345,13.901433E,48.083324N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el06,100,65,10,15,98,10,0,0,0,24,12,4,1.2,0.3,16,16,F,0,2011-11-06,grauer Auenboden,,345,13.901837E,48.083044N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el07,97,92,10,45,70,2,3,0,0,22,12,4,0.7,0.1,32,8,F,0,2011-11-06,Sand,,345,13.903342E,48.082868N,5,10,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 
+el08,99,95,25,10,95,1,0,0,0,25,20,3,0.4,0.3,16,16,F,0,2013-07-12,Braunerde,,999,13.899490E,48.085247N,20,999,T. Eberl & R. Kaiser,linkes Traunufer S Kropfing 

@@ -1,214 +1,214 @@
-plot	date	location	syntaxon	longitude	latitude	accuracy
-1	1977-07-13	Steinberg, Schottergrube/Rainbach	Myrtillo-Pinetum	13.5E	48.5N	15000
-2	1977-01-01	Ringlholz Oberzeilberg auf Hügelkuppe neben Schottergrube/Esternberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-3	1979-01-01	Ringlholz Oberzeilberg/Esternberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-4	1979-01-01	Hainbach SE Anzberg/Freinberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-5	1979-01-01	Buchet/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-6	1979-01-01	Pitzenberg, bei Schottergrube/Münzkirchen	Myrtillo-Pinetum	13.5E	48.5N	15000
-7	1979-01-01	100 m SW Windpessel/SchardenbergSauwald	Myrtillo-Pinetum	13.5E	48.5N	15000
-8	1979-01-01	Ringlholz/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-9	1979-01-01	Schärdingerhütte in Fraunhof/Wernstein	Myrtillo-Pinetum	13.5E	48.5N	15000
-10	1979-01-01	Buchet (500 m SE) 100m südlich Aufnahme 5 [Lfdnr. 99]	Myrtillo-Pinetum	13.5E	48.5N	15000
-11	1979-01-01	300 m E Hasbauernkreuz/Himmelreich-Münzkirchen	Myrtillo-Pinetum	13.5E	48.5N	15000
-12	1979-01-01	100 m W "Müller im Tal"/Kopfing	Myrtillo-Pinetum	13.5E	48.5N	15000
-13	1979-01-01	200 m SSE Lanzendorf (Ringlholz)/Esternberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-14	1979-01-01	Hörzingerwald	Myrtillo-Pinetum	13.5E	48.5N	15000
-15	1979-01-01	Steinberg, Schottergrube/Rainbach	Myrtillo-Pinetum	13.5E	48.5N	15000
-16	1979-01-01	1000 m SE Engelhaming/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-17	1979-01-01	150 m SW Außerhareth/Freinberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-18	1979-01-01	200 m S Schwendt/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000
-19	1979-01-01	300 m N Pechdobl/Vichtenstein	Myrtillo-Pinetum	13.5E	48.5N	15000
-20	1979-01-01	Innhang 500 m SSE Pyret/Wernstein	Myrtillo-Pinetum	13.5E	48.5N	15000
-21	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-22	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-23	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-24	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-25	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-26	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-27	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-28	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-29	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-30	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-31	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-32	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-33	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-34	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-35	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-36	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-37	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-38	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-39	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-40	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-41	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-42	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-43	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-44	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-45	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-46	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-47	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-48	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-49	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-50	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-51	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-52	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-53	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-54	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-55	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-56	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-57	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-58	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-59	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-60	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-61	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-62	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-63	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-64	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-65	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-66	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-67	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-68	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-69	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-70	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-71	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-72	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-73	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-74	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-75	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-76	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-77	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-78	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-79	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-80	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-81	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-82	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-83	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-84	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-85	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-86	1977-08-12	Faberwald 200 m S Schildorf/Freinberg	Luzulo-Abietetum	13.542917E	48.564467N	500
-87	1977-09-17	200 m E Unedt/Schardenberg	Luzulo-Abietetum	13.471350E	48.540652N	200
-88	1977-09-17	Fraunhof 300 m E Kohlbauer/Wernstein	Luzulo-Abietetum	13.455848E	48.524356N	300
-89	1977-05-15	1000 m SE Hauzing/Rainbach	Luzulo-Abietetum	13.546789E	48.449318N	300
-90	1977-08-12	Kößlbach nahe Höllmühle/Freinberg	Luzulo-Abietetum	13.546833E	48.567825N	100
-91	1977-08-12	Kößlbachtal/Freinberg	Luzulo-Abietetum	13.546675E	48.536063N	1000
-92	1978-07-11	300 m NE Neudling/Freinberg	Myrtillo-Abitetum	13.528982E	48.567023N	200
-93	1978-07-26	200 m SE Gattern/Schardenberg	Soldanello-Piceetum	13.483285E	48.542161N	100
-94	1978-07-26	neben Aufnahme 325 (Lauf.Nr 93)	Soldanello-Piceetum	13.484299E	48.542516N	100
-95	1978-06-18	am Tiefenbach 1000 m W Königsedt/Kopfing	Soldanello-Piceetum	13.706601E	48.452712N	200
-96	1978-05-06	Buchet bei Simling/St.Roman	Soldanello-Piceetum	13.655716E	48.485839N	200
-97	1978-07-25	800 m NE "Rothstadler" bei Voglgrub/Kopfing	Soldanello-Piceetum	13.720642E	48.448714N	200
-98	1976-08-25	Raad 1000 m N(E) "Einödhäuseln"/Münzkirchen	Myrtillo-Abitetum	13.581092E	48.478599N	500
-99	1978-08-06	Pitzenberg/Münzkirchen	Myrtillo-Abitetum	13.541769E	48.481639N	500
-100	1976-08-21	400 m SSE Reschau/Esternberg	Myrtillo-Abitetum	13.572124E	48.542134N	300
-101	1976-08-25	300 m N Knechtelsdorf/Kopfing	Myrtillo-Abitetum	13.661401E	48.452278N	100
-102	1976-08-24	500 m SW Sagedt/St. Ägidi	Myrtillo-Abitetum	13.731783E	48.447400N	200
-103	1978-08-24	300 m E Grübl/St Ägidi	Myrtillo-Abitetum	13.753972E	48.462651N	200
-104	1978-07-11	300 m E Winterhof am Güterweg/Esternberg	Myrtillo-Abitetum	13.597840E	48.558498N	200
-105	1978-07-25	600 m SE Grafendorf/Kopfing	Myrtillo-Abitetum	13.693343E	48.441111N	200
-106	1978-07-25	500 m SE Grafendorf/Kopfing	Myrtillo-Abitetum	13.691881E	48.441662N	200
-107	1978-06-18	100 m SW Thurnstein Gipfel/Kopfing	Myrtillo-Abitetum	13.694310E	48.415229N	100
-108	1978-07-25	800 m NE "Rothstadler" bei Voglgrub/Kopfing	Myrtillo-Abitetum	13.720642E	48.448714N	200
-109	1978-07-12	Wenzlberg/Vichtenstein	Myrtillo-Abitetum	13.673622E	48.521983N	400
-110	1978-07-12	200 m SW Wh. Stampfen bei Kößldorf/St. Roman	Myrtillo-Abitetum	13.605227E	48.505093N	100
-111	1978-07-24	Voredt/Waldkirchen	Myrtillo-Abitetum	13.788857E	48.437624N	500
-112	1978-07-12	250 m E Winterhof am Güterweg Esternberg	Myrtillo-Abitetum	13.598211E	48.559446N	200
-113	1978-07-24	Kleiner Kößlbach/Wesenufer	Myrtillo-Abitetum	13.782299E	48.463757N	700
-114	1978-07-14	Kleiner Kößlbach/Wesenufer	Myrtillo-Abitetum	13.782299E	48.463757N	700
-115	1976-08-04	Gaisberg/St.Florian	Spruce-Forest	13.474603E	48.453876N	200
-116	1976-08-03	200 m E Otterbach/St. Florian	Spruce-Forest	13.456766E	48.459142N	200
-117	1976-08-16	Neudling 100 m E Forsthaus/Freinberg	Spruce-Forest	13.528866E	48.565713N	200
-118	1976-08-05	Schacherwald nahe Bundesstraße/Brunnenthal	Spruce-Forest	13.512459E	48.473279N	500
-119	1976-08-06	200 m SW Steinberg/Rainbach	Spruce-Forest	13.518576E	48.464342N	200
-120	1976-08-22	150 m N Stadl/Vichtenstein	Spruce-Forest	13.685491E	48.495545N	200
-121	1976-08-10	500 m ENE Buchet/Schardenberg	Spruce-Forest	13.518616E	48.522444N	200
-122	1976-08-24	Hörzingerwald/Kopfing	Spruce-Forest	13.730759E	48.442188N	700
-123	1976-08-24	1000 m SSW Simling/St.Roman	Spruce-Forest	13.664993E	48.477465N	200
-124	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-125	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-126	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-127	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-128	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-129	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-130	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-131	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-132	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-133	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-134	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-135	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-136	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-137	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-138	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-139	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-140	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-141	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-142	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-143	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-144	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-145	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-146	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-147	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-148	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-149	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-150	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-151	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-152	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-153	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-154	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-155	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-156	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-157	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-158	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-159	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-160	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-161	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-162	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-163	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-164	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-165	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-166	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-167	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-168	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-169	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-170	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-171	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-172	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-173	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-174	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-175	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-176	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-177	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-178	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-179	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-180	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-181	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-182	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-183	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-184	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-185	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-186	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-187	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-188	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-189	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-190	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-191	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-192	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-193	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-194	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-195	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-196	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-197	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-198	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-199	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-200	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-201	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-202	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-203	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-204	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-205	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-206	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-207	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-208	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-209	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-210	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-211	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-212	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
-213	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000
+plot	date	location	syntaxon	longitude	latitude	accuracy	observer
+1	1977-07-13	Steinberg, Schottergrube/Rainbach	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+2	1977-01-01	Ringlholz Oberzeilberg auf Hügelkuppe neben Schottergrube/Esternberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+3	1979-01-01	Ringlholz Oberzeilberg/Esternberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+4	1979-01-01	Hainbach SE Anzberg/Freinberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+5	1979-01-01	Buchet/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+6	1979-01-01	Pitzenberg, bei Schottergrube/Münzkirchen	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+7	1979-01-01	100 m SW Windpessel/SchardenbergSauwald	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+8	1979-01-01	Ringlholz/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+9	1979-01-01	Schärdingerhütte in Fraunhof/Wernstein	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+10	1979-01-01	Buchet (500 m SE) 100m südlich Aufnahme 5 [Lfdnr. 99]	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+11	1979-01-01	300 m E Hasbauernkreuz/Himmelreich-Münzkirchen	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+12	1979-01-01	"100 m W ""Müller im Tal""/Kopfing"	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+13	1979-01-01	200 m SSE Lanzendorf (Ringlholz)/Esternberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+14	1979-01-01	Hörzingerwald	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+15	1979-01-01	Steinberg, Schottergrube/Rainbach	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+16	1979-01-01	1000 m SE Engelhaming/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+17	1979-01-01	150 m SW Außerhareth/Freinberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+18	1979-01-01	200 m S Schwendt/Schardenberg	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+19	1979-01-01	300 m N Pechdobl/Vichtenstein	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+20	1979-01-01	Innhang 500 m SSE Pyret/Wernstein	Myrtillo-Pinetum	13.5E	48.5N	15000	Starzengruber, F
+21	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+22	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+23	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+24	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+25	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+26	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+27	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+28	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+29	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+30	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+31	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+32	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+33	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+34	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+35	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+36	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+37	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+38	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+39	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+40	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+41	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+42	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+43	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+44	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+45	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+46	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+47	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+48	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+49	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+50	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+51	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+52	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+53	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+54	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+55	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+56	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+57	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+58	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+59	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+60	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+61	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+62	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+63	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+64	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+65	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+66	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+67	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+68	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+69	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+70	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+71	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+72	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+73	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+74	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+75	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+76	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+77	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+78	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+79	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+80	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+81	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+82	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+83	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+84	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+85	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+86	1977-08-12	Faberwald 200 m S Schildorf/Freinberg	Luzulo-Abietetum	13.542917E	48.564467N	500	Starzengruber, F
+87	1977-09-17	200 m E Unedt/Schardenberg	Luzulo-Abietetum	13.471350E	48.540652N	200	Starzengruber, F
+88	1977-09-17	Fraunhof 300 m E Kohlbauer/Wernstein	Luzulo-Abietetum	13.455848E	48.524356N	300	Starzengruber, F
+89	1977-05-15	1000 m SE Hauzing/Rainbach	Luzulo-Abietetum	13.546789E	48.449318N	300	Starzengruber, F
+90	1977-08-12	Kößlbach nahe Höllmühle/Freinberg	Luzulo-Abietetum	13.546833E	48.567825N	100	Starzengruber, F
+91	1977-08-12	Kößlbachtal/Freinberg	Luzulo-Abietetum	13.546675E	48.536063N	1000	Starzengruber, F
+92	1978-07-11	300 m NE Neudling/Freinberg	Myrtillo-Abitetum	13.528982E	48.567023N	200	Starzengruber, F
+93	1978-07-26	200 m SE Gattern/Schardenberg	Soldanello-Piceetum	13.483285E	48.542161N	100	Starzengruber, F
+94	1978-07-26	neben Aufnahme 325 (Lauf.Nr 93)	Soldanello-Piceetum	13.484299E	48.542516N	100	Starzengruber, F
+95	1978-06-18	am Tiefenbach 1000 m W Königsedt/Kopfing	Soldanello-Piceetum	13.706601E	48.452712N	200	Starzengruber, F
+96	1978-05-06	Buchet bei Simling/St.Roman	Soldanello-Piceetum	13.655716E	48.485839N	200	Starzengruber, F
+97	1978-07-25	"800 m NE ""Rothstadler"" bei Voglgrub/Kopfing"	Soldanello-Piceetum	13.720642E	48.448714N	200	Starzengruber, F
+98	1976-08-25	"Raad 1000 m N(E) ""Einödhäuseln""/Münzkirchen"	Myrtillo-Abitetum	13.581092E	48.478599N	500	Starzengruber, F
+99	1978-08-06	Pitzenberg/Münzkirchen	Myrtillo-Abitetum	13.541769E	48.481639N	500	Starzengruber, F
+100	1976-08-21	400 m SSE Reschau/Esternberg	Myrtillo-Abitetum	13.572124E	48.542134N	300	Starzengruber, F
+101	1976-08-25	300 m N Knechtelsdorf/Kopfing	Myrtillo-Abitetum	13.661401E	48.452278N	100	Starzengruber, F
+102	1976-08-24	500 m SW Sagedt/St. Ägidi	Myrtillo-Abitetum	13.731783E	48.447400N	200	Starzengruber, F
+103	1978-08-24	300 m E Grübl/St Ägidi	Myrtillo-Abitetum	13.753972E	48.462651N	200	Starzengruber, F
+104	1978-07-11	300 m E Winterhof am Güterweg/Esternberg	Myrtillo-Abitetum	13.597840E	48.558498N	200	Starzengruber, F
+105	1978-07-25	600 m SE Grafendorf/Kopfing	Myrtillo-Abitetum	13.693343E	48.441111N	200	Starzengruber, F
+106	1978-07-25	500 m SE Grafendorf/Kopfing	Myrtillo-Abitetum	13.691881E	48.441662N	200	Starzengruber, F
+107	1978-06-18	100 m SW Thurnstein Gipfel/Kopfing	Myrtillo-Abitetum	13.694310E	48.415229N	100	Starzengruber, F
+108	1978-07-25	"800 m NE ""Rothstadler"" bei Voglgrub/Kopfing"	Myrtillo-Abitetum	13.720642E	48.448714N	200	Starzengruber, F
+109	1978-07-12	Wenzlberg/Vichtenstein	Myrtillo-Abitetum	13.673622E	48.521983N	400	Starzengruber, F
+110	1978-07-12	200 m SW Wh. Stampfen bei Kößldorf/St. Roman	Myrtillo-Abitetum	13.605227E	48.505093N	100	Starzengruber, F
+111	1978-07-24	Voredt/Waldkirchen	Myrtillo-Abitetum	13.788857E	48.437624N	500	Starzengruber, F
+112	1978-07-12	250 m E Winterhof am Güterweg Esternberg	Myrtillo-Abitetum	13.598211E	48.559446N	200	Starzengruber, F
+113	1978-07-24	Kleiner Kößlbach/Wesenufer	Myrtillo-Abitetum	13.782299E	48.463757N	700	Starzengruber, F
+114	1978-07-14	Kleiner Kößlbach/Wesenufer	Myrtillo-Abitetum	13.782299E	48.463757N	700	Starzengruber, F
+115	1976-08-04	Gaisberg/St.Florian	Spruce-Forest	13.474603E	48.453876N	200	Starzengruber, F
+116	1976-08-03	200 m E Otterbach/St. Florian	Spruce-Forest	13.456766E	48.459142N	200	Starzengruber, F
+117	1976-08-16	Neudling 100 m E Forsthaus/Freinberg	Spruce-Forest	13.528866E	48.565713N	200	Starzengruber, F
+118	1976-08-05	Schacherwald nahe Bundesstraße/Brunnenthal	Spruce-Forest	13.512459E	48.473279N	500	Starzengruber, F
+119	1976-08-06	200 m SW Steinberg/Rainbach	Spruce-Forest	13.518576E	48.464342N	200	Starzengruber, F
+120	1976-08-22	150 m N Stadl/Vichtenstein	Spruce-Forest	13.685491E	48.495545N	200	Starzengruber, F
+121	1976-08-10	500 m ENE Buchet/Schardenberg	Spruce-Forest	13.518616E	48.522444N	200	Starzengruber, F
+122	1976-08-24	Hörzingerwald/Kopfing	Spruce-Forest	13.730759E	48.442188N	700	Starzengruber, F
+123	1976-08-24	1000 m SSW Simling/St.Roman	Spruce-Forest	13.664993E	48.477465N	200	Starzengruber, F
+124	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+125	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+126	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+127	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+128	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+129	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+130	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+131	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+132	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+133	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+134	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+135	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+136	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+137	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+138	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+139	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+140	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+141	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+142	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+143	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+144	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+145	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+146	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+147	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+148	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+149	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+150	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+151	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+152	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+153	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+154	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+155	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+156	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+157	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+158	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+159	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+160	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+161	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+162	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+163	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+164	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+165	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+166	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+167	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+168	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+169	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+170	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+171	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+172	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+173	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+174	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+175	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+176	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+177	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+178	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+179	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+180	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+181	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+182	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+183	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+184	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+185	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+186	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+187	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+188	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+189	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+190	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+191	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+192	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+193	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+194	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+195	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+196	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+197	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+198	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+199	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+200	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+201	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+202	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+203	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+204	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+205	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+206	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+207	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+208	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+209	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+210	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+211	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+212	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F
+213	1979-01-01	Sauwald	unkown	13.5E	48.5N	15000	Starzengruber, F

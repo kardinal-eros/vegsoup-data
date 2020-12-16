@@ -14,7 +14,7 @@ X0 <- species(x)[, 1:4]
 file <- file.path(path, "Lippert1966Tab3Footer species.csv")
 X1 <- species(file, sep = ",")[, 1:4]
 
-X <- bind(X0, X1)
+X <- vegsoup::bind(X0, X1)
 
 
 #   sites data including coordinates

@@ -31,7 +31,7 @@ x2 <- castFooter(file, species.first = TRUE, abundance.first = NA,
 x2$plot <- sprintf("%03d", as.numeric(x2$plot))
 richness(x2)
 # bind species in table footer with main table
-X <- bind(x1, x2)
+X <- vegsoup::bind(x1, x2)
 
 #   additional sites data including coordinates as a tab delimited file
 file <- file.path(path, "Erschbamer1992Tab4Locations.txt")
@@ -43,7 +43,7 @@ y2$nr <- sprintf("%03d", as.numeric(y2$nr))
 y2 <- stackSites(y2, schema = "nr")
 
 #	bind with sites data from table header
-Y <- bind(y1, y2)
+Y <- vegsoup::bind(y1, y2)
 
 # taxonomy reference list
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"

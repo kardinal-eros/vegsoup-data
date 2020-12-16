@@ -1,4 +1,4 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;obsrever
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;observer
 pg01;95;0;0;0;95;1;0;0;0;0,6;0,25;4;4;SW;3;0;5;0;2015-05-13;47.949504N;13.253013E;10;Arrhenatherion elatioris;;vergleyte Braunerde;;Neumarkt am Wallersee, Pfongau;R. Kaiser & T. Eberl
 pg02;97;0;0;0;97;0;0;0;0;0,7;0,3;4;4;SW;3;0;3;0;2015-05-13;47.949565N;13.253804E;10;Arrhenatherion elatioris;;vergleyte Braunerde;;Neumarkt am Wallersee, Pfongau;R. Kaiser & T. Eberl
 pg03;96;0;0;0;96;1;0;0;0;0,8;0,15;4;4;SW;5;0;4;0;2015-05-13;47.949511N;13.254693E;10;Arrhenatherion elatioris;;vergleyte Braunerde;;Neumarkt am Wallersee, Pfongau;R. Kaiser & T. Eberl

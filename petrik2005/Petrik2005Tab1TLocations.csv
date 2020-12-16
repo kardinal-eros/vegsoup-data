@@ -1,11 +1,11 @@
-Releve nr.;Area m²;Aspect;Slope;Alt. m;Cover E1 %;Cover E0 %;Cover total %;Geology;Date;latitude;longitude;accuracy
-1;3;NNW;35;1950;50;30;60;marl;1983-08-18;49.230833;20.253056;500
-2;3;SSW;20;1940;70;10;75;limestone;2000-08-04;49.230833;20.253056;500
-3;3;SW;15;1983;90;10;95;hom-stone;1991-08-10;49.232886;20.220788;500
-4;20;SW;50;1970;80;5;80;hom-stone;2001-08-04;49.232886;20.220788;500
-5;3;ESE;35;1960;50;10;60;quartzite;1992-08-01;49.232886;20.220788;500
-6;3;ESE;10;1972;80;20;90;quartzite;1991-08-12;49.232886;20.220788;500
-7;8;SSE;50;2040;45;15;50;hom-stone;1990-07-24;49.244722;20.206944;500
-8;3;SW;50;2025;50;10;60;hom-stone;1990-08-01;49.244722;20.206944;500
-9;9;SSE;65;1950;40;20;50;hom-stone;1987-08-08;49.244722;20.206944;500
-10;9;SE;50;1971;40;10;50;marl;2004-09-13;49.244722;20.206944;500
+Releve nr.,Area m²,Aspect,Slope,Alt. m,Cover E1 %,Cover E0 %,Cover total %,Geology,Date,latitude,longitude,accuracy,observer
+1,3,NNW,35,1950,50,30,60,marl,1983-08-18,49.230833,20.253056,500,"A. Petrík, J. Šibík & M Valachovič"
+2,3,SSW,20,1940,70,10,75,limestone,2000-08-04,49.230833,20.253056,500,"A. Petrík, J. Šibík & M Valachovič"
+3,3,SW,15,1983,90,10,95,hom-stone,1991-08-10,49.232886,20.220788,500,"A. Petrík, J. Šibík & M Valachovič"
+4,20,SW,50,1970,80,5,80,hom-stone,2001-08-04,49.232886,20.220788,500,"A. Petrík, J. Šibík & M Valachovič"
+5,3,ESE,35,1960,50,10,60,quartzite,1992-08-01,49.232886,20.220788,500,"A. Petrík, J. Šibík & M Valachovič"
+6,3,ESE,10,1972,80,20,90,quartzite,1991-08-12,49.232886,20.220788,500,"A. Petrík, J. Šibík & M Valachovič"
+7,8,SSE,50,2040,45,15,50,hom-stone,1990-07-24,49.244722,20.206944,500,"A. Petrík, J. Šibík & M Valachovič"
+8,3,SW,50,2025,50,10,60,hom-stone,1990-08-01,49.244722,20.206944,500,"A. Petrík, J. Šibík & M Valachovič"
+9,9,SSE,65,1950,40,20,50,hom-stone,1987-08-08,49.244722,20.206944,500,"A. Petrík, J. Šibík & M Valachovič"
+10,9,SE,50,1971,40,10,50,marl,2004-09-13,49.244722,20.206944,500,"A. Petrík, J. Šibík & M Valachovič"

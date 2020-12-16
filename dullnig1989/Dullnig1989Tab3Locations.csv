@@ -1,9 +1,9 @@
-plot,location,elevation,hydrology,comment
-050,Berger Alm,1850m,Wasser mäßig fließend, über auf gewitterter Grundmoräne
-053,Großleobenalm,1800m,Wasser mäßig fließend, über phyllonitischen Schiefer und aufgewitterter Grundmoräne
-045,Vogelsangbach, 2000m,Wasser mäßig fließend, über Konglomerate
-043,Stangalm, 2050 m,Wasser mäßig fließend, über Konglomerate
-028,Falkertsee,1950 m,Wasser mäßig fließend, über phyllonitischen Schiefern
-030,Rosental,1500m,Wasser mäßig fließend, über Schieferblöcken
-054,Großleobenbach,1300m,,Moose auf Gesteinsblöcken und Sand entlang des Baches
-038,Südhang des Peitlernock,1900m,Wasser mäßig fließend, über Glimmerschiefer
+plot,location,elevation,hydrology,comment,date,remarks,observer
+050,Berger Alm,1850,Wasser mäßig fließend,über auf gewitterter Grundmoräne,1989-01-01,date is year of publication,K. Dullnig
+053,Großleobenalm,1800,Wasser mäßig fließend,über phyllonitischen Schiefer und aufgewitterter Grundmoräne,1989-01-01,date is year of publication,K. Dullnig
+045,Vogelsangbach,2000,Wasser mäßig fließend,über Konglomerate,1989-01-01,date is year of publication,K. Dullnig
+043,Stangalm,2050,Wasser mäßig fließend,über Konglomerate,1989-01-01,date is year of publication,K. Dullnig
+028,Falkertsee,1950,Wasser mäßig fließend,über phyllonitischen Schiefern,1989-01-01,date is year of publication,K. Dullnig
+030,Rosental,1500,Wasser mäßig fließend,über Schieferblöcken,1989-01-01,date is year of publication,K. Dullnig
+054,Großleobenbach,1300,,Moose auf Gesteinsblöcken und Sand entlang des Baches,1989-01-01,date is year of publication,K. Dullnig
+038,Südhang des Peitlernock,1900,Wasser mäßig fließend,über Glimmerschiefer,1989-01-01,date is year of publication,K. Dullnig

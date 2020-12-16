@@ -1,6 +1,6 @@
-plot,latitude,longitude,accuracy,location,pls,date,cov,hcov,scov,mcov,elevation,expo,remarks
-FL-001,47.134688,9.572531,500,"Rätikon, Saminatal, ob dem Wanderweg nördl. Sässtobel, zwischen einem Felsabhang und Samina, FL",25,2016-08-02,70,70,0,0,1065,SE,"Schutthang mit geringer Hangneigung zwischen einer Felswand (Stufe) und Wildbach, grober Rüfeschutt, von Lawinenschnee geprägter Standort, z. B. liegt viel starkes Totholz herum"
-FL-006,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",50,2016-08-02,30,30,0,1,955,SE,Schutthang mit grobem Rüfeschutt (Schuttstrom). Geringe Hangneigung.
-FL-007,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",16,2016-08-02,50,50,0,0,1025,S,"Schutthang unter Felsabhang, erosiver Einhang am Rand der Rüfe"
-FL-008,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",,2016-08-02,30,30,0,0,1025,ESE,Schutthang mit grobem Rüfeschutt (Schuttstrom)
-FL-20170614-1,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",5,2017-06-14,5,5,0,0,940,E,Erosionsböschung des Rüfeschuttfächers direkt an der Samina. Schutt eher feinkiesig und etwas durchfeuchtet
+plot,latitude,longitude,accuracy,location,pls,date,cov,hcov,scov,mcov,elevation,expo,comment,observer
+FL-001,47.134688,9.572531,500,"Rätikon, Saminatal, ob dem Wanderweg nördl. Sässtobel, zwischen einem Felsabhang und Samina, FL",25,2016-08-02,70,70,0,0,1065,SE,"Schutthang mit geringer Hangneigung zwischen einer Felswand (Stufe) und Wildbach, grober Rüfeschutt, von Lawinenschnee geprägter Standort, z. B. liegt viel starkes Totholz herum",G. Amann
+FL-006,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",50,2016-08-02,30,30,0,1,955,SE,Schutthang mit grobem Rüfeschutt (Schuttstrom). Geringe Hangneigung.,G. Amann
+FL-007,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",16,2016-08-02,50,50,0,0,1025,S,"Schutthang unter Felsabhang, erosiver Einhang am Rand der Rüfe",G. Amann
+FL-008,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",,2016-08-02,30,30,0,0,1025,ESE,Schutthang mit grobem Rüfeschutt (Schuttstrom),G. Amann
+FL-20170614-1,47.159698,9.585534,100,"Rätikon, Saminatal, Planknerrüfe, FL",5,2017-06-14,5,5,0,0,940,E,Erosionsböschung des Rüfeschuttfächers direkt an der Samina. Schutt eher feinkiesig und etwas durchfeuchtet,G. Amann

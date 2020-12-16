@@ -2832,7 +2832,7 @@
 "HO1-10";"lysi nemo";"hl";3;;;
 "HO1-10";"moeh musc";"hl";2;;;
 "HO1-10";"orig vulg";"hl";4;;;
-"HO1-10";"phyt spic";"hl";2;;;
+"HO1-10";"phyt spic spic";"hl";2;;;
 "HO1-10";"plan lanc";"hl";2;;;
 "HO1-10";"poa prat";"hl";3;;;
 "HO1-10";"prun vulg";"hl";3;;;
@@ -9210,7 +9210,7 @@
 "WMb1-06";"lotu corn corn";"hl";3;;;
 "WMb1-06";"lysi nemo";"hl";3;;;
 "WMb1-06";"phle prat";"hl";4;;;" | Changed phle prat prat To phle prat 2012-11-27 18:47:00"
-"WMb1-06";"phyt spic";"hl";3;;;
+"WMb1-06";"phyt spic spic";"hl";3;;;
 "WMb1-06";"pimp majo slat";"hl";3;;;" | Changed pimp majo To pimp majo slat 2012-11-27 18:46:56"
 "WMb1-06";"plan lanc";"hl";3;;;
 "WMb1-06";"plan majo majo";"hl";2;;;" | Changed plan majo To plan majo majo 2012-11-27 18:46:59"
@@ -9452,7 +9452,7 @@
 "WMb2-02";"lotu corn corn";"hl";3;;;
 "WMb2-02";"lysi nemo";"hl";4;;;
 "WMb2-02";"orig vulg";"hl";3;;;
-"WMb2-02";"phyt spic";"hl";2;;;
+"WMb2-02";"phyt spic spic";"hl";2;;;
 "WMb2-02";"pimp majo slat";"hl";3;;;" | Changed pimp majo To pimp majo slat 2012-11-27 18:46:56"
 "WMb2-02";"plan lanc";"hl";3;;;
 "WMb2-02";"plan majo majo";"hl";3;;;" | Changed plan majo To plan majo majo 2012-11-27 18:46:59"
@@ -10064,7 +10064,7 @@
 "WMb3-08";"luzu sylv sylv";"hl";3;;;" | Changed luzu sylv To luzu sylv sylv 2012-11-27 18:47:05"
 "WMb3-08";"phle prat";"hl";4;;;" | Changed phle prat prat To phle prat 2012-11-27 18:47:00"
 "WMb3-08";"phle rhae";"hl";3;;;
-"WMb3-08";"phyt spic";"hl";2;;;
+"WMb3-08";"phyt spic spic";"hl";2;;;
 "WMb3-08";"poa nemo";"hl";5;;;
 "WMb3-08";"ranu nemo";"hl";3;;;
 "WMb3-08";"rubu idae";"hl";3;;;

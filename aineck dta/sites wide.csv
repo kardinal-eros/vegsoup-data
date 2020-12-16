@@ -1,27 +1,27 @@
-plot;cov;tcov1;tcov2;scov;hcov;mcov;soil;stones;rock;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;date;soil;alliance;association;comment;altitude;latitude;longitude;accuracy
-an01;60;0;0;0;50;15;20;20;0;0;0;0;0,25;0,02;4;4;E;25;2011-07-31;;unclassified;unclassified;unc smp;2127;47.062215N;13.645439E;3,5
-an02;100;0;0;90;85;25;0;0;0;0;0;2,5;0,4;0,1;8;8;E;20;2011-07-31;;Pinion mugi;Rhododendro ferruginei-Pinetum prostratae;rho fer pin pro;2135;47.061883N;13.645476E;5,1
-an03;90;0;0;0;60;40;3;0;7;0;0;0;0,15;0,05;4;4;E;30;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2138;47.061592N;13.645084E;3
-an04;90;0;0;0;70;20;7;3;0;0;0;0;0,2;0,07;4;4;NE;20;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2153;47.061880N;13.644255E;2,9
-an05;75;0;0;0;74;1;10;13;2;0;0;0;0,2;0,08;4;4;N;25;2011-07-31;;unclassified;unclassified;unc smp;2161;47.062068N;13.643681E;4
-an06;88;0;0;0;70;20;1;10;1;0;0;0;0,14;0,04;4;4;N;20;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2164;47.062230N;13.643241E;4,2
-an07;100;0;0;90;55;40;0;0;0;0;0;1,1;0,5;0,1;8;8;N;10;2011-07-31;;Pinion mugi;Rhododendro ferruginei-Pinetum prostratae;rho fer pin pro;2169;47.062223N;13.642890E;3,7
-an08;70;0;0;0;60;15;13;15;2;0;0;0;0,2;0,03;4;4;N;10;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2175;47.062249N;13.642550E;4,5
-an09;65;0;0;0;50;30;2;33;1;0;0;0;0,2;0,03;4;4;NE;30;2011-07-31;;Loiseleurio-Vaccinion;Phyteumo confusae Loiseleurietum;phy con loi pro;2182;47.062388N;13.642031E;3,5
-an10;96;0;0;0;90;20;2;1;1;0;0;0;0,15;0,05;4;4;N;35;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2173;47.062425N;13.642105E;4,2
-an11;65;0;0;0;50;35;2;31;2;0;0;0;0,1;0,3;4;4;N;15;2011-07-31;;Loiseleurio-Vaccinion;Phyteumo confusae Loiseleurietum;phy con loi pro;2170;47.062601N;13.642027E;10
-an12;93;0;0;0;85;20;3;1;4;0;0;0;0,4;0,05;3;5;NW;25;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2172;47.062399N;13.641370E;5
-an13;97;0;0;0;90;25;1;2;0;0;0;0;0,3;0,1;4;4;E;30;2011-07-31;;Nardion strictae;Sieversio-Nardetum strictae;sie nar str;2229;47.059857N;13.641465E;4,7
-an14;95;0;0;0;80;20;2;0;3;0;0;0;0,2;0,05;4;4;NE;10;2011-07-31;;Caricion curvulae;Caricetum curvulae;car cur;2230;47.060239N;13.641465E;4,4
-an15;60;0;0;0;45;30;5;35;0;0;0;0;0,15;0,03;4;4;N;5;2011-07-31;;Loiseleurio-Vaccinion;Phyteumo confusae Loiseleurietum;phy con loi pro;2227;47.060626N;13.641522E;3,8
-an16;67;0;0;0;55;15;2;30;1;0;0;0;0,15;0,03;4;4;NE;5;2011-07-31;;Loiseleurio-Vaccinion;Phyteumo confusae Loiseleurietum;phy con loi pro;2224;47.060771N;13.640208E;5
-an17;94;0;0;0;85;35;1;1;4;0;0;0;0,2;0,05;4;4;NW;20;2011-07-31;;Caricion curvulae;Loiseleurio-Caricetum curvulae;loi car cur;2224;47.060531N;13.640136E;3,8
-an18;98;0;0;0;80;40;1;0;1;0;0;0;0,2;0,08;4;4;N;15;2011-07-31;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2170;47.062284N;13.641342E;10
-an19;60;0;0;0;50;15;30;10;0;0;0;0;0,09;0,03;4;4;N;5;2011-07-31;;unclassified;unclassified;unc smp;2256;47.057426N;13.639635E;4,1
-an20;97;0;0;0;90;10;1;0;0;0;0;0;0,1;0,06;4;4;SE;20;2011-07-31;;Nardion strictae;Sieversio-Nardetum strictae;sie nar str;2251;47.057698N;13.639569E;3,5
-an21;65;0;0;0;50;35;14;20;1;0;0;0;0,15;0,03;4;4;F;0;2011-08-01;;Loiseleurio-Vaccinion;Phyteumo confusae Loiseleurietum;phy con loi pro;2254;47.057935N;13.639671E;3,1
-an22;92;0;0;0;75;30;7;0;1;0;0;0;0,1;0,03;4;4;F;0;2011-08-01;;Caricion curvulae;Loiseleurio-Caricetum curvulae;loi car cur;2247;47.058307N;13.639679E;4
-an23;99;0;0;0;95;20;1;0;0;0;0;0;0,2;0,07;4;4;SE;5;2011-08-01;;Caricion curvulae;Carici curvulae-Nardetum;car cur nar;2248;47.058632N;13.639641E;2,6
-an24;93;0;0;0;75;35;5;1;1;0;0;0;0,1;0,06;4;4;SE;3;2011-08-01;;Caricion curvulae;Loiseleurio-Caricetum curvulae;loi car cur;2252;47.058671N;13.639018E;2,8
-an25;94;0;0;0;75;40;5;1;0;0;0;0;0,1;0,02;4;4;NW;5;2011-08-01;;Caricion curvulae;Loiseleurio-Caricetum curvulae;loi car cur;2247;47.058862N;13.638646E;3,1
-an26;97;0;0;0;95;15;3;0;0;0;0;0;0,1;0,02;4;4;F;0;2011-08-01;;Loiseleurio-Vaccinion;Loiseleurio-Cetrarietum;loi cet;2251;47.059014N;13.638647E;3,3
+plot,cov,tcov1,tcov2,scov,hcov,mcov,soil,stones,rock,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,date,soil,alliance,association,comment,altitude,latitude,longitude,accuracy,location,observer
+an01,60,0,0,0,50,15,20,20,0,0,0,0,0.25,0.02,4,4,E,25,2011-07-31,,unclassified,unclassified,unc smp,2127,47.062215N,13.645439E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an02,100,0,0,90,85,25,0,0,0,0,0,2.5,0.4,0.1,8,8,E,20,2011-07-31,,Pinion mugi,Rhododendro ferruginei-Pinetum prostratae,rho fer pin pro,2135,47.061883N,13.645476E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an03,90,0,0,0,60,40,3,0,7,0,0,0,0.15,0.05,4,4,E,30,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2138,47.061592N,13.645084E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an04,90,0,0,0,70,20,7,3,0,0,0,0,0.2,0.07,4,4,NE,20,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2153,47.061880N,13.644255E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an05,75,0,0,0,74,1,10,13,2,0,0,0,0.2,0.08,4,4,N,25,2011-07-31,,unclassified,unclassified,unc smp,2161,47.062068N,13.643681E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an06,88,0,0,0,70,20,1,10,1,0,0,0,0.14,0.04,4,4,N,20,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2164,47.062230N,13.643241E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an07,100,0,0,90,55,40,0,0,0,0,0,1.1,0.5,0.1,8,8,N,10,2011-07-31,,Pinion mugi,Rhododendro ferruginei-Pinetum prostratae,rho fer pin pro,2169,47.062223N,13.642890E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an08,70,0,0,0,60,15,13,15,2,0,0,0,0.2,0.03,4,4,N,10,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2175,47.062249N,13.642550E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an09,65,0,0,0,50,30,2,33,1,0,0,0,0.2,0.03,4,4,NE,30,2011-07-31,,Loiseleurio-Vaccinion,Phyteumo confusae Loiseleurietum,phy con loi pro,2182,47.062388N,13.642031E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an10,96,0,0,0,90,20,2,1,1,0,0,0,0.15,0.05,4,4,N,35,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2173,47.062425N,13.642105E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an11,65,0,0,0,50,35,2,31,2,0,0,0,0.1,0.3,4,4,N,15,2011-07-31,,Loiseleurio-Vaccinion,Phyteumo confusae Loiseleurietum,phy con loi pro,2170,47.062601N,13.642027E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an12,93,0,0,0,85,20,3,1,4,0,0,0,0.4,0.05,3,5,NW,25,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2172,47.062399N,13.641370E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an13,97,0,0,0,90,25,1,2,0,0,0,0,0.3,0.1,4,4,E,30,2011-07-31,,Nardion strictae,Sieversio-Nardetum strictae,sie nar str,2229,47.059857N,13.641465E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an14,95,0,0,0,80,20,2,0,3,0,0,0,0.2,0.05,4,4,NE,10,2011-07-31,,Caricion curvulae,Caricetum curvulae,car cur,2230,47.060239N,13.641465E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an15,60,0,0,0,45,30,5,35,0,0,0,0,0.15,0.03,4,4,N,5,2011-07-31,,Loiseleurio-Vaccinion,Phyteumo confusae Loiseleurietum,phy con loi pro,2227,47.060626N,13.641522E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an16,67,0,0,0,55,15,2,30,1,0,0,0,0.15,0.03,4,4,NE,5,2011-07-31,,Loiseleurio-Vaccinion,Phyteumo confusae Loiseleurietum,phy con loi pro,2224,47.060771N,13.640208E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an17,94,0,0,0,85,35,1,1,4,0,0,0,0.2,0.05,4,4,NW,20,2011-07-31,,Caricion curvulae,Loiseleurio-Caricetum curvulae,loi car cur,2224,47.060531N,13.640136E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an18,98,0,0,0,80,40,1,0,1,0,0,0,0.2,0.08,4,4,N,15,2011-07-31,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2170,47.062284N,13.641342E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an19,60,0,0,0,50,15,30,10,0,0,0,0,0.09,0.03,4,4,N,5,2011-07-31,,unclassified,unclassified,unc smp,2256,47.057426N,13.639635E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an20,97,0,0,0,90,10,1,0,0,0,0,0,0.1,0.06,4,4,SE,20,2011-07-31,,Nardion strictae,Sieversio-Nardetum strictae,sie nar str,2251,47.057698N,13.639569E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an21,65,0,0,0,50,35,14,20,1,0,0,0,0.15,0.03,4,4,F,0,2011-08-01,,Loiseleurio-Vaccinion,Phyteumo confusae Loiseleurietum,phy con loi pro,2254,47.057935N,13.639671E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an22,92,0,0,0,75,30,7,0,1,0,0,0,0.1,0.03,4,4,F,0,2011-08-01,,Caricion curvulae,Loiseleurio-Caricetum curvulae,loi car cur,2247,47.058307N,13.639679E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an23,99,0,0,0,95,20,1,0,0,0,0,0,0.2,0.07,4,4,SE,5,2011-08-01,,Caricion curvulae,Carici curvulae-Nardetum,car cur nar,2248,47.058632N,13.639641E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an24,93,0,0,0,75,35,5,1,1,0,0,0,0.1,0.06,4,4,SE,3,2011-08-01,,Caricion curvulae,Loiseleurio-Caricetum curvulae,loi car cur,2252,47.058671N,13.639018E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an25,94,0,0,0,75,40,5,1,0,0,0,0,0.1,0.02,4,4,NW,5,2011-08-01,,Caricion curvulae,Loiseleurio-Caricetum curvulae,loi car cur,2247,47.058862N,13.638646E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser
+an26,97,0,0,0,95,15,3,0,0,0,0,0,0.1,0.02,4,4,F,0,2011-08-01,,Loiseleurio-Vaccinion,Loiseleurio-Cetrarietum,loi cet,2251,47.059014N,13.638647E,5,NE Gipfel Aineck,T. Eberl & R. Kaiser

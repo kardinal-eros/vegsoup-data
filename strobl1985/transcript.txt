@@ -46,7 +46,7 @@ Cyclamen purpurascens                 ++
 Eupatorium cannabinum                 1+
 Fragaria vesca                        +.
 Laserpitium siler ssp. siler          +.
-Phyteuma spicatum                     ++
+Phyteuma spicatum ssp. spicatum       ++
 Polygala chamaebuxus                  +.
 Salvia glutinosa                      +2
 Sesleria caerulea s.str.              +.

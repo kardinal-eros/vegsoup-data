@@ -21,7 +21,7 @@ obj2 <- turbovegLayers(obj2, "hl") # no layer is herb layer
 obj2 <- layers(obj2, collapse = c("hl", "hl", "tl"))
 
 #	concatenate objects
-obj <- bind(obj1, obj2)
+obj <- vegsoup::bind(obj1, obj2)
 
 #	assign coordiantes
 obj$longitude <- char2dd(obj$e_coord)

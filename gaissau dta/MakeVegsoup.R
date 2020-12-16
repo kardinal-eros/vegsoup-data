@@ -1,6 +1,5 @@
 library(vegsoup)
 require(bibtex)
-library(raster)
 
 path <- "/Users/roli/Documents/vegsoup-data/gaissau dta"
 key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
@@ -12,8 +11,6 @@ key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 file <- file.path(path, "species.csv")
 #	promote to class "Species"
 X <- species(file, sep = ",")#[, 1:4]
-
-table(unique(X$cov))
 
 file <- file.path(path, "sites wide.csv")
 

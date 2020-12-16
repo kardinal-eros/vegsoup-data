@@ -1,26 +1,26 @@
-plot;locality;gridcell;latitude;longitude;accuracy
-1;Pankrazberg;(8243/3);47.718249;12.840603;500
-2;am Röthsteig;(8444/3);47.505801;13.014012;50
-3;Wiesenhang bei Winkl;(8344/1);47.678042;13.007276;200
-4;am Wimbachschloß;(8443/1);47.572191;12.893592;200
-5;Hintereck bei Ettenberg;(8344/1);47.685520;13.028495;1000
-6;am Wimbachschloß;(8443/1);47.572191;12.893592;200
-7;Wiesenhang bei Gastag;(8344/1);47.678313;13.016877;100
-8;Wendelberg bei Zenau;(8342/2);47.667718;12.760853;200
-9;Vordereck/Ettenberg;(8344/1);47.680778;13.019165;1000
-10;Thomasgutl bei Ettenberg;(8344/1);47.691985;13.034851;200
-11;Thomasgutl bei Ettenberg;(8344/1);47.691985;13.034851;200
-12;Hang bei Köbler;(8343/2);47.664511;12.993905;200
-13;bei Unterjettenberg;(8342/2);47.676306;12.831108;1500
-14;Klais b. Mittenwald;(8533/1);47.484076;11.240224;1000
-15;Seehauser Kienberg;(8241/4);47.704035;12.616083;750
-16;Klais bei Mittenald;(8533/1);47.484076;11.240224;1000
-17;Kienberg bei Unterjettenberg;(8342/2);47.676377;12.805063;175
-18;Großer Barmstein;(8344/1);47.691905;13.074402;250
-19;Großer Barmstein;(8344/1);47.691905;13.074402;250
-20;Klais bei Mittenwald;(8533/1);47.484076;11.240224;1000
-21;Pankrazberg;(8243/3);47.718249;12.840603;500
-22;Kleiner Barmstein;(8344/1);47.688963;13.077363;150
-23;am Sagerecksteig;(8443/4);47.519679;12.963199;100
-24;Seehauser Kienberg;(8241/4);47.704035;12.616083;750
-25;zwischen Oberau und Ettal;(8432/2);47.560243;11.111036;1000
+plot,locality,gridcell,latitude,longitude,accuracy,observer,date,remarks
+1,Pankrazberg,(8243/3),47.718249,12.840603,500,S. Springer,1993-01-01,date is year of publication
+2,am Röthsteig,(8444/3),47.505801,13.014012,50,S. Springer,1993-01-01,date is year of publication
+3,Wiesenhang bei Winkl,(8344/1),47.678042,13.007276,200,S. Springer,1993-01-01,date is year of publication
+4,am Wimbachschloß,(8443/1),47.572191,12.893592,200,S. Springer,1993-01-01,date is year of publication
+5,Hintereck bei Ettenberg,(8344/1),47.685520,13.028495,1000,S. Springer,1993-01-01,date is year of publication
+6,am Wimbachschloß,(8443/1),47.572191,12.893592,200,S. Springer,1993-01-01,date is year of publication
+7,Wiesenhang bei Gastag,(8344/1),47.678313,13.016877,100,S. Springer,1993-01-01,date is year of publication
+8,Wendelberg bei Zenau,(8342/2),47.667718,12.760853,200,S. Springer,1993-01-01,date is year of publication
+9,Vordereck/Ettenberg,(8344/1),47.680778,13.019165,1000,S. Springer,1993-01-01,date is year of publication
+10,Thomasgutl bei Ettenberg,(8344/1),47.691985,13.034851,200,S. Springer,1993-01-01,date is year of publication
+11,Thomasgutl bei Ettenberg,(8344/1),47.691985,13.034851,200,S. Springer,1993-01-01,date is year of publication
+12,Hang bei Köbler,(8343/2),47.664511,12.993905,200,S. Springer,1993-01-01,date is year of publication
+13,bei Unterjettenberg,(8342/2),47.676306,12.831108,1500,S. Springer,1993-01-01,date is year of publication
+14,Klais b. Mittenwald,(8533/1),47.484076,11.240224,1000,S. Springer,1993-01-01,date is year of publication
+15,Seehauser Kienberg,(8241/4),47.704035,12.616083,750,S. Springer,1993-01-01,date is year of publication
+16,Klais bei Mittenald,(8533/1),47.484076,11.240224,1000,S. Springer,1993-01-01,date is year of publication
+17,Kienberg bei Unterjettenberg,(8342/2),47.676377,12.805063,175,S. Springer,1993-01-01,date is year of publication
+18,Großer Barmstein,(8344/1),47.691905,13.074402,250,S. Springer,1993-01-01,date is year of publication
+19,Großer Barmstein,(8344/1),47.691905,13.074402,250,S. Springer,1993-01-01,date is year of publication
+20,Klais bei Mittenwald,(8533/1),47.484076,11.240224,1000,S. Springer,1993-01-01,date is year of publication
+21,Pankrazberg,(8243/3),47.718249,12.840603,500,S. Springer,1993-01-01,date is year of publication
+22,Kleiner Barmstein,(8344/1),47.688963,13.077363,150,S. Springer,1993-01-01,date is year of publication
+23,am Sagerecksteig,(8443/4),47.519679,12.963199,100,S. Springer,1993-01-01,date is year of publication
+24,Seehauser Kienberg,(8241/4),47.704035,12.616083,750,S. Springer,1993-01-01,date is year of publication
+25,zwischen Oberau und Ettal,(8432/2),47.560243,11.111036,1000,S. Springer,1993-01-01,date is year of publication

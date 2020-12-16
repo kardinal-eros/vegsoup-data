@@ -35,7 +35,7 @@ make <- function (tab = 1) {
 	x2 <- castFooter(file, abundance.first = FALSE, layers = "@")
 	#x2 <- species(x2)
 	
-	X <- bind(x1, x2)
+	X <- vegsoup::bind(x1, x2)
 	X$cov[ X$cov == "R" ] <- "r"
 	species(X) <- zz
 	
@@ -48,7 +48,7 @@ make <- function (tab = 1) {
 	
 	file <- file.path(path, paste0("Dullnig1989Tab", tab, "Locations.csv"))
 	y2 <- stackSites(file = file, sep = ",", zeros = FALSE)
-	Y <- bind(y1, y2)
+	Y <- vegsoup::bind(y1, y2)
 	
 	obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet2")
 		

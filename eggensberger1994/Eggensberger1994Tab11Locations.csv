@@ -1,3 +1,3 @@
-plot,date,gridcell,range,locality,plotsize,latitude,longitude,accuracy
-1,1988-08-15,8431/13,HP,Kenzenkopf/Fuß der Südwand,35,47.561026,10.851657,100
-2,1988-08-15,8431/13,HP,Kenzenkopf/Fuß der Südwand,50,47.561026,10.851657,100
+plot,date,gridcell,range,location,plotsize,latitude,longitude,accuracy,observer
+1,1988-08-15,8431/13,HP,Kenzenkopf/Fuß der Südwand,35,47.561026,10.851657,100,P. Eggensberger
+2,1988-08-15,8431/13,HP,Kenzenkopf/Fuß der Südwand,50,47.561026,10.851657,100,P. Eggensberger

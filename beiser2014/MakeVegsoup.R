@@ -11,7 +11,7 @@ X1 <- stackSpecies(file = file, sep = ",")[ , 1:4]
 file <- file.path(path, "Beiser2014Tab4Footer species.csv")
 X2 <- species(file)
 X2$plot <- gsub(" ", "", X2$plot)
-X <- bind(X1, X2)
+X <- vegsoup::bind(X1, X2)
 
 #   sites data including coordinates
 file <- file.path(path, "Beiser2014Tab4 sites wide.csv")

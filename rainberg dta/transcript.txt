@@ -141,7 +141,7 @@ Fagus sylvatica                                 ..1
 Lactuca muralis                                 ..r
 Lilium martagon                                 ..+
 Luzula sylvatica ssp. sylvatica                 ..+
-Phyteuma spicatum                               ..+
+Phyteuma spicatum ssp. spicatum                 ..+
 Ranunculus nemorosus                            ..r
 Ribes petraeum                                  ..r
 Rosa pendulina                                  ..+

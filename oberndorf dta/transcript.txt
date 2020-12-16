@@ -176,7 +176,7 @@ Allium vineale                                     ......++.
 Convallaria majalis ssp. majalis                   ......+..
 Gagea lutea                                        ......+..
 Listera ovata                                      ......+..
-Phyteuma spicatum                                  ......++.
+Phyteuma spicatum ssp. spicatum                    ......++.
 Galeobdolon montanum                               ......21.
 Mahonia aquifolium                                 ......rr.
 Viburnum rhytidophyllum                            ......r..

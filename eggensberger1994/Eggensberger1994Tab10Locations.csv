@@ -1,6 +1,6 @@
-plot,date,gridcell,range,locality,plotsize,latitude,longitude,accuracy
-1,1989-08-31,8431/43,KS,Kreuzspitze/Kreuzkuchelkar-Basis,30,47.522253,10.930305,200
-2,1989-09-06,8431/43,KS,Kreuzspitze/Kreuzkuchelkar-Basis,40,47.522253,10.930305,200
-3,1989-09-06,8431/41,KS,Kuchelberg/Einmündung des Kreuzkargrabens in den Kuchelbach,60,47.529136,10.947000,200
-4,1990-08-28,8431/43,KS,an der Friederlaine,23,47.508369,10.936942,500
-5,1990-08-28,8431/43,KS,an der Friederlaine,15,47.508369,10.936942,500
+plot,date,gridcell,range,location,plotsize,latitude,longitude,accuracy,observer
+1,1989-08-31,8431/43,KS,Kreuzspitze/Kreuzkuchelkar-Basis,30,47.522253,10.930305,200,P. Eggensberger
+2,1989-09-06,8431/43,KS,Kreuzspitze/Kreuzkuchelkar-Basis,40,47.522253,10.930305,200,P. Eggensberger
+3,1989-09-06,8431/41,KS,Kuchelberg/Einmündung des Kreuzkargrabens in den Kuchelbach,60,47.529136,10.947000,200,P. Eggensberger
+4,1990-08-28,8431/43,KS,an der Friederlaine,23,47.508369,10.936942,500,P. Eggensberger
+5,1990-08-28,8431/43,KS,an der Friederlaine,15,47.508369,10.936942,500,P. Eggensberger

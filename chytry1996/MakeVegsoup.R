@@ -88,6 +88,10 @@ proj4string(obj) <- CRS("+init=epsg:4326")
 
 obj$accuracy <- 20 # rough guess
 
+obj$observer <- "M. Chytrý, & J. Vicherek"
+
+obj$date <- as.character(strftime(paste0(obj$Year,"-", obj$Month, "-", obj$Day), format = "%Y-%m-%d"))
+
 #	assign rownames
 rownames(obj) <- paste(key, rownames(obj), sep = ":")
 

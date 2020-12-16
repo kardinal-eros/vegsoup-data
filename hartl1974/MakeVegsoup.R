@@ -18,7 +18,7 @@ X <- species(read.verbatim(file = file, colnames = "Aufnahme Nummer", layers = "
 species(X) <- join(z, Z)
 
 file <- file.path(path, "Hartl1974Locations.csv")
-Y <- stackSites(file = file, sep = ";")
+Y <- stackSites(file = file, sep = ",")
 
 obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet2")
 		

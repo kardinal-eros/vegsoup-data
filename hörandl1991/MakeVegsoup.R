@@ -19,7 +19,7 @@ X <- stackSpecies(x)[, 1:4]
 
 #	sites
 file <- file.path(path, "Hörandl1991Tab1Locations.csv")
-Y <- stackSites(file = file, schema = "plot")
+Y <- stackSites(file = file, schema = "plot", sep = ",")
 
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
 #	promote to class "SpeciesTaxonomy"
