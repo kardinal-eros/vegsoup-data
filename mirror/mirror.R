@@ -70,6 +70,8 @@ ii <- c(
 	"cape hallet lichen dta",
 	"salzkammergut lichen dta",
 	"kalkalpen lichen dta",
+#	custom coverscale and taxonomy
+	"furka dta",		
 #	turboveg taxonomy (keep in sync with mirror dev.R)
 	"aspro dta",
 	"donauauen dta",
@@ -101,7 +103,7 @@ x <- x[ -match(ii, x) ]
 #	run update
 #	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.
 
-build = FALSE
+build = F
 
 if (build) {
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {
@@ -143,8 +145,19 @@ for (i in seq_along(f)) {
 sapply(sapply(mget(k), coverscale), slot, "name")
 
 #	compress and bind all objects
-l <- sapply(mget(k), function (x) compress(x, retain = c("author", "title", "accuracy", "observer")))
+l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))
+
+sapply(l, names, simplify = FALSE)
+which(sapply(sapply(l, names, simplify = FALSE), length) != 7)
+
+
 X <- do.call("bind", l)
+
+#	key
+X$id <- row.names(X)
+
+sites(X) <- sites(X)[ , names(X) != "compress" ]
+
 
 #	summary for README.md
 src <- as.data.frame(table(X$author))
@@ -171,6 +184,7 @@ dsn <- file.path(path.expand(path), "mirror")
 x$published <- "no"
 x$published[grep(":", rownames(X), fixed = TRUE)] <- "yes"
 table(x$published)
+
 
 #	write ESRI Shaepfile
 writeOGR(x, dsn, "mirror", driver = "ESRI Shapefile", overwrite_layer = TRUE)

@@ -1,4 +1,4 @@
-plot;latitude;longitude;accuracy;date;elevation;expo;slope;pls;locality;alliance;association
+plot;latitude;longitude;accuracy;date;elevation;expo;slope;pls;location;alliance;association
 952;47.002675;12.981192;1000;2007-01-01;2190;F;0;4;Spittal a. d. Dr., Alp. Schwemmland mit Mooranteilen im Talschluss der Kl. Zirknitz SE vom Kegelesee;Caricion bicoloris-atrofuscae;Carex bicolor-Gesellschaft
 446B;47.041440;12.719973;500;2006-01-01;2580;F;0;4;Kals am Großglockner, Alpines Schwemmland am Glatzberg;Caricion bicoloris-atrofuscae;Carex bicolor-Gesellschaft
 419;47.093150;12.958800;200;2005-01-01;2180;F;0;1;Rauris, Alluvionen des Ritterkares;Caricion bicoloris-atrofuscae;Carex bicolor-Gesellschaft

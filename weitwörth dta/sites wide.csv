@@ -1,5 +1,5 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;date;soil;comment;latitude;longitude;accuracy;alliance;observer
-ww01;98;0;0;0;96;35;0;0;0;0,45;0,2;4;4;F;0;2013-05-13;;Nasswiese;47.912033N;12.974331E;10;Arrhenatherion;R. Kaiser
-ww02;98;0;0;0;97;45;0;0;0;0,5;0,5;4;4;F;0;2013-05-13;;Nasswiese;47.912070N;12.974380E;10;Arrhenatherion;R. Kaiser
-ww03;96;0;0;0;95;25;0;0;0;0,45;0,25;4;4;F;0;2013-05-13;;Nasswiese, überstaut mit Fahrspuren;47.912259N;12.974541E;10;Arrhenatherion;R. Kaiser
-ww04;80;0;0;0;80;3;0;0;0;0,5;0,15;4;4;F;0;2014-05-18;;künstliche Heißlände (Brenne) aus Ausgleichsmaßnamhe;47.908691N;12.965728E;10;Bromion erecti;R. Kaiser
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,date,soil,comment,latitude,longitude,accuracy,alliance,observer,location
+ww01,98,0,0,0,96,35,0,0,0,0.45,0.2,4,4,F,0,2013-05-13,,Nasswiese,47.912033N,12.974331E,10,Arrhenatherion,R. Kaiser,"Wiesen und Äcker in der Austufe der Salzach S Pabing, E Lamprechtshausener Straße (B 156)"
+ww02,98,0,0,0,97,45,0,0,0,0.5,0.5,4,4,F,0,2013-05-13,,Nasswiese,47.912070N,12.974380E,10,Arrhenatherion,R. Kaiser,"Wiesen und Äcker in der Austufe der Salzach S Pabing, E Lamprechtshausener Straße (B 156)"
+ww03,96,0,0,0,95,25,0,0,0,0.45,0.25,4,4,F,0,2013-05-13,,"Nasswiese, überstaut mit Fahrspuren",47.912259N,12.974541E,10,Arrhenatherion,R. Kaiser,"Wiesen und Äcker in der Austufe der Salzach S Pabing, E Lamprechtshausener Straße (B 156)"
+ww04,80,0,0,0,80,3,0,0,0,0.5,0.15,4,4,F,0,2014-05-18,,künstliche Heißlände (Brenne) aus Ausgleichsmaßnamhe,47.908691N,12.965728E,10,Bromion erecti,R. Kaiser,"Ausgleichsfläche in der Austufe der Salzach SW Pabing, W Lamprechtshausener Straße (B 156)"

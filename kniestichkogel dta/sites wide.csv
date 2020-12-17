@@ -1,4 +1,4 @@
-plot;date;latitude;longitude;accuracy;plsx;plsy;expo;slope;cov;hcov;mcov;hhl1;alliance;observer
-kn01;2012-08-01;47.415120N;12.724233E;9;6;4;SW;10;98;70;90;0,4;;T. Eberl
-kn02;2012-08-01;47.414442N;12.729510E;5;5;4;SE;5;100;55;99;0,3;;T. Eberl
-kn03;2012-08-01;47.410742N;12.717765E;12;5;5;E;20;100;95;98;0,5;;T. Eberl
+plot;date;latitude;longitude;accuracy;plsx;plsy;expo;slope;cov;hcov;mcov;hhl1;alliance;observer;location
+kn01;2012-08-01;47.415120N;12.724233E;9;6;4;SW;10;98;70;90;0,4;;T. Eberl;S Kniestichkogel (1570)
+kn02;2012-08-01;47.414442N;12.729510E;5;5;4;SE;5;100;55;99;0,3;;T. Eberl;SE Kniestichkogel (1570)
+kn03;2012-08-01;47.410742N;12.717765E;12;5;5;E;20;100;95;98;0,5;;T. Eberl;E Asitzbahn Bergstation

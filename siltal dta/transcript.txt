@@ -28,4 +28,5 @@ Verbascum lychnitis                          +
 Vincetoxicum hirundinaria                    +  
 Viola rupestris                              r  
  
-x: 12.52486, y: 47.02481, accuracy: 10, bare: 4, cov: 80, date: 2011-05-26, exp: SE, geology: Grünschiefer, hcov: 60, hhl1: 0,5, hhl2: 0,1, location: Siltal, mcov: 35, observer: R. Kaiser, plsx: 4, plsy: 4, rock: 1, slope: 35, stones: 0, richness: 28, author: R Kaiser, citation: Kaiser R (2011). “Siltal.” Rock vegetation in the head of the valey of the Sil river (Tyrol, Austria).
+x: 12.52486, y: 47.02481, accuracy: 10, bare: 4, cov: 80, date: 2011-05-26, exp: SE, geology: Grünschiefer, hcov: 60, hhl1: 0,5, hhl2: 0,1, location: Siltal, mcov: 35, observer: R. Kaiser, plsx: 4, plsy: 4, rock: 1, slope: 35, stones: 0, richness: 28, author: R Kaiser, citation: Kaiser R (2011). “Siltal.” Rock vegetation in the head of the valey of
+the Sil river (Tyrol, Austria).

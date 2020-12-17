@@ -1,157 +1,157 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;date;latitude;longitude;accuracy;soil;type;alliance;association;observer
-sp001;95;60;70;25;90;0;25;13;4;0,4;0,25;16;16;F;0;0;2013-04-24 & 2013-05-09 & 2013-05-15 & 2013-07-12 & 2013-08-28;48.079123;13.832324;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp002;90;80;5;10;85;0;23;12;1,5;0,3;0,15;16;16;F;0;0;2013-04-24 & 2013-05-09 & 2013-08-28;48.079998;13.834100;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp003;97;45;0;30;95;0;21;0;2,5;0,3;0,1;16;16;F;0;0;2013-04-24 & 2013-05-09;48.080120;13.835070;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp004;97;95;7;0;35;1;24;18;4,5;0,2;0,1;16;16;F;0;0;2013-04-24 & 2013-05-09;48.079993;13.836818;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp005;97;95;0;3;80;0;25;0;3;0,3;0,1;16;16;F;0;0;2013-04-24 & 2013-05-14;48.083500;13.836267;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp006;95;85;25;15;75;0;22;16;6;0,3;0,1;16;16;F;0;0;2013-04-24 & 2013-05-09;48.083639;13.839290;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp007;97;10;85;5;90;1;23;16;4;0;0,15;16;16;F;0;0;2013-05-09 & 2013-05-15 & 2013-07-12;48.079120;13.832815;9;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp008;95;0;0;2;95;0;0;0;4;0,4;0,2;16;16;F;0;0;2013-05-09;48.077510;13.832760;4;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp009;99;80;50;40;7;0;28;12;6;0,2;0,1;16;16;F;0;0;2013-05-09;48.077278;13.834006;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp010;97;75;30;15;35;1;25;15;6;0,25;0,1;16;16;F;0;0;2013-05-09;48.078188;13.834155;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp011;97;95;10;5;75;1;25;18;5;0,3;0,1;16;16;F;0;0;2013-05-09;48.078432;13.833943;4;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp012;95;0;0;0;95;1;0;0;0;0,7;0,3;16;16;F;0;0;2013-05-09 & 2013-07-12;48.077961;13.831964;3;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp013;98;0;0;45;95;0;0;0;2,5;0,5;0,25;8;8;F;0;0;2013-05-09;48.078201;13.831285;3;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp014;99;80;70;2;7;0;30;20;5;0,2;0,1;16;16;F;0;0;2013-05-09;48.078957;13.831571;4;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl
-sp015;95;65;20;15;45;0;20;13;4;0,3;0,1;16;16;F;0;0;2013-05-09;48.080384;13.831938;5;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp016;98;15;80;5;10;0;23;17;6;0,15;0,1;16;16;F;0;0;2013-05-09;48.080834;13.832867;8;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp017;97;85;40;5;80;0;30;16;4;0,5;0,1;16;16;F;0;0;2013-05-09;48.080273;13.832809;7;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp018;98;92;4;0;5;93;22;12;0;0,3;0,1;16;16;F;0;0;2013-05-09;48.079960;13.832680;6;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp019;95;90;5;1;80;60;25;15;4;0,3;0,1;16;16;F;0;0;2013-05-09;48.079032;13.833842;6;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp020;98;60;50;10;35;1;25;18;4;0,3;0,15;16;16;F;0;0;2013-05-14;48.080099;13.831867;7;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp021;99;95;15;3;70;1;27;22;6;0,2;0,1;16;16;F;0;0;2013-05-14;48.080166;13.831488;5;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl
-sp022;99;80;50;5;90;1;30;20;5;0,4;0,15;32;8;F;0;0;2013-05-14;48.080197;13.831109;5;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl
-sp023;97;90;10;5;75;3;25;18;4,5;0,3;0,2;16;16;F;0;2;2013-05-14;48.081573;13.830388;5;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl
-sp024;99;85;15;5;98;1;25;18;4;0,4;0,1;16;16;F;0;0;2013-05-14 & 2013-08-28;48.082452;13.830614;7;Braunerde;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser & T. Eberl
-sp025;95;80;7;70;35;4;27;20;4;0,4;0,1;16;16;F;0;0;2013-05-15;48.081303;13.831236;9;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp026;99;0;98;3;45;0;0;10;2,5;0,15;0,15;16;16;F;0;0;2013-05-15;48.081733;13.832167;7;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp027;99;0;99;2;7;2;0;10;3;0,3;0,1;16;16;F;0;0;2013-05-15;48.082449;13.832618;7;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp028;99;0;0;25;98;40;0;0;3,5;0,8;0,4;16;16;F;0;0;2013-05-15;48.082502;13.834265;4;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp029;97;95;0;1;45;0;26;0;1,5;0,25;0,15;16;16;F;0;0;2013-05-15;48.082152;13.834655;9;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp030;95;85;10;4;85;2;26;18;4;0,4;0,1;16;16;F;0;0;2013-05-15;48.081412;13.834555;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp031;99;0;0;85;90;20;0;0;5;0,6;0,1;16;16;F;0;0;2013-05-15;48.081211;13.833242;9;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp032;95;7;10;60;90;7;26;18;5;0,7;0,1;16;16;F;0;0;2013-05-15;48.080640;13.833870;8;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp033;97;93;30;10;90;1;30;20;5;0,5;0,1;16;16;W;20;0;2013-05-15;48.080600;13.832410;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp034;97;50;0;45;95;1;23;0;4;0,7;0,1;16;16;F;0;0;2013-05-15;48.082848;13.835721;7;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp035;99;0;25;75;97;20;0;8;6;0,5;0,25;16;16;F;0;0;2013-05-15;48.084436;13.839819;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp036;98;0;97;15;30;1;0;8;4;0,3;0,1;16;16;N;15;0;2013-05-15;48.084630;13.839150;9;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp037;93;85;15;35;65;20;27;15;5,5;0,4;0,2;16;16;N;50;7;2013-05-15;48.084980;13.839780;12;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp038;98;95;30;7;33;1;30;20;4;0,5;0,1;16;16;N;40;2;2013-05-15 & 2013-08-28;48.084823;13.837539;13;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp039;95;0;80;20;75;0;0;13;4,5;0,25;0,1;16;16;F;0;0;2013-05-15;48.084152;13.838544;4;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp040;92;90;10;0;70;1;27;18;0;0,3;0,1;16;16;F;0;0;2013-05-15;48.083299;13.837099;6;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp041;95;85;5;3;15;65;16;14;2;0,2;0,1;16;16;F;0;0;2013-05-15;48.082230;13.838812;6;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp042;98;90;10;15;80;1;28;18;4;0,3;0,1;16;16;F;0;0;2013-05-15;48.082265;13.836911;3;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp043;97;0;0;80;90;5;0;0;4;0,7;0,3;16;16;F;0;0;2013-05-16;48.081671;13.838231;7;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp044;99;0;1;65;98;1;0;20;4;0,6;0,1;16;16;F;0;0;2013-05-16;48.081812;13.837276;8;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp045;98;0;0;90;97;3;0;0;4;0,7;0,4;16;16;F;0;0;2013-05-16;48.081234;13.837414;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp046;96;80;45;25;80;1;28;18;4;0,5;0,1;16;16;F;0;0;2013-05-16;48.081000;13.837952;4;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp047;99;0;0;95;85;3;0;0;5;0,5;0,25;16;16;F;0;0;2013-05-16;48.081039;13.837318;7;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp048;97;97;7;1;7;1;18;15;2;0,15;0,05;16;16;F;0;0;2013-05-16;48.079170;13.837890;7;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp049;98;80;90;7;5;1;30;12;4;0,2;0,1;16;16;F;0;0;2013-05-16;48.079509;13.837341;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp050;97;20;25;50;97;5;14;10;5;0,5;0,3;16;16;F;0;0;2013-05-16;48.080639;13.837806;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp051;98;97;0;7;45;1;10;0;4;0,3;0,1;16;16;F;0;0;2013-05-16;48.081188;13.839238;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp052-2013;96;0;2;85;93;1;0;6;2;0,35;0,2;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079217;13.843711;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp052-2020;97;0;5;70;95;3;0;9;4,5;0,7;0,25;16;16;F;0;0;2020-05-22;48.079217;13.843711;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
-sp053-2013;95;0;3;60;90;1;0;10;2,5;0,5;0,1;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079332;13.843022;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp053-2020;99;0;5;70;90;15;0;11;5;0,7;0,3;16;16;F;0;0;2020-05-22;48.079332;13.843022;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
-sp054-2013;99;0;7;90;90;4;0;8;4;0,8;0,25;16;16;F;0;0;2013-05-16;48.078734;13.842349;6;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp054-2020;99;0;15;85;80;7;0;11;5;0,7;0,2;16;16;F;0;0;2020-05-22;48.078734;13.842349;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
-sp055-2013;100;0;95;15;100;1;0;10;5;1;0,1;16;16;F;0;0;2013-05-16;48.078341;13.842070;4;Braunerde;REK;unclassified;unclassified;R. Kaiser & T. Eberl
-sp055-2020;100;0;45;5;99;10;0;14;4;0,9;0,5;16;16;F;0;0;2020-05-22;48.078341;13.842070;5;Braunerde;REK;unclassified;unclassified;R. Kaiser
-sp056-2013;99;0;0;75;98;1;0;0;4;1;0,1;16;16;F;0;0;2013-05-16;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp056-2020;100;0;5;10;55;5;0;10;6;0,7;0,3;16;16;F;0;0;2020-05-22;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
-sp057;97;50;50;20;80;1;25;20;4,5;0,4;0,2;16;16;F;0;0;2013-07-12;48.074465;13.832050;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp058;98;80;40;0;60;1;24;18;0;0,2;0,2;16;16;F;0;0;2013-07-12;48.076460;13.827254;15;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp059-2013;93;0;0;15;80;1;0;0;4;0,8;0,3;16;16;SW;15;0;2013-07-12 & 2013-08-28;48.083177;13.841486;15;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp059-2020;97;0;0;90;75;5;0;0;6;0,6;0,1;16;16;SW;15;0;2020-05-22;48.083177;13.841486;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
-sp060;98;95;10;7;90;1;25;20;3,5;0,6;0,3;16;16;F;0;0;2013-07-12;48.071648;13.837227;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp061;98;85;15;10;25;1;26;22;4;0,3;0,2;16;16;F;0;0;2013-07-12;48.070798;13.837619;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp062-2013;75;0;0;65;73;1;0;0;3;1,2;0,5;32;8;SW;25;0;2013-07-16;48.083168;13.842189;10;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl
-sp062-2020;80;0;0;60;75;1;0;0;4,5;0,8;0,25;32;8;SW;25;0;2020-05-22;48.083168;13.842189;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser
-sp063;100;80;60;8;10;1;14;12;8;0,35;0,15;32;8;SW;20;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.086200;13.839460;10;Braunerde & Ausand;LW;Tilio-Acerion;unclassified;R. Kaiser
-sp064;100;85;60;55;80;3;24;18;8;0,3;0,2;16;16;S;15;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.086384;13.839551;10;Braunerde;LW;Tilio-Acerion;unclassified;R. Kaiser
-sp065;99;80;20;25;70;1;24;19;5;0,6;0,15;16;16;S;35;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.087037;13.839813;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser
-sp066;100;75;75;10;15;1;25;20;4;0,6;0,1;16;16;S;45;0;2014-07-31 & 2015-05-05;48.087659;13.841848;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser
-sp067;98;70;40;60;80;1;22;18;5;0,4;0,15;16;16;F;0;0;2014-07-01 & 2014-07-31 & 2015-05-05;48.081770;13.843750;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser
-sp068;100;0;55;85;7;5;0;11;8;0,3;0,1;16;16;F;0;0;2014-07-31 & 2015-05-05;48.085280;13.839160;20;Mull;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser
-sp069;100;60;75;70;10;0;16;12;8;0,3;0,1;16;16;F;0;0;2014-07-31 & 2015-05-05;48.085560;13.839680;20;Mull & Ausand;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser
-sp070;60;0;0;0;20;40;0;0;0;0,3;0,1;2;2;N;50;0;2013-07-28 & 2015-05-05;48.085090;13.839800;10;Kalktuff;TQ;Cratoneurion;unclassified;R. Kaiser
-sp071;97;60;0;25;60;95;18;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076548;13.836802;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp072;93;90;15;3;15;1;18;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076118;13.836259;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp073;97;92;12;5;15;1;20;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076403;13.835021;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp074;85;30;0;5;65;20;14;0;3;0,6;0,1;16;16;F;0;0;﻿2019-05-18;48.076952;13.835503;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp075;97;50;0;70;40;80;18;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077607;13.836286;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp076;75;65;0;2;40;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077440;13.834952;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp077;50;15;25;5;15;1;20;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077389;13.834058;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp078;99;0;0;40;95;5;0;0;3,5;1;0,1;16;16;F;0;0;﻿2019-05-18;48.077665;13.832955;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp079;93;0;0;10;90;1;0;0;1,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.078042;13.832408;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp080;95;85;12;20;90;1;25;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076853;13.832015;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp081;93;80;15;3;55;1;25;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076882;13.833540;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp082;99;30;65;5;60;1;15;5;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.075979;13.832192;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp083;93;50;20;20;75;1;17;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074921;13.832210;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp084;95;55;25;3;80;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.073928;13.832563;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp085;97;60;20;0;80;1;24;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.072295;13.833316;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp086;95;93;0;1;30;1;16;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074746;13.833856;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp087;97;95;0;2;25;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074215;13.834125;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp088;97;80;0;80;25;95;16;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077018;13.837943;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp089;65;60;0;1;3;25;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075878;13.838640;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp090;100;0;0;0;100;5;0;0;0;0,5;0,1;4;4;F;0;0;﻿2019-05-19;48.076335;13.838225;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
-sp091;97;95;0;3;20;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.076267;13.840036;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp092;96;93;0;3;70;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075711;13.839963;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp093;95;94;0;2;30;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074883;13.840038;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp094;97;96;0;1;25;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074333;13.837697;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp095;95;95;0;5;15;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074081;13.838752;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp096;85;80;0;5;1;12;10;0;3;0,3;0,1;16;16;F;0;0;﻿2019-05-19;48.073755;13.839193;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp097;95;65;30;7;40;1;18;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075406;13.841126;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp098;95;25;55;15;90;1;18;14;4;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074785;13.841175;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp099;99;65;15;5;97;1;22;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074136;13.841089;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp100;93;73;20;12;20;1;20;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.073464;13.840640;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp101;97;0;0;15;95;1;0;0;2,5;0,6;0,1;16;16;F;0;0;﻿2019-05-19;48.072918;13.839052;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp102;97;90;0;8;20;65;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074261;13.836004;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp103;97;95;0;4;25;5;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075380;13.834875;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp104;95;20;40;30;65;5;14;9;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075202;13.837470;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp105;97;0;0;0;97;2;0;0;0;0,6;0,1;4;4;F;0;0;﻿2019-05-19;48.074257;13.834929;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
-sp106;93;65;20;6;35;3;14;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.073573;13.833772;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp107;93;65;0;3;8;75;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.072688;13.835632;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp108;95;60;35;7;75;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.072986;13.837291;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp109;97;75;30;7;30;1;24;15;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;48.072493;13.837544;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp110;97;70;15;5;80;1;24;10;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;48.072143;13.836775;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp111;93;0;0;0;93;1;0;0;0;0,9;0,1;8;2;F;0;0;﻿2019-05-20;48.071323;13.833292;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
-sp112;95;50;35;20;70;1;25;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.071626;13.834074;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp113;97;95;0;2;80;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.072013;13.834987;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp114;99;97;0;3;7;1;6;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.071553;13.832610;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp115;65;0;40;10;50;1;0;7;2,5;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.072103;13.832291;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp116;95;75;20;20;20;1;28;15;5;0,4;0,1;16;16;F;0;0;﻿2019-05-20;48.075084;13.831448;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp117;95;93;0;3;45;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.074373;13.830650;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp118;96;90;20;15;30;1;9;6;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.076726;13.842397;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp119;95;92;0;10;40;3;12;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.076255;13.842095;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp120;96;4;92;7;80;1;15;8;3;0,5;0,1;32;8;F;0;0;2019-05-23;48.075950;13.842349;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp121;90;50;5;3;50;1;15;7;3;0,7;0,1;32;8;F;0;0;2019-05-23;48.076271;13.842588;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp122;38;0;0;5;35;1;0;0;3;0,5;0,1;16;16;E;35;0;2019-05-23;48.076312;13.842859;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp123;92;75;20;10;45;1;18;12;3;0,6;0,1;16;16;E;30;0;2019-05-23;48.075013;13.842221;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp124;98;10;40;8;97;1;18;12;3;0,8;0,1;16;16;F;0;0;2019-05-23;48.074572;13.841711;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp125;85;0;0;0;85;1;0;0;0;0,6;0,1;2;8;SE;30;0;2019-05-23;48.073233;13.841137;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl
-sp126;97;95;0;1;20;1;13;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.071400;13.830942;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp127;96;80;15;7;55;1;18;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.071990;13.829715;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp128;97;85;10;20;25;1;15;10;5;0,5;0,1;16;16;F;0;0;2019-05-23;48.072606;13.830356;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp129;95;85;12;8;35;1;22;14;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.072841;13.829817;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp130;96;70;25;10;25;1;22;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.073471;13.829965;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp131;97;0;0;30;93;1;0;0;3;0,8;0,1;16;16;F;0;0;2019-05-23;48.075770;13.828185;10;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp132;96;70;15;0;90;1;25;15;0;0,5;0,1;16;16;F;0;0;2019-05-23;48.076662;13.827878;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp133;96;75;20;7;20;1;25;15;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.077076;13.829882;10;Braunerde;MBW;Eu-Fagenion;Mercuriali-Fagetum cariectosum albae;R. Kaiser & T. Eberl
-sp134;92;70;20;3;10;1;28;20;4;0,5;0,1;16;16;W;25;0;2019-05-23;48.076817;13.831245;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp135;99;85;3;0;7;95;15;8;0;0,5;0,1;16;16;F;0;0;2019-05-23;48.075635;13.830051;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl
-sp136;92;50;25;70;25;1;27;20;5;0,5;0,1;16;16;SE;35;0;2019-05-24;48.073178;13.841802;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp137;94;70;25;30;30;1;26;18;5;0,5;0,1;16;16;SE;20;0;2019-05-24;48.072293;13.839898;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp138;99;50;0;80;35;1;26;0;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.071767;13.838027;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp139;97;40;50;20;80;1;26;18;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.071261;13.836039;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp140;99;40;50;30;55;1;27;8;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.070640;13.835700;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl
-sp141;98;45;40;20;98;1;26;14;5;0,9;0,1;16;16;F;0;0;2019-05-24;48.071071;13.829597;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl
-sp142;95;80;20;3;35;1;26;18;3;0,5;0,1;16;16;W;35;0;2019-05-24;48.072816;13.829516;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp143;97;85;12;2;90;1;26;18;4;0,5;0,1;16;16;W;30;0;2019-05-24;48.073554;13.829520;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp144;97;93;0;0;55;1;20;0;0;0,5;0,1;16;16;S;30;0;2019-05-24;48.074580;13.829145;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp145;95;85;10;2;70;1;26;18;3;0,5;0,1;16;16;SW;30;0;2019-05-24;48.075826;13.827634;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl
-sp146;99;65;15;25;97;1;28;20;4;0,7;0,1;16;16;F;0;0;2019-05-24;48.077514;13.828887;10;Ausand;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser & T. Eberl
-sp147-2020;97;0;0;75;85;7;0;0;2;0,7;0,1;16;16;F;0;;2020-05-22;48.082654;13.841278;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser
-sp148-2020;95;0;0;30;85;7;0;0;1;0,55;0,2;16;16;F;0;;2020-05-22;48.078877;13.840065;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser
-sp149-2020;93;0;0;30;93;10;0;0;2,5;0,7;0,25;16;16;F;0;;2020-05-22;48.079772;13.841828;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;date;latitude;longitude;accuracy;soil;type;alliance;association;observer;location
+sp001;95;60;70;25;90;0;25;13;4;0,4;0,25;16;16;F;0;0;2013-04-24 & 2013-05-09 & 2013-05-15 & 2013-07-12 & 2013-08-28;48.079123;13.832324;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp002;90;80;5;10;85;0;23;12;1,5;0,3;0,15;16;16;F;0;0;2013-04-24 & 2013-05-09 & 2013-08-28;48.079998;13.834100;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp003;97;45;0;30;95;0;21;0;2,5;0,3;0,1;16;16;F;0;0;2013-04-24 & 2013-05-09;48.080120;13.835070;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp004;97;95;7;0;35;1;24;18;4,5;0,2;0,1;16;16;F;0;0;2013-04-24 & 2013-05-09;48.079993;13.836818;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp005;97;95;0;3;80;0;25;0;3;0,3;0,1;16;16;F;0;0;2013-04-24 & 2013-05-14;48.083500;13.836267;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp006;95;85;25;15;75;0;22;16;6;0,3;0,1;16;16;F;0;0;2013-04-24 & 2013-05-09;48.083639;13.839290;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp007;97;10;85;5;90;1;23;16;4;0;0,15;16;16;F;0;0;2013-05-09 & 2013-05-15 & 2013-07-12;48.079120;13.832815;9;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp008;95;0;0;2;95;0;0;0;4;0,4;0,2;16;16;F;0;0;2013-05-09;48.077510;13.832760;4;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp009;99;80;50;40;7;0;28;12;6;0,2;0,1;16;16;F;0;0;2013-05-09;48.077278;13.834006;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp010;97;75;30;15;35;1;25;15;6;0,25;0,1;16;16;F;0;0;2013-05-09;48.078188;13.834155;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp011;97;95;10;5;75;1;25;18;5;0,3;0,1;16;16;F;0;0;2013-05-09;48.078432;13.833943;4;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp012;95;0;0;0;95;1;0;0;0;0,7;0,3;16;16;F;0;0;2013-05-09 & 2013-07-12;48.077961;13.831964;3;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp013;98;0;0;45;95;0;0;0;2,5;0,5;0,25;8;8;F;0;0;2013-05-09;48.078201;13.831285;3;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp014;99;80;70;2;7;0;30;20;5;0,2;0,1;16;16;F;0;0;2013-05-09;48.078957;13.831571;4;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp015;95;65;20;15;45;0;20;13;4;0,3;0,1;16;16;F;0;0;2013-05-09;48.080384;13.831938;5;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp016;98;15;80;5;10;0;23;17;6;0,15;0,1;16;16;F;0;0;2013-05-09;48.080834;13.832867;8;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp017;97;85;40;5;80;0;30;16;4;0,5;0,1;16;16;F;0;0;2013-05-09;48.080273;13.832809;7;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp018;98;92;4;0;5;93;22;12;0;0,3;0,1;16;16;F;0;0;2013-05-09;48.079960;13.832680;6;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp019;95;90;5;1;80;60;25;15;4;0,3;0,1;16;16;F;0;0;2013-05-09;48.079032;13.833842;6;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp020;98;60;50;10;35;1;25;18;4;0,3;0,15;16;16;F;0;0;2013-05-14;48.080099;13.831867;7;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp021;99;95;15;3;70;1;27;22;6;0,2;0,1;16;16;F;0;0;2013-05-14;48.080166;13.831488;5;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp022;99;80;50;5;90;1;30;20;5;0,4;0,15;32;8;F;0;0;2013-05-14;48.080197;13.831109;5;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp023;97;90;10;5;75;3;25;18;4,5;0,3;0,2;16;16;F;0;2;2013-05-14;48.081573;13.830388;5;Braunerde;LW;Tilio-Acerion;Aceri-Tilietum platyphylli;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp024;99;85;15;5;98;1;25;18;4;0,4;0,1;16;16;F;0;0;2013-05-14 & 2013-08-28;48.082452;13.830614;7;Braunerde;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp025;95;80;7;70;35;4;27;20;4;0,4;0,1;16;16;F;0;0;2013-05-15;48.081303;13.831236;9;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp026;99;0;98;3;45;0;0;10;2,5;0,15;0,15;16;16;F;0;0;2013-05-15;48.081733;13.832167;7;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp027;99;0;99;2;7;2;0;10;3;0,3;0,1;16;16;F;0;0;2013-05-15;48.082449;13.832618;7;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp028;99;0;0;25;98;40;0;0;3,5;0,8;0,4;16;16;F;0;0;2013-05-15;48.082502;13.834265;4;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp029;97;95;0;1;45;0;26;0;1,5;0,25;0,15;16;16;F;0;0;2013-05-15;48.082152;13.834655;9;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp030;95;85;10;4;85;2;26;18;4;0,4;0,1;16;16;F;0;0;2013-05-15;48.081412;13.834555;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp031;99;0;0;85;90;20;0;0;5;0,6;0,1;16;16;F;0;0;2013-05-15;48.081211;13.833242;9;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp032;95;7;10;60;90;7;26;18;5;0,7;0,1;16;16;F;0;0;2013-05-15;48.080640;13.833870;8;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp033;97;93;30;10;90;1;30;20;5;0,5;0,1;16;16;W;20;0;2013-05-15;48.080600;13.832410;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp034;97;50;0;45;95;1;23;0;4;0,7;0,1;16;16;F;0;0;2013-05-15;48.082848;13.835721;7;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp035;99;0;25;75;97;20;0;8;6;0,5;0,25;16;16;F;0;0;2013-05-15;48.084436;13.839819;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp036;98;0;97;15;30;1;0;8;4;0,3;0,1;16;16;N;15;0;2013-05-15;48.084630;13.839150;9;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp037;93;85;15;35;65;20;27;15;5,5;0,4;0,2;16;16;N;50;7;2013-05-15;48.084980;13.839780;12;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp038;98;95;30;7;33;1;30;20;4;0,5;0,1;16;16;N;40;2;2013-05-15 & 2013-08-28;48.084823;13.837539;13;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp039;95;0;80;20;75;0;0;13;4,5;0,25;0,1;16;16;F;0;0;2013-05-15;48.084152;13.838544;4;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp040;92;90;10;0;70;1;27;18;0;0,3;0,1;16;16;F;0;0;2013-05-15;48.083299;13.837099;6;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp041;95;85;5;3;15;65;16;14;2;0,2;0,1;16;16;F;0;0;2013-05-15;48.082230;13.838812;6;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp042;98;90;10;15;80;1;28;18;4;0,3;0,1;16;16;F;0;0;2013-05-15;48.082265;13.836911;3;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp043;97;0;0;80;90;5;0;0;4;0,7;0,3;16;16;F;0;0;2013-05-16;48.081671;13.838231;7;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp044;99;0;1;65;98;1;0;20;4;0,6;0,1;16;16;F;0;0;2013-05-16;48.081812;13.837276;8;Braunerde;SF;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp045;98;0;0;90;97;3;0;0;4;0,7;0,4;16;16;F;0;0;2013-05-16;48.081234;13.837414;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp046;96;80;45;25;80;1;28;18;4;0,5;0,1;16;16;F;0;0;2013-05-16;48.081000;13.837952;4;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp047;99;0;0;95;85;3;0;0;5;0,5;0,25;16;16;F;0;0;2013-05-16;48.081039;13.837318;7;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp048;97;97;7;1;7;1;18;15;2;0,15;0,05;16;16;F;0;0;2013-05-16;48.079170;13.837890;7;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp049;98;80;90;7;5;1;30;12;4;0,2;0,1;16;16;F;0;0;2013-05-16;48.079509;13.837341;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp050;97;20;25;50;97;5;14;10;5;0,5;0,3;16;16;F;0;0;2013-05-16;48.080639;13.837806;4;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp051;98;97;0;7;45;1;10;0;4;0,3;0,1;16;16;F;0;0;2013-05-16;48.081188;13.839238;5;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp052-2013;96;0;2;85;93;1;0;6;2;0,35;0,2;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079217;13.843711;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp052-2020;97;0;5;70;95;3;0;9;4,5;0,7;0,25;16;16;F;0;0;2020-05-22;48.079217;13.843711;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser;Schottergrube W Stadl-Paura
+sp053-2013;95;0;3;60;90;1;0;10;2,5;0,5;0,1;16;16;F;0;0;2013-05-16 & 2013-08-28;48.079332;13.843022;7;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp053-2020;99;0;5;70;90;15;0;11;5;0,7;0,3;16;16;F;0;0;2020-05-22;48.079332;13.843022;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser;Schottergrube W Stadl-Paura
+sp054-2013;99;0;7;90;90;4;0;8;4;0,8;0,25;16;16;F;0;0;2013-05-16;48.078734;13.842349;6;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp054-2020;99;0;15;85;80;7;0;11;5;0,7;0,2;16;16;F;0;0;2020-05-22;48.078734;13.842349;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser;Schottergrube W Stadl-Paura
+sp055-2013;100;0;95;15;100;1;0;10;5;1;0,1;16;16;F;0;0;2013-05-16;48.078341;13.842070;4;Braunerde;REK;unclassified;unclassified;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp055-2020;100;0;45;5;99;10;0;14;4;0,9;0,5;16;16;F;0;0;2020-05-22;48.078341;13.842070;5;Braunerde;REK;unclassified;unclassified;R. Kaiser;Schottergrube W Stadl-Paura
+sp056-2013;99;0;0;75;98;1;0;0;4;1;0,1;16;16;F;0;0;2013-05-16;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp056-2020;100;0;5;10;55;5;0;10;6;0,7;0,3;16;16;F;0;0;2020-05-22;48.077843;13.842753;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser;Schottergrube W Stadl-Paura
+sp057;97;50;50;20;80;1;25;20;4,5;0,4;0,2;16;16;F;0;0;2013-07-12;48.074465;13.832050;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp058;98;80;40;0;60;1;24;18;0;0,2;0,2;16;16;F;0;0;2013-07-12;48.076460;13.827254;15;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp059-2013;93;0;0;15;80;1;0;0;4;0,8;0,3;16;16;SW;15;0;2013-07-12 & 2013-08-28;48.083177;13.841486;15;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp059-2020;97;0;0;90;75;5;0;0;6;0,6;0,1;16;16;SW;15;0;2020-05-22;48.083177;13.841486;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser;Schottergrube W Stadl-Paura
+sp060;98;95;10;7;90;1;25;20;3,5;0,6;0,3;16;16;F;0;0;2013-07-12;48.071648;13.837227;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp061;98;85;15;10;25;1;26;22;4;0,3;0,2;16;16;F;0;0;2013-07-12;48.070798;13.837619;15;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp062-2013;75;0;0;65;73;1;0;0;3;1,2;0,5;32;8;SW;25;0;2013-07-16;48.083168;13.842189;10;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser & T. Eberl;Schottergrube W Stadl-Paura
+sp062-2020;80;0;0;60;75;1;0;0;4,5;0,8;0,25;32;8;SW;25;0;2020-05-22;48.083168;13.842189;5;Braunerde;REK;Cephalanthero-Fagenion;Frangula alnus Cephalanthero-Fagenion-Gesellschaft;R. Kaiser;Schottergrube W Stadl-Paura
+sp063;100;80;60;8;10;1;14;12;8;0,35;0,15;32;8;SW;20;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.086200;13.839460;10;Braunerde & Ausand;LW;Tilio-Acerion;unclassified;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp064;100;85;60;55;80;3;24;18;8;0,3;0,2;16;16;S;15;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.086384;13.839551;10;Braunerde;LW;Tilio-Acerion;unclassified;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp065;99;80;20;25;70;1;24;19;5;0,6;0,15;16;16;S;35;0;2014-03-20 & 2014-07-31 & 2015-05-05;48.087037;13.839813;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp066;100;75;75;10;15;1;25;20;4;0,6;0,1;16;16;S;45;0;2014-07-31 & 2015-05-05;48.087659;13.841848;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp067;98;70;40;60;80;1;22;18;5;0,4;0,15;16;16;F;0;0;2014-07-01 & 2014-07-31 & 2015-05-05;48.081770;13.843750;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp068;100;0;55;85;7;5;0;11;8;0,3;0,1;16;16;F;0;0;2014-07-31 & 2015-05-05;48.085280;13.839160;20;Mull;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp069;100;60;75;70;10;0;16;12;8;0,3;0,1;16;16;F;0;0;2014-07-31 & 2015-05-05;48.085560;13.839680;20;Mull & Ausand;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp070;60;0;0;0;20;40;0;0;0;0,3;0,1;2;2;N;50;0;2013-07-28 & 2015-05-05;48.085090;13.839800;10;Kalktuff;TQ;Cratoneurion;unclassified;R. Kaiser;Umfeld der Schottergrube W Stadl-Paura
+sp071;97;60;0;25;60;95;18;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076548;13.836802;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp072;93;90;15;3;15;1;18;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076118;13.836259;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp073;97;92;12;5;15;1;20;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076403;13.835021;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp074;85;30;0;5;65;20;14;0;3;0,6;0,1;16;16;F;0;0;﻿2019-05-18;48.076952;13.835503;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp075;97;50;0;70;40;80;18;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077607;13.836286;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp076;75;65;0;2;40;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077440;13.834952;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp077;50;15;25;5;15;1;20;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077389;13.834058;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp078;99;0;0;40;95;5;0;0;3,5;1;0,1;16;16;F;0;0;﻿2019-05-18;48.077665;13.832955;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp079;93;0;0;10;90;1;0;0;1,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.078042;13.832408;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp080;95;85;12;20;90;1;25;10;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076853;13.832015;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp081;93;80;15;3;55;1;25;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.076882;13.833540;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp082;99;30;65;5;60;1;15;5;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.075979;13.832192;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp083;93;50;20;20;75;1;17;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074921;13.832210;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp084;95;55;25;3;80;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.073928;13.832563;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp085;97;60;20;0;80;1;24;12;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.072295;13.833316;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp086;95;93;0;1;30;1;16;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074746;13.833856;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp087;97;95;0;2;25;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.074215;13.834125;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp088;97;80;0;80;25;95;16;0;3,5;0,5;0,1;16;16;F;0;0;﻿2019-05-18;48.077018;13.837943;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp089;65;60;0;1;3;25;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075878;13.838640;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp090;100;0;0;0;100;5;0;0;0;0,5;0,1;4;4;F;0;0;﻿2019-05-19;48.076335;13.838225;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp091;97;95;0;3;20;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.076267;13.840036;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp092;96;93;0;3;70;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075711;13.839963;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp093;95;94;0;2;30;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074883;13.840038;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp094;97;96;0;1;25;1;14;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074333;13.837697;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp095;95;95;0;5;15;1;12;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074081;13.838752;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp096;85;80;0;5;1;12;10;0;3;0,3;0,1;16;16;F;0;0;﻿2019-05-19;48.073755;13.839193;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp097;95;65;30;7;40;1;18;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075406;13.841126;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp098;95;25;55;15;90;1;18;14;4;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074785;13.841175;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp099;99;65;15;5;97;1;22;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074136;13.841089;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp100;93;73;20;12;20;1;20;14;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.073464;13.840640;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp101;97;0;0;15;95;1;0;0;2,5;0,6;0,1;16;16;F;0;0;﻿2019-05-19;48.072918;13.839052;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp102;97;90;0;8;20;65;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.074261;13.836004;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp103;97;95;0;4;25;5;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075380;13.834875;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp104;95;20;40;30;65;5;14;9;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.075202;13.837470;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp105;97;0;0;0;97;2;0;0;0;0,6;0,1;4;4;F;0;0;﻿2019-05-19;48.074257;13.834929;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp106;93;65;20;6;35;3;14;8;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.073573;13.833772;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp107;93;65;0;3;8;75;10;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.072688;13.835632;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp108;95;60;35;7;75;1;24;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-19;48.072986;13.837291;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp109;97;75;30;7;30;1;24;15;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;48.072493;13.837544;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp110;97;70;15;5;80;1;24;10;3;0,4;0,1;16;16;F;0;0;﻿2019-05-19;48.072143;13.836775;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp111;93;0;0;0;93;1;0;0;0;0,9;0,1;8;2;F;0;0;﻿2019-05-20;48.071323;13.833292;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp112;95;50;35;20;70;1;25;15;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.071626;13.834074;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp113;97;95;0;2;80;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.072013;13.834987;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp114;99;97;0;3;7;1;6;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.071553;13.832610;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp115;65;0;40;10;50;1;0;7;2,5;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.072103;13.832291;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp116;95;75;20;20;20;1;28;15;5;0,4;0,1;16;16;F;0;0;﻿2019-05-20;48.075084;13.831448;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp117;95;93;0;3;45;1;15;0;3;0,5;0,1;16;16;F;0;0;﻿2019-05-20;48.074373;13.830650;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp118;96;90;20;15;30;1;9;6;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.076726;13.842397;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp119;95;92;0;10;40;3;12;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.076255;13.842095;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp120;96;4;92;7;80;1;15;8;3;0,5;0,1;32;8;F;0;0;2019-05-23;48.075950;13.842349;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp121;90;50;5;3;50;1;15;7;3;0,7;0,1;32;8;F;0;0;2019-05-23;48.076271;13.842588;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp122;38;0;0;5;35;1;0;0;3;0,5;0,1;16;16;E;35;0;2019-05-23;48.076312;13.842859;10;Braunerde;SF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp123;92;75;20;10;45;1;18;12;3;0,6;0,1;16;16;E;30;0;2019-05-23;48.075013;13.842221;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp124;98;10;40;8;97;1;18;12;3;0,8;0,1;16;16;F;0;0;2019-05-23;48.074572;13.841711;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp125;85;0;0;0;85;1;0;0;0;0,6;0,1;2;8;SE;30;0;2019-05-23;48.073233;13.841137;10;Braunerde;WI;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp126;97;95;0;1;20;1;13;0;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.071400;13.830942;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp127;96;80;15;7;55;1;18;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.071990;13.829715;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp128;97;85;10;20;25;1;15;10;5;0,5;0,1;16;16;F;0;0;2019-05-23;48.072606;13.830356;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp129;95;85;12;8;35;1;22;14;3;0,5;0,1;16;16;F;0;0;2019-05-23;48.072841;13.829817;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp130;96;70;25;10;25;1;22;10;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.073471;13.829965;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp131;97;0;0;30;93;1;0;0;3;0,8;0,1;16;16;F;0;0;2019-05-23;48.075770;13.828185;10;Braunerde;VW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp132;96;70;15;0;90;1;25;15;0;0,5;0,1;16;16;F;0;0;2019-05-23;48.076662;13.827878;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp133;96;75;20;7;20;1;25;15;4;0,5;0,1;16;16;F;0;0;2019-05-23;48.077076;13.829882;10;Braunerde;MBW;Eu-Fagenion;Mercuriali-Fagetum cariectosum albae;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp134;92;70;20;3;10;1;28;20;4;0,5;0,1;16;16;W;25;0;2019-05-23;48.076817;13.831245;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp135;99;85;3;0;7;95;15;8;0;0,5;0,1;16;16;F;0;0;2019-05-23;48.075635;13.830051;10;Braunerde;FF;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp136;92;50;25;70;25;1;27;20;5;0,5;0,1;16;16;SE;35;0;2019-05-24;48.073178;13.841802;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp137;94;70;25;30;30;1;26;18;5;0,5;0,1;16;16;SE;20;0;2019-05-24;48.072293;13.839898;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp138;99;50;0;80;35;1;26;0;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.071767;13.838027;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp139;97;40;50;20;80;1;26;18;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.071261;13.836039;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp140;99;40;50;30;55;1;27;8;4;0,5;0,1;16;16;F;0;0;2019-05-24;48.070640;13.835700;10;Braunerde;TBW;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp141;98;45;40;20;98;1;26;14;5;0,9;0,1;16;16;F;0;0;2019-05-24;48.071071;13.829597;10;Braunerde;EHW;Carpinion betuli;Stellario-Carpinetum;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp142;95;80;20;3;35;1;26;18;3;0,5;0,1;16;16;W;35;0;2019-05-24;48.072816;13.829516;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp143;97;85;12;2;90;1;26;18;4;0,5;0,1;16;16;W;30;0;2019-05-24;48.073554;13.829520;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp144;97;93;0;0;55;1;20;0;0;0,5;0,1;16;16;S;30;0;2019-05-24;48.074580;13.829145;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp145;95;85;10;2;70;1;26;18;3;0,5;0,1;16;16;SW;30;0;2019-05-24;48.075826;13.827634;10;Braunerde;LW;unclassified;unclassified;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp146;99;65;15;25;97;1;28;20;4;0,7;0,1;16;16;F;0;0;2019-05-24;48.077514;13.828887;10;Ausand;AW;Alnenion glutinoso-incanae;Carici albae-Tilietum cordatae;R. Kaiser & T. Eberl;Umfeld der Schottergrube W Stadl-Paura
+sp147-2020;97;0;0;75;85;7;0;0;2;0,7;0,1;16;16;F;0;;2020-05-22;48.082654;13.841278;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser;Schottergrube W Stadl-Paura
+sp148-2020;95;0;0;30;85;7;0;0;1;0,55;0,2;16;16;F;0;;2020-05-22;48.078877;13.840065;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser;Schottergrube W Stadl-Paura
+sp149-2020;93;0;0;30;93;10;0;0;2,5;0,7;0,25;16;16;F;0;;2020-05-22;48.079772;13.841828;10;Braunerde;REK;Cephalanthero-Fagenion;Helleboro nigri-Fagetum;R. Kaiser;Schottergrube W Stadl-Paura

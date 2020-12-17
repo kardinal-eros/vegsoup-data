@@ -1,4 +1,4 @@
-plot,locality,longitude,latitude,accuracy,ss,hss,zss,hzss,m,observer,date,remarks
+plot,location,longitude,latitude,accuracy,ss,hss,zss,hzss,m,observer,date,remarks
 1,Taubenkar-Alm,13.636522,47.505229,300,0,0,0,0,10,G. Roithinger,1996-01-01,date is year of publication
 2,Taubenkar-Alm,13.636522,47.505229,300,0,0,0,0,3,G. Roithinger,1996-01-01,date is year of publication
 3,Taubenkar-Alm,13.636522,47.505229,300,1,20,0,0,3,G. Roithinger,1996-01-01,date is year of publication

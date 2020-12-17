@@ -1,4 +1,4 @@
-plot,locality,latitude,longitude,accuracy,observer,date,remarks
+plot,location,latitude,longitude,accuracy,observer,date,remarks
 83,An der Abzweigung von altem und neuem Röthsteig,47.505501,13.012749,250,W. Lippert,1966-01-01,date is year of publication
 84,An der Abzweigung von altem und neuem Röthsteig,47.505501,13.012749,250,W. Lippert,1966-01-01,date is year of publication
 85,Am neuen Röthsteig,47.505826,13.013973,100,W. Lippert,1966-01-01,date is year of publication

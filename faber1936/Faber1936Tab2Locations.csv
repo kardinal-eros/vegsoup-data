@@ -1,4 +1,4 @@
-plot,latitude,longitude,accuracy,locality,expo,slope,description,pls,hcov,mcov,observer,date,remarks
+plot,latitude,longitude,accuracy,location,expo,slope,description,pls,hcov,mcov,observer,date,remarks
 1,48.538570,9.489248,2000,Gegen Schlattstall bei Oberlenningen,S,40,Kalkschutt mit toniger Beimengung,,,,A. Faber,1936-010-01,date is year of publication
 2,48.516353,9.470497,1000,Schröcke [Schrecke] bei Grabenstätten,S,40,,160,,,A. Faber,1936-010-01,date is year of publication
 3,48.526604,9.495610,2500,"Schlattstaller Steige, sehr weit geöffnete Schlucht",N,,,,,,A. Faber,1936-010-01,date is year of publication

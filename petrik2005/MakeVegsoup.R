@@ -39,7 +39,7 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 # promote to class "Vegsoup"
 obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
 #	grome names
-names(obj) <-  c("accuracy", "elevation", "pls", "expo", "mcov", "hcov", "cov", "date", "geology", "observer", "slope")
+names(obj) <-  c("accuracy", "elevation", "pls", "expo", "mcov", "hcov", "cov", "date", "geology", "location", "observer", "slope")
 
 obj$alliance <- "Oxytropido carpaticae-Elynetum"		
 

@@ -1,4 +1,4 @@
-plot,locality,gridcell,latitude,longitude,accuracy,observer,date,remarks
+plot,location,gridcell,latitude,longitude,accuracy,observer,date,remarks
 1,Pankrazberg,(8243/3),47.718249,12.840603,500,S. Springer,1993-01-01,date is year of publication
 2,am Röthsteig,(8444/3),47.505801,13.014012,50,S. Springer,1993-01-01,date is year of publication
 3,Wiesenhang bei Winkl,(8344/1),47.678042,13.007276,200,S. Springer,1993-01-01,date is year of publication

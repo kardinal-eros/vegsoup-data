@@ -1,7 +1,7 @@
-plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;date;soil;longitude;latitude;accuracy;alliance;association;comment;observer
-fb01a;95;0;0;0;94;2;0;0;0;0,1;0,3;5;5;W;3;2010-07-20;;12.844407E;47.067577N;10;;unclassified;;T. Eberl
-fb01b;99;0;0;0;80;85;0;0;0;0,1;0,3;5;5;F;0;2010-07-20;;12.844253E;47.067670N;10;;unclassified;;T. Eberl
-fb01c;98;0;0;0;98;1;0;0;0;0,1;0,3;5;5;WSW;5;2010-07-20;;12.844475E;47.067477N;10;;unclassified;;T. Eberl
-fb02a;98;0;0;0;98;10;0;0;0;0,1;0,25;5;5;WNW;5;2010-07-20;;12.844440E;47.065561N;10;;unclassified;;T. Eberl
-fb02b;98;0;0;0;88;15;0;0;0;0,1;0,3;5;5;SSW;10;2010-07-20;;12.844581E;47.065595N;10;;unclassified;;T. Eberl
-fb02c;95;0;0;0;95;2;0;0;0;0,1;0,3;5;5;N;3;2010-07-20;;12.844512E;47.065457N;10;;unclassified;;T. Eberl
+plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;date;soil;latitude;longitude;accuracy;alliance;association;comment;observer;location
+fb01a;95;0;0;0;94;2;0;0;0;0,1;0,3;5;5;W;3;2010-07-20;;47.067577;12.844407;10;;unclassified;;T. Eberl;NE Fallbichl an der Großglockner Hochalpenstraße
+fb01b;99;0;0;0;80;85;0;0;0;0,1;0,3;5;5;F;0;2010-07-20;;47.067670;12.844253;10;;unclassified;;T. Eberl;NE Fallbichl an der Großglockner Hochalpenstraße
+fb01c;98;0;0;0;98;1;0;0;0;0,1;0,3;5;5;WSW;5;2010-07-20;;47.067477;12.844475;10;;unclassified;;T. Eberl;NE Fallbichl an der Großglockner Hochalpenstraße
+fb02a;98;0;0;0;98;10;0;0;0;0,1;0,25;5;5;WNW;5;2010-07-20;;47.065561;12.844440;10;;unclassified;;T. Eberl;E Fallbichl an der Großglockner Hochalpenstraße
+fb02b;98;0;0;0;88;15;0;0;0;0,1;0,3;5;5;SSW;10;2010-07-20;;47.065595;12.844581;10;;unclassified;;T. Eberl;E Fallbichl an der Großglockner Hochalpenstraße
+fb02c;95;0;0;0;95;2;0;0;0;0,1;0,3;5;5;N;3;2010-07-20;;47.065457;12.844512;10;;unclassified;;T. Eberl;E Fallbichl an der Großglockner Hochalpenstraße

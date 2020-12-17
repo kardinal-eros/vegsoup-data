@@ -22,12 +22,6 @@ accuracy                                         1111111111111111111111111111111
                                                  000000000000000000000000000000000000000000000000000000000000000000000000000000000000000055505555555555555550000000005555555555555555555
                                                  000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
                                                                                                                                                                                         
-date                                             NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   N               NNNNNNNNN                   
-                                                                                                                                                                                        
-observer                                         NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   N               NNNNNNNNN                   
-                                                                                                                                                                                        
-remarks                                          NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   N               NNNNNNNNN                   
-                                                                                                                                                                                        
 richness                                         464544564444345435654555555654441335435453274444542412333323232224454354444444465545445522542555733564244446454453532433233353332323223
                                                  864089617339472343012122123190255045280655918765303089654771984783501996323383554151861026169302325519321439000803143932945243468661480
                                                                                                                                                                                         

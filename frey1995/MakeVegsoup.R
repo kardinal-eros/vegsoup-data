@@ -54,6 +54,7 @@ y <- read.csv(x)
 #	assign coordinates of village Flums as center of study area (cp. page 12)
 obj$x <- 744400 
 obj$y <- 217600
+obj$location <- "Switzerland"
 
 #	assign available coordinates and additional variables	
 i <- match(rownames(obj), y$plot)
@@ -71,6 +72,8 @@ coordinates(obj) <- ~x+y
 proj4string(obj) <- CRS("+init=epsg:21781")
 obj <- spTransform(obj, CRS("+init=epsg:4326"))
 coordinates(obj)
+
+
 
 #	order layer
 layers(obj)	 <- c("tl", "sl", "hl", "ml")

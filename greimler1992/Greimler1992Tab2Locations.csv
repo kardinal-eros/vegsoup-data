@@ -1,4 +1,4 @@
-plot,elevation,expo,slope,pls,hcov,mcov,locality,date,remark,gridcell,latitude,longitude,accuracy,observer
+plot,elevation,expo,slope,pls,hcov,mcov,location,date,remark,gridcell,latitude,longitude,accuracy,observer
 1,1700,S,40,10,60,0,"Prein/Rax, Raxenmäuer",1990-07-27,(LM3815),8360-1,47.684334,15.689971,200,J. Greimler
 2,1400,S,30,8,30,1,"Prein/Rax, Reißtalersteig",1990-07-27,(LM3813),8360-1,47.683924,15.701182,1000,J. Greimler
 3,640,W,60,10,45,5,"Reichenau/Rax, Eng",1990-07-27,(LM3802),8261-3,47.712853,15.848659,200,J. Greimler

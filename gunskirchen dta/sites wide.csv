@@ -1,7 +1,7 @@
-plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;date;soil;comment;latitude;longitude;accuracy;alliance;observer
-gu01;96;93;25;7;85;1;28;15;5;0,7;0,1;16;16;F;0;0;2013-06-06;unkown;empty;48.122005N;13.958070E;10,8;Carpinion betuli;R. Kaiser & T. Eberl
-gu02;97;40;80;1;75;2;24;16;4;0,3;0,1;16;16;F;0;0;2013-06-06;unkown;empty;48.132000N;13.962052E;4,2;Carpinion betuli;R. Kaiser & T. Eberl
-gu03;96;80;35;60;80;1;13;9;4;0,3;0,1;16;16;F;0;0;2013-06-06;unkown;empty;48.130138N;13.957627E;4,5;Carpinion betuli;R. Kaiser & T. Eberl
-gu04;97;55;10;40;85;1;18;14;5;0,4;0,25;16;16;F;0;0;2013-07-12;unkown;empty;48.127050N;13.953559E;10;Carpinion betuli;R. Kaiser
-gu05;98;60;45;75;60;1;12;8;4;0,7;0,25;10;25;F;0;0;2014-06-26;unkown;empty;48.130839N;13.958227E;15;Carpinion betuli;R. Kaiser
-gu06;95;70;40;55;80;1;13;10;4,5;0,6;0,25;16;16;F;0;0;2014-06-26;unkown;empty;48.130031N;13.958086E;15;Carpinion betuli;R. Kaiser
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;date;soil;comment;latitude;longitude;accuracy;alliance;observer;location
+gu01;96;93;25;7;85;1;28;15;5;0,7;0,1;16;16;F;0;0;2013-06-06;unkown;empty;48.122005;13.958070;10,8;Carpinion betuli;R. Kaiser & T. Eberl;SW Au bei der Traun, SE Gunskirchen
+gu02;97;40;80;1;75;2;24;16;4;0,3;0,1;16;16;F;0;0;2013-06-06;unkown;empty;48.132000;13.962052;4,2;Carpinion betuli;R. Kaiser & T. Eberl;Wald N Au bei der Traun, SE Gunskirchen
+gu03;96;80;35;60;80;1;13;9;4;0,3;0,1;16;16;F;0;0;2013-06-06;unkown;empty;48.130138;13.957627;4,5;Carpinion betuli;R. Kaiser & T. Eberl;Wald entlang der B1 Zwischen Au bei der Traun und Gunskirchen
+gu04;97;55;10;40;85;1;18;14;5;0,4;0,25;16;16;F;0;0;2013-07-12;unkown;empty;48.127050;13.953559;10;Carpinion betuli;R. Kaiser;Wald entlang der B1 Zwischen Au bei der Traun und Gunskirchen
+gu05;98;60;45;75;60;1;12;8;4;0,7;0,25;10;25;F;0;0;2014-06-26;unkown;empty;48.130839;13.958227;15;Carpinion betuli;R. Kaiser;Wald entlang der B1 Zwischen Au bei der Traun und Gunskirchen
+gu06;95;70;40;55;80;1;13;10;4,5;0,6;0,25;16;16;F;0;0;2014-06-26;unkown;empty;48.130031;13.958086;15;Carpinion betuli;R. Kaiser;Wald entlang der B1 Zwischen Au bei der Traun und Gunskirchen

@@ -1,4 +1,4 @@
-plot,elevation,slope,expo,soil1,soil2,soli3,pls,locality,latitude,longitude,accuracy,description,observer,date,remarks
+plot,elevation,slope,expo,soil1,soil2,soli3,pls,location,latitude,longitude,accuracy,description,observer,date,remarks
 1,480,30,E,KaIk,F.E.,bewegl. tätig,20,"Brand, Wiggis",47.07030,9.04789,100,"Feinschutt mit ziemlich viel Feinerde diese schon oberflächlich liegend Schutt hart verbacken, so daß oberflächliches Material leicht abrutscht. Initialphase.",J. Jenny-Lips,1930-01-01,date is year of publication
 2,500,35,E,Kalk,B.G.F.E.,s. bewegl. tätig,100,"Mettlen, Wiggis",47.07465,9.04941,100,"sehr bewegliches Grobgeroll, Feinerde spärlich in 5-50 cm Tiefe. bis zu dieser Tiefe viele Nährwurzeln.",J. Jenny-Lips,1930-01-01,date is year of publication
 3,500,32,E,Kalk,F.E.,s. bewegl. tätig,100,"Mettlen, Wiggis",47.07465,9.04941,100,"unter einer Wasserrinne Steinluftschicht 5 cm, luckiger Vegetationsschluß.",J. Jenny-Lips,1930-01-01,date is year of publication
