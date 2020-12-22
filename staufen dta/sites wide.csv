@@ -1,21 +1,21 @@
 plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;location;soil;observer
-sf01;99;70;30;70;70;0;23;18;5;0,7;0,2;16;16;S;25;0;0;3;2015-05-16;47.746020;12.895090;10;Tilenion platyphylli;;kollivialer Rieselhumus;am Weg unterhalb des Felsstufe;;;R. Kaiser
-sf02;99;80;40;40;75;1;23;20;5;0,8;0,2;16;16;S;20;0;0;0;2015-05-16;47.746167;12.892803;10;Tilenion platyphylli;;kollivialer Rieselhumus;oberhalb des Weges;;;R. Kaiser
-sf03;99;80;25;30;90;0;26;18;5,5;0,8;0,3;16;16;S;35;0;0;1;2015-05-16;47.746344;12.893142;10;Tilenion platyphylli;;kollivialer Rieselhumus;unterhalb Linde mit tischgroßem Sturzblock;;;R. Kaiser
-sf04;99;75;60;55;85;2;25;21;6;0,9;0,3;16;16;S;25;2;0;0;2015-05-16;47.746095;12.892047;10;Tilenion platyphylli;;kollivialer Rieselhumus;oberhalb des weges;;;R. Kaiser
-sf05;99;85;25;15;55;1;26;21;5;0,6;0,2;16;16;S;35;0;0;0;2015-05-16;47.746201;12.891840;10;Tilenion platyphylli;;kollivialer Rieselhumus;bei den Wegkehren unterhalb (westlich) der Felsumgehung;;;R. Kaiser
-sf06;100;30;50;20;95;1;17;10;2,5;1;0,3;16;16;S;35;0;0;0;2015-05-16;47.746526;12.890280;10;Tilenion platyphylli;;verbraunte Renzina, Kalkbraunerde;an Wegkehren;;;R. Kaiser
-sf07;75;50;25;2;30;0;19;14;2;0,6;0,3;16;16;S;30;0;0;70;2015-05-18;47.746357;12.884237;10;Tilenion platyphylli;;;;;;
-sf08;85;45;35;15;80;1;18;10;5;0,9;0,3;16;16;S;30;0;0;20;2015-05-18;47.746310;12.884807;10;Tilenion platyphylli;;;;;;
-sf09;95;45;70;3;65;7;19;13;3;0,8;0,2;16;16;S;35;1;0;35;2015-05-18;47.746510;12.885966;10;Tilenion platyphylli;;;;;;
-sf10;95;40;35;10;85;3;10;7;1,5;0,6;0,25;16;16;SE;45;5;0;0;2015-05-18;47.746423;12.891911;10;Cephalanthero-Fagenion;;;;;;
-sf11;80;40;15;15;70;1;11;7;3,5;0,7;0,2;16;16;S;45;25;0;0;2015-05-18;47.746912;12.889201;10;Tilenion platyphylli;;;;;;
-sf12;97;25;70;40;20;5;11;8;3,5;0,8;0,25;16;16;S;75;90;0;0;2015-07-11;47.746297;12.891537;10;Tilenion platyphylli;;;;;;
-sf13;90;65;30;20;80;5;13;8;3;1;0,3;16;16;S;60;15;0;0;2015-07-11;47.746423;12.891416;10;Tilenion platyphylli;;Kalkbraunerde, Rendzina;;;;
-sf14;95;60;50;20;85;3;16;10;3;1;0,3;16;16;S;45;5;0;0;2015-07-11;47.746377;12.890711;10;Tilenion platyphylli;;Kalkbraunerde, Rendzina;im Zentrum eine Gruppe von Q. petrea (3 Stämme) flankiert von 2 F. excelsior;;;
-sf15;95;50;40;50;90;1;13;8;4;1;0,3;16;16;S;50;5;0;5;2015-07-11;47.746381;12.889767;10;Tilenion platyphylli;;;;;;
-sf16;95;30;40;20;90;2;17;10;3,5;0,9;0,9;16;16;S;45;15;0;0;2015-07-11;47.746655;12.889431;10;Tilenion platyphylli;;;große Q. peterea am unteren Rand;;;
-sf17;97;25;20;5;95;1;15;8;4;1,1;0,3;16;16;S;35;5;0;0;2015-07-11;47.747128;12.889004;10;Tilenion platyphylli;;;zwischen A. platanoides und T.× vulgaris;;;
-sf18;95;40;45;20;80;2;13;7;2,5;0,9;0,3;16;16;S;65;25;0;0;2015-07-11;47.747217;12.888269;10;Tilenion platyphylli;;;;;;
-sf19;95;45;40;20;90;1;13;7;4;0,8;0,3;16;16;S;50;5;0;0;2015-07-11;47.747629;12.888107;10;Tilenion platyphylli;;;;;;
-sf20;90;40;35;3;90;1;12;7;3;1;0,4;16;16;S;50;10;0;0;2015-07-11;47.74772;12.88781;10;Tilenion platyphylli;;;;;;
+sf01;99;70;30;70;70;0;23;18;5;0,7;0,2;16;16;S;25;0;0;3;2015-05-16;47.746020;12.895090;10;Tilenion platyphylli;;kollivialer Rieselhumus;am Weg unterhalb des Felsstufe;Staufen, Strailach;;R. Kaiser
+sf02;99;80;40;40;75;1;23;20;5;0,8;0,2;16;16;S;20;0;0;0;2015-05-16;47.746167;12.892803;10;Tilenion platyphylli;;kollivialer Rieselhumus;oberhalb des Weges;Staufen, Strailach;;R. Kaiser
+sf03;99;80;25;30;90;0;26;18;5,5;0,8;0,3;16;16;S;35;0;0;1;2015-05-16;47.746344;12.893142;10;Tilenion platyphylli;;kollivialer Rieselhumus;unterhalb Linde mit tischgroßem Sturzblock;Staufen, Strailach;;R. Kaiser
+sf04;99;75;60;55;85;2;25;21;6;0,9;0,3;16;16;S;25;2;0;0;2015-05-16;47.746095;12.892047;10;Tilenion platyphylli;;kollivialer Rieselhumus;oberhalb des weges;Staufen, Strailach;;R. Kaiser
+sf05;99;85;25;15;55;1;26;21;5;0,6;0,2;16;16;S;35;0;0;0;2015-05-16;47.746201;12.891840;10;Tilenion platyphylli;;kollivialer Rieselhumus;bei den Wegkehren unterhalb (westlich) der Felsumgehung;Staufen, Strailach;;R. Kaiser
+sf06;100;30;50;20;95;1;17;10;2,5;1;0,3;16;16;S;35;0;0;0;2015-05-16;47.746526;12.890280;10;Tilenion platyphylli;;verbraunte Renzina, Kalkbraunerde;an Wegkehren;Staufen, Strailach;;R. Kaiser
+sf07;75;50;25;2;30;0;19;14;2;0,6;0,3;16;16;S;30;0;0;70;2015-05-18;47.746357;12.884237;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf08;85;45;35;15;80;1;18;10;5;0,9;0,3;16;16;S;30;0;0;20;2015-05-18;47.746310;12.884807;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf09;95;45;70;3;65;7;19;13;3;0,8;0,2;16;16;S;35;1;0;35;2015-05-18;47.746510;12.885966;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf10;95;40;35;10;85;3;10;7;1,5;0,6;0,25;16;16;SE;45;5;0;0;2015-05-18;47.746423;12.891911;10;Cephalanthero-Fagenion;;;;Staufen, Strailach;;R. Kaiser
+sf11;80;40;15;15;70;1;11;7;3,5;0,7;0,2;16;16;S;45;25;0;0;2015-05-18;47.746912;12.889201;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf12;97;25;70;40;20;5;11;8;3,5;0,8;0,25;16;16;S;75;90;0;0;2015-07-11;47.746297;12.891537;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf13;90;65;30;20;80;5;13;8;3;1;0,3;16;16;S;60;15;0;0;2015-07-11;47.746423;12.891416;10;Tilenion platyphylli;;Kalkbraunerde, Rendzina;;Staufen, Strailach;;R. Kaiser
+sf14;95;60;50;20;85;3;16;10;3;1;0,3;16;16;S;45;5;0;0;2015-07-11;47.746377;12.890711;10;Tilenion platyphylli;;Kalkbraunerde, Rendzina;im Zentrum eine Gruppe von Q. petrea (3 Stämme) flankiert von 2 F. excelsior;Staufen, Strailach;;R. Kaiser
+sf15;95;50;40;50;90;1;13;8;4;1;0,3;16;16;S;50;5;0;5;2015-07-11;47.746381;12.889767;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf16;95;30;40;20;90;2;17;10;3,5;0,9;0,9;16;16;S;45;15;0;0;2015-07-11;47.746655;12.889431;10;Tilenion platyphylli;;;große Q. peterea am unteren Rand;Staufen, Strailach;;R. Kaiser
+sf17;97;25;20;5;95;1;15;8;4;1,1;0,3;16;16;S;35;5;0;0;2015-07-11;47.747128;12.889004;10;Tilenion platyphylli;;;zwischen A. platanoides und T.× vulgaris;Staufen, Strailach;;R. Kaiser
+sf18;95;40;45;20;80;2;13;7;2,5;0,9;0,3;16;16;S;65;25;0;0;2015-07-11;47.747217;12.888269;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf19;95;45;40;20;90;1;13;7;4;0,8;0,3;16;16;S;50;5;0;0;2015-07-11;47.747629;12.888107;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser
+sf20;90;40;35;3;90;1;12;7;3;1;0,4;16;16;S;50;10;0;0;2015-07-11;47.74772;12.88781;10;Tilenion platyphylli;;;;Staufen, Strailach;;R. Kaiser

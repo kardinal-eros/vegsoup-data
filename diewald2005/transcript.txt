@@ -29,7 +29,7 @@ Fissidens osmundoides                   1
 Hypnum bambergeri                       +  
 Vulpicida tubulosus                     +  
  
-x: 14.04866, y: 47.6399, accuracy: 5, alliance: Caricion firmae, association: NA, bare: NA, comment: unklarer Verlauf der Landesgrenze, aber wohl noch auf oberösterreichischem Gebiet, cov: 97, date: NA, expo: SE, hcov: 95, hhl1: NA, hhl2: NA, hsl: 0, htl1: 0, htl2: 0, location: zwischen Gr. Kraxenberg und Mitterberg, mcov: 3, observer: W. Diewald, plsx: 8, plsy: 4, rock: NA, scov: 0, slope: 2, soil: NA, stones: NA, t1cov: 0, t2cov: 0, richness: 29, author: W Diewald, A Merschel, V Schleier, M Sichler, citation: Diewald W, Merschel A, Schleier V, Sichler M (2005). “Carex maritima
+x: 14.04866, y: 47.6399, accuracy: 5, alliance: Caricion firmae, association: NA, bare: NA, comment: unklarer Verlauf der Landesgrenze, aber wohl noch auf oberösterreichischem Gebiet, cov: 97, date: 2004-09-19, expo: SE, hcov: 95, hhl1: NA, hhl2: NA, hsl: 0, htl1: 0, htl2: 0, location: zwischen Gr. Kraxenberg und Mitterberg, mcov: 3, observer: W. Diewald, plsx: 8, plsy: 4, rock: NA, scov: 0, slope: 2, soil: NA, stones: NA, t1cov: 0, t2cov: 0, richness: 29, author: W Diewald, A Merschel, V Schleier, M Sichler, citation: Diewald W, Merschel A, Schleier V, Sichler M (2005). “Carex maritima
 Gunnerus, Ranunculus seguieri Villars und andere floristische
 Beobachtungen aus der Gemeinde Hinterstoder (Oberösterreich).” _Beiträge
 zur Naturkunde Oberösterreichs_, *14*, 397-409. <URL:

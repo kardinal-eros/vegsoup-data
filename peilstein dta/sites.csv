@@ -15,7 +15,7 @@ ps01;expo;W
 ps01;slope;80
 ps01;plsx;3
 ps01;plsy;1
-ps01;date;11.05.2009
+ps01;date;2009-05-11
 ps01;longitude;16.049450E
 ps01;latitude;48.014970N
 ps01;altitude;668
@@ -36,7 +36,7 @@ ps02;expo;W
 ps02;slope;75
 ps02;plsx;4
 ps02;plsy;4
-ps02;date;11.05.2009
+ps02;date;2009-05-11
 ps02;longitude;16.048670E
 ps02;latitude;48.014780N
 ps02;altitude;674

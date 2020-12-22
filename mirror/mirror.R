@@ -168,6 +168,8 @@ te <- grep("T Eberl", src$author)
 
 rkte <- src[ unique(c(rk, te)), ]
 sum(rkte$plots)
+
+sum(rkte$plots)
 lit <- src[ -unique(c(rk, te)), ]
 sum(lit$plots)
 

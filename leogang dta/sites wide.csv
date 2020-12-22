@@ -1,50 +1,50 @@
 plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;alliance;association;soil;comment;survery region;location;type;observer
-lg01;99;0;0;0;99;5;0;0;0;0,4;0,05;4;4;;38;0;1;0;2020-07-09;47.458859;12.687169;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg02;80;0;0;0;80;1;0;0;0;0,4;0,03;4;4;;;0;20;0;2020-07-09;47.459107;12.686708;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg03;98;0;0;0;98;2;0;0;0;0,4;0,05;4;4;;15;1;1;0;2020-07-09;47.459446;12.686968;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg04;98;0;0;0;97;3;0;0;0;0,6;0,03;4;4;;;1;1;0;2020-07-09;47.459902;12.687543;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg05;99;0;0;0;99;2;0;0;0;0,5;0,05;4;4;;15;1;0;0;2020-07-09;47.460227;12.688021;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg06;99;0;0;0;98;5;0;0;0;0,6;0,07;4;4;;;0;1;0;2020-07-09;47.460471;12.689054;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg07;99;0;0;0;99;1;0;0;0;0,5;0,05;4;4;;23;0;1;0;2020-07-09;47.461392;12.691839;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg08;97;0;0;0;97;3;0;0;0;0,6;0,05;4;4;;;1;2;0;2020-07-09;47.460848;12.693087;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg09;99;0;0;0;99;1;0;0;0;0,5;0,05;4;4;;12;0;1;0;2020-07-09;47.460327;12.691156;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg10;97;0;0;0;97;3;0;0;0;0,6;0,05;4;4;;;1;2;0;2020-07-09;47.459892;12.689003;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg11;96;0;0;0;96;1;0;0;0;0,6;0,05;4;4;;35;0;4;0;2020-07-09;47.455322;12.685105;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg12;98;0;0;0;98;1;0;0;0;0,4;0,1;4;4;;;2;0;0;2020-07-10;47.458848;12.688465;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;;pasture;T. Eberl & R. Kaiser
-lg13;99;0;2;90;95;40;0;7;3,5;0,6;0,05;8;8;;40;0;1;0;2020-07-10;47.459797;12.685140;10;;Erico-Pinetum prostratae Zöttl 1951;;;;;forest;T. Eberl & R. Kaiser
-lg14;15;0;0;0;15;1;0;0;0;0,2;0,03;4;4;SW;45;0;0;85;2020-07-10;47.459618;12.684964;10;;Caricetum mucronatae (Br.-Bl. Et Jenny 1926) Thomaser 1977;;;;;rock;T. Eberl & R. Kaiser
-lg15;98;45;15;2;85;3;17;10;3,5;0,8;0,05;16;16;;40;0;2;0;2020-07-10;47.459998;12.684839;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg16;90;65;25;10;75;5;17;10;4;0,6;0,2;16;16;;;0;0;0;2020-07-10;47.460114;12.685983;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg17;98;10;50;20;85;1;16;10;4;0,6;0,1;16;16;;40;0;2;0;2020-07-10;47.460699;12.686528;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg18;100;25;20;50;97;20;16;8;4;0,7;0,2;16;16;;40;0;0;0;2020-07-10;47.461633;12.687216;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg19;10;0;0;0;10;1;0;0;0;0,2;0,05;16;16;;85;90;0;0;2020-07-10;47.461502;12.687635;10;;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;;;;;rock;T. Eberl & R. Kaiser
-lg20;99;20;5;95;90;40;15;10;4;0,65;0,2;16;16;;;1;0;0;2020-07-10;47.461459;12.688218;10;;Rhodothamno-Laricetum Willner & Zukrigl 1999;;;;;forest;T. Eberl & R. Kaiser
-lg21;100;55;10;2;90;40;15;10;2;0,5;0,05;16;16;SW;10;0;0;0;2020-07-10;47.461562;12.688915;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg22;99;35;20;15;95;5;16;10;3,5;0,5;0,15;16;16;;;0;1;0;2020-07-10;47.463325;12.691659;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg23;99;65;10;2;85;65;18;12;3;0,4;0,05;16;16;;30;0;1;0;2020-07-10;47.461599;12.689927;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg24;100;0;0;0;100;1;0;0;0;0,65;0,15;4;4;;;0;0;0;2020-07-10;47.459171;12.687699;10;;Polygalo-Nardetum (Preising 1953) Oberd. 1957;;;;;pasture;T. Eberl & R. Kaiser
-lg25;98;60;15;2;95;5;25;12;3;0,9;0,1;16;16;;40;0;2;0;2020-07-10;47.457326;12.685406;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg26;97;0;0;0;95;5;0;0;0;0,35;0,02;4;4;;0;3;0;;2020-07-21;47.461840;12.645624;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg27;98;0;0;0;98;3;0;0;0;0,5;0,05;4;4;;35;0;2;0;2020-07-21;47.462615;12.645682;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg28;97;0;0;0;97;3;0;0;0;0,5;0,03;4;4;;0;3;0;;2020-07-21;47.464188;12.644048;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg29;96;0;0;0;95;7;0;0;0;0,4;0,05;4;4;;40;0;4;0;2020-07-21;47.465410;12.640705;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg30;99;0;0;0;99;1;0;0;0;0,4;0,02;4;4;;1;0;0;;2020-07-21;47.455849;12.672669;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;;pasture;T. Eberl & R. Kaiser
-lg31;99;0;0;0;99;4;0;0;0;0,7;0,05;4;4;;38;0;1;0;2020-07-21;47.457859;12.668558;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;;pasture;T. Eberl & R. Kaiser
-lg32;99;0;0;0;99;1;0;0;0;0,45;0,05;4;4;;;0;1;0;2020-07-21;47.458423;12.665801;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg33;98;0;0;0;98;2;0;0;0;0,4;0,05;4;4;;38;0;2;0;2020-07-21;47.458553;12.658605;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg34;95;0;0;0;95;1;0;0;0;0,5;0,02;4;4;;;0;5;0;2020-07-21;47.459927;12.652768;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg35;98;0;0;0;98;10;0;0;0;0,6;0,05;4;4;;38;0;2;0;2020-07-22;47.457149;12.726591;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg36;99;0;0;0;99;1;0;0;0;0,2;0,02;4;4;;;0;1;0;2020-07-22;47.456368;12.727897;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;;pasture;T. Eberl & R. Kaiser
-lg37;97;0;0;0;97;2;0;0;0;0,7;0,05;4;4;;40;0;3;0;2020-07-22;47.455407;12.727021;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg38;98;0;0;0;97;3;0;0;0;0,45;0,05;4;4;;;0;2;0;2020-07-22;47.454796;12.727071;10;;Polygalo-Nardetum (Preising 1953) Oberd. 1957;;;;;pasture;T. Eberl & R. Kaiser
-lg39;98;0;0;0;98;2;0;0;0;0,5;0,05;4;4;;30;0;2;0;2020-07-22;47.453561;12.704997;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg40;100;0;0;0;100;1;0;0;0;0,4;0,03;4;4;;;0;0;0;2020-07-22;47.454172;12.704060;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;;pasture;T. Eberl & R. Kaiser
-lg41;99;55;20;14;99;15;22;15;3;0,9;0,05;16;16;;45;0;1;0;2020-07-22;47.457059;12.706224;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg42;97;55;7;15;75;5;18;9;4;0,6;0,15;16;16;;;0;3;0;2020-07-22;47.459879;12.706186;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;;forest;T. Eberl & R. Kaiser
-lg43;98;0;0;0;98;2;0;0;0;0,7;0,05;4;4;;20;0;2;0;2020-07-22;47.453043;12.702527;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;;pasture;T. Eberl & R. Kaiser
-lg44;97;0;0;0;97;1;0;0;0;0,55;0,1;4;4;;;0;3;0;2020-07-22;47.450814;12.700300;10;;Polygalo-Nardetum (Preising 1953) Oberd. 1957;;;;;pasture;T. Eberl & R. Kaiser
-lg45;98;15;65;28;95;2;25;17;3;0,9;0,5;16;16;;30;0;0;0;2020-09-09;47.461391;12.68601;10;;;;;;;forest;T. Eberl
-lg46;28;0;0;0;28;0;0;0;0;0,7;0,05;4;4;;45;0;0;100;2020-09-09;47.460990;12.685504;10;;;;;;;rock;T. Eberl
-lg47;99;15;65;5;97;10;28;18;2,5;0,9;0,05;16;16;;30;0;0;0;2020-09-09;47.458756;12.683987;10;;;;;;;forest;T. Eberl
-lg48;23;0;0;0;22;3;0;0;0;0,9;0,05;4;4;S;15;0;0;100;2020-09-09;47.458657;12.682858;10;;;;;;;riverbed;T. Eberl
-lg49;32;0;0;5;27;5;0;0;1,2;0,7;0,05;4;4;S;12;0;0;100;2020-09-09;47.459086;12.682783;10;;;;;;;riverbed;T. Eberl
+lg01;99;0;0;0;99;5;0;0;0;0,4;0,05;4;4;;38;0;1;0;2020-07-09;47.458859;12.687169;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg02;80;0;0;0;80;1;0;0;0;0,4;0,03;4;4;;;0;20;0;2020-07-09;47.459107;12.686708;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg03;98;0;0;0;98;2;0;0;0;0,4;0,05;4;4;;15;1;1;0;2020-07-09;47.459446;12.686968;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg04;98;0;0;0;97;3;0;0;0;0,6;0,03;4;4;;;1;1;0;2020-07-09;47.459902;12.687543;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg05;99;0;0;0;99;2;0;0;0;0,5;0,05;4;4;;15;1;0;0;2020-07-09;47.460227;12.688021;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg06;99;0;0;0;98;5;0;0;0;0,6;0,07;4;4;;;0;1;0;2020-07-09;47.460471;12.689054;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg07;99;0;0;0;99;1;0;0;0;0,5;0,05;4;4;;23;0;1;0;2020-07-09;47.461392;12.691839;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg08;97;0;0;0;97;3;0;0;0;0,6;0,05;4;4;;;1;2;0;2020-07-09;47.460848;12.693087;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg09;99;0;0;0;99;1;0;0;0;0,5;0,05;4;4;;12;0;1;0;2020-07-09;47.460327;12.691156;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg10;97;0;0;0;97;3;0;0;0;0,6;0,05;4;4;;;1;2;0;2020-07-09;47.459892;12.689003;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg11;96;0;0;0;96;1;0;0;0;0,6;0,05;4;4;;35;0;4;0;2020-07-09;47.455322;12.685105;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg12;98;0;0;0;98;1;0;0;0;0,4;0,1;4;4;;;2;0;0;2020-07-10;47.458848;12.688465;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg13;99;0;2;90;95;40;0;7;3,5;0,6;0,05;8;8;;40;0;1;0;2020-07-10;47.459797;12.685140;10;;Erico-Pinetum prostratae Zöttl 1951;;;;Weide an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg14;15;0;0;0;15;1;0;0;0;0,2;0,03;4;4;SW;45;0;0;85;2020-07-10;47.459618;12.684964;10;;Caricetum mucronatae (Br.-Bl. Et Jenny 1926) Thomaser 1977;;;;Weide an der Hirscherwaldalm;rock;T. Eberl & R. Kaiser
+lg15;98;45;15;2;85;3;17;10;3,5;0,8;0,05;16;16;;40;0;2;0;2020-07-10;47.459998;12.684839;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg16;90;65;25;10;75;5;17;10;4;0,6;0,2;16;16;;;0;0;0;2020-07-10;47.460114;12.685983;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg17;98;10;50;20;85;1;16;10;4;0,6;0,1;16;16;;40;0;2;0;2020-07-10;47.460699;12.686528;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg18;100;25;20;50;97;20;16;8;4;0,7;0,2;16;16;;40;0;0;0;2020-07-10;47.461633;12.687216;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg19;10;0;0;0;10;1;0;0;0;0,2;0,05;16;16;;85;90;0;0;2020-07-10;47.461502;12.687635;10;;Hieracio humilis-Potentilletum caulescentis Br.-Bl. in Meier et Br.-Bl. 1934;;;;Weide an der Hirscherwaldalm;rock;T. Eberl & R. Kaiser
+lg20;99;20;5;95;90;40;15;10;4;0,65;0,2;16;16;;;1;0;0;2020-07-10;47.461459;12.688218;10;;Rhodothamno-Laricetum Willner & Zukrigl 1999;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg21;100;55;10;2;90;40;15;10;2;0,5;0,05;16;16;SW;10;0;0;0;2020-07-10;47.461562;12.688915;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg22;99;35;20;15;95;5;16;10;3,5;0,5;0,15;16;16;;;0;1;0;2020-07-10;47.463325;12.691659;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg23;99;65;10;2;85;65;18;12;3;0,4;0,05;16;16;;30;0;1;0;2020-07-10;47.461599;12.689927;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg24;100;0;0;0;100;1;0;0;0;0,65;0,15;4;4;;;0;0;0;2020-07-10;47.459171;12.687699;10;;Polygalo-Nardetum (Preising 1953) Oberd. 1957;;;;Weide an der Hirscherwaldalm;pasture;T. Eberl & R. Kaiser
+lg25;98;60;15;2;95;5;25;12;3;0,9;0,1;16;16;;40;0;2;0;2020-07-10;47.457326;12.685406;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Hirscherwaldalm;forest;T. Eberl & R. Kaiser
+lg26;97;0;0;0;95;5;0;0;0;0,35;0,02;4;4;;0;3;0;;2020-07-21;47.461840;12.645624;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden N Grießensee am Grießenpass;pasture;T. Eberl & R. Kaiser
+lg27;98;0;0;0;98;3;0;0;0;0,5;0,05;4;4;;35;0;2;0;2020-07-21;47.462615;12.645682;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden N Grießensee am Grießenpass;pasture;T. Eberl & R. Kaiser
+lg28;97;0;0;0;97;3;0;0;0;0,5;0,03;4;4;;0;3;0;;2020-07-21;47.464188;12.644048;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden N Grießensee am Grießenpass;pasture;T. Eberl & R. Kaiser
+lg29;96;0;0;0;95;7;0;0;0;0,4;0,05;4;4;;40;0;4;0;2020-07-21;47.465410;12.640705;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden N Grießensee am Grießenpass;pasture;T. Eberl & R. Kaiser
+lg30;99;0;0;0;99;1;0;0;0;0,4;0,02;4;4;;1;0;0;;2020-07-21;47.455849;12.672669;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;Weiden Grießener Sonnseite E Grießenpass;pasture;T. Eberl & R. Kaiser
+lg31;99;0;0;0;99;4;0;0;0;0,7;0,05;4;4;;38;0;1;0;2020-07-21;47.457859;12.668558;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;Weiden Grießener Sonnseite E Grießenpass;pasture;T. Eberl & R. Kaiser
+lg32;99;0;0;0;99;1;0;0;0;0,45;0,05;4;4;;;0;1;0;2020-07-21;47.458423;12.665801;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden Grießener Sonnseite E Grießenpass;pasture;T. Eberl & R. Kaiser
+lg33;98;0;0;0;98;2;0;0;0;0,4;0,05;4;4;;38;0;2;0;2020-07-21;47.458553;12.658605;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden Grießener Sonnseite E Grießenpass;pasture;T. Eberl & R. Kaiser
+lg34;95;0;0;0;95;1;0;0;0;0,5;0,02;4;4;;;0;5;0;2020-07-21;47.459927;12.652768;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden N Pucher E Grießenpass;pasture;T. Eberl & R. Kaiser
+lg35;98;0;0;0;98;10;0;0;0;0,6;0,05;4;4;;38;0;2;0;2020-07-22;47.457149;12.726591;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden an der Riedlalm S Wildzacken (2093);pasture;T. Eberl & R. Kaiser
+lg36;99;0;0;0;99;1;0;0;0;0,2;0,02;4;4;;;0;1;0;2020-07-22;47.456368;12.727897;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;Weiden an der Riedlalm S Wildzacken (2093);pasture;T. Eberl & R. Kaiser
+lg37;97;0;0;0;97;2;0;0;0;0,7;0,05;4;4;;40;0;3;0;2020-07-22;47.455407;12.727021;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden an der Riedlalm S Wildzacken (2093);pasture;T. Eberl & R. Kaiser
+lg38;98;0;0;0;97;3;0;0;0;0,45;0,05;4;4;;;0;2;0;2020-07-22;47.454796;12.727071;10;;Polygalo-Nardetum (Preising 1953) Oberd. 1957;;;;Weiden an der Riedlalm S Wildzacken (2093);pasture;T. Eberl & R. Kaiser
+lg39;98;0;0;0;98;2;0;0;0;0,5;0,05;4;4;;30;0;2;0;2020-07-22;47.453561;12.704997;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden an der Maureralm SW Maurerköpfl (2133);pasture;T. Eberl & R. Kaiser
+lg40;100;0;0;0;100;1;0;0;0;0,4;0,03;4;4;;;0;0;0;2020-07-22;47.454172;12.704060;10;;Carlino-Caricetum sempervirentis Lutz 1947;;;;Weiden an der Maureralm SW Maurerköpfl (2133);pasture;T. Eberl & R. Kaiser
+lg41;99;55;20;14;99;15;22;15;3;0,9;0,05;16;16;;45;0;1;0;2020-07-22;47.457059;12.706224;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Maureralm SW Maurerköpfl (2133);forest;T. Eberl & R. Kaiser
+lg42;97;55;7;15;75;5;18;9;4;0,6;0,15;16;16;;;0;3;0;2020-07-22;47.459879;12.706186;10;;Adenostyle glabrae-Fagetum -seslerietosum Moor 1970;;;;Wald an der Maureralm SW Maurerköpfl (2133);forest;T. Eberl & R. Kaiser
+lg43;98;0;0;0;98;2;0;0;0;0,7;0,05;4;4;;20;0;2;0;2020-07-22;47.453043;12.702527;10;;Festuco commudatae-Cynosuretum R. Tx. ex Büker 1942;;;;Weiden an der Maureralm SW Maurerköpfl (2133);pasture;T. Eberl & R. Kaiser
+lg44;97;0;0;0;97;1;0;0;0;0,55;0,1;4;4;;;0;3;0;2020-07-22;47.450814;12.700300;10;;Polygalo-Nardetum (Preising 1953) Oberd. 1957;;;;Weiden an der Maureralm SW Maurerköpfl (2133);pasture;T. Eberl & R. Kaiser
+lg45;98;15;65;28;95;2;25;17;3;0,9;0,5;16;16;;30;0;0;0;2020-09-09;47.461391;12.68601;10;;;;;;Wald N Pucher E Grießenpass;forest;T. Eberl
+lg46;28;0;0;0;28;0;0;0;0;0,7;0,05;4;4;;45;0;0;100;2020-09-09;47.460990;12.685504;10;;;;;;Weiden N Pucher E Grießenpass;rock;T. Eberl
+lg47;99;15;65;5;97;10;28;18;2,5;0,9;0,05;16;16;;30;0;0;0;2020-09-09;47.458756;12.683987;10;;;;;;Alluvionen des Grießbaches SSW Hochbrett (2470);forest;T. Eberl
+lg48;23;0;0;0;22;3;0;0;0;0,9;0,05;4;4;S;15;0;0;100;2020-09-09;47.458657;12.682858;10;;;;;;Alluvionen des Grießbaches SSW Hochbrett (2470);riverbed;T. Eberl
+lg49;32;0;0;5;27;5;0;0;1,2;0,7;0,05;4;4;S;12;0;0;100;2020-09-09;47.459086;12.682783;10;;;;;;Alluvionen des Grießbaches SSW Hochbrett (2470);riverbed;T. Eberl

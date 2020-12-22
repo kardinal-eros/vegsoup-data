@@ -1,7 +1,7 @@
 plot;variable;value
 ga01;altitude;1895
 ga01;cov;98
-ga01;date;12.08.2008
+ga01;date;2008-08-12
 ga01;exp;SSW
 ga01;hcov;90
 ga01;hhl1;35
@@ -20,7 +20,7 @@ ga01;syntaxon;Rhododendretum ferruginei Rübel 1911
 ga01;tcov;0
 ga02;altitude;1895
 ga02;cov;98
-ga02;date;12.08.2008
+ga02;date;2008-08-12
 ga02;exp;S
 ga02;hcov;98
 ga02;hhl1;45
@@ -39,7 +39,7 @@ ga02;syntaxon;Rhododendretum ferruginei Rübel 1911
 ga02;tcov;0
 ga03;altitude;1901
 ga03;cov;85
-ga03;date;12.08.2008
+ga03;date;2008-08-12
 ga03;exp;S
 ga03;hcov;85
 ga03;hhl1;30
@@ -58,7 +58,7 @@ ga03;syntaxon;Rhododendretum ferruginei Rübel 1911
 ga03;tcov;0
 ga04;altitude;2159
 ga04;cov;90
-ga04;date;12.08.2008
+ga04;date;2008-08-12
 ga04;exp;S
 ga04;hcov;90
 ga04;hhl1;15
@@ -77,7 +77,7 @@ ga04;syntaxon;Loiseleurio-caricetum curvulae Pitschmann et al. 1980
 ga04;tcov;0
 ga05;altitude;2141
 ga05;cov;97
-ga05;date;12.08.2008
+ga05;date;2008-08-12
 ga05;exp;SO
 ga05;hcov;97
 ga05;hhl1;40
@@ -96,7 +96,7 @@ ga05;syntaxon;Caricetum ferruginei Lüdi 1921
 ga05;tcov;0
 ga06;altitude;2116
 ga06;cov;100
-ga06;date;12.08.2008
+ga06;date;2008-08-12
 ga06;exp;SO
 ga06;hcov;100
 ga06;hhl1;60
@@ -115,7 +115,7 @@ ga06;syntaxon;Caricetum ferruginei Lüdi 1921
 ga06;tcov;0
 ga07;altitude;2100
 ga07;cov;95
-ga07;date;12.08.2008
+ga07;date;2008-08-12
 ga07;exp;SO
 ga07;hcov;95
 ga07;hhl1;45
@@ -134,7 +134,7 @@ ga07;syntaxon;Chaerophyllo villarsii-Agrostietum schradderianae Grabherr 1993
 ga07;tcov;0
 ga08;altitude;2049
 ga08;cov;100
-ga08;date;12.08.2008
+ga08;date;2008-08-12
 ga08;exp;F
 ga08;hcov;70
 ga08;hhl1;30
@@ -153,7 +153,7 @@ ga08;syntaxon;Caricetum goodenowii Braun 1915
 ga08;tcov;0
 ga09;altitude;2067
 ga09;cov;100
-ga09;date;12.08.2008
+ga09;date;2008-08-12
 ga09;exp;F
 ga09;hcov;98
 ga09;hhl1;50
@@ -172,7 +172,7 @@ ga09;syntaxon;Caricetum rostratae Osvald 1923 em. Dierßen 1982
 ga09;tcov;0
 ga10;altitude;2057
 ga10;cov;98
-ga10;date;12.08.2008
+ga10;date;2008-08-12
 ga10;exp;F
 ga10;hcov;98
 ga10;hhl1;35
@@ -191,7 +191,7 @@ ga10;syntaxon;Caricetum goodenowii Braun 1915
 ga10;tcov;0
 ga11;altitude;2050
 ga11;cov;85
-ga11;date;12.08.2008
+ga11;date;2008-08-12
 ga11;exp;F
 ga11;hcov;80
 ga11;hhl1;20
@@ -210,7 +210,7 @@ ga11;syntaxon;Amblystegio intermedii-Scirpetum austriaci Nordhagen 1928 em. Dier
 ga11;tcov;0
 ga12;altitude;2046
 ga12;cov;70
-ga12;date;12.08.2008
+ga12;date;2008-08-12
 ga12;exp;N
 ga12;hcov;60
 ga12;hhl1;10
@@ -229,7 +229,7 @@ ga12;syntaxon;Loiseleurio-Cetrarietum Br.-Bl. Et al. 1939
 ga12;tcov;0
 ga13;altitude;2011
 ga13;cov;100
-ga13;date;12.08.2008
+ga13;date;2008-08-12
 ga13;exp;NO
 ga13;hcov;98
 ga13;hhl1;30
@@ -248,7 +248,7 @@ ga13;syntaxon;Rhododendretum ferruginei Rübel 1911
 ga13;tcov;0
 ga14;altitude;1984
 ga14;cov;100
-ga14;date;12.08.2008
+ga14;date;2008-08-12
 ga14;exp;N
 ga14;hcov;85
 ga14;hhl1;80
@@ -350,6 +350,11 @@ vsb0228;altitude;2238
 vsb0229;altitude;2256
 vsb0230;altitude;2273
 vsb0231;altitude;2318
+vsb0227;date;2004-07-20
+vsb0228;date;2004-07-20
+vsb0229;date;2004-07-20
+vsb0230;date;2004-07-20
+vsb0231;date;2004-07-20
 ga01;observer;T. Eberl & R. Kaiser
 ga02;observer;T. Eberl & R. Kaiser
 ga03;observer;T. Eberl & R. Kaiser

@@ -18,8 +18,8 @@ plot;observer;date;location;latitude;longitude;accuracy;elevation;expo;slope;geo
 17;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.866318;13.814974;20;428;W;40;Steilhang;;199;no;32;95;20;15;6;10;1;75;10;
 18;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.866152;13.815087;20;421;SW;30;Hang;;200 - 201;no;32;75;20;15;6;10;1;65;5;
 19;E. Stadler;2011-07-07;Ostuferweg Traunsee;47.865443;13.815757;20;426;SW;10;;;;rarely;32;90;20;20;6;10;1;85;5; 
-20;E. Stadler;12.07.11;Ostuferweg Traunsee;47.865213;13.815838;20;440;W;25;Hang;;154;maybe;32;80;15;0,4;2,5;0,1;1;0,6;0,15;Ostuferweg am Ende, Aufgang Forststraße
-21;E. Stadler;12.07.11;Miesweg;47.859519;13.814838;20;401;W;20;Hang;Fels;146;no;3;;;;;;;15;; 
+20;E. Stadler;2011-07-12;Ostuferweg Traunsee;47.865213;13.815838;20;440;W;25;Hang;;154;maybe;32;80;15;0,4;2,5;0,1;1;0,6;0,15;Ostuferweg am Ende, Aufgang Forststraße
+21;E. Stadler;2011-07-12;Miesweg;47.859519;13.814838;20;401;W;20;Hang;Fels;146;no;3;;;;;;;15;; 
 22;E. Stadler;2011-07-20;Miesweg;47.859534;13.814873;20;410;NW;45;;Fels;;no;3;35;;;1,5;5;;30;;Ende Miesweg, Stein oben
 23;E. Stadler;2011-07-20;Miesweg;47.85905;13.814701;20;418;NW;45;;Fels;;no;3;40;;;1,5;5;30;10;;Ende Miesweg, abseits des Steiges direkt am See
 24;E. Stadler;2011-07-20;Miesweg;47.859888;13.814701;20;423;W;35;;;;;32;80;20;15;6;35;;80;15;
