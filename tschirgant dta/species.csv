@@ -194,7 +194,7 @@ tc14b;achi rose;hl;1;;;;
 tc14b;alli cari cari;hl;+;;;; | Changed alli cari To alli cari cari 2012-11-27 16:08:05
 tc14b;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
 tc14b;anth ramo;hl;+;;;;
-tc14b;brac rupe;hl;1;;;;
+tc14b;brac rupe rupe;hl;1;;;;
 tc14b;briz medi;hl;1;;;;
 tc14b;brom erec;hl;+;;;;
 tc14b;care cary;hl;+;;;;
@@ -384,7 +384,7 @@ tc18a;aspe cyna;hl;r;;;;
 tc18a;astr majo;hl;+;;;;
 tc18a;berb vulg;hl;+;;;;
 tc18a;berb vulg;sl;+;;;;
-tc18a;brac rupe;hl;2a;;;;
+tc18a;brac rupe rupe;hl;2a;;;;
 tc18a;buph sali;hl;+;;;;
 tc18a;cala vari;hl;+;;;;
 tc18a;call vulg;hl;+;;;;
@@ -462,7 +462,7 @@ tc18b;astr majo;hl;+;;;;
 tc18b;berb vulg;hl;+;;;;
 tc18b;berb vulg;sl;1;;;;
 tc18b;betu pend;hl;+;;;;
-tc18b;brac rupe;hl;2a;;;;
+tc18b;brac rupe rupe;hl;2a;;;;
 tc18b;buph sali;hl;1;;;;
 tc18b;camp glom;hl;+;;;;
 tc18b;camp pers;hl;+;;;;
@@ -538,7 +538,7 @@ tc18c;anth ramo;hl;1;;;;
 tc18c;aspe cyna;hl;+;;;;
 tc18c;astr majo;hl;+;;;;
 tc18c;berb vulg;hl;1;;;;
-tc18c;brac rupe;hl;+;;;;
+tc18c;brac rupe rupe;hl;+;;;;
 tc18c;briz medi;hl;+;;;;
 tc18c;brom erec;hl;2a;;;;
 tc18c;buph sali;hl;1;;;;
@@ -634,7 +634,7 @@ tc1a;vici sepi;hl;+;;;;
 tc1b;achi mill aggr;hl;1;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
 tc1b;arrh elat;hl;1;;;;
 tc1b;arte vulg;hl;+;;;;
-tc1b;brac rupe;hl;2b;;;;
+tc1b;brac rupe rupe;hl;2b;;;;
 tc1b;brom erec;hl;2a;;;;
 tc1b;camp rapu rapu;hl;1;;;;
 tc1b;colc autu;hl;2a;;;;
@@ -715,7 +715,7 @@ tc29a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 1
 tc29a;aqui atra;hl;1;;;;
 tc29a;berb vulg;hl;+;;;;
 tc29a;berb vulg;sl;1;;;;
-tc29a;brac rupe;hl;2a;;;;
+tc29a;brac rupe rupe;hl;2a;;;;
 tc29a;briz medi;hl;+;;;;
 tc29a;cala vari;hl;+;;;;
 tc29a;camp trac;hl;+;;;;
@@ -825,7 +825,7 @@ tc2b;amel lama;sl;2a;;;;
 tc2b;amel lama;tl;1;;;;
 tc2b;berb vulg;hl;2a;;;;
 tc2b;berb vulg;sl;2m;;;;
-tc2b;brac rupe;hl;+;;;;
+tc2b;brac rupe rupe;hl;+;;;;
 tc2b;clem vita;hl;1;;;;
 tc2b;clem vita;sl;1;;;;
 tc2b;clem vita;tl;+;;;;
@@ -924,7 +924,7 @@ tc33a;viol reic;hl;+;;;;
 tc34a;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
 tc34a;aspe cyna;hl;+;;;;
 tc34a;aste amel;hl;+;;;;
-tc34a;brac rupe;hl;2a;;;;
+tc34a;brac rupe rupe;hl;2a;;;;
 tc34a;briz medi;hl;+;;;;
 tc34a;brom erec;hl;3;;;;
 tc34a;buph sali;hl;1;;;;
@@ -1035,7 +1035,7 @@ tc37a;alnu inca;hl;+;;;;
 tc37a;alnu inca;sl;2b;;;;
 tc37a;ange sylv sylv;hl;+;;;; | Changed ange sylv To ange sylv sylv 2012-11-27 16:08:05
 tc37a;brac pinn;hl;1;;;;
-tc37a;brac rupe;hl;2b;;;;
+tc37a;brac rupe rupe;hl;2b;;;;
 tc37a;buph sali;hl;1;;;;
 tc37a;camp patu;hl;+;;;;
 tc37a;card defl viri;hl;+;;;; | Changed card defl To card defl viri 2012-11-27 16:08:03
@@ -1222,7 +1222,7 @@ tc3a;amel oval;sl;+;;;;
 tc3a;anth ramo;hl;+;;;;
 tc3a;berb vulg;hl;1;;;;
 tc3a;berb vulg;sl;1;;;;
-tc3a;brac rupe;hl;2m;;;;
+tc3a;brac rupe rupe;hl;2m;;;;
 tc3a;camp rotu;hl;+;;;;
 tc3a;care alba;hl;2m;;;;
 tc3a;care humi;hl;1;;;;
@@ -1391,7 +1391,7 @@ tc41a;vici sepi;hl;1;;;;
 tc42a;achi mill aggr;hl;+;voucher;1;2; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
 tc42a;arrh elat;hl;1;;;;
 tc42a;brac pinn;hl;+;;;;
-tc42a;brac rupe;hl;1;;;;
+tc42a;brac rupe rupe;hl;1;;;;
 tc42a;brom erec;hl;2b;;;;
 tc42a;camp glom;hl;+;;;;
 tc42a;care cary;hl;+;;;;
@@ -1458,7 +1458,7 @@ tc44a;alli lusi;hl;+;;;; | Changed alli mont To alli lusi 2012-11-27 16:08:08
 tc44a;anth ramo;hl;2a;;;;
 tc44a;anth vuln slat;hl;+;;;; | Changed anth vuln To anth vuln slat 2012-11-27 16:08:03
 tc44a;aspe tinc;hl;2m;voucher;20;;
-tc44a;brac rupe;hl;2a;;;;
+tc44a;brac rupe rupe;hl;2a;;;;
 tc44a;brom erec;hl;1;;;;
 tc44a;care humi;hl;2a;;;;
 tc44a;fest amet amet;hl;+;;;; | Changed fest amet To fest amet amet 2012-11-27 16:08:04
@@ -1487,7 +1487,7 @@ tc4a;achn cala;hl;2m;;;;
 tc4a;anth ramo;hl;+;;;;
 tc4a;berb vulg;hl;+;;;;
 tc4a;both isch;hl;+;;;; | Changed botr isch To both isch 2012-11-27 16:08:08
-tc4a;brac rupe;hl;1;;;;
+tc4a;brac rupe rupe;hl;1;;;;
 tc4a;buph sali;hl;+;;;;
 tc4a;card defl viri;hl;+;;;; | Changed card defl To card defl viri 2012-11-27 16:08:03
 tc4a;care humi;hl;2a;;;;
@@ -1704,7 +1704,7 @@ tc9a;amel oval;sl;+;;;;
 tc9a;anth ramo;hl;+;;;;
 tc9a;berb vulg;hl;+;;;;
 tc9a;berb vulg;sl;+;;;;
-tc9a;brac rupe;hl;+;;;;
+tc9a;brac rupe rupe;hl;+;;;;
 tc9a;cala vari;hl;+;;;;
 tc9a;care alba;hl;2m;;;;
 tc9a;ceph long;hl;+;;;;
@@ -2088,7 +2088,7 @@ tcq7;tofi caly;hl;1;;;;
 tcq8;achi mill aggr;hl;+;;;; | Changed achi mill m To achi mill aggr 2012-11-27 16:08:03
 tcq8;anth odor;hl;+;;;;
 tcq8;aqui atra;hl;+;;;;
-tcq8;brac rupe;hl;+;;;;
+tcq8;brac rupe rupe;hl;+;;;;
 tcq8;briz medi;hl;+;;;;
 tcq8;care dava;hl;1;;;;
 tcq8;care elat;hl;2b;;;;

@@ -103,7 +103,7 @@ x <- x[ -match(ii, x) ]
 #	run update
 #	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.
 
-build = F
+build = T
 
 if (build) {
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {

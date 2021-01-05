@@ -126,7 +126,7 @@ aren cili                  @hl . . . . . . . r . . r + . . .
 arme alpi                  @hl . . . . . . . . . . r r . . .
 care capi                  @hl . . . . + . . 1 + + r . . . .
 care parv                  @hl . . . . . . . . r . . r + . .
-cera alpi alpi             @hl . . . . . . . r . . . . . . .
+cera alpi sstr             @hl . . . . . . . r . . . . . . .
 cham alpi                  @hl . . . . . . . . . + . . . . .
 doro glac glac             @hl . . . . . . . r . . . . . . .
 cetr isla isla             @ml . . . . . . . . . r . r . . .

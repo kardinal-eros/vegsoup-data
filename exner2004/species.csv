@@ -400,7 +400,7 @@ plot;abbr;layer;cov;comment;determined;history
 13;crep alpe;hl;+;Crepis alpestris;;
 13;cusc epit epit;hl;+;Cuscuta epithymum;;
 13;dian sylv;hl;1;Dianthus sylvestris;;
-13;erig alpi;hl;+;Erigeron alpinus;;
+13;erig alpi slat;hl;+;Erigeron alpinus;;
 13;erys sylv;hl;+;Erysimum sylvestre;;
 13;euph cypa;hl;2;Euphorbia cyparissias;;
 13;euph offi slat;hl;+;Euphrasia offcinalis;;
@@ -602,7 +602,7 @@ plot;abbr;layer;cov;comment;determined;history
 16;clin acin;hl;1;Acinos alpinus;;
 16;dact glom glom;hl;+;Dactylis glomerata agg., most liklely D. glomerat subsp. glomerata;;
 16;dian sylv;hl;1;Dianthus sylvestris;;
-16;erig alpi;hl;+;Erigeron alpinus;;
+16;erig alpi slat;hl;+;Erigeron alpinus;;
 16;erys sylv;hl;+;Erysimum sylvestre;;
 16;euph cypa;hl;1;Euphorbia cyparissias;;
 16;euph offi slat;hl;+;Euphrasia offcinalis;;
