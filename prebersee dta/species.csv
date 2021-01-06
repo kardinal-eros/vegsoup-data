@@ -1,0 +1,450 @@
+plot;abbr;layer;cov
+prf10;andr poli;hl;1
+prf10;anth odor;hl;1
+prf10;card prat aggr;hl;1
+prf10;care dava;hl;1
+prf10;care echi;hl;1
+prf10;care nigr;hl;1
+prf10;care rost;hl;1
+prf10;cirs palu;hl;1
+prf10;dact lapp;hl;1
+prf10;dact macu slat;hl;1
+prf10;dact maja slat;hl;1
+prf10;desc cesp;hl;1
+prf10;equi sylv;hl;1
+prf10;erio angu;hl;1
+prf10;homo alpi;hl;1
+prf10;luzu sude;hl;1
+prf10;nard stri;hl;1
+prf10;pers bist;hl;1
+prf10;pote erec;hl;1
+prf10;ranu mont;hl;1
+prf10;swer pere;hl;1
+prf10;vacc myrt;hl;1
+prf10;vacc viti;hl;1
+prf10;will stip stip;hl;1
+prf10;spha spec ies;ml;1
+prf10;unde bryo;ml;1
+prf10;pice abie;sl;1
+prf11;andr poli;hl;1
+prf11;care dioi;hl;1
+prf11;care nigr;hl;1
+prf11;care rost;hl;1
+prf11;equi sylv;hl;1
+prf11;erio angu;hl;1
+prf11;erio vagi;hl;1
+prf11;homo alpi;hl;1
+prf11;juni comm comm;hl;1
+prf11;lari deci deci;hl;1
+prf11;luzu pilo;hl;1
+prf11;luzu sude;hl;1
+prf11;mela sylv;hl;1
+prf11;moli caer aggr;hl;1
+prf11;nard stri;hl;1
+prf11;parn palu;hl;1
+prf11;pers bist;hl;1
+prf11;pice abie;hl;1
+prf11;pote erec;hl;1
+prf11;ranu mont;hl;1
+prf11;vacc myrt;hl;1
+prf11;vacc ulig;hl;1
+prf11;vacc viti;hl;1
+prf11;vale dioi dioi;hl;1
+prf11;spha spec ies;ml;1
+prf11;unde bryo;ml;1
+prf11;lari deci deci;sl;1
+prm01;andr poli;hl;1
+prm01;anth odor;hl;1
+prm01;call vulg;hl;1
+prm01;card prat aggr;hl;1
+prm01;care nigr;hl;1
+prm01;cirs palu;hl;1
+prm01;equi sylv;hl;1
+prm01;erio angu;hl;1
+prm01;homo alpi;hl;1
+prm01;luzu sude;hl;1
+prm01;moli caer aggr;hl;1
+prm01;nard stri;hl;1
+prm01;parn palu;hl;1
+prm01;pice abie;hl;1
+prm01;pote erec;hl;1
+prm01;sela sela;hl;1
+prm01;tric cesp cesp;hl;1
+prm01;trif prat prat;hl;1
+prm01;vacc micr;hl;1
+prm01;viol palu;hl;1
+prm01;will stip stip;hl;1
+prm01;spha spec ies;ml;1
+prm01;unde bryo;ml;1
+prm01;pice abie;sl;1
+prm02;andr poli;hl;1
+prm02;anth odor;hl;1
+prm02;call vulg;hl;1
+prm02;care echi;hl;1
+prm02;care nigr;hl;1
+prm02;care rost;hl;1
+prm02;cirs palu;hl;1
+prm02;dros rotu;hl;1
+prm02;erio angu;hl;1
+prm02;pers bist;hl;1
+prm02;pote erec;hl;1
+prm02;tric cesp cesp;hl;1
+prm02;vacc micr;hl;1
+prm02;viol palu;hl;1
+prm02;will stip stip;hl;1
+prm02;spha spec ies;ml;1
+prm02;unde bryo;ml;1
+prm03;andr poli;hl;1
+prm03;anth odor;hl;1
+prm03;card prat aggr;hl;1
+prm03;care echi;hl;1
+prm03;care nigr;hl;1
+prm03;care rost;hl;1
+prm03;cirs palu;hl;1
+prm03;dact lapp;hl;1
+prm03;dros rotu;hl;1
+prm03;equi sylv;hl;1
+prm03;erio angu;hl;1
+prm03;erio lati;hl;1
+prm03;luzu sude;hl;1
+prm03;nard stri;hl;1
+prm03;pers bist;hl;1
+prm03;pote erec;hl;1
+prm03;swer pere;hl;1
+prm03;vacc micr;hl;1
+prm03;will stip stip;hl;1
+prm03;spha spec ies;ml;1
+prm03;unde bryo;ml;1
+prm04;andr poli;hl;1
+prm04;anth odor;hl;1
+prm04;call vulg;hl;1
+prm04;care dioi;hl;1
+prm04;care nigr;hl;1
+prm04;care rost;hl;1
+prm04;cirs palu;hl;1
+prm04;equi palu;hl;1
+prm04;equi sylv;hl;1
+prm04;erio angu;hl;1
+prm04;luzu sude;hl;1
+prm04;moli caer aggr;hl;1
+prm04;nard stri;hl;1
+prm04;pote erec;hl;1
+prm04;tric cesp cesp;hl;1
+prm04;vacc micr;hl;1
+prm04;spha spec ies;ml;1
+prm05;andr poli;hl;1
+prm05;anth odor;hl;1
+prm05;bart alpi;hl;1
+prm05;call vulg;hl;1
+prm05;care dioi;hl;1
+prm05;care nigr;hl;1
+prm05;care rost;hl;1
+prm05;cirs palu;hl;1
+prm05;dros rotu;hl;1
+prm05;equi sylv;hl;1
+prm05;erio angu;hl;1
+prm05;erio lati;hl;1
+prm05;homo alpi;hl;1
+prm05;moli caer aggr;hl;1
+prm05;parn palu;hl;1
+prm05;pote erec;hl;1
+prm05;tric cesp cesp;hl;1
+prm05;vacc micr;hl;1
+prm05;spha spec ies;ml;1
+prm05;unde bryo;ml;1
+prm06;andr poli;hl;1
+prm06;call vulg;hl;1
+prm06;care rost;hl;1
+prm06;dros rotu;hl;1
+prm06;erio angu;hl;1
+prm06;moli caer aggr;hl;1
+prm06;parn palu;hl;1
+prm06;pice abie;hl;1
+prm06;ping alpi;hl;1
+prm06;pote erec;hl;1
+prm06;sela sela;hl;1
+prm06;tofi caly;hl;1
+prm06;tric cesp cesp;hl;1
+prm06;spha spec ies;ml;1
+prm06;unde bryo;ml;1
+prm07;andr poli;hl;1
+prm07;care nigr;hl;1
+prm07;care rost;hl;1
+prm07;cirs palu;hl;1
+prm07;equi sylv;hl;1
+prm07;erio angu;hl;1
+prm07;homo alpi;hl;1
+prm07;juni comm comm;hl;1
+prm07;moli caer aggr;hl;1
+prm07;pote erec;hl;1
+prm07;tric cesp cesp;hl;1
+prm07;vacc micr;hl;1
+prm07;vale dioi dioi;hl;1
+prm07;spha spec ies;ml;1
+prm08;andr poli;hl;1
+prm08;anth odor;hl;1
+prm08;bart alpi;hl;1
+prm08;care nigr;hl;1
+prm08;care rost;hl;1
+prm08;cirs palu;hl;1
+prm08;equi sylv;hl;1
+prm08;erio angu;hl;1
+prm08;erio lati;hl;1
+prm08;erio vagi;hl;1
+prm08;luzu sude;hl;1
+prm08;meny trif;hl;1
+prm08;moli caer aggr;hl;1
+prm08;pers bist;hl;1
+prm08;pote erec;hl;1
+prm08;tric cesp cesp;hl;1
+prm08;vacc micr;hl;1
+prm09;andr poli;hl;1
+prm09;bart alpi;hl;1
+prm09;call vulg;hl;1
+prm09;care rost;hl;1
+prm09;cirs palu;hl;1
+prm09;dros rotu;hl;1
+prm09;equi sylv;hl;1
+prm09;erio angu;hl;1
+prm09;erio lati;hl;1
+prm09;juni comm comm;hl;1
+prm09;sela sela;hl;1
+prm09;meny trif;hl;1
+prm09;moli caer aggr;hl;1
+prm09;parn palu;hl;1
+prm09;ping alpi;hl;1
+prm09;pote erec;hl;1
+prm09;tofi caly;hl;1
+prm09;tric cesp cesp;hl;1
+prm09;unde bryo;ml;1
+prm09;vale dioi dioi;hl;1
+prm09;spha spec ies;ml;1
+prm10;andr poli;hl;1
+prm10;call vulg;hl;1
+prm10;care nigr;hl;1
+prm10;care rost;hl;1
+prm10;equi sylv;hl;1
+prm10;juni comm comm;hl;1
+prm10;moli caer aggr;hl;1
+prm10;pers bist;hl;1
+prm10;pote erec;hl;1
+prm10;rhod ferr;hl;1
+prm10;tric cesp cesp;hl;1
+prm10;vacc myrt;hl;1
+prm10;vacc micr;hl;1
+prm10;vacc ulig;hl;1
+prm10;vacc viti;hl;1
+prm10;spha spec ies;ml;1
+prm10;pice abie;sl;1
+prm10;pinu cemb;sl;1
+prm11;andr poli;hl;1
+prm11;dros rotu;hl;1
+prm11;erio angu;hl;1
+prm11;erio vagi;hl;1
+prm11;sela sela;hl;1
+prm11;moli caer aggr;hl;1
+prm11;parn palu;hl;1
+prm11;pice abie;hl;1
+prm11;pote erec;hl;1
+prm11;tofi caly;hl;1
+prm11;tric cesp cesp;hl;1
+prm12;andr poli;hl;1
+prm12;bart alpi;hl;1
+prm12;call vulg;hl;1
+prm12;care dioi;hl;1
+prm12;care nigr;hl;1
+prm12;care rost;hl;1
+prm12;dros rotu;hl;1
+prm12;erio angu;hl;1
+prm12;erio lati;hl;1
+prm12;moli caer aggr;hl;1
+prm12;parn palu;hl;1
+prm12;ping alpi;hl;1
+prm12;pote erec;hl;1
+prm12;tofi caly;hl;1
+prm12;tric cesp cesp;hl;1
+prm13;andr poli;hl;1
+prm13;call vulg;hl;1
+prm13;care rost;hl;1
+prm13;cirs palu;hl;1
+prm13;dros rotu;hl;1
+prm13;equi sylv;hl;1
+prm13;erio angu;hl;1
+prm13;erio lati;hl;1
+prm13;moli caer aggr;hl;1
+prm13;parn palu;hl;1
+prm13;pice abie;hl;1
+prm13;ping alpi;hl;1
+prm13;pote erec;hl;1
+prm13;tofi caly;hl;1
+prm13;tric cesp cesp;hl;1
+prm13;utri mino;hl;1
+prm14;andr poli;hl;1
+prm14;call vulg;hl;1
+prm14;care rost;hl;1
+prm14;dros rotu;hl;1
+prm14;erio angu;hl;1
+prm14;erio lati;hl;1
+prm14;sela sela;hl;1
+prm14;meny trif;hl;1
+prm14;moli caer aggr;hl;1
+prm14;parn palu;hl;1
+prm14;pice abie;hl;1
+prm14;ping alpi;hl;1
+prm14;pinu cemb;hl;1
+prm14;pote erec;hl;1
+prm14;tofi caly;hl;1
+prm14;tric cesp cesp;hl;1
+prm14;spha spec ies;ml;1
+prm14;unde bryo;ml;1
+prm15;andr poli;hl;1
+prm15;bart alpi;hl;1
+prm15;care dioi;hl;1
+prm15;care nigr;hl;1
+prm15;care rost;hl;1
+prm15;dros rotu;hl;1
+prm15;erio angu;hl;1
+prm15;erio lati;hl;1
+prm15;erio vagi;hl;1
+prm15;moli caer aggr;hl;1
+prm15;parn palu;hl;1
+prm15;pice abie;hl;1
+prm15;ping alpi;hl;1
+prm15;pote erec;hl;1
+prm15;tofi caly;hl;1
+prm15;tric cesp cesp;hl;1
+prm15;viol palu;hl;1
+prm15;will stip stip;hl;1
+prm15;spha spec ies;ml;1
+prm15;unde bryo;ml;1
+prm15;unde lich;ml;1
+prm16;andr poli;hl;1
+prm16;call vulg;hl;1
+prm16;care flav aggr;hl;1
+prm16;cirs palu;hl;1
+prm16;dros rotu;hl;1
+prm16;erio angu;hl;1
+prm16;lari deci deci;hl;1
+prm16;moli caer aggr;hl;1
+prm16;pice abie;hl;1
+prm16;pote erec;hl;1
+prm16;tric alpi;hl;1
+prm16;tric cesp cesp;hl;1
+prm16;will stip stip;hl;1
+prm16;spha spec ies;ml;1
+prm16;unde bryo;ml;1
+prm17;andr poli;hl;1
+prm17;care dioi;hl;1
+prm17;care nigr;hl;1
+prm17;care rost;hl;1
+prm17;cirs palu;hl;1
+prm17;erio angu;hl;1
+prm17;meny trif;hl;1
+prm17;moli caer aggr;hl;1
+prm17;pote erec;hl;1
+prm17;spha spec ies;ml;1
+prm17;tric cesp cesp;hl;1
+prm17;vacc micr;hl;1
+prm18;carl vulg slat;hl;1
+prm18;cirs palu;hl;1
+prm18;erio angu;hl;1
+prm18;erio lati;hl;1
+prm18;moli caer aggr;hl;1
+prm18;parn palu;hl;1
+prm18;pice abie;hl;1
+prm18;pote erec;hl;1
+prm18;tofi caly;hl;1
+prm18;tric alpi;hl;1
+prm18;tric cesp cesp;hl;1
+prm19;andr poli;hl;1
+prm19;call vulg;hl;1
+prm19;care dioi;hl;1
+prm19;care nigr;hl;1
+prm19;care rost;hl;1
+prm19;dros rotu;hl;1
+prm19;erio angu;hl;1
+prm19;meny trif;hl;1
+prm19;moli caer aggr;hl;1
+prm19;parn palu;hl;1
+prm19;ping alpi;hl;1
+prm19;pote erec;hl;1
+prm19;tric cesp cesp;hl;1
+prm19;vacc ulig;hl;1
+prm19;vale dioi dioi;hl;1
+prm19;spha spec ies;ml;1
+prm19;unde bryo;ml;1
+prm20;andr poli;hl;1
+prm20;call vulg;hl;1
+prm20;erio angu;hl;1
+prm20;moli caer aggr;hl;1
+prm20;parn palu;hl;1
+prm20;pice abie;hl;1
+prm20;pote erec;hl;1
+prm20;tofi caly;hl;1
+prm20;tric alpi;hl;1
+prm20;tric cesp cesp;hl;1
+prm20;spha spec ies;ml;1
+prm20;unde bryo;ml;1
+prm21;andr poli;hl;1
+prm21;care rost;hl;1
+prm21;dros rotu;hl;1
+prm21;erio angu;hl;1
+prm21;erio lati;hl;1
+prm21;meny trif;hl;1
+prm21;moli caer aggr;hl;1
+prm21;parn palu;hl;1
+prm21;ping alpi;hl;1
+prm21;pote erec;hl;1
+prm21;tofi caly;hl;1
+prm21;tric cesp cesp;hl;1
+prm21;spha spec ies;ml;1
+prm21;unde bryo;ml;1
+prm22;andr poli;hl;1
+prm22;care dioi;hl;1
+prm22;care limo;hl;1
+prm22;care nigr;hl;1
+prm22;erio angu;hl;1
+prm22;luzu sude;hl;1
+prm22;moli caer aggr;hl;1
+prm22;parn palu;hl;1
+prm22;pote erec;hl;1
+prm22;ping alpi;hl;1
+prm22;ping vulg;hl;1
+prm22;sela sela;hl;1
+prm22;tofi caly;hl;1
+prm22;tric alpi;hl;1
+prm22;tric cesp cesp;hl;1
+prm22;spha spec ies;ml;1
+prm22;unde bryo;ml;1
+prm23;care rost;hl;1
+prm23;dros rotu;hl;1
+prm23;equi sylv;hl;1
+prm23;erio angu;hl;1
+prm23;erio lati;hl;1
+prm23;luzu sude;hl;1
+prm23;sela sela;hl;1
+prm23;meny trif;hl;1
+prm23;moli caer aggr;hl;1
+prm23;parn palu;hl;1
+prm23;pote erec;hl;1
+prm23;tofi caly;hl;1
+prm23;tric alpi;hl;1
+prm23;tric cesp cesp;hl;1
+prm24;andr poli;hl;1
+prm24;call vulg;hl;1
+prm24;care rost;hl;1
+prm24;cirs palu;hl;1
+prm24;erio angu;hl;1
+prm24;luzu sude;hl;1
+prm24;meny trif;hl;1
+prm24;moli caer aggr;hl;1
+prm24;pice abie;hl;1
+prm24;ping alpi;hl;1
+prm24;ping vulg;hl;1
+prm24;pote erec;hl;1
+prm24;sela sela;hl;1
+prm24;tofi caly;hl;1
+prm24;tric alpi;hl;1
+prm24;tric cesp cesp;hl;1
+prm24;spha spec ies;ml;1
+prm24;unde bryo;ml;1

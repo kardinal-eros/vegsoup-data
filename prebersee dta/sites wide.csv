@@ -1,0 +1,27 @@
+plot;date;cov;tcov;scov;hcov;mcov;rocks;bare;stones;litter;aspect;slope;conductivity;ph;watertable;wellheight;student.group;latitude;longitude;accuracy;altitude;location;observer
+prf10;2013-06-12;100;0;5;85;40;0;0;0;0;;;NA;NA;NA;NA;Group 0;47,1895611747;13,8650878729;1;1589,92;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prf11;2013-06-12;100;0;20;30;60;0;0;0;5;;;24;6,1;48;50;Group 4;47,1896608038;13,865469133;1;1590,07;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm01;2013-06-12;90;0;5;65;80;0;10;0;5;;;NA;NA;NA;NA;Group 4;47,1896781275;13,8656239646;1;1588,14;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm02;2013-06-12;100;0;0;95;80;0;0;0;0;;;35;5,7;38;37;Group 4;47,1896726317;13,8658113924;1;1588,6;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm03;2013-06-12;100;0;0;75;95;0;0;0;0;;;37;5,2;41;43;Group 0;47,1895573082;13,8652754592;1;1589,39;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm04;2013-06-10;95;0;0;70;85;0;5;0;0;;;NA;NA;NA;NA;Group 2;47,1895497357;13,8654588378;1;1589,33;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm05;2013-06-12;95;0;0;60;70;0;5;0;0;;;74;5,5;49;48;Group 4;47,1895544347;13,8656306916;1;1586,48;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm06;2013-06-12;100;0;0;95;15;0;0;0;0;;;NA;NA;NA;NA;Group 4;47,1895519313;13,8658056971;1;1586,65;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm07;2013-06-10;95;0;0;80;95;0;5;0;0;;;42;6,4;46;46;Group 6;47,1894356706;13,8650947732;1;1586,88;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm08;2013-06-10;95;0;0;85;95;0;5;0;0;;;NA;NA;NA;NA;Group 2;47,1894355044;13,865270848;1;1587,19;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm09;2013-06-10;95;0;0;60;80;0;5;0;0;;;54;6,4;46;49;Group 2;47,1894401548;13,8654597999;1;1585,82;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm10;2013-06-10;95;0;20;75;85;0;5;0;0;;;NA;NA;NA;NA;Group 6;47,189434732;13,8656301047;1;1584,81;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm11;2013-06-10;90;0;0;80;30;0;10;0;0;;;60;6;65;38;Group 6;47,1894321917;13,8658120468;1;1584,4;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm12;2013-06-10;95;0;0;90;40;0;5;0;0;;;NA;NA;NA;NA;Group 6;47,1893132917;13,8651057704;1;1585,55;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm13;2013-06-10;90;0;0;85;80;0;10;0;0;;;82;6,3;46;51;Group 2;47,1893103755;13,8652658684;1;1584,43;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm14;2013-06-10;85;0;0;65;50;0;15;0;0;;;NA;NA;NA;NA;Group 2;47,1893037989;13,865458545;1;1583,32;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm15;2013-06-10;95;0;0;90;5;0;5;0;0;;;43;6,1;43;45;Group 6;47,1893084067;13,8656382578;1;1582,71;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm16;2013-06-13;95;0;0;95;15;0;5;0;0;;;NA;NA;NA;NA;Group 4;47,1893086756;13,8658071512;1;1582,89;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm17;2013-06-10;100;0;0;25;75;0;0;0;0;;;70;5,6;51;52;Group 6;47,189187827;13,8651074534;1;1583,45;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm18;2013-06-10;90;0;0;85;50;0;10;0;0;;;NA;NA;NA;NA;Group 2;47,1891835286;13,8652723158;1;1583,47;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm19;2013-06-10;90;0;0;65;65;0;5;0;0;;;66;6,4;46;46;Group 2;47,1891812886;13,8654451917;1;1582,12;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm20;2013-06-12;90;0;0;85;20;0;10;0;0;;;NA;NA;NA;NA;Group 4;47,1891826923;13,8656336194;1;1581,13;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm21;2013-06-12;95;0;0;90;10;0;5;0;0;;;NA;NA;NA;NA;Group 0;47,1890930163;13,8651074548;1;1583,08;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm22;2013-06-12;95;0;0;90;30;0;10;0;0;;;38;5,7;58;30;Group 0;47,1890696144;13,8652458355;1;1582,72;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm23;2013-06-10;95;0;0;90;30;0;5;0;0;;;NA;NA;NA;NA;Group 2;47,189078321;13,8654365111;1;1582,97;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
+prm24;2013-06-12;85;0;0;85;5;0;15;0;0;;;42;5,8;60;48;Group 4;47,1890834562;13,8656286599;1;1579,85;NE Prebersee N Gallihütte;R. Kaiser & F. Stross
