@@ -1,0 +1,2172 @@
+plot,abbr,layer,cov,height,comment
+1047151,agro stol,hl,+,0,
+1047151,care hirt,hl,+,0,
+1047151,cirs arve,hl,+,0,
+1047151,cirs palu,hl,1a,0,
+1047151,desc cesp,hl,1a,0,
+1047151,epil cili cili,hl,1a,0,
+1047151,epil palu,hl,+,0,
+1047151,equi palu,hl,1a,50,
+1047151,eupa cann,hl,1a,0,
+1047151,holc lana,hl,+,0,
+1047151,junc effu,hl,3,70,
+1047151,lyco euro euro,hl,1a,30,
+1047151,pers hydr,hl,1a,0,
+1047151,phra aust,hl,2b,160,
+1047151,rubu sect rubu,hl,1a,0,
+1047151,sali alba,hl,1a,0,
+1047151,sali cine plus auri,hl,+,0,
+1047151,soli giga,hl,+,70,
+1047151,tuss farf,hl,+,0,
+1047151,urti dioi dioi,hl,+,0,
+1047151,bryu pseu pseu,ml,1a,0,
+1047151,bryu weig,ml,+,0,few individuals (r)
+1047151,sali alba,sl,+,0,
+1047151,sali cine,sl,1b,0,
+1047152,alop aequ,hl,+,0,few individuals (r)
+1047152,betu pend plus pube,hl,+,0,
+1047152,bide cern,hl,+,0,
+1047152,cype flav,hl,+,0,
+1047152,desc cesp,hl,+,0,few individuals (r)
+1047152,epil cili cili,hl,1a,0,
+1047152,epil palu,hl,+,0,
+1047152,leer oryz,hl,2b,50,
+1047152,pers hydr,hl,2b,0,
+1047152,phra aust,hl,4,120,
+1047152,sali alba,hl,+,0,
+1047152,sali purp,hl,+,0,
+1047152,soli giga,hl,+,25,few individuals (r)
+1047152,tuss farf,hl,1a,0,
+1047152,typh lati,hl,+,0,few individuals (r)
+1047152,bryu arge,ml,+,0,
+1047152,bryu pseu pseu,ml,1a,0,
+1047152,call cusp,ml,+,0,
+1047152,marc poly slat,ml,+,0,
+1047153,dros rotu,hl,+,0,
+1047153,junc arti,hl,+,0,few individuals (r)
+1047153,junc effu,hl,+,60,
+1047153,junc tenu,hl,+,0,few individuals (r)
+1047153,leer oryz,hl,+,10,few individuals (r)
+1047153,phra aust,hl,1a,50,
+1047153,sali alba,hl,+,0,
+1047153,tara sect rude,hl,+,0,few individuals (r)
+1047153,tuss farf,hl,1a,0,
+1047153,verb thap,hl,+,0,
+1047153,camp flex,ml,+,0,
+1047153,poly form,ml,1a,0,
+1047154,betu pend plus pube,hl,+,0,few individuals (r)
+1047154,cala epig,hl,+,5,few individuals (r)
+1047154,dros rotu,hl,+,0,few individuals (r)
+1047154,leer oryz,hl,+,10,few individuals (r)
+1047154,moli caer,hl,+,0,few individuals (r)
+1047154,sali cine plus auri,hl,+,0,few individuals (r)
+1047154,verb thap,hl,+,0,few individuals (r)
+1047155,betu pend plus pube,hl,1b,0,
+1047155,bide cern,hl,+,0,few individuals (r)
+1047155,dros rotu,hl,1b,0,
+1047155,eleo mami aust,hl,1a,25,
+1047155,junc arti,hl,+,0,
+1047155,phra aust,hl,3,130,
+1047155,sali cine plus auri,hl,+,0,few individuals (r)
+1047155,call cusp,ml,+,0,
+1047155,poly form,ml,1a,0,
+1047156,phra aust,hl,+,40,few individuals (r)
+1047157,cala epig,hl,+,5,few individuals (r)
+1047157,epil cili cili,hl,+,0,
+1047157,junc tenu,hl,+,0,few individuals (r)
+1047157,phra aust,hl,+,5,few individuals (r)
+1047157,pinu sylv,hl,+,0,few individuals (r)
+1047157,plan majo majo,hl,+,0,few individuals (r)
+1047158,betu pend plus pube,hl,2a,0,
+1047158,cala epig,hl,+,40,
+1047158,cirs arve,hl,+,0,
+1047158,epil cili cili,hl,+,0,
+1047158,eupa cann,hl,+,0,few individuals (r)
+1047158,junc arti,hl,+,0,
+1047158,junc effu,hl,1b,60,
+1047158,lyco euro euro,hl,+,5,few individuals (r)
+1047158,pinu sylv,hl,+,0,few individuals (r)
+1047158,sali cine plus auri,hl,+,0,few individuals (r)
+1047158,sonc arve arve,hl,+,0,few individuals (r)
+1047158,tuss farf,hl,+,0,
+1047158,bryu arge,ml,+,0,
+1047159,epil cili cili,hl,+,0,few individuals (r)
+1047159,junc arti,hl,+,0,
+1047159,junc effu,hl,1a,50,
+1047159,phra aust,hl,1b,60,
+1047159,sali myrs,hl,+,0,few individuals (r)
+1047159,tuss farf,hl,+,0,
+1047159,bryu arge,ml,+,0,few individuals (r)
+1047160,cala epig,hl,+,20,few individuals (r)
+1047160,phra aust,hl,+,15,few individuals (r)
+1047160,sali myrs,hl,+,0,few individuals (r)
+1047161,junc arti,hl,+,0,few individuals (r)
+1047161,leer oryz,hl,+,20,few individuals (r)
+1047161,phra aust,hl,1a,50,
+1047161,tara sect rude,hl,+,0,few individuals (r)
+1047162,bide cern,hl,+,0,
+1047162,dros rotu,hl,+,0,few individuals (r)
+1047162,epil cili cili,hl,+,0,few individuals (r)
+1047162,junc arti,hl,+,0,few individuals (r)
+1047162,leer oryz,hl,1b,20,
+1047162,phra aust,hl,1a,40,
+1047162,sali myrs,hl,+,0,few individuals (r)
+1047162,tuss farf,hl,+,0,
+1047163,cala epig,hl,+,25,
+1047163,junc arti,hl,+,0,few individuals (r)
+1047163,phra aust,hl,1b,50,
+1047163,sali myrs,hl,+,0,few individuals (r)
+1047164,betu pend plus pube,hl,+,0,few individuals (r)
+1047164,phra aust,hl,+,20,
+1047165,pinu sylv,hl,+,0,few individuals (r)
+1047166,pinu sylv,hl,+,0,few individuals (r)
+1048151,betu pend plus pube,hl,+,0,
+1048151,cala epig,hl,+,70,
+1048151,care pseu,hl,+,80,
+1048151,cirs palu,hl,+,0,
+1048151,desc cesp,hl,+,0,
+1048151,epil cili cili,hl,1a,0,
+1048151,epil parv,hl,+,0,
+1048151,equi palu,hl,+,50,
+1048151,impa parv,hl,+,0,
+1048151,junc effu,hl,+,70,
+1048151,junc tenu,hl,+,0,
+1048151,leer oryz,hl,+,35,
+1048151,lyco euro euro,hl,+,40,
+1048151,pers hydr,hl,2b,0,
+1048151,phle prat,hl,+,0,
+1048151,phra aust,hl,4,160,
+1048151,sali alba,hl,1a,0,
+1048151,sali purp,hl,+,0,
+1048151,tuss farf,hl,+,0,
+1048151,bryu pseu pseu,ml,1a,0,
+1048151,bryu weig,ml,+,0,
+1048151,call cusp,ml,+,0,
+1048151,marc poly slat,ml,+,0,
+1048152,betu pend plus pube,hl,1a,0,
+1048152,bide cern,hl,+,0,
+1048152,cala epig,hl,+,70,
+1048152,desc cesp,hl,+,0,
+1048152,epil cili cili,hl,1a,0,
+1048152,epil parv,hl,+,0,
+1048152,equi palu,hl,+,50,
+1048152,eupa cann,hl,1a,0,
+1048152,junc effu,hl,2b,80,
+1048152,leer oryz,hl,+,40,
+1048152,lyco euro euro,hl,+,45,
+1048152,pers hydr,hl,2b,0,
+1048152,phle prat,hl,+,0,
+1048152,phra aust,hl,4,120,
+1048152,sagi proc,hl,+,0,
+1048152,soli giga,hl,+,30,
+1048152,tuss farf,hl,+,0,
+1048152,typh lati,hl,+,0,few individuals (r)
+1048152,bryu pseu pseu,ml,+,0,
+1048152,call cusp,ml,+,0,
+1048152,camp stel,ml,+,0,
+1048153,cirs arve,hl,+,0,
+1048153,epil cili cili,hl,+,0,few individuals (r)
+1048153,verb thap,hl,+,0,few individuals (r)
+1048154,betu pend plus pube,hl,+,0,few individuals (r)
+1048154,cala epig,hl,+,5,few individuals (r)
+1048154,cirs arve,hl,+,0,few individuals (r)
+1048154,erig cana,hl,+,0,few individuals (r)
+1048154,leer oryz,hl,+,10,few individuals (r)
+1048154,soli giga,hl,+,5,few individuals (r)
+1048155,betu pend plus pube,hl,+,0,
+1048155,dros rotu,hl,+,0,
+1048155,eleo mami aust,hl,1a,20,
+1048155,junc arti,hl,+,0,few individuals (r)
+1048155,phra aust,hl,3,150,
+1048155,pinu sylv,hl,+,0,few individuals (r)
+1048155,sali cine plus auri,hl,+,0,few individuals (r)
+1048155,typh lati,hl,+,0,few individuals (r)
+1048155,poly form,ml,+,0,
+1048156,unde alga,ml,+,,plot bare of vegetation
+1048157,junc arti,hl,+,0,few individuals (r)
+1048157,junc effu,hl,+,30,few individuals (r)
+1048157,pinu sylv,hl,+,0,few individuals (r)
+1048158,betu pend plus pube,hl,+,0,
+1048158,cala epig,hl,+,50,
+1048158,epil cili cili,hl,+,0,few individuals (r)
+1048158,eupa cann,hl,+,0,few individuals (r)
+1048158,junc arti,hl,+,0,few individuals (r)
+1048158,junc effu,hl,+,50,
+1048158,lyco euro euro,hl,+,10,
+1048158,phra aust,hl,1b,80,
+1048158,sali alba,hl,+,0,few individuals (r)
+1048158,tuss farf,hl,+,0,
+1048158,bryu arge,ml,+,0,few individuals (r)
+1048159,betu pend plus pube,hl,1a,0,
+1048159,epil cili cili,hl,+,0,few individuals (r)
+1048159,junc arti,hl,+,0,few individuals (r)
+1048159,junc effu,hl,1a,45,
+1048159,phra aust,hl,2b,60,
+1048159,pinu sylv,hl,+,0,few individuals (r)
+1048159,sali myrs,hl,+,0,few individuals (r)
+1048159,tuss farf,hl,+,0,
+1048160,cala epig,hl,+,15,few individuals (r)
+1048160,junc effu,hl,+,35,few individuals (r)
+1048160,sali myrs,hl,+,0,few individuals (r)
+1048161,phra aust,hl,+,30,few individuals (r)
+1048161,sali myrs,hl,+,0,few individuals (r)
+1048162,bide cern,hl,+,0,few individuals (r)
+1048162,junc arti,hl,+,0,few individuals (r)
+1048162,leer oryz,hl,+,25,
+1048162,phra aust,hl,1a,70,
+1048162,soli giga,hl,+,5,few individuals (r)
+1048163,betu pend plus pube,hl,1a,0,
+1048163,cala epig,hl,+,10,few individuals (r)
+1048163,junc arti,hl,+,0,few individuals (r)
+1048163,junc effu,hl,+,10,few individuals (r)
+1048163,phra aust,hl,+,50,
+1048164,cala epig,hl,+,10,few individuals (r)
+1048164,epil cili cili,hl,+,0,few individuals (r)
+1048164,junc effu,hl,+,20,few individuals (r)
+1048164,phra aust,hl,+,50,
+1048164,soli giga,hl,+,20,few individuals (r)
+1048165,pinu sylv,hl,+,0,few individuals (r)
+1048166,betu pend plus pube,hl,+,0,few individuals (r)
+1048166,bide cern,hl,+,0,
+1048166,call vulg,hl,+,0,few individuals (r)
+1048166,pinu sylv,hl,+,0,few individuals (r)
+1081164,betu pend plus pube,hl,1a,0,
+1081164,cala epig,hl,1a,35,
+1081164,cirs palu,hl,+,0,few individuals (r)
+1081164,dros inte,hl,+,0,few individuals (r)
+1081164,equi palu,hl,1b,30,
+1081164,junc arti,hl,+,0,few individuals (r)
+1081164,junc effu,hl,1a,0,
+1081164,phra aust,hl,2a,100,
+1081164,popu trem,hl,+,0,few individuals (r)
+1081164,sali cine plus auri,hl,1a,0,
+1081164,sali purp,hl,+,0,
+1081164,soli giga,hl,+,70,few individuals (r)
+1081164,cera purp,ml,1a,0,
+1081165,agro stol,hl,1a,0,
+1081165,betu pend plus pube,hl,1b,0,
+1081165,cala epig,hl,1a,35,
+1081165,care pseu,hl,1a,0,
+1081165,epil cili cili,hl,+,0,few individuals (r)
+1081165,equi palu,hl,2a,30,
+1081165,holc lana,hl,+,0,few individuals (r)
+1081165,junc effu,hl,1a,0,
+1081165,leer oryz,hl,+,0,
+1081165,lyco euro euro,hl,2a,0,
+1081165,phra aust,hl,1b,50,
+1081165,plan lanc,hl,+,0,few individuals (r)
+1081165,popu trem,hl,+,0,
+1081165,pote norv,hl,1a,0,
+1081165,rori sylv,hl,+,0,
+1081165,sali cine plus auri,hl,1b,0,
+1081165,sali purp,hl,1a,0,
+1081165,soli giga,hl,1a,60,
+1081165,cera purp,ml,1a,0,
+1082164,agro stol,hl,+,0,few individuals (r)
+1082164,betu pend plus pube,hl,+,0,
+1082164,care pseu,hl,+,0,few individuals (r)
+1082164,cirs palu,hl,+,0,few individuals (r)
+1082164,dros inte,hl,+,0,few individuals (r)
+1082164,equi palu,hl,1a,30,
+1082164,eupa cann,hl,1a,0,
+1082164,lyco euro euro,hl,+,0,
+1082164,phra aust,hl,1a,80,
+1082164,popu trem,hl,+,0,few individuals (r)
+1082164,pote norv,hl,1a,0,
+1082164,rori sylv,hl,+,0,
+1082164,sali alba,hl,+,0,
+1082164,sali cine plus auri,hl,1a,0,
+1082164,soli giga,hl,1a,80,
+1082164,tuss farf,hl,+,0,few individuals (r)
+1082164,cera purp,ml,1a,0,
+1082165,agro stol,hl,+,0,
+1082165,betu pend plus pube,hl,1a,0,
+1082165,cala epig,hl,1a,25,
+1082165,desc cesp,hl,+,0,few individuals (r)
+1082165,equi palu,hl,1a,20,
+1082165,eupa cann,hl,+,0,few individuals (r)
+1082165,junc arti,hl,1a,0,
+1082165,lyco euro euro,hl,1a,0,
+1082165,phra aust,hl,1a,90,
+1082165,rori sylv,hl,+,0,few individuals (r)
+1082165,sali cine plus auri,hl,1a,0,
+1082165,sali purp,hl,+,0,
+1082165,soli giga,hl,1a,80,
+1082165,cera purp,ml,1a,0,
+1083165,alis plan,hl,+,0,few individuals (r)
+1083165,betu pend plus pube,hl,+,0,few individuals (r)
+1083165,cala epig,hl,+,20,few individuals (r)
+1083165,care cane cane,hl,+,0,few individuals (r)
+1083165,care pseu,hl,+,0,
+1083165,eleo mami aust,hl,+,0,
+1083165,epil cili cili,hl,+,0,few individuals (r)
+1083165,junc arti,hl,1a,0,
+1083165,junc bufo,hl,1a,0,
+1083165,junc effu,hl,+,0,
+1083165,leer oryz,hl,+,0,
+1083165,lyco euro euro,hl,1b,0,
+1083165,phra aust,hl,2b,50,
+1083165,popu trem,hl,+,0,few individuals (r)
+1083165,pote norv,hl,+,0,few individuals (r)
+1083165,sali cine plus auri,hl,1a,0,
+1083165,cera purp,ml,+,0,few individuals (r)
+1083166,alis plan,hl,+,0,few individuals (r)
+1083166,bide cern,hl,+,0,few individuals (r)
+1083166,care pseu,hl,+,0,few individuals (r)
+1083166,eleo mami aust,hl,1a,0,
+1083166,junc arti,hl,+,0,
+1083166,leer oryz,hl,1a,0,
+1083166,lyco euro euro,hl,+,0,few individuals (r)
+1083166,phra aust,hl,+,60,
+1083166,cera purp,ml,+,0,few individuals (r)
+1084165,agro stol,hl,+,0,few individuals (r)
+1084165,betu pend plus pube,hl,+,0,
+1084165,bide cern,hl,+,0,few individuals (r)
+1084165,cala epig,hl,1a,40,
+1084165,care pseu,hl,1a,0,
+1084165,eleo mami aust,hl,+,0,few individuals (r)
+1084165,epil cili cili,hl,+,0,few individuals (r)
+1084165,eupa cann,hl,+,0,
+1084165,gnap ulig,hl,+,0,few individuals (r)
+1084165,junc arti,hl,+,0,
+1084165,junc effu,hl,1a,0,
+1084165,leer oryz,hl,1a,0,
+1084165,lyco euro euro,hl,1b,0,
+1084165,phra aust,hl,2b,70,
+1084165,popu trem,hl,+,0,few individuals (r)
+1084165,pote norv,hl,+,0,few individuals (r)
+1084165,sagi proc,hl,+,0,few individuals (r)
+1084165,sali cine plus auri,hl,+,0,
+1084165,sali purp,hl,+,0,few individuals (r)
+1084165,bryu arge,ml,+,0,few individuals (r)
+1084165,cera purp,ml,+,0,
+1084166,care pseu,hl,1a,0,
+1084166,eleo mami aust,hl,1a,0,
+1084166,epil cili cili,hl,+,0,few individuals (r)
+1084166,junc arti,hl,+,0,few individuals (r)
+1084166,junc bufo,hl,+,0,few individuals (r)
+1084166,leer oryz,hl,+,0,
+1084166,lyco euro euro,hl,+,0,
+1084166,phra aust,hl,2b,70,
+1084166,pote norv,hl,+,0,few individuals (r)
+1084166,sali purp,hl,+,0,few individuals (r)
+1084166,cera purp,ml,+,0,few individuals (r)
+1085163,betu pend plus pube,hl,+,0,
+1085163,equi palu,hl,+,15,
+1085163,junc arti,hl,+,0,few individuals (r)
+1085163,junc effu,hl,1a,0,
+1085163,moli caer,hl,+,0,few individuals (r)
+1085163,phra aust,hl,1a,60,
+1085163,popu trem,hl,+,0,few individuals (r)
+1085163,sali cine plus auri,hl,+,0,few individuals (r)
+1085163,soli giga,hl,+,15,few individuals (r)
+1085163,thym pule pule,hl,1a,0,
+1085163,camp intr,ml,+,0,few individuals (r)
+1085164,cala epig,hl,+,35,few individuals (r)
+1085164,desc cesp,hl,+,0,few individuals (r)
+1085164,equi palu,hl,+,15,few individuals (r)
+1085164,junc arti,hl,+,0,
+1085164,junc effu,hl,+,0,few individuals (r)
+1085164,phra aust,hl,2a,50,
+1085164,soli giga,hl,+,35,few individuals (r)
+1085164,thym pule pule,hl,+,0,few individuals (r)
+1085164,camp intr,ml,+,0,few individuals (r)
+1085164,cera purp,ml,+,0,few individuals (r)
+1085166,betu pend plus pube,hl,+,0,
+1085166,cala epig,hl,+,45,few individuals (r)
+1085166,equi palu,hl,+,40,
+1085166,junc effu,hl,+,0,
+1085166,pers hydr,hl,+,0,few individuals (r)
+1085166,phra aust,hl,3,110,
+1085166,popu trem,hl,+,0,few individuals (r)
+1085166,sali alba,hl,+,0,few individuals (r)
+1085166,sali cine plus auri,hl,+,0,
+1085166,sali purp,hl,+,0,few individuals (r)
+1085166,soli giga,hl,+,70,
+1085166,bryu arge,ml,+,0,few individuals (r)
+1085166,cera purp,ml,+,0,
+1085167,betu pend plus pube,hl,1a,0,
+1085167,cala epig,hl,+,50,few individuals (r)
+1085167,care pseu,hl,+,0,
+1085167,desc cesp,hl,+,0,few individuals (r)
+1085167,eleo mami aust,hl,+,0,few individuals (r)
+1085167,junc arti,hl,1a,0,
+1085167,junc effu,hl,+,0,few individuals (r)
+1085167,leer oryz,hl,+,0,few individuals (r)
+1085167,pers hydr,hl,+,0,
+1085167,phra aust,hl,2a,120,
+1085167,sali cine plus auri,hl,+,0,few individuals (r)
+1085167,sali purp,hl,+,0,few individuals (r)
+1085167,cera purp,ml,1a,0,
+1086163,betu pend plus pube,hl,+,0,few individuals (r)
+1086163,cala epig,hl,+,45,few individuals (r)
+1086163,equi palu,hl,+,15,
+1086163,eupa cann,hl,+,0,few individuals (r)
+1086163,junc effu,hl,+,0,few individuals (r)
+1086163,phra aust,hl,1a,70,
+1086163,popu trem,hl,+,0,few individuals (r)
+1086163,rubu sect rubu,hl,+,0,few individuals (r)
+1086163,sali cine plus auri,hl,+,0,few individuals (r)
+1086163,sali purp,hl,+,0,few individuals (r)
+1086163,soli giga,hl,+,60,few individuals (r)
+1086163,camp intr,ml,+,0,few individuals (r)
+1086163,cera purp,ml,+,0,few individuals (r)
+1086164,betu pend plus pube,hl,+,0,few individuals (r)
+1086164,cala epig,hl,1b,50,
+1086164,desc cesp,hl,+,0,few individuals (r)
+1086164,epil cili cili,hl,+,0,few individuals (r)
+1086164,equi palu,hl,+,15,
+1086164,junc arti,hl,+,0,few individuals (r)
+1086164,junc tenu,hl,+,0,few individuals (r)
+1086164,lyco euro euro,hl,1a,0,
+1086164,phra aust,hl,2a,80,
+1086164,popu trem,hl,+,0,few individuals (r)
+1086164,soli giga,hl,1b,0,
+1086164,camp intr,ml,+,0,few individuals (r)
+1086164,cera purp,ml,+,0,
+1086166,betu pend plus pube,hl,+,0,few individuals (r)
+1086166,cala epig,hl,+,60,
+1086166,care pseu,hl,+,0,few individuals (r)
+1086166,epil parv,hl,+,0,few individuals (r)
+1086166,equi palu,hl,1b,40,
+1086166,lyco euro euro,hl,+,0,few individuals (r)
+1086166,phra aust,hl,1a,110,
+1086166,sali cine plus auri,hl,+,0,few individuals (r)
+1086166,sali purp,hl,+,0,few individuals (r)
+1086166,scro nodo,hl,+,0,few individuals (r)
+1086166,tuss farf,hl,+,0,few individuals (r)
+1086166,call cusp,ml,+,0,
+1086166,cera purp,ml,+,0,few individuals (r)
+1086167,betu pend plus pube,hl,+,0,
+1086167,cala epig,hl,1b,65,
+1086167,equi palu,hl,1b,40,
+1086167,junc effu,hl,+,0,
+1086167,junc tenu,hl,1a,0,
+1086167,lyco euro euro,hl,1b,0,
+1086167,pers hydr,hl,+,0,few individuals (r)
+1086167,phra aust,hl,3,110,
+1086167,plan majo majo,hl,+,0,few individuals (r)
+1086167,rori sylv,hl,+,0,few individuals (r)
+1086167,sali cine plus auri,hl,+,0,few individuals (r)
+1086167,sali purp,hl,+,0,few individuals (r)
+1086167,soli giga,hl,+,90,
+1087164,agro stol,hl,+,0,few individuals (r)
+1087164,cala epig,hl,+,30,few individuals (r)
+1087164,equi palu,hl,+,30,few individuals (r)
+1087164,junc arti,hl,+,0,few individuals (r)
+1087164,junc effu,hl,+,0,few individuals (r)
+1087164,lyco euro euro,hl,+,0,few individuals (r)
+1087164,sali myrs,hl,+,0,few individuals (r)
+1087164,soli giga,hl,+,0,few individuals (r)
+1087165,equi palu,hl,2a,30,
+1087165,junc arti,hl,+,0,few individuals (r)
+1087165,lepi camp,hl,+,0,few individuals (r)
+1087165,lyco euro euro,hl,+,0,few individuals (r)
+1087165,pers miti,hl,+,0,few individuals (r)
+1087165,phra aust,hl,+,20,few individuals (r)
+1087165,sali cine plus auri,hl,+,0,few individuals (r)
+1087165,soli giga,hl,+,15,few individuals (r)
+1087165,bryu arge,ml,+,0,few individuals (r)
+1087165,cera purp,ml,+,0,few individuals (r)
+1087167,cala epig,hl,3,120,
+1087167,cirs arve,hl,1a,0,
+1087167,equi palu,hl,+,50,
+1087167,junc effu,hl,+,0,few individuals (r)
+1087167,lyco euro euro,hl,+,0,
+1087167,phal arun,hl,1a,0,
+1087167,phra aust,hl,+,110,
+1087167,pote norv,hl,+,0,few individuals (r)
+1087167,soli giga,hl,4,100,
+1087167,tuss farf,hl,2b,0,
+1087168,alis plan,hl,+,0,
+1087168,bide cern,hl,1a,0,
+1087168,care pseu,hl,+,0,few individuals (r)
+1087168,cirs arve,hl,+,0,few individuals (r)
+1087168,epil cili cili,hl,+,0,few individuals (r)
+1087168,equi palu,hl,+,35,
+1087168,gali albu,hl,+,0,
+1087168,leer oryz,hl,3,0,
+1087168,lyco euro euro,hl,1a,0,
+1087168,pers miti,hl,+,0,
+1087168,phal arun,hl,+,0,
+1087168,phra aust,hl,1b,90,
+1087168,plan majo majo,hl,+,0,few individuals (r)
+1087168,pote norv,hl,1a,0,
+1087168,tuss farf,hl,1a,0,
+1088164,cera holo,hl,+,0,few individuals (r)
+1088164,dros rotu,hl,+,0,few individuals (r)
+1088164,equi palu,hl,+,25,few individuals (r)
+1088164,junc arti,hl,+,0,few individuals (r)
+1088164,junc effu,hl,+,0,few individuals (r)
+1088164,junc tenu,hl,+,0,few individuals (r)
+1088164,lyco euro euro,hl,+,0,few individuals (r)
+1088164,phra aust,hl,+,45,few individuals (r)
+1088164,soli giga,hl,+,15,few individuals (r)
+1088165,arab hirs,hl,+,0,few individuals (r)
+1088165,epil cili cili,hl,+,0,few individuals (r)
+1088165,equi palu,hl,3,40,
+1088165,junc arti,hl,+,0,few individuals (r)
+1088165,junc tenu,hl,+,0,few individuals (r)
+1088165,lyco euro euro,hl,+,0,few individuals (r)
+1088165,pers miti,hl,+,0,few individuals (r)
+1088165,phra aust,hl,1a,50,
+1088165,soli giga,hl,+,40,few individuals (r)
+1088165,tuss farf,hl,+,0,few individuals (r)
+1088165,bryu arge,ml,+,0,few individuals (r)
+1088167,cala epig,hl,1b,100,
+1088167,cirs arve,hl,1a,0,
+1088167,epil parv,hl,+,0,few individuals (r)
+1088167,equi palu,hl,1b,40,
+1088167,lyco euro euro,hl,+,0,few individuals (r)
+1088167,ment aqua,hl,+,0,few individuals (r)
+1088167,phra aust,hl,1a,150,
+1088167,soli giga,hl,2a,120,
+1088167,tuss farf,hl,3,0,
+1088168,alis plan,hl,1b,0,
+1088168,cala epig,hl,+,80,
+1088168,call palu aggr,hl,2b,0,
+1088168,eleo mami aust,hl,+,0,few individuals (r)
+1088168,epil parv,hl,+,0,few individuals (r)
+1088168,equi palu,hl,1a,70,
+1088168,gali palu palu,hl,+,0,few individuals (r)
+1088168,hype tetr,hl,+,0,few individuals (r)
+1088168,junc bufo,hl,+,0,few individuals (r)
+1088168,leer oryz,hl,1a,0,
+1088168,lyco euro euro,hl,+,0,
+1088168,pers miti,hl,+,0,few individuals (r)
+1088168,phra aust,hl,2b,180,
+1088168,pota berc,hl,+,0,
+1088168,pote norv,hl,+,0,few individuals (r)
+1088168,tuss farf,hl,+,0,
+1089165,cala epig,hl,1b,130,
+1089165,cirs palu,hl,+,0,
+1089165,equi palu,hl,4,60,
+1089165,eupa cann,hl,+,0,
+1089165,hype perf,hl,+,0,few individuals (r)
+1089165,junc effu,hl,1a,0,
+1089165,luzu mult,hl,+,0,few individuals (r)
+1089165,phra aust,hl,2b,130,
+1089165,sali cine plus auri,hl,1a,0,
+1089165,scir sylv,hl,2a,0,
+1089165,soli giga,hl,3,120,
+1089165,tuss farf,hl,1b,0,
+1089165,call cusp,ml,1b,0,
+1089165,cera purp,ml,1a,0,
+1089166,cala epig,hl,1b,150,
+1089166,care pseu,hl,+,0,
+1089166,cirs arve,hl,+,0,few individuals (r)
+1089166,desc cesp,hl,2b,0,
+1089166,equi palu,hl,2b,60,
+1089166,eupa cann,hl,1a,0,
+1089166,holc lana,hl,+,0,
+1089166,hype perf,hl,1a,0,
+1089166,junc effu,hl,1a,0,
+1089166,lyco euro euro,hl,+,0,
+1089166,phra aust,hl,3,160,
+1089166,sali alba,hl,1a,0,
+1089166,sali cine plus auri,hl,+,0,
+1089166,soli giga,hl,4,140,
+1089166,call cusp,ml,+,0,
+1090165,cala epig,hl,2a,70,
+1090165,cirs arve,hl,+,0,
+1090165,cirs palu,hl,+,0,few individuals (r)
+1090165,epil cili cili,hl,+,0,
+1090165,equi palu,hl,3,60,
+1090165,eupa cann,hl,1b,0,
+1090165,gale spec iosa,hl,+,0,few individuals (r)
+1090165,hype perf,hl,+,0,
+1090165,junc effu,hl,1a,0,
+1090165,lepi camp,hl,+,0,few individuals (r)
+1090165,phra aust,hl,2b,160,
+1090165,pote norv,hl,+,0,
+1090165,rubu idae,hl,+,0,few individuals (r)
+1090165,sali cine plus auri,hl,1a,0,
+1090165,sali purp,hl,+,0,few individuals (r)
+1090165,soli giga,hl,3,130,
+1090165,tuss farf,hl,2b,0,
+1090166,cala epig,hl,2b,140,
+1090166,cirs arve,hl,1a,0,
+1090166,desc cesp,hl,2a,0,
+1090166,eupa cann,hl,+,0,
+1090166,gali albu,hl,2b,0,
+1090166,hype perf,hl,+,0,few individuals (r)
+1090166,junc effu,hl,1a,0,
+1090166,lepi camp,hl,+,0,few individuals (r)
+1090166,phra aust,hl,2a,150,
+1090166,sali alba,hl,+,0,few individuals (r)
+1090166,sali cine plus auri,hl,+,0,few individuals (r)
+1090166,soli giga,hl,3,120,
+1090166,tuss farf,hl,2b,0,
+1090166,marc poly slat,ml,+,0,
+1107106,cala epig,hl,+,25,
+1107106,pers hydr,hl,+,0,few individuals (r)
+1107106,soli giga,hl,+,5,few individuals (r)
+1107107,unde alga,ml,+,,plot bare of vegetation
+1108106,alnu glut,hl,+,0,few individuals (r)
+1108106,cala epig,hl,+,10,few individuals (r)
+1108106,pinu sylv,hl,+,0,few individuals (r)
+1108107,alnu glut,hl,+,0,few individuals (r)
+1108107,cala epig,hl,+,5,few individuals (r)
+1108107,soli giga,hl,+,25,few individuals (r)
+1109105,cala epig,hl,+,15,few individuals (r)
+1109105,moli caer,hl,+,0,few individuals (r)
+1109106,cala epig,hl,+,15,few individuals (r)
+1110105,cala epig,hl,+,25,few individuals (r)
+1110105,cirs palu,hl,+,0,few individuals (r)
+1110105,phra aust,hl,+,20,few individuals (r)
+1110106,cala epig,hl,+,20,few individuals (r)
+1110106,junc tenu,hl,+,0,few individuals (r)
+1110106,sagi proc,hl,+,0,few individuals (r)
+1111104,aren serp,hl,+,0,few individuals (r)
+1111104,betu pend plus pube,hl,+,0,few individuals (r)
+1111104,cera holo,hl,+,0,few individuals (r)
+1111104,cirs arve,hl,2a,0,
+1111104,desc cesp,hl,2b,0,
+1111104,junc tenu,hl,+,0,
+1111104,leer oryz,hl,+,10,few individuals (r)
+1111104,lepi camp,hl,+,0,few individuals (r)
+1111104,pers hydr,hl,+,0,few individuals (r)
+1111104,phra aust,hl,4,130,
+1111104,poly avic slat,hl,+,0,few individuals (r)
+1111104,sper rubr,hl,+,0,few individuals (r)
+1111104,bryu arge,ml,+,0,
+1111105,alnu glut,hl,+,0,few individuals (r)
+1111105,cera holo,hl,+,0,few individuals (r)
+1111105,cirs arve,hl,1a,0,
+1111105,desc cesp,hl,1b,0,
+1111105,eupa cann,hl,1a,0,
+1111105,junc tenu,hl,+,0,
+1111105,phra aust,hl,5,140,
+1111105,pinu sylv,hl,+,0,few individuals (r)
+1111105,sagi proc,hl,+,0,
+1111105,soli giga,hl,+,120,
+1111105,sper rubr,hl,+,0,
+1111105,bryu arge,ml,+,0,few individuals (r)
+1111105,cera purp,ml,2b,0,
+1112104,betu pend plus pube,hl,+,0,few individuals (r)
+1112104,cala epig,hl,2a,70,
+1112104,care pseu,hl,+,20,few individuals (r)
+1112104,cera holo,hl,+,0,few individuals (r)
+1112104,cirs arve,hl,1a,0,
+1112104,desc cesp,hl,+,0,
+1112104,erig cana,hl,+,0,few individuals (r)
+1112104,junc arti,hl,+,0,
+1112104,junc effu,hl,+,35,few individuals (r)
+1112104,pers hydr,hl,+,0,few individuals (r)
+1112104,phra aust,hl,3,100,
+1112104,sagi proc,hl,+,0,few individuals (r)
+1112104,sali cine plus auri,hl,+,0,few individuals (r)
+1112104,soli giga,hl,1b,110,
+1112104,sonc arve arve,hl,+,0,few individuals (r)
+1112104,sper rubr,hl,+,0,few individuals (r)
+1112104,tuss farf,hl,1b,0,
+1112104,barb ungu,ml,1a,0,
+1112104,bryu arge,ml,+,0,
+1112104,cera purp,ml,+,0,
+1112104,dicr vari,ml,1a,0,
+1112105,alnu glut,hl,1a,0,
+1112105,cera holo,hl,+,0,few individuals (r)
+1112105,cirs arve,hl,1a,0,
+1112105,desc cesp,hl,1a,0,
+1112105,equi palu,hl,+,20,few individuals (r)
+1112105,phra aust,hl,5,110,
+1112105,plan majo majo,hl,+,0,few individuals (r)
+1112105,poly avic slat,hl,+,0,few individuals (r)
+1112105,sagi proc,hl,+,0,
+1112105,soli giga,hl,1a,90,
+1112105,sper rubr,hl,+,0,
+1112105,tara sect rude,hl,+,0,
+1112105,bryu arge,ml,1a,0,
+1112105,cera purp,ml,1a,0,
+1113103,betu pend plus pube,hl,+,0,few individuals (r)
+1113103,cala epig,hl,+,20,few individuals (r)
+1113103,junc arti,hl,+,0,few individuals (r)
+1113103,phra aust,hl,+,25,few individuals (r)
+1113103,sagi proc,hl,+,0,few individuals (r)
+1113104,alnu glut,hl,+,0,few individuals (r)
+1113104,cala epig,hl,+,15,few individuals (r)
+1113104,epil parv,hl,+,0,few individuals (r)
+1113104,hypo radi,hl,+,0,few individuals (r)
+1113104,junc arti,hl,+,0,few individuals (r)
+1113104,junc effu,hl,1a,50,
+1113104,lepi camp,hl,+,0,few individuals (r)
+1113104,pinu sylv,hl,+,0,few individuals (r)
+1113104,soli giga,hl,+,20,few individuals (r)
+1113104,tara sect rude,hl,+,0,few individuals (r)
+1113104,bryu arge,ml,+,0,few individuals (r)
+1114103,cala epig,hl,+,80,few individuals (r)
+1114104,phra aust,hl,+,20,few individuals (r)
+1114104,sali purp,hl,+,0,few individuals (r)
+1114104,bryu arge,ml,+,0,few individuals (r)
+1115102,cala epig,hl,+,5,few individuals (r)
+1115102,dros rotu,hl,+,0,few individuals (r)
+1115102,epil cili cili,hl,+,0,few individuals (r)
+1115102,junc arti,hl,+,0,few individuals (r)
+1115102,phra aust,hl,+,20,few individuals (r)
+1115102,soli giga,hl,+,20,few individuals (r)
+1115103,betu pend plus pube,hl,+,0,few individuals (r)
+1115103,bide cern,hl,+,0,few individuals (r)
+1115103,junc effu,hl,+,20,few individuals (r)
+1115103,leer oryz,hl,+,15,few individuals (r)
+1115103,phra aust,hl,1a,40,
+1115103,soli giga,hl,+,10,few individuals (r)
+1115103,tara sect rude,hl,+,0,few individuals (r)
+1116102,betu pend plus pube,hl,+,0,few individuals (r)
+1116102,cala epig,hl,+,20,few individuals (r)
+1116102,sper rubr,hl,+,0,few individuals (r)
+1116103,alnu glut,hl,+,0,few individuals (r)
+1117101,phra aust,hl,+,20,few individuals (r)
+1117101,sali purp,hl,+,0,few individuals (r)
+1117102,betu pend plus pube,hl,+,0,few individuals (r)
+1117102,care pseu,hl,+,15,few individuals (r)
+1118101,cala epig,hl,+,10,few individuals (r)
+1118101,pinu sylv,hl,+,0,few individuals (r)
+1118102,cala epig,hl,+,20,
+1118102,pinu sylv,hl,+,0,few individuals (r)
+1118102,sali cine plus auri,hl,+,0,few individuals (r)
+1119100,desc cesp,hl,1b,0,
+1119100,epil cili cili,hl,+,0,few individuals (r)
+1119100,holc lana,hl,+,0,
+1119100,hype perf,hl,+,0,
+1119100,hypo radi,hl,+,0,few individuals (r)
+1119100,lepi camp,hl,+,0,few individuals (r)
+1119100,pers hydr,hl,+,0,few individuals (r)
+1119100,phra aust,hl,1a,70,
+1119100,pote norv,hl,+,20,few individuals (r)
+1119100,sagi proc,hl,+,0,few individuals (r)
+1119100,soli giga,hl,4,80,
+1119100,vero arve,hl,+,0,few individuals (r)
+1119100,barb ungu,ml,1a,0,
+1119100,bryu arge,ml,+,0,
+1119100,call cusp,ml,+,0,
+1119100,cera purp,ml,1a,0,
+1119100,dicr vari,ml,1a,0,
+1119101,cala epig,hl,3,80,
+1119101,cirs arve,hl,1a,0,
+1119101,desc cesp,hl,1a,0,
+1119101,pers hydr,hl,1a,0,
+1119101,pers mino,hl,+,0,few individuals (r)
+1119101,phra aust,hl,4,130,
+1119101,soli giga,hl,2b,110,
+1119101,call cusp,ml,1a,0,
+1120100,cala epig,hl,1a,90,
+1120100,cirs arve,hl,1b,0,
+1120100,desc cesp,hl,1b,0,
+1120100,epil parv,hl,+,0,few individuals (r)
+1120100,equi palu,hl,+,40,few individuals (r)
+1120100,gali albu,hl,+,0,
+1120100,hype perf,hl,+,0,few individuals (r)
+1120100,hype tetr,hl,+,0,few individuals (r)
+1120100,junc arti,hl,+,0,few individuals (r)
+1120100,junc tenu,hl,+,0,few individuals (r)
+1120100,leer oryz,hl,1a,15,
+1120100,lepi camp,hl,+,0,few individuals (r)
+1120100,pers hydr,hl,+,0,
+1120100,pers mino,hl,+,0,few individuals (r)
+1120100,phra aust,hl,2b,110,
+1120100,pice abie,hl,+,0,few individuals (r)
+1120100,poly avic slat,hl,+,0,few individuals (r)
+1120100,sagi proc,hl,+,0,few individuals (r)
+1120100,soli giga,hl,3,120,
+1120100,brac rivu,ml,+,0,few individuals (r)
+1120100,brac ruta,ml,1a,0,
+1120100,bryu arge,ml,1a,0,
+1120100,cera purp,ml,1a,0,
+1120100,dicr vari,ml,+,0,
+1120101,cirs arve,hl,1a,0,
+1120101,cirs palu,hl,+,0,
+1120101,desc cesp,hl,1a,0,
+1120101,epil parv,hl,+,0,
+1120101,junc tenu,hl,+,0,
+1120101,pers hydr,hl,1a,0,
+1120101,pers mino,hl,+,0,
+1120101,phra aust,hl,2b,120,
+1120101,poa prat,hl,+,0,few individuals (r)
+1120101,poly avic slat,hl,+,0,
+1120101,sali capr,hl,+,0,few individuals (r)
+1120101,soli giga,hl,3,110,
+1120101,tuss farf,hl,+,0,
+1120101,bryu arge,ml,+,0,
+1120101,call cusp,ml,+,0,
+1120101,dicr vari,ml,+,0,
+1120153,cala epig,hl,+,10,few individuals (r)
+1120153,care pseu,hl,+,15,
+1120153,gali palu palu,hl,+,0,few individuals (r)
+1120153,lyco euro euro,hl,+,20,
+1120153,soli giga,hl,+,15,
+1120153,bryu arge,ml,+,0,few individuals (r)
+1120154,betu pend plus pube,hl,+,0,few individuals (r)
+1120154,cala epig,hl,+,20,
+1120154,care oede,hl,+,0,few individuals (r)
+1120154,equi palu,hl,+,15,few individuals (r)
+1120154,gali palu palu,hl,+,0,few individuals (r)
+1120154,lyco euro euro,hl,+,5,few individuals (r)
+1120154,bryu arge,ml,+,0,
+1121099,agro stol,hl,+,0,
+1121099,betu pend plus pube,hl,+,0,
+1121099,cala epig,hl,2b,0,
+1121099,cirs arve,hl,+,0,
+1121099,cirs palu,hl,+,0,few individuals (r)
+1121099,epil cili cili,hl,+,0,few individuals (r)
+1121099,holc lana,hl,+,0,
+1121099,hype perf,hl,1a,0,
+1121099,junc effu,hl,+,25,
+1121099,junc tenu,hl,+,0,
+1121099,plan majo majo,hl,+,0,few individuals (r)
+1121099,pote norv,hl,+,10,few individuals (r)
+1121099,prun vulg,hl,+,0,
+1121099,sali purp,hl,+,0,few individuals (r)
+1121099,soli giga,hl,3,40,
+1121099,tara sect rude,hl,+,0,few individuals (r)
+1121099,bryu arge,ml,+,0,few individuals (r)
+1121099,cera purp,ml,+,0,
+1121099,dicr vari,ml,1a,0,
+1121100,cala epig,hl,1b,50,
+1121100,desc cesp,hl,1a,0,
+1121100,gali palu palu,hl,+,0,few individuals (r)
+1121100,hype perf,hl,+,0,
+1121100,junc tenu,hl,+,0,
+1121100,poa triv,hl,+,0,few individuals (r)
+1121100,soli giga,hl,2a,45,
+1121100,tara sect rude,hl,+,0,few individuals (r)
+1121100,vero arve,hl,+,0,few individuals (r)
+1121100,barb ungu,ml,1a,0,
+1121100,bryu arge,ml,+,0,few individuals (r)
+1121100,dicr vari,ml,+,0,
+1121153,bide cern,hl,+,0,few individuals (r)
+1121153,cala epig,hl,+,30,
+1121153,equi palu,hl,+,15,
+1121153,gali palu palu,hl,+,0,few individuals (r)
+1121153,junc arti,hl,+,0,few individuals (r)
+1121153,lepi camp,hl,+,0,few individuals (r)
+1121153,lyco euro euro,hl,+,5,few individuals (r)
+1121153,moli caer,hl,+,0,few individuals (r)
+1121153,pote norv,hl,+,5,few individuals (r)
+1121153,soli giga,hl,+,10,few individuals (r)
+1121153,bryu arge,ml,+,0,few individuals (r)
+1121154,cala epig,hl,+,30,
+1121154,care oede,hl,+,0,
+1121154,care pilu pilu,hl,+,0,few individuals (r)
+1121154,desc cesp,hl,+,0,few individuals (r)
+1121154,lepi camp,hl,+,0,few individuals (r)
+1121154,linu cath,hl,+,0,few individuals (r)
+1121154,moli caer,hl,1b,0,
+1121154,phra aust,hl,1a,90,
+1121154,pote erec,hl,+,5,
+1121154,prun vulg,hl,+,0,
+1121154,soli giga,hl,+,50,
+1121154,thym pule pule,hl,1a,0,
+1122099,betu pend plus pube,hl,+,0,
+1122099,cala epig,hl,3,60,
+1122099,cirs arve,hl,1a,0,
+1122099,cirs vulg,hl,+,0,
+1122099,desc cesp,hl,1a,0,
+1122099,epil cili cili,hl,+,0,
+1122099,eupa cann,hl,+,0,
+1122099,hype perf,hl,+,0,
+1122099,junc effu,hl,1a,45,
+1122099,phra aust,hl,1a,100,
+1122099,sali purp,hl,+,0,
+1122099,soli giga,hl,3,70,
+1122099,bryu spec ies,ml,+,0,
+1122100,cala epig,hl,1a,40,
+1122100,desc cesp,hl,1a,0,
+1122100,equi palu,hl,+,15,few individuals (r)
+1122100,hype perf,hl,+,0,
+1122100,junc effu,hl,+,20,few individuals (r)
+1122100,junc tenu,hl,+,0,few individuals (r)
+1122100,poa triv,hl,+,0,few individuals (r)
+1122100,soli giga,hl,1b,40,
+1122100,vero arve,hl,+,0,few individuals (r)
+1122100,barb ungu,ml,1a,0,
+1122100,cera purp,ml,+,0,few individuals (r)
+1122100,dicr vari,ml,1a,0,
+1122152,cala epig,hl,+,20,
+1122152,care oede,hl,1b,0,
+1122152,care pall,hl,+,0,few individuals (r)
+1122152,junc arti,hl,+,0,few individuals (r)
+1122152,moli caer,hl,+,0,few individuals (r)
+1122152,pers hydr,hl,1b,0,
+1122152,pers miti,hl,+,0,
+1122152,prun vulg,hl,+,0,few individuals (r)
+1122152,sali cine plus auri,hl,+,0,few individuals (r)
+1122152,soli giga,hl,1a,5,
+1122152,cera purp,ml,+,0,few individuals (r)
+1122152,funa hygr,ml,+,0,few individuals (r)
+1122153,cirs palu,hl,+,0,few individuals (r)
+1122153,desc cesp,hl,+,0,few individuals (r)
+1122153,gali palu palu,hl,+,0,few individuals (r)
+1122153,junc arti,hl,+,0,few individuals (r)
+1122153,leer oryz,hl,+,5,few individuals (r)
+1122153,lepi camp,hl,+,0,few individuals (r)
+1122153,lyco euro euro,hl,+,5,
+1122153,pers hydr,hl,+,0,
+1122153,pers miti,hl,+,0,
+1122153,prun vulg,hl,+,0,few individuals (r)
+1122153,soli giga,hl,1a,10,
+1122153,thym pule pule,hl,+,0,few individuals (r)
+1122153,bryu arge,ml,+,0,few individuals (r)
+1122153,camp flex,ml,1a,0,
+1122153,dicr cerv,ml,+,0,
+1122153,poly form,ml,+,0,
+1123152,cala epig,hl,+,10,few individuals (r)
+1123152,care oede,hl,+,0,few individuals (r)
+1123152,care pseu,hl,+,5,
+1123152,epil cili cili,hl,+,0,few individuals (r)
+1123152,gali palu palu,hl,+,0,few individuals (r)
+1123152,junc arti,hl,+,0,few individuals (r)
+1123152,lepi camp,hl,+,0,few individuals (r)
+1123152,lyco euro euro,hl,+,5,few individuals (r)
+1123152,moli caer,hl,+,0,few individuals (r)
+1123152,pers hydr,hl,+,0,
+1123152,pers miti,hl,+,0,
+1123152,prun vulg,hl,+,0,few individuals (r)
+1123152,rori palu,hl,+,0,few individuals (r)
+1123152,sagi proc,hl,+,0,few individuals (r)
+1123152,soli giga,hl,2b,10,
+1123152,bryu arge,ml,+,0,few individuals (r)
+1123153,cala epig,hl,1a,40,
+1123153,care elon,hl,+,0,few individuals (r)
+1123153,care oede,hl,+,0,few individuals (r)
+1123153,care pseu,hl,+,15,
+1123153,gali palu palu,hl,+,0,
+1123153,junc arti,hl,1a,0,
+1123153,junc effu,hl,+,55,few individuals (r)
+1123153,junc tenu,hl,+,0,few individuals (r)
+1123153,lyco euro euro,hl,+,20,
+1123153,moli caer,hl,+,0,few individuals (r)
+1123153,pers miti,hl,1a,0,
+1123153,pote norv,hl,+,25,few individuals (r)
+1123153,prun vulg,hl,+,0,
+1123153,rori palu,hl,+,0,few individuals (r)
+1123153,sagi proc,hl,+,0,few individuals (r)
+1123153,soli giga,hl,1a,35,
+1123153,thym pule pule,hl,+,0,few individuals (r)
+1123153,bryu arge,ml,+,0,few individuals (r)
+1123153,call cusp,ml,+,0,few individuals (r)
+1123153,ricc flui,ml,+,0,few individuals (r)
+1124151,cala epig,hl,1a,40,
+1124151,junc tenu,hl,+,0,few individuals (r)
+1124151,lyco euro euro,hl,+,5,
+1124151,pers hydr,hl,+,0,
+1124151,soli giga,hl,+,40,
+1124151,bryu arge,ml,+,0,few individuals (r)
+1124152,cala epig,hl,1a,30,
+1124152,junc arti,hl,+,0,few individuals (r)
+1124152,pers hydr,hl,+,0,few individuals (r)
+1124152,pers miti,hl,+,0,few individuals (r)
+1124152,pote norv,hl,+,15,few individuals (r)
+1124152,sali purp,hl,+,0,few individuals (r)
+1124152,barb ungu,ml,1a,0,
+1124152,bryu arge,ml,+,0,
+1125151,cala epig,hl,+,30,
+1125151,care cane cane,hl,+,0,few individuals (r)
+1125151,care pseu,hl,+,10,few individuals (r)
+1125151,desc cesp,hl,+,0,few individuals (r)
+1125151,junc tenu,hl,+,0,few individuals (r)
+1125151,lyco euro euro,hl,+,5,few individuals (r)
+1125151,rori sylv,hl,+,0,few individuals (r)
+1125151,soli giga,hl,+,10,few individuals (r)
+1125151,bryu arge,ml,+,0,few individuals (r)
+1125152,cala epig,hl,+,30,
+1125152,care pseu,hl,+,10,few individuals (r)
+1125152,lepi camp,hl,+,0,few individuals (r)
+1125152,pote norv,hl,+,35,few individuals (r)
+1125152,soli giga,hl,+,10,few individuals (r)
+1125152,bryu arge,ml,+,0,
+1126150,care cane cane,hl,+,0,few individuals (r)
+1126150,cirs palu,hl,+,0,few individuals (r)
+1126150,desc cesp,hl,+,0,few individuals (r)
+1126150,dros inte,hl,+,0,few individuals (r)
+1126150,epil cili cili,hl,+,0,few individuals (r)
+1126150,gali palu palu,hl,+,0,
+1126150,junc effu,hl,1a,80,
+1126150,lyco euro euro,hl,+,30,
+1126150,pers hydr,hl,+,0,few individuals (r)
+1126150,phra aust,hl,4,100,
+1126150,sagi proc,hl,+,0,few individuals (r)
+1126150,soli giga,hl,3,90,
+1126150,call cusp,ml,1a,0,
+1126150,ricc flui,ml,+,0,
+1126151,cala epig,hl,+,30,
+1126151,care cane cane,hl,+,0,few individuals (r)
+1126151,care oede,hl,+,0,
+1126151,eleo mami aust,hl,+,0,few individuals (r)
+1126151,epil cili cili,hl,+,0,few individuals (r)
+1126151,gali cili,hl,+,0,few individuals (r)
+1126151,gali palu palu,hl,+,0,few individuals (r)
+1126151,lyco euro euro,hl,1a,10,
+1126151,phra aust,hl,3,80,
+1126151,pote norv,hl,+,10,few individuals (r)
+1126151,sali cine plus auri,hl,+,0,few individuals (r)
+1126151,soli giga,hl,+,50,
+1126151,bryu arge,ml,+,0,few individuals (r)
+1126151,call cusp,ml,+,0,
+1127150,care rost,hl,+,60,
+1127150,eleo mami aust,hl,1a,0,
+1127150,gali palu palu,hl,+,0,
+1127150,junc arti,hl,1a,0,
+1127150,junc effu,hl,2a,80,
+1127150,leer oryz,hl,+,25,
+1127150,lyco euro euro,hl,+,30,few individuals (r)
+1127150,pers hydr,hl,+,0,
+1127150,phra aust,hl,1b,120,
+1127150,pote norv,hl,+,35,few individuals (r)
+1127150,soli giga,hl,+,90,
+1127151,care oede,hl,+,0,
+1127151,eleo mami aust,hl,+,0,few individuals (r)
+1127151,gali palu palu,hl,+,0,few individuals (r)
+1127151,junc arti,hl,+,0,
+1127151,lyco euro euro,hl,+,5,
+1127151,pers miti,hl,+,0,few individuals (r)
+1127151,phra aust,hl,+,80,
+1127151,pote norv,hl,+,10,few individuals (r)
+1127151,sali purp,hl,+,0,few individuals (r)
+1127151,soli giga,hl,+,50,few individuals (r)
+1127151,bryu arge,ml,+,0,few individuals (r)
+1128149,cala epig,hl,+,60,
+1128149,care pseu,hl,1a,55,
+1128149,care rost,hl,3,70,
+1128149,care vesi,hl,1b,0,
+1128149,epil cili cili,hl,+,0,few individuals (r)
+1128149,equi palu,hl,1b,45,
+1128149,gali palu palu,hl,2b,0,
+1128149,junc arti,hl,1a,0,
+1128149,lyco euro euro,hl,1a,40,
+1128149,pers hydr,hl,1b,0,
+1128149,phra aust,hl,2b,80,
+1128149,pote norv,hl,+,45,
+1128149,soli giga,hl,1b,80,
+1128149,call cusp,ml,1b,0,
+1128149,ricc flui,ml,+,0,
+1128150,care rost,hl,3,80,
+1128150,junc arti,hl,1a,0,
+1128150,junc effu,hl,+,60,few individuals (r)
+1128150,lyco euro euro,hl,1b,45,
+1128150,pers hydr,hl,+,0,
+1128150,pers miti,hl,+,0,few individuals (r)
+1128150,pote norv,hl,1a,25,
+1128150,scut gale,hl,+,0,
+1128150,soli giga,hl,1a,65,
+1128150,call cusp,ml,+,0,
+1128150,ricc flui,ml,+,0,few individuals (r)
+1129149,bide cern,hl,+,0,few individuals (r)
+1129149,care oede,hl,+,0,
+1129149,care pseu,hl,+,35,
+1129149,care rost,hl,1a,60,
+1129149,care vesi,hl,1a,0,
+1129149,equi palu,hl,3,50,
+1129149,gali palu palu,hl,2a,0,
+1129149,junc effu,hl,+,50,few individuals (r)
+1129149,lyco euro euro,hl,1a,30,
+1129149,pote norv,hl,1a,40,
+1129149,rori palu,hl,+,0,few individuals (r)
+1129149,sali cine plus auri,hl,1a,0,
+1129149,sali purp,hl,+,0,few individuals (r)
+1129149,bryu arge,ml,+,0,
+1129149,call cusp,ml,2b,0,
+1129150,care rost,hl,2b,60,
+1129150,equi palu,hl,1b,40,
+1129150,gali palu palu,hl,+,0,few individuals (r)
+1129150,junc arti,hl,1a,0,
+1129150,moli caer,hl,+,0,few individuals (r)
+1129150,phra aust,hl,1b,80,
+1129150,pote norv,hl,+,30,
+1129150,bryu arge,ml,+,0,
+1129150,call cusp,ml,+,0,
+1130148,cala epig,hl,1a,40,
+1130148,care oede,hl,+,0,few individuals (r)
+1130148,care pseu,hl,+,15,
+1130148,gali palu palu,hl,+,0,few individuals (r)
+1130148,junc arti,hl,+,0,few individuals (r)
+1130148,ment aqua,hl,+,0,few individuals (r)
+1130148,pers hydr,hl,+,0,few individuals (r)
+1130148,pote norv,hl,+,15,few individuals (r)
+1130148,sagi proc,hl,+,0,
+1130148,sali alba,hl,+,0,few individuals (r)
+1130148,sali cine plus auri,hl,+,0,
+1130148,soli giga,hl,+,15,few individuals (r)
+1130148,bryu arge,ml,+,0,
+1130148,cera purp,ml,+,0,few individuals (r)
+1130149,cala epig,hl,+,25,
+1130149,care cane cane,hl,+,0,few individuals (r)
+1130149,care oede,hl,+,0,few individuals (r)
+1130149,care pseu,hl,+,20,few individuals (r)
+1130149,equi palu,hl,+,15,few individuals (r)
+1130149,gali palu palu,hl,+,0,few individuals (r)
+1130149,junc arti,hl,+,0,few individuals (r)
+1130149,lyco euro euro,hl,+,15,
+1130149,poa annu,hl,+,0,few individuals (r)
+1130149,pote norv,hl,+,10,few individuals (r)
+1130149,sali alba,hl,+,0,few individuals (r)
+1130149,sali cine plus auri,hl,+,0,few individuals (r)
+1130149,soli giga,hl,+,25,
+1130149,bryu arge,ml,+,0,
+1130149,cera purp,ml,+,0,few individuals (r)
+1131148,aren serp,hl,+,0,few individuals (r)
+1131148,cala epig,hl,1a,40,
+1131148,care pseu,hl,+,15,
+1131148,epil cili cili,hl,+,0,few individuals (r)
+1131148,gali palu palu,hl,+,0,few individuals (r)
+1131148,junc arti,hl,+,0,few individuals (r)
+1131148,junc tenu,hl,+,0,few individuals (r)
+1131148,lyco euro euro,hl,+,20,
+1131148,pote norv,hl,+,10,few individuals (r)
+1131148,rori palu,hl,+,0,few individuals (r)
+1131148,sali cine plus auri,hl,+,0,few individuals (r)
+1131148,soli giga,hl,+,20,
+1131148,cera purp,ml,+,0,few individuals (r)
+1131149,cala epig,hl,+,30,
+1131149,epil cili cili,hl,+,0,few individuals (r)
+1131149,junc arti,hl,+,0,few individuals (r)
+1131149,junc effu,hl,+,25,few individuals (r)
+1131149,junc tenu,hl,+,0,few individuals (r)
+1131149,pers hydr,hl,+,0,
+1131149,soli giga,hl,+,10,few individuals (r)
+1131149,bryu arge,ml,+,0,
+1131149,cera purp,ml,+,0,
+1132147,cala epig,hl,1a,40,
+1132147,care pseu,hl,+,30,few individuals (r)
+1132147,care rost,hl,+,50,few individuals (r)
+1132147,gali palu palu,hl,1a,0,
+1132147,junc arti,hl,+,0,
+1132147,lyco euro euro,hl,+,20,
+1132147,phra aust,hl,2b,90,
+1132147,pote norv,hl,1a,20,
+1132147,rori palu,hl,+,0,few individuals (r)
+1132147,soli giga,hl,+,40,
+1132147,bryu arge,ml,+,0,few individuals (r)
+1132147,call cusp,ml,+,0,
+1132147,cera purp,ml,+,0,few individuals (r)
+1132148,alop aequ,hl,+,0,few individuals (r)
+1132148,cala epig,hl,1a,40,
+1132148,epil cili cili,hl,+,0,few individuals (r)
+1132148,erig cana,hl,+,0,few individuals (r)
+1132148,junc arti,hl,+,0,few individuals (r)
+1132148,pers hydr,hl,+,0,
+1132148,pers miti,hl,+,0,few individuals (r)
+1132148,pote norv,hl,+,5,few individuals (r)
+1132148,rori palu,hl,+,0,few individuals (r)
+1132148,sagi proc,hl,+,0,few individuals (r)
+1132148,sali cine plus auri,hl,+,0,few individuals (r)
+1132148,sali purp,hl,+,0,few individuals (r)
+1132148,soli giga,hl,+,15,
+1132148,bryu arge,ml,+,0,
+1132148,call cusp,ml,+,0,few individuals (r)
+1132148,cera purp,ml,+,0,
+1133147,betu pend plus pube,hl,+,0,
+1133147,cala epig,hl,1b,50,
+1133147,care pseu,hl,+,15,few individuals (r)
+1133147,epil cili cili,hl,+,0,few individuals (r)
+1133147,gali palu palu,hl,+,0,few individuals (r)
+1133147,junc arti,hl,+,0,
+1133147,junc tenu,hl,+,0,few individuals (r)
+1133147,lepi camp,hl,+,0,few individuals (r)
+1133147,lyco euro euro,hl,+,10,few individuals (r)
+1133147,pers hydr,hl,+,0,few individuals (r)
+1133147,phra aust,hl,+,60,
+1133147,poa prat,hl,+,0,few individuals (r)
+1133147,poly avic slat,hl,+,0,few individuals (r)
+1133147,popu trem,hl,+,0,few individuals (r)
+1133147,pote norv,hl,1a,30,
+1133147,rori palu,hl,+,0,few individuals (r)
+1133147,sali alba,hl,+,0,
+1133147,bryu arge,ml,+,0,
+1133147,cera purp,ml,+,0,few individuals (r)
+1133148,betu pend plus pube,hl,+,0,few individuals (r)
+1133148,cala epig,hl,1a,50,
+1133148,care cane cane,hl,+,0,few individuals (r)
+1133148,care pseu,hl,+,10,few individuals (r)
+1133148,gali palu palu,hl,+,0,few individuals (r)
+1133148,junc arti,hl,+,0,
+1133148,lyco euro euro,hl,1a,5,
+1133148,poa annu,hl,+,0,few individuals (r)
+1133148,popu trem,hl,+,0,few individuals (r)
+1133148,pote norv,hl,+,15,
+1133148,rori palu,hl,+,0,few individuals (r)
+1133148,sagi proc,hl,+,0,few individuals (r)
+1133148,sali alba,hl,+,0,few individuals (r)
+1133148,sali cine plus auri,hl,+,0,
+1133148,sali purp,hl,+,0,few individuals (r)
+1133148,soli giga,hl,+,35,few individuals (r)
+1133148,thym pule pule,hl,+,0,few individuals (r)
+1133148,bryu arge,ml,+,0,few individuals (r)
+1133148,camp intr,ml,+,0,few individuals (r)
+1141144,care pseu,hl,+,20,
+1141144,care rost,hl,1b,45,
+1141144,epil cili cili,hl,+,0,
+1141144,gali palu palu,hl,1a,0,
+1141144,junc arti,hl,+,0,few individuals (r)
+1141144,junc effu,hl,+,45,few individuals (r)
+1141144,phra aust,hl,2b,80,
+1141144,pote norv,hl,1a,40,
+1141144,soli giga,hl,+,45,few individuals (r)
+1141144,trif repe repe,hl,+,0,few individuals (r)
+1141144,bryu arge,ml,1a,0,
+1141144,cera purp,ml,1a,0,
+1141145,cala epig,hl,+,10,
+1141145,care oede,hl,+,0,
+1141145,gali palu palu,hl,+,0,
+1141145,lyco euro euro,hl,1a,25,
+1141145,moli caer,hl,+,0,
+1141145,phra aust,hl,1b,70,
+1141145,thym pule pule,hl,+,0,few individuals (r)
+1141145,bryu arge,ml,+,0,
+1141145,bryu spec ies,ml,+,0,few individuals (r)
+1141145,cera purp,ml,+,0,few individuals (r)
+1142144,cala epig,hl,+,20,few individuals (r)
+1142144,care pseu,hl,+,15,few individuals (r)
+1142144,epil cili cili,hl,+,0,few individuals (r)
+1142144,gali palu palu,hl,+,0,few individuals (r)
+1142144,junc arti,hl,+,0,
+1142144,junc effu,hl,1a,40,
+1142144,leer oryz,hl,+,10,few individuals (r)
+1142144,lyco euro euro,hl,+,15,
+1142144,phra aust,hl,+,40,
+1142144,poa triv,hl,+,0,few individuals (r)
+1142144,pote norv,hl,+,20,few individuals (r)
+1142144,soli giga,hl,+,25,few individuals (r)
+1142144,thym pule pule,hl,+,0,few individuals (r)
+1142144,bryu arge,ml,1a,0,
+1142144,cera purp,ml,+,0,few individuals (r)
+1142145,cala epig,hl,+,15,
+1142145,care pseu,hl,+,10,few individuals (r)
+1142145,epil cili cili,hl,+,0,few individuals (r)
+1142145,gali palu palu,hl,+,0,few individuals (r)
+1142145,luzu mult,hl,+,0,
+1142145,lyco euro euro,hl,+,20,
+1142145,phra aust,hl,+,20,few individuals (r)
+1142145,pote norv,hl,+,15,
+1142145,soli giga,hl,+,35,few individuals (r)
+1142145,thym pule pule,hl,1a,0,
+1142145,bryu arge,ml,+,0,
+1143143,cala epig,hl,+,30,
+1143143,care cane cane,hl,+,0,few individuals (r)
+1143143,care pseu,hl,1b,25,
+1143143,care rost,hl,2a,60,
+1143143,eleo mami aust,hl,+,0,
+1143143,epil cili cili,hl,+,0,few individuals (r)
+1143143,gali palu palu,hl,1a,0,
+1143143,junc arti,hl,+,0,
+1143143,junc effu,hl,1a,70,
+1143143,leer oryz,hl,+,15,
+1143143,lyco euro euro,hl,1b,10,
+1143143,lysi vulg,hl,+,0,few individuals (r)
+1143143,pers hydr,hl,+,0,
+1143143,phra aust,hl,1b,50,
+1143143,soli giga,hl,+,30,
+1143143,bryu arge,ml,+,0,few individuals (r)
+1143143,cera purp,ml,+,0,
+1143143,ricc flui,ml,1a,0,
+1143144,cala epig,hl,+,60,
+1143144,care pseu,hl,+,35,
+1143144,care rost,hl,2a,60,
+1143144,gali palu palu,hl,1b,0,
+1143144,leer oryz,hl,1a,25,
+1143144,lyth sali,hl,+,0,few individuals (r)
+1143144,ment aqua,hl,1a,0,
+1143144,myos scor scor,hl,+,0,few individuals (r)
+1143144,phra aust,hl,1b,60,
+1143144,sali alba,hl,+,0,few individuals (r)
+1143144,bryu arge,ml,+,0,
+1143144,call cusp,ml,1a,0,
+1143144,cera purp,ml,+,0,few individuals (r)
+1143144,ricc flui,ml,+,0,
+1144143,alis plan,hl,+,0,few individuals (r)
+1144143,bide cern,hl,+,0,
+1144143,care oede,hl,+,0,
+1144143,care pseu,hl,1a,30,
+1144143,care rost,hl,2b,70,
+1144143,eleo mami aust,hl,+,0,
+1144143,gali palu palu,hl,2a,0,
+1144143,junc arti,hl,1a,0,
+1144143,junc effu,hl,2a,80,
+1144143,leer oryz,hl,1a,20,
+1144143,lyco euro euro,hl,1a,30,
+1144143,ment aqua,hl,1a,0,
+1144143,pers hydr,hl,1a,0,
+1144143,phra aust,hl,1b,80,
+1144143,pote norv,hl,+,10,
+1144143,scut gale,hl,+,0,few individuals (r)
+1144143,soli giga,hl,+,10,few individuals (r)
+1144143,call cusp,ml,+,0,
+1144143,cera purp,ml,+,0,
+1144144,agro stol,hl,+,0,few individuals (r)
+1144144,cala epig,hl,+,10,few individuals (r)
+1144144,care oede,hl,+,0,few individuals (r)
+1144144,care pseu,hl,+,25,
+1144144,care rost,hl,+,50,few individuals (r)
+1144144,erig cana,hl,+,0,few individuals (r)
+1144144,gali palu palu,hl,1b,0,
+1144144,junc arti,hl,1a,0,
+1144144,lyco euro euro,hl,1b,20,
+1144144,phra aust,hl,1b,60,
+1144144,rori palu,hl,+,0,few individuals (r)
+1144144,sagi proc,hl,+,0,few individuals (r)
+1144144,soli giga,hl,+,40,
+1144144,bryu arge,ml,+,0,few individuals (r)
+1144144,call cusp,ml,+,0,
+1144144,cera purp,ml,1a,0,
+1145142,agro stol,hl,+,0,few individuals (r)
+1145142,alis plan,hl,+,0,few individuals (r)
+1145142,cala epig,hl,+,10,
+1145142,care oede,hl,+,0,few individuals (r)
+1145142,care pseu,hl,1b,20,
+1145142,junc arti,hl,+,0,
+1145142,junc bufo,hl,+,0,few individuals (r)
+1145142,lyco euro euro,hl,+,10,
+1145142,lyth sali,hl,+,0,few individuals (r)
+1145142,ment aqua,hl,+,0,few individuals (r)
+1145142,pers miti,hl,1a,0,
+1145142,phra aust,hl,+,5,few individuals (r)
+1145142,sali purp,hl,+,0,few individuals (r)
+1145143,agro stol,hl,+,0,few individuals (r)
+1145143,cala epig,hl,+,10,
+1145143,care oede,hl,+,0,few individuals (r)
+1145143,care pseu,hl,1a,15,
+1145143,epil cili cili,hl,+,0,few individuals (r)
+1145143,gali palu palu,hl,1b,0,
+1145143,glyc flui,hl,+,0,few individuals (r)
+1145143,junc arti,hl,+,0,
+1145143,lysi vulg,hl,+,0,few individuals (r)
+1145143,pers miti,hl,+,0,
+1145143,pote norv,hl,+,10,
+1145143,rori palu,hl,+,0,few individuals (r)
+1145143,sagi proc,hl,+,0,few individuals (r)
+1145143,soli giga,hl,+,10,
+1145143,bryu arge,ml,+,0,few individuals (r)
+1145143,ricc flui,ml,+,0,few individuals (r)
+1146142,cala epig,hl,+,20,
+1146142,care oede,hl,+,0,few individuals (r)
+1146142,care pseu,hl,2a,15,
+1146142,dros inte,hl,+,0,few individuals (r)
+1146142,gali palu palu,hl,1b,0,
+1146142,junc tenu,hl,+,0,few individuals (r)
+1146142,lyco euro euro,hl,1b,15,
+1146142,lyth sali,hl,+,0,few individuals (r)
+1146142,pers miti,hl,+,0,few individuals (r)
+1146142,phra aust,hl,+,15,
+1146142,pote norv,hl,+,20,few individuals (r)
+1146142,rori palu,hl,+,0,few individuals (r)
+1146142,sali cine plus auri,hl,+,0,few individuals (r)
+1146142,sali purp,hl,+,0,few individuals (r)
+1146142,soli giga,hl,+,10,
+1146142,bryu arge,ml,+,0,few individuals (r)
+1146142,cera purp,ml,+,0,
+1146142,ricc flui,ml,+,0,
+1146143,alis plan,hl,+,0,few individuals (r)
+1146143,cala epig,hl,+,30,
+1146143,care oede,hl,+,0,
+1146143,care pseu,hl,1a,30,
+1146143,epil cili cili,hl,+,0,few individuals (r)
+1146143,erig cana,hl,+,0,
+1146143,gali palu palu,hl,2a,0,
+1146143,lyco euro euro,hl,1b,10,
+1146143,lysi vulg,hl,+,0,few individuals (r)
+1146143,pers hydr,hl,+,0,few individuals (r)
+1146143,pers miti,hl,+,0,
+1146143,pote norv,hl,1a,10,
+1146143,rori palu,hl,+,0,
+1146143,soli giga,hl,+,15,few individuals (r)
+1146143,bryu arge,ml,1a,0,
+1146143,call cusp,ml,+,0,few individuals (r)
+1146143,cera purp,ml,+,0,few individuals (r)
+1147141,agro stol,hl,1b,0,
+1147141,alis plan,hl,+,0,few individuals (r)
+1147141,care cane cane,hl,+,0,few individuals (r)
+1147141,care oede,hl,1a,0,
+1147141,care pseu,hl,2b,30,
+1147141,care rost,hl,1a,50,
+1147141,eleo mami aust,hl,+,0,
+1147141,epil parv,hl,+,0,
+1147141,gali palu palu,hl,1b,0,
+1147141,junc arti,hl,1a,0,
+1147141,lyco euro euro,hl,1b,15,
+1147141,lysi vulg,hl,+,0,few individuals (r)
+1147141,ment aqua,hl,+,0,
+1147141,phra aust,hl,+,40,
+1147141,pote norv,hl,1a,10,
+1147141,rori palu,hl,+,0,few individuals (r)
+1147141,cera purp,ml,+,0,
+1147141,ricc flui,ml,1a,0,
+1147142,cala epig,hl,+,20,
+1147142,care cane cane,hl,+,0,few individuals (r)
+1147142,care oede,hl,1a,0,
+1147142,care pseu,hl,1a,20,
+1147142,epil cili cili,hl,+,0,few individuals (r)
+1147142,epil parv,hl,+,0,few individuals (r)
+1147142,gali palu palu,hl,+,0,
+1147142,junc arti,hl,+,0,
+1147142,junc effu,hl,+,15,few individuals (r)
+1147142,lyco euro euro,hl,1a,10,
+1147142,ment aqua,hl,+,0,few individuals (r)
+1147142,pers hydr,hl,+,0,few individuals (r)
+1147142,pote norv,hl,+,5,few individuals (r)
+1147142,bryu arge,ml,+,0,
+1147142,cera purp,ml,+,0,few individuals (r)
+1148141,bide cern,hl,+,0,few individuals (r)
+1148141,care cane cane,hl,+,0,few individuals (r)
+1148141,care oede,hl,2a,0,
+1148141,care pseu,hl,2a,25,
+1148141,desc cesp,hl,+,0,few individuals (r)
+1148141,gali palu palu,hl,1b,0,
+1148141,junc arti,hl,+,0,
+1148141,lyco euro euro,hl,1b,50,
+1148141,lysi vulg,hl,+,0,few individuals (r)
+1148141,ment aqua,hl,1b,0,
+1148141,pers hydr,hl,1a,0,
+1148141,phra aust,hl,2a,80,
+1148141,rori palu,hl,+,0,few individuals (r)
+1148141,soli giga,hl,+,5,few individuals (r)
+1148141,call cusp,ml,1a,0,
+1148141,ricc flui,ml,2a,0,
+1148142,cala epig,hl,+,30,
+1148142,care oede,hl,1a,0,
+1148142,epil cili cili,hl,+,0,few individuals (r)
+1148142,gali palu palu,hl,1a,0,
+1148142,hype tetr,hl,+,0,few individuals (r)
+1148142,lyco euro euro,hl,1a,15,
+1148142,pers hydr,hl,+,0,few individuals (r)
+1148142,phra aust,hl,1a,80,
+1148142,poly amar ella,hl,+,0,few individuals (r)
+1148142,sali cine plus auri,hl,+,0,few individuals (r)
+1148142,soli giga,hl,+,5,few individuals (r)
+1148142,bryu arge,ml,+,0,few individuals (r)
+1148142,call cusp,ml,2a,0,
+1149140,agro stol,hl,1a,0,
+1149140,alis plan,hl,+,0,few individuals (r)
+1149140,care cane cane,hl,+,0,few individuals (r)
+1149140,care oede,hl,1b,0,
+1149140,care pseu,hl,2a,35,
+1149140,gali palu palu,hl,2b,0,
+1149140,hype tetr,hl,+,0,few individuals (r)
+1149140,junc arti,hl,1a,0,
+1149140,lyco euro euro,hl,+,15,
+1149140,ment aqua,hl,+,0,few individuals (r)
+1149140,pers miti,hl,+,0,
+1149140,sali purp,hl,+,0,few individuals (r)
+1149140,call cusp,ml,+,0,
+1149140,ricc flui,ml,2a,0,
+1149141,agro capi,hl,+,0,few individuals (r)
+1149141,bide cern,hl,+,0,few individuals (r)
+1149141,cala epig,hl,1a,40,
+1149141,cirs arve,hl,+,0,
+1149141,epil cili cili,hl,1a,0,
+1149141,gali palu palu,hl,2a,0,
+1149141,junc arti,hl,+,0,
+1149141,linu cath,hl,+,0,
+1149141,lyco euro euro,hl,+,15,
+1149141,lysi vulg,hl,+,0,few individuals (r)
+1149141,ment aqua,hl,+,0,
+1149141,pers hydr,hl,1a,0,
+1149141,pers miti,hl,1a,0,
+1149141,pote norv,hl,+,10,
+1149141,thym pule pule,hl,+,0,few individuals (r)
+1149141,cera purp,ml,+,0,
+1149141,ricc flui,ml,+,0,few individuals (r)
+1150140,cala epig,hl,2a,30,
+1150140,care oede,hl,+,0,
+1150140,care pseu,hl,1a,20,
+1150140,desc cesp,hl,+,0,few individuals (r)
+1150140,epil cili cili,hl,+,0,few individuals (r)
+1150140,gali palu palu,hl,1b,0,
+1150140,junc arti,hl,+,0,
+1150140,junc tenu,hl,+,0,
+1150140,leer oryz,hl,+,15,few individuals (r)
+1150140,lyco euro euro,hl,+,15,
+1150140,lysi vulg,hl,+,0,few individuals (r)
+1150140,ment aqua,hl,+,0,few individuals (r)
+1150140,pers hydr,hl,+,0,few individuals (r)
+1150140,pers miti,hl,+,0,
+1150140,poa prat,hl,+,0,few individuals (r)
+1150140,sagi proc,hl,+,0,few individuals (r)
+1150140,sali purp,hl,+,0,few individuals (r)
+1150140,scut gale,hl,+,0,few individuals (r)
+1150140,soli giga,hl,+,20,few individuals (r)
+1150140,bryu arge,ml,1a,0,
+1150140,call cusp,ml,+,0,few individuals (r)
+1150140,cera purp,ml,+,0,
+1150141,cala epig,hl,2a,35,
+1150141,care oede,hl,1a,0,
+1150141,care pseu,hl,1a,20,
+1150141,cirs palu,hl,+,0,few individuals (r)
+1150141,epil cili cili,hl,+,0,few individuals (r)
+1150141,erig cana,hl,+,0,few individuals (r)
+1150141,gali palu palu,hl,1a,0,
+1150141,junc arti,hl,+,0,
+1150141,junc effu,hl,+,25,few individuals (r)
+1150141,pers hydr,hl,+,0,
+1150141,pers miti,hl,+,0,
+1150141,pote norv,hl,+,15,few individuals (r)
+1150141,rori palu,hl,+,0,few individuals (r)
+1150141,sagi proc,hl,+,0,few individuals (r)
+1150141,soli giga,hl,+,20,
+1150141,thym pule pule,hl,+,0,few individuals (r)
+1150141,bryu arge,ml,+,0,few individuals (r)
+1150141,call cusp,ml,+,0,
+1151139,cala epig,hl,1a,40,
+1151139,care cane cane,hl,+,0,few individuals (r)
+1151139,care oede,hl,+,0,few individuals (r)
+1151139,care pseu,hl,1a,10,
+1151139,epil cili cili,hl,+,0,few individuals (r)
+1151139,fall conv,hl,+,0,few individuals (r)
+1151139,hype perf,hl,+,0,few individuals (r)
+1151139,junc arti,hl,+,0,few individuals (r)
+1151139,lyco euro euro,hl,+,5,
+1151139,pers hydr,hl,+,0,
+1151139,pers miti,hl,+,0,
+1151139,pote norv,hl,+,5,few individuals (r)
+1151139,rori palu,hl,+,0,few individuals (r)
+1151139,soli giga,hl,+,5,few individuals (r)
+1151139,sper rubr,hl,+,0,few individuals (r)
+1151139,call cusp,ml,+,0,
+1151139,cera purp,ml,1a,0,
+1151140,cala epig,hl,2a,40,
+1151140,care oede,hl,+,0,few individuals (r)
+1151140,care pseu,hl,1a,20,
+1151140,fall conv,hl,+,0,few individuals (r)
+1151140,gali palu palu,hl,+,0,few individuals (r)
+1151140,junc tenu,hl,+,0,few individuals (r)
+1151140,leer oryz,hl,+,10,few individuals (r)
+1151140,pers hydr,hl,+,0,few individuals (r)
+1151140,pers miti,hl,+,0,
+1151140,phra aust,hl,+,20,few individuals (r)
+1151140,pote norv,hl,+,30,few individuals (r)
+1151140,rori palu,hl,+,0,few individuals (r)
+1151140,sagi proc,hl,+,0,few individuals (r)
+1151140,soli giga,hl,+,5,few individuals (r)
+1151140,bryu arge,ml,+,0,
+1152139,agro stol,hl,+,0,few individuals (r)
+1152139,cala epig,hl,+,20,
+1152139,care cane cane,hl,+,0,few individuals (r)
+1152139,care oede,hl,+,0,few individuals (r)
+1152139,care pseu,hl,+,10,
+1152139,erig cana,hl,+,0,few individuals (r)
+1152139,gali palu palu,hl,+,0,few individuals (r)
+1152139,junc arti,hl,+,0,few individuals (r)
+1152139,lyco euro euro,hl,+,5,few individuals (r)
+1152139,pers hydr,hl,+,0,
+1152139,pote norv,hl,+,5,few individuals (r)
+1152139,rori palu,hl,+,0,few individuals (r)
+1152139,sagi proc,hl,+,0,few individuals (r)
+1152139,sali cine plus auri,hl,+,0,few individuals (r)
+1152139,bryu arge,ml,+,0,
+1152140,cala epig,hl,1a,30,
+1152140,care oede,hl,+,0,few individuals (r)
+1152140,care pseu,hl,1a,15,
+1152140,desc cesp,hl,+,0,few individuals (r)
+1152140,gali palu palu,hl,+,0,
+1152140,junc tenu,hl,+,0,
+1152140,pers miti,hl,+,0,
+1152140,rori palu,hl,+,0,few individuals (r)
+1152140,sagi proc,hl,+,0,
+1152140,sali cine plus auri,hl,+,0,few individuals (r)
+1152140,soli giga,hl,+,10,few individuals (r)
+1153138,cala epig,hl,+,30,few individuals (r)
+1153138,care cane cane,hl,+,0,few individuals (r)
+1153138,care oede,hl,+,0,few individuals (r)
+1153138,care pseu,hl,+,15,
+1153138,equi palu,hl,+,20,few individuals (r)
+1153138,gali palu palu,hl,+,0,few individuals (r)
+1153138,junc arti,hl,+,0,few individuals (r)
+1153138,pers miti,hl,+,0,few individuals (r)
+1153138,prun vulg,hl,+,0,few individuals (r)
+1153138,sali alba,hl,+,0,few individuals (r)
+1153138,soli giga,hl,+,10,
+1153138,tara sect rude,hl,+,0,few individuals (r)
+1153138,bryu arge,ml,+,0,few individuals (r)
+1153139,cala epig,hl,+,10,few individuals (r)
+1153139,care oede,hl,+,0,few individuals (r)
+1153139,care pseu,hl,+,10,few individuals (r)
+1153139,equi palu,hl,+,25,
+1153139,gali palu palu,hl,+,0,few individuals (r)
+1153139,junc arti,hl,+,0,few individuals (r)
+1153139,lyco euro euro,hl,+,5,few individuals (r)
+1153139,pers hydr,hl,+,0,few individuals (r)
+1153139,pers miti,hl,+,0,few individuals (r)
+1153139,poly avic slat,hl,+,0,few individuals (r)
+1153139,pote norv,hl,+,5,few individuals (r)
+1153139,soli giga,hl,+,5,
+1153139,bryu arge,ml,+,0,few individuals (r)
+1154138,agro stol,hl,+,0,
+1154138,cala epig,hl,1a,35,
+1154138,care oede,hl,+,0,few individuals (r)
+1154138,care pseu,hl,+,10,few individuals (r)
+1154138,desc cesp,hl,+,0,few individuals (r)
+1154138,epil cili cili,hl,+,0,
+1154138,equi palu,hl,+,20,
+1154138,erig cana,hl,+,0,few individuals (r)
+1154138,gali palu palu,hl,1a,0,
+1154138,lyco euro euro,hl,+,5,
+1154138,ment aqua,hl,+,0,
+1154138,pers miti,hl,+,0,few individuals (r)
+1154138,poa prat,hl,+,0,few individuals (r)
+1154138,sali purp,hl,+,0,few individuals (r)
+1154138,soli giga,hl,+,5,few individuals (r)
+1154138,bryu arge,ml,+,0,
+1154138,cera purp,ml,+,0,
+1154139,agro capi,hl,+,0,few individuals (r)
+1154139,cala epig,hl,+,20,
+1154139,care oede,hl,+,0,few individuals (r)
+1154139,care pseu,hl,+,10,few individuals (r)
+1154139,equi palu,hl,+,20,
+1154139,gali palu palu,hl,+,0,
+1154139,ment aqua,hl,+,0,few individuals (r)
+1154139,sagi proc,hl,+,0,few individuals (r)
+1154139,sali cine plus auri,hl,+,0,few individuals (r)
+1154139,scut gale,hl,+,0,few individuals (r)
+1154139,soli giga,hl,+,5,few individuals (r)
+1154139,bryu arge,ml,+,0,few individuals (r)
+1174077,bide cern,hl,+,2,few individuals (r)
+1174077,cala epig,hl,+,10,few individuals (r)
+1174077,leer oryz,hl,+,10,few individuals (r)
+1174077,pers mino,hl,+,0,few individuals (r)
+1174077,pote norv,hl,+,5,few individuals (r)
+1174078,care pseu,hl,+,25,few individuals (r)
+1174078,junc arti,hl,+,0,few individuals (r)
+1174078,pers mino,hl,+,0,few individuals (r)
+1174078,rori sylv,hl,+,0,few individuals (r)
+1174078,bryu arge,ml,+,0,few individuals (r)
+1175077,aren serp,hl,+,0,few individuals (r)
+1175077,cala epig,hl,+,15,few individuals (r)
+1175077,leer oryz,hl,+,15,few individuals (r)
+1175077,lyco euro euro,hl,+,10,few individuals (r)
+1175077,pers mino,hl,+,0,few individuals (r)
+1175077,pote norv,hl,+,5,few individuals (r)
+1175077,trif repe repe,hl,+,0,few individuals (r)
+1175078,unde alga,ml,+,,plot bare of vegetation
+1175079,care pseu,hl,+,10,few individuals (r)
+1175079,equi palu,hl,1b,35,
+1175079,junc arti,hl,+,0,few individuals (r)
+1175079,leer oryz,hl,+,10,few individuals (r)
+1175079,lepi camp,hl,+,0,few individuals (r)
+1175079,lyco euro euro,hl,+,10,few individuals (r)
+1175079,ment aqua,hl,+,0,few individuals (r)
+1175079,micr minu,hl,+,0,few individuals (r)
+1175079,pers hydr,hl,+,0,few individuals (r)
+1175079,pers mino,hl,+,0,few individuals (r)
+1175079,phra aust,hl,+,45,few individuals (r)
+1175079,poly avic slat,hl,+,0,few individuals (r)
+1175079,rori palu,hl,+,0,few individuals (r)
+1175079,tuss farf,hl,+,0,few individuals (r)
+1175080,cala epig,hl,1b,50,
+1175080,equi palu,hl,2a,30,
+1175080,eupa cann,hl,+,0,few individuals (r)
+1175080,junc arti,hl,+,0,few individuals (r)
+1175080,lepi camp,hl,+,0,few individuals (r)
+1175080,ment aqua,hl,+,0,few individuals (r)
+1175080,micr minu,hl,+,0,
+1175080,rori palu,hl,+,0,few individuals (r)
+1175080,soli giga,hl,1a,60,
+1175080,tara sect rude,hl,+,0,few individuals (r)
+1176079,epil parv,hl,+,0,
+1176079,equi palu,hl,3,35,
+1176079,gali palu palu,hl,+,0,few individuals (r)
+1176079,junc arti,hl,+,0,
+1176079,junc effu,hl,+,35,
+1176079,lyco euro euro,hl,+,10,
+1176079,lyth sali,hl,+,0,few individuals (r)
+1176079,ment aqua,hl,1a,0,
+1176079,micr minu,hl,+,0,
+1176079,pers macu,hl,+,0,
+1176079,phra aust,hl,+,60,
+1176079,pote norv,hl,+,25,
+1176079,prun vulg,hl,+,0,
+1176079,rori palu,hl,+,0,few individuals (r)
+1176079,sali purp,hl,+,0,few individuals (r)
+1176079,soli giga,hl,1a,50,
+1176079,tara sect rude,hl,+,0,few individuals (r)
+1176079,tuss farf,hl,+,0,
+1176079,dicr vari,ml,+,0,
+1176080,arab hirs,hl,+,0,few individuals (r)
+1176080,cala epig,hl,1b,50,
+1176080,care pseu,hl,+,40,few individuals (r)
+1176080,desc cesp,hl,+,0,
+1176080,epil parv,hl,+,0,few individuals (r)
+1176080,equi palu,hl,3,40,
+1176080,erig cana,hl,+,0,few individuals (r)
+1176080,junc arti,hl,+,0,few individuals (r)
+1176080,leer oryz,hl,+,10,few individuals (r)
+1176080,lyco euro euro,hl,1a,20,
+1176080,lysi vulg,hl,+,0,few individuals (r)
+1176080,lyth sali,hl,+,0,
+1176080,ment aqua,hl,+,0,
+1176080,pers macu,hl,+,0,
+1176080,pers mino,hl,+,0,few individuals (r)
+1176080,phra aust,hl,1a,60,
+1176080,prun vulg,hl,1a,0,
+1176080,soli giga,hl,1a,45,
+1176080,tara sect rude,hl,+,0,few individuals (r)
+1176081,agro stol,hl,+,0,
+1176081,cala epig,hl,3,70,
+1176081,cera holo,hl,+,0,few individuals (r)
+1176081,desc cesp,hl,1a,0,
+1176081,epil parv,hl,+,0,
+1176081,equi palu,hl,2b,45,
+1176081,erig annu slat,hl,+,70,
+1176081,frag vesc,hl,1a,0,
+1176081,holc lana,hl,+,0,
+1176081,junc effu,hl,+,35,
+1176081,lepi camp,hl,+,0,few individuals (r)
+1176081,lyco euro euro,hl,1a,20,
+1176081,ment aqua,hl,2a,0,
+1176081,rume acet ella,hl,+,0,few individuals (r)
+1176081,soli cana,hl,3,90,
+1176081,soli giga,hl,+,70,
+1176081,tara sect rude,hl,+,0,few individuals (r)
+1176081,tuss farf,hl,1a,0,
+1176081,cera purp,ml,1a,0,
+1176082,cala epig,hl,4,110,
+1176082,cirs arve,hl,1a,0,
+1176082,equi palu,hl,1b,50,
+1176082,eupa cann,hl,1a,0,
+1176082,junc effu,hl,1a,150,
+1176082,lyco euro euro,hl,+,15,
+1176082,soli giga,hl,2a,80,
+1176082,tuss farf,hl,+,0,
+1176082,call cusp,ml,3,0,
+1177081,betu pend plus pube,hl,+,0,few individuals (r)
+1177081,cala epig,hl,3,60,
+1177081,cirs arve,hl,+,0,
+1177081,desc cesp,hl,1b,0,
+1177081,epil parv,hl,+,0,
+1177081,equi palu,hl,1b,50,
+1177081,erig annu slat,hl,1b,70,
+1177081,eupa cann,hl,+,0,
+1177081,hype perf,hl,+,0,
+1177081,junc tenu,hl,+,0,
+1177081,lyco euro euro,hl,+,15,
+1177081,ment aqua,hl,1a,0,
+1177081,prun vulg,hl,1b,0,
+1177081,ranu repe,hl,1b,0,
+1177081,scro nodo,hl,+,0,few individuals (r)
+1177081,soli cana,hl,2a,80,
+1177081,thal luci,hl,+,0,
+1177081,tuss farf,hl,+,0,few individuals (r)
+1177081,call cusp,ml,2a,0,
+1177081,cera purp,ml,+,0,
+1177082,betu pend plus pube,hl,+,0,few individuals (r)
+1177082,cala epig,hl,3,75,
+1177082,equi palu,hl,1b,50,
+1177082,erig annu slat,hl,+,70,
+1177082,eupa cann,hl,1a,0,
+1177082,hype perf,hl,+,0,
+1177082,ment aqua,hl,1a,0,
+1177082,soli giga,hl,3,110,
+1177083,betu pend plus pube,hl,1a,0,
+1177083,cala epig,hl,4,70,
+1177083,cirs arve,hl,+,0,
+1177083,cirs vulg,hl,+,0,few individuals (r)
+1177083,epil cili cili,hl,+,0,few individuals (r)
+1177083,eupa cann,hl,1b,0,
+1177083,frag vesc,hl,1b,0,
+1177083,holc lana,hl,+,0,
+1177083,junc effu,hl,1a,20,
+1177083,junc tenu,hl,1a,0,
+1177083,luzu mult,hl,+,0,few individuals (r)
+1177083,ment aqua,hl,1b,0,
+1177083,pote norv,hl,+,15,
+1177083,sali alba,hl,+,0,
+1177083,soli cana,hl,3,90,
+1177083,call cusp,ml,1a,0,
+1177083,cera purp,ml,+,0,
+1177084,betu pend plus pube,hl,1a,0,
+1177084,cala epig,hl,3,60,
+1177084,cirs arve,hl,+,0,
+1177084,desc cesp,hl,1b,0,
+1177084,eupa cann,hl,1b,0,
+1177084,frag vesc,hl,1b,0,
+1177084,holc lana,hl,1a,0,
+1177084,junc effu,hl,+,25,
+1177084,junc tenu,hl,1a,0,
+1177084,sali cine plus auri,hl,1a,0,
+1177084,soli cana,hl,2b,90,
+1177084,call cusp,ml,+,0,
+1177084,cera purp,ml,1a,0,
+1178083,cala epig,hl,2b,50,
+1178083,cirs arve,hl,+,0,
+1178083,desc cesp,hl,1b,0,
+1178083,erig annu slat,hl,2b,80,
+1178083,eupa cann,hl,+,0,
+1178083,frag vesc,hl,1a,0,
+1178083,holc lana,hl,1a,0,
+1178083,junc effu,hl,1a,60,
+1178083,junc tenu,hl,2b,0,
+1178083,popu trem,hl,3,0,
+1178083,sali alba,hl,+,0,
+1178083,sali cine plus auri,hl,+,0,few individuals (r)
+1178083,soli cana,hl,2b,80,
+1178083,call cusp,ml,1a,0,
+1178083,cera purp,ml,2a,0,
+1178084,betu pend plus pube,hl,+,0,
+1178084,cala epig,hl,3,50,
+1178084,cirs arve,hl,1a,0,
+1178084,eupa cann,hl,1a,0,
+1178084,frag vesc,hl,+,0,
+1178084,holc lana,hl,1a,0,
+1178084,junc effu,hl,+,40,
+1178084,junc tenu,hl,3,0,
+1178084,prun vulg,hl,1a,0,
+1178084,sali purp,hl,+,0,
+1178084,soli cana,hl,2b,90,
+1178084,call cusp,ml,1a,0,
+1178084,cera purp,ml,2a,0,
+1178085,betu pend plus pube,hl,+,0,few individuals (r)
+1178085,cala epig,hl,3,60,
+1178085,cirs arve,hl,+,0,
+1178085,desc cesp,hl,1a,0,
+1178085,equi palu,hl,1b,35,
+1178085,erig annu slat,hl,2a,80,
+1178085,eupa cann,hl,+,0,
+1178085,frag vesc,hl,1a,0,
+1178085,holc lana,hl,1a,0,
+1178085,hype perf,hl,+,0,few individuals (r)
+1178085,junc effu,hl,+,35,
+1178085,junc tenu,hl,1a,0,
+1178085,lyco euro euro,hl,+,15,few individuals (r)
+1178085,sali alba,hl,+,0,few individuals (r)
+1178085,soli cana,hl,3,70,
+1178085,call cusp,ml,1b,0,
+1178085,cera purp,ml,3,0,
+1178086,cala epig,hl,2a,60,
+1178086,desc cesp,hl,+,0,
+1178086,erig annu slat,hl,2a,90,
+1178086,eupa cann,hl,+,0,
+1178086,frag vesc,hl,+,0,
+1178086,gali palu palu,hl,2b,0,
+1178086,holc lana,hl,1a,0,
+1178086,hype perf,hl,+,0,few individuals (r)
+1178086,junc tenu,hl,1a,0,
+1178086,pote norv,hl,+,20,few individuals (r)
+1178086,prun vulg,hl,+,0,
+1178086,soli cana,hl,3,70,
+1178086,tuss farf,hl,+,0,
+1178086,brac sale,ml,2a,0,
+1178086,cera purp,ml,2a,0,
+1179085,cirs arve,hl,+,0,
+1179085,desc cesp,hl,1a,0,
+1179085,epil cili cili,hl,+,0,few individuals (r)
+1179085,erig annu slat,hl,3,65,
+1179085,eupa cann,hl,+,0,
+1179085,frag vesc,hl,+,0,
+1179085,holc lana,hl,+,0,
+1179085,junc effu,hl,1a,40,
+1179085,junc tenu,hl,1a,0,
+1179085,lyco euro euro,hl,+,10,few individuals (r)
+1179085,phra aust,hl,+,45,few individuals (r)
+1179085,sali capr,hl,+,0,few individuals (r)
+1179085,sali cine plus auri,hl,+,0,few individuals (r)
+1179085,soli cana,hl,1a,45,
+1179085,tara sect rude,hl,+,0,few individuals (r)
+1179085,tuss farf,hl,+,0,few individuals (r)
+1179085,call cusp,ml,1a,0,
+1179085,cera purp,ml,2a,0,
+1179086,cala epig,hl,3,65,
+1179086,cirs arve,hl,+,0,
+1179086,erig annu slat,hl,1a,70,
+1179086,eupa cann,hl,1a,0,
+1179086,hype perf,hl,+,0,
+1179086,junc tenu,hl,1a,0,
+1179086,soli cana,hl,2a,80,
+1179086,call cusp,ml,3,0,
+1179086,cera purp,ml,1a,0,
+1179087,cala epig,hl,1b,50,
+1179087,equi palu,hl,1b,25,
+1179087,erig cana,hl,+,0,
+1179087,eupa cann,hl,+,0,
+1179087,soli giga,hl,+,20,few individuals (r)
+1179087,tuss farf,hl,+,0,few individuals (r)
+1179088,cala epig,hl,1a,40,
+1179088,desc cesp,hl,+,0,few individuals (r)
+1179088,equi palu,hl,1a,25,
+1179088,lepi camp,hl,+,0,few individuals (r)
+1179088,phal arun,hl,+,0,
+1180087,equi palu,hl,1b,30,
+1180087,hype perf,hl,+,0,few individuals (r)
+1180087,lyco euro euro,hl,+,10,
+1180087,scut gale,hl,+,0,few individuals (r)
+1180087,soli cana,hl,+,30,
+1180087,tara sect rude,hl,+,0,few individuals (r)
+1180087,tuss farf,hl,+,0,few individuals (r)
+1180088,cala epig,hl,+,25,few individuals (r)
+1180088,equi palu,hl,+,10,
+1180089,cala epig,hl,+,20,
+1180089,desc cesp,hl,+,0,
+1180089,tuss farf,hl,+,0,few individuals (r)
+1180090,cala epig,hl,+,25,
+1180090,desc cesp,hl,+,0,few individuals (r)
+1180090,lyco euro euro,hl,+,10,few individuals (r)
+1180090,micr minu,hl,+,0,few individuals (r)
+1180090,tuss farf,hl,+,0,few individuals (r)
+1181089,cala epig,hl,+,30,
+1181089,care pseu,hl,+,15,few individuals (r)
+1181089,epil cili cili,hl,+,0,few individuals (r)
+1181089,lyco euro euro,hl,+,20,few individuals (r)
+1181089,micr minu,hl,+,0,
+1181090,cala epig,hl,+,25,
+1181090,desc cesp,hl,+,0,few individuals (r)
+1181090,erig cana,hl,+,0,few individuals (r)
+1181090,eupa cann,hl,+,0,few individuals (r)
+1181090,micr minu,hl,+,0,few individuals (r)
+1181090,tuss farf,hl,+,0,few individuals (r)
+1186137,cala epig,hl,1a,80,
+1186137,care oede,hl,+,0,
+1186137,gali palu palu,hl,1a,0,
+1186137,junc effu,hl,2b,80,
+1186137,leer oryz,hl,4,50,
+1186137,lyco euro euro,hl,+,0,
+1186137,lyth sali,hl,+,0,few individuals (r)
+1186137,ment aqua,hl,2b,0,
+1186137,sali cine plus auri,hl,+,0,few individuals (r)
+1186137,sali purp,hl,+,0,
+1186137,soli giga,hl,1a,80,
+1186137,marc poly slat,ml,1a,0,
+1186138,agro stol,hl,1a,0,
+1186138,care rost,hl,3,60,
+1186138,desc cesp,hl,+,0,
+1186138,gali palu palu,hl,1a,0,
+1186138,junc arti,hl,1a,0,
+1186138,junc effu,hl,2b,70,
+1186138,leer oryz,hl,2b,35,
+1186138,lyco euro euro,hl,+,0,
+1186138,lyth sali,hl,+,0,few individuals (r)
+1186138,ment aqua,hl,2b,50,
+1186138,phra aust,hl,1a,110,
+1186138,sali alba,hl,+,0,few individuals (r)
+1186138,sali cine plus auri,hl,+,0,few individuals (r)
+1186138,sali purp,hl,+,0,few individuals (r)
+1186138,sali tria tria,hl,+,0,few individuals (r)
+1186138,camp stel,ml,+,0,
+1186138,drep adun,ml,+,0,
+1186138,marc poly slat,ml,+,0,
+1186138,phil caes,ml,3,0,
+1186139,agro stol,hl,+,0,
+1186139,cala epig,hl,+,40,few individuals (r)
+1186139,care lepi,hl,+,0,few individuals (r)
+1186139,care rost,hl,2a,55,
+1186139,gali palu palu,hl,+,0,
+1186139,junc arti,hl,1a,0,
+1186139,junc effu,hl,1a,60,
+1186139,lyth sali,hl,+,0,few individuals (r)
+1186139,ment aqua,hl,3,40,
+1186139,phra aust,hl,+,150,
+1186139,sali myrs,hl,+,0,few individuals (r)
+1186139,sali purp,hl,+,0,few individuals (r)
+1186139,soli giga,hl,+,5,few individuals (r)
+1186139,cera purp,ml,1a,0,
+1186139,phil caes,ml,2b,0,
+1186140,betu pend plus pube,hl,+,0,few individuals (r)
+1186140,cala epig,hl,1a,60,
+1186140,desc cesp,hl,+,0,few individuals (r)
+1186140,epil palu,hl,+,0,few individuals (r)
+1186140,eupa cann,hl,+,0,few individuals (r)
+1186140,gali albu,hl,1a,0,
+1186140,holc lana,hl,+,0,few individuals (r)
+1186140,junc effu,hl,1b,80,
+1186140,junc tenu,hl,+,0,few individuals (r)
+1186140,leer oryz,hl,2a,35,
+1186140,lyco euro euro,hl,1a,0,
+1186140,lyth sali,hl,+,0,few individuals (r)
+1186140,ment aqua,hl,2b,50,
+1186140,phra aust,hl,1a,130,
+1186140,sali alba,hl,+,0,
+1186140,sali cine plus auri,hl,2a,0,
+1186140,sali purp,hl,+,0,few individuals (r)
+1186140,soli giga,hl,1b,70,
+1186140,bryu pseu pseu,ml,4,0,
+1186140,camp stel,ml,+,0,
+1186140,phil caes,ml,1a,0,
+1186141,agro stol,hl,+,0,
+1186141,alis plan,hl,1a,0,
+1186141,alnu glut,hl,+,0,few individuals (r)
+1186141,betu pend plus pube,hl,2a,0,
+1186141,care cane cane,hl,+,0,few individuals (r)
+1186141,care pseu,hl,1b,55,
+1186141,care rost,hl,+,65,
+1186141,eleo mami aust,hl,+,0,
+1186141,epil cili cili,hl,+,0,few individuals (r)
+1186141,gali palu palu,hl,1b,0,
+1186141,junc arti,hl,1a,0,
+1186141,junc effu,hl,+,55,
+1186141,lyco euro euro,hl,1a,0,
+1186141,lyth sali,hl,+,0,
+1186141,ment aqua,hl,1a,35,
+1186141,pers hydr,hl,+,0,few individuals (r)
+1186141,phra aust,hl,+,70,few individuals (r)
+1186141,pote norv,hl,+,0,few individuals (r)
+1186141,call cusp,ml,1a,0,
+1186141,marc poly slat,ml,+,0,few individuals (r)
+1186141,phil caes,ml,1b,0,
+1186142,agro stol,hl,2b,0,
+1186142,alis plan,hl,1b,0,
+1186142,bide cern,hl,+,0,
+1186142,care pseu,hl,1a,50,
+1186142,epil palu,hl,+,0,few individuals (r)
+1186142,gali palu palu,hl,+,0,
+1186142,junc arti,hl,1a,0,
+1186142,junc effu,hl,+,50,
+1186142,leer oryz,hl,4,30,
+1186142,lyco euro euro,hl,+,0,few individuals (r)
+1186142,lysi vulg,hl,+,0,few individuals (r)
+1186142,lyth sali,hl,+,0,few individuals (r)
+1186142,ment aqua,hl,1b,30,
+1186142,phra aust,hl,1b,150,
+1186142,sali myrs,hl,+,0,few individuals (r)
+1186142,spar erec slat,hl,+,0,
+1186142,call cusp,ml,1a,0,
+1186142,marc poly slat,ml,+,0,few individuals (r)
+1186142,phil caes,ml,2b,0,
+1186143,agro stol,hl,+,0,
+1186143,alis plan,hl,1a,0,
+1186143,bide cern,hl,+,0,few individuals (r)
+1186143,care pseu,hl,+,25,
+1186143,junc arti,hl,1b,0,
+1186143,leer oryz,hl,5,45,
+1186143,lyco euro euro,hl,+,0,
+1186143,lyth sali,hl,+,0,few individuals (r)
+1186143,phra aust,hl,+,90,few individuals (r)
+1186143,soli giga,hl,+,15,few individuals (r)
+1186143,spar erec slat,hl,1a,0,
+1186143,ricc flui,ml,+,0,
+1187138,cala epig,hl,1a,60,
+1187138,gali palu palu,hl,1a,0,
+1187138,junc effu,hl,3,80,
+1187138,junc tenu,hl,+,0,
+1187138,leer oryz,hl,+,50,
+1187138,lyco euro euro,hl,+,0,
+1187138,lyth sali,hl,+,0,few individuals (r)
+1187138,ment aqua,hl,2b,60,
+1187138,sali cine plus auri,hl,+,0,few individuals (r)
+1187138,sali purp,hl,+,0,few individuals (r)
+1187138,soli giga,hl,1a,100,
+1187138,bryu pseu pseu,ml,3,0,
+1187138,marc poly slat,ml,1a,0,
+1187139,cala epig,hl,2a,60,
+1187139,care rost,hl,1b,70,
+1187139,gali palu palu,hl,+,0,
+1187139,junc arti,hl,1a,0,
+1187139,junc effu,hl,+,70,
+1187139,leer oryz,hl,5,40,
+1187139,lyth sali,hl,+,0,few individuals (r)
+1187139,ment aqua,hl,2a,50,
+1187139,pers mino,hl,+,0,few individuals (r)
+1187139,soli giga,hl,+,80,few individuals (r)
+1187139,marc poly slat,ml,+,0,
+1187139,phil caes,ml,3,0,
+1187140,agro stol,hl,1a,0,
+1187140,cala epig,hl,1a,70,
+1187140,care rost,hl,3,70,
+1187140,desc cesp,hl,+,0,
+1187140,gali palu palu,hl,+,0,
+1187140,junc effu,hl,3,100,
+1187140,leer oryz,hl,1a,30,
+1187140,ment aqua,hl,2a,60,
+1187140,pers hydr,hl,+,0,
+1187140,phra aust,hl,1a,140,
+1187140,sali cine plus auri,hl,+,0,few individuals (r)
+1187140,sali purp,hl,+,0,few individuals (r)
+1187140,soli giga,hl,1b,100,
+1187140,bryu pseu pseu,ml,2a,0,
+1187140,call cusp,ml,2a,0,
+1187140,marc poly slat,ml,+,0,
+1187141,agro cani,hl,+,0,few individuals (r)
+1187141,agro stol,hl,3,0,
+1187141,alnu glut,hl,+,0,
+1187141,bide cern,hl,+,0,
+1187141,care cane cane,hl,+,0,few individuals (r)
+1187141,care pseu,hl,2b,40,
+1187141,care rost,hl,+,60,
+1187141,epil cili cili,hl,+,0,
+1187141,epil palu,hl,1a,0,
+1187141,gali palu palu,hl,1a,0,
+1187141,junc arti,hl,+,0,
+1187141,junc effu,hl,1a,100,
+1187141,leer oryz,hl,2b,30,
+1187141,lysi vulg,hl,+,0,few individuals (r)
+1187141,lyth sali,hl,+,0,
+1187141,ment aqua,hl,1b,40,
+1187141,pers hydr,hl,+,0,few individuals (r)
+1187141,phra aust,hl,+,100,
+1187141,camp stel,ml,+,0,
+1187141,drep adun,ml,+,0,
+1187141,marc poly slat,ml,+,0,few individuals (r)
+1187141,phil caes,ml,3,0,
+1187142,alis plan,hl,+,0,
+1187142,bide cern,hl,+,0,
+1187142,eleo mami aust,hl,+,0,
+1187142,leer oryz,hl,5,50,
+1187142,lyco euro euro,hl,+,0,few individuals (r)
+1187142,lyth sali,hl,+,0,few individuals (r)
+1187142,ment aqua,hl,+,30,few individuals (r)
+1187142,spar erec slat,hl,+,0,few individuals (r)
+1187142,call cusp,ml,+,0,few individuals (r)
+1188139,agro stol,hl,+,0,few individuals (r)
+1188139,cala epig,hl,2a,80,
+1188139,care pseu,hl,1a,70,
+1188139,care rost,hl,1a,60,
+1188139,gali palu palu,hl,+,0,
+1188139,junc effu,hl,3,80,
+1188139,leer oryz,hl,3,45,
+1188139,ment aqua,hl,2a,50,
+1188139,sali cine plus auri,hl,+,0,few individuals (r)
+1188139,soli giga,hl,2b,140,
+1188139,marc poly slat,ml,+,0,
+1188140,agro stol,hl,1b,0,
+1188140,alnu glut,hl,+,0,few individuals (r)
+1188140,bide cern,hl,+,0,few individuals (r)
+1188140,cala epig,hl,+,60,
+1188140,care pseu,hl,2a,60,
+1188140,care rost,hl,+,55,
+1188140,desc cesp,hl,+,0,few individuals (r)
+1188140,epil hirs,hl,+,0,few individuals (r)
+1188140,epil palu,hl,+,0,
+1188140,eupa cann,hl,+,0,few individuals (r)
+1188140,fili ulma,hl,+,0,few individuals (r)
+1188140,gali palu palu,hl,+,0,
+1188140,junc effu,hl,1a,89,
+1188140,leer oryz,hl,4,40,
+1188140,lysi vulg,hl,+,0,
+1188140,lyth sali,hl,+,0,few individuals (r)
+1188140,ment aqua,hl,1a,35,
+1188140,pers hydr,hl,+,0,few individuals (r)
+1188140,soli giga,hl,1a,110,
+1188140,bryu pseu pseu,ml,3,0,
+1188140,drep adun,ml,+,0,
+1188140,marc poly slat,ml,1a,0,
+1188140,phil caes,ml,1a,0,
+1188141,agro stol,hl,+,0,few individuals (r)
+1188141,cala epig,hl,1b,100,
+1188141,care pseu,hl,+,60,
+1188141,care rost,hl,2b,65,
+1188141,junc effu,hl,2b,100,
+1188141,leer oryz,hl,1a,40,
+1188141,lyco euro euro,hl,+,0,
+1188141,lysi vulg,hl,1a,0,
+1188141,lyth sali,hl,+,0,
+1188141,ment aqua,hl,1a,60,
+1188141,myos scor scor,hl,+,0,
+1188141,phal arun,hl,1b,0,
+1188141,phra aust,hl,+,160,
+1188141,poa triv,hl,+,0,
+1188141,prun vulg,hl,+,0,
+1188141,soli giga,hl,2a,100,
+1188141,call cusp,ml,3,0,
+1189140,agro stol,hl,+,0,
+1189140,cala epig,hl,1a,70,
+1189140,care pseu,hl,+,70,
+1189140,desc cesp,hl,+,0,
+1189140,epil cili cili,hl,+,0,
+1189140,eupa cann,hl,1a,0,
+1189140,junc effu,hl,3,120,
+1189140,junc tenu,hl,1a,0,
+1189140,leer oryz,hl,2a,35,
+1189140,lyco euro euro,hl,+,0,
+1189140,lyth sali,hl,+,0,few individuals (r)
+1189140,ment aqua,hl,1a,60,
+1189140,phal arun,hl,1a,0,
+1189140,phra aust,hl,2b,150,
+1189140,poa triv,hl,+,0,
+1189140,scut gale,hl,+,0,few individuals (r)
+1189140,soli giga,hl,2a,130,
+1189140,bryu pseu pseu,ml,+,0,
+1189140,marc poly slat,ml,1a,0,
