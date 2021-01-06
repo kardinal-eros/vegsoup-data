@@ -116,6 +116,7 @@ x <- sapply(file.path(path, x), function (x) {
 b <- do.call("c", x)
 
 f <- names(x)
+d <- gsub(paste0(path, "/"), "", f, fixed = TRUE)
 k <- sapply(x, function (x) x[[ 1 ]]$key)
 p <- sapply(x, function (x) x[[ 1 ]]$bibtype)
 n <- sapply(x, function (x) x[[ 1 ]]$title)
@@ -138,6 +139,7 @@ for (i in seq_along(f)) {
 	load(file.path(f[ i ], paste0(k[ i ], ".rda")))
 	ii <- get(k[ i ])
 	ii$key = k[ i ]
+	ii$dataset <- d[ i ]
 	ii$author = a[ i ]
 	ii$title = n[ i ]
 	ii$bibtype <- p[ i ]
@@ -150,11 +152,10 @@ sapply(sapply(mget(k), coverscale), slot, "name")
 #	compress and bind all objects
 l <- sapply(mget(k), function (x) compress(x,
 	retain = c("date", "observer", "location",
-		"accuracy", "remarks", "author", "title", "bibtype")))
-
-sapply(l, names, simplify = FALSE)
-which(sapply(sapply(l, names, simplify = FALSE), length) != 7)
-
+		"accuracy", "remarks", "dataset", "author", "title", "bibtype")))
+#	test variabales
+#	sapply(l, names, simplify = FALSE)
+#	which(sapply(sapply(l, names, simplify = FALSE), length) != 9)
 
 X <- do.call("bind", l)
 
