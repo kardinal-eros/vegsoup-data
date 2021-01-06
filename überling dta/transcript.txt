@@ -1,5 +1,7 @@
 BEGIN HEAD
-plot                                               ffffffffffffffffffffffffffssssssssssssssssssssss
+plot                                               uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+                                                   llllllllllllllllllllllllllllllllllllllllllllllll
+                                                   ffffffffffffffffffffffffffssssssssssssssssssssss
                                                    000000000111111111122222220000000001111111111222
                                                    123456789012345678901234561234567890123456789012
 richness                                            1111  1 1 1 11 11   1 111 111111211111111111221
