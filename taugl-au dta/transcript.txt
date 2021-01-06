@@ -3,6 +3,8 @@ plot                                               ttttttttttttttttttttttttttttt
                                                    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
                                                    000000000111111111122222222223333
                                                    123456789012345678901234567890123
+accuracy                                           555555555555555555555555555555555
+                                                                                    
 bare                                               000000000000000000000000000000000
                                                                                     
 canopy.closure                                     000000000  0000000000000000000   

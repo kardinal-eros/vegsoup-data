@@ -35,7 +35,6 @@ ii <- c(
 	"monte negro dta",
 	"nußbaumer2000",
 	"pflugbeil2012",
-	"prebersee dta",
 	"ruttner1994",
 	"sobotik1998",
 	"schwarz1989",

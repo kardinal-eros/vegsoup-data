@@ -3,6 +3,8 @@ plot                                          ttttttttttttttttttttttt
                                               bbbbbbbbbbbbbbbbbbbbbbb
                                               00000000011111111112222
                                               12345678901234567890123
+accuracy                                      55555555555555555555555
+                                                                     
 bare                                          00000000000000000000000
                                                                      
 cov                                               1                  
