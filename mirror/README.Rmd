@@ -1,3 +1,10 @@
+---
+title: "Mirror"
+author: Roland kaiser
+date: 2020-01-06
+output: md_document
+---
+
 <!--
 %\VignetteEngine{knitr::knitr}
 %\VignetteIndexEntry{RMarkdown Citations - Alphabetic Style}
@@ -13,15 +20,16 @@ cite.style = "draft", bib.style = "draft")
 path <- "~/Documents/vegsoup-data"
 x <- list.files(path)
 
+#	files to ignore
 ii <- c(
 #	other files
 	"CHANGES.md",
 	"README.md",
-	"README.png",
+	"README.png",	
 	"mirror",
-	"givd",	
+	"givd",	# to be deleted
 #	unfished data sets
-	"dirnböck1999",
+	"dirnböck1999",
 	"brunner2011",
 	"dunzendorfer1980",
 	"greimler1996",
@@ -37,20 +45,17 @@ ii <- c(
 	"ruttner1994",
 	"sobotik1998",
 	"schwarz1989",
-	"stadler1991",
-	"stadler1992",
+	"stadler1991", # to be deleted
+	"stadler1992", # to be deleted
 	"surina2004",
-	"urban1992",
-	"urban2008",
-	"urhamerberg dta",
 #	occurrence plots only
 	"alt ems dta",
 	"adnet dta",
-	"bräumauer dta",
+	"bräumauer dta",
 	"glasenbachklamm dta",
 	"graswang dta",
 	"illschlucht dta",
-	"jansenmäuer dta",
+	"jansenmäuer dta",
 	"kreuzmauer dta",
 	"lichtl dta",
 	"luegstein dta",
@@ -61,7 +66,7 @@ ii <- c(
 	"schieferstein dta",
 	"schrattenboden dta",
 	"wirlingwand dta",
-	"ybbs and türnitz prealps dta",
+	"ybbs and türnitz prealps dta",
 	"zwurms meschach dta",	
 #	independent taxonomy
 	"crete dta",
@@ -69,7 +74,9 @@ ii <- c(
 	"cape hallet lichen dta",
 	"salzkammergut lichen dta",
 	"kalkalpen lichen dta",
-#	turboveg taxonomy (keep in sync with mirror dev.R)
+#	custom coverscale and taxonomy
+	"furka dta",		
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)
 	"aspro dta",
 	"donauauen dta",
 	"enzersfeld dta",
@@ -84,7 +91,7 @@ ii <- c(
 	"reichraming dta",
 	"sankt margarethen dta",
 	"seekirchen dta",	
-	"südburgenland dta",
+	"südburgenland dta",
 	"traun and steyr and ennstal dta",
 	"vorarlberg dta",
 	"wien dta",
@@ -92,7 +99,9 @@ ii <- c(
 	"witzelsdorf dta"
 )
 
-x <- x[ -match(ii, x) ]
+s <- match(ii, x)
+s <- s[ !is.na(s) ]
+x <- x[ -s ]
 
 #	biblographic entities
 x <- sapply(file.path(path, x), function (x) {
