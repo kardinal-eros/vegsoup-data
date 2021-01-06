@@ -1,3 +1,19 @@
+hist(X$year[ X$published ])
+names(X)
+X$published <- "no"#
+X$published[grep(":", rownames(X), fixed = TRUE)] <- "yes"
+X$published
+X$published <- FALSE#
+X$published[grep(":", rownames(X), fixed = TRUE)] <- TRUE#
+table(X$published)
+hist(X$year[ X$published ])
+hist(X$year[ !X$published ])
+hist(X$year[ !X$published ], xlim = range(X$year))
+hist(X$year[ X$published ], xlim = range(X$year))
+hist(X$year[ !X$published ], xlim = range(X$year))
+hist(X$year[ X$published ], xlim = range(X$year), add = T)
+hist(X$year[ !X$published ])
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
 #	this is a build script for all available data sets#
 #	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
 #
@@ -70,6 +86,8 @@ ii <- c(#
 	"cape hallet lichen dta",#
 	"salzkammergut lichen dta",#
 	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",		#
 #	turboveg taxonomy (keep in sync with mirror dev.R)#
 	"aspro dta",#
 	"donauauen dta",#
@@ -141,9 +159,69 @@ for (i in seq_along(f)) {#
 sapply(sapply(mget(k), coverscale), slot, "name")#
 #
 #	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("author", "title", "accuracy", "observer")))#
+l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))#
 #
-sapply(l, names)
+sapply(l, names, simplify = FALSE)#
+which(sapply(sapply(l, names, simplify = FALSE), length) != 7)#
+X <- do.call("bind", l)#
+#
+#	key#
+X$id <- row.names(X)#
+#
+sites(X) <- sites(X)[ , names(X) != "compress" ]#
+#
+#	richness#
+X$richness <- richness(X, "sample")
+names(X)
+as.Date(X$date)
+X$date <- as.Date(X$date)#
+#
+#	extract year#
+X$year <- as.numeric(sapply(str_split(X$date, "-"), head, 1))#
+#
+#	flag literature data#
+X$published <- FALSE#
+X$published[grep(":", rownames(X), fixed = TRUE)] <- TRUE#
+table(X$published)#
+#
+#	summary for README.md#
+src <- as.data.frame(table(X$author))#
+names(src) <- c("author", "plots")#
+#
+rk <- grep("R Kaiser", src$author)#
+te <- grep("T Eberl", src$author)#
+#
+rkte <- src[ unique(c(rk, te)), ]#
+sum(rkte$plots)#
+#
+sum(rkte$plots)#
+lit <- src[ -unique(c(rk, te)), ]#
+sum(lit$plots)#
+#
+#	save to disk#
+save(X, file = file.path(path, "mirror", "mirror.rda"))#
+#
+#	write ESRI Shapefile#
+x <- data.frame(coordinates(X), sites(X))#
+coordinates(x) <- ~x + y#
+proj4string(x) <- CRS("+init=epsg:4326")#
+dsn <- file.path(path.expand(path), "mirror")#
+#	write ESRI Shaepfile#
+writeOGR(x, dsn, "mirror", driver = "ESRI Shapefile", overwrite_layer = TRUE)
+source("/Users/roli/Documents/vegsoup-data/urban1992/MakeVegsoup.R")
+ls()
+names(Urban1992)
+Urban1992$date
+Urban1992$location
+source("/Users/roli/Documents/vegsoup-data/urban1992/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/urban2008/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/urhamerberg dta/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/urban2008/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/urban1992/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/surina2004/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
 #	this is a build script for all available data sets#
 #	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
 #
@@ -160,13 +238,14 @@ rm(list = ls())#
 path <- "~/Documents/vegsoup-data"#
 x <- list.files(path)#
 #
+#	ignore these files#
 ii <- c(#
 #	other files#
 	"CHANGES.md",#
 	"README.md",#
 	"README.png",	#
 	"mirror",#
-	"givd",	#
+	"givd",	# to be deleted#
 #	unfished data sets#
 	"dirnböck1999",#
 	"brunner2011",#
@@ -184,12 +263,9 @@ ii <- c(#
 	"ruttner1994",#
 	"sobotik1998",#
 	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
 	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
 #	occurrence plots only#
 	"alt ems dta",#
 	"adnet dta",#
@@ -216,7 +292,9 @@ ii <- c(#
 	"cape hallet lichen dta",#
 	"salzkammergut lichen dta",#
 	"kalkalpen lichen dta",#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
+#	custom coverscale and taxonomy#
+	"furka dta",		#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
 	"aspro dta",#
 	"donauauen dta",#
 	"enzersfeld dta",#
@@ -238,125 +316,17 @@ ii <- c(#
 	"wienerwald dta",#
 	"witzelsdorf dta"#
 )#
+#
+#	test project exclusion list#
 stopifnot(all(ii %in% x))#
 #
 x <- x[ -match(ii, x) ]#
 #
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
+#	run build update?#
+build = FALSE#
 #
-build = T#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
+#	WARNING, running a Make-file will delete *all* objects in the enviroment when leaving.#
+if (build) {	#
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
 		cat(x, "\n")#
 		source(x)#
@@ -369,215 +339,88 @@ x <- sapply(file.path(path, x), function (x) {#
 }, simplify = FALSE)#
 #
 #	write bibliography#
-b <- do.call("c", x)#
+b <- do.call("c", x)
+b
+lentgh(b)
+length(b)
+source("/Users/roli/Documents/vegsoup-data/amann2004/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/wittmann2007/MakeVegsoup.R")
+ls()
+Wittmann2007$observer
+require(vegsoup)#
+require(bibtex)#
 #
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
+path <- "~/Documents/vegsoup-data/wittmann2007"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
+source(file.path(path, "MakeVegsoup1.R"))#
+source(file.path(path, "MakeVegsoup2.R"))#
 #
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
+#	bind data sets#
+obj <- vegsoup::bind(tab1, tab2)#
 #
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("author", "title", "accuracy", "observer")))#
+#	assign result object#
+assign(key, obj)#
 #
-sapply(l, names)
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#	richness#
+obj$richness <- richness(obj, "sample")#
 #
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
+#	add observer#
+obj$observer <- "Wittmann et al"
+obj$observer
+source("/Users/roli/Documents/vegsoup-data/wittmann2007/MakeVegsoup.R")
+require(vegsoup)#
+require(bibtex)#
 #
-rm(list = ls())#
+path <- "~/Documents/vegsoup-data/wittmann2007"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
+source(file.path(path, "MakeVegsoup1.R"))#
+source(file.path(path, "MakeVegsoup2.R"))#
 #
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	custom coverscale#
-	"furka dta",	#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
+#	bind data sets#
+obj <- vegsoup::bind(tab1, tab2)#
 #
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}#
-#
-#	biblographic entities	#
-x <- sapply(file.path(path, x), function (x) {#
-	read.bib(file.path(x, "references.bib"))	#
-}, simplify = FALSE)#
-#
-#	write bibliography#
-b <- do.call("c", x)#
-#
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
-#
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
-#
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
-#
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("author", "title", "accuracy", "observer")))#
-#
-sapply(l, names)
-source("/Users/roli/Documents/vegsoup-data/furka dta/MakeVegsoup.R")
+#	add observer#
+obj$observer
+source("/Users/roli/Documents/vegsoup-data/wittmann2007/MakeVegsoup.R")
+Wittmann2007$observer
+source("/Users/roli/Documents/vegsoup-data/wittmann2007/MakeVegsoup.R")
+Wittmann2007$observer
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+X$remarks
+X$remarks[ grep("date", X$remarks) ]
+X$remarks <- as.character(X$remarks)
+X$remarks[ grep("date", X$remarks) ]
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/wittmann2007/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/faber1936/MakeVegsoup.R")
 library(vegsoup)#
 require(bibtex)#
 #
-path <- "~/Documents/vegsoup-data/dirnböck1997"#
+path <- "~/Documents/vegsoup-data/bürmoos dta"#
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-key <- key[[1]]#
 #
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3.txt"#
-x <- read.verbatim(file, "Aufnahmenummer")#
-x <- data.frame(abbr = rownames(x),#
-	layer = "hl", x, check.names = FALSE)#
-# promote to class "Species"#
-X <- stackSpecies(x)[, 1:4]#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ";")#
+X <- X[, 1:4]#
 #
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3Locations.csv"#
-Y <- stackSites(file = file, sep = ";", schema = "Aufahmenummer")#
+file <- file.path(path, "sites.csv")#
+#	promote to class "Sites"#
+Y <- sites(file, sep = ";")#
 #
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-# promote to class "SpeciesTaxonomy"#
+#	promote to class "SpeciesTaxonomy"#
 XZ <- SpeciesTaxonomy(X, file.y = file)#
 #
 #	build "Vegsoup" object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-coordinates(obj) <- ~Längengrad+Breitengrad#
-proj4string(obj) <- CRS("+init=epsg:4326")#
+obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")#
 #
-names(obj) <- c("date", "tcov", "hcov", "scov", "expo", "pls", "elevation", "location", "slope", "observer", "remarks", "accurracy")#
-#
-#	unique rownames#
-rownames(obj) <- paste(key, "Tab3", sprintf("%04d", as.numeric(rownames(obj))), sep = ":")#
+#	order layer#
+layers(obj)	 <- c("tl1", "sl", "hl", "ml")#
+obj <- layers(obj, collapse = c("tl", "sl", "hl", "ml"))#
 #
 #	assign result object#
 assign(key, obj)#
@@ -591,1278 +434,95 @@ obj$citation <- format(bib, style = "text")#
 #
 #	save to disk#
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))#
-write.verbatim(obj, file.path(path, "transcript.txt"), sep = "",#
-	add.lines = TRUE, table.nr = TRUE)#
+write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE, select = "richness")#
 #
 #	tidy up#
 rm(list = ls()[-grep(key, ls())])
-ls ()
-names(Dirnboeck1997)
-library(vegsoup)#
-require(bibtex)#
-#
-path <- "~/Documents/vegsoup-data/dirnböck1997"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-key <- key[[1]]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3.txt"#
-x <- read.verbatim(file, "Aufnahmenummer")#
-x <- data.frame(abbr = rownames(x),#
-	layer = "hl", x, check.names = FALSE)#
-# promote to class "Species"#
-X <- stackSpecies(x)[, 1:4]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3Locations.csv"#
-Y <- stackSites(file = file, sep = ";", schema = "Aufahmenummer")#
-#
-file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-# promote to class "SpeciesTaxonomy"#
-XZ <- SpeciesTaxonomy(X, file.y = file)#
-#
-#	build "Vegsoup" object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-coordinates(obj) <- ~Längengrad+Breitengrad#
-proj4string(obj) <- CRS("+init=epsg:4326")#
-#
-names(obj)
-names(obj) <- c("date", "tcov", "hcov", "scov", "expo", "pls", "elevation", "location", "slope", "observer", "remarks", "accurracy")
-library(vegsoup)#
-require(bibtex)#
-#
-path <- "~/Documents/vegsoup-data/dirnböck1997"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-key <- key[[1]]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3.txt"#
-x <- read.verbatim(file, "Aufnahmenummer")#
-x <- data.frame(abbr = rownames(x),#
-	layer = "hl", x, check.names = FALSE)#
-# promote to class "Species"#
-X <- stackSpecies(x)[, 1:4]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3Locations.csv"#
-Y <- stackSites(file = file, sep = ";", schema = "Aufahmenummer")#
-#
-file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-# promote to class "SpeciesTaxonomy"#
-XZ <- SpeciesTaxonomy(X, file.y = file)#
-#
-#	build "Vegsoup" object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-coordinates(obj) <- ~Längengrad+Breitengrad#
-proj4string(obj) <- CRS("+init=epsg:4326")#
-#
-names(obj)
-library(vegsoup)#
-require(bibtex)#
-#
-path <- "~/Documents/vegsoup-data/dirnböck1997"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-key <- key[[1]]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3.txt"#
-x <- read.verbatim(file, "Aufnahmenummer")#
-x <- data.frame(abbr = rownames(x),#
-	layer = "hl", x, check.names = FALSE)#
-# promote to class "Species"#
-X <- stackSpecies(x)[, 1:4]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3Locations.csv"#
-Y <- stackSites(file = file, sep = ";", schema = "Aufahmenummer")#
-#
-file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-# promote to class "SpeciesTaxonomy"#
-XZ <- SpeciesTaxonomy(X, file.y = file)#
-#
-#	build "Vegsoup" object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-coordinates(obj) <- ~Längengrad+Breitengrad#
-proj4string(obj) <- CRS("+init=epsg:4326")#
-#
-names(obj) <- c("date", "tcov", "hcov", "scov", "expo", "pls", "elevation", "location", "slope", "observer", "remarks", "accurracy")#
-#
-#	unique rownames#
-rownames(obj) <- paste(key, "Tab3", sprintf("%04d", as.numeric(rownames(obj))), sep = ":")#
-#
-#	assign result object#
-assign(key, obj)#
-#
-#	richness#
-obj$richness <- richness(obj, "sample")#
-#
-#	add citation#
-obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))#
-obj$citation <- format(bib, style = "text")#
-#
-head(sites(obj))
-source("/Users/roli/Documents/vegsoup-data/dirnböck1997/MakeVegsoup.R")
-library(vegsoup)#
-require(bibtex)#
-#
-path <- "~/Documents/vegsoup-data/dirnböck1997"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-key <- key[[1]]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3.txt"#
-x <- read.verbatim(file, "Aufnahmenummer")#
-x <- data.frame(abbr = rownames(x),#
-	layer = "hl", x, check.names = FALSE)#
-# promote to class "Species"#
-X <- stackSpecies(x)[, 1:4]#
-#
-file <- "~/Documents/vegsoup-data/dirnböck1997/Dirnböck1997Tab3Locations.csv"#
-Y <- stackSites(file = file, sep = ";", schema = "Aufahmenummer")#
-#
-file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-# promote to class "SpeciesTaxonomy"#
-XZ <- SpeciesTaxonomy(X, file.y = file)#
-#
-#	build "Vegsoup" object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-coordinates(obj) <- ~Längengrad+Breitengrad#
-proj4string(obj) <- CRS("+init=epsg:4326")#
-#
-names(obj) <- c("date", "tcov", "hcov", "scov", "expo", "pls", "elevation", "location", "slope", "observer", "remarks", "accurracy")#
-#
-#	unique rownames#
-rownames(obj) <- paste(key, "Tab3", sprintf("%04d", as.numeric(rownames(obj))), sep = ":")#
-#
-head(sites(obj))
-source("/Users/roli/Documents/vegsoup-data/dirnböck1997/MakeVegsoup.R")
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}#
-#
-#	biblographic entities	#
-x <- sapply(file.path(path, x), function (x) {#
-	read.bib(file.path(x, "references.bib"))	#
-}, simplify = FALSE)#
-#
-#	write bibliography#
-b <- do.call("c", x)#
-#
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
-#
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
-#
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
-#
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "accuracy", "author", "title")))#
-#
-sapply(l, names)
-X <- do.call("bind", l)
-l
-sapply(l, names, simplify = FALSE)
-sapply(sapply(l, names, simplify = FALSE), length)
-l
-sapply(l, names, simplify = FALSE)
-sapply(sapply(l, names, simplify = FALSE), length) != 6
-which(sapply(sapply(l, names, simplify = FALSE), length) != 6)
-X <- do.call("vegsoup::bind", l)
-vegsoup::bind
-?do.call
-X <- do.call("bind", l)
-traceback()
-l[[1]]
-species(l[[1]])
-species(l[[1]])@data
-species(l[[1]])
-sapply(l, species)
-sapply(sapply(l, species). ncol)
-sapply(sapply(l, species), ncol)
-sapply(sapply(l, species), dim)
-sapply(l, species)
-X <- do.call("bind", l[1:10])
-X <- do.call("bind", l[1:20])
-len gth(l)
-length(l)
-X <- do.call("bind", l[1:50])
-X <- do.call("bind", l[1:70])
-X <- do.call("bind", l[1:68])
-X <- do.call("bind", l[1:67])
-X <- do.call("bind", l[1:65])
-X <- do.call("bind", l[1:60])
-X <- do.call("bind", l[1:59])
-X <- do.call("bind", l[1:50])
-X <- do.call("bind", l[1:51])
-X <- do.call("bind", l[1:52])
-X <- do.call("bind", l[1:53])
-l[53]
-species(l[ 53 ])
-species(l[[ 53 ]])
-source("/Users/roli/Documents/vegsoup-data/halfing dta/MakeVegsoup.R")
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}#
-#
-#	biblographic entities	#
-x <- sapply(file.path(path, x), function (x) {#
-	read.bib(file.path(x, "references.bib"))	#
-}, simplify = FALSE)#
-#
-#	write bibliography#
-b <- do.call("c", x)#
-#
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
-#
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
-#
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
-#
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "accuracy", "author", "title")))#
-#
-sapply(l, names, simplify = FALSE)#
-sapply(sapply(l, names, simplify = FALSE), length) != 6#
-X <- do.call("bind", l[1:53])
-X <- do.call("bind", l)
-X
-foo <- as.matrix(X)
-dim(foo)
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}#
-#
-#	biblographic entities	#
-x <- sapply(file.path(path, x), function (x) {#
-	read.bib(file.path(x, "references.bib"))	#
-}, simplify = FALSE)#
-#
-#	write bibliography#
-b <- do.call("c", x)#
-#
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
-#
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
-#
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
-#
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))
-sapply(l, names, simplify = FALSE)
-source("/Users/roli/Documents/vegsoup-data/weißkirchen dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/weitwörth dta/MakeVegsoup.R")
-names(ww)
-source("/Users/roli/Documents/vegsoup-data/weitwörth dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/talus slopes dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/sulzau dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/hauser kaibling dta/MakeVegsoup.R")
-coordinates(hk)
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = T#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}#
-#
-#	biblographic entities	#
-x <- sapply(file.path(path, x), function (x) {#
-	read.bib(file.path(x, "references.bib"))	#
-}, simplify = FALSE)#
-#
-#	write bibliography#
-b <- do.call("c", x)#
-#
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
-#
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
-#
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
-#
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))#
-#
-sapply(l, names, simplify = FALSE)
+ls()
+bm$date
 require(vegsoup)#
-require(naturalsort)#
-require(bibtex)#
-require(stringr)#
-#
-path <- "~/Documents/vegsoup-data/chytry1995"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-#
-#	taxon translation#
-file <- file.path(path, "translate.csv")#
-A <- read.csv2(file, stringsAsFactors = FALSE)#
-#
-#	species#
-file <- file.path(path, "Chytry1995.csv")#
-x <- read.csv2(file, stringsAsFactors = FALSE)#
-j <- ncol(x)#
-x <- x[, -c((j - 1), j)]#
-#
-#	begin of taxa block#
-i <- max(which(x[, 1] == ""))#
-#
-#	get taxa block#
-X <- x[(i + 1):nrow(x), ]#
-names(X)[ 1:2 ] <- c("taxon", "layer")#
-#
-#	relevee names#
-p1 <- str_trim(unlist( x[grep("No. table in publ.", x[, 1]), -(1:2)] ))#
-p2 <- str_trim(unlist( x[grep("No. releve in table", x[, 1]), -(1:2)] ))#
-if (any(p2 == "")) p2[p2 == ""] <- 1#
-p <- paste(paste0("Tab", p1), p2, sep = ":")#
-stopifnot(!any(duplicated(p)))#
-names(X)[ -(1:2) ] <- p#
-#
-#	join taxa translation with abbreviations#
-stopifnot(identical(X$taxon, A$taxon))#
-X <- cbind(A, X[, -1])#
-#
-#	build object of class "Species"#
-X <- stackSpecies(x = X, schema = c("abbr", "layer", "taxon"))[, 1:4]#
-#
-#	sites#
-Y <- t(x[1:i, -2])#
-colnames(Y) <- Y[1, ]#
-Y <- Y[-1, ]#
-Y <- as.data.frame(Y, stringsAsFactors = FALSE)#
-Y$plot <- p#
-#
-#	build object of class "Sites"#
-Y <- stackSites(x = Y)#
-#
-#	build object of class "SpeciesTaxonomy", tests matching to reference list#
-file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-XZ <- SpeciesTaxonomy(x = X, file.y = file)#
-variable(Y, "longitude")#
-variable(Y, "latitude")#
-#	build vegsoup object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-#
-#	assign coordinates#
-xy <- sites(obj)[c("Longitude", "Latitude")]#
-#
-#	function convert data (DDMMSS.SS) into decimal degrees#
-string2dd <- function (x) {#
-	y <- as.character(x[2]); x <- as.character(x[1])#
-	lx <- nchar(x); ly <- nchar(y)	#
-	#	longitude#
-	d <- substring(x, 1, lx - 4)#
-	m <- substring(x, lx - 3, lx - 2)#
-	s <- substring(x, lx - 1, lx)#
-	x <- as.numeric(char2dms(paste0(d, "d", m, "'", s, "\"")))#
-	#	latitude#
-	d <- substring(y, 1, ly - 4)#
-	m <- substring(y, ly - 3, ly - 2)#
-	s <- substring(y, ly - 1, ly)#
-	dms <- paste0(d, "d", m, "'", s, "\"")#
-	y <- as.numeric(char2dms(dms))	#
-	r <- c(x,y)#
-	return(r)	#
-}#
-#
-xy <- t(apply(xy, 1, string2dd))#
-#
-obj$Longitude <- xy[, 1]#
-obj$Latitude <- xy[, 2]#
-coordinates(obj) <- ~Longitude+Latitude#
-proj4string(obj) <- CRS("+init=epsg:4326")#
-#
-obj$accuracy <- 20 # rough guess#
-#
-obj$observer <- "M. Chytrý, & J. Vicherek"#
-#
-obj$date <- as.character(strftime(paste0(obj$Year,"-", obj$Month, "-", obj$Day), format = "%Y-%m-%d"))
-names(obj)
-names(obj)[ names(obj) == "Locality"]
-require(vegsoup)#
-require(naturalsort)#
-require(bibtex)#
-require(stringr)#
-#
-path <- "~/Documents/vegsoup-data/chytry1996"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-#
-#	taxon translation#
-file <- file.path(path, "translate.csv")#
-A <- read.csv2(file, stringsAsFactors = FALSE)#
-#
-#	species#
-file <- file.path(path, "Chytry1996.csv")#
-x <- read.csv2(file, stringsAsFactors = FALSE)#
-j <- ncol(x)#
-x <- x[, -c((j - 1), j)]#
-#
-#	begin of taxa block#
-i <- max(which(x[, 1] == ""))#
-#
-#	get taxa block#
-X <- x[(i + 1):nrow(x), ]#
-names(X)[ 1:2 ] <- c("taxon", "layer")#
-#
-#	relevee names#
-p1 <- str_trim(unlist( x[grep("No. table in publ.", x[, 1]), -(1:2)] ))#
-p1 <- gsub("[[:punct:]]", "", p1)#
-p2 <- str_trim(unlist( x[grep("No. releve in table", x[, 1]), -(1:2)] ))#
-if (any(p2 == "")) p2[p2 == ""] <- 1#
-p <- paste(paste0("Tab", p1), p2, sep = ":")#
-p <- gsub("Tabp", "p", p)#
-stopifnot(!any(duplicated(p)))#
-names(X)[ -(1:2) ] <- p#
-#
-#	join taxa translation with abbreviations#
-stopifnot(identical(X$taxon, A$taxon))#
-X <- cbind(A, X[, -1])#
-#
-#	build object of class "Species"#
-X <- stackSpecies(x = X, schema = c("abbr", "layer"))[, 1:4]#
-#
-#	sites#
-Y <- t(x[1:i, -2])#
-colnames(Y) <- Y[1, ]#
-Y <- Y[-1, ]#
-Y <- as.data.frame(Y, stringsAsFactors = FALSE)#
-Y$plot <- p#
-#
-#	build object of class "Sites"#
-Y <- stackSites(x = Y)#
-#
-#	build object of class "SpeciesTaxonomy", tests matching to reference list#
-file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-XZ <- SpeciesTaxonomy(x = X, file.y = file)#
-#
-#	build vegsoup object#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")#
-#
-#	assign coordinates#
-xy <- sites(obj)[c("Longitude", "Latitude")]#
-#
-#	function convert data (DDMMSS.SS) into decimal degrees#
-string2dd <- function (x) {#
-	y <- as.character(x[2]); x <- as.character(x[1])#
-	lx <- nchar(x); ly <- nchar(y)	#
-	#	longitude#
-	d <- substring(x, 1, lx - 4)#
-	m <- substring(x, lx - 3, lx - 2)#
-	s <- substring(x, lx - 1, lx)#
-	x <- as.numeric(char2dms(paste0(d, "d", m, "'", s, "\"")))#
-	#	latitude#
-	d <- substring(y, 1, ly - 4)#
-	m <- substring(y, ly - 3, ly - 2)#
-	s <- substring(y, ly - 1, ly)#
-	dms <- paste0(d, "d", m, "'", s, "\"")#
-	y <- as.numeric(char2dms(dms))	#
-	r <- c(x,y)#
-	return(r)	#
-}#
-#
-xy <- t(apply(xy, 1, string2dd))#
-#
-obj$Longitude <- xy[, 1]#
-obj$Latitude <- xy[, 2]#
-coordinates(obj) <- ~Longitude+Latitude#
-proj4string(obj) <- CRS("+init=epsg:4326")#
-#
-obj$accuracy <- 20 # rough guess#
-#
-obj$observer <- "M. Chytrý, & J. Vicherek"#
-obj$date <- as.character(strftime(paste0(obj$Year,"-", obj$Month, "-", obj$Day), format = "%Y-%m-%d"))#
-names(obj)
-source("/Users/roli/Documents/vegsoup-data/chytry1997/MakeVegsoup.R")
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = T#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}
-source("/Users/roli/Documents/vegsoup-data/petrik2005/MakeVegsoup.R")
-library(vegsoup)#
 require(bibtex)#
 #
-path <- "~/Documents/vegsoup-data/Petrik2005"#
+path <- "~/Documents/vegsoup-data/erschbamer1992"#
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-#	read digitized table #
-file <- file.path(path, "Petrik2005Tab1taxon2standard.txt")#
-x <- read.verbatim(file, "Relevee number")#
+file <- file.path(path, "Erschbamer1992Tab4.txt")#
 #
-#	assign moss layers#
-l <- rep("hl", nrow(x))#
-l [c(3,40, 42,43,70,71,74,97:174) ] <- "ml"#
+# read digitized table#
+x1 <- read.verbatim(file, colnames = "Aufnahme Nr.")#
 #
-# promote to class "Species"#
-x.df <- data.frame(abbr = rownames(x),#
-			layer = "hl",#
-			taxon = NA, x,#
-			check.names = FALSE)#
-X <- stackSpecies(x.df)[, 1:4]#
+# extract header (sites) data from VegsoupVerbatim object#
+y1 <- header(x1)#
 #
-# groome abundance scale codes to fit the standard#
-# of the extended Braun-Blanquet scale used in the original publication#
-X$cov <- gsub("m", "2m", X$cov)#
-X$cov <- gsub("a", "2a", X$cov)#
-X$cov <- gsub("b", "2b", X$cov)#
+# translate and groome names#
+names(y1) <- c("plot", "altitude", "aspect", "slope", "cover", "pH", "block")#
 #
-#   sites data including coordinates#
-file <- file.path(path, "Petrik2005Tab1TLocations.csv")#
-Y <- read.csv(file, colClasses = "character")#
-names(Y)[1] <- "plot"#
-# promote to class "Sites"
-Y <- stackSites(file = file, sep = ",", schema = "Releve nr.")
-Y
-X
-library(vegsoup)#
-require(bibtex)#
+# promote to Sites object	#
+y1$plot <- rownames(y1) # header returns plot names as rownames #
+y1 <- stackSites(y1, schema = "plot")#
 #
-path <- "~/Documents/vegsoup-data/Petrik2005"#
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+# promote table body to Species object#
+x1 <- species(x1)#
 #
-#	read digitized table #
-file <- file.path(path, "Petrik2005Tab1taxon2standard.txt")#
-x <- read.verbatim(file, "Relevee number")#
+# get species from table footer#
+# a listing of species not covered by the main table and plot where they occur in#
+# the source does not supply any abundance values, we assume '+'#
+file <- file.path(path, "Erschbamer1992Tab4Tablefooter.txt")#
+x2 <- castFooter(file, species.first = TRUE, abundance.first = NA,#
+                 abundance = "+")#
+x2$plot <- sprintf("%03d", as.numeric(x2$plot))#
+richness(x2)#
+# bind species in table footer with main table#
+X <- vegsoup::bind(x1, x2)#
 #
-#	assign moss layers#
-l <- rep("hl", nrow(x))#
-l [c(3,40, 42,43,70,71,74,97:174) ] <- "ml"#
-#
-# promote to class "Species"#
-x.df <- data.frame(abbr = rownames(x),#
-			layer = "hl",#
-			taxon = NA, x,#
-			check.names = FALSE)#
-X <- stackSpecies(x.df)[, 1:4]#
-#
-# groome abundance scale codes to fit the standard#
-# of the extended Braun-Blanquet scale used in the original publication#
-X$cov <- gsub("m", "2m", X$cov)#
-X$cov <- gsub("a", "2a", X$cov)#
-X$cov <- gsub("b", "2b", X$cov)#
-#
-#   sites data including coordinates#
-file <- file.path(path, "Petrik2005Tab1TLocations.csv")#
-Y <- read.csv(file, colClasses = "character")#
-names(Y)[1] <- "plot"#
+#   additional sites data including coordinates as a tab delimited file#
+file <- file.path(path, "Erschbamer1992Tab4Locations.txt")#
+y2 <- read.delim(file, colClasses = "character")#
+head(y2)#
+# add leading zeros#
+y2$nr <- sprintf("%03d", as.numeric(y2$nr))#
 # promote to class "Sites"#
-Y <- stackSites(file = file, sep = ",", schema = "Releve nr.")#
+y2 <- stackSites(y2, schema = "nr")#
+#
+#	bind with sites data from table header#
+Y <- vegsoup::bind(y1, y2)#
 #
 # taxonomy reference list#
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-XZ <- SpeciesTaxonomy(X, file.y = file)#
+Z <- taxonomy(file, sep = ";")#
+#
+# groome abundance scale codes to fit the standard#
+# of the extended Braun-Blanquet scale used in the origional publication#
+X$cov <- gsub("m", "2m", X$cov)#
+X$cov <- gsub("a", "2a", X$cov)#
+X$cov <- gsub("b", "2b", X$cov)#
 #
 # promote to class "Vegsoup"#
-obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
+obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet")
 names(obj)
-source("/Users/roli/Documents/vegsoup-data/petrik2005/MakeVegsoup.R")
+obj$altitude
+obj$accuracy
+source("/Users/roli/Documents/vegsoup-data/erschbamer1992/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/bürmoos dta/MakeVegsoup.R")
+ls()
+bm$date
+source("/Users/roli/Documents/vegsoup-data/faber1936/MakeVegsoup.R")
+ls()
+Faber1936$date
+source("/Users/roli/Documents/vegsoup-data/faber1936/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/bürmoos dta/MakeVegsoup.R")
+bm$date
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/schidergraben dta/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/bürmoos dta/MakeVegsoup.R")
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+source("/Users/roli/Documents/vegsoup-data/erschbamer1992/MakeVegsoup.R")
+test <- any(is.na(X$date))
+test
+test <- any(is.na(X$date))
+test
+is.na(X$date)
 #	this is a build script for all available data sets#
 #	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
 #
@@ -1879,13 +539,14 @@ rm(list = ls())#
 path <- "~/Documents/vegsoup-data"#
 x <- list.files(path)#
 #
+#	ignore these files#
 ii <- c(#
 #	other files#
 	"CHANGES.md",#
 	"README.md",#
 	"README.png",	#
 	"mirror",#
-	"givd",	#
+	"givd",	# to be deleted#
 #	unfished data sets#
 	"dirnböck1999",#
 	"brunner2011",#
@@ -1903,12 +564,9 @@ ii <- c(#
 	"ruttner1994",#
 	"sobotik1998",#
 	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
 	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
 #	occurrence plots only#
 	"alt ems dta",#
 	"adnet dta",#
@@ -1937,7 +595,7 @@ ii <- c(#
 	"kalkalpen lichen dta",#
 #	custom coverscale and taxonomy#
 	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
 	"aspro dta",#
 	"donauauen dta",#
 	"enzersfeld dta",#
@@ -1959,127 +617,17 @@ ii <- c(#
 	"wienerwald dta",#
 	"witzelsdorf dta"#
 )#
+#
+#	test project exclusion list#
 stopifnot(all(ii %in% x))#
 #
 x <- x[ -match(ii, x) ]#
 #
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
+#	run build update?#
+build = FALSE#
 #
-build = T#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = F#
-#
-if (build) {#
+#	WARNING, running a Make-file will delete *all* objects in the enviroment when leaving.#
+if (build) {	#
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
 		cat(x, "\n")#
 		source(x)#
@@ -2119,562 +667,1121 @@ for (i in seq_along(f)) {#
 sapply(sapply(mget(k), coverscale), slot, "name")#
 #
 #	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))#
+l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "remarks", "author", "title")))#
 #
-sapply(l, names, simplify = FALSE)
-sapply(sapply(l, names, simplify = FALSE), length) != 6
-which(sapply(sapply(l, names, simplify = FALSE), length) != 7)
-library(vegit)#
+sapply(l, names, simplify = FALSE)#
+which(sapply(sapply(l, names, simplify = FALSE), length) != 7)#
+X <- do.call("bind", l)#
+#
+#	key#
+X$id <- row.names(X)#
+#
+sites(X) <- sites(X)[ , names(X) != "compress" ]#
+#
+#	richness#
+X$richness <- richness(X, "sample")#
+#
+#	format date#
+X$date <- as.Date(X$date)
+f
+k
+n
+a
+a <- sapply(a, function (x) {#
+	l <- length(x)#
+	if (l > 1) {#
+		paste(paste(x[1:l - 1], collapse = ", "), x[ l ], sep = " & ")#
+	} else {#
+		as.character(x)#
+	}	#
+	} )
+a
+#	this is a build script for all available data sets#
+#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#
+library(vegsoup)#
+library(RefManageR)#
+library(knitr)#
+library(rgdal)#
+library(naturalsort)#
+library(bibtex)#
+library(stringr)#
+#
+rm(list = ls())#
+#
+path <- "~/Documents/vegsoup-data"#
+x <- list.files(path)#
+#
+#	ignore these files#
+ii <- c(#
+#	other files#
+	"CHANGES.md",#
+	"README.md",#
+	"README.png",	#
+	"mirror",#
+	"givd",	# to be deleted#
+#	unfished data sets#
+	"dirnböck1999",#
+	"brunner2011",#
+	"dunzendorfer1980",#
+	"greimler1996",#
+	"greimler1997",#
+	"grims1982",#
+	"hohewand fence dta",#
+	"hohewand transect dta",#
+	"jakubowsky1996",#
+	"monte negro dta",#
+	"nußbaumer2000",#
+	"pflugbeil2012",#
+	"prebersee dta",#
+	"ruttner1994",#
+	"sobotik1998",#
+	"schwarz1989",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
+	"surina2004",#
+#	occurrence plots only#
+	"alt ems dta",#
+	"adnet dta",#
+	"bräumauer dta",#
+	"glasenbachklamm dta",#
+	"graswang dta",#
+	"illschlucht dta",#
+	"jansenmäuer dta",#
+	"kreuzmauer dta",#
+	"lichtl dta",#
+	"luegstein dta",#
+	"montikel dta",#
+	"priental dta",#
+	"reitnerkogel dta",#
+	"schartenmauer dta",#
+	"schieferstein dta",#
+	"schrattenboden dta",#
+	"wirlingwand dta",#
+	"ybbs and türnitz prealps dta",#
+	"zwurms meschach dta",	#
+#	independent taxonomy#
+	"crete dta",#
+	"javakheti dta",#
+	"cape hallet lichen dta",#
+	"salzkammergut lichen dta",#
+	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",		#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
+	"aspro dta",#
+	"donauauen dta",#
+	"enzersfeld dta",#
+	"fischamend dta",	#
+	"hainburg dta",#
+	"kirchdorf and steyr-land dta",#
+	"mountain hay meadows dta",#
+	"nackter sattel dta",#
+	"neusiedlersee dta",#
+	"pilgersdorf dta",#
+	"ravine forest dta",	#
+	"reichraming dta",#
+	"sankt margarethen dta",#
+	"seekirchen dta",	#
+	"südburgenland dta",#
+	"traun and steyr and ennstal dta",#
+	"vorarlberg dta",#
+	"wien dta",#
+	"wienerwald dta",#
+	"witzelsdorf dta"#
+)#
+#
+#	test project exclusion list#
+stopifnot(all(ii %in% x))#
+#
+x <- x[ -match(ii, x) ]#
+#
+#	run build update?#
+build = FALSE#
+#
+#	WARNING, running a Make-file will delete *all* objects in the enviroment when leaving.#
+if (build) {	#
+	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
+		cat(x, "\n")#
+		source(x)#
+		} )#
+}#
+#
+#	biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+a <- sapply(x, function (x) x[[ 1 ]]$author)#
+a <- sapply(a, function (x) {#
+	l <- length(x)#
+	if (l > 1) {#
+		paste(paste(x[ 1:l - 1 ], collapse = ", "), x[ l ], sep = " & ")#
+	} else {#
+		as.character(x)#
+	}	#
+	} )#
+#
+#	load objects and add bibliographic references#
+for (i in seq_along(f)) {#
+	cat(i, "\n")#
+	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
+	ii <- get(k[ i ])#
+	ii$key = k[ i ]#
+	ii$author = a[ i ]#
+	ii$title = n[ i ]#
+	assign(k[ i ], ii)#
+}
+#	this is a build script for all available data sets#
+#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#
+library(vegsoup)#
+library(RefManageR)#
+library(knitr)#
+library(rgdal)#
+library(naturalsort)#
+library(bibtex)#
+library(stringr)#
+#
+rm(list = ls())#
+#
+path <- "~/Documents/vegsoup-data"#
+x <- list.files(path)#
+#
+#	ignore these files#
+ii <- c(#
+#	other files#
+	"CHANGES.md",#
+	"README.md",#
+	"README.png",	#
+	"mirror",#
+	"givd",	# to be deleted#
+#	unfished data sets#
+	"dirnböck1999",#
+	"brunner2011",#
+	"dunzendorfer1980",#
+	"greimler1996",#
+	"greimler1997",#
+	"grims1982",#
+	"hohewand fence dta",#
+	"hohewand transect dta",#
+	"jakubowsky1996",#
+	"monte negro dta",#
+	"nußbaumer2000",#
+	"pflugbeil2012",#
+	"prebersee dta",#
+	"ruttner1994",#
+	"sobotik1998",#
+	"schwarz1989",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
+	"surina2004",#
+#	occurrence plots only#
+	"alt ems dta",#
+	"adnet dta",#
+	"bräumauer dta",#
+	"glasenbachklamm dta",#
+	"graswang dta",#
+	"illschlucht dta",#
+	"jansenmäuer dta",#
+	"kreuzmauer dta",#
+	"lichtl dta",#
+	"luegstein dta",#
+	"montikel dta",#
+	"priental dta",#
+	"reitnerkogel dta",#
+	"schartenmauer dta",#
+	"schieferstein dta",#
+	"schrattenboden dta",#
+	"wirlingwand dta",#
+	"ybbs and türnitz prealps dta",#
+	"zwurms meschach dta",	#
+#	independent taxonomy#
+	"crete dta",#
+	"javakheti dta",#
+	"cape hallet lichen dta",#
+	"salzkammergut lichen dta",#
+	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",		#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
+	"aspro dta",#
+	"donauauen dta",#
+	"enzersfeld dta",#
+	"fischamend dta",	#
+	"hainburg dta",#
+	"kirchdorf and steyr-land dta",#
+	"mountain hay meadows dta",#
+	"nackter sattel dta",#
+	"neusiedlersee dta",#
+	"pilgersdorf dta",#
+	"ravine forest dta",	#
+	"reichraming dta",#
+	"sankt margarethen dta",#
+	"seekirchen dta",	#
+	"südburgenland dta",#
+	"traun and steyr and ennstal dta",#
+	"vorarlberg dta",#
+	"wien dta",#
+	"wienerwald dta",#
+	"witzelsdorf dta"#
+)#
+#
+#	test project exclusion list#
+stopifnot(all(ii %in% x))#
+#
+x <- x[ -match(ii, x) ]#
+#
+#	run build update?#
+build = FALSE#
+#
+#	WARNING, running a Make-file will delete *all* objects in the enviroment when leaving.#
+if (build) {	#
+	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
+		cat(x, "\n")#
+		source(x)#
+		} )#
+}#
+#
+#	biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+a <- sapply(x, function (x) x[[ 1 ]]$author)#
+a <- sapply(a, function (x) {#
+	l <- length(x)#
+	if (l > 1) {#
+		paste(paste(x[ 1:l - 1 ], collapse = ", "), x[ l ], sep = " & ")#
+	} else {#
+		as.character(x)#
+	}	#
+	} )#
+#
+#	load objects and add bibliographic references#
+for (i in seq_along(f)) {#
+	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
+	ii <- get(k[ i ])#
+	ii$key = k[ i ]#
+	ii$author = a[ i ]#
+	ii$title = n[ i ]#
+	assign(k[ i ], ii)#
+}
+?OptimStride
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+#	this is a build script for all available data sets#
+#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#
+library(vegsoup)#
+library(RefManageR)#
+library(knitr)#
+library(rgdal)#
+library(naturalsort)#
+library(bibtex)#
+library(stringr)#
+#
+rm(list = ls())#
+#
+path <- "~/Documents/vegsoup-data"#
+x <- list.files(path)#
+#
+#	ignore these files#
+ii <- c(#
+#	other files#
+	"CHANGES.md",#
+	"README.md",#
+	"README.png",	#
+	"mirror",#
+	"givd",	# to be deleted#
+#	unfished data sets#
+	"dirnböck1999",#
+	"brunner2011",#
+	"dunzendorfer1980",#
+	"greimler1996",#
+	"greimler1997",#
+	"grims1982",#
+	"hohewand fence dta",#
+	"hohewand transect dta",#
+	"jakubowsky1996",#
+	"monte negro dta",#
+	"nußbaumer2000",#
+	"pflugbeil2012",#
+	"prebersee dta",#
+	"ruttner1994",#
+	"sobotik1998",#
+	"schwarz1989",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
+	"surina2004",#
+#	occurrence plots only#
+	"alt ems dta",#
+	"adnet dta",#
+	"bräumauer dta",#
+	"glasenbachklamm dta",#
+	"graswang dta",#
+	"illschlucht dta",#
+	"jansenmäuer dta",#
+	"kreuzmauer dta",#
+	"lichtl dta",#
+	"luegstein dta",#
+	"montikel dta",#
+	"priental dta",#
+	"reitnerkogel dta",#
+	"schartenmauer dta",#
+	"schieferstein dta",#
+	"schrattenboden dta",#
+	"wirlingwand dta",#
+	"ybbs and türnitz prealps dta",#
+	"zwurms meschach dta",	#
+#	independent taxonomy#
+	"crete dta",#
+	"javakheti dta",#
+	"cape hallet lichen dta",#
+	"salzkammergut lichen dta",#
+	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",		#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
+	"aspro dta",#
+	"donauauen dta",#
+	"enzersfeld dta",#
+	"fischamend dta",	#
+	"hainburg dta",#
+	"kirchdorf and steyr-land dta",#
+	"mountain hay meadows dta",#
+	"nackter sattel dta",#
+	"neusiedlersee dta",#
+	"pilgersdorf dta",#
+	"ravine forest dta",	#
+	"reichraming dta",#
+	"sankt margarethen dta",#
+	"seekirchen dta",	#
+	"südburgenland dta",#
+	"traun and steyr and ennstal dta",#
+	"vorarlberg dta",#
+	"wien dta",#
+	"wienerwald dta",#
+	"witzelsdorf dta"#
+)#
+#
+#	test project exclusion list#
+stopifnot(all(ii %in% x))#
+#
+x <- x[ -match(ii, x) ]#
+#
+#	run build update?#
+build = FALSE#
+#
+#	WARNING, running a Make-file will delete *all* objects in the enviroment when leaving.#
+if (build) {	#
+	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
+		cat(x, "\n")#
+		source(x)#
+		} )#
+}#
+#
+#	biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+n2 <- sapply(x, function (x) x[[ 1 ]]$note)
+n2
+x
+x[[1]]
+names(x[[1]])
+slotNames(x[[1]])
+attributes(x[[1]])
+x[[1]]
+? bibentry
+b
+b[[1]]
+names(b[[1]])
+attributes(b[[1]])
+class(b[[1]])
+x
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)
+b <- do.call("c", x)
+b
+b[1]
+b[[1]]
+b[1]
+names(b[1])
+names(b[1][[1]])
+b[1][[1]]
+bibentry(b[1])
+?bibentry
+print(b[1])
+bibtype(b[1])
+attr(b[1])
+attr(b)
+attr(b[[1]])
+b[[1]]
+b[[1]]$bibtype
+b <- do.call("c", x)
+names(b)
+f
+names(b)
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)
+names(b)
+names(x)
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)
+p
+length(p)
+f
+p
+n2 <- sapply(x, function (x) x[[ 1 ]]$note)
+n2
+p == "Unpublished"
+n2[ p == "Unpublished" ]
+n[ p == "Unpublished" ] <- m[ p == "Unpublished"]
+#	pre load and process biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+m <- sapply(x, function (x) x[[ 1 ]]$note)#
+n[ p == "Unpublished" ] <- m[ p == "Unpublished"]
+n
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+m <- sapply(x, function (x) x[[ 1 ]]$note)#
+n[ p == "Unpublished" ] <- paste(n[ p == "Unpublished"], m[ p == "Unpublished"])
+n
+#	pre load and process biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+m <- sapply(x, function (x) x[[ 1 ]]$note)#
+n[ p == "Unpublished" ] <- paste(n[ p == "Unpublished"], m[ p == "Unpublished"], sep = ", ")
+n
+n[ p == "Unpublished" ]
+#	pre load and process biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+m <- sapply(x, function (x) x[[ 1 ]]$note)#
+n[ p == "Unpublished" ] <- paste(n[ p == "Unpublished"], m[ p == "Unpublished"], sep = ". ")
+n[ p == "Unpublished" ]
+source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
+?layers
+setMethod("compress",#
+	signature(x = "Vegsoup"),#
+	function (x, retain) {#
+		coverscale(x) <- "pa"#
+		if (!missing(retain)) {#
+			j <- match(retain, names(x))#
+			if (any(!is.na(j)))	{#
+				x@sites <- data.frame(#
+					compress = rep(TRUE, nrow(x)),#
+					sites(x)[, j[!is.na(j)], drop = FALSE],#
+					row.names = rownames(sites(x)))#
+			}#
+			else {#
+				x@sites <- data.frame(#
+					compress = rep(TRUE, nrow(x)),#
+					cols = ncol(x),#
+					row.names = rownames(sites(x)))#
+			}#
+		}#
+		else {#
+			x@sites <- data.frame(#
+				compress = rep(TRUE, nrow(x)),#
+				cols = ncol(sites(x)),#
+				row.names = rownames(sites(x)))	 #
+		}#
+		x <- layers(x, collapse = "0l", aggregate(min))#
+		z <- taxonomy(taxonomy(x)) #
+		j <- c("abbr", "taxon", "family", "level")#
+		j <- match(j, names(z))#
+		z <- z[, j[!is.na(j)]]#
+#
+		x@taxonomy <- taxonomy(z)#
+	return(x)	#
+	}#
+)
+source("/Users/roli/Documents/vegsoup/pkg/R/compress.R")
+#	this is a build script for all available data sets#
+#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#
+library(vegsoup)#
+library(RefManageR)#
+library(knitr)#
+library(rgdal)#
+library(naturalsort)#
+library(bibtex)#
+library(stringr)#
+#
+rm(list = ls())#
+#
+path <- "~/Documents/vegsoup-data"#
+x <- list.files(path)#
+#
+#	ignore these files#
+ii <- c(#
+#	other files#
+	"CHANGES.md",#
+	"README.md",#
+	"README.png",	#
+	"mirror",#
+	"givd",	# to be deleted#
+#	unfished data sets#
+	"dirnböck1999",#
+	"brunner2011",#
+	"dunzendorfer1980",#
+	"greimler1996",#
+	"greimler1997",#
+	"grims1982",#
+	"hohewand fence dta",#
+	"hohewand transect dta",#
+	"jakubowsky1996",#
+	"monte negro dta",#
+	"nußbaumer2000",#
+	"pflugbeil2012",#
+	"prebersee dta",#
+	"ruttner1994",#
+	"sobotik1998",#
+	"schwarz1989",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
+	"surina2004",#
+#	occurrence plots only#
+	"alt ems dta",#
+	"adnet dta",#
+	"bräumauer dta",#
+	"glasenbachklamm dta",#
+	"graswang dta",#
+	"illschlucht dta",#
+	"jansenmäuer dta",#
+	"kreuzmauer dta",#
+	"lichtl dta",#
+	"luegstein dta",#
+	"montikel dta",#
+	"priental dta",#
+	"reitnerkogel dta",#
+	"schartenmauer dta",#
+	"schieferstein dta",#
+	"schrattenboden dta",#
+	"wirlingwand dta",#
+	"ybbs and türnitz prealps dta",#
+	"zwurms meschach dta",	#
+#	independent taxonomy#
+	"crete dta",#
+	"javakheti dta",#
+	"cape hallet lichen dta",#
+	"salzkammergut lichen dta",#
+	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",		#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
+	"aspro dta",#
+	"donauauen dta",#
+	"enzersfeld dta",#
+	"fischamend dta",	#
+	"hainburg dta",#
+	"kirchdorf and steyr-land dta",#
+	"mountain hay meadows dta",#
+	"nackter sattel dta",#
+	"neusiedlersee dta",#
+	"pilgersdorf dta",#
+	"ravine forest dta",	#
+	"reichraming dta",#
+	"sankt margarethen dta",#
+	"seekirchen dta",	#
+	"südburgenland dta",#
+	"traun and steyr and ennstal dta",#
+	"vorarlberg dta",#
+	"wien dta",#
+	"wienerwald dta",#
+	"witzelsdorf dta"#
+)#
+#
+#	test project exclusion list#
+stopifnot(all(ii %in% x))#
+#
+x <- x[ -match(ii, x) ]#
+#
+#	run build update?#
+build = FALSE#
+#
+#	WARNING, running a Make-file will#
+#	delete *all* objects in the enviroment when leaving.#
+if (build) {	#
+	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
+		cat(x, "\n")#
+		source(x)#
+		} )#
+}#
+#
+#	pre load and process biblographic entities	#
+x <- sapply(file.path(path, x), function (x) {#
+	read.bib(file.path(x, "references.bib"))	#
+}, simplify = FALSE)#
+b <- do.call("c", x)#
+#
+f <- names(x)#
+k <- sapply(x, function (x) x[[ 1 ]]$key)#
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)#
+n <- sapply(x, function (x) x[[ 1 ]]$title)#
+m <- sapply(x, function (x) x[[ 1 ]]$note)#
+n[ p == "Unpublished" ] <- paste(n[ p == "Unpublished"], m[ p == "Unpublished"], sep = ". ")#
+a <- sapply(x, function (x) x[[ 1 ]]$author)#
+a <- sapply(a, function (x) {#
+	l <- length(x)#
+	if (l > 1) {#
+		paste(paste(x[ 1:l - 1 ], collapse = ", "), x[ l ], sep = " & ")#
+	} else {#
+		as.character(x)#
+	}	#
+	} )#
+#	load objects and add bibliographic references#
+for (i in seq_along(f)) {#
+	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
+	ii <- get(k[ i ])#
+	ii$key = k[ i ]#
+	ii$author = a[ i ]#
+	ii$title = n[ i ]#
+	ii$bibtype <- p[ i ]#
+	assign(k[ i ], ii)#
+}#
+#
+#	applied coverscales#
+sapply(sapply(mget(k), coverscale), slot, "name")#
+#
+#	compress and bind all objects#
+l <- sapply(mget(k), function (x) compress(x,#
+	retain = c("date", "observer", "location",#
+		"accuracy", "remarks", "author", "title")))#
+#
+sapply(l, names, simplify = FALSE)#
+which(sapply(sapply(l, names, simplify = FALSE), length) != 7)#
+X <- do.call("bind", l)#
+#
+#	key#
+X$id <- row.names(X)#
+#
+sites(X) <- sites(X)[ , names(X) != "compress" ]#
+#
+#	richness#
+X$richness <- richness(X, "sample")#
+#
+#	format date#
+X$date <- as.Date(X$date)#
+#
+test <- any(is.na(X$date))#
+#
+if (test) {#
+	message("some dates are missing")#
+}#
+#
+#	extract year#
+X$year <- as.integer(sapply(str_split(X$date, "-"), head, 1))#
+#
+#	groome remarks to caintain.only date related comment#
+X$remarks <- as.character(X$remarks)#
+X$remarks[ -grep("date", X$remarks) ] <- NA#
+#
+#	flag literature data#
+X$published <- FALSE#
+X$published[grep(":", rownames(X), fixed = TRUE)] <- TRUE#
+table(X$published)#
+#
+#	save R image file#
+save(X, file = file.path(path, "mirror", "mirror.rda"))#
+#
+plot(X)
+plot(X)
+hist(X$year[ !X$published ])
+hist(Year = X$year[ !X$published ])
+hist(x = Year = X$year[ !X$published ])
+Year = X$year[ !X$published ]#
+hist(Year)
+hist(X$year[ !X$published ], main = "Year")
+hist(X$year[ !X$published ], main = "", sub = "Year")
+hist(X$year[ !X$published ], main = "", xlab = "Year")
+range(X$year[ !X$published ])
+seq(range(X$year[ !X$published ]))
+range(X$year[ !X$published ])
+?hist
+y <- X$year[ !X$published ]
+y
+range(y)
+seq(min(y), max(y), by = 1)
+hist(y, main = "", xlab = "Year",#
+	breaks = seq(min(y) + 1, max(y), by = 1)
+)
+hist(y, main = "", xlab = "Year",#
+	breaks = seq(min(y), max(y), by = 1))
 library(vegsoup)#
 require(bibtex)#
 #
-path <- "~/Documents/vegsoup-data/frey1995"#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]
+X
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
-key <- bib$key#
 #
-#	authored translate lists#
-#	note, we have to translate abbreviations to other abbreviations first!#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")
+Y
+X
+Y
+file <- file.path(path, "taxonomy.csv")
+file
+XZ <- SpeciesTaxonomy(X, file.y = file)
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)
+XZ <- SpeciesTaxonomy(X, file.y = file, sep = ",")
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file, sep = ",")
+X
+Taxonmy(file, sep = ",")
+taxonmy(file, sep = ",")
+taxonomy(file, sep = ",")
+taxonomy(file, sep = ",")$abbr
+?amke.anmes
+?amke.names
+?make.names
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+Z <- taxonomy(file, sep = ",")$abbr#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, Z)
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+Z <- taxonomy(file, sep = ",")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, Z)
+make.names(1, 765, 1000)
+make.names(c(1, 765, 1000))
+source("/Users/roli/Documents/vegsoup/pkg/R/Class-Taxonomy.R")
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+Z <- taxonomy(file, sep = ",")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, Z)
+source("/Users/roli/Documents/vegsoup/pkg/R/Class-Species.R")
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+Z <- taxonomy(file, sep = ",")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, Z)
+XZ
+library(vegit)
+?vegit
+?taxonomy
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- file.path(path, "taxonomy.csv")#
+Z <- taxonomy(file, sep = ",")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, Z)
+XZ
+match(species(XZ)$abbr, taxonomy(XZ)$abbr)
+xz[ match(species(XZ)$abbr, taxonomy(XZ)$abbr), ]
+XZ[ match(species(XZ)$abbr, taxonomy(XZ)$abbr), ]
+taxonomy(XZ[ match(species(XZ)$abbr, taxonomy(XZ)$abbr), ])
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
-z <- read.csv2(file)#
-z1 <- read.csv(file.path(path, "translate.csv"), colClasses = "character")#
-z2 <- read.csv(file.path(path, "translate2.csv"), colClasses = "character")#
-zz <- rbind(z1, z2)#
-zz <- zz[ !is.na(zz$matched.abbr), ]#
-zz[,1] <- gsub(" ", ".", zz[,1])#
-zz[,2] <- gsub(" ", ".", zz[,2])#
-names(zz) <- c("taxon", "abbr")#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)
+unique(X$cov)
+library(vegsoup)#
+require(bibtex)#
 #
-#	main table#
-x <- file.path(path, "Frey1995Tab4.txt")#
-X <- read.verbatim(x, layers = "@", colnames = "RELEVE NO.")#
-X1 <- species(X)#
-X1$plot <- gsub(".", "", X1$plot, fixed = TRUE)#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-Y <- stackSites(header(X), schema = "rownames")#
-Y$plot <- gsub(".", "", Y$plot, fixed = TRUE)#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
 #
-#	footer species#
-x <- file.path(path, "Frey1995Tab4FooterSpecies.csv")#
-X2 <- species(x, sep = ",")#
-X2$plot <- gsub(" ", "", X2$plot, fixed = TRUE)#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
 #
-X <- vegsoup::bind(X1, X2)#
-X$abbr <- tolower(X$abbr)#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
 #
-#	translate taxon names#
-species(X) <- zz#
+#	build "Vegsoup" object#
+obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
+unique(X$cov)
+library(vegsoup)#
+require(bibtex)#
 #
-#	groome abundance scale codes#
-X$cov[ X$cov == "R" ] <- "r"#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-#	build Vegsoup object#
-obj <- Vegsoup(X, Y, z, "braun.blanquet2")#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
 #
-#	groome rownames#
-rownames(obj) <- gsub(".", "", rownames(obj), fixed = TRUE)#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
 #
-#	join available coordiantes in EPSG:21781#
-x <- file.path(path, "Frey1995Appendix1.csv")#
-y <- read.csv(x)#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
 #
-#	assign coordinates of village Flums as center of study area (cp. page 12)#
-obj$x <- 744400 #
-obj$y <- 217600#
+#	build "Vegsoup" object#
+obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
+unique(X$cov)
+?Coverscale
+Coverscale()
+Coverscale("pfadenhauer")
+library(vegsoup)#
+require(bibtex)#
 #
-#	assign available coordinates and additional variables	#
-i <- match(rownames(obj), y$plot)#
-y <- y[ i[ !is.na(i) ], ]#
-i <- match(y$plot, rownames(obj))#
-obj$x[ i ] <- y$x#
-obj$y[ i ] <- y$y#
-obj$accuracy <- 10000#
-obj$accuracy[ i ] <- 50 # rough guess#
-obj$date[ i ] <- y$date#
-obj$observer[ i ] <- y$observer#
-obj$remarks[ i ] <- y$remarks#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-coordinates(obj) <- ~x+y#
-proj4string(obj) <- CRS("+init=epsg:21781")#
-obj <- spTransform(obj, CRS("+init=epsg:4326"))#
-coordinates(obj)#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
 #
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
+#
+#	build "Vegsoup" object#
+obj <- Vegsoup(XZ, Y, coverscale = "pfadenhauer")
+Coverscale("pfadenhauer")
+unique(X$cov)
+sort(unique(X$cov))
+library(vegsoup)#
+require(bibtex)#
+#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
+#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
+#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
+#
+#	build "Vegsoup" object#
+obj <- Vegsoup(XZ, Y, coverscale = "pfadenhauer")
 obj
-obj$accuracy
-names(obj)
-source("/Users/roli/Documents/vegsoup-data/frey1995/MakeVegsoup.R")
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
 library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
+require(bibtex)#
 #
-rm(list = ls())#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
 #
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
 #
-x <- x[ -match(ii, x) ]#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
 #
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
+#	build "Vegsoup" object#
+obj <- Vegsoup(XZ, Y, coverscale = "pfadenhauer")
+unique(X$cov)
+library(vegsoup)#
+require(bibtex)#
 #
-build = F#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}#
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]#
 #
-#	biblographic entities	#
-x <- sapply(file.path(path, x), function (x) {#
-	read.bib(file.path(x, "references.bib"))	#
-}, simplify = FALSE)#
+file <- file.path(path, "sites wide.csv")#
+#	promote to class "Sites"#
+Y <- stackSites(file = file, sep = ",", dec = ".")#
 #
-#	write bibliography#
-b <- do.call("c", x)#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+#	promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
 #
-f <- names(x)#
-k <- sapply(x, function (x) x[[1]]$key)#
-n <- sapply(x, function (x) x[[1]]$title)#
-a <- sapply(x, function (x) x[[1]]$author)#
-a <- sapply(a, function (x) {#
-	l <- length(x)#
-	if (l > 1)#
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")#
-	else#
-		as.character(x)})#
+#	build "Vegsoup" object#
+obj <- Vegsoup(XZ, Y, coverscale = "pfadenhauer")
+library(vegsoup)#
+require(bibtex)#
 #
-#	load objects#
-for (i in seq_along(f)) {#
-	load(file.path(f[ i ], paste0(k[ i ], ".rda")))#
-	ii <- get(k[ i ])#
-	ii$key = k[ i ]#
-	ii$author = a[ i ]#
-	ii$title = n[ i ]#
-	assign(k[ i ], ii)#
-}#
+path <- "~/Documents/vegsoup-data/kaiser2005"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
 #
-#	applied coverscales#
-sapply(sapply(mget(k), coverscale), slot, "name")#
-#
-#	compress and bind all objects#
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))#
-#
-sapply(l, names, simplify = FALSE)#
-which(sapply(sapply(l, names, simplify = FALSE), length) != 7)
-X <- do.call("bind", l)
-#	summary for README.md#
-src <- as.data.frame(table(X$author))#
-names(src) <- c("author", "plots")
-source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-source("/Users/roli/Documents/vegsoup-data/aich dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-table(x$published)
-head(x$sites)
-x
-rownames(x)[1:10]
-rownames(x)
-row.names(x)
-x$title
-row.names(x)
+file <- file.path(path, "species.csv")#
+#	promote to class "Species"#
+X <- species(file, sep = ",")[, 1:4]
 X
+unique(X$cov)
 source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-names(X)
-names(X) == "compress"
-X <- X[ , names(X) != "compress" ]
-names(X) != "compress"
-X[ , names(X) != "compress" ]
-names(X)
-X[ , -3 ]
-foo <- X[ , -3 ]
-foo
-X
-sites(X)[ , names(X) != "compress" ]
-sites(X) <- sites(X)[ , names(X) != "compress" ]
-names(X)
-? compress
-source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = T#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}
-source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-source("/Users/roli/Documents/vegsoup-data/wolfgangsee dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-source("/Users/roli/Documents/vegsoup-data/gaissau dta/MakeVegsoup.R")
-source("/Users/roli/Documents/vegsoup-data/mirror/mirror.R")
-#	this is a build script for all available data sets#
-#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
-#
-library(vegsoup)#
-library(RefManageR)#
-library(knitr)#
-library(rgdal)#
-library(naturalsort)#
-library(bibtex)#
-library(stringr)#
-#
-rm(list = ls())#
-#
-path <- "~/Documents/vegsoup-data"#
-x <- list.files(path)#
-#
-ii <- c(#
-#	other files#
-	"CHANGES.md",#
-	"README.md",#
-	"README.png",	#
-	"mirror",#
-	"givd",	#
-#	unfished data sets#
-	"dirnböck1999",#
-	"brunner2011",#
-	"dunzendorfer1980",#
-	"greimler1996",#
-	"greimler1997",#
-	"grims1982",#
-	"hohewand fence dta",#
-	"hohewand transect dta",#
-	"jakubowsky1996",#
-	"monte negro dta",#
-	"nußbaumer2000",#
-	"pflugbeil2012",#
-	"prebersee dta",#
-	"ruttner1994",#
-	"sobotik1998",#
-	"schwarz1989",#
-	"stadler1991",#
-	"stadler1992",#
-	"surina2004",#
-	"urban1992",#
-	"urban2008",#
-	"urhamerberg dta",#
-#	occurrence plots only#
-	"alt ems dta",#
-	"adnet dta",#
-	"bräumauer dta",#
-	"glasenbachklamm dta",#
-	"graswang dta",#
-	"illschlucht dta",#
-	"jansenmäuer dta",#
-	"kreuzmauer dta",#
-	"lichtl dta",#
-	"luegstein dta",#
-	"montikel dta",#
-	"priental dta",#
-	"reitnerkogel dta",#
-	"schartenmauer dta",#
-	"schieferstein dta",#
-	"schrattenboden dta",#
-	"wirlingwand dta",#
-	"ybbs and türnitz prealps dta",#
-	"zwurms meschach dta",	#
-#	independent taxonomy#
-	"crete dta",#
-	"javakheti dta",#
-	"cape hallet lichen dta",#
-	"salzkammergut lichen dta",#
-	"kalkalpen lichen dta",#
-#	custom coverscale and taxonomy#
-	"furka dta",		#
-#	turboveg taxonomy (keep in sync with mirror dev.R)#
-	"aspro dta",#
-	"donauauen dta",#
-	"enzersfeld dta",#
-	"fischamend dta",	#
-	"hainburg dta",#
-	"kirchdorf and steyr-land dta",#
-	"mountain hay meadows dta",#
-	"nackter sattel dta",#
-	"neusiedlersee dta",#
-	"pilgersdorf dta",#
-	"ravine forest dta",	#
-	"reichraming dta",#
-	"sankt margarethen dta",#
-	"seekirchen dta",	#
-	"südburgenland dta",#
-	"traun and steyr and ennstal dta",#
-	"vorarlberg dta",#
-	"wien dta",#
-	"wienerwald dta",#
-	"witzelsdorf dta"#
-)#
-stopifnot(all(ii %in% x))#
-#
-x <- x[ -match(ii, x) ]#
-#
-#	run update#
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.#
-#
-build = T#
-#
-if (build) {#
-	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
-		cat(x, "\n")#
-		source(x)#
-		} )#
-}
-source("/Users/roli/Documents/vegsoup-data/pils1994/MakeVegsoup.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-library(rgdal)#
-#
-x <- read.delim("~/Dropbox/herbarium/dta/csv/herbarium.csv",#
-	stringsAsFactors = FALSE)#
-x <- x[x$id !=  "", ]#
-#
-x$longitude <- as.numeric(x$longitude)#
-x$latitude <- as.numeric(x$latitude)#
-#
-range(x$longitude)#
-range(x$latitude)#
-#
-coordinates(x) <- ~longitude+latitude#
-proj4string(x) <- CRS("+init=epsg:4326")#
-#
-z <- read.csv2("~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv")#
-#
-i <- match(x$taxon, z$taxon)#
-ii <- z$abbr[ i[ !is.na(i) ] ]#
-i[ !is.na(i) ] <- as.character(ii)#
-x$abbr
-x$abbr
-i
-library(rgdal)#
-#
-x <- read.delim("~/Dropbox/herbarium/dta/csv/herbarium.csv",#
-	stringsAsFactors = FALSE)#
-x <- x[x$id !=  "", ]#
-#
-x$longitude <- as.numeric(x$longitude)#
-x$latitude <- as.numeric(x$latitude)#
-#
-range(x$longitude)#
-range(x$latitude)#
-#
-coordinates(x) <- ~longitude+latitude#
-proj4string(x) <- CRS("+init=epsg:4326")#
-#
-z <- read.csv2("~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv")#
-#
-i <- match(x$taxon, z$taxon)
-ii <- z$abbr[ i[ !is.na(i) ] ]
-ii
-i[ !is.na(i) ]
-i[ !is.na(i) ] <- as.character(ii)
-i
-x$abbr <- i
-x$abbr
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")
-source("/Users/roli/Dropbox/herbarium/R/KMLSHP.R")

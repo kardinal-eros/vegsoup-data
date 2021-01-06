@@ -10,6 +10,10 @@ source(file.path(path, "MakeVegsoup2.R"))
 #	bind data sets
 obj <- vegsoup::bind(tab1, tab2)
 
+#	add observer
+obj$observer <- as.character(obj$observer)
+obj$observer[ is.na(obj$observer) ] <- "H. Wittmann"
+
 #	assign result object
 assign(key, obj)
 

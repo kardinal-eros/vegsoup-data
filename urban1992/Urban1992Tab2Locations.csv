@@ -1,8 +1,8 @@
-plot,latitude,longitude,accuracy,location,date,remarks
-1,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication
-2,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication
-3,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication
-4,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication
-5,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication
-6,47.677259,11.622494,20,Südabfall des Geiersteins ,1992-01-01,date is year of publication
-7,47.677259,11.622494,20,Südabfall des Geiersteins ,1992-01-01,date is year of publication
+plot,latitude,longitude,accuracy,location,date,remarks,observer
+1,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication,R. Urban & A. Mayer
+2,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication,R. Urban & A. Mayer
+3,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication,R. Urban & A. Mayer
+4,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication,R. Urban & A. Mayer
+5,47.742684,12.600739,50,Wandfuß des Brandsteins (Schmiedkopf),1992-01-01,date is year of publication,R. Urban & A. Mayer
+6,47.677259,11.622494,20,Südabfall des Geiersteins ,1992-01-01,date is year of publication,R. Urban & A. Mayer
+7,47.677259,11.622494,20,Südabfall des Geiersteins ,1992-01-01,date is year of publication,R. Urban & A. Mayer

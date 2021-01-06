@@ -69,7 +69,7 @@ obj$observer[ i ] <- y$observer
 obj$remarks[ i ] <- y$remarks
 
 obj$date[ -i ] <- "1995-01-01"
-obj$observer[ i ] <- "H.U. Frey"
+obj$observer[ -i ] <- "H.U. Frey"
 obj$remarks[ i ] <- "date is date of publication"
 
 coordinates(obj) <- ~x+y

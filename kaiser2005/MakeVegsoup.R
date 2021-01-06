@@ -25,6 +25,9 @@ obj <- spTransform(obj, CRS("+init=epsg:4326"))
 #	order layer
 layers(obj) <- c("sl", "hl", "ml")
 
+#	unique rownames
+rownames(obj) <- paste(key, sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
+
 #	assign result object
 assign(key, obj)
 

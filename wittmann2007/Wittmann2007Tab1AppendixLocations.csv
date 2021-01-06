@@ -1,4 +1,4 @@
-plot;latitude;longitude;accuracy;date;elevation;expo;slope;pls;locality;alliance;association;observer
+plot;latitude;longitude;accuracy;date;elevation;expo;slope;pls;location;alliance;association;observer
 413;47.066468;12.754716;300;2005-01-01;2010;E;10;2;Heiligenblut, Schwemmlandbereiche am Sandersee und Elisabethfelsen;Caricion bicoloris-atrofuscae;Carex atrofusca-Gesellschaft;H. Wittmann
 438A;47.043560;12.730749;500;2005-01-01;2560;F;0;4;Heiligenblut, Schwemmland östlich der Salmhütte 1;Caricion bicoloris-atrofuscae;Carex atrofusca-Gesellschaft;H. Wittmann
 332;47.169323;12.733580;200;2005-01-01;2150;W;30;0,25;Kaprun, Carex atrofusca-Sickerflur am Aufstieg zum Heinrich-Schwaiger-Haus;Caricion bicoloris-atrofuscae;Carex atrofusca-Gesellschaft;H. Wittmann

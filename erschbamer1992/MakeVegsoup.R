@@ -23,13 +23,13 @@ y1 <- stackSites(y1, schema = "plot")
 x1 <- species(x1)
 
 # get species from table footer
-# a listing of species not covered by the main table and plot where they occur in
+# a listing of species not covered by the main table
 # the source does not supply any abundance values, we assume '+'
 file <- file.path(path, "Erschbamer1992Tab4Tablefooter.txt")
 x2 <- castFooter(file, species.first = TRUE, abundance.first = NA,
                  abundance = "+")
 x2$plot <- sprintf("%03d", as.numeric(x2$plot))
-richness(x2)
+
 # bind species in table footer with main table
 X <- vegsoup::bind(x1, x2)
 
@@ -58,8 +58,12 @@ X$cov <- gsub("b", "2b", X$cov)
 # promote to class "Vegsoup"
 obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet")
 
+#	groome elevation
+obj$accuracy <- as.integer(gsub("m", "", obj$accuracy))
+
 #	unique rownames
 rownames(obj) <- paste(key, "Tab4", sprintf("%03d", as.numeric(rownames(obj))), sep = ":")	
+
 #	assign result object
 assign(key, obj)
 
@@ -72,7 +76,7 @@ obj$citation <- format(bib, style = "text")
 
 #	save to disk
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
-write.verbatim(obj, file.path(path, "transcript.txt"), sep = "",
+write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", select = "richness",
 	add.lines = TRUE, table.nr = TRUE)
 
 #	tidy up

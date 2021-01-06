@@ -23,7 +23,7 @@ bm02;soil;peat
 bm02;hydro;wet
 bm02;plsx;4
 bm02;plsy;6
-bm02;date;2009-21-05
+bm02;date;2009-05-21
 bm02;longitude;12.929439E
 bm02;latitude;47.997982N
 bm02;accuracy;5
@@ -36,7 +36,7 @@ bm03;hhl2;0.1
 bm03;plsx;4
 bm03;plsy;4
 bm03;soil;peat
-bm03;date;2009-21-05
+bm03;date;2009-05-21
 bm03;longitude;12.929462E
 bm03;latitude;47.997860N
 bm03;accuracy;5
@@ -48,7 +48,7 @@ bm04;hhl1;1
 bm04;hhl2;0.2
 bm04;plsx;3
 bm04;plsy;6
-bm04;date;2009-21-05
+bm04;date;2009-05-21
 bm04;longitude;12.929327E
 bm04;latitude;47.997814N
 bm04;accuracy;5
@@ -61,7 +61,7 @@ bm05;hhl2;0.1
 bm05;plsx;5
 bm05;plsy;7
 bm05;soil;peat
-bm05;date;2009-21-05
+bm05;date;2009-05-21
 bm05;longitude;12.928720E
 bm05;latitude;47.997734N
 bm05;accuracy;5

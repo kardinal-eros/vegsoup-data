@@ -14,13 +14,14 @@ rm(list = ls())
 path <- "~/Documents/vegsoup-data"
 x <- list.files(path)
 
+#	files to ignore
 ii <- c(
 #	other files
 	"CHANGES.md",
 	"README.md",
 	"README.png",	
 	"mirror",
-	"givd",	
+	"givd",	# to be deleted
 #	unfished data sets
 	"dirnböck1999",
 	"brunner2011",
@@ -38,12 +39,9 @@ ii <- c(
 	"ruttner1994",
 	"sobotik1998",
 	"schwarz1989",
-	"stadler1991",
-	"stadler1992",
+	"stadler1991", # to be deleted
+	"stadler1992", # to be deleted
 	"surina2004",
-	"urban1992",
-	"urban2008",
-	"urhamerberg dta",
 #	occurrence plots only
 	"alt ems dta",
 	"adnet dta",
@@ -72,7 +70,7 @@ ii <- c(
 	"kalkalpen lichen dta",
 #	custom coverscale and taxonomy
 	"furka dta",		
-#	turboveg taxonomy (keep in sync with mirror dev.R)
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)
 	"aspro dta",
 	"donauauen dta",
 	"enzersfeld dta",
@@ -95,49 +93,55 @@ ii <- c(
 	"witzelsdorf dta"
 )
 
-
+#	test project exclusion list
 stopifnot(all(ii %in% x))
 
 x <- x[ -match(ii, x) ]
 
-#	run update
-#	WARNING, running Make-files will delete *all* objects in the enviroment when leaving.
+#	run build update?
+build = FALSE
 
-build = T
-
-if (build) {
+#	WARNING, running a Make-file will
+#	delete *all* objects in the enviroment when leaving.
+if (build) {	
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {
 		cat(x, "\n")
 		source(x)
 		} )
 }
 
-#	biblographic entities	
+#	pre load and process biblographic entities	
 x <- sapply(file.path(path, x), function (x) {
 	read.bib(file.path(x, "references.bib"))	
 }, simplify = FALSE)
-
-#	write bibliography
 b <- do.call("c", x)
 
 f <- names(x)
-k <- sapply(x, function (x) x[[1]]$key)
-n <- sapply(x, function (x) x[[1]]$title)
-a <- sapply(x, function (x) x[[1]]$author)
+k <- sapply(x, function (x) x[[ 1 ]]$key)
+p <- sapply(x, function (x) x[[ 1 ]]$bibtype)
+n <- sapply(x, function (x) x[[ 1 ]]$title)
+m <- sapply(x, function (x) x[[ 1 ]]$note)
+n[ p == "Unpublished" ] <- paste(n[ p == "Unpublished"], m[ p == "Unpublished"], sep = ". ")
+a <- sapply(x, function (x) x[[ 1 ]]$author)
 a <- sapply(a, function (x) {
 	l <- length(x)
-	if (l > 1)
-		paste(paste(x[1:l - 1], collapse = ", "), x[l], sep = " & ")
-	else
-		as.character(x)})
+	if (l > 1) {
+		paste(paste(x[ 1:l - 1 ], collapse = ", "), x[ l ], sep = " & ")
+	} else {
+		as.character(x)
+	}	
+	} )
 
-#	load objects
+
+
+#	load objects and add bibliographic references
 for (i in seq_along(f)) {
 	load(file.path(f[ i ], paste0(k[ i ], ".rda")))
 	ii <- get(k[ i ])
 	ii$key = k[ i ]
 	ii$author = a[ i ]
 	ii$title = n[ i ]
+	ii$bibtype <- p[ i ]
 	assign(k[ i ], ii)
 }
 
@@ -145,7 +149,9 @@ for (i in seq_along(f)) {
 sapply(sapply(mget(k), coverscale), slot, "name")
 
 #	compress and bind all objects
-l <- sapply(mget(k), function (x) compress(x, retain = c("date", "observer", "location", "accuracy", "author", "title")))
+l <- sapply(mget(k), function (x) compress(x,
+	retain = c("date", "observer", "location",
+		"accuracy", "remarks", "author", "title", "bibtype")))
 
 sapply(l, names, simplify = FALSE)
 which(sapply(sapply(l, names, simplify = FALSE), length) != 7)
@@ -158,8 +164,43 @@ X$id <- row.names(X)
 
 sites(X) <- sites(X)[ , names(X) != "compress" ]
 
+#	richness
+X$richness <- richness(X, "sample")
 
-#	summary for README.md
+#	format date
+X$date <- as.Date(X$date)
+
+test <- any(is.na(X$date))
+
+if (test) {
+	message("some dates are missing")
+}
+
+#	extract year
+X$year <- as.integer(sapply(str_split(X$date, "-"), head, 1))
+
+#	groome remarks to caintain.only date related comment
+X$remarks <- as.character(X$remarks)
+X$remarks[ -grep("date", X$remarks) ] <- NA
+
+#	flag literature data
+X$published <- TRUE
+X$published[ X$bibtype == "Unpublished"] <- FALSE
+X$published[ X$bibtype == "TechReport"] <- FALSE
+table(X$published)
+
+#	save R image file
+save(X, file = file.path(path, "mirror", "mirror.rda"))
+
+#	save ESRI Shapefile
+x <- data.frame(coordinates(X), sites(X))
+coordinates(x) <- ~x + y
+proj4string(x) <- CRS("+init=epsg:4326")
+dsn <- file.path(path.expand(path), "mirror")
+writeOGR(x, dsn, "mirror", driver = "ESRI Shapefile",
+	layer_options = "ENCODING=UTF-8", overwrite_layer = TRUE)
+
+#	summary to be included in README.md
 src <- as.data.frame(table(X$author))
 names(src) <- c("author", "plots")
 
@@ -173,20 +214,8 @@ sum(rkte$plots)
 lit <- src[ -unique(c(rk, te)), ]
 sum(lit$plots)
 
-#	save to disk
-save(X, file = file.path(path, "mirror", "mirror.rda"))
+plot(X)
 
-#	write ESRI Shapefile
-x <- data.frame(coordinates(X), sites(X))
-coordinates(x) <- ~x + y
-proj4string(x) <- CRS("+init=epsg:4326")
-dsn <- file.path(path.expand(path), "mirror")
-
-#	flag literature data
-x$published <- "no"
-x$published[grep(":", rownames(X), fixed = TRUE)] <- "yes"
-table(x$published)
-
-
-#	write ESRI Shaepfile
-writeOGR(x, dsn, "mirror", driver = "ESRI Shapefile", overwrite_layer = TRUE)
+y <- X$year[ !X$published ]
+hist(y, main = "", xlab = "Year",
+	breaks = seq(min(y), max(y), by = 1))

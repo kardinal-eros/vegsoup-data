@@ -1,4 +1,4 @@
-plot,latitude,longitude,accuracy,location,remarks,date,remarks,observer
+plot,latitude,longitude,accuracy,location,description,date,remarks,observer
 1,46.512073,13.950146,1000,Nordhang des Großen Mittagskogels,"grober, zur Ruhe gelangter Schutt mit tiefliegender Feinerdeschicht.",1933-01-01,date is year of publication,E. Aichinger
 2,46.451672,14.194007,300,Oberhalb Stinzesattel,"bewegliches Geröll, 5-20 cm Durchmesser.",1933-01-01,date is year of publication,E. Aichinger
 3,46.433733,14.239032,500,Oberhalb des Weges zum Selenitzasattel,"Grobgeröll, 1-20 cm Durchmesser. Globularis cordifolia siedelt sich dort an, wo die Korngröße des Gerölles geringer wird und die Beweglichkeit nachlaßt. Dryopteris Robertiana gehört eigentlich in den Ruhschutt.",1933-01-01,date is year of publication,E. Aichinger
