@@ -6,8 +6,7 @@ bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- b
 
 file <- file.path(path, "species.csv")
 #	promote to class "Species"
-X <- species(file, sep = ";")
-X <- X[, 1:4]
+X <- species(file, sep = ";")[, 1:4]
 
 file <- file.path(path, "sites wide.csv")
 #	promote to class "Sites"
