@@ -26,7 +26,7 @@ Kobresia myosuroides                      hl 3341242222
 Campanula tatrae s.lat                       ++++++.++.
 Allocetraria madreporiformis                 1++++.2.+1
 Rhodiola rosea                               ++++r..rr+
-Oxytropis halleri s.lat                      +.22..21++
+Oxytropis halleri s.lat.                     +.22..21++
 Primula minima                               +.++12.1.+
 Pachypleurum mutellinoides                   r11+++...+
 Poa alpina                                   ++++.++...
@@ -52,7 +52,7 @@ Ranunculus breyninus                         +2+1++111+
 Galium anisophyllon                          +1++++.++.
 Trisetum alpestre                            ++....2121
 Euphrasia salisburgensis s.str.              +.....+1r.
-Carex sempervirens subsp. tatrorum           1..+......
+Carex sempervirens ssp. tatrorum             1..+......
 Festuca versicolor ssp. pallidula            2222122222
 Hedysarum hedysaroides ssp. hedysaroides     ++.+.1....
 Saxifraga moschata                           +..+...+..
@@ -101,7 +101,7 @@ Hypnum sp.                                   .+........
 Thymus alpestris                             ..+1+1+1..
 Luzula spicata ssp. conglomerata             ..++++....
 Antennaria carpatica                         ..1+.+.r.+
-Tephroseris integrifolia subsp. capitata     ..r+......
+Tephroseris integrifolia ssp. capitata       ..r+......
 Oreochloa disticha                           ..+..1....
 Flavocetraria cucullata                      ..+....+..
 Artemisia eriantha                           ..+++...1.
@@ -189,7 +189,7 @@ Dermatocarpon sp.                            ........+.
 Dryas octopetala                             .........r
 Chamorchis alpina                            .........+
 Selaginella selaginoides                     .........r
-Thymus pulcherrimus subsp. sudeticus         .........+
+Thymus pulcherrimus ssp. sudeticus           .........+
 Bartsia alpina                               .........+
 Scorzoneroides pseudotaraxaci                .........+
 Salix sp.                                    .........r

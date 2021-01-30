@@ -17,11 +17,13 @@ file <- file.path(path, "Gruber2006.csv")
 X <- stackSpecies(file = file, schema = c("taxon", "layer"), sep = ",")
 species(X) <- join(z, Z)
 
-#	transform cover scalae
+#	transform cover scale
 X$cov[X$cov == "1"] <- "+"
 
 file <- file.path(path, "Gruber2006Locations.csv")
 Y <- stackSites(file = file, sep = ",")
+
+XZ <- SpeciesTaxonomy(X, Z)
 
 obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet2")
 

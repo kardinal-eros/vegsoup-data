@@ -8,60 +8,60 @@ richness                                     2221
                                                   
 END HEAD
 BEGIN TABLE
-Carex curvula ssp. curvula                hl 3.4..
-Primula minima                               2.1..
+Agrostis rupestris                        hl 1.2..
 Avenula versicolor                           211..
-Homogyne alpina                              1+1..
-Gentiana nivalis                             r....
-Scorzoneroides helvetica                     212..
-Euphrasia minima s.str.                      +1+..
-Mutellina adonidifolia                       21+..
-Luzula alpinopilosa s.str.                   111..
-Agrostis rupestris                           1.2..
-Soldanella pusilla ssp. alpicola             +++12
+Campanula scheuchzeri                        r+...
+Carex curvula ssp. curvula                   3.4..
 Deschampsia cespitosa                        +1...
-Gnaphalium supinum                           +....
+Euphrasia minima s.str.                      +1+..
 Festuca picturata                            131..
-Vaccinium myrtillus                          +....
+Gentiana nivalis                             r....
+Gnaphalium supinum                           +....
+Hieracium alpinum                            r.1..
+Homogyne alpina                              1+1..
+Luzula alpinopilosa s.str.                   111..
+Mutellina adonidifolia                       21+..
 Persicaria vivipara                          ++1..
 Potentilla aurea                             +1...
-Hieracium alpinum                            r.1..
-Campanula scheuchzeri                        r+...
-Phleum commutatum                            .2...
-Anthoxanthum alpinum                         .1...
-Juncus jacquinii                             .+...
-Galium anisophyllon                          .+...
-Poa alpina                                   .1...
-Phyteuma orbiculare s.str.                   .+...
-Ranunculus montanus s.str.                   .+.r.
-Pimpinella major var. rubra                  .+...
+Primula minima                               2.1..
+Scorzoneroides helvetica                     212..
+Soldanella pusilla ssp. alpicola             +++12
+Vaccinium myrtillus                          +....
 Alchemilla Sect. Coriaceae                   .+...
+Anthoxanthum alpinum                         .1...
+Galium anisophyllon                          .+...
+Juncus jacquinii                             .+...
+Phleum commutatum                            .2...
+Phyteuma orbiculare s.str.                   .+...
+Pimpinella major var. rubra                  .+...
+Poa alpina                                   .1...
+Ranunculus montanus s.str.                   .+.r.
 Trifolium pratense ssp. nivale               .+...
-Phyteuma hemisphaericum                      ..+..
-Vaccinium gaultherioides                     ..+..
-Salix herbacea                               ..1..
-Hieracium nigrescens                         ..+..
-Vaccinium vitis-idaea                        ..+..
 Campanula alpina                             ..+..
+Hieracium nigrescens                         ..+..
 Huperzia selago ssp. selago                  ..+..
+Phyteuma hemisphaericum                      ..+..
+Salix herbacea                               ..1..
+Vaccinium gaultherioides                     ..+..
+Vaccinium vitis-idaea                        ..+..
 Allium schoenoprasum var. alpinum            ...4.
-Carex nigra                                  ...11
-Carex davalliana                             ...21
-Ranunculus alpestris s.str.                  ...22
-Eriophorum angustifolium                     ...+2
 Bartsia alpina                               ...++
-Equisetum variegatum                         ...1.
+Carex davalliana                             ...21
 Carex ferruginea s.str.                      ...1.
+Carex nigra                                  ...11
+Equisetum variegatum                         ...1.
+Eriophorum angustifolium                     ...+2
+Ranunculus alpestris s.str.                  ...22
 Willemetia stipitata ssp. stipitata          ...+.
-Trichophorum cespitosum ssp. cespitosum      ....4
 Gentiana bavarica s.str.                     ....+
-Dibaeis baeomyces                         ml 1.+..
+Trichophorum cespitosum ssp. cespitosum      ....4
+Cetraria islandica ssp. islandica         ml +.+..
 Cladonia pyxidata                            1....
-Polytrichum alpinum                          1++..
-Cetraria islandica ssp. islandica            +.+..
+Dibaeis baeomyces                            1.+..
 Dicranum scoparium                           ++...
-Thamnolia vermicularis var. vermicularis     ..+..
-Hylocomium splendens                         ..1..
+Polytrichum alpinum                          1++..
 Cladonia rangiferina                         ..+..
+Hylocomium splendens                         ..1..
+Thamnolia vermicularis var. vermicularis     ..+..
 Warnstorfia exannulata                       ...21
 END TABLE

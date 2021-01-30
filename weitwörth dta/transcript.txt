@@ -27,7 +27,7 @@ Potentilla anserina                           111.
 Ranunculus acris ssp. acris                   +++.
 Ranunculus repens                             32..
 Rumex obtusifolius s.lat.                     r.+.
-Symphytum officinale s.str.                   22+.
+Symphytum officinale                          22+.
 Trifolium pratense ssp. pratense              32..
 Ajuga reptans                                 .1..
 Anthoxanthum odoratum s.str.                  .+..

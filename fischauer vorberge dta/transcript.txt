@@ -24,5 +24,5 @@ Seseli austriacum                    1
 Sesleria caerulea s.str.             +  
 Pinus nigra ssp. nigra         tl    3  
  
-x: 16.10138, y: 47.81845, accuracy: 20, cov: 80, date: 2011-05-30, hcov: 80, hhl1: 0,3, hhl2: 0,05, htl: 5, location: Fischauer Vorberge, Burgruine Emmerberg, location.verbose: on top of old limestopne wall, mcov: 1, observer: T. Eberl & R. Kaiser, rupi: yes, syntaxon: Seselietum austriaci, tcov: 50, richness: 24, author: R Kaiser, T Eberl, citation: Kaiser R, Eberl T (2011). “Fischauer Vorberge.” Rocky steppe around ruine
-Emmerberg (Lower Austria, Austria).
+x: 16.10138, y: 47.81845, accuracy: 20, cov: 80, date: 2011-05-30, hcov: 80, hhl1: 0,3, hhl2: 0,05, htl: 5, location: Fischauer Vorberge, Burgruine Emmerberg, location.verbose: on top of old limestopne wall, mcov: 1, observer: T. Eberl & R. Kaiser, rupi: yes, syntaxon: Seselietum austriaci, tcov: 50, richness: 24, author: R Kaiser, T Eberl, citation: Kaiser R, Eberl T (2011). “Fischauer Vorberge.” Rocky
+steppe around ruine Emmerberg (Lower Austria, Austria).

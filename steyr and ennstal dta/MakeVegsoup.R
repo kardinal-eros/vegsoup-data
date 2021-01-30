@@ -1,7 +1,7 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "~/Documents/vegsoup-data/steyr und ennstal dta"
+path <- "~/Documents/vegsoup-data/steyr and ennstal dta"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 file <- file.path(path, "species.csv")

@@ -8,69 +8,69 @@ richness                               33
                                          
 END HEAD
 BEGIN TABLE
-Corylus avellana                   tl2 12
+Acer pseudoplatanus                tl2 1.
+Carpinus betulus                       32
+Corylus avellana                       12
+Prunus avium s.lat.                    22
+Pyrus communis                         12
 Sorbus aucuparia ssp. aucuparia        +.
 Ulmus glabra                           22
-Pyrus communis                         12
-Carpinus betulus                       32
-Prunus avium s.lat.                    22
-Acer pseudoplatanus                    1.
 Acer platanoides                       .3
-Cornus sanguinea s.lat.             sl 22
-Corylus avellana                       22
-Ligustrum vulgare                      22
-Mespilus germanica                     11
-Sorbus aucuparia ssp. aucuparia        ++
+Acer campestre                      sl +.
 Acer platanoides                       +1
-Viburnum opulus                        12
-Ulmus glabra                           +.
-Prunus spinosa                         11
-Crataegus monogyna                     22
-Cornus mas                             22
-Carpinus betulus                       11
-Viburnum lantana                       11
-Malus sylvestris                       1.
-Rosa canina s.str.                     1+
-Acer campestre                         +.
-Cotoneaster sp.                        +1
 Amelanchier sp.                        +.
+Carpinus betulus                       11
+Cornus mas                             22
+Cornus sanguinea s.lat.                22
+Corylus avellana                       22
+Cotoneaster sp.                        +1
+Crataegus monogyna                     22
+Ligustrum vulgare                      22
+Malus sylvestris                       1.
+Mespilus germanica                     11
+Prunus spinosa                         11
 Rhamnus cathartica                     1.
-Pyrus communis                         .1
+Rosa canina s.str.                     1+
+Sorbus aucuparia ssp. aucuparia        ++
+Ulmus glabra                           +.
+Viburnum lantana                       11
+Viburnum opulus                        12
 Euonymus europaeus                     .2
 Lonicera caerulea ssp. caerulea        .1
 Lonicera xylosteum                     .1
 Prunus avium s.lat.                    .+
-Cornus sanguinea s.lat.             hl 12
-Ligustrum vulgare                      12
+Pyrus communis                         .1
+Acer campestre                      hl +.
 Acer platanoides                       ++
-Viburnum opulus                        +1
-Prunus spinosa                         +1
-Cornus mas                             11
-Rubus idaeus                           1.
-Dactylis glomerata ssp. glomerata      22
-Crepis biennis                         +.
-Geum urbanum                           21
-Epilobium ciliatum ssp. ciliatum       ++
-Rosa arvensis                          +.
-Glechoma hederacea                     11
-Hedera helix                           +.
-Acer campestre                         +.
-Poa pratensis                          +.
 Acer pseudoplatanus                    ++
 Agrostis capillaris                    12
-Equisetum arvense                      ++
+Cornus mas                             11
+Cornus sanguinea s.lat.                12
 Cotoneaster sp.                        +.
-Pyrus communis                         .+
-Viburnum lantana                       .+
+Crepis biennis                         +.
+Dactylis glomerata ssp. glomerata      22
+Epilobium ciliatum ssp. ciliatum       ++
+Equisetum arvense                      ++
+Geum urbanum                           21
+Glechoma hederacea                     11
+Hedera helix                           +.
+Ligustrum vulgare                      12
+Poa pratensis                          +.
+Prunus spinosa                         +1
+Rosa arvensis                          +.
+Rubus idaeus                           1.
+Viburnum opulus                        +1
 Corylus avellana                       .+
 Crataegus monogyna                     .1
-Euonymus europaeus                     .1
-Lonicera caerulea ssp. caerulea        .+
-Sorbus aucuparia ssp. aucuparia        .+
-Lonicera xylosteum                     .+
-Rosa canina s.str.                     .+
 Equisetum sylvaticum                   .+
+Euonymus europaeus                     .1
 Festuca rubra agg.                     .1
+Lonicera caerulea ssp. caerulea        .+
+Lonicera xylosteum                     .+
 Poa trivialis                          .+
+Pyrus communis                         .+
+Rosa canina s.str.                     .+
+Sorbus aucuparia ssp. aucuparia        .+
 Urtica dioica ssp. dioica              .+
+Viburnum lantana                       .+
 END TABLE

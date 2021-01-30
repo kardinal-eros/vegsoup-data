@@ -8,35 +8,35 @@ richness                           12
                                      
 END HEAD
 BEGIN TABLE
-Sesleria caerulea s.str.        hl 54
-Seseli austriacum                  +1
-Globularia cordifolia s.str.       1+
-Galium lucidum                     12
-Teucrium montanum                  ++
-Erica carnea                       1.
+Achillea clavennae              hl +.
+Asplenium ruta-muraria             +.
+Asplenium trichomanes s.lat.       ++
 Bupleurum falcatum                 +1
 Campanula cochleariifolia          ++
-Achillea clavennae                 +.
 Cyclamen purpurascens              +.
+Erica carnea                       1.
 Erysimum sylvestre s.str.          ++
-Asplenium trichomanes s.lat.       ++
-Asplenium ruta-muraria             +.
+Galium lucidum                     12
+Globularia cordifolia s.str.       1+
 Rhamnus cathartica                 +.
+Seseli austriacum                  +1
+Sesleria caerulea s.str.           54
+Teucrium montanum                  ++
 Thesium alpinum                    +.
-Rosa canina s.str.                 .+
-Sedum album                        .+
-Jovibarba globifera ssp. hirta     .+
-Melica ciliata s.str.              .1
+Amelanchier ovalis                 .+
 Arabis ciliata                     .+
+Euphorbia cyparissias              .+
 Genista pilosa                     .+
-Pseudoturritis turrita             .+
 Geranium robertianum s.str.        .+
 Hieracium glaucum                  .+
-Thalictrum minus s.lat.            .+
-Scabiosa lucida ssp. lucida        .+
-Saxifraga paniculata               .+
-Amelanchier ovalis                 .+
+Jovibarba globifera ssp. hirta     .+
+Melica ciliata s.str.              .1
 Polygala chamaebuxus               .+
-Euphorbia cyparissias              .+
+Pseudoturritis turrita             .+
+Rosa canina s.str.                 .+
+Saxifraga paniculata               .+
+Scabiosa lucida ssp. lucida        .+
+Sedum album                        .+
+Thalictrum minus s.lat.            .+
 Rosa canina s.str.              sl .1
 END TABLE

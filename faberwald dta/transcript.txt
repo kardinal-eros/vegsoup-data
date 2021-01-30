@@ -147,7 +147,7 @@ Lycopus europaeus ssp. europaeus            .................+.
 Oxalis stricta                              .................+.
 Solidago gigantea ssp. serotina             .................+.
 Stachys sylvatica                           .................++
-Symphytum officinale s.str.                 .................+.
+Symphytum officinale                        .................+.
 Tanacetum vulgare                           .................+.
 Acer campestre                              ..................+
 Brachypodium sylvaticum                     ..................1

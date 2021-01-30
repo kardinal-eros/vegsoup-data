@@ -65,7 +65,7 @@ Dactylorhiza majalis ssp. majalis             ..+..........
 Juncus effusus ssp. effusus                   ..r.+.......2
 Ranunculus repens                             ..+..+.++1+.+
 Agrostis stolonifera s.str.                   ...+.....+..2
-Campanula patula                              ...+.......+.
+Campanula patula ssp. patula                  ...+.......+.
 Carex caryophyllea                            ...+.......r.
 Poa pratensis                                 ...+.+..+....
 Tragopogon orientalis                         ...+.......+.

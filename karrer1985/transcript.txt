@@ -4,11 +4,11 @@ accuracy                                    5555
                                             0000
                                             0000
                                                 
-cov                                           6 
-                                            5303
+cov                                            6
+                                            3530
                                                 
-hcov                                          6 
-                                            5303
+hcov                                           6
+                                            3530
                                                 
 hhl2                                        0000
                                                 
@@ -20,44 +20,44 @@ mcov                                        0000
                                                 
 plsx                                        1111
                                                 
-plsy                                           1
-                                            5650
+plsy                                        1   
+                                            0565
                                                 
 scov                                        0000
                                                 
-slope                                       7539
+slope                                       9753
                                             0000
                                                 
 tcov                                        0000
                                                 
 richness                                    1111
-                                            0140
+                                            0014
                                                 
 END HEAD
 BEGIN TABLE
-Asplenium ruta-muraria                   hl +...
-Galium lucidum                              +1+1
-Teucrium montanum                           1++1
-Asplenium trichomanes ssp. quadrivalens     +...
-Sesleria caerulea s.str.                    r+31
-Seseli austriacum                           ++1r
-Erysimum sylvestre s.str.                   +..+
-Hieracium bupleuroides                      +..+
-Helianthemum canum                          +.+.
-Euphorbia cyparissias                       +...
-Globularia cordifolia s.str.                .++.
-Bupleurum falcatum                          .+++
-Melica ciliata s.str.                       .r+.
-Jovibarba globifera ssp. hirta              .+..
-Dorycnium germanicum                        .+..
-Rhamnus saxatilis ssp. saxatilis            .+..
-Potentilla incana                           .+..
-Achillea clavennae                          ..+.
-Campanula rotundifolia agg.                 ..+.
-Draba aizoides ssp. aizoides                ..1.
-Euphrasia salisburgensis s.str.             ..rr
-Clinopodium alpinum ssp. alpinum            ..r.
-Poa badensis                                ..r.
-Allium lusitanicum                          ...+
-Saxifraga paniculata                        ...+
+Allium lusitanicum                       hl +...
+Bupleurum falcatum                          +.++
+Erysimum sylvestre s.str.                   ++..
+Euphrasia salisburgensis s.str.             r..r
+Galium lucidum                              1+1+
+Hieracium bupleuroides                      ++..
+Saxifraga paniculata                        +...
+Seseli austriacum                           r++1
+Sesleria caerulea s.str.                    1r+3
+Teucrium montanum                           11++
+Asplenium ruta-muraria                      .+..
+Asplenium trichomanes ssp. quadrivalens     .+..
+Euphorbia cyparissias                       .+..
+Helianthemum canum                          .+.+
+Dorycnium germanicum                        ..+.
+Globularia cordifolia s.str.                ..++
+Jovibarba globifera ssp. hirta              ..+.
+Melica ciliata s.str.                       ..r+
+Potentilla incana                           ..+.
+Rhamnus saxatilis ssp. saxatilis            ..+.
+Achillea clavennae                          ...+
+Campanula rotundifolia agg.                 ...+
+Clinopodium alpinum ssp. alpinum            ...r
+Draba aizoides ssp. aizoides                ...1
+Poa badensis                                ...r
 END TABLE

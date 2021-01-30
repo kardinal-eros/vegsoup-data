@@ -62,3 +62,5 @@ write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRU
 
 #	tidy up
 rm(list = ls()[-grep(key, ls())])
+
+detach("package:raster")

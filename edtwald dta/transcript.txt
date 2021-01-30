@@ -38,14 +38,14 @@ Fagus sylvatica                         .............1.+..
 Pseudotsuga menziesii                   ..............+...
 Larix decidua                           ...............+..
 Abies nordmanniana                      ................3.
-Quercus robur                           .................+
 Prunus sp.                              .................+
-Vaccinium myrtillus                  hl ++23434314323+r352
-Dryopteris carthusiana s.str.           +.1111..r+++.+.+..
+Quercus robur                           .................+
+Dryopteris carthusiana s.str.        hl +.1111..r+++.+.+..
+Vaccinium myrtillus                     ++23434314323+r352
 Abies alba                              .+2+23+2+2232.21..
-Frangula alnus                          .r.+++.+++..+.2+1.
-Carex pilulifera ssp. pilulifera        .rr...........+...
 Avenella flexuosa                       .+1.+1..1..++.5.++
+Carex pilulifera ssp. pilulifera        .rr...........+...
+Frangula alnus                          .r.+++.+++..+.2+1.
 Quercus robur                           ..rrr.....rrr.+...
 Rubus sect. Rubus                       ..r............+..
 Betula pendula                          ...+.....+.++..11.
@@ -53,28 +53,28 @@ Sorbus aucuparia ssp. aucuparia         ...+++r+..........
 Picea abies                             ....2+1..++....+..
 Taraxacum sect. Ruderalia               ........+.........
 Dryopteris dilatata                     .........++....+..
-Juncus effusus ssp. effusus             ..............++..
 Calluna vulgaris                        ..............+11.
 Carex canescens ssp. canescens          ..............++..
+Juncus effusus ssp. effusus             ..............++..
+Carex echinata                          ...............+..
 Fagus sylvatica                         ...............+..
 Pinus sylvestris                        ...............++.
-Carex echinata                          ...............+..
 Larix decidua                           .................1
-Hylocomium splendens                 ml 54232313221221+.++
-Bazzania trilobata                      11.2213++11.++..1.
+Bazzania trilobata                   ml 11.2213++11.++..1.
 Dicranodontium denudatum                ++.11++.1.++++++.+
-Pleurozium schreberi                    1.313213.233213.4.
 Dicranum scoparium                      ++21+1+++21+1.+++1
-Polytrichum formosum                    ++221211121+2+++.+
+Hylocomium splendens                    54232313221221+.++
 Hypnum cupressiforme                    +...+.11.++++.....
+Pleurozium schreberi                    1.313213.233213.4.
+Polytrichum formosum                    ++221211121+2+++.+
 Brachythecium rutabulum                 .2................
 Leucobryum glaucum                      .++1+.+.122211+.+1
 Scleropodium purum                      .+................
 Dicranum sp.                            ..1...............
 undetermined bryophyte(s)               ..2...............
-Sphagnum girgensohnii                   ...12..1+21.....+.
-Polytrichum commune                     ...++.+..++.+.....
 Plagiothecium laetum var. secundum      ...112.2311+131112
-Sphagnum capillifolium                  ......3..+....2...
+Polytrichum commune                     ...++.+..++.+.....
+Sphagnum girgensohnii                   ...12..1+21.....+.
 Cladonia sp.                            ......+..+....++..
+Sphagnum capillifolium                  ......3..+....2...
 END TABLE

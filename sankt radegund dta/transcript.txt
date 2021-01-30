@@ -24,8 +24,8 @@ Ulmus glabra                                     ..+.....
 Fagus sylvatica                                  ...+.11.
 Fraxinus excelsior                               ...1.+..
 Acer pseudoplatanus                              .....+..
-Crataegus monogyna                               .....+..
 Crataegus laevigata ssp. laevigata               .....+..
+Crataegus monogyna                               .....+..
 Ligustrum vulgare                                .....+..
 Picea abies                                      ......r.
 Acer campestre                                hl 1+...+..
@@ -126,35 +126,35 @@ Circaea lutetiana ssp. lutetiana                 ....+...
 Dryopteris carthusiana s.str.                    ....1...
 Dryopteris filix-mas s.str.                      ....2...
 Milium effusum ssp. effusum                      ....+...
-Corylus avellana                                 .....++.
-Staphylea pinnata                                .....+..
-Sanicula europaea                                .....r..
-Mercurialis perennis s.str.                      .....++.
 Carex montana                                    .....r..
+Corylus avellana                                 .....++.
+Mercurialis perennis s.str.                      .....++.
 Paris quadrifolia                                .....r1.
+Sanicula europaea                                .....r..
+Staphylea pinnata                                .....+..
 Arum maculatum                                   ......r.
-Centaurea scabiosa ssp. scabiosa                 .......2
-Arabis hirsuta s.str.                            .......+
-Salvia pratensis ssp. pratensis                  .......1
 Achillea millefolium agg.                        .......+
-Primula veris ssp. veris                         .......1
-Plantago lanceolata                              .......+
-Silene vulgaris ssp. vulgaris                    .......+
-Medicago falcata                                 .......+
-Carex caryophyllea                               .......2
-Luzula campestris s.str.                         .......+
 Anthoxanthum odoratum s.str.                     .......1
-Dianthus carthusianorum ssp. carthusianorum      .......2
-Rumex acetosella ssp. acetosella                 .......r
+Arabis hirsuta s.str.                            .......+
 Campanula glomerata                              .......r
-Pimpinella saxifraga s.lat.                      .......+
-Trisetum flavescens ssp. flavescens              .......+
-Ranunculus nemorosus                             .......+
-Trifolium pratense ssp. pratense                 .......+
-Ranunculus acris ssp. acris                      .......r
+Carex caryophyllea                               .......2
+Centaurea scabiosa ssp. scabiosa                 .......2
+Dianthus carthusianorum ssp. carthusianorum      .......2
 Galium verum s.str.                              .......+
-Vicia cracca s.str.                              .......+
+Luzula campestris s.str.                         .......+
+Medicago falcata                                 .......+
+Pimpinella saxifraga s.lat.                      .......+
+Plantago lanceolata                              .......+
+Poa pratensis                                    .......1
+Primula veris ssp. veris                         .......1
+Ranunculus acris ssp. acris                      .......r
+Ranunculus nemorosus                             .......+
+Rumex acetosella ssp. acetosella                 .......r
+Salvia pratensis ssp. pratensis                  .......1
 Sanguisorba minor ssp. balearica                 .......r
 Scabiosa columbaria s.str.                       .......r
-Poa pratensis                                    .......1
+Silene vulgaris ssp. vulgaris                    .......+
+Trifolium pratense ssp. pratense                 .......+
+Trisetum flavescens ssp. flavescens              .......+
+Vicia cracca s.str.                              .......+
 END TABLE

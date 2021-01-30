@@ -8,62 +8,62 @@ richness                                       43
                                                  
 END HEAD
 BEGIN TABLE
-Cornus sanguinea s.lat.                     sl 2.
-Amelanchier ovalis                             12
-Rhamnus cathartica                             2.
-Rosa micrantha                                 +.
-Euonymus europaeus                             1.
-Viburnum lantana                               2.
-Rosa canina s.str.                             1+
-Juniperus sabina                               3.
-Fraxinus excelsior                             +.
+Amelanchier ovalis                          sl 12
 Berberis vulgaris                              22
-Sorbus aria s.str.                             .+
-Cornus sanguinea s.lat.                     hl 2.
-Lonicera xylosteum                             +.
-Amelanchier ovalis                             +1
-Rosa micrantha                                 +.
-Rosa canina s.str.                             +1
-Juniperus sabina                               21
+Cornus sanguinea s.lat.                        2.
+Euonymus europaeus                             1.
 Fraxinus excelsior                             +.
-Taxus baccata                                  +.
-Quercus robur                                  +.
+Juniperus sabina                               3.
+Rhamnus cathartica                             2.
+Rosa canina s.str.                             1+
+Rosa micrantha                                 +.
+Viburnum lantana                               2.
+Sorbus aria s.str.                             .+
+Allium lusitanicum                          hl 1+
+Amelanchier ovalis                             +1
+Anthericum ramosum                             ++
 Berberis vulgaris                              11
-Allium lusitanicum                             1+
-Sesleria caerulea s.str.                       22
-Vincetoxicum hirundinaria                      1.
-Galium lucidum                                 21
-Teucrium montanum                              +1
-Teucrium chamaedrys ssp. chamaedrys            1+
-Euphorbia cyparissias                          1.
-Polygala chamaebuxus                           2.
-Polygonatum odoratum                           2+
-Origanum vulgare ssp. vulgare                  1.
-Carduus defloratus ssp. viridis                ++
-Calamagrostis varia                            1.
-Hylotelephium maximum                          +.
 Betonica alopecuros                            ++
+Buphthalmum salicifolium                       ++
+Calamagrostis varia                            1.
+Campanula rapunculus                           +.
+Carduus defloratus ssp. viridis                ++
+Carex alba                                     +.
+Cornus sanguinea s.lat.                        2.
+Euphorbia cyparissias                          1.
 Euphrasia salisburgensis s.str.                ++
-Silene nutans ssp. nutans                      +.
-Thymus praecox ssp. praecox                    ++
+Fraxinus excelsior                             +.
+Galium lucidum                                 21
+Helianthemum nummularium ssp. grandiflorum     +.
+Hylotelephium maximum                          +.
+Juniperus sabina                               21
 Kernera saxatilis                              +.
 Laserpitium latifolium ssp. latifolium         ++
+Lonicera xylosteum                             +.
 Melica ciliata s.str.                          ++
+Origanum vulgare ssp. vulgare                  1.
+Polygala chamaebuxus                           2.
+Polygonatum odoratum                           2+
+Quercus robur                                  +.
+Rosa canina s.str.                             +1
+Rosa micrantha                                 +.
+Sesleria caerulea s.str.                       22
+Silene nutans ssp. nutans                      +.
+Taxus baccata                                  +.
+Teucrium chamaedrys ssp. chamaedrys            1+
+Teucrium montanum                              +1
 Thalictrum minus s.lat.                        ++
-Anthericum ramosum                             ++
-Buphthalmum salicifolium                       ++
-Campanula rapunculus                           +.
-Helianthemum nummularium ssp. grandiflorum     +.
-Carex alba                                     +.
-Rhamnus cathartica                             .+
-Hieracium glaucum                              .1
-Globularia cordifolia s.str.                   .1
-Potentilla caulescens ssp. caulescens          .2
+Thymus praecox ssp. praecox                    ++
+Vincetoxicum hirundinaria                      1.
 Coronilla vaginalis                            .+
-Jovibarba globifera ssp. hirta                 .+
-Seseli austriacum                              .r
-Sedum album                                    .+
 Erysimum sylvestre s.str.                      .+
+Globularia cordifolia s.str.                   .1
+Hieracium glaucum                              .1
+Jovibarba globifera ssp. hirta                 .+
+Potentilla caulescens ssp. caulescens          .2
+Rhamnus cathartica                             .+
+Sedum album                                    .+
+Seseli austriacum                              .r
 Homalothecium lutescens                     ml 1.
 Tortella tortuosa                              .+
 END TABLE

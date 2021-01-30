@@ -40,6 +40,7 @@ Erica carnea                               32
 Gymnadenia conopsea ssp. conopsea          1+
 Hippocrepis comosa                         +.
 Leontodon incanus                          +1
+Lotus corniculatus s.str.                  +1
 Melampyrum pratense                        +.
 Melica nutans s.str.                       1.
 Petasites paradoxus                        ++
@@ -56,16 +57,18 @@ Thesium alpinum                            +1
 Thymus praecox s.lat.                      1+
 Vaccinium myrtillus                        1.
 Vaccinium vitis-idaea                      +.
-Lotus corniculatus s.str.                  +1
 Valeriana officinalis s.lat.               +.
 Acer pseudoplatanus                        .+
 Amelanchier ovalis                         .+
 Antennaria dioica                          .+
 Aposeris foetida                           .+
 Briza media                                .1
+Carduus defloratus ssp. viridis            .1
 Carex firma                                .+
 Carlina acaulis ssp. acaulis               .+
+Carlina vulgaris s.lat.                    .+
 Danthonia decumbens s.lat.                 .+
+Euphrasia officinalis s.lat.               .+
 Gentiana utriculosa                        .+
 Laserpitium latifolium ssp. latifolium     .+
 Linum catharticum                          .1
@@ -73,6 +76,7 @@ Melampyrum sylvaticum s.str.               .+
 Parnassia palustris                        .+
 Pimpinella major s.lat.                    .+
 Plantago media                             .+
+Ranunculus montanus s.str.                 .+
 Rhinanthus glacialis                       .1
 Scabiosa lucida ssp. lucida                .+
 Selaginella selaginoides                   .+
@@ -80,8 +84,4 @@ Teucrium montanum                          .1
 Tofieldia calyculata                       .1
 Valeriana saxatilis                        .1
 Viola hirta                                .+
-Euphrasia officinalis s.lat.               .+
-Carduus defloratus ssp. viridis            .1
-Carlina vulgaris s.lat.                    .+
-Ranunculus montanus s.str.                 .+
 END TABLE

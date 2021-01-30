@@ -8,51 +8,51 @@ richness                                   32
                                              
 END HEAD
 BEGIN TABLE
-Helictotrichon parlatorei               hl 44
-Helianthemum alpestre                      22
-Sesleria caerulea s.str.                   22
-Carduus defloratus ssp. viridis            11
-Veronica officinalis                       +.
-Carex flacca ssp. flacca                   11
-Hippocrepis comosa                         +2
-Potentilla aurea                           +.
-Galium truniacum                           +.
-Thymus praecox ssp. polytrichus            11
-Carex sempervirens ssp. sempervirens       2.
-Sedum album                                +.
-Myosotis alpestris                         +.
-Galium anisophyllon                        11
-Achillea millefolium agg.                  +.
-Trifolium pratense s.lat.                  2.
-Carex ornithopoda ssp. ornithopoda         +1
+Achillea millefolium agg.               hl +.
 Alchemilla Sect. Alchemilla                r.
-Scabiosa lucida ssp. lucida                11
-Nardus stricta                             ++
-Mutellina adonidifolia                     +.
-Campanula scheuchzeri                      11
-Valeriana montana                          12
-Anthyllis vulneraria ssp. alpicola         ++
-Phleum hirsutum                            22
-Plantago atrata ssp. atrata                +.
-Gentiana verna ssp. verna                  r.
-Erica carnea                               23
-Phyteuma orbiculare s.str.                 1+
-Fragaria vesca                             ++
-Betonica alopecuros                        +.
-Silene nutans ssp. nutans                  +.
-Laserpitium latifolium ssp. latifolium     ++
-Potentilla caulescens ssp. caulescens      +.
-Campanula cochleariifolia                  +.
-Laserpitium siler ssp. siler               r.
-Calamagrostis varia                        11
 Anthoxanthum odoratum s.str.               1.
-Gymnadenia conopsea ssp. conopsea          .+
-Clinopodium acinos                         .+
-Polygala chamaebuxus                       .+
-Geranium sylvaticum                        .+
-Lotus corniculatus s.lat.                  .+
-Rubus idaeus                               .+
-Pimpinella major s.lat.                    .+
+Anthyllis vulneraria ssp. alpicola         ++
+Betonica alopecuros                        +.
+Calamagrostis varia                        11
+Campanula cochleariifolia                  +.
+Campanula scheuchzeri                      11
+Carduus defloratus ssp. viridis            11
+Carex flacca ssp. flacca                   11
+Carex ornithopoda ssp. ornithopoda         +1
+Carex sempervirens ssp. sempervirens       2.
+Erica carnea                               23
+Fragaria vesca                             ++
+Galium anisophyllon                        11
+Galium truniacum                           +.
+Gentiana verna ssp. verna                  r.
+Helianthemum alpestre                      22
+Helictotrichon parlatorei                  44
+Hippocrepis comosa                         +2
+Laserpitium latifolium ssp. latifolium     ++
+Laserpitium siler ssp. siler               r.
+Mutellina adonidifolia                     +.
+Myosotis alpestris                         +.
+Nardus stricta                             ++
+Phleum hirsutum                            22
+Phyteuma orbiculare s.str.                 1+
+Plantago atrata ssp. atrata                +.
+Potentilla aurea                           +.
+Potentilla caulescens ssp. caulescens      +.
+Scabiosa lucida ssp. lucida                11
+Sedum album                                +.
+Sesleria caerulea s.str.                   22
+Silene nutans ssp. nutans                  +.
+Thymus praecox ssp. polytrichus            11
+Trifolium pratense s.lat.                  2.
+Valeriana montana                          12
+Veronica officinalis                       +.
 Ajuga pyramidalis                          .+
+Clinopodium acinos                         .+
+Geranium sylvaticum                        .+
+Gymnadenia conopsea ssp. conopsea          .+
 Leontodon incanus                          .+
+Lotus corniculatus s.lat.                  .+
+Pimpinella major s.lat.                    .+
+Polygala chamaebuxus                       .+
+Rubus idaeus                               .+
 END TABLE

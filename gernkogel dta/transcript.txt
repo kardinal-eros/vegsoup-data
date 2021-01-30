@@ -106,6 +106,7 @@ Linum catharticum                                           ..........+
 Lotus corniculatus s.str.                                   ..........1
 Luzula campestris s.str.                                    ..........+
 Luzula multiflora s.str.                                    ..........+
+Noccaea caerulescens ssp. caerulescens                      ..........r
 Phyteuma betonicifolium                                     ..........r
 Picea abies                                                 ..........r
 Pimpinella major s.lat.                                     ..........+
@@ -116,7 +117,6 @@ Ranunculus acris ssp. acris                                 ..........+
 Rumex alpestris                                             ..........r
 Silene nutans ssp. nutans                                   ..........1
 Silene vulgaris ssp. vulgaris                               ..........+
-Noccaea caerulescens ssp. caerulescens                      ..........r
 Thymus praecox ssp. polytrichus                             ..........2
 Thymus pulegioides ssp. pulegioides                         ..........+
 Trifolium montanum ssp. montanum                            ..........1

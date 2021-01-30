@@ -55,8 +55,10 @@ X$cov <- gsub("m", "2m", X$cov)
 X$cov <- gsub("a", "2a", X$cov)
 X$cov <- gsub("b", "2b", X$cov)
 
+XZ <- SpeciesTaxonomy(X, Z)
+
 # promote to class "Vegsoup"
-obj <- Vegsoup(X, Y, Z, coverscale = "braun.blanquet")
+obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet")
 
 #	groome elevation
 obj$accuracy <- as.integer(gsub("m", "", obj$accuracy))

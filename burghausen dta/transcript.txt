@@ -31,9 +31,9 @@ Fagus sylvatica                                  ....1.2
 Sorbus aria s.str.                               ....1..
 Viburnum lantana                                 ....+..
 Sorbus aucuparia ssp. aucuparia                  ......+
-Arabis hirsuta s.str.                         hl +......
-Acer platanoides                                 +...+..
+Acer platanoides                              hl +...+..
 Anthericum ramosum                               +1..1.1
+Arabis hirsuta s.str.                            +......
 Asplenium ruta-muraria                           +...r.+
 Brachypodium sylvaticum                          111....
 Calamagrostis varia                              1...1.1
@@ -49,8 +49,8 @@ Cornus sanguinea s.lat.                          +......
 Cotoneaster divaricatus                          r......
 Cotoneaster tomentosus                           ++1....
 Epipactis helleborine s.lat.                     +......
-Euphorbia dulcis                                 ++..+..
 Euonymus europaeus                               +..+...
+Euphorbia dulcis                                 ++..+..
 Fagus sylvatica                                  ++..+.1
 Fraxinus excelsior                               +...1.+
 Galium sylvaticum s.str.                         1...1..
@@ -60,13 +60,13 @@ Hepatica nobilis                                 2+..1.+
 Hieracium murorum                                1+..+.+
 Hypericum montanum                               +......
 Hypericum perforatum                             +.+..+.
+Lactuca muralis                                  +.....+
 Lathyrus vernus                                  2+.....
 Ligustrum vulgare                                1.++...
 Lilium martagon                                  +......
 Melittis melissophyllum                          1+..+..
 Melica nutans s.str.                             1...+.+
 Mercurialis perennis s.str.                      1...1..
-Lactuca muralis                                  +.....+
 Phyteuma spicatum ssp. spicatum                  1......
 Poa nemoralis                                    +......
 Primula veris ssp. veris                         +...+..
@@ -112,50 +112,50 @@ Viburnum lantana                                 ..+.+..
 Campanula rotundifolia s.str.                    ...+..+
 Cytisus nigricans ssp. nigricans                 ...2...
 Scabiosa columbaria s.str.                       ...+...
-Sorbus aria s.str.                               ....+..
-Lonicera xylosteum                               ....+..
 Acer pseudoplatanus                              ....1.+
 Anemone nemorosa                                 ....1.r
-Melampyrum pratense                              ....+..
-Daphne mezereum                                  ....+..
-Viola reichenbachiana                            ....+..
-Solidago virgaurea ssp. virgaurea                ....+..
+Berberis vulgaris                                ....r..
 Convallaria majalis ssp. majalis                 ....1..
+Cotoneaster sp.                                  ....r..
+Daphne mezereum                                  ....+..
+Lonicera xylosteum                               ....+..
+Melampyrum pratense                              ....+..
 Peucedanum oreoselinum                           ....r..
 Prunus padus ssp. padus                          ....r..
-Cotoneaster sp.                                  ....r..
-Berberis vulgaris                                ....r..
-Festuca guestfalica                              .....+.
-Arrhenatherum elatius                            .....4.
-Cerastium arvense ssp. arvense                   .....+.
-Saxifraga granulata ssp. granulata               .....+.
-Plantago lanceolata                              .....1.
-Securigera varia                                 .....1.
-Ranunculus bulbosus s.str.                       .....+.
-Poa angustifolia                                 .....1.
-Luzula campestris s.str.                         .....2.
-Knautia arvensis ssp. arvensis                   .....+.
-Lotus corniculatus s.str.                        .....1.
-Galium album s.str.                              .....1.
-Leontodon hispidus s.lat.                        .....+.
-Festuca pratensis s.str.                         .....+.
-Hieracium pilosella                              .....1.
-Carex caryophyllea                               .....1.
-Veronica chamaedrys ssp. chamaedrys              .....1.
+Solidago virgaurea ssp. virgaurea                ....+..
+Sorbus aria s.str.                               ....+..
+Viola reichenbachiana                            ....+..
 Anthoxanthum odoratum s.str.                     .....2.
-Galium pumilum                                   .....r.
-Trifolium pratense ssp. pratense                 .....1.
-Festuca rubra s.lat.                             .....1.
-Festuca nigrescens                               .....+.
-Homalotrichon pubescens ssp. pubescens           .....1.
+Arrhenatherum elatius                            .....4.
 Brachypodium pinnatum s.str.                     .....1+
+Carex caryophyllea                               .....1.
+Cerastium arvense ssp. arvense                   .....+.
+Festuca guestfalica                              .....+.
+Festuca nigrescens                               .....+.
+Festuca pratensis s.str.                         .....+.
+Festuca rubra s.lat.                             .....1.
+Galium album s.str.                              .....1.
+Galium pumilum                                   .....r.
+Hieracium pilosella                              .....1.
+Homalotrichon pubescens ssp. pubescens           .....1.
+Knautia arvensis ssp. arvensis                   .....+.
+Leontodon hispidus s.lat.                        .....+.
+Lotus corniculatus s.str.                        .....1.
+Luzula campestris s.str.                         .....2.
+Plantago lanceolata                              .....1.
+Poa angustifolia                                 .....1.
 Poa pratensis                                    .....+.
+Ranunculus bulbosus s.str.                       .....+.
+Saxifraga granulata ssp. granulata               .....+.
+Securigera varia                                 .....1.
+Trifolium pratense ssp. pratense                 .....1.
 Trisetum flavescens ssp. flavescens              .....+.
-Ulmus glabra                                     ......r
-Sambucus nigra                                   ......+
-Ajuga genevensis                                 ......r
-Festuca amethystina ssp. amethystina             ......+
+Veronica chamaedrys ssp. chamaedrys              .....1.
 Acer campestre                                   ......+
+Ajuga genevensis                                 ......r
 Asplenium trichomanes ssp. pachyrhachis          ......+
+Festuca amethystina ssp. amethystina             ......+
+Sambucus nigra                                   ......+
+Ulmus glabra                                     ......r
 Tortella tortuosa                             ml ..2....
 END TABLE

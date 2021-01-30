@@ -153,7 +153,7 @@ Solidago virgaurea ssp. virgaurea          ...........+...
 Alchemilla sp.                             ............+..
 Persicaria bistorta                        ............1..
 Anthyllis vulneraria ssp. alpicola         .............+.
-Campanula patula                           .............+.
+Campanula patula ssp. patula               .............+.
 Medicago lupulina                          .............+.
 Verbascum nigrum                           .............+.
 Verbascum thapsus s.str.                   .............+.
