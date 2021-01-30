@@ -5,7 +5,7 @@ require(bibtex)
 path <- "/Users/roli/Documents/vegsoup-data/leogang dta"
 key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 
-#	cd '/Users/roli/Dropbox/ENNACON/projekte/leogang/dta/relevees'
+#	cd '/Users/roli/Documents/vegsoup-data/leogang dta'
 #	sudo /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to csv:"Text - txt - csv (StarCalc)":44,34,76 species.ods
 #	token 76 is the number of the UTF-8 encoding, 44 the comma, and 34 the double quote character ASCII
 
@@ -41,7 +41,6 @@ obj$richness <- richness(obj, "sample")
 do.call("save", list(key, file = file.path(path, paste0(key, ".rda"))))
 write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRUE)
 
-write.csv2(taxon(obj), file.path(path, "taxa.csv"))
 #	tidy up
 rm(list = ls()[-grep(key, ls())])
 
