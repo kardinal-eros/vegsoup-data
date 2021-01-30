@@ -181,7 +181,7 @@
 19;thui tama;ml;2;;;
 19;ulot cris;ml;1;;;
 20;clad digi;ll;0,5;;;
-20;clad maci;ll;0,5;;;
+20;clad maci maci;ll;0,5;;;
 20;clad squa squa;ll;0,1;;;
 20;hypc scal;ll;1;;;
 20;imsh aleu;ll;4;2,5;2;
@@ -380,7 +380,7 @@
 48;bryo fusc;ll;6;5;1;
 48;clad chlo;ll;1;;;
 48;clad fimb;ll;4;;;
-48;clad maci;ll;10;;;
+48;clad maci maci;ll;10;;;
 48;clad pyxi;ll;6;;;
 48;clad spec;ll;10;;;
 48;hypc scal;ll;4;;;
@@ -1789,7 +1789,7 @@
 334;hypo phys;ll;3;2;1;
 334;leca puli;ll;1;;;
 334;plat glau;ll;5;3;1;
-334;psev furf furf;ll;31;5;1;
+334;pseu furf furf;ll;31;5;1;
 335;frul dila;ll;0,5;;;
 335;hypn cupr;ll;0,5;;;
 335;melx fuli glab;ll;18;3;1;
@@ -1951,16 +1951,16 @@
 363;pert albe;ll;14;;;
 363;frul dila;ml;4;;;
 364;clad coni;ll;10;;;
-364;clad maci;ll;70;;;
+364;clad maci maci;ll;70;;;
 364;vulp pina;ll;4;2;1;
 364;hypn cupr;ml;4;;;
 364;ulot cris;ml;1;;;
-365;clad maci;ll;63;;;
+365;clad maci maci;ll;63;;;
 365;hypo phys;ll;17;3;1;
 365;paop ambi;ll;4;2;1;
 365;parm sulc;ll;1,5;2;2;
 365;vulp pina;ll;5;2;1;
-366;clad maci;ll;11;;;
+366;clad maci maci;ll;11;;;
 366;pelt cani;ll;59;;;
 366;hypn cupr;ml;4;;;
 366;plam undu;ml;7;;;

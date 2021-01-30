@@ -1,5 +1,5 @@
 110f: ajug gene@hl +, camp rotu@hl r
-111a: camp patu@hl r
+111a: camp patu patu@hl r
 7: poa angu@hl +, fest stri sulc@hl +, gali veru@hl +, peuc oreo@hl r, soli virg virg@hl r
 8: hier umbe@hl r, alli scor@hl +, epip hell hell@hl r, hell nige@hl r, hype hirs@hl +, lath prat prat@hl +, moli caer aggr@hl 1, pote erec@hl +, ranu bulb@hl +
 112a: betu pend@hl r

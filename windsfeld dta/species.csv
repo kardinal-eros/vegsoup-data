@@ -3890,7 +3890,7 @@ wf61;bart alpi;hl;1;;;;;
 wf61;bisc laev slat;hl;+;;;;; | Changed bisc laev To bisc laev slat 2012-11-03 15:24:31
 wf61;camp sche;hl;1;;;;;
 wf61;care atra;hl;+;;;;;
-wf61;care brun;hl;+;;;;;
+wf61;care brun slat;hl;+;;;;;
 wf61;care capi;hl;1;;;;;
 wf61;care curv curv;hl;1;;;;; | Changed care curv To care curv curv 2012-11-27 18:02:08
 wf61;care firm;hl;1;;;;;
@@ -4271,7 +4271,7 @@ wf69;luzu glab;hl;+;;;;;
 wf69;fest pumi;hl;2a;;;;;
 wf69;scor helv;hl;1;;;;; | Changed leon helv To scor helv 2012-11-03 15:24:31
 wf69;poa alpi;hl;+;;;;;
-wf69;care brun;hl;1;;;;;
+wf69;care brun slat;hl;1;;;;;
 wf69;aven flex flex;hl;2b;;;;;
 wf69;trif prat niva;hl;1;;;;;
 wf69;care curv curv;hl;+;;;;; | Changed care curv To care curv curv 2012-11-27 18:02:08
@@ -4284,7 +4284,7 @@ wf70;vacc viti;hl;1;;;;;
 wf70;vacc gaul;hl;2a;;;;cf.;
 wf70;homo alpi;hl;1;;;;;
 wf70;lois proc;hl;3;;;;;
-wf70;care brun;hl;2a;;;;;
+wf70;care brun slat;hl;2a;;;;;
 wf70;scor helv;hl;1;;;;; | Changed leon helv To scor helv 2012-11-03 15:24:31
 wf70;cera holo;hl;+;;;;;
 wf70;camp sche;hl;+;;;;;

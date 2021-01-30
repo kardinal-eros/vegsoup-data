@@ -27,7 +27,7 @@
 "bm01";"camp rotu";"hl";"+";;
 "bm01";"junc effu";"hl";"+";;
 "bm01";"junc tenu";"hl";"+";;
-"bm01";"camp patu";"hl";"1";;
+"bm01";"camp patu patu";"hl";"1";;
 "bm02";"iris sibi";"hl";"2b";;
 "bm02";"care rost";"hl";"4";;
 "bm02";"phra aust";"hl";"1";;
@@ -53,7 +53,7 @@
 "bm02";"cirs palu";"hl";"+";;
 "bm03";"trol euro";"hl";"2a";;
 "bm03";"iris sibi";"hl";"+";;
-"bm03";"camp patu";"hl";"2m";;
+"bm03";"camp patu patu";"hl";"2m";;
 "bm03";"leuc vulg";"hl";"2a";;
 "bm03";"equi palu";"hl";"2a";;
 "bm03";"care hirt";"hl";"2b";;
@@ -94,7 +94,7 @@
 "bm04";"sali cine";"hl";"1";;
 "bm04";"dact inca inca";"hl";"+";;" | Changed dact inca To dact inca inca 2012-11-26 23:29:55"
 "bm04";"iris sibi";"hl";"2a";;
-"bm04";"camp patu";"hl";"1";;
+"bm04";"camp patu patu";"hl";"1";;
 "bm04";"lyco euro euro";"hl";"2a";;" | Changed lyco euro To lyco euro euro 2012-11-26 23:29:54"
 "bm04";"myos palu aggr";"hl";"+";;
 "bm04";"ranu acri acri";"hl";"2b";;" | Changed ranu acri To ranu acri acri 2012-11-26 23:29:55"
@@ -140,7 +140,7 @@
 "bm05";"sali cine";"hl";"3";;
 "bm05";"care cane cane";"hl";"+";;" | Changed care cane To care cane cane 2012-11-26 23:29:55"
 "bm05";"betu pend";"hl";"1";;" | Changed betu pube To betu pend 2012-11-26 23:29:54"
-"bm05";"camp patu";"hl";"1";;
+"bm05";"camp patu patu";"hl";"1";;
 "bm05";"iris sibi";"hl";"1";;
 "bm05";"junc effu";"hl";"+";;
 "bm05";"gali palu palu";"hl";"+";;" | Changed gali palu To gali palu palu 2012-11-26 23:29:54"
