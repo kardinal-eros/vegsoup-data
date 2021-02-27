@@ -132,8 +132,6 @@ a <- sapply(a, function (x) {
 	}	
 	} )
 
-
-
 #	load objects and add bibliographic references
 for (i in seq_along(f)) {
 	load(file.path(f[ i ], paste0(k[ i ], ".rda")))

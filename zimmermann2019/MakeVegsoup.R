@@ -35,7 +35,7 @@ a <- header(x)
 # reorder by plot
 a <- a[match(rownames(obj), rownames(a)), ]
 # assign variables
-obj$elevation <- a$Seehöhe
+obj$altitude <- a$Seehöhe
 
 #	unique rownames
 rownames(obj) <- paste(key, "Tab1", sprintf("%02d", as.numeric(rownames(obj))), sep = ":")
