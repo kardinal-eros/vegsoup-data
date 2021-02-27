@@ -177,7 +177,7 @@ if (test) {
 #	extract year
 X$year <- as.integer(sapply(str_split(X$date, "-"), head, 1))
 
-#	groome remarks to caintain.only date related comment
+#	groome remarks to caintain only date related comment
 X$remarks <- as.character(X$remarks)
 X$remarks[ -grep("date", X$remarks) ] <- NA
 
@@ -211,8 +211,6 @@ sum(rkte$plots)
 sum(rkte$plots)
 lit <- src[ -unique(c(rk, te)), ]
 sum(lit$plots)
-
-plot(X)
 
 y <- X$year[ !X$published ]
 hist(y, main = "", xlab = "Year",
