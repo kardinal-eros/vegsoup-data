@@ -47,5 +47,5 @@ Trifolium pratense ssp. pratense             +
 Vincetoxicum hirundinaria                    +  
 Viola rupestris                              +  
  
-x: 12.5888, y: 47.22713, accuracy: 5, bare: 0, comment: NA, cov: 40, date: 2012-06-19, expo: SW, hcov: 35, hhl1: 0.3, hhl2: 0.5, hsl: 0, htl1: 0, htl2: 0, location: Trockenrasenfragment an Felsen neben der Straße bei der Unterkegelalm, mcov: 20, observer: R. Kaiser, plsx: 4, plsy: 4, rock: 60, scov: 0, slope: 65, soil: 0, syntaxon: unclassified, t1cov: 0, t2cov: 0, richness: 47, author: R Kaiser, citation: Kaiser R (2012). “Stubachtal.” Grassland in the
-Stubachtal valley (Salzburg, Austria).
+x: 12.5888, y: 47.22713, accuracy: 5, bare: 0, comment: NA, cov: 40, date: 2012-06-19, expo: SW, hcov: 35, hhl1: 0.3, hhl2: 0.5, hsl: 0, htl1: 0, htl2: 0, location: Trockenrasenfragment an Felsen neben der Straße bei der Unterkegelalm, mcov: 20, observer: R. Kaiser, plsx: 4, plsy: 4, rock: 60, scov: 0, slope: 65, soil: 0, syntaxon: unclassified, t1cov: 0, t2cov: 0, richness: 47, author: R Kaiser, citation: Kaiser R (2012). “Stubachtal.” Grassland in the Stubachtal valley (Salzburg,
+Austria).

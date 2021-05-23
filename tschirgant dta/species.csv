@@ -803,8 +803,8 @@ tc2a;lari deci deci;tl;r;;;; | Changed lari deci To lari deci deci 2012-11-27 16
 tc2a;loni xylo;hl;1;;;;
 tc2a;loni xylo;sl;1;;;;
 tc2a;pinu sylv;tl;5;;;;
-tc2a;prun cera ifera;hl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
-tc2a;prun cera ifera;sl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2a;prun cera fera;hl;1;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
+tc2a;prun cera fera;sl;1;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
 tc2a;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
 tc2a;rham cath;hl;r;;;;
 tc2a;robi pseu;hl;+;;;;
@@ -851,9 +851,9 @@ tc2b;pice abie;hl;r;;;;
 tc2b;pinu sylv;sl;1;;;;
 tc2b;pinu sylv;tl;4;;;;
 tc2b;pren purp;hl;+;;;;
-tc2b;prun cera ifera;hl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
-tc2b;prun cera ifera;sl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
-tc2b;prun cera ifera;tl;1;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc2b;prun cera fera;hl;1;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
+tc2b;prun cera fera;sl;1;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
+tc2b;prun cera fera;tl;1;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
 tc2b;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
 tc2b;prun padu padu;sl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
 tc2b;rham cath;hl;+;;;;
@@ -1604,7 +1604,7 @@ tc6a;part inse;sl;1;;;;
 tc6a;pice abie;hl;+;;;;
 tc6a;pinu sylv;tl;2a;;;;
 tc6a;prun aviu slat;tl;+;;;; | Changed prun aviu To prun aviu slat 2012-11-27 16:08:03
-tc6a;prun cera ifera;sl;2m;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc6a;prun cera fera;sl;2m;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
 tc6a;prun padu padu;hl;+;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
 tc6a;prun padu padu;sl;1;;;; | Changed prun padu To prun padu padu 2012-11-27 16:08:06
 tc6a;pter aqui;hl;+;;;;
@@ -1784,7 +1784,7 @@ tc9b;pinu sylv;sl;2b;;;;
 tc9b;pinu sylv;tl;3;;;;
 tc9b;pleu schr;ml;+;;;;
 tc9b;poly cham;hl;+;;;;
-tc9b;prun cera ifera;hl;r;;;; | Changed prun cers To prun cera ifera 2012-11-27 16:08:07
+tc9b;prun cera fera;hl;r;;;; | Changed prun cers To prun cera fera 2012-11-27 16:08:07
 tc9b;rham saxa saxa;hl;+;;;; | Changed rham saxa To rham saxa saxa 2012-11-27 16:08:08
 tc9b;sali elea elea;hl;+;;;; | Changed sali elea To sali elea elea 2012-11-27 16:08:07
 tc9b;sesl caer;hl;+;;;; | Changed sesl vari To sesl caer 2012-11-27 16:08:05

@@ -19,11 +19,11 @@ ii <- c(
 #	other files
 	"CHANGES.md",
 	"README.md",
-	"README.png",	
+	"README.png",
 	"mirror",
 	"givd",	# to be deleted
 #	unfished data sets
-	"dirnböck1999",
+	"dirnböck1999",
 	"brunner2011",
 	"dunzendorfer1980",
 	"greimler1996",
@@ -60,7 +60,7 @@ ii <- c(
 	"schrattenboden dta",
 	"wirlingwand dta",
 	"ybbs and türnitz prealps dta",
-	"zwurms meschach dta",	
+	"zwurms meschach dta",
 #	independent taxonomy
 	"crete dta",
 	"javakheti dta",
@@ -68,22 +68,22 @@ ii <- c(
 	"salzkammergut lichen dta",
 	"kalkalpen lichen dta",
 #	custom coverscale and taxonomy
-	"furka dta",		
+	"furka dta",
 #	turboveg taxonomy (keep in sync with *mirror turboveg.R*)
 	"aspro dta",
 	"donauauen dta",
 	"enzersfeld dta",
-	"fischamend dta",	
+	"fischamend dta",
 	"hainburg dta",
 	"kirchdorf and steyr-land dta",
 	"mountain hay meadows dta",
 	"nackter sattel dta",
 	"neusiedlersee dta",
 	"pilgersdorf dta",
-	"ravine forest dta",	
+	"ravine forest dta",
 	"reichraming dta",
 	"sankt margarethen dta",
-	"seekirchen dta",	
+	"seekirchen dta",
 	"südburgenland dta",
 	"traun and steyr and ennstal dta",
 	"vorarlberg dta",
@@ -102,16 +102,16 @@ build = FALSE
 
 #	WARNING, running a Make-file will
 #	delete *all* objects in the enviroment when leaving.
-if (build) {	
+if (build) {
 	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {
 		cat(x, "\n")
 		source(x)
 		} )
 }
 
-#	pre load and process biblographic entities	
+#	pre load and process biblographic entities
 x <- sapply(file.path(path, x), function (x) {
-	read.bib(file.path(x, "references.bib"))	
+	read.bib(file.path(x, "references.bib"))
 }, simplify = FALSE)
 b <- do.call("c", x)
 
@@ -129,7 +129,7 @@ a <- sapply(a, function (x) {
 		paste(paste(x[ 1:l - 1 ], collapse = ", "), x[ l ], sep = " & ")
 	} else {
 		as.character(x)
-	}	
+	}
 	} )
 
 #	load objects and add bibliographic references
