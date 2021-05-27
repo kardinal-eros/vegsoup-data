@@ -22,7 +22,7 @@ ii <- c(
 	"README.png",
 	"mirror",
 	"givd",	# to be deleted
-#	unfished data sets
+#	unfinished data sets
 	"dirnböck1999",
 	"brunner2011",
 	"dunzendorfer1980",

@@ -1,0 +1,96 @@
+BEGIN HEAD
+plot                                    12345
+accuracy                                88888
+                                             
+bare                                    00000
+                                             
+cov                                     11111
+                                        00000
+                                        00000
+                                             
+hcov                                       11
+                                        99900
+                                        78900
+                                             
+mcov                                    191 1
+                                        00000
+                                             
+plsx                                    44444
+                                             
+plsy                                    44444
+                                             
+slope                                   00000
+                                             
+richness                                21222
+                                        29798
+                                             
+END HEAD
+BEGIN TABLE
+Carex elata ssp. elata               hl 4....
+Carex distans                           23321
+Carex vesicaria                         1....
+Poa palustris                           +....
+Galium palustre s.lat.                  1.+.+
+Mentha aquatica                         22...
+Iris pseudacorus                        1....
+Equisetum fluviatile                    +....
+Phragmites australis ssp. australis     ++2.2
+Filipendula ulmaria                     11+1+
+Caltha palustris                        1+1+.
+Myosotis palustris agg.                 +1++.
+Persicaria bistorta                     +.2++
+Lychnis flos-cuculi                     +112.
+Dactylorhiza majalis s.lat.             +...+
+Lathyrus pratensis ssp. pratensis       1+221
+Ranunculus acris ssp. acris             +++.1
+Cerastium holosteoides                  +.1..
+Symphytum officinale                    1+++.
+Lysimachia vulgaris                     21..2
+Juncus effusus ssp. effusus             +.+..
+Carex brizoides                         +....
+Lythrum salicaria                       .+..1
+Galium uliginosum                       .2.+1
+Comarum palustre                        .1...
+Poa trivialis                           .1...
+Alopecurus pratensis                    .143.
+Carex acutiformis                       .41..
+Cirsium palustre                        .+...
+Ranunculus flammula s.str.              .+...
+Phalaris arundinacea                    ..2+.
+Stachys palustris                       ..+..
+Sanguisorba officinalis                 ..++1
+Galium album s.str.                     ..++.
+Holcus lanatus                          ..12.
+Poa pratensis                           ..2.1
+Agrostis gigantea                       ..2..
+Rumex acetosa                           ..++.
+Ranunculus auricomus agg.               ..11+
+Taraxacum sect. Ruderalia               ..++.
+Phleum pratense s.str.                  ..2..
+Veronica sp.                            ..+..
+Angelica sylvestris ssp. sylvestris     ...+.
+Festuca pratensis s.str.                ...2.
+Trifolium pratense ssp. pratense        ...1.
+Achillea millefolium agg.               ...+.
+Anthoxanthum odoratum s.str.            ...1+
+Ranunculus repens                       ...4.
+Plantago lanceolata                     ...1.
+Deschampsia cespitosa                   ...1.
+Equisetum arvense                       ...+.
+Geranium palustre                       ...+.
+Lysimachia nummularia                   ...+.
+Rumex crispus                           ...+.
+Crepis paludosa                         ....1
+Molinia caerulea s.str.                 ....3
+Succisa pratensis                       ....3
+Equisetum palustre                      ....1
+Valeriana dioica                        ....1
+Menyanthes trifoliata                   ....1
+Epipactis palustris                     ....2
+Salix repens ssp. repens                ....2
+Potentilla erecta                       ....+
+Briza media                             ....1
+Festuca rubra s.lat.                    ....1
+Carex panicea                           ....1
+Alnus glutinosa                         ....1
+END TABLE

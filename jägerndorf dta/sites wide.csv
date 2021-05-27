@@ -1,0 +1,6 @@
+plot,plsx,plsy,slope,aspect,cov,hcov,mcov,bare,hhl1,hhl2,date,date1,date2,latitude,longitude,accuracy,elevation,alliance.code,alliance,association,comment,location,observer,remarks,biotope.type
+jd01-2019,4,4,0,F,100,97,10,0,,,2021-05-26,2021-05-26,,48.543596,12.776808,8,,PHR-04A ,Magnocaricion elatae Koch 1926,Caricetum elatae,,Kollbachwiesen N Jägerndorf,T. Windmaißer & T. Hermann,,
+jd02-2019,4,4,0,F,100,98,90,0,,,2021-05-26,2021-05-26,,48.543443,12.776846,8,,PHR-04A ,Magnocaricion elatae Koch 1926,Carex disticha-Gesellschaft,,Kollbachwiesen N Jägerndorf,T. Windmaißer & T. Hermann,,
+jd03-2019,4,4,0,F,100,99,10,0,,,2021-05-26,2021-05-26,2021-07-21,48.542754,12.777675,8,,MOL-05B,Calthion palustris Tx. 1937,unclassified,,Kollbachwiesen N Jägerndorf,T. Windmaißer & T. Hermann,,
+jd04-2019,4,4,0,F,100,100,0,0,,,2021-05-26,2021-05-26,2021-08-27,48.542454,12.776858,8,,MOL-05B,Calthion palustris Tx. 1937,unclassified,,Kollbachwiesen N Jägerndorf,T. Windmaißer & T. Hermann,,
+jd05-2019,4,4,0,F,100,100,10,0,,,2021-05-26,2021-05-26,2021-08-27,48.543128,12.775541,8,,MOL-05A,Molinion caeruleae Koch 1926,Molinietum coeruleae,,Kollbachwiesen N Jägerndorf,T. Windmaißer & T. Hermann,,
