@@ -1,9 +1,14 @@
-plot,date,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,latitude,longitude,accuracy,elevation,soil,location,comment,alliance,observer
-md01,2017-05-11,90,55,35,75,80,3,19,9,5,0.6,0.1,16,16,SE,40,1,0,0,47.79745,13.38619,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,Tilenion platyphylli,R. Kaiser
-md02,2017-05-11,97,45,30,40,85,1,18,12,4,0.8,0.2,16,16,SE,45,1,0,0,47.79747,13.38586,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,Tilenion platyphylli,R. Kaiser
-md03,2017-05-11,97,15,50,45,80,1,13,10,4,0.6,0.2,16,16,SE,55,1,0,0,47.79847,13.38743,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,Tilenion platyphylli,R. Kaiser
-md04,2017-05-11,95,50,30,50,40,10,17,11,4.5,0.5,0.2,16,16,SE,60,30,0,0,47.79894,13.38788,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,Tilenion platyphylli,R. Kaiser
-md05,2017-05-11,80,45,30,40,70,3,14,8,3.5,0.6,0.15,16,16,SE,40,25,0,0,47.79942,13.38849,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,Tilenion platyphylli,R. Kaiser
-md06,2017-05-11,97,35,45,15,97,1,15,10,3.5,0.8,0.15,16,16,SE,45,1,0,0,47.79862,13.38694,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,Cephalanthero-Fagenion,R. Kaiser
-md07,2017-05-11,99,20,30,15,97,1,11,7,4,0.7,0.2,16,16,SE,40,1,0,0,47.79824,13.38673,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,Cephalanthero-Fagenion,R. Kaiser
-md08,2017-05-11,99,75,20,10,10,35,22,13,3.5,0.5,0.1,16,16,SE,70,95,0,0,47.79984,13.38943,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,Tilenion platyphylli,R. Kaiser
+plot,date,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,latitude,longitude,accuracy,elevation,soil,location,comment,alliance.code,alliance,suballiance,observer
+md01,2017-05-11,90,55,35,75,80,3,19,9,5,0.6,0.1,16,16,SE,40,1,0,0,47.79745,13.38619,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
+md02,2017-05-11,97,45,30,40,85,1,18,12,4,0.8,0.2,16,16,SE,45,1,0,0,47.79747,13.38586,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
+md03,2017-05-11,97,15,50,45,80,1,13,10,4,0.6,0.2,16,16,SE,55,1,0,0,47.79847,13.38743,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
+md04,2017-05-11,95,50,30,50,40,10,17,11,4.5,0.5,0.2,16,16,SE,60,30,0,0,47.79894,13.38788,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
+md05,2017-05-11,80,45,30,40,70,3,14,8,3.5,0.6,0.15,16,16,SE,40,25,0,0,47.79942,13.38849,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
+md06,2017-05-11,97,35,45,15,97,1,15,10,3.5,0.8,0.15,16,16,SE,45,1,0,0,47.79862,13.38694,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-02B,Fagion sylvaticae Luquet 1926,Cephalanthero-Fagenion,R. Kaiser
+md07,2017-05-11,99,20,30,15,97,1,11,7,4,0.7,0.2,16,16,SE,40,1,0,0,47.79824,13.38673,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-02B,Fagion sylvaticae Luquet 1926,Cephalanthero-Fagenion,R. Kaiser
+md08,2017-05-11,99,75,20,10,10,35,22,13,3.5,0.5,0.1,16,16,SE,70,95,0,0,47.79984,13.38943,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
+md09,2021-06-05,99,0,95,3,20,1,0,19,2,"9,3","0,05",16,16,WSW,20,5,0,0,47.792444,13.400303,10,,,"Scharfling, SE Egelsee","BHD Fagus: 14,15,33,20,21,17",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md10,2021-06-05,99,0,95,5,7,5,0,20,"3,5","0,25","0,05",16,16,WSW,30,5,0,0,47.792552,13.400576,10,,,"Scharfling, SE Egelsee","BHD Fagus: 14,18,10,4,21,6 Picea: 11,4",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md11,2021-06-05,99,0,97,5,15,5,0,17,"5,5","0,25","0,05",16,16,WNW,20,0,0,0,47.792640,13.401050,10,,,"Scharfling, SE Egelsee",BHD Fagus: 29 (max) Picea: 26 (max),FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md12,2021-06-05,99,0,97,3,3,5,0,17,"4,5","0,2","0,05",16,16,WNW,20,7,0,0,47.792728,13.400762,10,,,"Scharfling, SE Egelsee","BHD Fagus: 19,12,9,12,8 Picea: 10,6",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md13,2021-06-05,99,0,99,20,3,3,0,17,5,"0,2","0,05",16,16,W,25,g,0,0,47.792799,13.401349,10,,,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
