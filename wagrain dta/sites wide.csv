@@ -1,0 +1,10 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl1;hhl1;hhl2;plsx;plsy;plrad;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;marks;comment;alliance.code;alliance;association;soil;location;observer
+wa01;98;70;45;35;85;25;18;10;3;1,1;0,2;16;16;0;ENE;30;0;1;1;2021-07-27;47.332352;13.294614;10;not marked;;FAG-05A;Tilio-Acerion Klika 1955;;;Wagrain, S Wagrainer Ache;T. Eberl & R. Kaiser
+wa02;99;0;0;0;96;90;0;0;0;1;0,1;2;8;0;NE;38;0;0;1;2021-07-27;47.332157;13.294879;10;not marked;;MON-01A;Caricion remotae Kästner 1941;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa03;99;35;60;60;97;30;27;13;4;1;0,2;16;16;0;NNE;25;0;1;0;2021-07-27;47.331846;13.295376;10;not marked;;MON-01A;Caricion remotae Kästner 1941;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa04;94;0;0;1;80;85;0;0;1,5;0,9;0,1;2;8;0;NE;12;0;6;0;2021-07-27;47.331727;13.295450;10;not marked;;FAG-05A;Tilio-Acerion Klika 1955;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa05;100;0;98;50;70;20;0;8;3;1;0,2;16;16;0;NE;15;0;0;0;2021-07-27;47.331656;13.296358;10;not marked;;FAG-05A;Tilio-Acerion Klika 1955;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa06;99;0;15;95;85;20;0;10;5;0,9;0,2;16;16;0;NE;25;0;1;0;2021-07-27;47.331421;13.296384;10;not marked;;FAG-05A;Tilio-Acerion Klika 1955;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa07;100;20;3;95;90;15;23;10;5;1,1;0,2;16;16;0;E;35;0;0;0;2021-07-27;47.331117;13.296607;10;not marked;;FAG-05A;Tilio-Acerion Klika 1955;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa08;100;0;0;15;98;80;0;0;3,5;1,2;0,2;4;4;0;NE;15;0;0;0;2021-07-27;47.332247;13.295180;10;not marked;;MON-01A;Caricion remotae Kästner 1941;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
+wa09;100;0;0;1;98;90;0;0;4;1,1;0,2;4;4;0;NE;7;0;0;0;2021-07-27;47.331984;13.295999;10;not marked;;MON-01A;Caricion remotae Kästner 1941;;;Wagrain, südl. Wahgrainer Ache;T. Eberl & R. Kaiser
