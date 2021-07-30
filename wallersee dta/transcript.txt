@@ -1,6 +1,6 @@
 BEGIN HEAD
 plot                                          wwwwww
-                                              aaaaaa
+                                              llllll
                                               000000
                                               123456
 richness                                      443344
