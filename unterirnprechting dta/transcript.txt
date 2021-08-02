@@ -1,0 +1,45 @@
+BEGIN HEAD
+plot                                           uu
+                                               ii
+                                               00
+                                               12
+richness                                       22
+                                               26
+                                                 
+END HEAD
+BEGIN TABLE
+Achillea millefolium agg.                   hl r1
+Agrostis capillaris                            r2
+Arenaria serpyllifolia s.str.                  1.
+Brachypodium pinnatum s.str.                   23
+Briza media                                    +2
+Calamagrostis epigejos                         r+
+Dactylis glomerata ssp. glomerata              r.
+Draba verna s.str.                             r.
+Euphorbia cyparissias                          11
+Festuca nigrescens                             11
+Galium album s.str.                            ++
+Hieracium pilosella                            11
+Knautia arvensis ssp. arvensis                 ++
+Leontodon hispidus ssp. hispidus               4.
+Lotus corniculatus s.str.                      r.
+Ononis repens ssp. procurrens                  11
+Pinus sylvestris                               +.
+Plantago lanceolata                            r.
+Polygala comosa                                rr
+Prunella vulgaris                              r.
+Sanguisorba minor ssp. minor                   1+
+Thymus pulegioides ssp. pulegioides            21
+Campanula patula ssp. patula                   .+
+Campanula rapunculoides ssp. rapunculoides     .1
+Campanula rotundifolia s.str.                  .+
+Carex caryophyllea                             .2
+Centaurea jacea ssp. jacea                     .1
+Clinopodium vulgare ssp. vulgare               .1
+Hypericum perforatum                           .r
+Leucanthemum ircutianum                        .1
+Medicago falcata                               .1
+Silene nutans ssp. nutans                      .1
+Teucrium chamaedrys ssp. chamaedrys            .+
+Trifolium medium ssp. medium                   .2
+END TABLE
