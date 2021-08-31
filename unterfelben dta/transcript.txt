@@ -1,0 +1,24 @@
+BEGIN HEAD
+plot                                                         uu
+                                                             ff
+                                                             00
+                                                             12
+richness                                                     1 
+                                                             06
+                                                               
+END HEAD
+BEGIN TABLE
+Asplenium × poscharskyanum (=A. adulterinum × A. viride)  hl r.
+Asplenium adulterinum                                        1.
+Asplenium viride                                             r+
+Athyrium filix-femina                                        r.
+Avenella flexuosa                                            +.
+Calamagrostis varia                                          rr
+Huperzia selago ssp. selago                                  r.
+Phyteuma betonicifolium                                      rr
+Prenanthes purpurea                                          r.
+Rhododendron ferrugineum                                     r.
+Campanula cochleariifolia                                    .r
+Luzula luzuloides                                            .r
+Polypodium vulgare s.str.                                    .r
+END TABLE
