@@ -7,8 +7,20 @@ md05,2017-05-11,80,45,30,40,70,3,14,8,3.5,0.6,0.15,16,16,SE,40,25,0,0,47.79942,1
 md06,2017-05-11,97,35,45,15,97,1,15,10,3.5,0.8,0.15,16,16,SE,45,1,0,0,47.79862,13.38694,20,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-02B,Fagion sylvaticae Luquet 1926,Cephalanthero-Fagenion,R. Kaiser
 md07,2017-05-11,99,20,30,15,97,1,11,7,4,0.7,0.2,16,16,SE,40,1,0,0,47.79824,13.38673,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-02B,Fagion sylvaticae Luquet 1926,Cephalanthero-Fagenion,R. Kaiser
 md08,2017-05-11,99,75,20,10,10,35,22,13,3.5,0.5,0.1,16,16,SE,70,95,0,0,47.79984,13.38943,10,,Rendzina,"Mondsee, Brandlberg",late spring survey,FAG-05B,Melico-Tilion platyphylli Passarge et G. Hofmann 1968,,R. Kaiser
-md09,2021-06-05,99,0,95,3,20,1,0,19,2,"9,3","0,05",16,16,WSW,20,5,0,0,47.792444,13.400303,10,,,"Scharfling, SE Egelsee","BHD Fagus: 14,15,33,20,21,17",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
-md10,2021-06-05,99,0,95,5,7,5,0,20,"3,5","0,25","0,05",16,16,WSW,30,5,0,0,47.792552,13.400576,10,,,"Scharfling, SE Egelsee","BHD Fagus: 14,18,10,4,21,6 Picea: 11,4",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
-md11,2021-06-05,99,0,97,5,15,5,0,17,"5,5","0,25","0,05",16,16,WNW,20,0,0,0,47.792640,13.401050,10,,,"Scharfling, SE Egelsee",BHD Fagus: 29 (max) Picea: 26 (max),FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
-md12,2021-06-05,99,0,97,3,3,5,0,17,"4,5","0,2","0,05",16,16,WNW,20,7,0,0,47.792728,13.400762,10,,,"Scharfling, SE Egelsee","BHD Fagus: 19,12,9,12,8 Picea: 10,6",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
-md13,2021-06-05,99,0,99,20,3,3,0,17,5,"0,2","0,05",16,16,W,25,g,0,0,47.792799,13.401349,10,,,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md09,2021-06-05,99,0,95,3,20,1,0,19,2,"9,3","0,05",16,16,WSW,20,5,0,0,47.792444,13.400303,10,,Rendzina,"Scharfling, SE Egelsee","BHD Fagus: 14,15,33,20,21,17",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md10,2021-06-05,99,0,95,5,7,5,0,20,"3,5","0,25","0,05",16,16,WSW,30,5,0,0,47.792552,13.400576,10,,Rendzina,"Scharfling, SE Egelsee","BHD Fagus: 14,18,10,4,21,6 Picea: 11,4",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md11,2021-06-05,99,0,97,5,15,5,0,17,"5,5","0,25","0,05",16,16,WNW,20,0,0,0,47.792640,13.401050,10,,Rendzina,"Scharfling, SE Egelsee","BHD Fagus: 29 (max), Picea: 26 (max)",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md12,2021-06-05,99,0,97,3,3,5,0,17,"4,5","0,2","0,05",16,16,WNW,20,7,0,0,47.792728,13.400762,10,,Rendzina,"Scharfling, SE Egelsee","BHD Fagus: 19,12,9,12,8, Picea: 10,6",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md13,2021-06-05,99,0,99,20,3,3,0,17,5,"0,2","0,05",16,16,W,25,9,0,0,47.792799,13.401349,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md14,2021-09-23,97,55,70,10,35,1,24,17,"2,5","0,3","0,1",16,16,W,20,0,0,0,47.791683,13.402114,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md15,2021-09-23,99,0,97,5,15,1,0,17,"4,5","0,3","0,1",16,16,NNW,25,1,0,0,47.791136,13.401154,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-05A,Tilio-Acerion Klika 1955,,R. Kaiser
+md16,2021-09-23,97,50,80,5,15,3,27,17,4.5,"1,1","0,2",16,16,NNW,25,2,0,0,47.791195,13.400542,10,,Rendzina,"Scharfling, SE Egelsee",BHD Fagus: 35,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md17,2021-09-23,95,25,75,17,17,7,21,13,"4,5","0,75","0,1",16,16,N,25,2,0,5,47.791185,13.400043,10,,Rendzina,"Scharfling, SE Egelsee",BHD Acer pseudoplatanus: 43,FAG-05A,Tilio-Acerion Klika 1955,,R. Kaiser
+md18,2021-09-23,99,45,5,45,80,25,28,9,5,"1,3","0,2",16,16,ENE,20,3,0,0,47.791424,13.399650,10,,Rendzina,"Scharfling, SE Egelsee","BHD Fagus: 41, Picea 50",FAG-05A,Tilio-Acerion Klika 1955,,R. Kaiser
+md19,2021-09-23,97,75,20,15,65,15,30,18,"4,5","0,8","0,25",16,16,E,25,1,0,0,47.791789,13.399874,10,,Rendzina,"Scharfling, SE Egelsee","BHD Fagus: 49, Picea 48, Acer pseudoplatanus: 45",FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md20,2021-09-23,75,80,35,3,75,25,32,23,"2,5","0,6","0,15",16,16,N,5,0,0,0,47.791766,13.399546,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md21,2021-09-25,99,60,15,1,90,10,31,21,"1,5","0,8","0,25",16,16,NE,30,2,0,3,47.791302,13.399392,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-05A,Tilio-Acerion Klika 1955,,R. Kaiser
+md22,2021-09-25,95,0,95,50,3,5,0,13,6,"0,2","0,05",16,16,N,35,1,0,0,47.790978,13.400698,10,,Rendzina,"Scharfling, SE Egelsee",BHD Fagus: 32,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md23,2021-09-25,99,97,10,3,7,1,23,14,"4,5","0,2","0,1",16,16,N,30,1,0,0,47.790948,13.401137,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md24,2021-09-25,99,35,85,5,1,1,25,19,4.5,"0,15","0,05",16,16,NW,25,0,0,0,47.791138,13.401950,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
+md25,2021-09-25,87,0,85,1,5,1,0,21,3.5,"0,1","0,05",16,16,W,35,1,0,0,47.791606,13.402464,10,,Rendzina,"Scharfling, SE Egelsee",,FAG-02B,Fagion sylvaticae Luquet 1926,,R. Kaiser
