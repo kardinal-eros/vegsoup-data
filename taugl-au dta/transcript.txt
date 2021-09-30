@@ -349,7 +349,7 @@ Solanum dulcamara                                  ...........................r.
 Tussilago farfara                                  ...........................r.....
 Humulus lupulus                                    ..............................r..
 Prunus spinosa                                     ..............................r..
-Campanula rapunculus                               ................................r
+Campanula rapunculoides ssp. rapunculoides         ................................r
 Elymus caninus                                     ................................+
 Euonymus europaeus                                 ................................r
 END TABLE
