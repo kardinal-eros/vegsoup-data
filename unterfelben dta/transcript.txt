@@ -3,8 +3,8 @@ plot                                                         uu
                                                              ff
                                                              00
                                                              12
-richness                                                     1 
-                                                             06
+richness                                                     11
+                                                             82
                                                                
 END HEAD
 BEGIN TABLE
@@ -21,4 +21,13 @@ Rhododendron ferrugineum                                     r.
 Campanula cochleariifolia                                    .r
 Luzula luzuloides                                            .r
 Polypodium vulgare s.str.                                    .r
+Cololejeunea calcarea                                     ml ++
+Fissidens dubius                                             ++
+Frullania tamarisci                                          ++
+Isothecium alopecuroides                                     +.
+Leiocolea collaris                                           ++
+Oxystegus tenuirostris                                       +.
+Platydictya jungermannioides                                 +.
+Tortella tortuosa                                            ++
+Brachythecium glareosum var. glareosum                       .+
 END TABLE
