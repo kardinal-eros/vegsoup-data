@@ -1,0 +1,21 @@
+plot;cov;t1cov;t2cov;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;bearing.photo;expo;slope;rock;bare;stones;date;latitude;longitude;accuracy;marks;comment;alliance.code;alliance;association;soil;location;observer
+hb01-2021;99;0;0;0;99;3;0;0;0;0,7;0,4;4;4;60;F;0;;1;;2021-05-29,2021-07-03;48.568656;12.967576;5;11,9m SW Graben;;;;;;Habach;T. Eberl & R. Kaiser
+hb02-2021;98;0;0;0;98;1;0;0;0;0,6;0,15;4;4;60;SSW;10;;2;;2021-05-29,2021-07-03;48.568648;12.968271;5;;;;;;;Habach;T. Eberl & R. Kaiser
+jd01-2021;100;0;0;0;97;50;0;0;0;0,7;0,5;4;4;275;F;0;;0;;2021-05-30,2021-07-04;48.543596;12.776808;5;;;;;;;Kollbachwiesen N Jägerndorf;T. Eberl & R. Kaiser
+jd02-2021;97;0;0;0;97;15;0;0;0;0,6;0,3;4;4;270;F;0;;3;;2021-05-30,2021-07-04;48.543511;12.776744;5;11m E Graben;bare is water;;;;;Kollbachwiesen N Jägerndorf;T. Eberl & R. Kaiser
+jd03-2021;99;0;0;0;99;3;0;0;0;0,7;0,3;4;4;170;F;0;;1;;2021-05-30,2021-07-04;48.542754;12.777675;5;13,5m SW Graben;;;;;;Kollbachwiesen N Jägerndorf;T. Eberl & R. Kaiser
+jd04-2021;99;0;0;0;99;1;0;0;0;0,9;0,35;4;4;270;F;0;;1;;2021-05-30,2021-07-04;48.542513;12.776820;5;13,5m E Graben;;;;;;Kollbachwiesen N Jägerndorf;T. Eberl & R. Kaiser
+jd05-2021;98;0;0;0;98;5;0;0;0;0,5;0,2;4;4;270;F;0;;2;;2021-05-30,2021-07-04;48.543128;12.775541;5;6,5m 130d von dickster Betula pendula;;;;;;Kollbachwiesen N Jägerndorf;T. Eberl & R. Kaiser
+rw01-2021;99;0;0;0;90;80;0;0;0;1;0,25;4;4;210;NNE;10;;1;;2021-05-31,2021-07-04;48.370421;12.973611;5;8,2m 180d von Mitte Schachtring;;;;;;NE Willing;T. Eberl & R. Kaiser
+rw02-2021;100;0;0;0;95;99;0;0;0;0,3;0,15;4;4;195;N;5;;0;;2021-05-31,2021-07-04;48.369849;12.979980;5;;;;;;;WSW Haidberg;T. Eberl & R. Kaiser
+rw03-2021;100;0;0;0;93;97;0;0;0;0,35;0,15;4;4;190;N;10;;0;;2021-05-31,2021-07-04;48.369652;12.980014;5;;;;;;;WSW Haidberg;T. Eberl & R. Kaiser
+rw04-2021;100;0;0;0;17;100;0;0;0;0,4;0,15;4;4;310;NNE;7;;0;;2021-05-31,2021-07-04;48.373898;12.976668;5;;;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw05-2021;100;0;0;0;90;100;0;0;0;0,4;0,25;4;4;340;ENE;7;;0;;2021-05-31,2021-07-04;48.373379;12.977256;5;;;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw06-2021;100;0;0;0;85;100;0;0;0;0,4;0,15;4;4;320;NE;10;;0;;2021-05-31,2021-07-04;48.373842;12.976970;5;;;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw07-2021;100;0;0;0;25;95;0;0;0;0,4;0,1;4;4;230;NE;3;;0;;2021-05-31,2021-07-04;48.375025;12.975995;5;10,8m 50d von Alnus glutinosa BHD 12cm;;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw08-2021;100;0;0;0;70;85;0;0;0;0,55;0,25;4;4;340;NE;3;;0;;2021-05-31,2021-07-04;48.375357;12.975533;5;19,9m 355d von Alnus glutinosa mit Knick, ca. 7m NNW Graben;;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw09-2021;100;0;0;0;97;90;0;0;0;0,65;0,3;4;4;310;SSE;2;;0;;2021-05-31,2021-07-04;48.374577;12.977978;5;;;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw10-2021;97;0;0;0;75;95;0;0;0;1,1;0,2;4;4;330;NNE;5;;3;;2021-05-31,2021-07-04;48.374874;12.977060;5;6,4m 20d von Alnus glutinosa alter Stock;bare ist peat;;;;;S Reslberg;T. Eberl & R. Kaiser
+rw11-2021;100;0;0;0;93;99;0;0;0;0,7;0,2;4;4;240;ENE;6;;0;;2021-05-31,2021-07-04;48.374377;12.977780;5;;;;;;;S Reslberg;T. Eberl & R. Kaiser
+zl01-2021;98;0;0;0;98;1;0;0;0;0,9;0,3;4;4;340;SSE;20;;2;;2021-05-29,2021-07-03;48.313137;13.048493;5;;;;;;;Zehentleithen;T. Eberl & R. Kaiser
+zl02-2021;99;0;0;0;96;40;0;0;0;0,7;0,2;4;4;200;NNE;15;;1;;2021-05-29,2021-07-03;48.313190;13.049357;5;;;;;;;Zehentleithen;T. Eberl & R. Kaiser
