@@ -229,17 +229,17 @@ ga227;100;0;0;0;99;2;0;0;0;0,8;0,1;4;4;W;10;0;0;0;2020-07-07;47.719496;13.242582
 ga228;85;0;0;0;65;30;0;0;0;0,4;0,05;4;4;W;3;0;0;0;2020-07-07;47.719764;13.242961;10;;;;;Schipisten;Schigebiet Gaissau, Piste 8 Latschenalmlift-Süd;skirun;T. Eberl
 ga229;100;0;0;0;95;20;0;0;0;0,8;0,1;4;4;W;15;0;0;0;2020-07-07;47.719955;13.243438;10;;;;;Schipisten;Schigebiet Gaissau, Piste 8 Latschenalmlift-Süd;skirun;T. Eberl
 ga230;99;0;0;0;98;5;0;0;0;0,5;0,05;4;4;SW;20;0;0;0;2020-07-07;47.720718;13.243905;10;;;;;Schipisten;Schigebiet Gaissau, Piste 8 Latschenalmlift-Süd;skirun;T. Eberl
-ga231;98;0;0;0;98;2;0;0;0;0,4;0,05;4;4;S;20;0;2;0;2020-01-01;47.721086;13.244026;10;Cynosurion R. Tx. 1947;fes com cyn car;;;Schipisten;Schigebiet Gaissau, Piste 8 Latschenalmlift-Süd;skirun;T. Eberl
-ga232;99;0;0;0;99;3;0;0;0;0,9;0,1;4;4;S;28;0;1;0;2020-01-01;47.721852;13.243954;10;Cynosurion R. Tx. 1947;fes com cyn cre bie;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
-ga233;90;0;0;0;88;6;0;0;0;0,3;0,05;4;4;S;25;7;2;1;2020-01-01;47.722026;13.243874;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
-ga234;95;0;0;0;85;30;0;0;0;0,4;0,05;4;4;SE;25;2;3;0;2020-01-01;47.722252;13.244055;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
-ga235;98;0;0;0;96;8;0;0;0;0,7;0,05;4;4;SE;8;0;1;1;2020-01-01;47.721737;13.244843;10;Cynosurion R. Tx. 1947;fes com cyn car;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
-ga236;96;0;0;0;96;2;0;0;0;0,7;0,1;4;4;E;35;0;2;2;2020-01-01;47.721794;13.245170;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
-ga237;97;0;0;0;96;15;0;0;0;0,4;0,05;4;4;E;15;1;1;1;2020-01-01;47.721799;13.245367;10;;;;;Schipisten;Schigebiet Gaissau, Piste 11 Anzenberg;skirun;T. Eberl
-ga238;96;0;0;0;93;25;0;0;0;0,5;0,05;4;4;S;10;0;4;0;2020-01-01;47.718106;13.243453;10;Cynosurion R. Tx. 1947;lol per cyn;;;Schipisten;Schigebiet Gaissau, Piste 9a Anzenberg;skirun;T. Eberl
-ga239;99;0;0;0;97;10;0;0;0;0,7;0,05;4;4;W;12;0;1;0;2020-01-01;47.719398;13.243622;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9a Anzenberg;skirun;T. Eberl
-ga240;100;0;0;0;99;5;0;0;0;0,8;0,1;4;4;S;10;0;0;0;2020-01-01;47.721687;13.244484;10;Cynosurion R. Tx. 1947;cre fes com;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
-ga241;55;0;0;0;50;10;0;0;0;0,9;0,05;4;4;NE;45;0;0;45;2020-01-01;47.721773;13.246413;10;;;;;Schipisten;Schigebiet Gaissau, Piste 11 Anzenberg;skirun;T. Eberl
+ga231;98;0;0;0;98;2;0;0;0;0,4;0,05;4;4;S;20;0;2;0;2020-07-08;47.721086;13.244026;10;Cynosurion R. Tx. 1947;fes com cyn car;;;Schipisten;Schigebiet Gaissau, Piste 8 Latschenalmlift-Süd;skirun;T. Eberl
+ga232;99;0;0;0;99;3;0;0;0;0,9;0,1;4;4;S;28;0;1;0;2020-07-08;47.721852;13.243954;10;Cynosurion R. Tx. 1947;fes com cyn cre bie;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
+ga233;90;0;0;0;88;6;0;0;0;0,3;0,05;4;4;S;25;7;2;1;2020-07-08;47.722026;13.243874;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
+ga234;95;0;0;0;85;30;0;0;0;0,4;0,05;4;4;SE;25;2;3;0;2020-07-08;47.722252;13.244055;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
+ga235;98;0;0;0;96;8;0;0;0;0,7;0,05;4;4;SE;8;0;1;1;2020-07-08;47.721737;13.244843;10;Cynosurion R. Tx. 1947;fes com cyn car;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
+ga236;96;0;0;0;96;2;0;0;0;0,7;0,1;4;4;E;35;0;2;2;2020-07-08;47.721794;13.245170;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
+ga237;97;0;0;0;96;15;0;0;0;0,4;0,05;4;4;E;15;1;1;1;2020-07-08;47.721799;13.245367;10;;;;;Schipisten;Schigebiet Gaissau, Piste 11 Anzenberg;skirun;T. Eberl
+ga238;96;0;0;0;93;25;0;0;0;0,5;0,05;4;4;S;10;0;4;0;2020-07-08;47.718106;13.243453;10;Cynosurion R. Tx. 1947;lol per cyn;;;Schipisten;Schigebiet Gaissau, Piste 9a Anzenberg;skirun;T. Eberl
+ga239;99;0;0;0;97;10;0;0;0;0,7;0,05;4;4;W;12;0;1;0;2020-07-08;47.719398;13.243622;10;;;;;Schipisten;Schigebiet Gaissau, Piste 9a Anzenberg;skirun;T. Eberl
+ga240;100;0;0;0;99;5;0;0;0;0,8;0,1;4;4;S;10;0;0;0;2020-07-08;47.721687;13.244484;10;Cynosurion R. Tx. 1947;cre fes com;;;Schipisten;Schigebiet Gaissau, Piste 9 Anzenberg;skirun;T. Eberl
+ga241;55;0;0;0;50;10;0;0;0;0,9;0,05;4;4;NE;45;0;0;45;2020-07-08;47.721773;13.246413;10;;;;;Schipisten;Schigebiet Gaissau, Piste 11 Anzenberg;skirun;T. Eberl
 ga242;97;0;0;0;95;25;0;0;0;0,35;0,03;4;4;;;2;1;0;2020-07-13;47.721714;13.237069;10;;;;;Schipisten;Schigebiet Gaissau, Piste 7 Latschenalmlift-Mitte;skirun;R. Kaiser
 ga243;50;0;0;0;30;70;0;0;0;0,7;0,03;4;4;;;50;0;0;2020-07-13;47.721412;13.237534;10;;;;;Schipisten;Schigebiet Gaissau, Piste 7 Latschenalmlift-Mitte;skirun;R. Kaiser
 ga244;99;0;0;0;97;5;0;0;0;0,9;0,2;4;4;;;1;0;0;2020-07-13;47.721507;13.237945;10;;;;;Schipisten;Schigebiet Gaissau, Piste 7a Latschenhang;skirun;R. Kaiser
