@@ -1,159 +1,159 @@
-plot;species;height;comment
-tg42;acer plat;18;
-tg14;acer plat;26;
-tg13;acer pseu;13;
-tg36;acer pseu;14;
-tg11;acer pseu;16;
-tg17;aesc hipp;9;
-tg18;alnu inca;9;
-tg20;alnu inca;10;
-tg38;alnu inca;10;
-tg05;alnu inca;11;
-tg24;alnu inca;11;
-tg28;alnu inca;11;
-tg23;alnu inca;13;
-tg05;alnu inca;14;
-tg12;alnu inca;14;
-tg23;alnu inca;14;
-tg43;alnu inca;14;
-tg12;alnu inca;15;
-tg20;alnu inca;15;
-tg29;alnu inca;15;
-tg32;alnu inca;15;
-tg01;alnu inca;16;
-tg04;alnu inca;16;
-tg06;alnu inca;16;
-tg08;alnu inca;16;
-tg15;alnu inca;16;
-tg27;alnu inca;16;
-tg10;alnu inca;17;
-tg12;alnu inca;17;
-tg18;alnu inca;17;
-tg20;alnu inca;17;
-tg33;alnu inca;17;
-tg41;alnu inca;17;
-tg42;alnu inca;17;
-tg04;alnu inca;18;
-tg25;alnu inca;18;
-tg27;alnu inca;18;
-tg08;alnu inca;19;
-tg32;alnu inca;19;
-tg34;alnu inca;19;
-tg34;alnu inca;19;
-tg06;alnu inca;20;
-tg24;alnu inca;22;
-tg33;alnu inca;22;
-tg03;alnu inca;24;
-tg29;alnu inca;24;
-tg36;alnu inca;24;
-tg43;alnu inca;25;
-tg03;alnu inca;26;
-tg44;betu pend;28;
-tg09;corn sang;8;
-tg37;cory avel;9;
-tg42;cory avel;9;
-tg44;cory avel;13;
-tg44;cory avel;15;
-tg04;crat mono;10;
-tg07;crat mono;10;
-tg12;crat mono;10;
-tg23;euon euro;8;
-tg16;frax exce;8;
-tg37;frax exce;8;
-tg36;frax exce;9;
-tg31;frax exce;13;
-tg02;frax exce;15;
-tg28;frax exce;19;
-tg35;frax exce;21;
-tg24;frax exce;24;
-tg42;frax exce;24;
-tg05;frax exce;25;
-tg10;frax exce;27;
-tg22;frax exce;28;
-tg40;frax exce;29;
-tg37;frax exce;30;
-tg34;frax exce;32;
-tg42;frax exce;32;
-tg31;frax exce;36;
-tg31;frax exce;39;
-tg35;frax exce;40;
-tg04;pice abie;32;
-tg09;pinu sylv;27;
-tg42;pinu sylv;36;
-tg13;popu cana;23;
-tg17;popu cana;23;
-tg07;popu cana;24;
-tg11;popu cana;26;
-tg16;popu cana;26;
-tg26;popu cana;28;
-tg09;popu cana;29;
-tg36;popu cana;34;
-tg38;popu cana;34;
-tg43;popu cana;35;
-tg38;popu nigr;23;
-tg14;prun aviu slat;15;
-tg30;prun padu padu;7;
-tg33;prun padu padu;7;
-tg31;prun padu padu;8;
-tg13;prun padu padu;9;
-tg25;prun padu padu;9;
-tg28;prun padu padu;9;
-tg30;prun padu padu;9;
-tg35;prun padu padu;9;
-tg07;prun padu padu;10;
-tg11;prun padu padu;10;
-tg23;prun padu padu;10;
-tg31;prun padu padu;11;
-tg32;prun padu padu;11;
-tg29;prun padu padu;12;
-tg39;prun padu padu;13;
-tg09;prun padu padu;15;
-tg10;prun padu padu;15;
-tg07;prun padu padu;16;
-tg34;prun padu padu;19;
-tg22;quer robu;8;
-tg22;quer robu;19;
-tg14;quer robu;21;
-tg44;quer robu;25;
-tg28;rham cath;8;
-tg21;sali alba;15;
-tg30;sali alba;19;
-tg01;sali alba;22;
-tg19;sali alba;22;
-tg41;sali alba;22;
-tg01;sali alba;23;
-tg02;sali alba;23;
-tg21;sali alba;24;
-tg25;sali alba;25;
-tg30;sali alba;25;
-tg44;sali alba;26;
-tg03;sali alba;27;
-tg15;sali alba;27;
-tg19;sali alba;27;
-tg10;sali alba;28;
-tg19;sali alba;28;
-tg24;sali alba;28;
-tg41;sali alba;28;
-tg30;sali alba;29;
-tg43;sali alba;29;
-tg36;sali alba;31;
-tg43;sali alba;31;
-tg39;sali alba;32;
-tg44;sali alba;34;
-tg33;samb nigr;6;
-tg27;samb nigr;7;
-tg32;samb nigr;7;
-tg06;samb nigr;8;
-tg25;samb nigr;8;
-tg29;samb nigr;8;
-tg08;samb nigr;11;
-tg41;samb nigr;11;
-tg26;tili cord;20;
-tg22;tili cord;21;
-tg44;tili cord;24;
-tg17;ulmu glab;10;
-tg36;ulmu glab;10;
-tg41;ulmu glab;13;
-tg11;ulmu glab;15;
-tg17;ulmu glab;16;
-tg37;ulmu glab;29;
+plot,species,height,comment
+tg42,acer plat,18,
+tg14,acer plat,26,
+tg13,acer pseu,13,
+tg36,acer pseu,14,
+tg11,acer pseu,16,
+tg17,aesc hipp,9,
+tg18,alnu inca,9,
+tg20,alnu inca,10,
+tg38,alnu inca,10,
+tg05,alnu inca,11,
+tg24,alnu inca,11,
+tg28,alnu inca,11,
+tg23,alnu inca,13,
+tg05,alnu inca,14,
+tg12,alnu inca,14,
+tg23,alnu inca,14,
+tg43,alnu inca,14,
+tg12,alnu inca,15,
+tg20,alnu inca,15,
+tg29,alnu inca,15,
+tg32,alnu inca,15,
+tg01,alnu inca,16,
+tg04,alnu inca,16,
+tg06,alnu inca,16,
+tg08,alnu inca,16,
+tg15,alnu inca,16,
+tg27,alnu inca,16,
+tg10,alnu inca,17,
+tg12,alnu inca,17,
+tg18,alnu inca,17,
+tg20,alnu inca,17,
+tg33,alnu inca,17,
+tg41,alnu inca,17,
+tg42,alnu inca,17,
+tg04,alnu inca,18,
+tg25,alnu inca,18,
+tg27,alnu inca,18,
+tg08,alnu inca,19,
+tg32,alnu inca,19,
+tg34,alnu inca,19,
+tg34,alnu inca,19,
+tg06,alnu inca,20,
+tg24,alnu inca,22,
+tg33,alnu inca,22,
+tg03,alnu inca,24,
+tg29,alnu inca,24,
+tg36,alnu inca,24,
+tg43,alnu inca,25,
+tg03,alnu inca,26,
+tg44,betu pend,28,
+tg09,corn sang,8,
+tg37,cory avel,9,
+tg42,cory avel,9,
+tg44,cory avel,13,
+tg44,cory avel,15,
+tg04,crat mono,10,
+tg07,crat mono,10,
+tg12,crat mono,10,
+tg23,euon euro,8,
+tg16,frax exce,8,
+tg37,frax exce,8,
+tg36,frax exce,9,
+tg31,frax exce,13,
+tg02,frax exce,15,
+tg28,frax exce,19,
+tg35,frax exce,21,
+tg24,frax exce,24,
+tg42,frax exce,24,
+tg05,frax exce,25,
+tg10,frax exce,27,
+tg22,frax exce,28,
+tg40,frax exce,29,
+tg37,frax exce,30,
+tg34,frax exce,32,
+tg42,frax exce,32,
+tg31,frax exce,36,
+tg31,frax exce,39,
+tg35,frax exce,40,
+tg04,pice abie,32,
+tg09,pinu sylv,27,
+tg42,pinu sylv,36,
+tg13,popu cana,23,
+tg17,popu cana,23,
+tg07,popu cana,24,
+tg11,popu cana,26,
+tg16,popu cana,26,
+tg26,popu cana,28,
+tg09,popu cana,29,
+tg36,popu cana,34,
+tg38,popu cana,34,
+tg43,popu cana,35,
+tg38,popu nigr,23,
+tg14,prun aviu slat,15,
+tg30,prun padu padu,7,
+tg33,prun padu padu,7,
+tg31,prun padu padu,8,
+tg13,prun padu padu,9,
+tg25,prun padu padu,9,
+tg28,prun padu padu,9,
+tg30,prun padu padu,9,
+tg35,prun padu padu,9,
+tg07,prun padu padu,10,
+tg11,prun padu padu,10,
+tg23,prun padu padu,10,
+tg31,prun padu padu,11,
+tg32,prun padu padu,11,
+tg29,prun padu padu,12,
+tg39,prun padu padu,13,
+tg09,prun padu padu,15,
+tg10,prun padu padu,15,
+tg07,prun padu padu,16,
+tg34,prun padu padu,19,
+tg22,quer robu,8,
+tg22,quer robu,19,
+tg14,quer robu,21,
+tg44,quer robu,25,
+tg28,rham cath,8,
+tg21,sali alba,15,
+tg30,sali alba,19,
+tg01,sali alba,22,
+tg19,sali alba,22,
+tg41,sali alba,22,
+tg01,sali alba,23,
+tg02,sali alba,23,
+tg21,sali alba,24,
+tg25,sali alba,25,
+tg30,sali alba,25,
+tg44,sali alba,26,
+tg03,sali alba,27,
+tg15,sali alba,27,
+tg19,sali alba,27,
+tg10,sali alba,28,
+tg19,sali alba,28,
+tg24,sali alba,28,
+tg41,sali alba,28,
+tg30,sali alba,29,
+tg43,sali alba,29,
+tg36,sali alba,31,
+tg43,sali alba,31,
+tg39,sali alba,32,
+tg44,sali alba,34,
+tg33,samb nigr,6,
+tg27,samb nigr,7,
+tg32,samb nigr,7,
+tg06,samb nigr,8,
+tg25,samb nigr,8,
+tg29,samb nigr,8,
+tg08,samb nigr,11,
+tg41,samb nigr,11,
+tg26,tili cord,20,
+tg22,tili cord,21,
+tg44,tili cord,24,
+tg17,ulmu glab,10,
+tg36,ulmu glab,10,
+tg41,ulmu glab,13,
+tg11,ulmu glab,15,
+tg17,ulmu glab,16,
+tg37,ulmu glab,29,
