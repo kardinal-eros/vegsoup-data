@@ -1,0 +1,53 @@
+plot;site;pole.nr;pole.nr.ok;date;tree.species;tree.diameter;bark.type;cov;bearing;distance;expo;bhd.height;latitude.tree;longitude.tree;elevation.tree;accuracy.tree;latitude.site;longitude.site;accuracy;observer;comment
+tb01-01;tb01;1;yes;2020-08-20;Fagus sylvatica;75;flachrissig;11,1;45;3;W;1,3;47.65847;13.28463;1002;15;47.668435;13.284749;5;W. Mayer & R. Reiter;
+tb01-02;tb01;2;yes;2020-08-20;Fagus sylvatica;65;flachrissig;69,5;280;16,6;E;2,1;46.66828;13.28474;1000;15;47.668435;13.284749;5;W. Mayer & R. Reiter;Parmelia sulcata markiert
+tb01-03;tb01;3;yes;2020-08-20;Abies alba;50;mittelrissig;0,3;210;16,4;N;1,3;47.66829;13.28471;994;15;47.668435;13.284749;5;W. Mayer & R. Reiter;
+tb01-04;tb01;4;yes;2020-09-20;Picea abies;40;mittelrissig;3;225;19,8;E;1,3;47.66829;13.28470;1000;15;47.668435;13.284749;5;W. Mayer & R. Reiter;
+tb02-01;tb02;5;yes;2020-08-20;Fagus sylvatica;70;glatt;4,4;45;23;E;1,3;47.66828;13.28620;1061;15;47.668497;13.285972;5;W. Mayer & R. Reiter;
+tb02-02;tb02;6;yes;2020-08-20;Fagus sylvatica;60;glatt;3,3;50;21;NE;1,3;47.66821;13.28618;1057;15;47.668497;13.285972;5;W. Mayer & R. Reiter;
+tb03-01;tb03;7;yes;2020-08-20;Fagus sylvatica;43;glatt;4,5;315;4;NW;1,3;47.66877;13.28671;1105;15;47.668766;13.286809;5;W. Mayer & R. Reiter;
+tb03-02;tb03;8;yes;2020-09-20;Fagus sylvatica;72;glatt;6,2;225;12;E;1,3;47.66867;13.28675;1100;15;47.668766;13.286809;5;W. Mayer & R. Reiter;
+tb03-03;tb03;9;yes;2020-08-20;Abies alba;45;mittelrissig;2,4;45;2,8;W;1,3;47.66882;13.28688;1104;15;47.668766;13.286809;5;W. Mayer & R. Reiter;
+tb03-04;tb03;10;yes;2020-08-20;Acer pseudoplatanus;32;mittelrissig;60,4;260;2;NW;1,3;47.66875;13.28690;1094;15;47.668766;13.286809;5;W. Mayer & R. Reiter;
+tb04-01;tb04;46;yes;2020-10-23;Fagus sylvatica;69;glatt;0,9;208;10,3;NW;1,3;47.66830;13.28729;1143;15;47.668087;13.287163;5;R. Reiter;
+tb04-02;tb04;47;yes;2020-10-23;Fagus sylvatica;78;glatt;32,9;148;18,2;NNW;1,3;47.66832;13.28724;1135;15;47.668087;13.287163;5;R. Reiter;im oberen Stambereich sind die Flechten sehr gut entwicklet und häufig (50% Deckennung)
+tb04-03;tb04;48;yes;2020-10-23;Abies alba;88;mittelrissig;15,2;360;8;NA;1,3;47.66808;13.28724;NA;15;47.668087;13.287163;5;R. Reiter;
+tb04-04;tb04;49;yes;2020-10-23;Abies alba;50;mittelrissig;0,3;292;11,9;N;1,3;47.66810;13.28735;1190;15;47.668087;13.287163;5;R. Reiter;
+tb04-05;tb04;50;yes;2020-10-23;Fagus sylvatica;64;glatt;1,3;174;11,9;NA;1,3;47.66830;13.28733;1120;15;47.668087;13.287163;5;R. Reiter;Parmelia sulcata im oberen Stammbereich sehr häufig
+tb04-06;tb04;51;yes;2020-10-23;Acer pseudoplatanus;58;mittelrissig (abblätternd);2,3;70;23,8;NA;1,3;47.66808;13.28702;1100;15;47.668087;13.287163;5;R. Reiter;schief stehend aber auf grund diversität inkludiert
+tb04-07;tb04;52;yes;2020-10-23;Ulmus glabra;53;mittelrissig;50,3;268;32,4;N;1,3;47.66809;13.28773;1140;15;47.668087;13.287163;5;R. Reiter;
+tb05-01;tb05;30;no;2020-09-20;Fagus sylvatica;58;glatt;3,1;135;21,8;SW;1,3;47.66840;13.28854;1170;15;47.668499;13.288402;5;W. Mayer & R. Reiter;
+tb05-02;tb05;31;no;2020-09-20;Fagus sylvatica;52;glatt;3,4;125;21,6;SW;1,3;47.66835;13.28858;1171;15;47.668499;13.288402;5;W. Mayer & R. Reiter;am Wurzelanlauf Cladonia pyxidata, Baeomyces rufus
+tb05-03;tb05;32;no;2020-09-20;Abies alba;65;mittelrissig;1,5;50;8,2;NW;1,3;47.66852;13.28848;1175;15;47.668499;13.288402;5;W. Mayer & R. Reiter;einzelne kleine Primordialstadien vonParmelia saxatilis
+tb05-04;tb05;33;no;2020-09-20;Abies alba;90;mittelrissig;1,3;85;19;NW;1,3;47.66853;13.28850;1183;15;47.668499;13.288402;5;W. Mayer & R. Reiter;
+tb05-05;tb05;34;no;2020-09-20;Acer pseudoplatanus;52;mittelrissig (abblätternd);3,5;70;25,8;N;1,3;47.66859;13.28878;1183;15;47.668499;13.288402;5;W. Mayer & R. Reiter;
+tb05-06;tb05;35;no;2020-09-20;Acer pseudoplatanus;55;mittelrissig (abblätternd);6,8;325;23;NE;1,3;47.66877;13.28842;1163;15;47.668499;13.288402;5;W. Mayer & R. Reiter;Baum im Wipfel beschädigt, Aufnahme wegen der realtiv hohen Diversistät, Parmelia saxatilis oberhalb, Messung BHD geschätzt
+tb06-01;tb06;22;yes;2020-09-13;Fagus sylvatica;50;glatt;8,3;225;3;NE;1,3;47.66859;13.29204;1310;15;47.668631;13.291775;5;W. Mayer & R. Reiter;
+tb06-02;tb06;23;yes;2020-09-13;Fagus sylvatica;50;glatt;69,8;0;11;SW;1,3;47.66867;13.29194;1312;15;47.668631;13.291775;5;W. Mayer & R. Reiter;
+tb06-03;tb06;24;yes;2020-09-13;Abies alba;50;mittelrissig;4,1;315;12,8;SW;1,3;47.66865;13.29188;1311;15;47.668631;13.291775;5;W. Mayer & R. Reiter;
+tb06-04;tb06;25;yes;2020-09-13;Acer pseudoplatanus;25;mittelrissig;0,3;35;15,4;NW;1,3;47.66841;13.29205;1310;15;47.668631;13.291775;5;W. Mayer & R. Reiter;Stamm stark geneigt aber wegen Abdeckung des Substarts (Berg-Ahorn) trotz zu kleinem BHD ausgewählt
+tb06-05;tb06;27;yes;2020-09-13;Fagus sylvatica;48;mittelrissig;0,8;172;26;W;1,3;47.66872;13.28975;1231;15;47.668631;13.291775;5;W. Mayer & R. Reiter;
+tb06-06;tb06;28;yes;2020-09-13;Picea abies;40;feinrissig;0,3;340;30;W;1,3;47.66912;13.28980;1221;15;47.668631;13.291775;5;W. Mayer & R. Reiter;noch stark beastet, könnte beim abasten Trägerbaum werden
+tb06-07;tb06;29;yes;2020-09-13;Larix decidua;31;mittelrissig;0,1;340;28;W;1,3;47.66909;13.28977;1221;15;47.668631;13.291775;5;W. Mayer & R. Reiter;
+tb07-01;tb07;26;yes;2020-09-13;Fagus sylvatica;42;glatt;1,4;17;22;SW;1,3;47.66874;13.28086;1223;15;47.668943;13.289774;5;W. Mayer & R. Reiter;
+tb08-01;tb08;18;yes;2020-09-13;Fagus sylvatica;42;glatt;65,2;280;5;W;1,3;47.66927;13.29152;1270;15;47.669174;13.291467;5;W. Mayer & R. Reiter;
+tb08-02;tb08;19;yes;2020-09-13;Fagus sylvatica;69;glatt;6,1;90;10,6;NW;1,3;47.66914;13.29152;1301;15;47.669174;13.291467;5;W. Mayer & R. Reiter;
+tb08-03;tb08;20;yes;2020-09-13;Abies alba;46;mittelrissig;2,7;180;25,2;NW;1,3;47.66892;13.29152;1300;15;47.669174;13.291467;5;W. Mayer & R. Reiter;
+tb08-04;tb08;21;yes;2020-09-13;Picea abies;80;mittelrissig;3,4;180;20,5;W;1,3;47.66890;13.29151;1305;15;47.669174;13.291467;5;W. Mayer & R. Reiter;
+tb09-01;tb09;12;yes;2020-09-13;Abies alba;65;mittelrissig;0,2;0;22;SW;1,3;47.66948;13.28860;1158;15;47.669197;13.288630;5;W. Mayer & R. Reiter;
+tb09-02;tb09;13;yes;2020-09-13;Acer pseudoplatanus;30;glatt;4,2;0;5;S;1,3;47.66931;13.28868;1164;15;47.669197;13.288630;5;W. Mayer & R. Reiter;
+tb09-03;tb09;14;yes;2020-09-13;Picea abies;32;flachrissig;0;135;2,5;NW;1,3;47.66920;13.28862;1167;15;47.669197;13.288630;5;W. Mayer & R. Reiter;
+tb09-04;tb09;15;yes;2020-09-13;Picea abies;30;flachrissig;0,4;55;4;N;1,3;47.66927;13.28858;1167;15;47.669197;13.288630;5;W. Mayer & R. Reiter;Standort für Flechten prinzipell gut geeignet, einzelne Berg-Ulme im Probekreis verletzt und für Monitoring nicht geeignet
+tb09-05;tb09;16;yes;2020-09-13;Larix decidua;28;mittelrissig;0,2;180;13;S;1,3;47.66917;13.28857;1167;15;47.669197;13.288630;5;W. Mayer & R. Reiter;Hypogymnia physodes in höherem Stammbereich mit hoher Deckung
+tb09-06;tb09;17;yes;2020-09-13;Larix decidua;34;tiefrissig;0,6;180;6;NW;1,3;47.66932;13.28851;1160;15;47.669197;13.288630;5;W. Mayer & R. Reiter;
+tb10-01;tb10;11;yes;2020-09-20;Abies alba;76;mittelrissig;0,6;90;30;SSW;1,3;47.66944;13.28608;1043;15;47.669349;13.285819;5;W. Mayer & R. Reiter;
+tb11-01;tb11;36;no;2020-09-20;Fagus sylvatica;77;glatt;80,2;25;30;W;1,3;47.66857;13.28415;976;15;47.668197;13.283919;5;W. Mayer & R. Reiter;
+tb11-02;tb11;37;no;2020-09-20;Acer pseudoplatanus;18;glatt;5;170;6;W;1,3;47.66834;13.28408;962;15;47.668197;13.283919;5;W. Mayer & R. Reiter;künftiger Trägerbaum
+tb11-03;tb11;38;no;2020-09-20;Ulmus glabra;18;feinrissig;5,7;145;9,8;S;1,3;47.66821;13.28410;964;15;47.668197;13.283919;5;W. Mayer & R. Reiter;künftiger Trägerbaum
+tb11-04;tb11;39;no;2020-09-20;Abies alba;27;flachrissig;0,6;15;10,5;SE;1,3;47.66840;13.28414;968;15;47.668197;13.283919;5;W. Mayer & R. Reiter;
+tb11-05;tb11;40;no;2020-09-20;Larix decidua;27;tiefrissig;0,7;225;9,6;E;1,3;47.66826;13.28408;952;15;47.668197;13.283919;5;W. Mayer & R. Reiter;
+tb11-06;tb11;41;no;2020-09-20;Larix decidua;24;mittelrissig;3;45;8;E;1,3;47.66834;13.26408;973;15;47.668197;13.283919;5;W. Mayer & R. Reiter;
+tb18-01;tb18;42;no;2020-09-20;Acer pseudoplatanus;30;feinrissig;2,2;130;1,5;W;1,3;47.66937;13.28423;980;15;47.669269;13.284241;5;W. Mayer & R. Reiter;
+tb18-02;tb18;43;no;2020-09-20;Acer pseudoplatanus;27;glatt;3;135;13;W;1,3;47.66930;13.28429;985;15;47.669269;13.284241;5;W. Mayer & R. Reiter;
+tb18-03;tb18;44;no;2020-09-20;Picea abies;30;flachrissig;1,1;280;4,6;NW;1,3;47.66933;13.28410;980;15;47.669269;13.284241;5;W. Mayer & R. Reiter;
+tb18-04;tb18;45;no;0202-09-20;Picea abies;24;feinrissig;0,7;100;8,8;W;1,3;47.66933;13.28429;982;15;47.669269;13.284241;5;W. Mayer & R. Reiter;künftiger Trägerbaum
