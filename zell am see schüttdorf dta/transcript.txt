@@ -1,0 +1,82 @@
+BEGIN HEAD
+plot                                          zzzzzzz
+                                              eeeeeee
+                                              0000000
+                                              1234567
+richness                                      3233234
+                                              0899917
+                                                     
+END HEAD
+BEGIN TABLE
+Agrostis capillaris                        hl 222122+
+Ajuga reptans                                 +1+++++
+Alopecurus pratensis                          ++1+111
+Anthoxanthum odoratum s.str.                  2121221
+Caltha palustris                              1.+++++
+Cardamine pratensis s.str.                    +r.++.r
+Carex brizoides                               +1....1
+Carex canescens ssp. canescens                1...+..
+Carex leporina                                r1.221.
+Carex nigra                                   3213442
+Carex panicea                                 ++....r
+Carex vesicaria                               r22+11+
+Cynosurus cristatus                           +.....3
+Equisetum palustre                            +++++++
+Festuca pratensis s.str.                      122+.1+
+Festuca rubra ssp. rubra                      2221.12
+Filipendula ulmaria                           ++1++1+
+Galium palustre ssp. palustre                 +..++..
+Holcus lanatus                                1...+..
+Juncus filiformis                             21+221r
+Luzula multiflora s.str.                      r......
+Lychnis flos-cuculi                           21+++++
+Mentha sp.                                    +..1+..
+Myosotis palustris agg.                       1+++2++
+Plantago lanceolata                           rr....r
+Poa pratensis                                 2..1+.+
+Ranunculus acris ssp. acris                   2221+22
+Ranunculus repens                             +.11+..
+Rumex acetosa                                 r++..r.
+Trifolium pratense ssp. pratense              211++13
+Deschampsia cespitosa                         .312211
+Lathyrus pratensis ssp. pratensis             .++..++
+Leucanthemum ircutianum                       .rr...+
+Persicaria bistorta                           .23+r22
+Ranunculus auricomus agg.                     .++.r1.
+Scirpus sylvaticus                            .++21+1
+Vicia cracca s.str.                           .++....
+Achillea millefolium agg.                     ..+..++
+Anemone nemorosa                              ..+....
+Angelica sylvestris ssp. sylvestris           ..r..r+
+Carex hirta                                   ..+...+
+Carum carvi                                   ..2...1
+Cirsium oleraceum                             ..+...+
+Crepis mollis s.lat.                          ..r...+
+Dactylis glomerata ssp. glomerata             ..2...1
+Galium album s.str.                           ..+...+
+Glechoma hederacea                            ..r....
+Primula elatior s.str.                        ..r...+
+Prunella vulgaris                             ..++.++
+Taraxacum sect. Ruderalia                     ..+....
+Trifolium repens ssp. repens                  ..+22++
+Carex echinata                                ...1...
+Galium uliginosum                             ...+...
+Hypericum tetrapterum                         ...r...
+Juncus effusus ssp. effusus                   ...1...
+Juncus tenuis                                 ...+...
+Lysimachia nummularia                         ...+...
+Lysimachia vulgaris                           ...+...
+Lythrum salicaria                             ...+...
+Poa annua ssp. annua                          ...+...
+Poa trivialis                                 ...1+1.
+Veronica serpyllifolia ssp. serpyllifolia     ...r+++
+Viola palustris                               ...1...
+Geum rivale                                   .....r+
+Pimpinella major var. major                   .....r+
+Carex paniculata ssp. paniculata              ......r
+Chaerophyllum hirsutum s.str.                 ......+
+Homalotrichon pubescens ssp. pubescens        ......+
+Plantago major s.lat.                         ......r
+Trisetum flavescens ssp. flavescens           ......1
+Veronica chamaedrys ssp. chamaedrys           ......r
+END TABLE
