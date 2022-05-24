@@ -1,6 +1,8 @@
 BEGIN HEAD
 plot                                          zzzzzzz
                                               eeeeeee
+                                              sssssss
+                                              ddddddd
                                               0000000
                                               1234567
 richness                                      3233234
