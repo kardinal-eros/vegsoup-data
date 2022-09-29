@@ -89,10 +89,7 @@ Different sampling procedures are applied depending on the scope of a particular
 
 - *Rock Vegetation Sampling* is performed by using mountaineering equipment (rope and climbing harness), occasionally free-climbing. Rock vegetation or forest of steep slopes is sampled using a rope along a vertical transect. Usually, 3 to 4 plots are sampled along a 100 m long rope. The first plot is typically sampled just below the rope betray point. The last relevé is taken at the end of the rope. Depending on how long the rappelling (abseiling) needs to be, non-overlapping plots are taken along this line, with gaps between sampling units of at least half the plot size applied.
 
-- *Systematic sampling* is performed using a rectangular grid or along a (measure tape) transect.
-
-We do not (really) care about homogeneity or other subjective criteria concerning a sample plot, and sampling locations
-are typically randomly selected. In the case of »Rock Vegetation Sampling, " the vertical transect's location is constrained by the presence of a suitable belay point that can be reached with reasonable effort. Additionally, the danger of falling rocks is an issue. In this context, the sampled vegetation can not be subjectively chosen, and sampling can be considered random.
+- *Systematic sampling* is performed using a rectangular grid or along a (measure tape) transect. We do not give much consideration to homogeneity or other subjective criteria concerning a sample plot, and sampling locations are typically randomly selected. In the case of rock vegetation, the vertical transect's location is constrained by a suitable belay point that can be reached with reasonable effort. Additionally, the danger of falling rocks is significant. Therefore, the vegetation sampled in this context cannot be subjectively selected, and sampling can be considered random.
 
 
 Estimation scales
@@ -103,11 +100,11 @@ We typically apply the 9-point modification of the classical 7-point Braun-Blanq
 Plot sizes
 ----------
 
-We use strictly equal-sized plots with edge lengths that are powers of 2 (e.g. 1 × 1, 2 × 2, 4 × 4, 8 × 8, 16 × 16).
-Grasslands (including alpine vegetation and tundra), marshes, fens and mires are sampled using 16 m² area plots (4m × 4m); scrubs and rock shrubbery use 64 m² plots (8m × 8m) and woodlands are sampled within plots of 256 m² (16m × 16m).
-Spring vegetation is sampled using small plots of size 1 m² (1m × 1m).
+We use strictly equal-sized plots with edge lengths that are powers of 2 (e.g. 1 × 1, 2 × 2, 4 × 4, 8 × 8, 16 × 16). Grasslands (including alpine vegetation and tundra), marshes, fens and mires are sampled using 16m² area plots (4 m × 4m); scrubs and rock shrubbery use 64 m² plots (8m × 8m) and woodlands are sampled within plots of 256 m² (16 m × 16m). Spring vegetation is sampled using small plots of size 1 m² (1 m × 1 m).
 
 Whenever possible, we use square plots. We record both edge lengths of the plot instead of noting the plot area. The shape of non-square plots can then be estimated by dividing *edge max* by *edge min*. In some rare cases (e.g. forests on rock cliffs), it is necessary to switch to elongated plot forms (e.g. 10 × 26 m ≈ 256 m² instead of 16 × 16 m).
+
+Detailed forest surveys use circular plots with a radius of 11m (ca. 380 m²).
 
 Attributes of the sampling units (relevés) that are recorded in the field
 ------------------------------------------------------------------------
@@ -123,6 +120,7 @@ Principal standards of the phytosociological relevé follow the notation of Muci
 > `association` optional  
 > `plsx` edge length of plot, parallel to the hillside  
 > `plsy` edge length of plot, orthogonal to a hillside  
+> `plras` radius of a circular plot  
 
 **Geographic data**  
 
@@ -152,11 +150,13 @@ We supply the stratum/layer notation as defined in Mucina et al. 2000 (E₀, E�
 > `htl` cover of *tree* layer (***E₃***)  
 > `t1cov` cover of *canopy* layer (***E₃ γ***)  
 > `t2cov` cover of *sub-canopy* layer (***E₃ β***)  
-
+> `t3cov` cover of *lower tree layer* layer (***E₃ α***)  
 
 *Cover of shrub layer* in % (***E₂***)
 
 > `scov` cover of *shrub* layer (***E₂***)
+> `s1cov` cover of *upper shrub layer* layer (***E₂ β***)
+> `s2cov` cover of *lower shrub layer* layer (***E₂ α***)
 
 
 *Cover of herb layer* in % (***E₁***)
@@ -186,14 +186,13 @@ We don't estimate the cover of any sub-strata in the terrestrial herb layer (upp
 
 *Height of vegetation*
 
-*Height of tree layer* in meters, woody plants over 6 m tall (***E₃***)
+*Height of tree layer* in meters, woody plants over 6 m tall or 12 cm in diameter (***E₃***)
 
 > `htl` height of tree layer (***E₃***)  
-> `htl0` height of emergent layer (***E₃ δ***), woody plants with crowns towering above the canopy layer (e.g. a tall coniferous tree overtopping the canopy of decidous trees) *  
+> `htl0` height of emergent layer (***E₃ δ***), woody plants with crowns towering above the canopy layer (e.g. a tall coniferous tree overtopping the canopy of decidous trees)  
 > `htl1` height of canopy layer (***E₃ γ***)  
-> `htl2` height of  sub-canopy layer (***E₃ β***)  
-> `htl3` height of lower tree layer (***E₃ α***) *  
-
+> `htl2` height of sub-canopy layer (***E₃ β***)  
+> `htl3` height of lower tree layer (***E₃ α***)  
 
 *Height of shrub layer* in meters, woody plants ranging 0.5 - 6 m (***E₂***)
 
