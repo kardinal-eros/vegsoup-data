@@ -1,6 +1,7 @@
 BEGIN HEAD
-plot                                         ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
-                                             ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+plot                                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                             jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+                                             mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
                                              0000000001111111111222222222233333333334444444444555555555566666666
                                              1234567890123456789012345678901234567890123456789012345678901234567
 accuracy                                     1111111111111111111111111111111111111111111111111111111111111111111

@@ -52,5 +52,5 @@ Acer pseudoplatanus                        tl2   2b
 Quercus robur                                    2a 
 Tilia cordata                                    3  
  
-x: 13.44464, y: 48.48537, accuracy: 5, alliane: Alnion incanae, association: NA, bare: 3, comment: NA, cov: 95, date: 2014-09-06, expo: FALSE, hcov: 80, hhl1: 0.4, hhl2: 0.15, hsl: 4, htl1: 22, htl2: 18, location: Vorbacher Enge, Bernascheck-Insel, mcov: 1, observer: R. Kaiser, plsx: 16, plsy: 16, rock: 0, scov: 15, slope: 0, soil: alluvial sand, stones: 0, t1cov: 40, t2cov: 60, richness: 41, author: R Kaiser, T Eberl, citation: Kaiser R, Eberl T (2014). “Vorbacher Enge.” Forest along the Inn river at the
-Vornbacher Enge narrow valley (Upper Austria, Austria).
+x: 13.44464, y: 48.48537, accuracy: 5, alliane: Alnion incanae, association: NA, bare: 3, comment: NA, cov: 95, date: 2014-09-06, expo: FALSE, hcov: 80, hhl1: 0.4, hhl2: 0.15, hsl: 4, htl1: 22, htl2: 18, location: Vorbacher Enge, Bernascheck-Insel, mcov: 1, observer: R. Kaiser, plsx: 16, plsy: 16, rock: 0, scov: 15, slope: 0, soil: alluvial sand, stones: 0, t1cov: 40, t2cov: 60, richness: 41, author: R Kaiser, T Eberl, citation: Kaiser R, Eberl T (2014). “Vorbacher Enge.” Forest along the Inn river at the Vornbacher Enge narrow valley (Upper Austria,
+Austria).
