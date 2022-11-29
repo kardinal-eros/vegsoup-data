@@ -1,67 +1,67 @@
-plot;date;crop.type;crop.type2;remarks;latitude;longitude;accuracy;observer;transect.length;transect.width;alliance.code;alliance
-rmr01;2022-06-10;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.162503;12.118602;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr02;2022-06-10;Secale cereale;Secale cereale;;48.166750;12.192974;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr03;2022-06-10;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.172268;12.198779;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr04;2022-06-10;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.170901;12.195965;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr05;2022-06-10;Secale cereale;Secale cereale;;48.178439;12.191233;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr06;2022-06-10;Secale cereale;Secale cereale;;48.178661;12.190592;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr07;2022-06-10;Secale cereale;Secale cereale;;48.182452;12.184245;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr08;2022-06-11;Secale cereale;Secale cereale;;48.177857;12.189772;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr09;2022-06-11;Secale cereale;Secale cereale;;48.182757;12.203762;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr10;2022-06-11;Secale cereale;Secale cereale;;48.182064;12.202567;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr11;2022-06-11;Triticum spelta;Triticum spelta;;48.179281;12.207084;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr12;2022-06-11;Secale cereale;Secale cereale;;48.169533;12.202841;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr13;2022-06-11;Secale cereale;Secale cereale;;48.164739;12.269273;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr14;2022-06-11;Secale cereale;Secale cereale;;48.165404;12.268415;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr15;2022-06-11;Secale cereale;Secale cereale;;48.164954;12.267122;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr16;2022-06-11;Triticum aestivum s.lat.;Triticum aestivum s.lat.;ohne cyan sege!;48.165569;12.241283;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr17;2022-06-11;Linum usitatissimum;other;;48.164639;12.243432;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr18;2022-06-11;Secale cereale;Secale cereale;;48.168656;12.193757;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr19;2022-06-11;Pisum sativum var. arvense;other;;48.169022;12.193634;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr20;2022-06-17;Avena sativa;Avena sativa;;48.046624;12.176485;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr21;2022-06-17;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.049350;12.177904;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr22;2022-06-17;Hordeum vulgare;Hordeum vulgare;;48.052105;12.179070;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr23;2022-06-17;Avena sativa;Avena sativa;;48.044125;12.185851;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr24;2022-06-17;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.075742;12.124253;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr25;2022-06-17;Avena sativa;Avena sativa;;48.077090;12.124318;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr26;2022-06-18;Secale cereale;Secale cereale;;48.144209;12.225706;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr27;2022-06-18;Secale cereale;Secale cereale;;48.144651;12.226810;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr28;2022-06-18;Secale cereale;Secale cereale;;48.144543;12.227353;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr29;2022-06-18;Secale cereale;Secale cereale;;48.119147;12.236791;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr30;2022-06-18;Secale cereale;Secale cereale;;48.117618;12.237855;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr31;2022-06-18;Avena sativa;Avena sativa;;48.116587;12.232139;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr32;2022-06-18;Secale cereale;Secale cereale;;48.097540;12.218970;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr33;2022-06-18;Triticum spelta;Triticum spelta;;48.095541;12.220016;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr34;2022-06-18;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.088523;12.215359;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr35;2022-06-18;Avena sativa;Avena sativa;;48.115680;12.142159;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr36;2022-06-21;Secale cereale;Secale cereale;;48.082925;12.126921;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr37;2022-06-21;Triticum spelta;Triticum spelta;;48.190983;12.139641;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr38;2022-06-23;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.183721;12.316318;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmr39;2022-06-23;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.183697;12.309540;25;R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv01;2022-05-31;Avena sativa;Avena sativa;;48.026299;12.294371;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv02;2022-05-31;Triticum spelta;Triticum spelta;;48.031602;12.290794;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv03;2022-05-31;Secale cereale;Secale cereale;;48.051692;12.275605;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv04;2022-06-01;Vicia faba;other;;48.129253;12.290266;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv05;2022-06-01;Triticum spelta;Triticum spelta;;48.132263;12.274713;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv06;2022-06-01;Secale cereale;Secale cereale;;48.125309;12.294956;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv07;2022-06-01;Triticum spelta;Triticum spelta;;48.119052;12.333563;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv08;2022-06-01;Triticum durum;Triticum durum;;48.135598;12.332751;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv09;2022-06-02;Secale cereale;Secale cereale;;48.097653;12.330041;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv10;2022-06-02;Vicia faba;other;;48.095499;12.332282;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv11;2022-06-02;Secale cereale;Secale cereale;;48.068480;12.251514;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv12;2022-06-14;Triticale;other;;47.992020;12.316065;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv13;2022-06-14;Triticum spelta;Triticum spelta;;47.985724;12.266951;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv14;2022-06-14;Secale cereale;Secale cereale;;47.977037;12.254583;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv15;2022-06-14;Triticum spelta;Triticum spelta;;47.978543;12.250209;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv16;2022-06-14;Secale cereale;Secale cereale;;48.015663;12.288039;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv17;2022-06-14;Secale cereale;Secale cereale;;48.027091;12.274393;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv18;2022-06-14;Secale cereale;Secale cereale;;48.052983;12.273319;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv19;2022-06-15;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.097195;12.287611;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv20;2022-06-15;Secale cereale;Secale cereale;;48.113871;12.349001;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv21;2022-06-15;Triticum spelta;Triticum spelta;;48.114614;12.347654;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv22;2022-06-15;Triticum aestivum s.lat.;Triticum aestivum s.lat.;;48.115708;12.357327;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv23;2022-06-15;Hordeum vulgare;Hordeum vulgare;;48.123225;12.342496;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv24;2022-06-15;Hordeum vulgare;Hordeum vulgare;;48.122666;12.343065;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv25;2022-06-15;Triticum spelta;Triticum spelta;;48.129816;12.338262;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv26;2022-06-15;Triticum durum;other;;48.140092;12.339394;25;T. Eberl;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
-rmv27;2022-06-28;Triticum spelta;Triticum spelta;;48.121337;12.284389;25;T. Eberl & R. Kaiser;50;2;PAR-02A;Caucalidion lappulae von Rochow 1951
+plot,date,crop.type,crop.type2,remarks,latitude,longitude,accuracy,observer,transect.length,transect.width,alliance.code,alliance
+rmr01,2022-06-10,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.162503,12.118602,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr02,2022-06-10,Secale cereale,Secale cereale,,48.166750,12.192974,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr03,2022-06-10,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.172268,12.198779,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr04,2022-06-10,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.170901,12.195965,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr05,2022-06-10,Secale cereale,Secale cereale,,48.178439,12.191233,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr06,2022-06-10,Secale cereale,Secale cereale,,48.178661,12.190592,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr07,2022-06-10,Secale cereale,Secale cereale,,48.182452,12.184245,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr08,2022-06-11,Secale cereale,Secale cereale,,48.177857,12.189772,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr09,2022-06-11,Secale cereale,Secale cereale,,48.182757,12.203762,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr10,2022-06-11,Secale cereale,Secale cereale,,48.182064,12.202567,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr11,2022-06-11,Triticum spelta,Triticum spelta,,48.179281,12.207084,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr12,2022-06-11,Secale cereale,Secale cereale,,48.169533,12.202841,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr13,2022-06-11,Secale cereale,Secale cereale,,48.164739,12.269273,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr14,2022-06-11,Secale cereale,Secale cereale,,48.165404,12.268415,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr15,2022-06-11,Secale cereale,Secale cereale,,48.164954,12.267122,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr16,2022-06-11,Triticum aestivum s.lat.,Triticum aestivum s.lat.,ohne cyan sege!,48.165569,12.241283,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr17,2022-06-11,Linum usitatissimum,other,,48.164639,12.243432,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr18,2022-06-11,Secale cereale,Secale cereale,,48.168656,12.193757,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr19,2022-06-11,Pisum sativum var. arvense,other,,48.169022,12.193634,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr20,2022-06-17,Avena sativa,Avena sativa,,48.046624,12.176485,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr21,2022-06-17,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.049350,12.177904,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr22,2022-06-17,Hordeum vulgare,Hordeum vulgare,,48.052105,12.179070,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr23,2022-06-17,Avena sativa,Avena sativa,,48.044125,12.185851,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr24,2022-06-17,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.075742,12.124253,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr25,2022-06-17,Avena sativa,Avena sativa,,48.077090,12.124318,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr26,2022-06-18,Secale cereale,Secale cereale,,48.144209,12.225706,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr27,2022-06-18,Secale cereale,Secale cereale,,48.144651,12.226810,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr28,2022-06-18,Secale cereale,Secale cereale,,48.144543,12.227353,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr29,2022-06-18,Secale cereale,Secale cereale,,48.119147,12.236791,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr30,2022-06-18,Secale cereale,Secale cereale,,48.117618,12.237855,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr31,2022-06-18,Avena sativa,Avena sativa,,48.116587,12.232139,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr32,2022-06-18,Secale cereale,Secale cereale,,48.097540,12.218970,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr33,2022-06-18,Triticum spelta,Triticum spelta,,48.095541,12.220016,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr34,2022-06-18,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.088523,12.215359,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr35,2022-06-18,Avena sativa,Avena sativa,,48.115680,12.142159,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr36,2022-06-21,Secale cereale,Secale cereale,,48.082925,12.126921,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr37,2022-06-21,Triticum spelta,Triticum spelta,,48.190983,12.139641,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr38,2022-06-23,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.183721,12.316318,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmr39,2022-06-23,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.183697,12.309540,25,R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv01,2022-05-31,Avena sativa,Avena sativa,,48.026299,12.294371,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv02,2022-05-31,Triticum spelta,Triticum spelta,,48.031602,12.290794,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv03,2022-05-31,Secale cereale,Secale cereale,,48.051692,12.275605,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv04,2022-06-01,Vicia faba,other,,48.129253,12.290266,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv05,2022-06-01,Triticum spelta,Triticum spelta,,48.132263,12.274713,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv06,2022-06-01,Secale cereale,Secale cereale,,48.125309,12.294956,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv07,2022-06-01,Triticum spelta,Triticum spelta,,48.119052,12.333563,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv08,2022-06-01,Triticum durum,Triticum durum,,48.135598,12.332751,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv09,2022-06-02,Secale cereale,Secale cereale,,48.097653,12.330041,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv10,2022-06-02,Vicia faba,other,,48.095499,12.332282,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv11,2022-06-02,Secale cereale,Secale cereale,,48.068480,12.251514,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv12,2022-06-14,Triticale,other,,47.992020,12.316065,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv13,2022-06-14,Triticum spelta,Triticum spelta,,47.985724,12.266951,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv14,2022-06-14,Secale cereale,Secale cereale,,47.977037,12.254583,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv15,2022-06-14,Triticum spelta,Triticum spelta,,47.978543,12.250209,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv16,2022-06-14,Secale cereale,Secale cereale,,48.015663,12.288039,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv17,2022-06-14,Secale cereale,Secale cereale,,48.027091,12.274393,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv18,2022-06-14,Secale cereale,Secale cereale,,48.052983,12.273319,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv19,2022-06-15,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.097195,12.287611,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv20,2022-06-15,Secale cereale,Secale cereale,,48.113871,12.349001,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv21,2022-06-15,Triticum spelta,Triticum spelta,,48.114614,12.347654,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv22,2022-06-15,Triticum aestivum s.lat.,Triticum aestivum s.lat.,,48.115708,12.357327,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv23,2022-06-15,Hordeum vulgare,Hordeum vulgare,,48.123225,12.342496,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv24,2022-06-15,Hordeum vulgare,Hordeum vulgare,,48.122666,12.343065,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv25,2022-06-15,Triticum spelta,Triticum spelta,,48.129816,12.338262,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv26,2022-06-15,Triticum durum,other,,48.140092,12.339394,25,T. Eberl,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
+rmv27,2022-06-28,Triticum spelta,Triticum spelta,,48.121337,12.284389,25,T. Eberl & R. Kaiser,50,2,PAR-02A,Caucalidion lappulae von Rochow 1951
