@@ -1,13 +1,15 @@
-plot;cov;tcov1;tcov2;scov;hcov;mcov;htl1;htl2;hsl;hhl1;hhl2;plsx;plsy;expo;slope;rock;bare;stones;date;location;comment;altitude;rope;accuracy;longitude;latitude;belay;observer
-ks01;40;0;0;2;38;1;0;0;0,5;0,4;0,1;8;8;S;80;55;5;0;2011-05-09;Klammstein;belay ks01-03' E13.082538 N47.275467 1150msm;1140;10;20;13.082616E;47.275370N;ks01-03';R. Kaiser & T. Eberl
-ks02;38;0;0;7;32;1;0;0;1,5;0,4;0,1;8;8;S;80;60;2;0;2011-05-09;Klammstein;belay ks01-03' E13.082538 N47.275467 1150msm;1130;20;20;13.082642E;47.275319N;ks01-03';R. Kaiser & T. Eberl
-ks03;35;0;0;5;30;1;0;0;2,5;0,4;0,1;8;8;S;85;50;10;5;2011-05-09;Klammstein;belay ks01-03' E13.082538 N47.275467 1150msm;1110;40;20;13.082668E;47.275269N;ks01-03';R. Kaiser & T. Eberl
-ks04;60;0;0;8;55;1;0;0;2,5;0,4;0,1;8;8;S;45;33;5;2;2011-05-09;Klammstein;;1100;0;20;13.081442E;47.275295N;;R. Kaiser & T. Eberl
-ks05;45;0;0;17;40;1;0;0;2,5;0,4;0,1;8;8;S;85;54;1;0;2011-05-09;Klammstein;belay ks05-06' E13.081471 N47.275158 1090msm;1085;6;20;13.081478E;47.275112N;ks05-06';R. Kaiser & T. Eberl
-ks06;25;0;0;54;20;1;0;0;2;0,5;0,3;8;8;S;87;75;0;0;2011-05-09;Klammstein;belay ks05-06' E13.081471 N47.275158 1090msm;1055;35;20;13.081481E;47.275044N;ks05-06';R. Kaiser & T. Eberl
-ks07;60;0;0;2;58;1;0;0;1,5;0,4;0,1;8;8;S;45;37;2;1;2011-05-19;Klammstein;;1105;0;20;13.080377E;47.275547N;;R. Kaiser & T. Eberl
-ks08;27;0;0;5;27;1;0;0;3;0,3;0,1;8;8;S;70;70;2;1;2011-05-19;Klammstein;belay ks08-09' E13.080383 N47.275391 1050msm;1145;17;20;13.080352E;47.275325N;ks08-09';R. Kaiser & T. Eberl
-ks09;90;0;0;20;80;2;0;0;3;0,5;0,1;8;8;SSW;75;9;1;0;2011-05-19;Klammstein;belay ks08-09' E13.080383 N47.275391 1050msm;1125;25;20;13.080321E;47.275255N;ks08-09';R. Kaiser & T. Eberl
-ks10;55;30;0;15;40;1;15;0;2;0,6;0,1;8;8;SW;75;44;1;0;2011-05-19;Klammstein;belay ks10-11' E13.084351 N47.275406 1220msm;1225;5;20;13.084203E;47.275295N;ks10-11';R. Kaiser & T. Eberl
-ks11;39;0;0;10;35;2;0;0;3;0,4;0,2;8;8;SW;65;60;1;0;2011-05-19;Klammstein;;1210;16;20;13.084037E;47.275186N;ks10-11';R. Kaiser & T. Eberl
-ks12;86;0;0;20;80;10;0;0;2,5;0,7;0,2;8;8;SW;50;10;3;1;2011-05-19;Klammstein;;1160;0;20;13.084037E;47.275186N;;R. Kaiser & T. Eberl
+plot,cov,tcov1,tcov2,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,location,comment,altitude,rope,accuracy,longitude,latitude,belay,observer,alliance.code,alliance,association
+ks01,40,0,0,2,38,1,0,0,"0,5","0,4","0,1",8,8,S,80,55,5,0,2011-05-09,Klammstein,belay ks01-03' E13.082538 N47.275467 1150msm,1140,10,20,13.082616,47.275370,ks01-03',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks02,38,0,0,7,32,1,0,0,"1,5","0,4","0,1",8,8,S,80,60,2,0,2011-05-09,Klammstein,belay ks01-03' E13.082538 N47.275467 1150msm,1130,20,20,13.082642,47.275319,ks01-03',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks03,35,0,0,5,30,1,0,0,"2,5","0,4","0,1",8,8,S,85,50,10,5,2011-05-09,Klammstein,belay ks01-03' E13.082538 N47.275467 1150msm,1110,40,20,13.082668,47.275269,ks01-03',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks04,60,0,0,8,55,1,0,0,"2,5","0,4","0,1",8,8,S,45,33,5,2,2011-05-09,Klammstein,,1100,0,20,13.081442,47.275295,,R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks05,45,0,0,17,40,1,0,0,"2,5","0,4","0,1",8,8,S,85,54,1,0,2011-05-09,Klammstein,belay ks05-06' E13.081471 N47.275158 1090msm,1085,6,20,13.081478,47.275112,ks05-06',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks06,25,0,0,54,20,1,0,0,2,"0,5","0,3",8,8,S,87,75,0,0,2011-05-09,Klammstein,belay ks05-06' E13.081471 N47.275158 1090msm,1055,35,20,13.081481,47.275044,ks05-06',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks07,60,0,0,2,58,1,0,0,"1,5","0,4","0,1",8,8,S,45,37,2,1,2011-05-19,Klammstein,,1105,0,20,13.080377,47.275547,,R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks08,27,0,0,5,27,1,0,0,3,"0,3","0,1",8,8,S,70,70,2,1,2011-05-19,Klammstein,belay ks08-09' E13.080383 N47.275391 1050msm,1145,17,20,13.080352,47.275325,ks08-09',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks09,90,0,0,20,80,2,0,0,3,"0,5","0,1",8,8,SSW,75,9,1,0,2011-05-19,Klammstein,belay ks08-09' E13.080383 N47.275391 1050msm,1125,25,20,13.080321,47.275255,ks08-09',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks10,55,0,30,15,40,1,0,15,2,"0,6","0,1",8,8,SW,75,44,1,0,2011-05-19,Klammstein,belay ks10-11' E13.084351 N47.275406 1220msm,1225,5,20,13.084203,47.275295,ks10-11',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks11,39,0,0,10,35,2,0,0,3,"0,4","0,2",8,8,SW,65,60,1,0,2011-05-19,Klammstein,,1210,16,20,13.084037,47.275186,ks10-11',R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks12,86,0,0,20,80,10,0,0,"2,5","0,7","0,2",8,8,SW,50,10,3,1,2011-05-19,Klammstein,,1160,0,20,13.084037,47.275186,,R. Kaiser & T. Eberl,RHA-01A,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,
+ks13,99,30,10,3,97,10,28,14,"2,5","0,75","0,3",16,16,W,35,0,0,0,2023-06-13,Klammstein,,1290,,5,13.084379,47.276281,,R. Kaiser & T. Eberl,PIC-06B,Abieti-Piceion (Br.-Bl. in Br.-Bl. et al. 1939) Soó 1964,Calamagrostio variae-Piceetum Schweingruber 1972
+ks14,97,35,15,1,95,15,27,12,2,"0,7","0,25",16,16,WNW,45,3,0,0,2023-06-13,Klammstein,,1275,,5,13.084140,47.276183,,R. Kaiser & T. Eberl,PIC-06B,Abieti-Piceion (Br.-Bl. in Br.-Bl. et al. 1939) Soó 1964,Calamagrostio variae-Piceetum Schweingruber 1972
