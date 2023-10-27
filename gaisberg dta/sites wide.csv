@@ -1,21 +1,21 @@
 plot,cov,tcov1,tcov2,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,soil,location,alliance,comment,rope,latitude,longitude,accuracy,observer
-gb01,55,0,0,0,45,10,0,0,0,0.8,0.2,8,8,SW,60,53,2,0,2011-10-06,,"Gaisberg, obere rechte Kapaunwände Rechts",Seslerion coeruleae,,5,47.799759N,13.107848E,20,R. Kaiser
-gb02,83,0,35,10,73,10,0,6,2.5,0.8,0.3,8,8,SW,55,15,2,0,2011-10-06,,"Gaisberg, obere rechte Kapaunwände Rechts",Cephalanthero-Fagenion,,20,47.799716N,13.107634E,20,R. Kaiser
-gb03,30,0,0,25,20,10,0,0,2.5,0.4,0.1,8,8,SW,45,70,2,0,2011-10-06,,"Gaisberg, obere rechte Kapaunwände Rechts",Seslerion coeruleae,,45,47.799593N,13.107634E,20,R. Kaiser
-gb04,55,0,0,50,35,10,0,0,5.5,0.3,0.05,8,8,W,80,63,2,0,2012-05-27,,"Gaisberg, linke untere Kapaunwände Links",Berberidion,im S angrenzend ein Fragment eines Aceri-Tilietum platyphylli seslerietosum Willner 2007 prov.,12,47.802475N,13.104500E,20,R. Kaiser
-gb05,73,0,0,30,70,10,0,0,4,0.4,0.05,8,8,W,75,25,2,0,2012-05-27,,"Gaisberg, linke untere Kapaunwände Links",Berberidion,,35,47.802516N,13.104295E,20,R. Kaiser
-gb06,85,60,20,5,70,3,18,12,3,0.4,0.2,16,16,W,60,30,0,0,2012-05-27,,"Gaisberg, linke untere Kapaunwände Links",Fagion sylvaticae,Wandfuß,0,47.802537N,13.104119E,20,R. Kaiser
-gb07,30,0,0,25,20,2,0,0,2.5,0.5,0.1,8,8,W,85,69,1,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Berberidion,,10,47.801676N,13.105273E,20,R. Kaiser
-gb08,69,0,15,40,80,3,0,9,4,0.8,0.15,8,8,W,50,2,18,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Berberidion,,25,47.801637N,13.105222E,20,R. Kaiser
-gb09,45,0,0,35,15,10,0,0,2.5,0.4,0.1,8,8,W,90,85,0,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Berberidion,,40,47.801604N,13.105175E,20,R. Kaiser
-gb10,95,90,20,5,75,5,25,15,5.5,0.5,0.15,16,16,W,50,15,10,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Cephalanthero-Fagenion,Wandfuß,0,47.801539N,13.105102E,20,R. Kaiser
-gb11,45,0,0,35,23,5,0,0,2,0.5,0.1,8,8,W,80,75,0,0,2012-06-07,,"Gaisberg, obere rechte Kapaunwände Links beim Holzsteg",Berberidion,,5,47.800538N,13.106516E,20,R. Kaiser
-gb12,95,80,30,1,80,5,21,11,2.5,0.5,0.2,16,16,S,50,15,0,0,2015-06-12,Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,,,47.809137N,13.083625E,20,R. Kaiser
-gb13,95,15,80,20,75,5,16,9,4,0.5,0.25,16,16,S,40,15,0,0,2015-06-12,Mull-Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,,,47.808963N,13.081271E,20,R. Kaiser
-gb14,97,60,15,15,80,1,20,10,2,0.6,0.35,16,16,S,25,0,0,0,2015-06-12,Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,,,47.809159N,13.081337E,20,R. Kaiser
-gb15,97,80,25,20,60,1,24,16,2,0.7,0.3,16,16,S,30,0,0,0,2015-06-12,Braunerde & Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,,,47.809393N,13.081274E,20,R. Kaiser
-gb16,90,25,80,30,60,5,16,10,5,0.8,0.3,16,16,S,55,45,0,0,2015-06-12,Mull-Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,,,47.808818N,13.081076E,20,R. Kaiser
-gb17,90,40,50,60,80,5,14,7,3,0.45,0.15,16,16,SW,50,15,0,0,2015-10-21,Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,,,47.808899N,13.075366E,10,R. Kaiser
-gb18,97,40,35,70,90,1,12,7,3.5,0.7,0.15,26,10,SW,45,5,0,0,2015-10-21,Braunerde & Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,entlang Steilstufe,,47.808750N,13.075700E,10,R. Kaiser
-gb19,90,50,30,5,90,1,23,10,2.5,0.6,0.2,16,16,S,40,1,0,0,2015-10-21,Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,am Weg,,47.808498N,13.075790E,10,R. Kaiser
-gb20,80,40,55,7,60,1,16,9,3,0.5,0.2,10,26,SW,50,35,0,0,2015-10-21,Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,"an Felsrücken in Fallinie, unterhalb Steinschlag-Schild ",,47.808396N,13.076705E,10,R. Kaiser
+gb01,55,0,0,0,45,10,0,0,0,0.8,0.2,8,8,SW,60,53,2,0,2011-10-06,,"Gaisberg, obere rechte Kapaunwände Rechts",Seslerion coeruleae,,5,47.799759,13.107848,20,R. Kaiser
+gb02,83,0,35,10,73,10,0,6,2.5,0.8,0.3,8,8,SW,55,15,2,0,2011-10-06,,"Gaisberg, obere rechte Kapaunwände Rechts",Cephalanthero-Fagenion,,20,47.799716,13.107634,20,R. Kaiser
+gb03,30,0,0,25,20,10,0,0,2.5,0.4,0.1,8,8,SW,45,70,2,0,2011-10-06,,"Gaisberg, obere rechte Kapaunwände Rechts",Seslerion coeruleae,,45,47.799593,13.107634,20,R. Kaiser
+gb04,55,0,0,50,35,10,0,0,5.5,0.3,0.05,8,8,W,80,63,2,0,2012-05-27,,"Gaisberg, linke untere Kapaunwände Links",Berberidion,im S angrenzend ein Fragment eines Aceri-Tilietum platyphylli seslerietosum Willner 2007 prov.,12,47.802475,13.104500,20,R. Kaiser
+gb05,73,0,0,30,70,10,0,0,4,0.4,0.05,8,8,W,75,25,2,0,2012-05-27,,"Gaisberg, linke untere Kapaunwände Links",Berberidion,,35,47.802516,13.104295,20,R. Kaiser
+gb06,85,60,20,5,70,3,18,12,3,0.4,0.2,16,16,W,60,30,0,0,2012-05-27,,"Gaisberg, linke untere Kapaunwände Links",Fagion sylvaticae,Wandfuß,0,47.802537,13.104119,20,R. Kaiser
+gb07,30,0,0,25,20,2,0,0,2.5,0.5,0.1,8,8,W,85,69,1,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Berberidion,,10,47.801676,13.105273,20,R. Kaiser
+gb08,69,0,15,40,80,3,0,9,4,0.8,0.15,8,8,W,50,2,18,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Berberidion,,25,47.801637,13.105222,20,R. Kaiser
+gb09,45,0,0,35,15,10,0,0,2.5,0.4,0.1,8,8,W,90,85,0,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Berberidion,,40,47.801604,13.105175,20,R. Kaiser
+gb10,95,90,20,5,75,5,25,15,5.5,0.5,0.15,16,16,W,50,15,10,0,2012-06-07,,"Gaisberg, linke untere Kapaunwände Mitte",Cephalanthero-Fagenion,Wandfuß,0,47.801539,13.105102,20,R. Kaiser
+gb11,45,0,0,35,23,5,0,0,2,0.5,0.1,8,8,W,80,75,0,0,2012-06-07,,"Gaisberg, obere rechte Kapaunwände Links beim Holzsteg",Berberidion,,5,47.800538,13.106516,20,R. Kaiser
+gb12,95,80,30,1,80,5,21,11,2.5,0.5,0.2,16,16,S,50,15,0,0,2015-06-12,Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,,,47.809137,13.083625,20,R. Kaiser
+gb13,95,15,80,20,75,5,16,9,4,0.5,0.25,16,16,S,40,15,0,0,2015-06-12,Mull-Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,,,47.808963,13.081271,20,R. Kaiser
+gb14,97,60,15,15,80,1,20,10,2,0.6,0.35,16,16,S,25,0,0,0,2015-06-12,Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,,,47.809159,13.081337,20,R. Kaiser
+gb15,97,80,25,20,60,1,24,16,2,0.7,0.3,16,16,S,30,0,0,0,2015-06-12,Braunerde & Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,,,47.809393,13.081274,20,R. Kaiser
+gb16,90,25,80,30,60,5,16,10,5,0.8,0.3,16,16,S,55,45,0,0,2015-06-12,Mull-Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,,,47.808818,13.081076,20,R. Kaiser
+gb17,90,40,50,60,80,5,14,7,3,0.45,0.15,16,16,SW,50,15,0,0,2015-10-21,Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,,,47.808899,13.075366,10,R. Kaiser
+gb18,97,40,35,70,90,1,12,7,3.5,0.7,0.15,26,10,SW,45,5,0,0,2015-10-21,Braunerde & Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,entlang Steilstufe,,47.808750,13.075700,10,R. Kaiser
+gb19,90,50,30,5,90,1,23,10,2.5,0.6,0.2,16,16,S,40,1,0,0,2015-10-21,Rendzina,"Gaisberg, Kühberg",Cephalanthero-Fagenion,am Weg,,47.808498,13.075790,10,R. Kaiser
+gb20,80,40,55,7,60,1,16,9,3,0.5,0.2,10,26,SW,50,35,0,0,2015-10-21,Rendzina,"Gaisberg, Kühberg",Tilenion platyphylli,"an Felsrücken in Fallinie, unterhalb Steinschlag-Schild ",,47.808396,13.076705,10,R. Kaiser
