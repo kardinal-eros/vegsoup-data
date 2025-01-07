@@ -1,0 +1,43 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,type,alliance.code,alliance,association,soil,comment,location,observer
+mhbu01,100,0,0,0,100,0,0,0,0,"1,6","0,35",4,4,SW,23,0,0,0,2023-06-24,47.366938,12.788769,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu02,98,0,0,0,98,0,0,0,0,"1,6","0,4",4,4,SSW,27,0,2,0,2023-06-24,47.367091,12.788303,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu03,93,0,0,0,85,50,0,0,0,1,"0,15",4,4,S,38,0,7,0,2023-06-24,47.367601,12.788262,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu04,99,0,0,0,99,0,0,0,0,"1,7","0,15",4,4,S,27,0,1,0,2023-06-24,47.367461,12.788052,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu05,98,0,0,0,98,0,0,0,0,"1,6","0,15",4,4,S,36,0,2,0,2023-06-24,47.367981,12.787303,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu06,96,0,0,0,96,0,0,0,0,"1,7","0,15",4,4,S,25,0,4,0,2023-06-24,47.368040,12.786687,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu07,97,0,0,0,97,0,0,0,0,"1,6","0,3",4,4,S,15,0,3,0,2023-06-24,47.368193,12.786251,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu08,97,0,0,0,96,3,0,0,0,"1,5","0,15",4,4,S,30,0,3,0,2023-06-24,47.367722,12.786282,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu09,100,0,0,0,100,1,0,0,0,"1,8","0,4",4,4,S,25,0,0,0,2023-06-24,47.367345,12.786873,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu10,99,0,0,0,99,1,0,0,0,"1,6","0,15",4,4,S,30,0,1,0,2023-06-25,47.367519,12.785417,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu11,98,0,0,0,98,1,0,0,0,"1,6","0,15",4,4,S,30,0,2,0,2023-06-25,47.367798,12.784858,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu12,96,0,0,0,96,0,0,0,0,"1,6","0,15",4,4,SE,35,0,4,0,2023-06-25,47.368571,12.784611,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu13,98,0,0,0,98,0,0,0,0,"1,6","0,15",4,4,S,22,0,2,0,2023-06-25,47.368451,12.785201,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu14,99,0,0,0,99,0,0,0,0,"1,7","0,4",4,4,S,25,0,1,0,2023-06-25,47.368084,12.783798,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu15,99,0,0,0,99,0,0,0,0,"1,6","0,15",4,4,SSW,30,0,1,0,2023-06-25,47.367692,12.787339,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu16,99,0,0,0,90,25,0,0,0,1,"0,15",4,4,SW,30,0,1,0,2023-06-25,47.367895,12.787653,5,meadow,,,,,meadow,"Maishofen, Buchach",T. Eberl
+mhbu17,95,20,85,5,1,1,25,13,4,"0,5","0,1",16,16,SSW,30,0,5,0,2023-06-25,47.367771,12.788222,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl
+mhbu18,93,70,20,0,75,1,25,18,0,"0,9","0,1",16,16,SSW,35,0,7,0,2023-06-25,47.366384,12.787989,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl
+mhbu19,95,80,20,0,5,5,25,15,0,"0,8","0,15",16,16,SSW,32,0,5,0,2023-06-25,47.365995,12.788063,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl
+mhbu20,97,20,80,0,1,5,23,18,0,"0,25","0,1",16,16,SSW,36,0,3,0,2023-06-25,47.366314,12.788719,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl
+mhbu21,99,25,55,80,85,7,24,19,7,"0,9","0,3",16,16,S,37,5,1,0,2023-07-27,47.367221,12.785792,5,forest,,,,,maple ash forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu22,97,70,25,0,12,8,32,23,0,"0,7","0,2",16,16,S,30,0,3,0,2023-07-27,47.366900,12.785679,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu23,97,75,20,3,7,2,29,21,5,"0,7","0,1",16,16,S,35,0,3,0,2023-07-27,47.366881,12.785181,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu24,97,40,30,7,70,50,28,15,3,1,"0,2",8,32,S,35,0,3,25,2023-07-27,47.366723,12.784917,5,forest,,,,,alder forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu25,99,75,20,40,97,1,32,20,5,"0,9","0,2",32,8,S,35,0,1,0,2023-07-27,47.367238,12.784697,5,forest,,,,,maple ash forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu26,99,90,15,0,12,1,30,20,0,"0,4","0,1",16,16,SSW,35,0,1,1,2023-07-27,47.367630,12.783791,5,forest,,,,,beech forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu27,99,20,70,50,95,10,21,16,5,"1,2","0,2",16,16,SSW,40,0,1,0,2023-07-27,47.368335,12.783405,5,forest,,,,,alder forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu28,95,85,15,2,15,1,28,20,5,"0,4","0,1",16,16,SSW,28,0,5,0,2023-07-27,47.366901,12.782963,5,forest,,,,,beech forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu29,98,80,10,25,80,20,28,15,6,"0,6","0,1",16,16,SSW,28,15,2,25,2023-07-27,47.366613,12.783907,5,forest,,,,,maple ash forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu30,98,0,98,2,1,0,0,23,5,"0,3","0,05",16,16,SSW,28,0,2,0,2023-07-27,47.365451,12.783041,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu31,96,80,25,3,70,10,30,18,4,"0,7","0,1",16,16,SSW,37,0,4,0,2023-07-27,47.364221,12.788815,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu32,100,0,0,18,100,1,0,0,3,"1,2","0,2",8,8,SSE,20,0,0,0,2023-07-27,47.365416,12.785012,5,tall herbs,,,,,clear cut,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu33,100,0,0,12,100,0,0,0,3,"1,5","0,2",8,8,S,25,0,0,0,2023-07-27,47.365598,12.784666,5,tall herbs,,,,,clear cut,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu34,98,25,25,80,80,2,22,13,7,1,"0,15",16,16,SSW,35,0,2,1,2023-07-28,47.366698,12.786964,5,forest,,,,,maple ash forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu35,100,0,0,0,100,20,0,0,0,2,"0,3",4,4,SSW,30,0,0,5,2023-07-28,47.366563,12.787163,5,forest,,,,,alder forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu36,100,0,35,35,100,20,0,17,5,"1,5","0,2",16,16,SSW,35,0,0,0,2023-07-28,47.366397,12.786966,5,forest,,,,,alder forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu37,100,0,40,75,100,25,0,16,6,"1,4","0,3",16,16,SSW,35,0,0,7,2023-07-28,47.366567,12.786611,5,forest,,,,,alder forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu38,100,0,0,0,100,20,0,0,0,"1,5","0,4",4,4,SSE,25,0,0,0,2023-07-28,47.366051,12.784887,5,tall herbs,,,,,tall herbs,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu39,95,90,0,2,65,40,38,0,4,"1,2","0,15",16,16,SSE,25,0,5,0,2023-07-28,47.366032,12.785564,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu40,100,15,55,15,99,25,26,21,5,"1,2","0,3",16,16,SSW,30,0,0,2,2023-07-28,47.366073,12.786735,5,forest,,,,,alder forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu41,97,70,20,0,80,10,32,21,0,"1,2","0,2",16,16,SSW,30,0,3,0,2023-07-28,47.365507,12.787110,5,forest,,,,,spruce plantation,"Maishofen, Buchach",T. Eberl & R. Kaiser
+mhbu42,100,70,15,65,93,15,21,15,5,"1,2","0,3",16,16,F,0,0,0,0,2023-07-28,47.363904,12.787259,5,forest,,,,,floodplain forest,"Maishofen, Buchach",T. Eberl & R. Kaiser
