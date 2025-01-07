@@ -10,6 +10,13 @@ The bibtex file `./refernces.bib` that is contained in each project folder gives
 
 ![](README.png)
 
+Directory Structure
+-------------------
+
+- [adnet dta](adnet dta): Each project is located in a separate folder.
+- [überling dta](überling dta): Folder names contain non-ASCII characters
+- [zwurms meschach dta](zwurms meschach dta): Each project is named after a toponym.
+
 How to access and use the data sets
 -----------------------------------
 
