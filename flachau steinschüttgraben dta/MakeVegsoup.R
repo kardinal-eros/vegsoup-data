@@ -4,7 +4,7 @@ require(bibtex)
 path <- "~/Documents/vegsoup-data/flachau steinschüttgraben dta"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
-#	cd '/Users/roli/Dropbox/ENNACON/projekte/flachau steinschüttgraben/dta/relevees'
+#	cd 'relevees'
 #	/Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to csv:"Text - txt - csv (StarCalc)":44,34,76 species.ods
 #	token 76 is the number of the UTF-8 encoding, 44 the comma, and 34 the double quote character ASCII
 
