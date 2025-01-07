@@ -1,0 +1,19 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,type,alliance.code,alliance,association,soil,comment,location,observer
+szwf01,93,0,0,0,93,15,0,0,0,"1,1","0,3",4,4,F,0,0,7,0,2023-05-30,47.496064,13.178313,5,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,,T. Eberl & R. Kaiser
+szwf02,93,0,0,0,93,3,0,0,0,"1,1","0,3",4,4,F,0,0,8,0,2023-05-30,47.509351,13.171522,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,T. Eberl & R. Kaiser
+szwf03,99,0,0,0,85,80,0,0,0,"0,5","0,15",4,4,W,43,0,1,0,2023-05-30,47.524584,13.168000,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,T. Eberl & R. Kaiser
+szwf04,97,0,0,0,95,93,0,0,0,"0,75","0,25",4,4,W,40,0,3,0,2023-05-30,47.523885,13.167915,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,T. Eberl & R. Kaiser
+szwf05,90,0,0,0,90,3,0,0,0,"1,1","0,4",4,4,SW,40,0,17,0,2023-05-31,47.468367,13.197487,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,R. Kaiser
+szwf06,85,0,0,0,85,10,0,0,0,"1,2",10,4,4,SW,30,0,5,0,2023-05-31,47.467535,13.199017,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,R. Kaiser
+szwf07,85,0,0,0,65,75,0,0,0,"0,8","0,4",4,4,SW,25,0,10,,2023-05-31,47.467953,13.198960,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,R. Kaiser
+szwf08,95,0,0,0,85,35,0,0,0,"0,85","0,35",4,4,SW,40,0,1,0,2023-05-31,47.467834,13.199276,5,meadow,FES-01A,Bromion erecti Koch 1926,,,,,R. Kaiser
+szwf09,80,0,0,25,75,1,0,0,2,1,"0,4",16,16,W,25,0,0,0,2023-06-26,47.528720,13.167926,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf10,99,30,35,55,97,30,20,9,"4,5","0,75","0,35",16,16,SW,17,1,0,0,2023-06-26,47.511544,13.171041,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf11,80,0,7,10,75,25,0,8,"2,5","0,7","0,15",16,16,SW,40,0,0,20,2023-06-26,47.511888,13.170580,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf12,99,70,10,30,90,55,13,8,4,"0,6","0,25",16,16,F,0,0,0,0,2023-06-26,47.512123,13.170147,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf13,100,30,45,35,97,20,19,10,"4,5","0,7","0,3",16,16,SW,5,0,0,0,2023-06-26,47.512656,13.170132,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf14,100,70,10,20,97,25,21,15,4,"0,8","0,25",16,16,SW,17,0,0,0,2023-06-26,47.513086,13.169583,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf15,100,30,10,50,97,15,20,15,"4,5","0,8","0,4",16,16,SW,17,0,0,0,2023-06-26,47.513693,13.169430,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf16,99,45,20,45,97,20,18,8,"4,5","0,6","0,3",16,16,SW,10,0,0,0,2023-06-26,47.514320,13.169133,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf17,99,65,7,27,97,10,18,13,"4,5","0,6","0,3",16,16,W,20,0,0,0,2023-06-26,47.514844,13.169061,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
+szwf18,100,60,5,10,97,10,18,10,"4,5","0,55","0,3",16,16,W,7,0,0,0,2023-06-26,47.515542,13.168801,5,forest,ERI-01A,Erico carneae-Pinion Br.-Bl. in Br.-Bl. et al. 1939 nom. invers. propos.,,,,,R. Kaiser
