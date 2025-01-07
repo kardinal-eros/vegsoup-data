@@ -1,6 +1,6 @@
 library(vegsoup)
-library(rgdal)
 require(bibtex)
+require(terra)
 
 path <- "~/Documents/vegsoup-data/berchtesgaden dta"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
@@ -23,21 +23,38 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 obj <- Vegsoup(XZ, Y, coverscale = "domin")
 
 #	add coordinates from polygon
-pg <- readOGR("/Users/roli/Documents/vegsoup-data/berchtesgaden dta/",
-	"sites", stringsAsFactors = FALSE, verbose = FALSE)
-pg0 <- spTransform(pg, CRS("+init=epsg:3857"))
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")
+pg0 <- project(pg, CRS("+init=epsg:3857"))
 #	calculate accuracy
-pt <- sapply(sapply(pg0@polygons, function (x) slot(x, "Polygons")), slot, "coords")
-pg$accuracy <- round(sapply(pt, function (x) max(dist(x))), 0)
+#	initialize a vector to store maximum diameters
+d <- numeric(nrow(pg0))
+
+# Loop through each polygon
+for (i in 1:nrow(pg0)) {
+  # Extract the i-th polygon
+  poly <- pg0[i, ]
+  
+  # Extract the vertices of the polygon
+  boundary <- as.points(poly)
+  
+  # Calculate pairwise distances between all vertices
+  dd <- distance(boundary, boundary)
+  
+  # Find the maximum distance
+  d[i] <- max(dd)
+}
+
+pg$accuracy <- 150 # d
 	
 r <- rep(1:nrow(pg), each = 10)
-pt <- cbind(coordinates(pg)[r, ], pg$accuracy)
+pt <- centroids(pg)[r, ]
+pt$accuracy <- 150
 plots <-  paste(pg$SITE[r], sprintf("%02d", 1:10), sep = "-")
 pt <- pt[match(rownames(obj), plots), ]
 
-obj$longitude <- pt[, 1]
-obj$latitude <-  pt[, 2]
-obj$accuracy <- pt[, 3]
+obj$longitude <- geom(pt, df = TRUE)$x
+obj$latitude <-  geom(pt, df = TRUE)$y
+obj$accuracy <- pt$accuracy
 	
 coordinates(obj) <- ~longitude+latitude
 proj4string(obj) <- CRS("+init=epsg:4326")
