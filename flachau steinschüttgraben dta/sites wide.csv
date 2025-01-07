@@ -1,0 +1,37 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,type,alliance.code,alliance,association,soil,comment,location,observer
+flsg01,98,0,0,0,80,95,0,0,0,"0,4","0,1",4,4,NE,7,0,2,0,2023-07-14,47.265718,13.413726,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg02,98,0,65,40,90,75,0,12,6,"0,6","0,1",32,8,N,7,0,2,0,2023-07-14,47.266269,13.413828,5,alder floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg03,99,0,40,40,90,75,0,21,6,"0,7","0,15",32,8,N,5,1,1,0,2023-07-14,47.265882,13.413373,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg04,98,0,35,15,97,25,0,15,6,"1,2","0,25",16,16,W,35,0,2,0,2023-07-14,47.265896,13.414664,5,other forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg05,97,0,0,0,97,5,0,0,0,1,"0,15",4,4,W,3,0,3,0,2023-07-14,47.265747,13.416078,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg06,80,0,0,0,65,55,0,0,0,"0,6","0,05",4,4,F,0,0,20,0,2023-07-14,47.265142,13.416065,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg07,20,0,0,0,17,5,0,0,0,"0,8","0,1",4,4,NW,15,0,80,100,2023-07-14,47.265138,13.416715,5,talus slope,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg08,90,0,0,5,85,40,0,0,"1,5","0,6","0,15",4,4,WNW,45,0,10,0,2023-07-14,47.264874,13.416420,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg09,97,45,20,3,70,80,21,10,"3,5","0,7","0,3",16,16,NW,15,0,3,0,2023-07-14,47.265079,13.417776,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg10,98,45,30,3,85,85,20,10,5,"0,9","0,1",16,16,NNW,20,0,2,10,2023-07-14,47.264627,13.418078,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg11,37,0,0,0,30,10,0,0,0,"0,6","0,15",2,8,NNW,10,0,63,100,2023-07-14,47.264230,13.418826,5,cripple spruce and pioneer vegetation,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg12,99,0,0,0,99,15,0,0,0,"0,9","0,2",4,4,N,7,0,1,0,2023-07-14,47.263607,13.419945,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg13,95,75,15,0,92,2,31,18,0,"1,5","0,2",16,16,NNW,25,0,5,0,2023-07-14,47.263346,13.421202,5,other forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg14,90,0,1,1,75,25,0,14,"2,5","1,1","0,15",16,16,NW,15,0,10,100,2023-07-14,47.264109,13.419563,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg15,85,0,0,0,80,40,0,0,0,"0,4","0,1",4,4,NW,15,0,15,0,2023-07-18,47.270219,13.413953,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg16,90,0,0,0,65,75,0,0,0,"0,4","0,1",4,4,NNW,3,0,10,0,2023-07-18,47.268924,13.414727,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg17,93,0,0,0,92,10,0,0,0,"0,6","0,1",4,4,W,30,0,7,1,2023-07-18,47.268407,13.415130,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg18,88,0,0,0,75,80,0,0,0,"0,7","0,1",4,4,NNW,13,0,12,10,2023-07-18,47.265149,13.417197,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg19,70,0,0,0,50,65,0,0,0,"0,8","0,1",8,2,NW,10,0,0,30,2023-07-18,47.264796,13.418103,5,cripple spruce and pioneer vegetation,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg20,97,0,23,60,80,90,0,11,5,1,"0,1",16,16,NW,17,0,0,7,2023-07-18,47.264804,13.418326,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg21,75,0,0,0,55,60,0,0,0,1,"0,1",4,4,ENE,50,0,0,100,2023-07-18,47.264444,13.418822,5,cripple spruce and pioneer vegetation,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg22,90,0,35,40,70,60,0,11,6,1,"0,1",32,8,NW,20,3,0,25,2023-07-18,47.264035,13.419231,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg23,35,0,0,0,37,1,0,0,0,1,"0,2",4,4,SW,15,0,0,100,2023-07-18,47.263704,13.419298,5,cripple spruce and pioneer vegetation,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg24,99,0,0,0,93,85,0,0,0,"0,6","0,1",4,4,WNW,10,0,0,0,2023-07-18,47.265816,13.414462,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg25,80,0,0,10,65,80,0,0,2,"0,6","0,1",8,2,E,27,0,0,25,2023-07-18,47.265792,13.414013,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg26,99,0,3,80,70,90,0,5,"1,5","0,5","0,1",32,8,NNW,12,0,0,1,2024-06-04,47.265980,13.419698,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg27,97,0,0,0,80,85,0,0,0,"0,7","0,1",4,4,WSW,22,0,0,3,2024-06-04,47.266066,13.420280,5,talus slope,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg28,100,0,0,0,100,1,0,0,0,"0,4","0,1",4,4,N,15,0,0,0,2024-06-04,47.265247,13.419135,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg29,90,0,5,70,45,50,0,5,"1,5","0,5","0,1",16,16,NE,20,0,10,0,2024-06-04,47.265637,13.419059,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg30,99,0,3,90,30,95,0,5,"1,5","0,5","0,1",32,8,N,15,0,0,1,2024-06-04,47.265924,13.419083,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg31,65,0,5,25,25,40,0,5,"1,5","0,6","0,1",16,16,NW,35,0,0,35,2024-06-04,47.265920,13.418696,5,cripple spruce and pioneer vegetation,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg32,60,0,0,5,45,55,0,0,"1,5","0,6","0,1",4,4,NNW,40,0,0,40,2024-06-04,47.265980,13.417769,5,cripple spruce and pioneer vegetation,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg33,50,0,0,0,40,25,0,0,0,"0,3","0,05",4,4,F,0,0,0,50,2024-06-04,47.267161,13.415676,5,grassland,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg34,95,0,45,35,80,20,0,8,4,"0,5","0,1",32,8,W,40,0,5,0,2024-06-04,47.266617,13.415324,5,other forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg35,100,50,25,15,80,85,13,8,"3,5","0,6","0,1",16,16,F,0,0,0,0,2024-06-04,47.266786,13.413569,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
+flsg36,100,0,25,40,75,95,0,6,"1,5","0,6","0,1",8,32,F,0,0,0,0,2024-06-04,47.267141,13.413561,5,spruce floodplain forest,,,,,,"Flachau, Steinschüttgraben",T. Eberl & R. Kaiser
