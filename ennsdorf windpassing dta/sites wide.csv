@@ -1,0 +1,10 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,elevation,type,alliance.code,alliance,association,soil,comment,location,observer
+enwi01,80,70,10,95,20,1,11,8,"2,5","0,7","0,1",16,16,F,0,0,0,0,2024-09-08,48.219309,14.517494,5,,oak forest,FAG-03A,Carpinion betuli Issler 1931,,,DBH 13-25cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi02,80,55,45,90,30,1,12,9,5,"0,7","0,1",16,16,F,0,0,0,0,2024-09-08,48.218134,14.517708,5,,oak forest,FAG-03A,Carpinion betuli Issler 1931,,,DBH 10-40cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi03,97,50,40,30,90,1,12,9,4,1,"0,1",16,16,F,0,0,0,0,2024-09-08,48.216721,14.517803,5,,oak forest,FAG-03A,Carpinion betuli Issler 1931,,,DBH 10-50cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi04,95,80,7,30,97,3,20,10,"2,5",1,"0,15",16,16,F,0,0,0,0,2024-09-08,48.216302,14.518584,5,,oak forest,FAG-03A,Carpinion betuli Issler 1931,,,DBH 10-55cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi05,99,55,5,80,25,80,23,10,3,1,"0,2",16,16,F,0,0,0,0,2024-09-08,48.217358,14.519072,5,,coniferous forest,UNC,unclassified,,,DBH 15-30cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi06,100,60,10,90,40,30,25,15,"4,5","1,2","0,2",16,16,F,0,0,0,0,2024-09-08,48.217418,14.518757,5,,coniferous forest,UNC,unclassified,,,DBH 15-45cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi07,100,60,10,90,85,90,25,9,"3,5","1,2","0,15",16,16,F,0,0,0,0,2024-09-08,48.217839,14.518814,5,,coniferous forest,UNC,unclassified,,,DBH 15-40cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi08,99,40,10,90,60,65,20,12,5,"1,2","0,15",16,16,F,0,0,0,0,2024-09-08,48.217839,14.519419,5,,coniferous forest,UNC,unclassified,,,DBH 15-40cm,"Ennsdorf, Windpassing",R. Kaiser
+enwi09,99,70,13,40,95,15,25,15,5,"1,1","0,15",16,16,F,0,0,0,0,2024-09-08,48.218086,14.520158,5,,coniferous forest,UNC,unclassified,,,DBH 45-115cm,"Ennsdorf, Windpassing",R. Kaiser
