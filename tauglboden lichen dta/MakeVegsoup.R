@@ -27,6 +27,11 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 #	build "Vegsoup" object
 obj <- Vegsoup(XZ, Y, coverscale = "percentage")
 
+#	set coordinates
+coordinates(obj) <- ~ longitude.tree + latitude.tree
+obj$accuracy <- obj$accuracy.tree
+proj4string(obj) <- CRS("+init=epsg:4326")
+
 #	richness
 obj$richness <- richness(obj, "sample")
 

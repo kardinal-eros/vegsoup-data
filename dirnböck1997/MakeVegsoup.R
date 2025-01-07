@@ -23,7 +23,7 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 #	build "Vegsoup" object
 obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")
 obj$Längengrad <- as.numeric(gsub("E", "", obj$Längengrad))
-obj$Breitengrad <- as.numeric(gsub("N", "", obj$Längengrad))
+obj$Breitengrad <- as.numeric(gsub("N", "", obj$Breitengrad))
 coordinates(obj) <- ~ Längengrad + Breitengrad
 proj4string(obj) <- CRS("+init=epsg:4326")
 
