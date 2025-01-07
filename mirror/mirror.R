@@ -215,3 +215,7 @@ sum(lit$plots)
 y <- X$year[ !X$published ]
 hist(y, main = "", xlab = "Year",
 	breaks = seq(min(y), max(y), by = 1))
+
+y <- X$year
+hist(y, main = "", xlab = "Year",
+	breaks = seq(min(y), max(y), by = 1))
