@@ -1,0 +1,6 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,elevation,type,alliance.code,alliance,association,soil,comment,location,observer
+mhhf01,99,0,0,0,95,25,0,0,0,"0,9","0,2",4,4,S,25,0,1,0,2024-06-28,47.368024,12.778498,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Maishofen, Forsthofgut",R. Kaiser
+mhhf02,100,0,0,0,95,45,0,0,0,"0,9","0,25",4,4,S,25,0,0,0,2024-06-28,47.367996,12.777643,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Maishofen, Forsthofgut",R. Kaiser
+mhhf03,99,0,0,0,97,20,0,0,0,"0,9","0,15",4,4,S,30,0,0,0,2024-06-28,47.366321,12.779354,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Maishofen, Forsthofgut",R. Kaiser
+mhhf04,97,0,0,0,99,7,0,0,0,"1,2","0,45",4,4,S,15,0,3,0,2024-06-28,47.365902,12.780538,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Maishofen, Forsthofgut",R. Kaiser
+mhhf05,99,0,0,0,99,99,10,0,0,"0,9","0,25",4,4,S,30,0,0,0,2024-06-28,47.366196,12.780342,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Maishofen, Forsthofgut",R. Kaiser

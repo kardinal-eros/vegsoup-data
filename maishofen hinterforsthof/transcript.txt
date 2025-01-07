@@ -1,0 +1,89 @@
+BEGIN HEAD
+plot                                              mmmmm
+                                                  hhhhh
+                                                  hhhhh
+                                                  fffff
+                                                  00000
+                                                  12345
+richness                                          43433
+                                                  72348
+                                                       
+END HEAD
+BEGIN TABLE
+Achillea millefolium agg.                      hl +...+
+Agrostis capillaris                               21222
+Agrostis gigantea                                 +....
+Ajuga reptans                                     +.++.
+Alchemilla monticola                              +++++
+Anthoxanthum odoratum s.str.                      21+22
+Arrhenatherum elatius                             1.122
+Briza media                                       222.2
+Campanula rotundifolia s.str.                     +.+.+
+Carex caryophyllea                                2++++
+Carex pallescens                                  +.+..
+Carlina acaulis ssp. acaulis                      +...+
+Centaurea jacea ssp. jacea                        1....
+Centaurea pseudophrygia                           r..2+
+Crataegus monogyna                                r....
+Cynosurus cristatus                               ++...
+Dactylis glomerata ssp. glomerata                 +..+.
+Danthonia decumbens ssp. decumbens                22+.+
+Festuca nigrescens                                2.111
+Festuca rubra ssp. rubra                          1+222
+Galium album s.str.                               1++2+
+Holcus lanatus                                    11.1.
+Homalotrichon pubescens ssp. pubescens            +.+.1
+Hypericum perforatum                              +.rr.
+Knautia arvensis ssp. arvensis                    2.111
+Leontodon hispidus ssp. hispidus                  2+.22
+Leucanthemum ircutianum                           1..21
+Linum catharticum                                 +r+..
+Luzula campestris s.str.                          +.+.+
+Molinia caerulea s.str.                           232..
+Pimpinella major var. major                       +..21
+Plantago lanceolata                               ++++.
+Polygala vulgaris ssp. vulgaris                   +....
+Potentilla erecta                                 222.1
+Primula veris ssp. veris                          rr...
+Prunella vulgaris                                 11+..
+Ranunculus acris ssp. acris                       +++1+
+Salix caprea                                      +....
+Silene nutans ssp. nutans                         +.r.+
+Stellaria graminea                                +++22
+Thymus pulegioides ssp. pulegioides               2.4.4
+Trifolium medium ssp. medium                      2+1.1
+Trifolium pratense ssp. pratense                  +.+r+
+Trisetum flavescens ssp. flavescens               +..1.
+Veronica chamaedrys ssp. chamaedrys               r..+1
+Veronica officinalis                              +++.+
+Viola canina s.lat.                               +.+.+
+Carex davalliana                                  .3...
+Carex nigra                                       .1...
+Carex panicea                                     .2+..
+Equisetum sylvaticum                              .+...
+Filipendula ulmaria                               .1...
+Galium uliginosum                                 .+...
+Lathyrus pratensis ssp. pratensis                 .+.++
+Lotus corniculatus s.str.                         .1+r+
+Lysimachia vulgaris                               .1r..
+Nardus stricta                                    .r...
+Valeriana dioica                                  .1...
+Acer pseudoplatanus                               ..+..
+Carex sylvatica ssp. sylvatica                    ..+..
+Chaerophyllum aureum                              ..r11
+Equisetum arvense                                 ..r..
+Festuca pratensis s.str.                          ..11.
+Fragaria vesca                                    ..+.+
+Fraxinus excelsior                                ..r..
+Pimpinella saxifraga ssp. saxifraga               ..r..
+Rhamnus cathartica                                ..r..
+Vicia cracca s.str.                               ..+r+
+Aegopodium podagraria                             ...r.
+Crepis biennis                                    ...r.
+Rhinanthus alectorolophus ssp. alectorolophus     ...+.
+Silene vulgaris ssp. vulgaris                     ...1.
+Trifolium repens ssp. repens                      ...+r
+Vicia sepium                                      ...+.
+Clinopodium vulgare ssp. vulgare                  ....1
+Hieracium pilosella                               ....1
+END TABLE
