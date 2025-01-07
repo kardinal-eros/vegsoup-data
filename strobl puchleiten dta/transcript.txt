@@ -1,0 +1,79 @@
+BEGIN HEAD
+plot                                              ssssssssssssssss
+                                                  tttttttttttttttt
+                                                  pppppppppppppppp
+                                                  llllllllllllllll
+                                                  0000000001111111
+                                                  1234567890123456
+richness                                          3323333333444443
+                                                  2181324030310307
+                                                                  
+END HEAD
+BEGIN TABLE
+Achillea millefolium agg.                      hl 1+1111+++121221+
+Alopecurus pratensis                              1+22r1+222......
+Anthoxanthum odoratum s.str.                      2212122222+11111
+Anthriscus sylvestris s.str.                      ++11+1111+r...++
+Bellis perennis                                   1+++1+r+.+++++++
+Carex sylvatica ssp. sylvatica                    r...r.....+11211
+Cerastium holosteoides                            +++++11++2++++++
+Crepis biennis                                    +11+11+2111+1111
+Cynosurus cristatus                               ++.+++...1+++122
+Dactylis glomerata ssp. glomerata                 +1.1+12221++++11
+Festuca pratensis s.str.                          1221222221122221
+Festuca rubra                                     23223211+2222222
+Galium album s.str.                               +1.12++.+++11+++
+Glechoma hederacea                                ++++1+111..+.+..
+Heracleum sphondylium ssp. sphondylium            1122121121221123
+Leucanthemum ircutianum                           2+1+2.r+++122222
+Lysimachia nummularia                             r+.1+++++.......
+Plantago lanceolata                               222222222211+121
+Poa pratensis                                     222122+.+1+.+.++
+Poa trivialis                                     ++21++322...r.r+
+Prunella vulgaris                                 +++++1..+1111122
+Ranunculus acris ssp. acris                       22222222.2+++111
+Rumex acetosa                                     ++++++++++++++++
+Taraxacum sect. Ruderalia                         1112112221++++++
+Trifolium pratense ssp. pratense                  2212223332222222
+Trifolium repens ssp. repens                      2211221++2+11+11
+Trisetum flavescens ssp. flavescens               22332.1112212121
+Veronica arvensis                                 r...r.++........
+Veronica chamaedrys ssp. chamaedrys               1111221++2+r.+r+
+Veronica filiformis                               +++++++++1......
+Veronica serpyllifolia ssp. serpyllifolia         +..+.2...+...r..
+Vicia sepium                                      r+.+r.r..+...+r.
+Ficaria verna ssp. verna                          .+...+..+...r...
+Pimpinella major var. major                       .++......++1+111
+Cardamine pratensis s.str.                        ..r..+.+.......1
+Lolium perenne                                    ..1.+.....+r1111
+Tragopogon orientalis                             ..rr..r.rr.r....
+Campanula patula ssp. patula                      ....r...........
+Ajuga reptans                                     .....1....++....
+Alchemilla sp.                                    .....r..r.++++++
+Anemone nemorosa                                  .....r..........
+Lolium multiflorum                                ......212...1...
+Phleum pratense s.str.                            ......1+1.....+.
+Ranunculus repens                                 ......+.+...+r+.
+Rumex obtusifolius ssp. obtusifolius              ......+.........
+Silene dioica                                     ......++1.......
+Aegopodium podagraria                             .......r+.......
+Lotus corniculatus s.str.                         .........++..r..
+Arrhenatherum elatius                             ..........+.1+12
+Carex muricata s.str.                             ..........+..+..
+Carex pallescens                                  ..........++++++
+Carex panicea                                     ..........1.....
+Carum carvi                                       ..........11121.
+Centaurea jacea ssp. jacea                        ..........1+21+.
+Homalotrichon pubescens ssp. pubescens            ..........12+...
+Lathyrus pratensis ssp. pratensis                 ..........r+.+..
+Leontodon hispidus ssp. hispidus                  ..........+21+.2
+Medicago lupulina                                 ..........222211
+Poa angustifolia                                  ..........1++r.+
+Rhinanthus alectorolophus ssp. alectorolophus     ..........212+21
+Rhinanthus minor                                  ..........111111
+Vicia cracca s.str.                               ..........++++++
+Colchicum autumnale                               ...........+....
+Listera ovata                                     ...........+....
+Carex hirta                                       .............r..
+Geranium sylvaticum                               ..............r.
+END TABLE
