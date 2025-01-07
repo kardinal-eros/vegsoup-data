@@ -1,10 +1,10 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "~/Documents/vegsoup-data/sulzau werfen öbb"
+path <- "~/Documents/vegsoup-data/faistenau kesselmannlift dta"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
-#	cd '/Users/roli/Dropbox/ENNACON/projekte/sulzau werfen öbb/dta/relevees'
+#	cd '/Users/roli/Dropbox/ENNACON/projekte/faistenau kesselmannlift/dta/relevees'
 #	/Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to csv:"Text - txt - csv (StarCalc)":44,34,76 species.ods
 #	token 76 is the number of the UTF-8 encoding, 44 the comma, and 34 the double quote character ASCII
 

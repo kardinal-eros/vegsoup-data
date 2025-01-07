@@ -1,10 +1,10 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "~/Documents/vegsoup-data/salzachauen ettenau"
+path <- "~/Documents/vegsoup-data/maishofen hinterforsthof dta"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
-#	cd '/Users/roli/Dropbox/ENNACON/projekte/gebietsbetreuung/dta/relevees'
+#	cd '/Users/roli/Dropbox/ENNACON/projekte/maishofen hinterforsthof/dta/relevees'
 #	/Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to csv:"Text - txt - csv (StarCalc)":44,34,76 species.ods
 #	token 76 is the number of the UTF-8 encoding, 44 the comma, and 34 the double quote character ASCII
 
@@ -14,7 +14,7 @@ X <- species(file, sep = ",")[, 1:4]
 
 file <- file.path(path, "sites wide.csv")
 #	promote to class "Sites"
-Y <- stackSites(file = file, sep = ";", dec = ",")
+Y <- stackSites(file = file, sep = ",", dec = ",")
 
 file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"
 #	promote to class "SpeciesTaxonomy"
@@ -29,12 +29,6 @@ assign(key, obj)
 #	richness
 obj$richness <- richness(obj, "sample")
 
-#	order based on plot and year
-obj$year <- format(as.Date(obj$date), "%Y")
-obj$plot2 <- sapply(strsplit(rownames(obj), "-"), head, 1)
-
-obj <- obj[ order(obj$plot2, obj$year) ]
-
 #	add citation
 #obj$author <- ifelse(length(bib$author) > 1, paste0(as.character(bib$author), collapse = ", "), as.character(bib$author))
 #obj$citation <- format(bib, style = "text")
@@ -45,4 +39,3 @@ write.verbatim(obj, file.path(path, "transcript.txt"), sep = "", add.lines = TRU
 
 #	tidy up
 rm(list = ls()[-grep(key, ls())])
-
