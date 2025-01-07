@@ -4,7 +4,7 @@ Overview of the vegsoup-data repository
 Directory Structure
 -------------------
 
-- [adnet dta/](adnet dta): Description of Folder 1
+- [adnet dta](adnet dta): Description of Folder 1
 
 A repository of plant species co-occurrence data (vegetation data, phytosociological relevés).
 
