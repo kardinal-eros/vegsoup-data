@@ -1,0 +1,14 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,elevation,type,alliance.code,alliance,association,soil,comment,location,observer
+fake01,100,0,0,0,100,1,0,0,0,"0,9","0,25",4,4,NW,15,0,0,0,2024-05-15,47.782542,13.248716,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake02,98,0,0,0,98,1,0,0,0,"0,7","0,1",4,4,F,0,0,2,0,2024-05-19,47.782589,13.245974,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake03,98,0,0,0,98,1,0,0,0,"0,6","0,1",4,4,F,0,0,2,0,2024-05-19,47.782327,13.246568,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake04,94,0,0,0,94,30,0,0,0,"0,6","0,1",4,4,NE,7,0,6,0,2024-05-19,47.782336,13.246060,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake05,93,0,0,0,93,1,0,0,0,"0,6","0,1",4,4,WNW,30,0,7,0,2024-05-19,47.782526,13.246836,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake06,99,0,0,0,99,1,0,0,0,"0,6","0,1",4,4,WSW,15,0,1,0,2024-05-19,47.782724,13.246723,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake07,97,0,0,0,97,15,0,0,0,"0,6","0,1",4,4,NW,15,0,3,0,2024-05-19,47.782148,13.248162,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake08,99,0,0,0,99,50,0,0,0,"0,6","0,1",4,4,NW,15,0,1,0,2024-05-19,47.782365,13.247345,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake09,100,0,0,0,100,1,0,0,0,"0,9","0,3",4,4,F,0,0,0,0,2024-05-21,47.783270,13.246325,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake10,100,0,0,0,100,1,0,0,0,"0,85","0,25",4,4,NW,20,0,0,0,2024-05-21,47.782944,13.247172,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake11,100,0,0,0,100,1,0,0,0,"0,9","0,25",4,4,NW,15,0,0,0,2024-05-21,47.782592,13.247961,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake12,98,0,0,0,98,20,20,0,0,"0,7","0,15",4,4,NW,20,0,2,0,2024-05-21,47.782164,13.249650,5,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Faistenau, Kesselmannlift",T. Eberl
+fake13,92,0,0,0,92,20,0,0,0,"0,6","0,1",4,4,ENE,5,0,8,0,2024-05-21,47.782450,13.245939,5,,pasture,MOL-01C,Cynosurion cristati Tx. 1947,,,,"Faistenau, Kesselmannlift",T. Eberl
