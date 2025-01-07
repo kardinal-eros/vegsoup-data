@@ -61,11 +61,10 @@ make <- function (tab = 1) {
 obj <- sapply(1:4, make)
 obj <- do.call("bind", obj)
 
-p <- readOGR("/Users/roli/Documents/vegsoup-data/dullnig1989", "Dullnig1989",
-	stringsAsFactors = FALSE, verbose = FALSE)
+p <- vect("~/Documents/vegsoup-data/dullnig1989/Dullnig1989.shp")
 p <- p[match(p$PLOT, rownames(obj)), ]
-obj$longitude <- coordinates(p)[, 1]
-obj$latitude <- coordinates(p)[, 2]
+obj$longitude <- geom(p, df = TRUE)$x
+obj$latitude <- geom(p, df = TRUE)$y
 obj$accuracy <- p$ACCURACY
 
 coordinates(obj) <- ~longitude+latitude

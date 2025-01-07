@@ -1,9 +1,8 @@
 library(vegsoup)
-library(rgdal)
 library(readxl)
 library(linktaxa)
 
-rm(list = ls())
+
 load("~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/rma.rda")
 
 #	change taxonomy of vegsoup object according to this source
@@ -13,9 +12,8 @@ i <- read.csv("~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/taxon2lfu
 #	reference taxonomy stored as csv file, state april 2022
 #	zip("~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/lfucodepage.csv.zip", "~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/lfucodepage.csv", flags = "-r9Xj")
 
-unzip("~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/lfucodepage.csv.zip")
-z <- read.csv("~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/lfucodepage.csv")
-file.remove("~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/lfucodepage.csv")
+zip <- "~/Documents/vegsoup-data/rosenheim-mühldorf fields dta/lfucodepage.csv.zip"
+z <- read.csv(unz(zip, "lfucodepage.csv"))
 
 z <- z[ z$Synonym == 0, ]
 z <- z[ c("Taxon", "Autor", "Name_Deutsch", "Art_ID", "Gattung", "RLB", "RLD", "Schutz_BNatSchG")]

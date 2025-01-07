@@ -4,10 +4,10 @@
 library(vegsoup)
 library(RefManageR)
 library(knitr)
-library(rgdal)
 library(naturalsort)
 library(bibtex)
 library(stringr)
+library(terra)
 
 rm(list = ls())
 
@@ -110,6 +110,7 @@ if (build) {
 }
 
 #	pre load and process biblographic entities
+
 x <- sapply(file.path(path, x), function (x) {
 	read.bib(file.path(x, "references.bib"))
 }, simplify = FALSE)
@@ -192,11 +193,10 @@ save(X, file = file.path(path, "mirror", "mirror.rda"))
 
 #	save ESRI Shapefile
 x <- data.frame(coordinates(X), sites(X))
-coordinates(x) <- ~x + y
+coordinates(x) <- ~ x + y
 proj4string(x) <- CRS("+init=epsg:4326")
-dsn <- file.path(path.expand(path), "mirror")
-writeOGR(x, dsn, "mirror", driver = "ESRI Shapefile",
-	layer_options = "ENCODING=UTF-8", overwrite_layer = TRUE)
+file <- file.path(path.expand(path), "mirror", "mirror.shp")
+writeVector(vect(x), file, overwrite = TRUE)
 
 #	summary to be included in README.md
 src <- as.data.frame(table(X$author))

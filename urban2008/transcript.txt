@@ -14,6 +14,6 @@ Orobanche teucrii                     +
 Teucrium montanum                     1  
 Vincetoxicum hirundinaria             1  
  
-x: 11.24448, y: 47.59513, accuracy: 200, date: 2001-09-01, elevation: 1160, gridcell: 8433/1, hcov: 60, location: Kocheler Berge, Hirschberg Südabfall, Rauhgrashalde, observer: R. Urban  & A. Mayer, alliance.code: THL-05C, alliance: Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950, richness: 14, author: R Urban, A Mayer, citation: Urban R, Mayer A (2008). “Floristische und vegetationskundliche Besonderheiten aus den Bayerischen Alpen - Funde im Rahmen der
-Alpenbiotopkartierung Teil 3.” _Berichte der Bayerischen Botanischen Gesellschaft_, *78*, 103-128.
+x: 11.24448, y: 47.59513, accuracy: 200, date: 2001-09-01, elevation: 1160, gridcell: 8433/1, hcov: 60, location: Kocheler Berge, Hirschberg Südabfall, Rauhgrashalde, observer: R. Urban  & A. Mayer, alliance.code: THL-05C, alliance: Stipion calamagrostis Jenny-Lips ex Br.-Bl. 1950, richness: 14, author: R Urban, A Mayer, citation: Urban R, Mayer A (2008). “Floristische und vegetationskundliche Besonderheiten aus den Bayerischen Alpen - Funde
+im Rahmen der Alpenbiotopkartierung Teil 3.” _Berichte der Bayerischen Botanischen Gesellschaft_, *78*, 103-128.
 <http://www.bbgev.de/berichte/078_2008/bayerische_alpen.pdf>.

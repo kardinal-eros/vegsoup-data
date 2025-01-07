@@ -1,6 +1,7 @@
 library(vegsoup)
 require(bibtex)
 
+
 path <- "~/Documents/vegsoup-data/dirnböck1997"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 key <- key[[1]]
@@ -21,7 +22,9 @@ XZ <- SpeciesTaxonomy(X, file.y = file)
 
 #	build "Vegsoup" object
 obj <- Vegsoup(XZ, Y, coverscale = "braun.blanquet2")
-coordinates(obj) <- ~Längengrad+Breitengrad
+obj$Längengrad <- as.numeric(gsub("E", "", obj$Längengrad))
+obj$Breitengrad <- as.numeric(gsub("N", "", obj$Längengrad))
+coordinates(obj) <- ~ Längengrad + Breitengrad
 proj4string(obj) <- CRS("+init=epsg:4326")
 
 names(obj) <- c("date", "tcov", "hcov", "scov", "expo", "pls", "elevation", "location", "slope", "observer", "remarks", "accuracy")

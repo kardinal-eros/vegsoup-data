@@ -1,10 +1,9 @@
 library(vegsoup)
 library(bibtex)
 
-path <- "~/Documents/vegsoup-data/eckkrammer2003"
-bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
-key <- key[[ 1 ]]
 
+path <- "/Users/roli/Documents/vegsoup-data/eckkrammer2003"
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 source(file.path(path, "MakeVegsoup 1.R"))
 source(file.path(path, "MakeVegsoup 2.R"))

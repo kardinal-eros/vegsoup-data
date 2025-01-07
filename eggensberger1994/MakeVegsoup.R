@@ -1,7 +1,7 @@
 require(vegsoup)
 library(bibtex)
 
-path <- "/Users/roli/Documents/vegsoup-data/eggensberger1994"
+path <- "~/Documents/vegsoup-data/eggensberger1994"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	table 10
