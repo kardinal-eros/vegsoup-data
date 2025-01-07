@@ -1,11 +1,6 @@
 Overview of the vegsoup-data repository
 =======================================
 
-Directory Structure
--------------------
-
-- [adnet dta](adnet dta): Description of Folder 1
-
 A repository of plant species co-occurrence data (vegetation data, phytosociological relevés).
 
 ***This is our vegetation database (spatial and temporal explicit species co-occurrence data). Essentially, it serves as an incubator for collecting data on vegetation plots. Currently, the repository contains a bunch of unpublished data sets, as well as computerized data taken from the literature.***
@@ -14,6 +9,13 @@ A repository of plant species co-occurrence data (vegetation data, phytosociolog
 The bibtex file `./refernces.bib` that is contained in each project folder gives intellectual property rights for a particular data set (see also section license). The *URL* field provides a link to a PDF-file in case of a literature source.
 
 ![](README.png)
+
+Directory Structure
+-------------------
+
+- [adnet dta](adnet dta): Description of Folder 1
+
+- [zwurms meschach dta](zwurms meschach dta): Description of Folder 1
 
 How to access and use the data sets
 -----------------------------------
