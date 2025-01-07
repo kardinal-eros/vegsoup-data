@@ -1,7 +1,7 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "/Users/roli/Dropbox/ENNACON/projekte/schneizlreuth/dta/relevees"
+path <- "~/Documents/vegsoup-data/schneizlreuth"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 
 #	cd '/Users/roli/Dropbox/ENNACON/projekte/schneizlreuth/dta/relevees'
