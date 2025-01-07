@@ -1,24 +1,3 @@
-<!--
-%\VignetteEngine{knitr::knitr}
-%\VignetteIndexEntry{RMarkdown Citations - Alphabetic Style}
--->
-
-    ## Loading required package: vegan
-
-    ## Loading required package: permute
-
-    ## Loading required package: lattice
-
-    ## This is vegan 2.6-6.1
-
-    ## Loading required package: sp
-
-    ## Registered S3 method overwritten by 'gclus':
-    ##   method         from 
-    ##   reorder.hclust vegan
-
-    ## This is vegsoup 0.2-9
-
 # Bibliographic references to data sets
 
 <a name=cite-ai></a><a name=cite-Aichinger1933></a><a name=cite-an></a><a name=cite-aw></a><a name=cite-aa></a><a name=cite-Amann2004></a><a name=cite-Amann2019></a><a name=cite-hraw></a><a name=cite-abaa></a><a name=cite-bb></a><a name=cite-ba></a><a name=cite-bs></a><a name=cite-Beiser2014></a><a name=cite-bg></a><a name=cite-bi></a><a name=cite-bt></a><a name=cite-bh></a><a name=cite-bu></a><a name=cite-bm></a><a name=cite-Chytry1995></a><a name=cite-Chytry1996></a><a name=cite-Chytry1997></a><a name=cite-ds></a><a name=cite-Diewald2005></a><a name=cite-Dirnboeck1997></a><a name=cite-Dirnboeck1997Corrigendium></a><a name=cite-Dullnig1989></a><a name=cite-Eberl2009></a><a name=cite-Eckkrammer2003></a><a name=cite-el></a><a name=cite-ew></a><a name=cite-Eggensberger1994></a><a name=cite-enwi></a><a name=cite-Erschbamer1992></a><a name=cite-ep></a><a name=cite-Exner2004></a><a name=cite-Faber1936></a><a name=cite-fw></a><a name=cite-fake></a><a name=cite-fb></a><a name=cite-fv></a><a name=cite-Fischer1998></a><a name=cite-flsg></a><a name=cite-Franz2000></a><a name=cite-Frey1995></a><a name=cite-fk></a><a name=cite-fu></a><a name=cite-gb></a><a name=cite-ga></a><a name=cite-gk></a><a name=cite-gs></a><a name=cite-ge></a><a name=cite-gm></a><a name=cite-go></a><a name=cite-Greimler1992></a><a name=cite-Griehser1993></a><a name=cite-Gruber2006></a><a name=cite-gu></a><a name=cite-hg></a><a name=cite-ha></a><a name=cite-Hartl1974></a><a name=cite-hk></a><a name=cite-Blaschka2014></a><a name=cite-hd></a><a name=cite-hw></a><a name=cite-wg></a><a name=cite-hb></a><a name=cite-Hoelzel1996></a><a name=cite-Hoerandl1991></a><a name=cite-hs></a><a name=cite-im></a><a name=cite-Isda1986></a><a name=cite-ia></a><a name=cite-jd></a><a name=cite-JennyLips1930></a><a name=cite-ijm></a><a name=cite-Kaiser2005></a><a name=cite-kb></a><a name=cite-Karrer1985></a><a name=cite-ks></a><a name=cite-kn></a><a name=cite-Krisai1996></a><a name=cite-lb></a><a name=cite-lg></a><a name=cite-Lippert1966></a><a name=cite-lp></a><a name=cite-mhbu></a><a name=cite-mhhf></a><a name=cite-mm></a><a name=cite-ms></a><a name=cite-Medicus2010></a><a name=cite-Meroth2013></a><a name=cite-Meroth2014></a><a name=cite-mb></a><a name=cite-md></a><a name=cite-Morton1947></a><a name=cite-Morton1950></a><a name=cite-mh></a><a name=cite-nardus></a><a name=cite-Niklfeld1964></a><a name=cite-Niklfeld1979></a><a name=cite-nb></a><a name=cite-Wittmann2014></a><a name=cite-od></a><a name=cite-ps></a><a name=cite-pb></a><a name=cite-Petrik2005></a><a name=cite-pg></a><a name=cite-Pils1994></a><a name=cite-rb></a><a name=cite-rx></a><a name=cite-rm></a><a name=cite-rw></a><a name=cite-ri></a><a name=cite-rk></a><a name=cite-Roithinger1996></a><a name=cite-rma></a><a name=cite-ro></a><a name=cite-saet></a><a name=cite-sd></a><a name=cite-skso></a><a name=cite-sr></a><a name=cite-sg></a><a name=cite-sh></a><a name=cite-Schmiederer2002></a><a name=cite-uknl></a><a name=cite-sw></a><a name=cite-sb></a><a name=cite-si></a><a name=cite-Sonnberger2009></a><a name=cite-Springer1990></a><a name=cite-Springer1993></a><a name=cite-sp></a><a name=cite-Stadler2011></a><a name=cite-Starzengruber1979></a><a name=cite-sf></a><a name=cite-sm></a><a name=cite-se></a><a name=cite-Strauch1992></a><a name=cite-Strauch2010></a><a name=cite-stbm></a><a name=cite-stpl></a><a name=cite-Strobl1985></a><a name=cite-st></a><a name=cite-sz></a><a name=cite-szwf></a><a name=cite-szeg></a><a name=cite-ssaut></a><a name=cite-ta></a><a name=cite-tb></a><a name=cite-tbl></a><a name=cite-th></a><a name=cite-tg></a><a name=cite-ts></a><a name=cite-tc></a><a name=cite-ul></a><a name=cite-uf></a><a name=cite-ui></a><a name=cite-ub></a><a name=cite-Urban1991></a><a name=cite-Urban1992></a><a name=cite-Urban2008></a><a name=cite-uh></a><a name=cite-um></a><a name=cite-ve></a><a name=cite-wa></a><a name=cite-wl></a><a name=cite-Wallnoefer2008></a><a name=cite-wh></a><a name=cite-wb></a><a name=cite-wk></a><a name=cite-ww></a><a name=cite-sww></a><a name=cite-saww></a><a name=cite-wf></a><a name=cite-Wittmann1997></a><a name=cite-Wittmann2007></a><a name=cite-ws></a><a name=cite-yb></a><a name=cite-zw></a><a name=cite-zess></a><a name=cite-zesd></a><a name=cite-Zimmermann2019></a>([Eberl,
