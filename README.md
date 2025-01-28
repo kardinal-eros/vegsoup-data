@@ -121,7 +121,7 @@ Principal standards of the phytosociological relevé follow the notation of Muci
 **Data on field record**
 
 > `plot` designation of sample plot (relevé)  
-> ` date` date of sampling (ISO 8601, yyyy-mm-dd)  
+> `date` date of sampling (ISO 8601, yyyy-mm-dd)  
 > `observer` name(s) of the author(s) of the relevé  
 > `alliance` provisional classification into syntaxon  
 > `association` optional  
@@ -132,7 +132,7 @@ Principal standards of the phytosociological relevé follow the notation of Muci
 **Geographic data**  
 
 > `location` locality, topographic name  
-> `expo` exposition, aspect  
+> `expo` exposition, aspect (N, NNE, NE, ENE, E, ESE, SE, SSE, S, SSW, SW, WSW, W, WNW, NW, NNW, and F for flat).
 > `slope` slope, inclination  
 
 Other fields, such as country, province (district), the nearest village, and altitude, can be obtained with the `reverseGeocode` function.
