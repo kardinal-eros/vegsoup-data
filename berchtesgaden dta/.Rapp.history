@@ -1,0 +1,341 @@
+source("/Users/roli/Documents/vegsoup-data/berchtesgaden dta/MakeVegsoup.R")
+library(vegsoup)#
+require(bibtex)#
+require(terra)#
+#
+path <- "~/Documents/vegsoup-data/berchtesgaden dta"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+# promote to class "Species"#
+#
+X <- species(file, sep = ";")#
+X <- X[, 1:4]
+file <- file.path(path, "sites.csv")#
+# promote to class "Sites"#
+Y <- sites(file, sep = ";")#
+Y$value <- gsub(",", ".", Y$value)
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+# promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
+# promote to class "Vegsoup"#
+obj <- Vegsoup(XZ, Y, coverscale = "domin")
+#	add coordinates from polygon#
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")#
+pg0 <- project(pg, CRS("+init=epsg:3857"))
+d <- numeric(nrow(pg0))
+pg0
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")
+pg
+require(terra)#
+library(vegsoup)#
+require(bibtex)#
+path <- "~/Documents/vegsoup-data/berchtesgaden dta"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+# promote to class "Species"#
+#
+X <- species(file, sep = ";")#
+X <- X[, 1:4]#
+#
+file <- file.path(path, "sites.csv")#
+# promote to class "Sites"#
+Y <- sites(file, sep = ";")#
+Y$value <- gsub(",", ".", Y$value)#
+#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+# promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
+# promote to class "Vegsoup"#
+obj <- Vegsoup(XZ, Y, coverscale = "domin")#
+#
+#	add coordinates from polygon#
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")#
+pg0 <- project(pg, CRS("+init=epsg:3857"))
+source("/Users/roli/Documents/vegsoup-data/berchtesgaden dta/MakeVegsoup.R")
+require(terra)#
+library(vegsoup)#
+require(bibtex)#
+path <- "~/Documents/vegsoup-data/berchtesgaden dta"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+# promote to class "Species"#
+#
+X <- species(file, sep = ";")#
+X <- X[, 1:4]#
+#
+file <- file.path(path, "sites.csv")#
+# promote to class "Sites"#
+Y <- sites(file, sep = ";")#
+Y$value <- gsub(",", ".", Y$value)#
+#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+# promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
+# promote to class "Vegsoup"#
+obj <- Vegsoup(XZ, Y, coverscale = "domin")#
+#
+#	add coordinates from polygon#
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")
+pg
+vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")
+require(terra)
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")
+pg0 <- project(pg, CRS("+init=epsg:3857"))
+require(terra)
+pg0 <- project(pg, CRS("+init=epsg:3857"))
+pg
+require(terra)#
+library(vegsoup)#
+require(bibtex)#
+path <- "~/Documents/vegsoup-data/berchtesgaden dta"#
+bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key#
+#
+file <- file.path(path, "species.csv")#
+# promote to class "Species"#
+#
+X <- species(file, sep = ";")#
+X <- X[, 1:4]#
+#
+file <- file.path(path, "sites.csv")#
+# promote to class "Sites"#
+Y <- sites(file, sep = ";")#
+Y$value <- gsub(",", ".", Y$value)#
+#
+file <- "~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv"#
+# promote to class "SpeciesTaxonomy"#
+XZ <- SpeciesTaxonomy(X, file.y = file)#
+# promote to class "Vegsoup"#
+obj <- Vegsoup(XZ, Y, coverscale = "domin")#
+#
+#	add coordinates from polygon#
+pg <- vect("~/Documents/vegsoup-data/berchtesgaden dta/sites.shp")
+pg
+class(pg)
+#	this is a build script for all available data sets#
+#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#
+library(vegsoup)#
+library(RefManageR)#
+library(knitr)#
+library(naturalsort)#
+library(bibtex)#
+library(stringr)#
+library(terra)#
+#
+rm(list = ls())#
+#
+path <- "~/Documents/vegsoup-data"#
+x <- list.files(path)#
+#
+#	files to ignore#
+ii <- c(#
+#	other files#
+	"CHANGES.md",#
+	"README.md",#
+	"README.png",#
+	"mirror",#
+	"givd",	# to be deleted#
+#	unfinished data sets#
+	"dirnböck1999",#
+	"brunner2011",#
+	"dunzendorfer1980",#
+	"greimler1996",#
+	"greimler1997",#
+	"grims1982",#
+	"hohewand fence dta",#
+	"hohewand transect dta",#
+	"jakubowsky1996",#
+	"monte negro dta",#
+	"nußbaumer2000",#
+	"pflugbeil2012",#
+	"ruttner1994",#
+	"sobotik1998",#
+	"schwarz1989",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
+	"surina2004",#
+#	occurrence plots only#
+	"alt ems dta",#
+	"adnet dta",#
+	"bräumauer dta",#
+	"glasenbachklamm dta",#
+	"graswang dta",#
+	"illschlucht dta",#
+	"jansenmäuer dta",#
+	"kreuzmauer dta",#
+	"lichtl dta",#
+	"luegstein dta",#
+	"montikel dta",#
+	"priental dta",#
+	"reitnerkogel dta",#
+	"schartenmauer dta",#
+	"schieferstein dta",#
+	"schrattenboden dta",#
+	"wirlingwand dta",#
+	"ybbs and türnitz prealps dta",#
+	"zwurms meschach dta",#
+#	independent taxonomy#
+	"crete dta",#
+	"javakheti dta",#
+	"cape hallet lichen dta",#
+	"salzkammergut lichen dta",#
+	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
+	"aspro dta",#
+	"donauauen dta",#
+	"enzersfeld dta",#
+	"fischamend dta",#
+	"hainburg dta",#
+	"kirchdorf and steyr-land dta",#
+	"mountain hay meadows dta",#
+	"nackter sattel dta",#
+	"neusiedlersee dta",#
+	"pilgersdorf dta",#
+	"ravine forest dta",#
+	"reichraming dta",#
+	"sankt margarethen dta",#
+	"seekirchen dta",#
+	"südburgenland dta",#
+	"traun and steyr and ennstal dta",#
+	"vorarlberg dta",#
+	"wien dta",#
+	"wienerwald dta",#
+	"witzelsdorf dta"#
+)#
+#
+#	test project exclusion list#
+stopifnot(all(ii %in% x))#
+#
+x <- x[ -match(ii, x) ]#
+#
+#	run build update?#
+build = TRUE#
+#
+#	WARNING, running a Make-file will#
+#	delete *all* objects in the enviroment when leaving.#
+if (build) {#
+	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
+		cat(x, "\n")#
+		source(x)#
+		} )#
+}
+#	this is a build script for all available data sets#
+#	referencing to https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008#
+#
+library(vegsoup)#
+library(RefManageR)#
+library(knitr)#
+library(naturalsort)#
+library(bibtex)#
+library(stringr)#
+library(terra)#
+#
+rm(list = ls())#
+#
+path <- "~/Documents/vegsoup-data"#
+x <- list.files(path)#
+#
+#	files to ignore#
+ii <- c(#
+#	other files#
+	"CHANGES.md",#
+	"README.md",#
+	"README.png",#
+	"mirror",#
+	"givd",	# to be deleted#
+#	unfinished data sets#
+	"dirnböck1999",#
+	"brunner2011",#
+	"dunzendorfer1980",#
+	"greimler1996",#
+	"greimler1997",#
+	"grims1982",#
+	"hohewand fence dta",#
+	"hohewand transect dta",#
+	"jakubowsky1996",#
+	"monte negro dta",#
+	"nußbaumer2000",#
+	"pflugbeil2012",#
+	"ruttner1994",#
+	"sobotik1998",#
+	"schwarz1989",#
+	"stadler1991", # to be deleted#
+	"stadler1992", # to be deleted#
+	"surina2004",#
+#	occurrence plots only#
+	"alt ems dta",#
+	"adnet dta",#
+	"bräumauer dta",#
+	"glasenbachklamm dta",#
+	"graswang dta",#
+	"illschlucht dta",#
+	"jansenmäuer dta",#
+	"kreuzmauer dta",#
+	"lichtl dta",#
+	"luegstein dta",#
+	"montikel dta",#
+	"priental dta",#
+	"reitnerkogel dta",#
+	"schartenmauer dta",#
+	"schieferstein dta",#
+	"schrattenboden dta",#
+	"wirlingwand dta",#
+	"ybbs and türnitz prealps dta",#
+	"zwurms meschach dta",#
+#	independent taxonomy#
+	"crete dta",#
+	"javakheti dta",#
+	"cape hallet lichen dta",#
+	"salzkammergut lichen dta",#
+	"kalkalpen lichen dta",#
+#	custom coverscale and taxonomy#
+	"furka dta",#
+#	turboveg taxonomy (keep in sync with *mirror turboveg.R*)#
+	"aspro dta",#
+	"donauauen dta",#
+	"enzersfeld dta",#
+	"fischamend dta",#
+	"hainburg dta",#
+	"kirchdorf and steyr-land dta",#
+	"mountain hay meadows dta",#
+	"nackter sattel dta",#
+	"neusiedlersee dta",#
+	"pilgersdorf dta",#
+	"ravine forest dta",#
+	"reichraming dta",#
+	"sankt margarethen dta",#
+	"seekirchen dta",#
+	"südburgenland dta",#
+	"traun and steyr and ennstal dta",#
+	"vorarlberg dta",#
+	"wien dta",#
+	"wienerwald dta",#
+	"witzelsdorf dta",#
+#	errors#
+	"berchtesgaden dta"#
+)#
+#
+#	test project exclusion list#
+stopifnot(all(ii %in% x))#
+#
+x <- x[ -match(ii, x) ]#
+#
+#	run build update?#
+build = TRUE#
+#
+#	WARNING, running a Make-file will#
+#	delete *all* objects in the enviroment when leaving.#
+if (build) {#
+	sapply(file.path(path, x, "MakeVegsoup.R"), function (x) {#
+		cat(x, "\n")#
+		source(x)#
+		} )#
+}
+source("/Users/roli/Documents/vegsoup-data/dullnig1989/MakeVegsoup.R")
+library(sp)
+?sp
