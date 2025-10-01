@@ -1,0 +1,163 @@
+plot,cov,mcov,hcov,lcov,bare,type,expo,slope,slope.verbode,stones,date,latitude,longitude,accuracy,elevation,alliance.code,alliance,association,bay.komp.v.type,comment,location,observer,soil,t1cov,t2cov,scov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,remarks
+nber001,,,,,,meadow,WNW,17,moderate,0,2024-05-12,48.569289,13.576727,5,294,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,0,0,0,,,5,5,Veg_P1
+nber002,,,,,,meadow,WNW,17,moderate,0,2024-05-12,48.569920,13.577108,5,294,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,1,1,1,,,5,5,Veg_P2
+nber003,,,,,,meadow,WSW,1,flat,0,2024-05-12,48.575567,13.579055,5,298,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,2,2,2,,,5,5,Veg_P9.3
+nber004,85,1,80,50,15,meadow,WSW,2,flat,0,2024-05-12,48.576166,13.579353,5,298,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,3,3,3,,,5,5,Veg_P9.1
+nber005,98,10,80,50,2,meadow,NNW,2,flat,0,2024-05-24,48.578434,13.580738,5,302,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,4,4,4,,,5,5,Veg_P10
+nber006,75,10,70,25,3,meadow,WSW,4,very gentle,0,2024-05-21,48.612458,13.579617,5,348,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,5,5,5,,,5,5,Veg_P17.1
+nber007,85,25,60,40,3,meadow,W,2,flat,0,2024-05-21,48.612940,13.579311,5,349,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,6,6,6,,,5,5,Veg_P18.5
+nber008,90,10,80,40,2,meadow,WSW,2,flat,0,2024-05-21,48.612966,13.579091,5,348,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,7,7,7,,,5,5,Veg_P18.6
+nber009,65,5,62,75,2,meadow,W,1,flat,0,2024-05-21,48.613101,13.579190,5,349,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,8,8,8,,,5,5,Veg_P18.4
+nber010,85,3,60,80,2,meadow,WSW,1,flat,0,2024-05-21,48.613345,13.579234,5,349,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,9,9,9,,,5,5,Veg_P18.3
+nber011,85,3,70,60,3,meadow,SW,1,flat,0,2024-05-21,48.613349,13.578976,5,349,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,10,10,10,,,5,5,Veg_P18.1
+nber012,85,3,65,70,2,meadow,NW,2,flat,0,2024-05-21,48.613706,13.578994,5,349,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,11,11,11,,,5,5,Veg_P18.2
+nber013,99,55,75,35,1,meadow,E,3,very gentle,0,2024-05-29,48.622130,13.573241,5,358,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,12,12,12,,,5,5,Veg_P19.2
+nber014,98,3,95,45,1,meadow,E,5,very gentle,0,2024-05-29,48.622223,13.573024,5,359,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,13,13,13,,,5,5,Veg_P19.1
+nber015,75,1,70,15,20,meadow,F,0,flat,0,2024-05-21,48.625612,13.572323,5,364,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,14,14,14,,,5,5,Veg_P21.3
+nber016,97,3,93,35,2,meadow,W,3,very gentle,0,2024-05-21,48.625750,13.572256,5,365,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,15,15,15,,,5,5,Veg_P22.2
+nber017,93,5,85,25,3,meadow,SSW,2,flat,0,2024-05-21,48.625857,13.572558,5,365,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,16,16,16,,,5,5,Veg_P22.3
+nber018,98,3,95,35,1,meadow,SSW,2,flat,0,2024-05-21,48.625912,13.572162,5,365,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,17,17,17,,,5,5,Veg_P22.1
+nber019,95,3,90,60,1,meadow,N,1,flat,0,2024-05-21,48.625931,13.572677,5,365,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,18,18,18,,,5,5,Veg_P22.5
+nber020,98,3,95,15,1,meadow,E,1,flat,0,2024-05-21,48.626001,13.572454,5,365,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,19,19,19,,,5,5,Veg_P22.4
+nber021,70,3,68,50,3,meadow,ESE,1,flat,0,2024-05-21,48.626088,13.572005,5,365,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,20,20,20,,,5,5,Veg_P20.2
+nber022,98,10,97,15,1,meadow,SE,1,flat,0,2024-06-11,48.654593,13.559225,5,380,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,21,21,21,,,5,5,Veg_P40.1
+nber023,,,,,,meadow,E,1,flat,0,2024-05-06,48.671893,13.535848,5,410,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,22,22,22,,,5,5,Veg_P57
+nber024,,,,,,meadow,ESE,1,flat,0,2024-05-06,48.672061,13.535669,5,411,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,23,23,23,,,5,5,Veg_P58.2
+nber025,96,10,94,0,,meadow,SSE,1,flat,0,2024-05-06,48.672133,13.535123,5,411,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,24,24,24,,,5,5,Veg_P58
+nber026,,,,,,meadow,WNW,1,flat,0,2024-05-06,48.672111,13.535982,5,410,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,25,25,25,,,5,5,Veg_P58.5
+nber027,,,,,,meadow,SSE,3,very gentle,0,2024-05-06,48.672286,13.535603,5,411,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,26,26,26,,,5,5,Veg_P58.3
+nber028,,,,,,meadow,ESE,1,flat,0,2024-05-06,48.672322,13.534906,5,411,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,27,27,27,,,5,5,Veg_P59.1
+nber029,,,,,,meadow,ESE,2,flat,0,2024-05-06,48.672390,13.536036,5,411,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,!= tab34,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,28,28,28,,,5,5,Veg_P58.4
+nber030,,,,,,meadow,NW,1,flat,0,2024-05-06,48.672524,13.535199,5,411,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,29,29,29,,,5,5,Veg_P59
+nber031,,,,,,meadow,WSW,1,flat,0,2024-05-06,48.672684,13.535513,5,412,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,30,30,30,,,5,5,Veg_P61
+nber032,,,,,,meadow,SSW,8,gentle,0,2024-05-08,48.674565,13.532876,5,414,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,31,31,31,,,5,5,Veg_P66.2
+nber033,95,10,95,15,1,meadow,F,0,flat,0,2024-05-08,48.674647,13.532389,5,413,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,32,32,32,,,5,5,Veg_P66
+nber034,95,10,95,10,2,meadow,SW,13,moderate,0,2024-05-08,48.674871,13.532715,5,418,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,33,33,33,,,5,5,Veg_P66.1
+nber035,85,,,,,meadow,SE,13,moderate,0,2024-05-08,48.675778,13.531119,5,415,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,34,34,34,,,5,5,Veg_P68
+nber036,,,,,,meadow,SE,2,flat,0,2024-05-08,48.675565,13.530033,5,416,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,35,35,35,,,5,5,Veg_P68.1
+nber037,,,,,,meadow,SE,1,flat,0,2024-05-08,48.675838,13.528555,5,414,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,36,36,36,,,5,5,Veg_69
+nber038,,,,,,meadow,F,0,flat,0,2024-05-08,48.676188,13.528291,5,415,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,37,37,37,,,5,5,Veg_P69.1
+nber039,,,,,,meadow,SSW,3,very gentle,0,2024-05-08,48.677390,13.526778,5,415,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,!= tab34,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,38,38,38,,,5,5,Veg_P69.2
+nber040,99,3,98,15,1,meadow,SW,4,very gentle,0,2024-05-29,48.686551,13.529728,5,419,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,39,39,39,,,5,5,Veg_P89.1
+nber041,97,3,95,20,2,meadow,SSE,2,flat,0,2024-05-29,48.686640,13.529493,5,418,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,40,40,40,,,5,5,Veg_P89.2
+nber042,99,5,98,10,1,meadow,WSW,9,gentle,0,2024-05-29,48.687064,13.529511,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,41,41,41,,,5,5,Veg_P89.3
+nber043,98,30,93,15,1,meadow,S,1,flat,0,2024-05-29,48.689762,13.527340,5,420,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,42,42,42,,,5,5,Veg_P102.1
+nber044,97,10,95,15,1,meadow,NW,1,flat,0,2024-05-29,48.689766,13.526775,5,419,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,43,43,43,,,5,5,Veg_P102.4
+nber045,95,15,90,15,3,meadow,ESE,1,flat,0,2024-05-29,48.689960,13.527034,5,419,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,44,44,44,,,5,5,Veg_P102.2
+nber046,97,10,95,20,1,meadow,WSW,1,flat,0,2024-05-29,48.689949,13.526619,5,419,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,45,45,45,,,5,5,Veg_P102.3
+nber047,95,15,90,20,1,meadow,F,0,flat,0,2024-05-13,48.689999,13.526279,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,46,46,46,,,5,5,Veg_P107.1
+nber048,99,15,90,10,1,meadow,ENE,2,flat,0,2024-05-13,48.690306,13.526088,5,419,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,47,47,47,,,5,5,Veg_P107
+nber049,,,,,,meadow,E,8,gentle,0,2024-05-13,48.690435,13.525793,5,420,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,48,48,48,,,5,5,Veg_P100.1
+nber050,98,5,97,15,1,meadow,WNW,2,flat,0,2024-06-04,48.689945,13.528083,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,49,49,49,,,5,5,Veg_P125.10
+nber051,98,15,90,15,1,meadow,W,1,flat,0,2024-06-04,48.690047,13.528173,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,50,50,50,,,5,5,Veg_P125.9
+nber052,99,1,95,15,1,meadow,WSW,1,flat,0,2024-06-04,48.690399,13.527757,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,51,51,51,,,5,5,Veg_125.8
+nber053,99,1,97,10,1,meadow,SE,2,flat,0,2024-06-04,48.690619,13.527254,5,419,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,52,52,52,,,5,5,Veg_125.7
+nber054,98,3,90,15,1,meadow,SW,1,flat,0,2024-06-04,48.691730,13.526830,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,53,53,53,,,5,5,Veg_P125.6
+nber055,99,1,90,20,1,meadow,NE,3,very gentle,0,2024-06-04,48.692779,13.526306,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,54,54,54,,,5,5,Veg_P125.1
+nber056,,,,,,meadow,F,0,flat,0,2024-06-04,48.693296,13.526415,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,55,55,55,,,5,5,Veg_P125.2
+nber057,98,1,96,10,1,meadow,NE,1,flat,0,2024-06-04,48.693145,13.527462,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,56,56,56,,,5,5,Veg_P125.5
+nber058,92,5,85,25,2,meadow,NNW,3,very gentle,0,2024-06-04,48.693181,13.527805,5,420,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,57,57,57,,,5,5,Veg_P125.4
+nber059,99,2,90,20,1,meadow,WSW,2,flat,0,2024-06-04,48.693415,13.528301,5,420,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,58,58,58,,,5,5,Veg_P125.3
+nber060,99,1,95,20,1,meadow,WNW,1,flat,0,2024-06-03,48.700226,13.529607,5,421,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,59,59,59,,,5,5,Veg_P131.3
+nber061,99,3,98,20,1,meadow,F,0,flat,0,2024-06-03,48.700804,13.529567,5,422,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,60,60,60,,,5,5,Veg_P131.8
+nber062,85,10,80,40,1,meadow,ESE,5,very gentle,0,2024-06-03,48.701089,13.529347,5,422,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,61,61,61,,,5,5,Veg_P131.2
+nber063,93,10,87,25,1,meadow,E,7,gentle,0,2024-06-03,48.701260,13.529398,5,422,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,62,62,62,,,5,5,Veg_P131.1
+nber064,99,93,30,3,1,meadow,S,1,flat,0,2024-06-03,48.701085,13.529705,5,421,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,63,63,63,,,5,5,Veg_P131.9
+nber065,97,3,95,20,1,meadow,W,1,flat,0,2024-06-03,48.701501,13.530130,5,421,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,64,64,64,,,5,5,Veg_131.7
+nber066,98,3,96,30,1,meadow,SW,1,flat,0,2024-06-03,48.701586,13.530451,5,422,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,65,65,65,,,5,5,Veg_131.6
+nber067,99,3,97,15,1,meadow,WSW,5,very gentle,0,2024-06-03,48.702841,13.529869,5,422,,,,G11,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,66,66,66,,,5,5,Veg_131.5
+nber068,99,3,97,25,1,meadow,SW,2,flat,0,2024-06-03,48.703103,13.530078,5,422,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,67,67,67,,,5,5,Veg_P131.4
+nber069,95,1,93,10,5,meadow,F,0,flat,0,2024-05-29,48.704285,13.530004,5,422,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,68,68,68,,,5,5,Veg_P138.1
+nber070,98,3,95,10,2,meadow,WNW,2,flat,0,2024-05-29,48.704275,13.530240,5,422,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,69,69,69,,,5,5,Veg_P138.2
+nber071,,,,,,meadow,W,1,flat,0,2024-05-09,48.705041,13.529771,5,422,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,70,70,70,,,5,5,Veg_P140_2
+nber072,,,,,,meadow,E,2,flat,0,2024-05-09,48.705840,13.529991,5,422,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,71,71,71,,,5,5,Veg_P140
+nber073,,,,,,meadow,E,19,moderate,0,2024-05-23,48.709517,13.528835,5,438,,,,unresolved,"keine Artenliste, Dummy Art Calamagrostis epigejos eingetragen",Erlautal,L. Bofinger,,0,0,0,72,72,72,,,5,5,SF_Verbuscht!
+nber074,99,30,97,15,1,meadow,ENE,5,very gentle,0,2024-05-23,48.709597,13.529564,5,423,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,73,73,73,,,5,5,Veg_P144.6
+nber075,97,35,90,30,1,meadow,ENE,14,moderate,0,2024-05-23,48.709689,13.529348,5,425,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,74,74,74,,,5,5,Veg_P144.5
+nber076,99,35,85,15,1,meadow,ENE,3,very gentle,0,2024-05-23,48.709899,13.529591,5,423,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,75,75,75,,,5,5,Veg_P144.1
+nber077,95,20,90,15,1,meadow,ENE,15,moderate,0,2024-05-23,48.709947,13.529213,5,426,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,76,76,76,,,5,5,Veg_P144.4
+nber078,99,35,82,15,1,meadow,ENE,4,very gentle,0,2024-05-23,48.709981,13.529451,5,423,,,,G212,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,77,77,77,,,5,5,Veg_P144.2
+nber079,99,25,97,10,1,meadow,E,1,flat,0,2024-05-23,48.710249,13.529507,5,423,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,78,78,78,,,5,5,Veg_P144.3
+nber080,90,10,60,50,1,meadow,SW,19,moderate,0,2024-05-19,48.712724,13.541847,5,434,,,,G212-GU651L,,Erlautal,L. Bofinger,,0,0,0,79,79,79,,,5,5,SF_Haberm
+nber081,90,10,87,20,3,meadow,SSW,14,moderate,0,2024-05-19,48.712225,13.542137,5,426,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,80,80,80,,,5,5,Veg_FG152.1
+nber082,,,,,,meadow,S,1,flat,0,2024-05-19,48.712003,13.543008,5,426,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,81,81,81,,,5,5,Veg_FG147.4
+nber083,98,5,93,10,1,meadow,WNW,1,flat,0,2024-05-19,48.712024,13.543457,5,426,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,82,82,82,,,5,5,Veg_FG147.3
+nber084,85,15,84,20,4,meadow,ENE,1,flat,0,2024-05-19,48.711864,13.543519,5,426,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,83,83,83,,,5,5,Veg_FG147.2
+nber085,85,10,83,25,3,meadow,F,0,flat,0,2024-05-19,48.711698,13.543631,5,426,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,84,84,84,,,5,5,Veg_FG147.1
+nber086,,,,,,meadow,ESE,9,gentle,0,2024-05-11,48.716644,13.546090,5,429,,,,G212-GU651L,,Erlautal,L. Bofinger,,0,0,0,85,85,85,,,5,5,SF_Teilfl
+nber087,85,15,83,35,4,meadow,NW,1,flat,0,2024-05-14,48.727804,13.552183,5,435,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,86,86,86,,,5,5,Veg_FG260
+nber088,85,5,84,25,3,meadow,F,0,flat,0,2024-05-14,48.727909,13.552401,5,435,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,87,87,87,,,5,5,Veg_FG260.1
+nber089,99,15,80,25,1,meadow,WSW,1,flat,0,2024-05-14,48.727995,13.552277,5,436,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,88,88,88,,,5,5,Veg_FG265
+nber090,98,25,75,20,1,meadow,SSE,3,very gentle,0,2024-05-14,48.728054,13.552031,5,436,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,89,89,89,,,5,5,Veg_FG_266.4
+nber091,99,5,95,40,1,meadow,SSE,2,flat,0,2024-05-14,48.728111,13.552195,5,436,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,90,90,90,,,5,5,Veg_FG266.3
+nber092,95,10,85,30,2,meadow,SSE,6,gentle,0,2024-05-14,48.728145,13.551984,5,437,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,91,91,91,,,5,5,Veg_FG_266.1
+nber093,98,5,20,95,1,meadow,ESE,5,very gentle,0,2024-05-14,48.728323,13.552131,5,437,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,92,92,92,,,5,5,Veg_FG_266.5
+nber094,99,15,98,15,1,meadow,SE,7,gentle,0,2024-05-14,48.728372,13.552314,5,437,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,93,93,93,,,5,5,Veg_FG266.2
+nber095,98,95,10,30,1,meadow,SSW,2,flat,0,2024-05-14,48.728449,13.552586,5,437,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,94,94,94,,,5,5,Veg_FG_266.6
+nber096,98,30,95,15,1,meadow,SSE,2,flat,0,2024-05-14,48.728398,13.552806,5,436,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,95,95,95,,,5,5,Veg_FG260.2
+nber097,90,5,85,50,2,meadow,S,1,flat,0,2024-06-12,48.728383,13.554939,5,437,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,96,96,96,,,5,5,Veg_FG271.2
+nber098,93,20,90,30,2,meadow,SW,1,flat,0,2024-06-12,48.728349,13.555176,5,437,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,97,97,97,,,5,5,Veg_FG271.1
+nber099,95,10,92,10,2,meadow,N,14,moderate,0,2024-05-19,48.727755,13.556079,5,444,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,98,98,98,,,5,5,Veg_FG262.2
+nber100,95,10,93,15,2,meadow,F,0,flat,0,2024-05-19,48.728229,13.556174,5,437,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,99,99,99,,,5,5,Veg_FG262.1
+nber101,85,15,80,20,3,meadow,SSW,5,very gentle,0,2024-05-15,48.728647,13.556810,5,438,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,100,100,100,,,5,5,Veg_FG270.8
+nber102,90,30,88,15,2,meadow,SSW,3,very gentle,0,2024-05-15,48.728575,13.557009,5,438,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,101,101,101,,,5,5,Veg_FG270.3
+nber103,85,15,80,25,3,meadow,S,4,very gentle,0,2024-05-15,48.728554,13.557316,5,438,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,102,102,102,,,5,5,Veg_FG270.7
+nber104,93,30,90,15,2,meadow,SSW,3,very gentle,0,2024-05-15,48.728454,13.557322,5,438,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,103,103,103,,,5,5,Veg_FG270.4
+nber105,95,30,90,15,1,meadow,SSW,6,gentle,0,2024-05-15,48.728456,13.557699,5,438,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,104,104,104,,,5,5,Veg_FG270.6
+nber106,95,10,93,10,2,meadow,SW,7,gentle,0,2024-05-15,48.728399,13.557925,5,438,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,105,105,105,,,5,5,Veg_FG270.9
+nber107,95,30,90,15,2,meadow,F,0,flat,0,2024-05-14,48.728249,13.557883,5,438,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,106,106,106,,,5,5,Veg_FG270.2
+nber108,90,15,25,85,3,meadow,WSW,1,flat,0,2024-05-19,48.727878,13.559343,5,439,,,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,107,107,107,,,5,5,Veg_FG259.4
+nber109,90,10,87,15,3,meadow,NNE,6,gentle,0,2024-05-19,48.727687,13.559213,5,439,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,108,108,108,,,5,5,Veg_FG259.3
+nber110,85,10,80,25,5,meadow,NE,2,flat,0,2024-05-19,48.727487,13.559069,5,441,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,109,109,109,,,5,5,Veg_FG259.2
+nber111,90,10,98,10,3,meadow,NNE,7,gentle,0,2024-05-19,48.727165,13.559909,5,440,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,110,110,110,,,5,5,Veg_FG259.5
+nber112,95,5,93,15,2,meadow,SW,1,flat,0,2024-05-19,48.727202,13.560462,5,439,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,111,111,111,,,5,5,Veg_FG259.6
+nber113,95,15,90,15,3,meadow,NNE,1,flat,0,2024-05-17,48.726821,13.560726,5,439,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,112,112,112,,,5,5,Veg_FG259.1
+nber114,90,15,87,15,5,meadow,N,1,flat,0,2024-05-17,48.726652,13.561320,5,439,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,113,113,113,,,5,5,Veg_FG257.3
+nber115,90,15,85,25,5,meadow,F,0,flat,0,2024-05-17,48.726836,13.562053,5,440,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,!= tab34,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,114,114,114,,,5,5,Veg_FG257.1
+nber116,85,30,80,35,7,meadow,ESE,1,flat,0,2024-05-17,48.726260,13.562200,5,441,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,115,115,115,,,5,5,Veg_FG255.1
+nber117,85,30,80,30,6,meadow,NNE,3,very gentle,0,2024-05-17,48.726565,13.562529,5,440,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,!= tab34,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,116,116,116,,,5,5,Veg_FG255.2
+nber118,85,10,68,15,5,meadow,NE,15,moderate,0,2024-05-17,48.725150,13.560327,5,462,,,,G214-GU651E,!= tab34,Erlautal,L. Bofinger,,0,0,0,117,117,117,,,5,5,SF_FG
+nber119,95,10,93,40,2,meadow,NW,5,very gentle,0,2024-06-07,48.717989,13.593231,5,496,MOL-05B,Calthion palustris Tx. 1937,,G223-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,118,118,118,,,5,5,Veg_FG_182.1
+nber120,98,15,90,40,1,meadow,WNW,8,gentle,0,2024-06-07,48.718442,13.594171,5,498,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,119,119,119,,,5,5,Veg_FG190.4
+nber121,98,10,90,40,1,meadow,WNW,7,gentle,0,2024-06-07,48.718580,13.594291,5,498,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,120,120,120,,,5,5,Veg_FG190.3
+nber122,98,10,90,40,1,meadow,WNW,4,very gentle,0,2024-06-07,48.718701,13.594327,5,498,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,121,121,121,,,5,5,Veg_FG190.1
+nber123,90,25,85,30,2,pasture,ESE,2,flat,0,2024-05-16,48.714992,13.616483,5,583,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,122,122,122,,,5,5,Veg_FG172
+nber124,99,60,70,30,1,pasture,SE,10,gentle,0,2024-05-23,48.716099,13.616722,5,585,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,123,123,123,,,5,5,Veg_FG176
+nber125,85,15,80,10,2,pasture,ESE,10,gentle,0,2024-05-23,48.716397,13.616788,5,587,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,124,124,124,,,5,5,Veg_FG177
+nber126,95,30,85,15,1,pasture,SSE,6,gentle,0,2024-05-23,48.716823,13.617389,5,587,NAR-01C,Nardo-Juncion squarrosi (Oberd. 1957) Passarge 1964,,G332-GO6230*,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,125,125,125,,,5,5,Veg_FG177.3
+nber127,70,50,65,5,5,pasture,ESE,12,moderate,0,2024-05-23,48.717012,13.617663,5,589,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,126,126,126,,,5,5,Veg_FG183
+nber128,90,15,89,20,2,meadow,SSW,1,flat,0,2024-05-16,48.718816,13.620862,5,585,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,127,127,127,,,5,5,Veg_FG212.1
+nber129,,,,,,meadow,SW,1,flat,0,2024-05-16,48.718995,13.620864,5,585,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,128,128,128,,,5,5,Veg_FG212.2
+nber130,90,40,60,15,2,meadow,S,7,gentle,0,2024-05-16,48.719166,13.620936,5,586,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,129,129,129,,,5,5,Veg_FG215
+nber131,75,30,70,25,5,meadow,S,2,flat,0,2024-05-16,48.719243,13.621232,5,587,,,,G212,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,130,130,130,,,5,5,Veg_FG217
+nber132,70,35,60,15,5,meadow,ESE,1,flat,0,2024-05-16,48.719269,13.622078,5,586,,,,G212,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,131,131,131,,,5,5,Veg_FG218.2
+nber133,90,30,88,20,3,meadow,S,3,very gentle,0,2024-05-16,48.719108,13.622129,5,586,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,132,132,132,,,5,5,Veg_FG218
+nber134,55,10,57,80,2,meadow,ENE,1,flat,0,2024-05-20,48.719648,13.626248,5,586,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,133,133,133,,,5,5,Veg_FG231.6
+nber135,60,15,55,70,1,meadow,SSW,1,flat,0,2024-05-20,48.719672,13.626396,5,586,SCH-03B,Caricion fuscae Koch 1926,,M421-MF00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,134,134,134,,,5,5,Veg_FG231.5
+nber136,88,15,80,70,2,meadow,SW,1,flat,0,2024-05-16,48.719759,13.626584,5,586,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,135,135,135,,,5,5,Veg_FG231.4
+nber137,75,15,65,75,5,meadow,S,1,flat,0,2024-05-16,48.719773,13.626488,5,586,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,136,136,136,,,5,5,Veg_FG231.3
+nber138,70,5,69,75,3,meadow,SSE,3,very gentle,0,2024-05-16,48.719905,13.626198,5,587,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,137,137,137,,,5,5,Veg_FG231.1
+nber139,70,3,69,65,5,meadow,SW,8,gentle,0,2024-05-16,48.720011,13.626544,5,589,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,138,138,138,,,5,5,Veg_FG231.2
+nber140,98,20,95,15,1,meadow,NNW,3,very gentle,0,2024-05-20,48.719105,13.627363,5,587,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,139,139,139,,,5,5,Veg_FG220.6
+nber141,90,15,85,15,2,meadow,NNW,3,very gentle,0,2024-05-19,48.718939,13.627748,5,588,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,140,140,140,,,5,5,Veg_FG220.5
+nber142,97,25,92,10,1,meadow,NNW,3,very gentle,0,2024-05-20,48.718852,13.627919,5,589,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,141,141,141,,,5,5,Veg_FG220.4
+nber143,95,5,93,10,2,meadow,WNW,2,flat,0,2024-05-20,48.718995,13.628309,5,589,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,142,142,142,,,5,5,Veg_FG220.3
+nber144,75,3,75,15,10,meadow,WNW,1,flat,0,2024-05-20,48.719174,13.628067,5,588,MOL-05B,Calthion palustris Tx. 1937,,G221-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,143,143,143,,,5,5,Veg_FG220.7
+nber145,90,5,95,15,1,meadow,WNW,2,flat,0,2024-05-20,48.719170,13.628682,5,589,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,144,144,144,,,5,5,Veg_FG220.2
+nber146,97,5,96,5,1,meadow,NNW,4,very gentle,0,2024-05-20,48.719329,13.628401,5,588,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,145,145,145,,,5,5,Veg_FG220.8
+nber147,98,15,95,10,1,meadow,SE,2,flat,0,2024-05-20,48.719436,13.628452,5,588,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,146,146,146,,,5,5,Veg_FG220.9
+nber148,90,5,89,10,1,meadow,NNW,4,very gentle,0,2024-05-20,48.719420,13.628799,5,588,MOL-05B,Calthion palustris Tx. 1937,,G222-GN00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,147,147,147,,,5,5,Veg_FG220.1
+nber149,99,5,92,15,1,meadow,NNW,2,flat,0,2024-06-12,48.720428,13.630960,5,591,MOL-01B,Phyteumato-Trisetion Ellmauer et Mucina 1993,,G214-GY6520,"G214-GU651E, GY6520",FFH-Gebiet Erlau,L. Bofinger,,0,0,0,148,148,148,,,5,5,Veg_FG_235.1
+nber150,95,65,90,15,2,meadow,NNW,1,flat,0,2024-06-13,48.720457,13.631645,5,591,MOL-01B,Phyteumato-Trisetion Ellmauer et Mucina 1993,,G214-GY6520,"G214-GU651E, GY6520",FFH-Gebiet Erlau,L. Bofinger,,0,0,0,149,149,149,,,5,5,Veg_FG235.2
+nber151,85,16,75,60,3,meadow,WSW,3,very gentle,0,2024-05-20,48.720245,13.632708,5,592,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,150,150,150,,,5,5,Veg_FG300.4
+nber152,90,10,82,37,3,meadow,WSW,2,flat,0,2024-05-20,48.720342,13.632759,5,592,MOL-01B,Phyteumato-Trisetion Ellmauer et Mucina 1993,,G214-GY6520,!= tab34,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,151,151,151,,,5,5,Veg_FG300.5
+nber153,97,10,95,60,1,meadow,SSW,3,very gentle,0,2024-05-20,48.720309,13.633040,5,593,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G213-GX00BK,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,152,152,152,,,5,5,Veg_FG300.3
+nber154,85,15,82,40,3,meadow,SW,2,flat,0,2024-05-20,48.720156,13.632895,5,592,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,153,153,153,,,5,5,Veg_FG300.6
+nber155,80,10,75,50,3,meadow,SSW,4,very gentle,0,2024-05-20,48.720336,13.633175,5,593,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,154,154,154,,,5,5,Veg_FG300.7
+nber156,90,20,75,45,3,meadow,SSW,4,very gentle,0,2024-05-20,48.720242,13.633261,5,593,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,155,155,155,,,5,5,Veg_FG300.1
+nber157,97,10,95,50,1,meadow,SSW,1,flat,0,2024-05-20,48.720072,13.633163,5,592,MOL-05B,Calthion palustris Tx. 1937,,G211,,FFH-Gebiet Erlau,L. Bofinger,,0,0,0,156,156,156,,,5,5,Veg_FG300.2
+nber158,99,35,80,60,1,meadow,NE,9,gentle,0,2024-05-24,48.655740,13.437742,5,341,MOL-01B,Phyteumato-Trisetion Ellmauer et Mucina 1993,,G214-GY6520,,Erlautal,L. Bofinger,,0,0,0,157,157,157,,,5,5,SF_Fischhaus 1
+nber159,99,10,80,80,1,meadow,NE,24,steep,0,2024-05-24,48.655896,13.437507,5,340,MOL-01B,Phyteumato-Trisetion Ellmauer et Mucina 1993,,G214-GY6520,!= tab34,Erlautal,L. Bofinger,,0,0,0,158,158,158,,,5,5,SF_Fischhaus 2
+nber160,90,15,85,15,1,meadow,ENE,13,moderate,0,2024-05-24,48.655882,13.437253,5,345,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,Erlautal,L. Bofinger,,0,0,0,159,159,159,,,5,5,SF_Fischhaus 3
+nber161,95,20,80,50,1,meadow,NNE,19,moderate,0,2024-05-24,48.655758,13.436288,5,364,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G214-GU651E,,Erlautal,L. Bofinger,,0,0,0,160,160,160,,,5,5,SF_Fuschhaus 4
+nber162,99,20,80,70,1,meadow,NE,20,moderate,0,2024-05-24,48.656159,13.437021,5,341,MOL-01A,Arrhenatherion elatioris Luquet 1926,,G212-GU651L,,Erlautal,L. Bofinger,,0,0,0,161,161,161,,,5,5,SF_Fischhaus 5
