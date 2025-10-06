@@ -1,0 +1,43 @@
+taxon,abbr,layer,1,2,3
+Sorbus aria,sorb aria,sl,1a,1a,1a
+Juniperus communis subsp. communis,juni comm comm,sl,1a,,
+Amelanchier ovalis,amel oval,sl,+,1b,2a
+Picea abies,pice abie,sl,,+,
+Rhamnus cathartica,rham cath,sl,,,1a
+Sesleria caerulea,sesl caer,hl,2b,1a,1b
+Carex humilis,care humi,hl,2a,2b,2a
+Juniperus sabina,juni sabi,hl,2a,2a,2b
+Teucrium chamaedrys,teuc cham,hl,2a,,+
+Helianthemum nummularium,heli numm slat,hl,1b,1b,1b
+Galium lucidum,gali luci,hl,1a,1a,1b
+Euphorbia cyparissias,euph cypa,hl,1a,+,1b
+Hippocrepis comosa,hipp como,hl,1a,+,+
+Globularia cordifolia,glob cord,hl,+,2a,2b
+Teucrium montanum,teuc mont,hl,+,1a,+
+Thymus praecox subsp. polytrichus,thym prae poly,hl,+,1a,+
+Amelanchier ovalis,amel oval,hl,+,+,+
+Anthericum ramosum,anth ramo,hl,+,+,+
+Erysimum sylvestris,erys sylv,hl,+,+,+
+Fraxinus excelsior,frax exce,hl,+,+,+
+Jovibarba globifera subsp. hirtum,jovi glob hirt,hl,+,+,+
+Polygonatum odoratum,poly odor,hl,+,+,+
+Seseli libanotis,sese liba liba,hl,+,+,+
+Vincetoxicum hirundinaria,vinc hiru,hl,+,+,+
+Coronilla vaginalis,coro vagi,hl,+,+,
+Lotus corniculatus,lotu corn slat,hl,+,,+
+Berberis vulgaris,berb vulg,hl,+,,
+Cuscuta epityhmum,cusc epit epit,hl,+,,
+Erica carnea,eric carn,hl,+,,
+Galium album,gali albu,hl,+,,
+Potentilla pusilla,pote pusi,hl,+,,
+Rhamnus cathartica,rham cath,hl,+,,
+Rosa canina agg.,rosa cani aggr,hl,+,,
+Sorbus aria,sorb aria,hl,+,,
+Thesium alpinum,thes alpi,hl,+,,
+Hypericum perforatum,hype perf,hl,r,,
+Platanthera bifolia,plat bifo,hl,r,,
+Festuca versicolor subsp. pallidula,fest vers pall,hl,,1a,+
+Cotoneaster integerrimus,coto inte,hl,,+,1a
+Thalictrum minus,thal minu slat,hl,,+,1a
+Scabiosa columbaria,scab colu,hl,,+,+
+Leontodon incanus,leon inca,hl,,+,

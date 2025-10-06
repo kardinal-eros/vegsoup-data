@@ -1,0 +1,50 @@
+BEGIN HEAD
+plot                                    123
+richness                                322
+                                        366
+                                           
+END HEAD
+BEGIN TABLE
+Sorbus aria s.str.                   sl 111
+Juniperus communis ssp. communis        1..
+Amelanchier ovalis                      +22
+Picea abies                             .+.
+Rhamnus cathartica                      ..1
+Sesleria caerulea s.str.             hl 212
+Carex humilis                           222
+Juniperus sabina                        222
+Teucrium chamaedrys ssp. chamaedrys     2.+
+Helianthemum nummularium s.lat.         222
+Galium lucidum                          112
+Euphorbia cyparissias                   1+2
+Hippocrepis comosa                      1++
+Globularia cordifolia s.str.            +22
+Teucrium montanum                       +1+
+Thymus praecox ssp. polytrichus         +1+
+Amelanchier ovalis                      +++
+Anthericum ramosum                      +++
+Erysimum sylvestre s.str.               +++
+Fraxinus excelsior                      +++
+Jovibarba globifera ssp. hirta          +++
+Polygonatum odoratum                    +++
+Seseli libanotis ssp. libanotis         +++
+Vincetoxicum hirundinaria               +++
+Coronilla vaginalis                     ++.
+Lotus corniculatus s.lat.               +.+
+Berberis vulgaris                       +..
+Cuscuta epithymum ssp. epithymum        +..
+Erica carnea                            +..
+Galium album s.str.                     +..
+Potentilla pusilla                      +..
+Rhamnus cathartica                      +..
+Rosa canina agg.                        +..
+Sorbus aria s.str.                      +..
+Thesium alpinum                         +..
+Hypericum perforatum                    r..
+Platanthera bifolia                     r..
+Festuca versicolor ssp. pallidula       .1+
+Cotoneaster integerrimus                .+1
+Thalictrum minus s.lat.                 .+1
+Scabiosa columbaria s.str.              .++
+Leontodon incanus                       .+.
+END TABLE
