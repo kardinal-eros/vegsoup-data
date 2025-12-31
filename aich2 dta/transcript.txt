@@ -1,0 +1,82 @@
+BEGIN HEAD
+plot                                              wwww
+                                                  iiii
+                                                  aaaa
+                                                  iiii
+                                                  0000
+                                                  1234
+richness                                          5434
+                                                  4340
+                                                      
+END HEAD
+BEGIN TABLE
+Achillea millefolium s.str.                    hl +.++
+Agrostis capillaris                               111.
+Alchemilla monticola                              +..r
+Anthoxanthum odoratum s.str.                      2232
+Arrhenatherum elatius                             12r1
+Bellis perennis                                   ++..
+Briza media                                       12++
+Campanula patula ssp. patula                      +1r.
+Carex muricata s.str.                             ++.+
+Carex pallescens                                  1..+
+Carex sylvatica ssp. sylvatica                    +..+
+Centaurea jacea ssp. jacea                        1.33
+Cerastium holosteoides                            ++++
+Crepis biennis                                    rr..
+Cynosurus cristatus                               1rr1
+Dactylis glomerata ssp. glomerata                 11.1
+Daucus carota ssp. carota                         1...
+Dianthus carthusianorum ssp. carthusianorum       21..
+Festuca pratensis s.str.                          1.11
+Festuca rubra ssp. rubra                          2222
+Festuca stricta ssp. trachyphylla                 ++..
+Galium album s.str.                               11+1
+Galium verum s.str.                               1+..
+Glechoma hederacea                                ++..
+Holcus lanatus                                    211+
+Homalotrichon pubescens ssp. pubescens            1..2
+Koeleria pyramidata var. pyramidata               +...
+Leontodon hispidus ssp. hispidus                  1122
+Leucanthemum ircutianum                           2+.+
+Lolium perenne                                    +1+.
+Lotus corniculatus s.str.                         11.1
+Luzula campestris s.str.                          +.22
+Lysimachia nemorum                                +...
+Medicago lupulina                                 ++..
+Oenothera biennis agg.                            rr..
+Phleum pratense s.str.                            11.+
+Plantago lanceolata                               1222
+Plantago media                                    ++..
+Poa angustifolia                                  1221
+Poa pratensis                                     21.+
+Prunella vulgaris                                 +.2+
+Ranunculus acris ssp. acris                       1+22
+Rhinanthus alectorolophus ssp. alectorolophus     +++.
+Rhinanthus minor                                  2++.
+Salvia pratensis ssp. pratensis                   2...
+Sanguisorba minor ssp. minor                      +r..
+Silene vulgaris ssp. vulgaris                     +r..
+Trifolium pratense ssp. pratense                  2211
+Trifolium repens ssp. repens                      1.1.
+Trisetum flavescens ssp. flavescens               2222
+Verbascum nigrum                                  ++..
+Veronica chamaedrys ssp. chamaedrys               ++1+
+Veronica serpyllifolia ssp. serpyllifolia         +.+.
+Vicia sepium                                      ++..
+Calystegia sepium s.str.                          .r..
+Lathyrus pratensis ssp. pratensis                 .+..
+Scabiosa columbaria s.str.                        .r..
+Verbascum thapsus s.str.                          .r..
+Alopecurus pratensis                              ..21
+Luzula multiflora s.str.                          ..1+
+Lychnis flos-cuculi                               ..+.
+Pimpinella major var. major                       ..++
+Ranunculus repens                                 ..1+
+Rumex acetosa                                     ..1+
+Taraxacum sect. Ruderalia                         ..1+
+Ajuga reptans                                     ...+
+Carex caryophyllea                                ...1
+Knautia arvensis ssp. arvensis                    ...1
+Potentilla erecta                                 ...+
+END TABLE

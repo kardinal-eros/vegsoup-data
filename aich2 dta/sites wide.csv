@@ -1,0 +1,5 @@
+plot,cov,t1cov,t2cov,scov,hcov,mcov,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,rock,bare,stones,date,latitude,longitude,accuracy,elevation,type,alliance.code,alliance,association,soil,comment,location,observer
+wiai01,98,0,0,0,95,60,0,0,0,"0,8","0,05",4,4,W,5,0,2,0,2025-05-19,47.775352,13.386095,10,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Winkl,Aich,St. gilgen",T. Eberl
+wiai02,99,0,0,0,90,85,0,0,0,"0,8","0,05",4,4,W,5,0,1,0,2025-05-19,47.775429,13.386061,10,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Winkl,Aich,St. gilgen",T. Eberl
+wiai03,98,0,0,0,96,40,0,0,0,"0,9","0,05",4,4,W,5,0,2,0,2025-05-19,47.775185,13.385885,10,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Winkl,Aich,St. gilgen",T. Eberl
+wiai04,99,0,0,0,97,50,0,0,0,"0,75","0,05",4,4,W,5,0,1,0,2025-05-20,47.775206,13.386206,10,,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,,"Winkl,Aich,St. gilgen",T. Eberl
