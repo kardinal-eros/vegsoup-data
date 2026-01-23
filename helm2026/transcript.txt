@@ -1,7 +1,7 @@
 BEGIN HEAD
 plot                                    123
 accuracy                                111
-                                        555
+                                        000
                                            
 altitude                                888
                                         666
@@ -29,7 +29,7 @@ scov                                      1
                                         550
                                            
 slope                                   777
-                                        000
+                                        555
                                            
 soil                                    535
                                            
