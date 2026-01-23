@@ -10,19 +10,19 @@ imm08,100,0,0,0,100,40,0,0,0,"1,3","0,4",4,4,F,0,0,0,0,2024-06-08,48.180947,12.3
 imm09,100,0,0,0,95,20,0,0,0,1,"0,3",8,2,F,0,0,0,0,2024-06-08,48.181960,12.392332,5,,A6,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
 imm10,100,0,0,0,90,85,0,0,0,"1,1","0,25",4,4,F,0,0,0,0,2024-06-08,48.182452,12.393247,5,,A6,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
 imm11,100,0,0,0,100,3,0,0,0,"1,4","0,6",4,4,F,0,0,0,0,2024-06-08,48.182558,12.393645,5,,A6,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G212-GU651L
-imm12,100,0,0,0,80,97,0,0,0,"0,65","0,1",4,4,F,0,0,0,0,2025-06-07,48.251178,12.549787,5,,A13,meadow,,,,,Mühldorf am Inn,R. Kaiser,
-imm13,97,0,0,0,95,20,0,0,0,1,"0,25",4,4,F,0,0,0,0,2025-06-07,48.251245,12.550313,5,,A13,meadow,,,,,Mühldorf am Inn,R. Kaiser,
-imm14,97,0,0,0,75,85,0,0,0,"0,6","0,1",4,4,F,0,0,0,0,2025-06-07,48.251440,12.551217,5,,A13,meadow,,,,,Mühldorf am Inn,R. Kaiser,
-imm15,100,0,0,0,100,3,0,0,0,"1,2","0,45",4,4,NW,35,0,0,0,2025-06-07,48.174344,12.363716,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm16,100,0,0,0,100,3,0,0,0,"1,1","0,5",8,2,SE,30,0,0,0,2025-06-07,48.174176,12.363582,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm17,100,0,0,0,90,30,0,0,0,"0,6","0,3",4,4,NW,35,0,0,0,2025-06-07,48.173276,12.361333,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm18,95,0,0,0,85,10,0,0,0,"0,9","0,35",8,2,SE,35,0,0,0,2025-06-07,48.172299,12.359286,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm19,100,0,0,0,99,15,0,0,0,"1,1","0,6",4,4,E,37,0,0,0,2025-06-20,48.237745,12.462957,5,,A21-1,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm20,95,0,0,0,90,40,0,0,0,"1,2","0,35",4,4,E,37,0,0,0,2025-06-20,48.235864,12.462354,5,,A21-1,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm21,95,0,0,0,85,50,0,0,0,"1,1","0,25",4,4,E,37,0,0,0,2025-06-20,48.234028,12.461837,5,,A21-1,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm22,97,0,0,0,93,45,0,0,0,"1,1","0,35",4,4,E,37,0,0,0,2025-06-20,48.232151,12.461241,5,,A21-1,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm23,100,0,0,0,97,30,0,0,0,"1,3","0,45",4,4,E,37,0,0,0,2025-06-20,48.230152,12.460756,5,,A21-1,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm24,99,0,0,0,99,30,0,0,0,"1,1","0,25",4,4,SSE,35,0,0,0,2025-06-20,48.178635,12.373432,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm25,100,0,0,0,95,65,0,0,0,"0,9","0,2",4,4,SE,40,0,0,0,2025-06-20,48.177276,12.370898,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm26,95,0,0,0,87,40,0,0,0,"0,9","0,25",4,4,SE,40,0,0,0,2025-06-20,48.176573,12.370223,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
-imm27,97,0,0,0,95,80,0,0,0,"1,2","0,4",8,2,MW,35,0,0,0,2025-06-20,48.175268,12.368806,5,,A20,meadow,,,,,Waldkraiburg,R. Kaiser,
+imm12,100,0,0,0,80,97,0,0,0,"0,65","0,1",4,4,F,0,0,0,0,2025-06-07,48.251178,12.549787,5,,A13,meadow,FES-01A,Bromion erecti Koch 1926,,,Mühldorf am Inn,R. Kaiser,G312-GT6210
+imm13,97,0,0,0,95,20,0,0,0,1,"0,25",4,4,F,0,0,0,0,2025-06-07,48.251245,12.550313,5,,A13,meadow,FES-01A,Bromion erecti Koch 1926,,,Mühldorf am Inn,R. Kaiser,G312-GT6210
+imm14,97,0,0,0,75,85,0,0,0,"0,6","0,1",4,4,F,0,0,0,0,2025-06-07,48.251440,12.551217,5,,A13,meadow,FES-01A,Bromion erecti Koch 1926,,,Mühldorf am Inn,R. Kaiser,G312-GT6210
+imm15,100,0,0,0,100,3,0,0,0,"1,2","0,45",4,4,NW,35,0,0,0,2025-06-07,48.174344,12.363716,5,,A20,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G212-GU651L
+imm16,100,0,0,0,100,3,0,0,0,"1,1","0,5",8,2,SE,30,0,0,0,2025-06-07,48.174176,12.363582,5,,A20,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
+imm17,100,0,0,0,90,30,0,0,0,"0,6","0,3",4,4,NW,35,0,0,0,2025-06-07,48.173276,12.361333,5,,A20,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G214-GU651E
+imm18,95,0,0,0,85,10,0,0,0,"0,9","0,35",8,2,SE,35,0,0,0,2025-06-07,48.172299,12.359286,5,,A20,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
+imm19,100,0,0,0,99,15,0,0,0,"1,1","0,6",4,4,E,37,0,0,0,2025-06-20,48.237745,12.462957,5,,A21-1,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G214-GU651L
+imm20,95,0,0,0,90,40,0,0,0,"1,2","0,35",4,4,E,37,0,0,0,2025-06-20,48.235864,12.462354,5,,A21-1,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G214-GU651E
+imm21,95,0,0,0,85,50,0,0,0,"1,1","0,25",4,4,E,37,0,0,0,2025-06-20,48.234028,12.461837,5,,A21-1,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G214-GU651E
+imm22,97,0,0,0,93,45,0,0,0,"1,1","0,35",4,4,E,37,0,0,0,2025-06-20,48.232151,12.461241,5,,A21-1,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G214-GU651E
+imm23,100,0,0,0,97,30,0,0,0,"1,3","0,45",4,4,E,37,0,0,0,2025-06-20,48.230152,12.460756,5,,A21-1,meadow,MOL-01A,Arrhenatherion elatioris Luquet 1926,,,Waldkraiburg,R. Kaiser,G214-GU651E
+imm24,99,0,0,0,99,30,0,0,0,"1,1","0,25",4,4,SSE,35,0,0,0,2025-06-20,48.178635,12.373432,5,,A20,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
+imm25,100,0,0,0,95,65,0,0,0,"0,9","0,2",4,4,SE,40,0,0,0,2025-06-20,48.177276,12.370898,5,,A20,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
+imm26,95,0,0,0,87,40,0,0,0,"0,9","0,25",4,4,SE,40,0,0,0,2025-06-20,48.176573,12.370223,5,,A20,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
+imm27,97,0,0,0,95,80,0,0,0,"1,2","0,4",8,2,MW,35,0,0,0,2025-06-20,48.175268,12.368806,5,,A20,meadow,FES-01A,Bromion erecti Koch 1926,,,Waldkraiburg,R. Kaiser,G312-GT6210
