@@ -1,4 +1,4 @@
-plot,cov,tcov1,tcov2,scov,hcov,mcov,soil,stones,rock,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,date,soil,alliance,association,comment,altitude,latitude,longitude,accuracy,location,observer
-1,,,,,,,,,,,,,,,,,,,2023-01-01,,unclassified,unclassified,,,47.82105,15.70455,,Falkenstein,N. Helm
-2,,,,,,,,,,,,,,,,,,,2023-01-01,,unclassified,unclassified,,,47.82105,15.70455,,Falkenstein,N. Helm
-3,,,,,,,,,,,,,,,,,,,2023-01-01,,unclassified,unclassified,,,47.82105,15.70455,,Falkenstein,N. Helm
+plot,cov,tcov1,tcov2,scov,hcov,mcov,soil,litter,rock,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,date,soil,alliance,association,comment,altitude,latitude,longitude,accuracy,location,observer
+1,75,0,0,5,70,,5,5,10,0,,,,,5,5,SSW,70,2025-05-26,,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,unclassified,plot with 3m radius,860,47.821043,15.704526,15,Falkenstein,N. Helm
+2,50,0,0,5,45,,3,10,40,0,,,,,5,5,SSW,70,2025-05-26,,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,unclassified,plot with 3m radius,860,47.821043,15.704526,15,Falkenstein,N. Helm
+3,50,0,0,10,45,,5,5,50,0,,,,,5,5,SSW,70,2025-05-26,,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,unclassified,plot with 3m radius,860,47.821043,15.704526,15,Falkenstein,N. Helm
