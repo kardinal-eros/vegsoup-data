@@ -1,0 +1,4 @@
+plot,cov,tcov1,tcov2,scov,hcov,mcov,soil,litter,rock,htl1,htl2,hsl,hhl1,hhl2,plsx,plsy,expo,slope,date,soil,alliance,association,comment,altitude,latitude,longitude,accuracy,location,observer
+1,75,0,0,5,70,,5,5,10,0,,,,,5,5,W,75,2025-05-26,,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,unclassified,plot with 3m radius,860,47.819666,15.706888,10,Falkenstein,N. Helm
+2,50,0,0,5,45,,3,10,40,0,,,,,5,5,S,75,2025-05-26,,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,unclassified,plot with 3m radius,860,47.821000,15.704333,10,Falkenstein,N. Helm
+3,50,0,0,10,45,,5,5,50,0,,,,,5,5,SSE,75,2025-05-26,,Berberidion vulgaris Br.-Bl. ex Tx. 1952 nom. conserv. propos.,unclassified,plot with 3m radius,860,47.820972,15.704611,10,Falkenstein,N. Helm

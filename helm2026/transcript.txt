@@ -1,5 +1,42 @@
 BEGIN HEAD
 plot                                    123
+accuracy                                111
+                                        000
+                                           
+altitude                                888
+                                        666
+                                        000
+                                           
+cov                                     755
+                                        500
+                                           
+hcov                                    744
+                                        055
+                                           
+htl1                                    000
+                                           
+litter                                   1 
+                                        505
+                                           
+plsx                                    555
+                                           
+plsy                                    555
+                                           
+rock                                    145
+                                        000
+                                           
+scov                                      1
+                                        550
+                                           
+slope                                   777
+                                        555
+                                           
+soil                                    535
+                                           
+tcov1                                   000
+                                           
+tcov2                                   000
+                                           
 richness                                322
                                         366
                                            

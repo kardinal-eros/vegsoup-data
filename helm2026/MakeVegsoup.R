@@ -1,7 +1,7 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "~/Documents/vegsoup-data/helm2025"
+path <- "~/Documents/vegsoup-data/helm2026"
 bib <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8"); key <- bib$key
 key <- bib$key
 key <- key[[1]]
