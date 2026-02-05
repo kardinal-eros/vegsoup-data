@@ -1,7 +1,7 @@
 library(vegsoup)
 require(bibtex)
 
-path <- "/Users/roli/Documents/vegsoup-data/mittergars-mühldorf dta"
+path <- "~/Documents/vegsoup-data/mittergars-mühldorf dta"
 key <- read.bib(file.path(path, "references.bib"), encoding = "UTF-8")$key
 
 #	cd '/Users/roli/Dropbox/ENNACON/projekte/töging/dta/relevees'
